@@ -1,0 +1,157 @@
+{
+  "classe": "3ª media",
+  "materia": "Matematica",
+  "missioni": [
+    {
+      "id": "lib-3-media-pitagora",
+      "classe": "3ª media",
+      "titolo": "Il segreto di Pitagora",
+      "materia": "Matematica",
+      "parola": "CATETO",
+      "parola_spiegazione": "«Cateto» viene dal greco kàthetos, che significa «perpendicolare»: i due cateti di un triangolo rettangolo sono infatti perpendicolari e formano l'angolo retto.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Il triangolo rettangolo",
+          "sintesi": "Un triangolo rettangolo ha un angolo retto (90°). I due lati che formano l'angolo retto sono i cateti; il lato opposto all'angolo retto è l'ipotenusa, che è sempre il lato più lungo."
+        },
+        {
+          "id": "c2",
+          "nome": "L'enunciato del teorema",
+          "sintesi": "In ogni triangolo rettangolo il quadrato costruito sull'ipotenusa è equivalente alla somma dei quadrati costruiti sui due cateti. Il teorema vale solo per i triangoli rettangoli."
+        },
+        {
+          "id": "c3",
+          "nome": "Calcolare l'ipotenusa",
+          "sintesi": "Si elevano al quadrato i due cateti, si sommano e si estrae la radice quadrata: con cateti di 6 cm e 8 cm, l'ipotenusa è √(36 + 64) = √100 = 10 cm."
+        },
+        {
+          "id": "c4",
+          "nome": "Calcolare un cateto",
+          "sintesi": "Dal quadrato dell'ipotenusa si sottrae il quadrato del cateto noto e si estrae la radice quadrata: con ipotenusa di 13 cm e un cateto di 5 cm, l'altro cateto è √(169 − 25) = √144 = 12 cm."
+        },
+        {
+          "id": "c5",
+          "nome": "Terne pitagoriche e applicazioni",
+          "sintesi": "Le terne pitagoriche sono tre numeri interi che rispettano il teorema, come 3, 4, 5 o 5, 12, 13. Vale anche il contrario: se i tre lati rispettano il teorema, il triangolo è rettangolo."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Un triangolo rettangolo ha i lati lunghi 7 cm, 24 cm e 25 cm. Quale lato è l'ipotenusa?",
+          "opzioni": [
+            "Il lato di 7 cm",
+            "Il lato di 25 cm",
+            "Il lato di 24 cm",
+            "Dipende da come giri il triangolo"
+          ],
+          "corretta": 1,
+          "indizio": "L'ipotenusa sta di fronte all'angolo più grande del triangolo.",
+          "spiegazione": "L'ipotenusa è opposta all'angolo retto, l'angolo più grande: per questo è sempre il lato più lungo, qui 25 cm, comunque giri il triangolo.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c2",
+          "testo": "Il teorema di Pitagora vale per qualsiasi triangolo, anche se non ha un angolo retto.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 1,
+          "indizio": "Ripensa a come si chiamano i lati nel teorema: esistono cateti e ipotenusa in ogni triangolo?",
+          "spiegazione": "Il teorema vale solo per i triangoli rettangoli: se il triangolo non ha un angolo retto, il quadrato del lato maggiore non è uguale alla somma dei quadrati degli altri due.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c2",
+          "testo": "In un triangolo rettangolo, il quadrato costruito sull'ipotenusa è equivalente alla ___ dei quadrati costruiti sui cateti.",
+          "opzioni": [
+            "differenza",
+            "metà",
+            "prodotto",
+            "somma"
+          ],
+          "corretta": 3,
+          "indizio": "Il quadrato dell'ipotenusa è il più grande: che cosa devi fare con gli altri due quadrati per ottenerlo?",
+          "spiegazione": "Il teorema dice che l'area del quadrato sull'ipotenusa è uguale alla somma delle aree dei quadrati sui due cateti.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "I cateti di un triangolo rettangolo misurano 9 cm e 12 cm. Quanto misura l'ipotenusa?",
+          "opzioni": [
+            "15 cm",
+            "21 cm",
+            "225 cm",
+            "10,5 cm"
+          ],
+          "corretta": 0,
+          "indizio": "Eleva al quadrato i due cateti, sommali e non dimenticare l'ultimo passaggio.",
+          "spiegazione": "9² + 12² = 81 + 144 = 225 e √225 = 15 cm. Sommare semplicemente 9 + 12 non funziona.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c4",
+          "testo": "Un triangolo rettangolo ha l'ipotenusa di 17 cm e un cateto di 8 cm. Metti in ordine i passaggi per trovare l'altro cateto.",
+          "opzioni": [
+            "Eleva al quadrato: 17² = 289 e 8² = 64",
+            "Sottrai: 289 − 64 = 225",
+            "Estrai la radice quadrata: √225 = 15 cm",
+            "Controlla: 8² + 15² deve dare 17²"
+          ],
+          "corretta": -1,
+          "indizio": "Per trovare un cateto si parte dai quadrati e si chiude sempre con una verifica.",
+          "spiegazione": "Dal quadrato dell'ipotenusa si toglie il quadrato del cateto noto e si estrae la radice: l'altro cateto è 15 cm, e infatti 64 + 225 = 289.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Una scala lunga 5 m è appoggiata a un muro e il suo piede è a 3 m dalla base del muro. A che altezza arriva la scala sul muro?",
+          "opzioni": [
+            "2 m",
+            "8 m",
+            "4 m",
+            "5,8 m"
+          ],
+          "corretta": 2,
+          "indizio": "Fai un disegno: la scala è l'ipotenusa, il muro e il pavimento sono i cateti.",
+          "spiegazione": "La scala è l'ipotenusa, quindi l'altezza è un cateto: √(5² − 3²) = √(25 − 9) = √16 = 4 m.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c5",
+          "testo": "Quale di questi gruppi di misure può essere quello dei lati di un triangolo rettangolo?",
+          "opzioni": [
+            "4 cm, 5 cm, 6 cm",
+            "5 cm, 7 cm, 9 cm",
+            "2 cm, 3 cm, 4 cm",
+            "6 cm, 8 cm, 10 cm"
+          ],
+          "corretta": 3,
+          "indizio": "Per ogni gruppo, confronta il quadrato del lato maggiore con la somma dei quadrati degli altri due.",
+          "spiegazione": "6² + 8² = 36 + 64 = 100 = 10²: è il doppio della terna pitagorica 3, 4, 5. Negli altri gruppi i conti non tornano.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c5",
+          "testo": "Un muratore vuole controllare che l'angolo tra due muri sia proprio retto. Segna un punto a 3 m dall'angolo su un muro e uno a 4 m sull'altro. Spiega con parole tue come può usare il teorema di Pitagora per verificarlo.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Pensa alla terna pitagorica più famosa e a quale misura manca.",
+          "spiegazione": "Vale anche il contrario del teorema: se i tre lati rispettano la relazione di Pitagora, il triangolo è rettangolo. È la «regola del 3-4-5» usata davvero nei cantieri.",
+          "risposta_modello": "Deve misurare la distanza tra i due punti segnati: se è esattamente 5 m l'angolo è retto, perché 3² + 4² = 9 + 16 = 25 = 5² (la terna pitagorica 3, 4, 5). Se la distanza non è 5 m, l'angolo non è retto."
+        }
+      ]
+    }
+  ]
+}

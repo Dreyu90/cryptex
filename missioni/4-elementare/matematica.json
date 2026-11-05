@@ -1,0 +1,152 @@
+{
+  "classe": "4ª elementare",
+  "materia": "Matematica",
+  "missioni": [
+    {
+      "id": "lib-4-elementare-frazioni",
+      "classe": "4ª elementare",
+      "titolo": "Fette, pezzi e frazioni",
+      "materia": "Matematica",
+      "parola": "INTERO",
+      "parola_spiegazione": "L'intero è il tutto da cui partono le frazioni: una torta, una pizza o un gruppo di figurine, diviso in parti uguali.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Parti uguali di un intero",
+          "sintesi": "Una frazione indica una o più parti uguali di un intero. Se le parti non sono uguali, non si può parlare di frazione."
+        },
+        {
+          "id": "c2",
+          "nome": "Numeratore e denominatore",
+          "sintesi": "Il denominatore, sotto la linea, dice in quante parti uguali è diviso l'intero; il numeratore, sopra la linea, dice quante parti si prendono."
+        },
+        {
+          "id": "c3",
+          "nome": "Confrontare le frazioni",
+          "sintesi": "Con lo stesso denominatore è più grande la frazione con il numeratore maggiore. Con lo stesso numeratore, più è grande il denominatore, più è piccola la parte: 1/8 è minore di 1/4."
+        },
+        {
+          "id": "c4",
+          "nome": "La frazione di un numero",
+          "sintesi": "Per calcolare la frazione di un numero si divide il numero per il denominatore e si moltiplica il risultato per il numeratore: 3/4 di 20 = 20 : 4 × 3 = 15."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Una torta è divisa in 6 parti uguali e tu ne mangi 1. Quale frazione della torta hai mangiato?",
+          "opzioni": [
+            "1/6",
+            "6/1",
+            "1/5",
+            "5/6"
+          ],
+          "corretta": 0,
+          "indizio": "Il numero sotto la linea dice in quante parti è divisa la torta.",
+          "spiegazione": "La torta è divisa in 6 parti uguali e tu ne hai presa 1: la frazione è 1/6. I 5/6 sono le fette rimaste.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c1",
+          "testo": "Per parlare di frazioni, l'intero deve essere diviso in parti uguali.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 0,
+          "indizio": "Se tagli una pizza in 4 pezzi tutti diversi, ogni pezzo è davvero un quarto?",
+          "spiegazione": "Una frazione indica parti uguali dell'intero: se i pezzi sono diversi, non si può dire che ognuno è 1/4.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c2",
+          "testo": "Nella frazione 3/8, il numero 8 si chiama ___.",
+          "opzioni": [
+            "numeratore",
+            "denominatore",
+            "quoziente",
+            "intero"
+          ],
+          "corretta": 1,
+          "indizio": "Il numero sotto la linea dice in quante parti è diviso l'intero: come si chiama?",
+          "spiegazione": "L'8 sta sotto la linea di frazione ed è il denominatore: dice che l'intero è diviso in 8 parti uguali. Il 3, sopra, è il numeratore.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "In un astuccio ci sono 10 pastelli e 3 sono rossi. Quale frazione dei pastelli è rossa?",
+          "opzioni": [
+            "10/3",
+            "7/10",
+            "1/3",
+            "3/10"
+          ],
+          "corretta": 3,
+          "indizio": "Prima conta tutti i pastelli: sono il tuo intero.",
+          "spiegazione": "I pastelli sono 10 in tutto (denominatore) e quelli rossi sono 3 (numeratore): 3/10. I 7/10 sono invece i pastelli non rossi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "Hai tanta fame! Quale parte della stessa torta ti conviene scegliere?",
+          "opzioni": [
+            "1/8",
+            "1/4",
+            "1/2",
+            "1/3"
+          ],
+          "corretta": 2,
+          "indizio": "Immagina di dividere la stessa torta tra 2 amici oppure tra 8 amici: quando le fette sono più grandi?",
+          "spiegazione": "Più è piccolo il denominatore, più sono grandi le parti: 1/2 è metà torta, mentre 1/8 è una fetta piccola.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c4",
+          "testo": "Metti in ordine i passaggi per calcolare i 3/4 di 20 figurine.",
+          "opzioni": [
+            "Divido 20 per il denominatore 4",
+            "Ottengo 5: è 1/4 di 20",
+            "Moltiplico 5 per il numeratore 3",
+            "Ottengo 15: sono i 3/4 di 20"
+          ],
+          "corretta": -1,
+          "indizio": "Prima trova quanto vale una sola parte, cioè 1/4.",
+          "spiegazione": "Si divide per il denominatore (20 : 4 = 5) e poi si moltiplica per il numeratore (5 × 3 = 15).",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "La mamma ha 30 euro e ne spende i 2/5 al mercato. Quanti euro spende?",
+          "opzioni": [
+            "6",
+            "15",
+            "12",
+            "18"
+          ],
+          "corretta": 2,
+          "indizio": "Calcola prima quanto vale 1/5 di 30 euro.",
+          "spiegazione": "1/5 di 30 è 30 : 5 = 6 euro, quindi i 2/5 sono 6 × 2 = 12 euro. Le restano 18 euro.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c3",
+          "testo": "Perché 1/8 di una torta è più piccolo di 1/4 della stessa torta, anche se 8 è più grande di 4?",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Pensa a che cosa indica il denominatore e immagina di tagliare la torta.",
+          "spiegazione": "Il denominatore indica in quante parti uguali si divide l'intero: più parti ci sono, più ogni parte è piccola.",
+          "risposta_modello": "Perché il denominatore dice in quante parti uguali si divide la torta. Se la divido in 8 parti, ogni fetta è più piccola che se la divido in 4. Quindi, con lo stesso numeratore, più grande è il denominatore e più piccola è la parte: 1/8 è la metà di 1/4."
+        }
+      ]
+    }
+  ]
+}

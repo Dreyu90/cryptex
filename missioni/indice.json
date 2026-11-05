@@ -1,0 +1,130 @@
+{
+  "aggiornato": "2026-11-05T19:48:15Z",
+  "classi": {
+    "1-elementare": {
+      "classe": "1ª elementare",
+      "materie": [
+        {
+          "slug": "matematica",
+          "nome": "Matematica",
+          "n": 1
+        },
+        {
+          "slug": "scienze",
+          "nome": "Scienze",
+          "n": 1
+        }
+      ]
+    },
+    "2-elementare": {
+      "classe": "2ª elementare",
+      "materie": [
+        {
+          "slug": "matematica",
+          "nome": "Matematica",
+          "n": 1
+        },
+        {
+          "slug": "scienze",
+          "nome": "Scienze",
+          "n": 1
+        }
+      ]
+    },
+    "3-elementare": {
+      "classe": "3ª elementare",
+      "materie": [
+        {
+          "slug": "italiano",
+          "nome": "Italiano",
+          "n": 1
+        },
+        {
+          "slug": "scienze",
+          "nome": "Scienze",
+          "n": 1
+        },
+        {
+          "slug": "storia",
+          "nome": "Storia",
+          "n": 1
+        }
+      ]
+    },
+    "4-elementare": {
+      "classe": "4ª elementare",
+      "materie": [
+        {
+          "slug": "matematica",
+          "nome": "Matematica",
+          "n": 1
+        },
+        {
+          "slug": "storia",
+          "nome": "Storia",
+          "n": 1
+        }
+      ]
+    },
+    "5-elementare": {
+      "classe": "5ª elementare",
+      "materie": [
+        {
+          "slug": "scienze",
+          "nome": "Scienze",
+          "n": 1
+        },
+        {
+          "slug": "storia",
+          "nome": "Storia",
+          "n": 1
+        }
+      ]
+    },
+    "1-media": {
+      "classe": "1ª media",
+      "materie": [
+        {
+          "slug": "scienze",
+          "nome": "Scienze",
+          "n": 1
+        },
+        {
+          "slug": "storia",
+          "nome": "Storia",
+          "n": 1
+        }
+      ]
+    },
+    "2-media": {
+      "classe": "2ª media",
+      "materie": [
+        {
+          "slug": "matematica",
+          "nome": "Matematica",
+          "n": 1
+        },
+        {
+          "slug": "storia",
+          "nome": "Storia",
+          "n": 1
+        }
+      ]
+    },
+    "3-media": {
+      "classe": "3ª media",
+      "materie": [
+        {
+          "slug": "matematica",
+          "nome": "Matematica",
+          "n": 1
+        },
+        {
+          "slug": "storia",
+          "nome": "Storia",
+          "n": 1
+        }
+      ]
+    }
+  }
+}

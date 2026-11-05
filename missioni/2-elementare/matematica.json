@@ -1,0 +1,153 @@
+{
+  "classe": "2ª elementare",
+  "materia": "Matematica",
+  "missioni": [
+    {
+      "id": "lib-2-elementare-tabelline",
+      "classe": "2ª elementare",
+      "titolo": "Campioni di tabelline",
+      "materia": "Matematica",
+      "parola": "DOPPIO",
+      "parola_spiegazione": "Moltiplicare per 2 vuol dire fare il doppio: 2 × 8 è il doppio di 8, cioè 16!",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Moltiplicare è addizionare",
+          "sintesi": "La moltiplicazione è un'addizione ripetuta: 3 × 4 vuol dire 4 + 4 + 4, cioè 12."
+        },
+        {
+          "id": "c2",
+          "nome": "La tabellina del 2",
+          "sintesi": "Moltiplicare per 2 significa fare il doppio. I risultati sono tutti numeri pari: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20."
+        },
+        {
+          "id": "c3",
+          "nome": "La tabellina del 5",
+          "sintesi": "Si conta di 5 in 5: 5, 10, 15, 20, 25... I risultati finiscono sempre con 0 o con 5."
+        },
+        {
+          "id": "c4",
+          "nome": "La tabellina del 10",
+          "sintesi": "Moltiplicare per 10 vuol dire fare tante decine: basta aggiungere uno zero, per esempio 10 × 7 = 70."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "Quanto fa 2 × 6?",
+          "opzioni": [
+            "8",
+            "12",
+            "10",
+            "14"
+          ],
+          "corretta": 1,
+          "indizio": "Moltiplicare per 2 vuol dire fare il doppio.",
+          "spiegazione": "2 × 6 è il doppio di 6: 6 + 6 = 12.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c3",
+          "testo": "Tutti i risultati della tabellina del 5 finiscono con 0 o con 5.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 0,
+          "indizio": "Prova a contare di 5 in 5: 5, 10, 15...",
+          "spiegazione": "Contando di 5 in 5 si ottiene 5, 10, 15, 20, 25...: l'ultima cifra è sempre 5 oppure 0.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c1",
+          "testo": "L'addizione 4 + 4 + 4 si può scrivere come moltiplicazione: 3 × ___.",
+          "opzioni": [
+            "3",
+            "4",
+            "12",
+            "7"
+          ],
+          "corretta": 1,
+          "indizio": "Guarda quale numero si ripete e quante volte.",
+          "spiegazione": "Il 4 si ripete 3 volte, quindi 4 + 4 + 4 = 3 × 4 = 12.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Quanto fa 10 × 7?",
+          "opzioni": [
+            "17",
+            "77",
+            "70",
+            "700"
+          ],
+          "corretta": 2,
+          "indizio": "Pensa a 7 gruppi da 10, cioè 7 decine.",
+          "spiegazione": "10 × 7 vuol dire 7 decine, cioè 70: basta aggiungere uno zero al 7.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "Nel cortile ci sono 8 biciclette. Ogni bicicletta ha 2 ruote. Quante ruote ci sono in tutto?",
+          "opzioni": [
+            "10",
+            "18",
+            "14",
+            "16"
+          ],
+          "corretta": 3,
+          "indizio": "Ogni bicicletta ha le sue 2 ruote: quante volte devi contare il 2?",
+          "spiegazione": "Ci sono 8 gruppi da 2 ruote: 8 × 2 = 16, il doppio di 8. Fare 8 + 2 = 10 non basta, perché ogni bicicletta ha 2 ruote.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c1",
+          "testo": "Metti in ordine queste moltiplicazioni, dal risultato più piccolo al più grande.",
+          "opzioni": [
+            "2 × 3",
+            "5 × 2",
+            "2 × 7",
+            "10 × 2",
+            "5 × 5"
+          ],
+          "corretta": -1,
+          "indizio": "Calcola prima ogni risultato e scrivilo accanto.",
+          "spiegazione": "I risultati sono 6, 10, 14, 20 e 25: messi in fila vanno dal più piccolo al più grande.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "Quale di questi numeri NON può essere un risultato della tabellina del 5?",
+          "opzioni": [
+            "45",
+            "20",
+            "32",
+            "15"
+          ],
+          "corretta": 2,
+          "indizio": "Guarda l'ultima cifra di ogni numero.",
+          "spiegazione": "32 finisce con 2, quindi non è nella tabellina del 5. Gli altri sì: 45 = 5 × 9, 20 = 5 × 4, 15 = 5 × 3.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c1",
+          "testo": "Non ti ricordi quanto fa 2 × 9. Spiega come puoi trovare il risultato da solo.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Ricorda che la moltiplicazione è un'addizione ripetuta.",
+          "spiegazione": "Moltiplicare è come addizionare più volte lo stesso numero: 9 + 9 = 18, quindi 2 × 9 = 18.",
+          "risposta_modello": "Posso fare un'addizione ripetuta: 9 + 9 = 18. Oppure posso contare di 2 in 2 per 9 volte: 2, 4, 6, 8, 10, 12, 14, 16, 18. Il risultato è 18, il doppio di 9."
+        }
+      ]
+    }
+  ]
+}

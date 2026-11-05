@@ -1,0 +1,154 @@
+{
+  "classe": "5ª elementare",
+  "materia": "Scienze",
+  "missioni": [
+    {
+      "id": "lib-5-elementare-sistema-solare",
+      "classe": "5ª elementare",
+      "titolo": "In viaggio tra i pianeti",
+      "materia": "Scienze",
+      "parola": "ORBITA",
+      "parola_spiegazione": "L'orbita è il percorso che un pianeta compie intorno al Sole: la Terra impiega circa 365 giorni a percorrerla tutta.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Il Sole, la nostra stella",
+          "sintesi": "Il Sole è una stella, un'enorme sfera di gas caldissimi che produce luce e calore. Sta al centro del sistema solare e i pianeti gli girano intorno."
+        },
+        {
+          "id": "c2",
+          "nome": "Gli otto pianeti",
+          "sintesi": "Intorno al Sole girano otto pianeti: Mercurio, Venere, Terra e Marte sono rocciosi; Giove, Saturno, Urano e Nettuno sono giganti gassosi. Solo sulla Terra sappiamo che c'è vita."
+        },
+        {
+          "id": "c3",
+          "nome": "Rotazione e rivoluzione",
+          "sintesi": "La Terra gira su se stessa in circa 24 ore (rotazione: il dì e la notte) e intorno al Sole in circa 365 giorni (rivoluzione: un anno)."
+        },
+        {
+          "id": "c4",
+          "nome": "La Luna",
+          "sintesi": "La Luna è il satellite naturale della Terra: le gira intorno e non ha luce propria, ma riflette la luce del Sole."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Che cos'è il Sole?",
+          "opzioni": [
+            "Un pianeta",
+            "Una stella",
+            "Un satellite",
+            "Una cometa"
+          ],
+          "corretta": 1,
+          "indizio": "Produce luce e calore propri, come i puntini luminosi che vedi di notte.",
+          "spiegazione": "Il Sole è una stella: un'enorme sfera di gas caldissimi che produce luce e calore. È la stella più vicina a noi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c1",
+          "testo": "Il Sole gira intorno alla Terra.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 1,
+          "indizio": "Ogni giorno il Sole sembra muoversi nel cielo: ma chi si muove davvero?",
+          "spiegazione": "È la Terra che gira intorno al Sole. Il Sole sembra muoversi nel cielo perché la Terra ruota su se stessa.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c3",
+          "testo": "Il movimento della Terra su se stessa, che fa alternare il dì e la notte, si chiama ___.",
+          "opzioni": [
+            "rotazione",
+            "rivoluzione",
+            "orbita",
+            "eclissi"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa a una trottola che gira su se stessa.",
+          "spiegazione": "La rotazione dura circa 24 ore: la parte della Terra rivolta verso il Sole ha il dì, l'altra ha la notte.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "Quanto tempo impiega la Terra a fare un giro completo intorno al Sole?",
+          "opzioni": [
+            "Circa 24 ore",
+            "Circa 30 giorni",
+            "Circa 365 giorni",
+            "Circa 100 anni"
+          ],
+          "corretta": 2,
+          "indizio": "Questo giro dura quanto il tempo tra un tuo compleanno e il successivo.",
+          "spiegazione": "Il giro intorno al Sole si chiama rivoluzione e dura circa 365 giorni, cioè un anno. 24 ore è invece il tempo della rotazione.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Perché di notte vediamo la Luna brillare?",
+          "opzioni": [
+            "Produce luce propria come una stella",
+            "È coperta di ghiaccio luminoso",
+            "Riflette le luci delle città",
+            "Riflette la luce del Sole"
+          ],
+          "corretta": 3,
+          "indizio": "Pensa a uno specchio illuminato da una torcia.",
+          "spiegazione": "La Luna non ha luce propria: è illuminata dal Sole e ne riflette la luce verso la Terra, come uno specchio.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c2",
+          "testo": "Metti in ordine questi pianeti, dal più vicino al più lontano dal Sole.",
+          "opzioni": [
+            "Mercurio",
+            "Venere",
+            "Terra",
+            "Marte",
+            "Giove",
+            "Nettuno"
+          ],
+          "corretta": -1,
+          "indizio": "La Terra è il terzo pianeta; i pianeti giganti sono i più lontani.",
+          "spiegazione": "L'ordine dei pianeti è Mercurio, Venere, Terra, Marte, Giove, Saturno, Urano e infine Nettuno, il più lontano.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "Perché la Terra è l'unico pianeta del sistema solare dove sappiamo che esiste la vita?",
+          "opzioni": [
+            "Ha acqua liquida, aria e la giusta temperatura",
+            "È il pianeta più grande del sistema solare",
+            "È il pianeta più vicino al Sole",
+            "È l'unico pianeta che ha un satellite"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa a che cosa serve a te, alle piante e agli animali per vivere.",
+          "spiegazione": "Sulla Terra ci sono acqua liquida e aria, e la temperatura non è né troppo calda né troppo fredda. Il pianeta più grande è Giove e il più vicino al Sole è Mercurio.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c3",
+          "testo": "Spiega la differenza tra il movimento di rotazione e quello di rivoluzione della Terra, e che cosa provoca ciascuno.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Un movimento è come una trottola, l'altro come un giro di giostra intorno al Sole.",
+          "spiegazione": "La rotazione (circa 24 ore) provoca il dì e la notte; la rivoluzione (circa 365 giorni) dura un anno e, insieme all'inclinazione dell'asse terrestre, provoca le stagioni.",
+          "risposta_modello": "La rotazione è il giro della Terra su se stessa, intorno al suo asse: dura circa 24 ore e provoca l'alternarsi del dì e della notte. La rivoluzione è il giro della Terra intorno al Sole: dura circa 365 giorni, cioè un anno, e insieme all'inclinazione dell'asse terrestre provoca le stagioni."
+        }
+      ]
+    }
+  ]
+}

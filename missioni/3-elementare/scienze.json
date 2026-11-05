@@ -1,0 +1,156 @@
+{
+  "classe": "3ª elementare",
+  "materia": "Scienze",
+  "missioni": [
+    {
+      "id": "esempio-ciclo-acqua",
+      "classe": "3ª elementare",
+      "titolo": "Il viaggio dell'acqua",
+      "materia": "Scienze",
+      "parola": "NUVOLA",
+      "parola_spiegazione": "Le nuvole sono fatte di miliardi di goccioline: il vapore acqueo che si è raffreddato salendo in alto.",
+      "creata": "2026-11-05T08:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Evaporazione",
+          "sintesi": "Il calore del Sole trasforma l'acqua di mari, laghi e fiumi in vapore acqueo, un gas invisibile che sale nell'aria."
+        },
+        {
+          "id": "c2",
+          "nome": "Condensazione",
+          "sintesi": "Salendo, il vapore si raffredda e torna liquido in goccioline piccolissime: così nascono le nuvole."
+        },
+        {
+          "id": "c3",
+          "nome": "Precipitazioni",
+          "sintesi": "Quando le gocce diventano pesanti cadono come pioggia; se fa molto freddo cadono come neve o grandine."
+        },
+        {
+          "id": "c4",
+          "nome": "Il ritorno dell'acqua",
+          "sintesi": "L'acqua scorre nei fiumi fino al mare; una parte penetra nel terreno e forma le falde sotterranee."
+        },
+        {
+          "id": "c5",
+          "nome": "Un ciclo senza fine",
+          "sintesi": "È sempre la stessa acqua che cambia stato e si sposta tra mare, cielo e terra, poi ricomincia."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Che cosa fa evaporare l'acqua di mari, laghi e fiumi?",
+          "opzioni": [
+            "Il calore del Sole",
+            "Il vento freddo del nord",
+            "La luce della Luna",
+            "Le rocce sul fondo"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa a cosa succede a una pozzanghera in una giornata d'estate.",
+          "spiegazione": "Il Sole scalda l'acqua, che diventa vapore acqueo e sale nell'aria.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c1",
+          "testo": "Il vapore acqueo è invisibile.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 0,
+          "indizio": "Ripensa a che cosa sono davvero le nuvole che vediamo.",
+          "spiegazione": "Il vapore acqueo è un gas e non si vede; le nuvole sono goccioline di acqua liquida.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c2",
+          "testo": "Quando il vapore sale in alto si raffredda e torna liquido in goccioline: questo passaggio si chiama ___.",
+          "opzioni": [
+            "condensazione",
+            "evaporazione",
+            "solidificazione",
+            "fusione"
+          ],
+          "corretta": 0,
+          "indizio": "È il contrario di evaporazione.",
+          "spiegazione": "La condensazione trasforma il vapore in goccioline: è così che si formano le nuvole.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c5",
+          "testo": "Metti in ordine il viaggio dell'acqua, partendo dal mare.",
+          "opzioni": [
+            "L'acqua del mare evapora",
+            "Il vapore sale e si raffredda",
+            "Si formano le nuvole",
+            "Piove o nevica",
+            "L'acqua torna al mare con i fiumi"
+          ],
+          "corretta": -1,
+          "indizio": "Prima l'acqua deve salire in cielo, poi può tornare giù.",
+          "spiegazione": "Evaporazione, condensazione, nuvole, precipitazioni e ritorno al mare: poi tutto ricomincia.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "Perché d'inverno in montagna spesso nevica invece di piovere?",
+          "opzioni": [
+            "Fa così freddo che le goccioline gelano in cristalli di ghiaccio",
+            "Le nuvole di montagna sono più bianche",
+            "In montagna non c'è vapore acqueo",
+            "In montagna il Sole è più vicino"
+          ],
+          "corretta": 0,
+          "indizio": "Che cosa succede all'acqua quando la temperatura scende sotto zero?",
+          "spiegazione": "Con temperature molto basse le goccioline delle nuvole diventano cristalli di ghiaccio e cadono come neve.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c4",
+          "testo": "Tutta l'acqua della pioggia finisce subito nei fiumi.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 1,
+          "indizio": "Pensa al terreno di un prato dopo un temporale.",
+          "spiegazione": "Una parte dell'acqua penetra nel terreno e forma le falde sotterranee, da cui nascono le sorgenti.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "Metti un coperchio su una pentola d'acqua che bolle: dopo un po' sotto il coperchio trovi tante gocce. Quale fase del ciclo hai ricreato?",
+          "opzioni": [
+            "La condensazione",
+            "L'infiltrazione",
+            "Lo scioglimento dei ghiacciai",
+            "La fotosintesi"
+          ],
+          "corretta": 0,
+          "indizio": "Il vapore incontra il coperchio, che è più freddo…",
+          "spiegazione": "Il vapore tocca il coperchio più freddo e torna liquido: è la stessa condensazione che crea le nuvole.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c5",
+          "testo": "Spiega con parole tue perché si dice che l'acqua fa un «ciclo».",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Pensa al punto di partenza e al punto di arrivo del viaggio.",
+          "spiegazione": "Si chiama ciclo perché il viaggio non finisce mai: l'acqua torna sempre al punto di partenza e ricomincia.",
+          "risposta_modello": "L'acqua cambia continuamente stato (liquida, vapore, ghiaccio) e si sposta tra mare, cielo e terra; alla fine torna al punto di partenza e il viaggio ricomincia, senza fine. È sempre la stessa acqua."
+        }
+      ]
+    }
+  ]
+}

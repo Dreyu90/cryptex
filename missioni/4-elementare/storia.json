@@ -1,0 +1,152 @@
+{
+  "classe": "4ª elementare",
+  "materia": "Storia",
+  "missioni": [
+    {
+      "id": "lib-4-elementare-egizi",
+      "classe": "4ª elementare",
+      "titolo": "I segreti dei faraoni",
+      "materia": "Storia",
+      "parola": "NILO",
+      "parola_spiegazione": "Il Nilo è uno dei fiumi più lunghi del mondo: attraversa il deserto e per gli Egizi era la fonte della vita.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Il Nilo, fonte di vita",
+          "sintesi": "Ogni anno il Nilo straripava e, ritirandosi, lasciava sui campi il limo, un fango fertile. Così, in mezzo al deserto, gli Egizi potevano coltivare grano, orzo e lino."
+        },
+        {
+          "id": "c2",
+          "nome": "Il faraone e la società",
+          "sintesi": "Il faraone era il re con tutto il potere ed era considerato un dio. Sotto di lui c'erano sacerdoti, funzionari e scribi, poi soldati, artigiani e contadini, e infine gli schiavi."
+        },
+        {
+          "id": "c3",
+          "nome": "Geroglifici e scribi",
+          "sintesi": "Gli Egizi scrivevano con i geroglifici, segni a forma di disegno, su fogli di papiro. Gli scribi sapevano leggere e scrivere: registravano raccolti e tasse e scrivevano le leggi."
+        },
+        {
+          "id": "c4",
+          "nome": "La vita dopo la morte",
+          "sintesi": "Gli Egizi credevano in una vita dopo la morte, perciò conservavano il corpo con la mummificazione. I faraoni venivano sepolti in grandi tombe, come le piramidi, insieme a cibo e oggetti preziosi."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Lungo quale fiume nacque la civiltà egizia?",
+          "opzioni": [
+            "Il Tigri",
+            "Il Nilo",
+            "L'Eufrate",
+            "Il Po"
+          ],
+          "corretta": 1,
+          "indizio": "È un fiume dell'Africa che attraversa il deserto e sfocia nel Mar Mediterraneo.",
+          "spiegazione": "La civiltà egizia nacque lungo il Nilo, in Africa. Il Tigri e l'Eufrate sono invece i fiumi della Mesopotamia.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c2",
+          "testo": "Il faraone era il re dell'Egitto ed era considerato un dio sulla Terra.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa a quanto potere aveva il faraone e a come lo vedeva il suo popolo.",
+          "spiegazione": "Il faraone aveva tutto il potere ed era venerato come un dio: per questo gli Egizi gli obbedivano.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c3",
+          "testo": "Gli Egizi scrivevano con disegni e simboli chiamati ___.",
+          "opzioni": [
+            "geroglifici",
+            "caratteri cuneiformi",
+            "numeri romani",
+            "graffiti"
+          ],
+          "corretta": 0,
+          "indizio": "Il nome viene dal greco e significa «segni sacri incisi».",
+          "spiegazione": "I geroglifici erano segni a forma di disegno: ognuno poteva indicare un oggetto, un'idea o un suono. La scrittura cuneiforme era invece quella della Mesopotamia.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Perché le piene del Nilo erano utili agli Egizi?",
+          "opzioni": [
+            "Rendevano il deserto più fresco",
+            "Rendevano l'acqua salata come il mare",
+            "Lasciavano sui campi il limo, un fango fertile",
+            "Tenevano lontani i nemici tutto l'anno"
+          ],
+          "corretta": 2,
+          "indizio": "Pensa a che cosa restava sui campi quando l'acqua si ritirava.",
+          "spiegazione": "Quando il Nilo tornava nel suo letto lasciava il limo, un fango ricco di sostanze nutritive: così si poteva coltivare in mezzo al deserto.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c4",
+          "testo": "Metti in ordine le fasi della mummificazione.",
+          "opzioni": [
+            "Si tolgono gli organi interni",
+            "Si copre il corpo di natron, un sale che lo secca",
+            "Si avvolge il corpo in bende di lino",
+            "Si chiude la mummia nel sarcofago"
+          ],
+          "corretta": -1,
+          "indizio": "Prima il corpo va preparato e seccato; solo alla fine si mette nella sua «cassa».",
+          "spiegazione": "Gli imbalsamatori toglievano gli organi, seccavano il corpo con il natron, lo avvolgevano in bende di lino e infine lo deponevano nel sarcofago.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "Perché gli scribi erano così importanti nell'antico Egitto?",
+          "opzioni": [
+            "Erano i soldati più forti dell'esercito",
+            "Costruivano da soli le piramidi",
+            "Guidavano le barche lungo il Nilo",
+            "Erano tra i pochi che sapevano scrivere"
+          ],
+          "corretta": 3,
+          "indizio": "Pensa a chi poteva contare i raccolti e scrivere le leggi.",
+          "spiegazione": "Pochissimi sapevano leggere e scrivere: gli scribi registravano raccolti e tasse e scrivevano leggi e documenti per il faraone.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "A che cosa servivano le grandi piramidi?",
+          "opzioni": [
+            "Erano le tombe dei faraoni",
+            "Erano i palazzi dove abitava il faraone",
+            "Erano enormi magazzini per il grano",
+            "Erano torri per avvistare i nemici"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa a che cosa credevano gli Egizi sulla vita dopo la morte.",
+          "spiegazione": "Le piramidi erano tombe: proteggevano la mummia del faraone e i tesori che lo avrebbero accompagnato nella vita dopo la morte.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c1",
+          "testo": "Lo storico greco Erodoto scrisse che l'Egitto era «un dono del Nilo». Spiega che cosa voleva dire.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Immagina l'Egitto senza il suo fiume: che cosa ci sarebbe tutto intorno?",
+          "spiegazione": "Senza il Nilo l'Egitto sarebbe stato solo deserto: il fiume dava acqua, terra fertile e una strada per le barche.",
+          "risposta_modello": "Voleva dire che senza il Nilo l'Egitto sarebbe stato un deserto. Il fiume dava l'acqua per bere e per irrigare i campi; con le piene lasciava il limo, che rendeva la terra fertile. Era anche una via di comunicazione per trasportare persone e merci con le barche."
+        }
+      ]
+    }
+  ]
+}

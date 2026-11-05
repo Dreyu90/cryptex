@@ -1,0 +1,151 @@
+{
+  "classe": "2ª elementare",
+  "materia": "Scienze",
+  "missioni": [
+    {
+      "id": "lib-2-elementare-animali-ambienti",
+      "classe": "2ª elementare",
+      "titolo": "Ogni animale ha la sua casa",
+      "materia": "Scienze",
+      "parola": "TANA",
+      "parola_spiegazione": "La tana è il rifugio di molti animali: la volpe, per esempio, la scava sotto terra per proteggere i suoi cuccioli.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "L'ambiente degli animali",
+          "sintesi": "Ogni animale vive nell'ambiente dove trova cibo, riparo e il clima adatto: il bosco, il mare, il prato, il deserto o i ghiacci."
+        },
+        {
+          "id": "c2",
+          "nome": "Terra, acqua e aria",
+          "sintesi": "Alcuni animali vivono sulla terra, altri nell'acqua, altri volano nell'aria. La rana nasce nell'acqua e da adulta vive sia in acqua sia sulla terra."
+        },
+        {
+          "id": "c3",
+          "nome": "Che cosa mangiano",
+          "sintesi": "Gli erbivori mangiano solo vegetali, i carnivori mangiano altri animali, gli onnivori mangiano sia vegetali sia animali."
+        },
+        {
+          "id": "c4",
+          "nome": "Un corpo adatto all'ambiente",
+          "sintesi": "Il corpo degli animali è fatto per il loro ambiente: l'orso polare ha una pelliccia folta per il freddo, il cammello resiste a lungo senza bere nel deserto."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Dove vive lo scoiattolo?",
+          "opzioni": [
+            "Nel deserto, tra le dune",
+            "Nel mare, tra gli scogli",
+            "Nel bosco, sugli alberi",
+            "Al Polo Nord, sul ghiaccio"
+          ],
+          "corretta": 2,
+          "indizio": "Pensa a dove trova ghiande, noci e nocciole.",
+          "spiegazione": "Lo scoiattolo vive nel bosco: si arrampica sugli alberi e lì trova cibo e riparo.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c3",
+          "testo": "La mucca è un animale erbivoro: mangia erba e fieno.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa a che cosa mangia la mucca quando è nel prato.",
+          "spiegazione": "La mucca mangia solo vegetali, come erba e fieno: per questo è un animale erbivoro.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c3",
+          "testo": "Il leone si nutre di altri animali: è un animale ___.",
+          "opzioni": [
+            "erbivoro",
+            "carnivoro",
+            "onnivoro"
+          ],
+          "corretta": 1,
+          "indizio": "Ricorda: gli erbivori mangiano solo vegetali, gli onnivori mangiano un po' di tutto.",
+          "spiegazione": "Il leone caccia e mangia altri animali, come zebre e gazzelle: è un carnivoro.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "Quale di questi animali vive sia nell'acqua sia sulla terra?",
+          "opzioni": [
+            "Il delfino",
+            "La mucca",
+            "Il passero",
+            "La rana"
+          ],
+          "corretta": 3,
+          "indizio": "Pensa agli animali che vivono negli stagni ma saltano anche sull'erba.",
+          "spiegazione": "La rana nasce nell'acqua e da adulta vive sia in acqua sia sulla terra. Il delfino invece vive solo in mare.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c2",
+          "testo": "Metti in ordine come cresce la rana.",
+          "opzioni": [
+            "Le uova nello stagno",
+            "Il girino con la coda",
+            "Al girino spuntano le zampe",
+            "La rana adulta"
+          ],
+          "corretta": -1,
+          "indizio": "All'inizio la rana assomiglia più a un piccolo pesce che a una rana.",
+          "spiegazione": "Dalle uova nascono i girini, che nuotano con la coda; poi spuntano le zampe, la coda sparisce e diventano rane.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Perché l'orso polare ha una pelliccia così folta e tanto grasso sotto la pelle?",
+          "opzioni": [
+            "Per nascondersi tra gli alberi",
+            "Per resistere al freddo dei ghiacci",
+            "Per nuotare più veloce dei pesci",
+            "Per non farsi pungere dalle api"
+          ],
+          "corretta": 1,
+          "indizio": "Pensa a com'è il clima al Polo Nord.",
+          "spiegazione": "L'orso polare vive tra i ghiacci del Polo Nord: la pelliccia folta e il grasso lo proteggono dal freddo.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Se in un bosco tagliassero tutti gli alberi, che cosa succederebbe agli scoiattoli?",
+          "opzioni": [
+            "Perderebbero la loro casa e il loro cibo",
+            "Non succederebbe proprio niente",
+            "Diventerebbero ancora più numerosi",
+            "Andrebbero a vivere nel mare"
+          ],
+          "corretta": 0,
+          "indizio": "Ricorda dove fa il nido lo scoiattolo e dove trova le nocciole.",
+          "spiegazione": "Gli alberi sono la casa e la dispensa degli scoiattoli: senza alberi non avrebbero più riparo né cibo e dovrebbero andarsene.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c4",
+          "testo": "Il cammello vive nel deserto. Spiega perché il suo corpo è adatto a quell'ambiente.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Pensa a com'è il deserto: caldo, sabbia e pochissima acqua.",
+          "spiegazione": "Il cammello resiste a lungo senza bere, ha una riserva di grasso nella gobba e zampe larghe che non sprofondano nella sabbia.",
+          "risposta_modello": "Il cammello resiste molti giorni senza bere, perché nel deserto c'è pochissima acqua. Nella gobba conserva grasso come riserva di energia. Ha zampe larghe che non sprofondano nella sabbia e ciglia lunghe che proteggono gli occhi dalla sabbia."
+        }
+      ]
+    }
+  ]
+}

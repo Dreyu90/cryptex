@@ -1,0 +1,153 @@
+{
+  "classe": "1ª elementare",
+  "materia": "Matematica",
+  "missioni": [
+    {
+      "id": "lib-1-elementare-numeri-20",
+      "classe": "1ª elementare",
+      "titolo": "Il grande viaggio fino a 20",
+      "materia": "Matematica",
+      "parola": "VENTI",
+      "parola_spiegazione": "Venti sono 2 decine: tante quante le dita delle tue mani e dei tuoi piedi messe insieme!",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Contare fino a 20",
+          "sintesi": "Contando in avanti ogni numero è 1 in più di quello prima: dopo il 12 viene il 13. Contando all'indietro, ogni numero è 1 in meno."
+        },
+        {
+          "id": "c2",
+          "nome": "Decine e unità",
+          "sintesi": "10 unità formano 1 decina. Il numero 16 è fatto di 1 decina e 6 unità; il numero 20 è fatto di 2 decine."
+        },
+        {
+          "id": "c3",
+          "nome": "Più grande e più piccolo",
+          "sintesi": "Per confrontare due numeri si guardano prima le decine e poi le unità: 15 è più grande di 9, perché ha una decina."
+        },
+        {
+          "id": "c4",
+          "nome": "Aggiungere e togliere",
+          "sintesi": "Quando aggiungiamo facciamo un'addizione (+), quando togliamo facciamo una sottrazione (-): 8 + 5 = 13 e 15 - 6 = 9."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Quale numero viene subito dopo il 12?",
+          "opzioni": [
+            "11",
+            "13",
+            "14",
+            "21"
+          ],
+          "corretta": 1,
+          "indizio": "Conta in avanti partendo dal 12, come quando sali di un solo gradino.",
+          "spiegazione": "Dopo il 12 viene il 13: contando in avanti ogni numero è 1 in più di quello prima.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c3",
+          "testo": "Il numero 9 è più grande del numero 15.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 1,
+          "indizio": "Quale dei due numeri ha già una decina intera?",
+          "spiegazione": "15 è più grande di 9: il 15 ha 1 decina e 5 unità, mentre il 9 non arriva nemmeno a una decina.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "Quante unità servono per formare una decina?",
+          "opzioni": [
+            "2",
+            "5",
+            "100",
+            "10"
+          ],
+          "corretta": 3,
+          "indizio": "Conta le dita delle tue due mani.",
+          "spiegazione": "Una decina è un gruppo di 10 unità, proprio come le 10 dita delle tue mani.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c2",
+          "testo": "Il numero 16 è formato da 1 decina e ___ unità.",
+          "opzioni": [
+            "1",
+            "6",
+            "16",
+            "7"
+          ],
+          "corretta": 1,
+          "indizio": "Guarda la cifra a destra: lì ci sono le unità.",
+          "spiegazione": "Nel 16 la cifra 1 indica 1 decina e la cifra 6 indica 6 unità: 10 + 6 = 16.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Hai 8 figurine e la nonna te ne regala altre 5. Quante figurine hai adesso?",
+          "opzioni": [
+            "12",
+            "3",
+            "13",
+            "14"
+          ],
+          "corretta": 2,
+          "indizio": "Parti da 8 e conta in avanti di 5 passi.",
+          "spiegazione": "Quando ricevi delle figurine ne hai di più: è un'addizione. 8 + 5 = 13.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c3",
+          "testo": "Metti in ordine questi numeri, dal più piccolo al più grande.",
+          "opzioni": [
+            "3",
+            "8",
+            "11",
+            "17",
+            "20"
+          ],
+          "corretta": -1,
+          "indizio": "Prima i numeri senza decine, poi quelli con 1 decina, infine quello con 2 decine.",
+          "spiegazione": "3 e 8 non hanno decine, 11 e 17 hanno 1 decina, 20 ne ha 2: per questo 20 è il più grande.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Sul pulmino ci sono 15 bambini. Alla prima fermata ne scendono 6. Quanti bambini restano sul pulmino?",
+          "opzioni": [
+            "9",
+            "21",
+            "8",
+            "11"
+          ],
+          "corretta": 0,
+          "indizio": "Se i bambini scendono, sul pulmino ce ne sono di più o di meno?",
+          "spiegazione": "Chi scende va tolto: è una sottrazione. 15 - 6 = 9 bambini restano sul pulmino.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c3",
+          "testo": "Luca dice: «19 è più grande di 20, perché 9 è più grande di 0». Ha ragione? Spiega perché.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Prima di guardare le unità, conta quante decine ha ciascun numero.",
+          "spiegazione": "Per confrontare due numeri si guardano prima le decine: 20 ha 2 decine e 19 solo 1, quindi 20 è più grande.",
+          "risposta_modello": "No, Luca sbaglia. Per confrontare i numeri si guardano prima le decine: 20 ha 2 decine, mentre 19 ha 1 decina e 9 unità. Quindi 20 è più grande; infatti, contando, 20 viene subito dopo 19."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "classe": "2ª media",
+  "materia": "Matematica",
+  "missioni": [
+    {
+      "id": "lib-2-media-proporzioni",
+      "classe": "2ª media",
+      "titolo": "La magia delle proporzioni",
+      "materia": "Matematica",
+      "parola": "SCALA",
+      "parola_spiegazione": "La scala di una cartina è una proporzione: 1 : 100 000 significa che 1 cm sul foglio corrisponde a 100 000 cm, cioè 1 km, nella realtà.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Il rapporto tra due numeri",
+          "sintesi": "Il rapporto tra due numeri è il risultato della loro divisione: in 12 : 4 = 3, il 12 è l'antecedente e il 4 è il conseguente."
+        },
+        {
+          "id": "c2",
+          "nome": "Che cos'è una proporzione",
+          "sintesi": "Una proporzione è l'uguaglianza tra due rapporti, come 3 : 4 = 6 : 8. Il primo e il quarto termine si chiamano estremi, il secondo e il terzo si chiamano medi."
+        },
+        {
+          "id": "c3",
+          "nome": "La proprietà fondamentale",
+          "sintesi": "In ogni proporzione il prodotto dei medi è uguale al prodotto degli estremi: in 3 : 4 = 6 : 8 si ha 4 × 6 = 24 e 3 × 8 = 24. Serve anche a controllare se quattro numeri formano una proporzione."
+        },
+        {
+          "id": "c4",
+          "nome": "Trovare il termine incognito",
+          "sintesi": "Per trovare un estremo incognito si moltiplicano i medi e si divide per l'estremo noto; per trovare un medio incognito si moltiplicano gli estremi e si divide per il medio noto."
+        },
+        {
+          "id": "c5",
+          "nome": "Proporzioni nella vita reale",
+          "sintesi": "Le proporzioni servono a risolvere problemi con grandezze direttamente proporzionali, come le dosi di una ricetta, i prezzi o le distanze su una cartina in scala."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Quanto vale il rapporto 18 : 6?",
+          "opzioni": [
+            "12",
+            "24",
+            "3",
+            "108"
+          ],
+          "corretta": 2,
+          "indizio": "Il rapporto tra due numeri è il risultato di un'operazione precisa: quale?",
+          "spiegazione": "Il rapporto è il quoziente della divisione: 18 : 6 = 3, cioè il 18 contiene il 6 esattamente tre volte.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c2",
+          "testo": "Nella proporzione 5 : 10 = 7 : 14, i numeri 10 e 7 si chiamano ___.",
+          "opzioni": [
+            "estremi",
+            "antecedenti",
+            "medi",
+            "conseguenti"
+          ],
+          "corretta": 2,
+          "indizio": "Guarda la posizione dei due numeri nella proporzione: sono il secondo e il terzo termine.",
+          "spiegazione": "Il secondo e il terzo termine di una proporzione sono i medi; il primo e il quarto (qui 5 e 14) sono gli estremi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c3",
+          "testo": "La scrittura 4 : 6 = 10 : 15 è una proporzione.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 0,
+          "indizio": "Confronta il prodotto dei medi con il prodotto degli estremi.",
+          "spiegazione": "Il prodotto dei medi è 6 × 10 = 60 e quello degli estremi è 4 × 15 = 60: sono uguali, quindi è una proporzione.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Trova il valore di x nella proporzione 3 : 5 = x : 20.",
+          "opzioni": [
+            "15",
+            "12",
+            "60",
+            "18"
+          ],
+          "corretta": 1,
+          "indizio": "x è un medio: moltiplica gli estremi e dividi per il medio che conosci.",
+          "spiegazione": "x = (3 × 20) : 5 = 60 : 5 = 12. Controllo: 3 : 5 = 0,6 e 12 : 20 = 0,6.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c4",
+          "testo": "Metti in ordine i passaggi per risolvere la proporzione 2 : 7 = 6 : x.",
+          "opzioni": [
+            "Riconosci che x è un estremo",
+            "Moltiplica i medi: 7 × 6 = 42",
+            "Dividi per l'estremo noto: 42 : 2 = 21",
+            "Verifica: 2 : 7 e 6 : 21 hanno lo stesso valore"
+          ],
+          "corretta": -1,
+          "indizio": "Prima devi capire che tipo di termine è x, solo alla fine controlli il risultato.",
+          "spiegazione": "Poiché x è un estremo, si moltiplicano i medi (42) e si divide per l'estremo noto (2): x = 21. La verifica conferma che i due rapporti sono uguali.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c5",
+          "testo": "Per una torta per 4 persone servono 300 g di farina. Quanta farina ti serve per una torta per 10 persone, con la stessa ricetta?",
+          "opzioni": [
+            "750 g",
+            "120 g",
+            "600 g",
+            "3000 g"
+          ],
+          "corretta": 0,
+          "indizio": "Calcola prima quanta farina serve per una sola persona.",
+          "spiegazione": "Per una persona servono 300 : 4 = 75 g, quindi per 10 persone 75 × 10 = 750 g. Con la proporzione: 4 : 300 = 10 : x.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c5",
+          "testo": "Su una cartina in scala 1 : 50 000 due paesi distano 6 cm. Quanto distano nella realtà?",
+          "opzioni": [
+            "300 m",
+            "30 km",
+            "50 km",
+            "3 km"
+          ],
+          "corretta": 3,
+          "indizio": "Ogni centimetro sulla cartina vale 50 000 cm veri; poi ricorda che 1 km = 100 000 cm.",
+          "spiegazione": "6 × 50 000 = 300 000 cm, cioè 3 000 m, cioè 3 km. In proporzione: 1 : 50 000 = 6 : x.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c3",
+          "testo": "Luca dice che 2 : 3 = 8 : 12 è una proporzione. Spiega con parole tue come puoi verificare se ha ragione.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Ricorda la proprietà che vale in ogni proporzione: riguarda medi ed estremi.",
+          "spiegazione": "Per verificare una proporzione basta confrontare il prodotto dei medi con il prodotto degli estremi: se sono uguali, la proporzione è vera.",
+          "risposta_modello": "Uso la proprietà fondamentale: il prodotto dei medi (3 × 8 = 24) è uguale al prodotto degli estremi (2 × 12 = 24), quindi è una proporzione e Luca ha ragione. In alternativa posso calcolare i due rapporti, 2 : 3 e 8 : 12, che hanno lo stesso valore."
+        }
+      ]
+    }
+  ]
+}

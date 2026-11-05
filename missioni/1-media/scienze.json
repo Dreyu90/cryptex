@@ -1,0 +1,158 @@
+{
+  "classe": "1ª media",
+  "materia": "Scienze",
+  "missioni": [
+    {
+      "id": "lib-1-media-cellula",
+      "classe": "1ª media",
+      "titolo": "Viaggio dentro la cellula",
+      "materia": "Scienze",
+      "parola": "NUCLEO",
+      "parola_spiegazione": "Il nucleo è il «centro di comando» della cellula: custodisce il DNA, il libretto di istruzioni che dice alla cellula che cosa fare.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "La cellula, mattone della vita",
+          "sintesi": "Tutti gli esseri viventi sono fatti di cellule: gli unicellulari, come i batteri, di una sola, i pluricellulari di moltissime. La cellula è la più piccola unità capace di svolgere tutte le funzioni della vita."
+        },
+        {
+          "id": "c2",
+          "nome": "Membrana, citoplasma e nucleo",
+          "sintesi": "La membrana cellulare avvolge la cellula e controlla che cosa entra ed esce; dentro c'è il citoplasma, un liquido gelatinoso. Il nucleo custodisce il DNA, le istruzioni che dirigono tutte le attività della cellula."
+        },
+        {
+          "id": "c3",
+          "nome": "Gli organuli al lavoro",
+          "sintesi": "Nel citoplasma lavorano gli organuli, ognuno con un compito: i mitocondri ricavano energia dalle sostanze nutritive usando l'ossigeno, i ribosomi costruiscono le proteine."
+        },
+        {
+          "id": "c4",
+          "nome": "Cellula animale e vegetale",
+          "sintesi": "La cellula vegetale ha in più una parete cellulare rigida, i cloroplasti verdi che fanno la fotosintesi e un grande vacuolo pieno d'acqua. La cellula animale non ha queste strutture: per questo gli animali devono procurarsi il cibo mangiando."
+        },
+        {
+          "id": "c5",
+          "nome": "Dalla cellula all'organismo",
+          "sintesi": "Cellule simili formano un tessuto, più tessuti formano un organo, più organi che collaborano formano un apparato e tutti gli apparati insieme formano l'organismo."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Quale di questi esseri viventi è formato da una sola cellula?",
+          "opzioni": [
+            "Una formica",
+            "Un filo d'erba",
+            "Un batterio",
+            "Un fungo porcino"
+          ],
+          "corretta": 2,
+          "indizio": "Pensa a un essere vivente così piccolo che si può vedere solo al microscopio.",
+          "spiegazione": "Il batterio è un organismo unicellulare: tutta la sua vita si svolge in una sola cellula. Formiche, erba e funghi porcini sono invece pluricellulari.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c2",
+          "testo": "La membrana cellulare lascia entrare e uscire qualsiasi sostanza, senza fare alcuna selezione.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 1,
+          "indizio": "Immagina la dogana di un confine: lascia passare tutti o controlla chi entra?",
+          "spiegazione": "La membrana è selettiva: fa entrare ciò che serve, come nutrienti e ossigeno, e fa uscire i rifiuti, ma blocca molte altre sostanze.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c3",
+          "testo": "I ___ sono le «centrali energetiche» della cellula: ricavano energia dalle sostanze nutritive usando l'ossigeno.",
+          "opzioni": [
+            "cloroplasti",
+            "mitocondri",
+            "ribosomi",
+            "vacuoli"
+          ],
+          "corretta": 1,
+          "indizio": "Questi organuli si trovano sia nelle cellule animali sia in quelle vegetali, perché tutte hanno bisogno di energia.",
+          "spiegazione": "I mitocondri svolgono la respirazione cellulare: usano l'ossigeno per ricavare energia dagli zuccheri. I cloroplasti invece catturano la luce del Sole.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Al microscopio osservi una cellula con una parete rigida e tanti piccoli corpi verdi. Da dove proviene, molto probabilmente?",
+          "opzioni": [
+            "Dalla pelle della tua mano",
+            "Da un muscolo di pollo",
+            "Da una goccia di sangue",
+            "Da una foglia di spinacio"
+          ],
+          "corretta": 3,
+          "indizio": "Quali esseri viventi hanno bisogno di catturare la luce del Sole?",
+          "spiegazione": "La parete cellulare e i cloroplasti (i corpi verdi) si trovano solo nelle cellule vegetali: la foglia di spinacio fa la fotosintesi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c5",
+          "testo": "Metti in ordine i livelli di organizzazione di un essere vivente, dal più piccolo al più grande.",
+          "opzioni": [
+            "Cellula",
+            "Tessuto",
+            "Organo",
+            "Apparato",
+            "Organismo"
+          ],
+          "corretta": -1,
+          "indizio": "Parti dal «mattone» più piccolo e chiediti ogni volta: che cosa si forma unendo tanti di questi?",
+          "spiegazione": "Cellule simili formano un tessuto, più tessuti formano un organo, più organi formano un apparato e tutti gli apparati insieme formano l'organismo.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Se ti dimentichi di annaffiare una piantina, le sue foglie si afflosciano. Che cosa succede nelle sue cellule?",
+          "opzioni": [
+            "I cloroplasti si staccano ed escono dalle cellule",
+            "I vacuoli perdono acqua e le cellule si sgonfiano",
+            "Il nucleo si divide e le cellule raddoppiano",
+            "La parete cellulare si scioglie del tutto"
+          ],
+          "corretta": 1,
+          "indizio": "Quale parte della cellula vegetale funziona come una riserva d'acqua?",
+          "spiegazione": "Il vacuolo è una riserva d'acqua: quando la pianta non ne riceve, i vacuoli si svuotano, le cellule perdono la loro forma piena e le foglie si afflosciano.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Il tuo corpo è formato da moltissime cellule, eppure anche una sola cellula è considerata viva. Perché?",
+          "opzioni": [
+            "Perché si nutre, produce energia e può riprodursi",
+            "Perché è abbastanza grande da vedersi a occhio nudo",
+            "Perché contiene sempre cloroplasti e clorofilla",
+            "Perché non ha bisogno di nessuna sostanza esterna"
+          ],
+          "corretta": 0,
+          "indizio": "Ripensa alle caratteristiche che hanno in comune tutti gli esseri viventi.",
+          "spiegazione": "Una cellula svolge da sola tutte le funzioni della vita: si nutre, ricava energia, elimina i rifiuti e può riprodursi. Per questo è la più piccola unità dei viventi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c2",
+          "testo": "La cellula si può paragonare a una piccola fabbrica. Spiega con parole tue quale parte fa da «direttore», quale da «centrale energetica» e quale da «cancello d'ingresso», e perché.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Pensa a chi dà gli ordini, a chi produce l'energia e a chi controlla chi entra e chi esce.",
+          "spiegazione": "Ogni parte della cellula ha un compito preciso, proprio come i reparti di una fabbrica: insieme permettono alla cellula di vivere.",
+          "risposta_modello": "Il direttore è il nucleo, perché contiene il DNA con le istruzioni che guidano la cellula. La centrale energetica sono i mitocondri, che ricavano energia dalle sostanze nutritive. Il cancello è la membrana cellulare, che controlla che cosa entra ed esce."
+        }
+      ]
+    }
+  ]
+}

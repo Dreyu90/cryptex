@@ -1,0 +1,152 @@
+{
+  "classe": "3ª elementare",
+  "materia": "Italiano",
+  "missioni": [
+    {
+      "id": "lib-3-elementare-nomi-articoli-aggettivi",
+      "classe": "3ª elementare",
+      "titolo": "Detective delle parole",
+      "materia": "Italiano",
+      "parola": "NOME",
+      "parola_spiegazione": "La parola «nome» viene dal latino «nomen»: serve a chiamare ogni persona, animale o cosa.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Il nome",
+          "sintesi": "Il nome indica persone, animali o cose. Il nome comune indica in generale (cane, città); il nome proprio indica uno in particolare (Luca, Roma) e si scrive con la maiuscola."
+        },
+        {
+          "id": "c2",
+          "nome": "Genere e numero",
+          "sintesi": "Il nome può essere maschile o femminile (genere) e singolare o plurale (numero): gatto, gatta, gatti, gatte."
+        },
+        {
+          "id": "c3",
+          "nome": "Gli articoli",
+          "sintesi": "L'articolo sta davanti al nome. Determinativi: il, lo, l', la, i, gli, le. Indeterminativi: un, uno, una, un'."
+        },
+        {
+          "id": "c4",
+          "nome": "Gli aggettivi qualificativi",
+          "sintesi": "L'aggettivo qualificativo dice com'è il nome (nero, morbido, allegro) e si accorda con il nome nel genere e nel numero."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Nella frase «Luca gioca con il cane», qual è il nome proprio?",
+          "opzioni": [
+            "Luca",
+            "gioca",
+            "con",
+            "cane"
+          ],
+          "corretta": 0,
+          "indizio": "Cerca la parola che indica una persona precisa, non una qualsiasi.",
+          "spiegazione": "«Luca» è un nome proprio di persona. «Cane» invece è un nome comune: indica un cane qualsiasi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c1",
+          "testo": "I nomi propri si scrivono sempre con la lettera maiuscola.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa a come scrivi il tuo nome o quello della tua città.",
+          "spiegazione": "I nomi propri di persone, animali, città, fiumi e monti iniziano sempre con la maiuscola: Luca, Roma, Po.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c3",
+          "testo": "Davanti alla parola «zaino» si usa l'articolo determinativo ___.",
+          "opzioni": [
+            "il",
+            "lo",
+            "la",
+            "i"
+          ],
+          "corretta": 1,
+          "indizio": "Zaino comincia con la lettera z: prova a dire gli articoli ad alta voce.",
+          "spiegazione": "Davanti ai nomi maschili che iniziano con z, con s + consonante, con gn e con ps si usa «lo»: lo zaino, lo scoiattolo.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "Quale di questi articoli è indeterminativo?",
+          "opzioni": [
+            "il",
+            "le",
+            "gli",
+            "una"
+          ],
+          "corretta": 3,
+          "indizio": "Gli articoli indeterminativi indicano una cosa qualsiasi, non una precisa.",
+          "spiegazione": "«Una» è un articolo indeterminativo, come un e uno: indica una cosa qualsiasi. Il, le e gli sono determinativi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Nella frase «Il gatto nero dorme sul divano morbido», quali sono gli aggettivi qualificativi?",
+          "opzioni": [
+            "gatto e divano",
+            "dorme e divano",
+            "nero e morbido",
+            "il e sul"
+          ],
+          "corretta": 2,
+          "indizio": "Cerca le parole che dicono com'è qualcosa.",
+          "spiegazione": "«Nero» dice com'è il gatto e «morbido» dice com'è il divano: sono aggettivi qualificativi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "Qual è il plurale di «la mela rossa»?",
+          "opzioni": [
+            "le mela rosse",
+            "le mele rosse",
+            "i meli rossi",
+            "la mele rossa"
+          ],
+          "corretta": 1,
+          "indizio": "Al plurale devono cambiare tutte e tre le parole: articolo, nome e aggettivo.",
+          "spiegazione": "Al plurale cambiano tutte le parole: la diventa le, mela diventa mele, rossa diventa rosse. Così restano d'accordo tra loro.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "Marco ha scritto: «Ho visto il elefante». Come si corregge?",
+          "opzioni": [
+            "L'articolo giusto è «lo»: lo elefante",
+            "L'articolo giusto è «la»: la elefante",
+            "L'articolo giusto è «gli»: gli elefante",
+            "L'articolo giusto è «l'»: l'elefante"
+          ],
+          "corretta": 3,
+          "indizio": "«Elefante» comincia con una vocale: che cosa succede all'articolo?",
+          "spiegazione": "Davanti a un nome singolare che comincia con una vocale, «lo» e «la» diventano l' con l'apostrofo: l'elefante, l'amica.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c4",
+          "testo": "Perché diciamo «le bambine allegre» e non «le bambine allegro»? Spiega con parole tue.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Guarda il nome: è maschile o femminile? Singolare o plurale?",
+          "spiegazione": "L'aggettivo si accorda con il nome: «bambine» è femminile plurale, quindi anche l'aggettivo diventa femminile plurale, «allegre».",
+          "risposta_modello": "Perché l'aggettivo deve accordarsi con il nome a cui si riferisce, nel genere e nel numero. «Bambine» è femminile plurale, quindi anche l'aggettivo è femminile plurale: «allegre». «Allegro» va bene solo con un nome maschile singolare, come «il bambino allegro»."
+        }
+      ]
+    }
+  ]
+}

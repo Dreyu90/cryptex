@@ -1,0 +1,151 @@
+{
+  "classe": "1ª elementare",
+  "materia": "Scienze",
+  "missioni": [
+    {
+      "id": "lib-1-elementare-stagioni",
+      "classe": "1ª elementare",
+      "titolo": "Il giro delle quattro stagioni",
+      "materia": "Scienze",
+      "parola": "AUTUNNO",
+      "parola_spiegazione": "In autunno molti alberi si colorano di giallo, rosso e arancione e poi lasciano cadere le foglie.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Le quattro stagioni",
+          "sintesi": "Un anno ha quattro stagioni: primavera, estate, autunno e inverno. Si ripetono sempre nello stesso ordine."
+        },
+        {
+          "id": "c2",
+          "nome": "Caldo e freddo",
+          "sintesi": "In estate fa caldo e le giornate sono lunghe; in inverno fa freddo, le giornate sono corte e a volte nevica."
+        },
+        {
+          "id": "c3",
+          "nome": "La natura cambia",
+          "sintesi": "In primavera sbocciano i fiori, in estate maturano frutti come l'anguria, in autunno cadono le foglie e si raccolgono le castagne."
+        },
+        {
+          "id": "c4",
+          "nome": "Animali e persone",
+          "sintesi": "Animali e persone si adattano alle stagioni: d'inverno il ghiro va in letargo e noi ci copriamo con vestiti pesanti."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Quante sono le stagioni in un anno?",
+          "opzioni": [
+            "Quattro",
+            "Due",
+            "Sette",
+            "Dodici"
+          ],
+          "corretta": 0,
+          "indizio": "Prova a elencarle una dopo l'altra, partendo dalla primavera.",
+          "spiegazione": "Le stagioni sono quattro: primavera, estate, autunno e inverno. Sette sono i giorni della settimana e dodici i mesi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c2",
+          "testo": "In estate fa caldo e le giornate sono lunghe.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa alle vacanze al mare: la sera diventa buio presto o tardi?",
+          "spiegazione": "In estate il Sole scalda di più e resta in cielo più a lungo: fa caldo e diventa buio tardi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "In quale stagione le foglie di molti alberi diventano gialle e rosse e poi cadono?",
+          "opzioni": [
+            "Primavera",
+            "Estate",
+            "Autunno",
+            "Inverno"
+          ],
+          "corretta": 2,
+          "indizio": "È la stagione in cui si raccolgono le castagne.",
+          "spiegazione": "In autunno molti alberi perdono le foglie: i viali e i parchi si riempiono di foglie colorate.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c3",
+          "testo": "In primavera le giornate si scaldano e sugli alberi sbocciano i ___.",
+          "opzioni": [
+            "funghi",
+            "fiori",
+            "fiocchi di neve"
+          ],
+          "corretta": 1,
+          "indizio": "Pensa a che cosa piace alle api e alle farfalle.",
+          "spiegazione": "In primavera la natura si risveglia: gli alberi si riempiono di fiori, che poi diventeranno frutti.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "Quale frutto mangi di solito in estate?",
+          "opzioni": [
+            "Le castagne",
+            "Le arance",
+            "I mandarini",
+            "L'anguria"
+          ],
+          "corretta": 3,
+          "indizio": "Cerca un frutto grande, pieno d'acqua e rinfrescante.",
+          "spiegazione": "L'anguria matura d'estate ed è piena d'acqua: rinfresca nei giorni caldi. Castagne, arance e mandarini arrivano in autunno e in inverno.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c1",
+          "testo": "Metti in ordine le stagioni, partendo dalla primavera.",
+          "opzioni": [
+            "Primavera",
+            "Estate",
+            "Autunno",
+            "Inverno"
+          ],
+          "corretta": -1,
+          "indizio": "Dopo la stagione dei fiori arriva quella delle vacanze al mare.",
+          "spiegazione": "Primavera, estate, autunno e inverno: dopo l'inverno torna la primavera e il giro ricomincia.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Perché d'inverno il ghiro dorme per tanti mesi nella sua tana?",
+          "opzioni": [
+            "Perché ha paura della neve",
+            "Perché fa freddo e c'è poco cibo",
+            "Perché d'inverno non sorge il Sole",
+            "Perché è stanco di giocare"
+          ],
+          "corretta": 1,
+          "indizio": "Pensa a che cosa trova da mangiare un ghiro nel bosco d'inverno.",
+          "spiegazione": "D'inverno fa freddo e nel bosco c'è poco cibo: il ghiro va in letargo, cioè dorme a lungo, e si risveglia in primavera.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c4",
+          "testo": "Fuori nevica e fa molto freddo. Come ti vesti per uscire? Spiega perché.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Pensa a quali parti del corpo sentono di più il freddo.",
+          "spiegazione": "D'inverno servono vestiti pesanti che tengono il corpo al caldo, come cappotto, sciarpa, guanti e cappello.",
+          "risposta_modello": "Metto vestiti pesanti: cappotto o giubbotto, sciarpa, guanti, cappello e scarpe o stivali caldi. Lo faccio perché d'inverno fa freddo e i vestiti pesanti tengono caldo il corpo."
+        }
+      ]
+    }
+  ]
+}

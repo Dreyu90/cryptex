@@ -1,0 +1,158 @@
+{
+  "classe": "3ª media",
+  "materia": "Storia",
+  "missioni": [
+    {
+      "id": "lib-3-media-prima-guerra",
+      "classe": "3ª media",
+      "titolo": "Dentro la Grande Guerra",
+      "materia": "Storia",
+      "parola": "TRINCEA",
+      "parola_spiegazione": "La trincea, un lungo fossato scavato nel terreno per proteggere i soldati, è il simbolo della Prima guerra mondiale: per anni i fronti rimasero quasi immobili.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Le cause della guerra",
+          "sintesi": "All'inizio del Novecento le grandi potenze europee erano divise da rivalità economiche e coloniali, nazionalismi e corsa agli armamenti. Erano legate da due blocchi di alleanze: la Triplice Alleanza (Germania, Austria-Ungheria, Italia) e la Triplice Intesa (Francia, Gran Bretagna, Russia)."
+        },
+        {
+          "id": "c2",
+          "nome": "La scintilla di Sarajevo",
+          "sintesi": "Il 28 giugno 1914, a Sarajevo, il giovane nazionalista serbo-bosniaco Gavrilo Princip uccise l'arciduca Francesco Ferdinando, erede al trono d'Austria-Ungheria. Un mese dopo l'Austria-Ungheria dichiarò guerra alla Serbia e, per il gioco delle alleanze, il conflitto si allargò a gran parte dell'Europa."
+        },
+        {
+          "id": "c3",
+          "nome": "La guerra di trincea",
+          "sintesi": "La Germania sperava in una guerra breve, ma la sua avanzata fu fermata in Francia, sulla Marna, nel 1914. I fronti si bloccarono e iniziò una lunga guerra di posizione, combattuta dalle trincee."
+        },
+        {
+          "id": "c4",
+          "nome": "L'Italia in guerra",
+          "sintesi": "Nel 1914 l'Italia restò neutrale, perché la Triplice Alleanza era difensiva e l'Austria-Ungheria aveva attaccato per prima. Nel 1915, dopo il Patto di Londra, entrò in guerra a fianco dell'Intesa contro l'Austria-Ungheria; dopo la sconfitta di Caporetto (1917) vinse a Vittorio Veneto (1918)."
+        },
+        {
+          "id": "c5",
+          "nome": "Il 1917 e la fine",
+          "sintesi": "Nel 1917 gli Stati Uniti entrarono in guerra a fianco dell'Intesa, mentre la Russia, sconvolta dalla rivoluzione, si ritirò dal conflitto. Nell'autunno del 1918 gli Imperi centrali crollarono e l'11 novembre la Germania firmò l'armistizio; nel 1919 il trattato di Versailles le impose dure condizioni."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "Quale evento fece scoppiare la Prima guerra mondiale nell'estate del 1914?",
+          "opzioni": [
+            "La rivoluzione scoppiata in Russia",
+            "L'uccisione dell'erede al trono austriaco a Sarajevo",
+            "L'affondamento della nave Lusitania",
+            "L'ingresso in guerra degli Stati Uniti"
+          ],
+          "corretta": 1,
+          "indizio": "Fu un attentato avvenuto nella capitale della Bosnia.",
+          "spiegazione": "Il 28 giugno 1914 a Sarajevo fu ucciso l'arciduca Francesco Ferdinando, erede al trono d'Austria-Ungheria: fu la «scintilla» che fece esplodere tensioni già presenti.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c4",
+          "testo": "Nel 1914, allo scoppio della guerra, l'Italia entrò subito nel conflitto a fianco di Germania e Austria-Ungheria.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 1,
+          "indizio": "Ricorda in quale anno l'Italia entrò davvero in guerra, e contro chi.",
+          "spiegazione": "Nel 1914 l'Italia si dichiarò neutrale; entrò in guerra solo il 24 maggio 1915, dalla parte dell'Intesa e contro l'Austria-Ungheria.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c1",
+          "testo": "Prima della guerra Francia, Gran Bretagna e Russia erano unite nella Triplice ___.",
+          "opzioni": [
+            "Alleanza",
+            "Lega",
+            "Intesa",
+            "Unione"
+          ],
+          "corretta": 2,
+          "indizio": "Il blocco avversario, formato da Germania, Austria-Ungheria e Italia, aveva un nome diverso.",
+          "spiegazione": "Francia, Gran Bretagna e Russia formavano la Triplice Intesa; Germania, Austria-Ungheria e Italia la Triplice Alleanza.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "Perché la Prima guerra mondiale è ricordata come una «guerra di trincea»?",
+          "opzioni": [
+            "Perché i fronti rimasero quasi fermi e si combatteva da fossati scavati nel terreno",
+            "Perché durò poche settimane e finì con una sola grande battaglia decisiva",
+            "Perché si combatté soprattutto in mare, con grandi navi e sottomarini",
+            "Perché gli eserciti avanzavano velocissimi con carri armati e aerei"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa a che cosa succede quando due eserciti sono così forti in difesa che nessuno riesce ad avanzare.",
+          "spiegazione": "Armi come le mitragliatrici rendevano gli assalti difficilissimi: i fronti si bloccarono e i soldati vissero per mesi nelle trincee, guadagnando pochissimo terreno.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c5",
+          "testo": "Metti in ordine cronologico questi eventi.",
+          "opzioni": [
+            "Attentato di Sarajevo",
+            "L'Italia entra in guerra contro l'Austria-Ungheria",
+            "Sconfitta italiana a Caporetto",
+            "Armistizio e fine dei combattimenti",
+            "Firma del trattato di pace di Versailles"
+          ],
+          "corretta": -1,
+          "indizio": "La guerra durò dal 1914 al 1918, e i trattati di pace si firmarono solo dopo la fine dei combattimenti.",
+          "spiegazione": "Sarajevo (giugno 1914), ingresso dell'Italia (maggio 1915), Caporetto (ottobre 1917), fine della guerra (novembre 1918), trattato di Versailles (giugno 1919).",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "L'Italia faceva parte della Triplice Alleanza. Perché nel 1914 non entrò in guerra a fianco di Germania e Austria-Ungheria?",
+          "opzioni": [
+            "Perché era già impegnata in guerra contro la Russia",
+            "Perché la Germania le aveva chiesto di restare fuori",
+            "Perché l'alleanza era difensiva e l'Austria aveva attaccato per prima",
+            "Perché il suo esercito si trovava tutto nelle colonie"
+          ],
+          "corretta": 2,
+          "indizio": "Rifletti: un'alleanza «difensiva» obbliga ad aiutare chi attacca o chi viene attaccato?",
+          "spiegazione": "La Triplice Alleanza obbligava ad aiutare un alleato solo se veniva aggredito: l'Austria-Ungheria invece aveva dichiarato guerra per prima, e senza consultare l'Italia.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c5",
+          "testo": "Nel 1917 gli Stati Uniti entrarono in guerra a fianco dell'Intesa. Quale fu la conseguenza principale?",
+          "opzioni": [
+            "La Germania ottenne un nuovo alleato oltre l'oceano",
+            "La guerra si spostò dall'Europa al continente americano",
+            "L'Italia lasciò l'Intesa e passò con gli Imperi centrali",
+            "L'Intesa ricevette nuovi soldati, armi e rifornimenti"
+          ],
+          "corretta": 3,
+          "indizio": "Pensa a quanto erano ricchi e popolosi gli Stati Uniti rispetto ai paesi europei, stremati da anni di guerra.",
+          "spiegazione": "Con le truppe fresche e le enormi risorse americane l'Intesa diventò più forte, mentre la Germania era allo stremo: l'11 novembre 1918 firmò l'armistizio.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c1",
+          "testo": "Perché un attentato in una sola città, Sarajevo, finì per coinvolgere in guerra quasi tutta l'Europa? Spiega con parole tue.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Pensa ai due blocchi di alleanze e a che cosa succede quando un paese di un blocco viene coinvolto.",
+          "spiegazione": "L'attentato fu solo la scintilla: le vere cause erano le rivalità tra le potenze e il sistema di alleanze, che trasformò una guerra locale in una guerra mondiale.",
+          "risposta_modello": "Le grandi potenze erano già rivali per motivi economici, coloniali e nazionalistici, ed erano armate e legate da alleanze contrapposte (Triplice Alleanza e Triplice Intesa). Quando l'Austria-Ungheria dichiarò guerra alla Serbia, la Russia si schierò con la Serbia, la Germania con l'Austria e poi entrarono in guerra Francia e Gran Bretagna: una reazione a catena."
+        }
+      ]
+    }
+  ]
+}

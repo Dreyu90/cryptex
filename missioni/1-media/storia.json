@@ -1,0 +1,158 @@
+{
+  "classe": "1ª media",
+  "materia": "Storia",
+  "missioni": [
+    {
+      "id": "lib-1-media-feudalesimo",
+      "classe": "1ª media",
+      "titolo": "Signori e vassalli del Medioevo",
+      "materia": "Storia",
+      "parola": "FEUDO",
+      "parola_spiegazione": "Il feudo era la terra che il re o un grande signore concedeva a un vassallo in cambio di fedeltà: proprio da questa parola nasce il nome «feudalesimo».",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Carlo Magno imperatore",
+          "sintesi": "Nella notte di Natale dell'800, a Roma, il papa Leone III incoronò imperatore Carlo Magno, re dei Franchi. Per governare un impero così vasto, Carlo Magno lo divise in contee e marche, affidate a uomini di fiducia e controllate dai missi dominici."
+        },
+        {
+          "id": "c2",
+          "nome": "Il patto feudale",
+          "sintesi": "Con il giuramento di fedeltà il vassallo prometteva al suo signore lealtà e aiuto militare; in cambio riceveva protezione e un beneficio, di solito una terra chiamata feudo."
+        },
+        {
+          "id": "c3",
+          "nome": "La piramide feudale",
+          "sintesi": "Al vertice c'era il re o l'imperatore, poi i grandi vassalli (conti, marchesi, vescovi), sotto di loro i valvassori e i valvassini. Alla base stavano i contadini e i servi della gleba, legati alla terra che lavoravano."
+        },
+        {
+          "id": "c4",
+          "nome": "La curtis e l'economia chiusa",
+          "sintesi": "La curtis era la grande azienda agricola del signore: la parte dominica era gestita direttamente da lui, la parte massaricia era affidata ai contadini in cambio di prodotti e giornate di lavoro. Si produceva quasi tutto sul posto e si commerciava pochissimo."
+        },
+        {
+          "id": "c5",
+          "nome": "I feudi diventano ereditari",
+          "sintesi": "Nell'877 il Capitolare di Quierzy rese ereditari i grandi feudi: le terre passavano di padre in figlio e i vassalli diventarono sempre più potenti e indipendenti dal re."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Chi incoronò Carlo Magno imperatore nella notte di Natale dell'anno 800?",
+          "opzioni": [
+            "Il re dei Longobardi",
+            "Il papa Leone III",
+            "L'imperatore di Bisanzio",
+            "Il vescovo di Parigi"
+          ],
+          "corretta": 1,
+          "indizio": "La cerimonia si svolse a Roma, nella basilica di San Pietro.",
+          "spiegazione": "Nell'800, a Roma, il papa Leone III pose la corona sul capo di Carlo Magno: nasceva il Sacro Romano Impero.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c2",
+          "testo": "Nel rapporto feudale il vassallo riceveva un feudo e, in cambio, prometteva al signore fedeltà e aiuto militare.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa a uno scambio: che cosa dava ciascuno dei due all'altro?",
+          "spiegazione": "Era un patto di scambio: il signore concedeva una terra (il feudo) e protezione, il vassallo giurava fedeltà e combatteva per lui.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c3",
+          "testo": "Metti in ordine la piramide feudale, dal gradino più alto a quello più basso.",
+          "opzioni": [
+            "Re o imperatore",
+            "Grandi vassalli: conti e marchesi",
+            "Valvassori",
+            "Valvassini",
+            "Contadini e servi della gleba"
+          ],
+          "corretta": -1,
+          "indizio": "Ogni gradino riceveva terre da quello sopra di lui: chi stava più in alto aveva più potere.",
+          "spiegazione": "Il re dava terre ai grandi vassalli, che le dividevano tra i valvassori, e questi tra i valvassini; i contadini e i servi lavoravano la terra per tutti.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c3",
+          "testo": "I contadini legati per sempre alla terra che lavoravano, che passavano al nuovo padrone insieme ai campi, erano chiamati servi della ___.",
+          "opzioni": [
+            "corte",
+            "marca",
+            "gleba",
+            "contea"
+          ],
+          "corretta": 2,
+          "indizio": "La parola che manca, in latino, significa «zolla di terra».",
+          "spiegazione": "«Gleba» significa zolla di terra: i servi della gleba non potevano lasciare il feudo e, se la terra cambiava padrone, passavano con essa.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "La curtis era divisa in due parti. Che cos'era la «parte dominica»?",
+          "opzioni": [
+            "La parte di terre affidata ai contadini",
+            "Il bosco dove tutti potevano cacciare",
+            "Il mercato dove si vendevano i prodotti",
+            "La parte di terre gestita dal signore"
+          ],
+          "corretta": 3,
+          "indizio": "Prova a pensare alla parola latina dominus: che cosa significa?",
+          "spiegazione": "La parte dominica (da dominus, «signore») era gestita direttamente dal signore; la parte massaricia era invece affidata ai contadini.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Perché si dice che la curtis aveva un'economia «chiusa»?",
+          "opzioni": [
+            "Perché produceva quasi tutto ciò che serviva e commerciava pochissimo",
+            "Perché di notte le sue porte restavano chiuse per paura dei briganti",
+            "Perché solo i nobili potevano entrarvi e lavorare nei suoi campi",
+            "Perché vendeva tutti i suoi prodotti in città lontane e ricche"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa a dove venivano prodotti il pane, gli attrezzi e i vestiti di chi viveva nella curtis.",
+          "spiegazione": "Nella curtis si coltivava, si allevava e si fabbricava quasi tutto sul posto: si comprava e vendeva pochissimo, quindi l'economia era chiusa in se stessa.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c5",
+          "testo": "Nell'877 il Capitolare di Quierzy rese ereditari i grandi feudi. Quale fu la conseguenza più importante?",
+          "opzioni": [
+            "Il re poté riprendersi le terre quando voleva",
+            "I servi della gleba diventarono padroni dei campi",
+            "I vassalli diventarono più potenti e meno legati al re",
+            "I feudi passarono tutti in proprietà della Chiesa"
+          ],
+          "corretta": 2,
+          "indizio": "Se una terra passa di padre in figlio, il re può ancora decidere a chi darla?",
+          "spiegazione": "Con i feudi ereditari le terre restavano nelle stesse famiglie per generazioni: i grandi vassalli si sentivano padroni e il potere del re si indebolì.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c2",
+          "testo": "Perché un re del Medioevo aveva bisogno dei vassalli per governare? Spiega con parole tue.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Pensa a quanto era grande il regno e a quanto tempo serviva per attraversarlo a cavallo.",
+          "spiegazione": "Il sistema feudale nacque perché un solo sovrano non poteva governare direttamente territori così grandi: aveva bisogno di uomini fedeli sul posto.",
+          "risposta_modello": "Il regno era molto vasto e le comunicazioni erano lente, quindi il re non poteva controllare tutto da solo. Affidava terre (i feudi) a uomini fedeli, che le governavano al suo posto, amministravano la giustizia e gli fornivano soldati in caso di guerra."
+        }
+      ]
+    }
+  ]
+}

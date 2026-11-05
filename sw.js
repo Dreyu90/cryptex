@@ -1,5 +1,5 @@
 // Cryptex Studio service worker: keeps the app usable offline (saved missions can be played without internet).
-const CACHE = 'cryptex-studio-v3';
+const CACHE = 'cryptex-studio-v4';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-512.png'];
 
 self.addEventListener('install', event => {
@@ -19,6 +19,16 @@ self.addEventListener('fetch', event => {
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
   if (url.hostname === 'api.anthropic.com') return;
+
+  // Shared library: always try the newest missions, use the saved copy when offline.
+  if (url.origin === self.location.origin && url.pathname.includes('/missioni/')) {
+    event.respondWith(
+      fetch(req)
+        .then(res => { if (res.ok) { const copy = res.clone(); caches.open(CACHE).then(c => c.put(req, copy)); } return res; })
+        .catch(() => caches.match(req, { ignoreSearch: true }))
+    );
+    return;
+  }
 
   // Pages: network first so updates arrive, cached copy when offline.
   if (req.mode === 'navigate') {

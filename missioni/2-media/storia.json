@@ -1,0 +1,157 @@
+{
+  "classe": "2ª media",
+  "materia": "Storia",
+  "missioni": [
+    {
+      "id": "lib-2-media-esplorazioni",
+      "classe": "2ª media",
+      "titolo": "Verso ovest per le Indie",
+      "materia": "Storia",
+      "parola": "BUSSOLA",
+      "parola_spiegazione": "La bussola, con il suo ago magnetico che punta sempre verso nord, permise ai navigatori di orientarsi anche in mare aperto, lontano dalle coste.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Perché partire verso le Indie",
+          "sintesi": "Nel Quattrocento le spezie, la seta e le pietre preziose dell'Oriente valevano moltissimo, ma le vie di terra erano lunghe, costose e controllate da Turchi e mercanti arabi. Per questo gli Europei cercarono una nuova strada via mare."
+        },
+        {
+          "id": "c2",
+          "nome": "Navi e strumenti nuovi",
+          "sintesi": "La caravella, nave leggera e veloce capace di navigare anche con il vento contrario, la bussola e l'astrolabio permisero di affrontare l'oceano aperto, lontano dalle coste."
+        },
+        {
+          "id": "c3",
+          "nome": "Le grandi rotte oceaniche",
+          "sintesi": "I Portoghesi cercarono la via per l'India intorno all'Africa: Bartolomeo Diaz doppiò il Capo di Buona Speranza nel 1488 e Vasco da Gama arrivò in India nel 1498. La spedizione di Magellano (1519-1522) compì il primo giro del mondo."
+        },
+        {
+          "id": "c4",
+          "nome": "Colombo e il 1492",
+          "sintesi": "Cristoforo Colombo, convinto di raggiungere l'Asia navigando verso ovest, partì con l'aiuto dei sovrani di Spagna e il 12 ottobre 1492 sbarcò in un'isola delle Bahamas, credendo di essere nelle Indie. Il 1492 è considerato l'inizio dell'età moderna."
+        },
+        {
+          "id": "c5",
+          "nome": "Un nuovo continente",
+          "sintesi": "Amerigo Vespucci capì che quelle terre erano un continente nuovo, che da lui prese il nome di America. Le scoperte spostarono i commerci verso l'Atlantico e portarono in Europa piante come mais, patata e pomodoro."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Nel Quattrocento molti navigatori europei cercavano una nuova strada per le Indie. Che cosa volevano procurarsi soprattutto?",
+          "opzioni": [
+            "Grano e legname per costruire",
+            "Pellicce dei mari del Nord",
+            "Spezie, seta e pietre preziose",
+            "Nuovi pascoli per le pecore"
+          ],
+          "corretta": 2,
+          "indizio": "Pensa a che cosa si usava per insaporire e conservare i cibi, e che costava carissimo.",
+          "spiegazione": "Spezie come pepe e cannella, seta e pietre preziose arrivavano dall'Oriente e in Europa valevano moltissimo.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c2",
+          "testo": "La caravella era una nave pesante e lenta, adatta solo a navigare vicino alla costa.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 1,
+          "indizio": "Pensa a che tipo di nave serve per attraversare un oceano sconosciuto.",
+          "spiegazione": "La caravella era leggera, veloce e maneggevole, e poteva avanzare anche con il vento contrario: era adatta proprio all'oceano aperto.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c4",
+          "testo": "Nel 1492 Colombo partì con tre navi grazie all'aiuto dei sovrani di ___, Ferdinando e Isabella.",
+          "opzioni": [
+            "Portogallo",
+            "Spagna",
+            "Francia",
+            "Inghilterra"
+          ],
+          "corretta": 1,
+          "indizio": "Il re del Portogallo, prima, aveva rifiutato di finanziare il suo progetto.",
+          "spiegazione": "Furono Ferdinando d'Aragona e Isabella di Castiglia, i sovrani di Spagna, a finanziare la spedizione di Colombo.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Perché Colombo chiamò «Indiani» gli abitanti delle terre in cui era sbarcato?",
+          "opzioni": [
+            "Perché parlavano una lingua simile a quella dell'India",
+            "Perché portavano vestiti simili a quelli degli abitanti dell'India",
+            "Perché il re di Spagna aveva scelto per loro quel nome",
+            "Perché era convinto di essere arrivato nelle Indie, in Asia"
+          ],
+          "corretta": 3,
+          "indizio": "Ricorda qual era la meta che Colombo voleva raggiungere navigando verso ovest.",
+          "spiegazione": "Colombo pensava di aver raggiunto le Indie, cioè l'Asia: per questo chiamò «Indiani» gli abitanti, e quel nome è rimasto.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c3",
+          "testo": "Metti in ordine cronologico queste grandi imprese di navigazione.",
+          "opzioni": [
+            "Bartolomeo Diaz doppia il Capo di Buona Speranza",
+            "Cristoforo Colombo arriva in America",
+            "Vasco da Gama raggiunge l'India",
+            "La spedizione di Magellano completa il giro del mondo"
+          ],
+          "corretta": -1,
+          "indizio": "Colombo partì nel 1492; Vasco da Gama arrivò in India seguendo la strada aperta da un altro portoghese.",
+          "spiegazione": "Diaz doppiò il Capo di Buona Speranza nel 1488, Colombo arrivò in America nel 1492, Vasco da Gama in India nel 1498 e la spedizione di Magellano tornò in Spagna nel 1522.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "Perché l'astrolabio era tanto utile a chi navigava in mare aperto?",
+          "opzioni": [
+            "Misurava la velocità del vento nelle vele",
+            "Calcolava la latitudine osservando Sole e stelle",
+            "Indicava quanto era profondo il mare",
+            "Avvisava in anticipo dell'arrivo delle tempeste"
+          ],
+          "corretta": 1,
+          "indizio": "Il suo nome contiene la parola greca «astro», che significa stella.",
+          "spiegazione": "Misurando l'altezza del Sole o della Stella Polare sull'orizzonte, l'astrolabio permetteva di capire la latitudine, cioè quanto la nave era a nord o a sud.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c5",
+          "testo": "Se un cuoco italiano del Trecento avesse voluto preparare la pasta al pomodoro, non ci sarebbe riuscito. Perché?",
+          "opzioni": [
+            "Il pomodoro arrivò in Europa dall'America dopo i viaggi di Colombo",
+            "Il pomodoro arrivava dalle Indie ed era troppo costoso da comprare",
+            "Il pomodoro era una pianta proibita in tutti i regni d'Europa",
+            "Il pomodoro cresceva solo in Africa, oltre il deserto del Sahara"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa al lungo viaggio che questa pianta ha fatto prima di arrivare sulle nostre tavole.",
+          "spiegazione": "Il pomodoro è originario dell'America e arrivò in Europa nel Cinquecento, insieme ad altre piante come il mais, la patata e il cacao.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c5",
+          "testo": "Perché il 1492 viene considerato l'inizio di una nuova epoca, l'età moderna? Spiega con parole tue.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Pensa a che cosa cambiò per l'Europa dopo il primo contatto con un continente sconosciuto.",
+          "spiegazione": "Il viaggio di Colombo mise in contatto due mondi che non si conoscevano: cambiarono i commerci, le conoscenze e la vita di popoli interi.",
+          "risposta_modello": "Con il viaggio di Colombo gli Europei entrarono in contatto con un continente che non conoscevano, l'America. Da allora cambiarono i commerci, che si spostarono verso l'Atlantico, arrivarono nuove piante e nuovi prodotti, e le popolazioni americane furono conquistate. Per questi grandi cambiamenti il 1492 segna l'inizio dell'età moderna."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "classe": "5ª elementare",
+  "materia": "Storia",
+  "missioni": [
+    {
+      "id": "lib-5-elementare-romani",
+      "classe": "5ª elementare",
+      "titolo": "Sulle strade dell'antica Roma",
+      "materia": "Storia",
+      "parola": "AQUILA",
+      "parola_spiegazione": "L'aquila era il simbolo delle legioni romane: perderla in battaglia era considerato un grande disonore.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "Le tappe di Roma antica",
+          "sintesi": "Secondo la leggenda Roma fu fondata da Romolo nel 753 a.C. La sua storia si divide in Monarchia, Repubblica (dal 509 a.C.) e Impero (dal 27 a.C.)."
+        },
+        {
+          "id": "c2",
+          "nome": "La Repubblica",
+          "sintesi": "Cacciato l'ultimo re, Roma fu guidata da due consoli eletti ogni anno e dal Senato. I patrizi erano le famiglie ricche e nobili; i plebei lottarono a lungo per avere più diritti."
+        },
+        {
+          "id": "c3",
+          "nome": "L'Impero romano",
+          "sintesi": "Dopo la morte di Giulio Cesare, Ottaviano Augusto divenne il primo imperatore nel 27 a.C. L'Impero romano d'Occidente finì nel 476 d.C."
+        },
+        {
+          "id": "c4",
+          "nome": "Le grandi opere romane",
+          "sintesi": "I Romani costruirono strade, ponti, acquedotti, terme e anfiteatri come il Colosseo. Ci hanno lasciato anche la lingua latina e il diritto romano."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c1",
+          "testo": "Secondo la leggenda, chi fondò Roma nel 753 a.C.?",
+          "opzioni": [
+            "Giulio Cesare",
+            "Enea",
+            "Romolo",
+            "Augusto"
+          ],
+          "corretta": 2,
+          "indizio": "Era uno dei due gemelli allattati da una lupa.",
+          "spiegazione": "Secondo la leggenda Romolo, gemello di Remo, fondò Roma e ne fu il primo re. Enea era un suo lontano antenato.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c3",
+          "testo": "Giulio Cesare fu il primo imperatore di Roma.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 1,
+          "indizio": "Ricorda chi prese il potere dopo la morte di Cesare.",
+          "spiegazione": "Giulio Cesare ebbe moltissimo potere, ma fu ucciso nel 44 a.C. Il primo imperatore fu Ottaviano Augusto, nel 27 a.C.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c2",
+          "testo": "Nella Repubblica, Roma era guidata da due ___, eletti ogni anno.",
+          "opzioni": [
+            "re",
+            "consoli",
+            "imperatori",
+            "faraoni"
+          ],
+          "corretta": 1,
+          "indizio": "Dopo la cacciata dell'ultimo re, i Romani non volevano più un solo capo.",
+          "spiegazione": "I consoli erano due e restavano in carica un anno: così nessuno poteva avere troppo potere.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "A che cosa servivano gli acquedotti romani?",
+          "opzioni": [
+            "A portare l'acqua dalle sorgenti alle città",
+            "A difendere le città dai nemici",
+            "A far passare le navi da guerra",
+            "A conservare il grano dei campi"
+          ],
+          "corretta": 0,
+          "indizio": "Pensa a che cosa serviva alle terme e alle fontane della città.",
+          "spiegazione": "Gli acquedotti portavano l'acqua anche da molto lontano fino a città, fontane e terme, sfruttando una leggera pendenza.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c1",
+          "testo": "Metti in ordine questi fatti della storia di Roma, dal più antico al più recente.",
+          "opzioni": [
+            "Fondazione di Roma",
+            "Nasce la Repubblica",
+            "Morte di Giulio Cesare",
+            "Augusto diventa imperatore",
+            "Fine dell'Impero romano d'Occidente"
+          ],
+          "corretta": -1,
+          "indizio": "Gli anni «avanti Cristo» vengono prima di quelli «dopo Cristo», e tra gli a.C. viene prima il numero più grande.",
+          "spiegazione": "753 a.C. fondazione, 509 a.C. Repubblica, 44 a.C. morte di Cesare, 27 a.C. Augusto imperatore, 476 d.C. fine dell'Impero d'Occidente.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "Perché i plebei protestarono a lungo contro i patrizi?",
+          "opzioni": [
+            "Volevano un nuovo re che comandasse",
+            "Volevano trasferirsi tutti in Grecia",
+            "Non volevano più andare alle terme",
+            "Volevano più diritti e partecipare al governo"
+          ],
+          "corretta": 3,
+          "indizio": "Pensa a chi aveva il potere nella Repubblica e chi no.",
+          "spiegazione": "All'inizio comandavano solo i patrizi. Con le loro lotte i plebei ottennero i tribuni della plebe e il diritto di partecipare al governo.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Perché le strade erano così importanti per l'Impero romano?",
+          "opzioni": [
+            "Servivano solo per le corse dei carri",
+            "Facevano viaggiare in fretta eserciti, merci e notizie",
+            "Erano costruite per i turisti stranieri",
+            "Impedivano ai nemici di entrare in Italia"
+          ],
+          "corretta": 1,
+          "indizio": "Immagina di dover controllare un impero enorme senza telefoni né treni.",
+          "spiegazione": "Le strade collegavano Roma a tutto l'Impero: le legioni arrivavano in fretta dove servivano, e merci e notizie viaggiavano più veloci.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c4",
+          "testo": "Molte cose che usiamo ancora oggi ce le hanno lasciate i Romani. Fai almeno due esempi e spiega perché sono importanti.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Pensa alla lingua che parli, alle strade e alle leggi.",
+          "spiegazione": "Dai Romani abbiamo ereditato la lingua latina, da cui nasce l'italiano, il diritto e tecniche per costruire strade, ponti e acquedotti.",
+          "risposta_modello": "Per esempio la lingua latina, da cui deriva l'italiano; il diritto romano, che è alla base di molte leggi di oggi; le strade come la via Appia, alcune usate ancora oggi; ponti e acquedotti costruiti con l'arco; i numeri romani che vediamo su orologi e monumenti."
+        }
+      ]
+    }
+  ]
+}

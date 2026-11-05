@@ -1,0 +1,158 @@
+{
+  "classe": "3ª elementare",
+  "materia": "Storia",
+  "missioni": [
+    {
+      "id": "lib-3-elementare-preistoria",
+      "classe": "3ª elementare",
+      "titolo": "Indietro nel tempo: la Preistoria",
+      "materia": "Storia",
+      "parola": "FUOCO",
+      "parola_spiegazione": "Con il fuoco gli uomini preistorici si scaldavano, cuocevano il cibo e tenevano lontani gli animali feroci: una scoperta che cambiò la loro vita.",
+      "creata": "2026-11-05T12:00:00.000Z",
+      "concetti": [
+        {
+          "id": "c1",
+          "nome": "La linea del tempo",
+          "sintesi": "La Preistoria va dalla comparsa dei primi esseri umani all'invenzione della scrittura, circa 5000 anni fa. Si divide in Paleolitico, Neolitico ed età dei metalli."
+        },
+        {
+          "id": "c2",
+          "nome": "Il Paleolitico",
+          "sintesi": "Nel Paleolitico, l'età della pietra antica, gli uomini erano nomadi: cacciavano, pescavano e raccoglievano frutti, e usavano strumenti di pietra scheggiata."
+        },
+        {
+          "id": "c3",
+          "nome": "La scoperta del fuoco",
+          "sintesi": "Il fuoco permetteva di scaldarsi, fare luce, cuocere il cibo e tenere lontani gli animali feroci."
+        },
+        {
+          "id": "c4",
+          "nome": "Il Neolitico",
+          "sintesi": "Nel Neolitico, l'età della pietra nuova, gli uomini impararono a coltivare e ad allevare: diventarono sedentari, costruirono villaggi e usarono la pietra levigata e vasi di terracotta."
+        },
+        {
+          "id": "c5",
+          "nome": "L'età dei metalli",
+          "sintesi": "Gli uomini impararono a fondere i metalli: prima il rame, poi il bronzo (rame e stagno) e infine il ferro, più resistenti della pietra."
+        }
+      ],
+      "domande": [
+        {
+          "tipo": "scelta",
+          "concetto": "c2",
+          "testo": "Come si procuravano il cibo gli uomini del Paleolitico?",
+          "opzioni": [
+            "Coltivavano grandi campi di grano",
+            "Lo compravano al mercato del villaggio",
+            "Allevavano mucche nelle stalle",
+            "Cacciavano, pescavano e raccoglievano frutti"
+          ],
+          "corretta": 3,
+          "indizio": "Nel Paleolitico l'agricoltura non era ancora stata inventata.",
+          "spiegazione": "Gli uomini del Paleolitico erano cacciatori e raccoglitori: prendevano dalla natura quello che trovavano.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "vero_falso",
+          "concetto": "c1",
+          "testo": "Gli uomini preistorici cacciavano i dinosauri.",
+          "opzioni": [
+            "Vero",
+            "Falso"
+          ],
+          "corretta": 1,
+          "indizio": "Pensa a quando sono scomparsi i dinosauri e a quando sono comparsi i primi esseri umani.",
+          "spiegazione": "I dinosauri si estinsero circa 66 milioni di anni fa, moltissimo tempo prima che comparissero i primi esseri umani.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "completa",
+          "concetto": "c2",
+          "testo": "Gli uomini del Paleolitico si spostavano continuamente per seguire gli animali da cacciare: erano ___.",
+          "opzioni": [
+            "sedentari",
+            "nomadi",
+            "agricoltori",
+            "allevatori"
+          ],
+          "corretta": 1,
+          "indizio": "È il contrario di chi vive sempre nello stesso posto.",
+          "spiegazione": "I nomadi non hanno una casa fissa: si spostano per trovare cibo, come facevano gli uomini del Paleolitico.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c3",
+          "testo": "Perché la scoperta del fuoco fu così importante?",
+          "opzioni": [
+            "Permetteva di scaldarsi, cuocere il cibo e allontanare gli animali",
+            "Serviva soprattutto per fondere il ferro e fare spade",
+            "Serviva solo per mandare segnali di fumo agli amici",
+            "Faceva crescere più in fretta le piante nei campi"
+          ],
+          "corretta": 0,
+          "indizio": "Immagina una notte fredda e buia in una grotta, con i lupi là fuori.",
+          "spiegazione": "Il fuoco dava calore e luce, permetteva di cuocere il cibo e spaventava gli animali feroci. I metalli si impararono a fondere molto più tardi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "ordina",
+          "concetto": "c1",
+          "testo": "Metti in ordine questi fatti della Preistoria, dal più antico al più recente.",
+          "opzioni": [
+            "Compaiono i primi esseri umani",
+            "Gli uomini imparano a usare il fuoco",
+            "Nascono l'agricoltura e i primi villaggi",
+            "Si cominciano a lavorare i metalli",
+            "Viene inventata la scrittura"
+          ],
+          "corretta": -1,
+          "indizio": "Ricorda che l'invenzione della scrittura segna la fine della Preistoria.",
+          "spiegazione": "Prima compaiono gli esseri umani, poi imparano a usare il fuoco; nel Neolitico nascono agricoltura e villaggi, poi arrivano i metalli e infine la scrittura chiude la Preistoria.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c4",
+          "testo": "Che cosa cambiò quando gli uomini impararono a coltivare la terra?",
+          "opzioni": [
+            "Smisero per sempre di mangiare carne",
+            "Andarono tutti a vivere nelle grotte",
+            "Diventarono ancora più nomadi di prima",
+            "Diventarono sedentari e costruirono i primi villaggi"
+          ],
+          "corretta": 3,
+          "indizio": "Se semini il grano devi aspettare che cresca: puoi andartene lontano?",
+          "spiegazione": "Chi coltiva deve restare vicino ai campi per curarli e fare il raccolto: così gli uomini si fermarono e costruirono villaggi.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "scelta",
+          "concetto": "c5",
+          "testo": "Perché gli attrezzi di metallo presero piano piano il posto di quelli di pietra?",
+          "opzioni": [
+            "Si trovavano già pronti nei campi",
+            "Erano più leggeri di una piuma",
+            "Erano più resistenti e si potevano modellare",
+            "Brillavano e spaventavano gli animali"
+          ],
+          "corretta": 2,
+          "indizio": "Pensa a che cosa succede a una punta di pietra quando colpisce qualcosa di duro.",
+          "spiegazione": "I metalli, fusi nel fuoco, si potevano modellare in tante forme e davano attrezzi e armi più robusti della pietra, che si scheggia.",
+          "risposta_modello": ""
+        },
+        {
+          "tipo": "aperta",
+          "concetto": "c4",
+          "testo": "Immagina di vivere nel Neolitico. Racconta come è cambiata la tua vita rispetto a quella dei tuoi antenati del Paleolitico.",
+          "opzioni": [],
+          "corretta": -1,
+          "indizio": "Pensa al cibo, alla casa e agli attrezzi: com'erano prima e come sono adesso?",
+          "spiegazione": "Nel Neolitico nascono agricoltura e allevamento: gli uomini diventano sedentari, vivono in villaggi e usano pietra levigata e vasi di terracotta.",
+          "risposta_modello": "Nel Neolitico non sono più nomade: coltivo cereali come grano e orzo, allevo pecore e capre e vivo in un villaggio di capanne. Uso attrezzi di pietra levigata e vasi di terracotta per conservare il cibo. I miei antenati del Paleolitico invece cacciavano, raccoglievano frutti e si spostavano continuamente."
+        }
+      ]
+    }
+  ]
+}

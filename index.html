@@ -696,7 +696,22 @@ const blobToBase64 = blob => new Promise((resolve, reject) => {
   r.readAsDataURL(blob);
 });
 
-async function apiCall({ content, schema, effort, maxTokens, signal }) {
+// Links a request to the caller's signal and aborts it after `ms`, so a slow service never blocks the game.
+function withTimeout(signal, ms) {
+  const ctl = new AbortController();
+  let timedOut = false;
+  const onAbort = () => ctl.abort();
+  if (signal) { if (signal.aborted) ctl.abort(); else signal.addEventListener('abort', onAbort, { once: true }); }
+  const timer = setTimeout(() => { timedOut = true; ctl.abort(); }, ms);
+  return {
+    signal: ctl.signal,
+    timedOut: () => timedOut,
+    done: () => { clearTimeout(timer); if (signal) signal.removeEventListener('abort', onAbort); }
+  };
+}
+const fetchFailure = (e, t, model) => ({ code: t.timedOut() ? 'timeout' : e && e.name === 'AbortError' ? 'cancelled' : 'network', model });
+
+async function apiCall({ content, schema, effort, maxTokens, signal, timeoutMs = 60000 }) {
   const s = Store.s;
   if (!s.apiKey) throw { code: 'no_key' };
   const model = MODEL_NAMES[s.model] ? s.model : DEFAULTS.model;
@@ -716,10 +731,14 @@ async function apiCall({ content, schema, effort, maxTokens, signal }) {
     headers['anthropic-beta'] = 'server-side-fallback-2026-07-01';
     body.fallbacks = 'default';
   }
-  let res;
-  try { res = await fetch(API_URL, { method: 'POST', headers, body: JSON.stringify(body), signal }); }
-  catch (e) { throw { code: e && e.name === 'AbortError' ? 'cancelled' : 'network' }; }
-  const data = await res.json().catch(() => null);
+  const t = withTimeout(signal, timeoutMs);
+  let res, data;
+  try {
+    res = await fetch(API_URL, { method: 'POST', headers, body: JSON.stringify(body), signal: t.signal });
+    data = await res.json().catch(() => null);
+  } catch (e) { throw fetchFailure(e, t, model); }
+  finally { t.done(); }
+  if (t.timedOut()) throw { code: 'timeout', model };
   if (!res.ok) throw { code: 'http', status: res.status, message: (data && data.error && data.error.message) || '' };
   if (!data) throw { code: 'bad_output' };
   if (data.stop_reason === 'refusal') throw { code: 'refused' };
@@ -735,9 +754,14 @@ function parseJsonLoose(text) {
   throw { code: 'bad_output' };
 }
 
-async function geminiCall({ parts, schema, maxTokens, signal }) {
+async function geminiCall({ parts, schema, maxTokens, signal, timeoutMs = 60000 }) {
   const s = Store.s;
   if (!s.geminiKey) throw { code: 'no_key' };
+  const t = withTimeout(signal, timeoutMs);
+  try { return await geminiRequest({ parts, schema, maxTokens, s, t }); }
+  finally { t.done(); }
+}
+async function geminiRequest({ parts, schema, maxTokens, s, t }) {
   const first = GEMINI_MODELS[s.geminiModel] ? s.geminiModel : DEFAULTS.geminiModel;
   const models = [first, ...Object.keys(GEMINI_MODELS).filter(m => m !== first)];
   const hasImages = parts.some(p => p.inlineData);
@@ -752,15 +776,16 @@ async function geminiCall({ parts, schema, maxTokens, signal }) {
     if (use.thinking && !/lite/.test(model)) generationConfig.thinkingConfig = { thinkingLevel: 'LOW' };
     // High media resolution: lets the model read the small print of a textbook page.
     if (use.media) generationConfig.mediaResolution = 'MEDIA_RESOLUTION_HIGH';
-    let res;
+    let res, data;
     try {
       res = await fetch(GEMINI_URL(model), {
-        method: 'POST', signal,
+        method: 'POST', signal: t.signal,
         headers: { 'content-type': 'application/json', 'x-goog-api-key': s.geminiKey },
         body: JSON.stringify({ contents: [{ role: 'user', parts }], generationConfig })
       });
-    } catch (e) { throw { code: e && e.name === 'AbortError' ? 'cancelled' : 'network', model }; }
-    const data = await res.json().catch(() => null);
+      data = await res.json().catch(() => null);
+    } catch (e) { throw fetchFailure(e, t, model); }
+    if (t.timedOut()) throw { code: 'timeout', model };
     if (!res.ok) {
       const err = { code: 'http', provider: 'gemini', model, status: res.status, message: (data && data.error && data.error.message) || '' };
       if (res.status === 400) {
@@ -832,7 +857,7 @@ const AI = {
         parts.push({ text: `Foto ${i + 1}:` });
         parts.push({ inlineData: { mimeType: 'image/jpeg', data: await blobToBase64(blobs[i]) } });
       }
-      return geminiCall({ parts, schema: MISSION_SCHEMA, maxTokens: 16384, signal });
+      return geminiCall({ parts, schema: MISSION_SCHEMA, maxTokens: 16384, signal, timeoutMs: 150000 });
     }
     const content = [];
     for (let i = 0; i < blobs.length; i++) {
@@ -840,7 +865,7 @@ const AI = {
       content.push({ type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: await blobToBase64(blobs[i]) } });
     }
     content.push({ type: 'text', text: prompt });
-    return apiCall({ content, schema: MISSION_SCHEMA, effort: 'medium', maxTokens: 16000, signal });
+    return apiCall({ content, schema: MISSION_SCHEMA, effort: 'medium', maxTokens: 16000, signal, timeoutMs: 150000 });
   },
   async grade(q, answer, signal) {
     const prompt = gradePrompt(q, answer);
@@ -848,9 +873,9 @@ const AI = {
       return this.sample.json(prompt + '\n\nRispondi SOLO con JSON: {"esito": "giusta" | "quasi" | "non_ancora", "feedback": "..."}', { signal, modelTier: 'quick', cache: false });
     }
     if (Store.s.provider !== 'claude') {
-      return geminiCall({ parts: [{ text: prompt + '\n\nRispondi SOLO con JSON: {"esito": "giusta" | "quasi" | "non_ancora", "feedback": "..."}' }], schema: GRADE_SCHEMA, maxTokens: 4096, signal });
+      return geminiCall({ parts: [{ text: prompt + '\n\nRispondi SOLO con JSON: {"esito": "giusta" | "quasi" | "non_ancora", "feedback": "..."}' }], schema: GRADE_SCHEMA, maxTokens: 4096, signal, timeoutMs: 30000 });
     }
-    return apiCall({ content: [{ type: 'text', text: prompt }], schema: GRADE_SCHEMA, effort: 'low', maxTokens: 4000, signal });
+    return apiCall({ content: [{ type: 'text', text: prompt }], schema: GRADE_SCHEMA, effort: 'low', maxTokens: 4000, signal, timeoutMs: 30000 });
   }
 };
 
@@ -871,6 +896,7 @@ function errorText(e) {
     case 'cancelled': return '';
     case 'network': return 'Non riesco a collegarmi a internet. Controlla la connessione e riprova.';
     case 'no_key': return "Per creare missioni serve la chiave API: chiedi a un genitore di inserirla nell'Area genitori.";
+    case 'timeout': return "L'intelligenza artificiale non ha risposto in tempo: il servizio gratuito a volte è molto lento. Riprova tra poco.";
     case 'recitation': return 'Le domande copiavano troppo il libro e sono state bloccate. Riprova: di solito al secondo tentativo funziona.';
     case 'http':
       if (e.provider === 'gemini') {
@@ -1350,7 +1376,18 @@ function renderOpen(body, q) {
     send.disabled = true; ta.disabled = true;
     status.hidden = false; status.textContent = 'Il Maestro sta leggendo la tua risposta…';
     G.ctl = new AbortController();
-    const myCtl = G.ctl, qi = G.current;
+    const myCtl = G.ctl, qi = G.current, t0 = Date.now();
+    // If the AI is slow, the child can stop waiting and compare with the model answer.
+    let skipped = false;
+    const skip = el('button', 'link-btn', 'Non aspettare: confronta tu la risposta');
+    skip.type = 'button'; skip.hidden = true;
+    skip.addEventListener('click', () => { skipped = true; myCtl.abort(); });
+    body.append(skip);
+    const tick = setInterval(() => {
+      const sec = Math.round((Date.now() - t0) / 1000);
+      status.textContent = `Il Maestro sta leggendo la tua risposta… ${sec} s`;
+      if (sec >= 8) skip.hidden = false;
+    }, 1000);
     try {
       const r = await AI.grade(q, answer, myCtl.signal);
       if (myCtl.signal.aborted || G.current !== qi || G.answered) return;
@@ -1363,8 +1400,12 @@ function renderOpen(body, q) {
       else if (esito === 'quasi') resolve('partial', { feedback, correction: `Risposta completa: ${q.risposta_modello}` });
       else resolve('ko', { feedback, correction: lastTry ? `Risposta completa: ${q.risposta_modello}` : '' , hideExplanation: !lastTry });
     } catch (e) {
-      if (myCtl.signal.aborted || (e && e.code === 'cancelled')) return;
+      if (!skipped && (myCtl.signal.aborted || (e && e.code === 'cancelled'))) return;
+      if (G.current !== qi || G.answered) return;
       selfCheck();
+    } finally {
+      clearInterval(tick);
+      skip.remove();
     }
   });
 }

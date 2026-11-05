@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sfida Cryptex · Il Codice di Polibio</title>
+<style>
+    :root {
+        --bg1: #090d16;
+        --bg2: #1e1b4b;
+        --panel: rgba(15, 23, 42, 0.94);
+        --panel-2: #1e293b;
+        --ink: #020617;
+        --line: #334155;
+        --cyan: #38bdf8;
+        --cyan-dark: #0284c7;
+        --amber: #f59e0b;
+        --green: #22c55e;
+        --red: #ef4444;
+        --text: #e2e8f0;
+        --muted: #94a3b8;
+        --white: #f8fafc;
+
+        /* Misure del cryptex: si adattano allo schermo e al numero di lettere (--n, impostato dal JS) */
+        --ring-w: clamp(30px, calc((min(100vw, 640px) - 150px) / var(--n, 5)), 72px);
+        --slot: calc(var(--ring-w) * 0.78);
+        --cap-w: clamp(18px, 5.5vw, 34px);
+    }
+    * { box-sizing: border-box; }
+    [hidden] { display: none !important; }
+    body {
+        margin: 0;
+        min-height: 100vh;
+        padding: 16px 12px 32px;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: var(--bg1);
+        background-image: linear-gradient(135deg, var(--bg1), var(--bg2));
+        color: var(--text);
+    }
+    .container {
+        max-width: 620px;
+        margin: 0 auto;
+        padding: 22px 14px;
+        background: var(--panel);
+        border: 2px solid var(--cyan-dark);
+        border-radius: 20px;
+        box-shadow: 0 0 30px rgba(56, 189, 248, 0.25);
+        text-align: center;
+    }
+    h1 {
+        margin: 0;
+        color: var(--amber);
+        font-size: clamp(1.4rem, 5.5vw, 2rem);
+        letter-spacing: 2px;
+        text-shadow: 0 0 10px rgba(245, 158, 11, 0.5);
+    }
+    .sottotitolo { margin: 4px 0 0; color: var(--cyan); font-weight: bold; letter-spacing: 1px; }
+    .intro { margin: 12px auto 0; max-width: 48ch; color: var(--muted); font-size: 0.95rem; line-height: 1.5; }
+    .intro b { color: var(--white); }
+
+    .box-avviso { text-align: left; margin-top: 16px; padding: 12px 14px; border-radius: 10px; line-height: 1.5; font-size: 0.9rem; }
+    .box-avviso.errore { background: rgba(239, 68, 68, 0.12); border: 1px solid var(--red); color: #fecaca; }
+    .box-avviso.info { background: rgba(56, 189, 248, 0.10); border: 1px solid var(--cyan); color: #bae6fd; }
+    .box-avviso ul { margin: 6px 0 0; padding-left: 20px; }
+
+    /* ---------- CRYPTEX ---------- */
+    .cryptex-wrap { margin: 24px 0 4px; }
+    .cryptex { display: flex; justify-content: center; align-items: flex-start; }
+    .cap {
+        position: relative;
+        flex: none;
+        width: var(--cap-w);
+        height: calc(var(--slot) * 2.2);
+        margin-top: calc(var(--slot) * 0.4);
+        background: linear-gradient(to bottom, #2a1c08, #8a6227 28%, #e2c27a 50%, #8a6227 72%, #2a1c08);
+        transition: transform 0.9s cubic-bezier(0.2, 0.8, 0.2, 1);
+        z-index: 3;
+    }
+    .cap-left { border-radius: 14px 3px 3px 14px; margin-right: 3px; }
+    .cap-right { border-radius: 3px 14px 14px 3px; margin-left: 3px; }
+    .cap::after { content: ""; position: absolute; top: 50%; transform: translateY(-50%); border: 6px solid transparent; }
+    .cap-left::after { right: 2px; border-left-color: var(--amber); }
+    .cap-right::after { left: 2px; border-right-color: var(--amber); }
+    .cryptex.aperto .cap-left { transform: translateX(-16px) rotate(-6deg); }
+    .cryptex.aperto .cap-right { transform: translateX(16px) rotate(6deg); }
+
+    .anelli { display: flex; gap: 3px; }
+    .colonna-anello { display: flex; flex-direction: column; align-items: center; width: var(--ring-w); }
+    .anello {
+        position: relative;
+        z-index: 0;
+        width: 100%;
+        height: calc(var(--slot) * 3);
+        overflow: hidden;
+        border-radius: 4px;
+        background: linear-gradient(to bottom, #3a2810, #b8873a 30%, #f3d690 50%, #b8873a 70%, #3a2810);
+        box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.4);
+        transition: box-shadow 0.3s;
+    }
+    .anello::before { /* fascia di lettura centrale */
+        content: "";
+        position: absolute;
+        left: 0; right: 0;
+        top: var(--slot);
+        height: var(--slot);
+        border-top: 1px solid rgba(0, 0, 0, 0.35);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.35);
+        z-index: 2;
+        pointer-events: none;
+        transition: background 0.4s, border-color 0.4s;
+    }
+    .anello::after { /* ombra cilindrica */
+        content: "";
+        position: absolute;
+        inset: 0;
+        z-index: 2;
+        pointer-events: none;
+        background: linear-gradient(to bottom, rgba(0,0,0,0.65), rgba(0,0,0,0) 36%, rgba(0,0,0,0) 64%, rgba(0,0,0,0.65));
+    }
+    .striscia { position: absolute; top: 0; left: 0; right: 0; will-change: transform; }
+    .striscia span {
+        display: block;
+        height: var(--slot);
+        line-height: var(--slot);
+        font-size: calc(var(--slot) * 0.6);
+        font-weight: bold;
+        color: #2b1d07;
+        text-shadow: 0 1px 0 rgba(255, 240, 200, 0.55);
+    }
+    .anello.bloccato .striscia { opacity: 0.55; }
+    .anello.attivo { z-index: 1; box-shadow: inset 0 0 0 1px rgba(0,0,0,0.4), 0 0 0 2px var(--amber), 0 0 16px rgba(245, 158, 11, 0.7); }
+    .anello.risolto { box-shadow: inset 0 0 0 1px rgba(0,0,0,0.4), 0 0 12px rgba(34, 197, 94, 0.45); }
+    .anello.risolto::before { background: rgba(34, 197, 94, 0.30); border-color: rgba(34, 197, 94, 0.9); }
+    .cryptex.aperto .anello { box-shadow: 0 0 18px rgba(34, 197, 94, 0.75); }
+
+    .coppia { display: flex; gap: 3px; width: 100%; margin-top: 8px; }
+    .num {
+        flex: 1;
+        min-width: 0;
+        height: 30px;
+        line-height: 28px;
+        border: 1px solid var(--line);
+        border-radius: 5px;
+        background: var(--ink);
+        color: #475569;
+        font-size: 13px;
+        font-weight: bold;
+    }
+    .num.corrente { border-color: var(--amber); color: var(--amber); animation: pulsa 1.2s infinite; }
+    .num.svelato { color: var(--amber); border-color: var(--amber); background: var(--panel-2); font-size: 16px; }
+    .colonna-anello.fatto .num.svelato { color: var(--green); border-color: var(--green); }
+    .num.pop { animation: pop 0.5s; }
+    .legenda { margin: 10px 0 0; font-size: 0.75rem; color: var(--muted); }
+
+    /* ---------- AREA DI GIOCO ---------- */
+    .stage {
+        margin-top: 18px;
+        padding: 18px 14px 20px;
+        background: var(--panel-2);
+        border: 1px solid var(--line);
+        border-radius: 14px;
+    }
+    .stage-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; font-size: 0.85rem; color: var(--muted); }
+    .fase { color: var(--amber); font-weight: bold; letter-spacing: 1px; font-size: 1rem; }
+    .barra { height: 6px; margin-top: 10px; background: #0f172a; border-radius: 3px; overflow: hidden; }
+    .barra div { height: 100%; width: 0; background: linear-gradient(90deg, var(--cyan), var(--amber)); transition: width 0.5s; }
+    .etichetta {
+        display: inline-block;
+        margin-top: 16px;
+        padding: 3px 10px;
+        border-radius: 999px;
+        font-size: 0.8rem;
+        font-weight: bold;
+        letter-spacing: 1px;
+        background: rgba(56, 189, 248, 0.15);
+        color: var(--cyan);
+        border: 1px solid rgba(56, 189, 248, 0.5);
+    }
+    .domanda { margin: 14px 0 18px; font-size: clamp(1.05rem, 4.2vw, 1.25rem); line-height: 1.55; color: var(--white); }
+    .domanda b { color: var(--amber); }
+    .riga-risposta { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
+    #risposta {
+        font: inherit;
+        font-size: 24px;
+        font-weight: bold;
+        width: 110px;
+        padding: 8px;
+        text-align: center;
+        border-radius: 8px;
+        border: 2px solid var(--cyan);
+        background: #0f172a;
+        color: #fff;
+        outline: none;
+    }
+    #risposta:focus { border-color: var(--amber); }
+    #risposta[readonly] { opacity: 0.6; }
+    .btn {
+        font: inherit;
+        font-size: 18px;
+        font-weight: bold;
+        padding: 10px 22px;
+        border: 0;
+        border-radius: 8px;
+        background: var(--green);
+        color: var(--ink);
+        cursor: pointer;
+        transition: transform 0.15s, background 0.15s;
+    }
+    .btn:hover:not(:disabled) { background: #16a34a; transform: scale(1.03); }
+    .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    .feedback { min-height: 1.5em; margin: 14px 0 0; font-weight: bold; line-height: 1.45; white-space: pre-line; }
+    .feedback.ok { color: var(--green); }
+    .feedback.ko { color: var(--red); }
+    .feedback.warn { color: var(--amber); }
+    .feedback.info { color: var(--cyan); }
+
+    .coordinate { display: flex; justify-content: center; gap: 10px; margin: 14px 0 6px; }
+    .chip { padding: 6px 12px; border-radius: 8px; background: #0f172a; border: 1px solid var(--amber); color: var(--amber); font-weight: bold; }
+    .chip b { font-size: 1.3rem; }
+    .nota { margin: 8px 0 0; font-size: 0.8rem; color: var(--amber); }
+    .polibio { display: grid; grid-template-columns: repeat(6, 1fr); gap: 4px; max-width: 320px; margin: 14px auto 4px; }
+    .polibio .h { display: flex; align-items: center; justify-content: center; font-weight: bold; color: var(--cyan); border-radius: 6px; transition: background 0.3s, color 0.3s; }
+    .polibio .h.evidenzia { background: var(--amber); color: var(--ink); }
+    .cella {
+        aspect-ratio: 1;
+        padding: 0;
+        font: inherit;
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: var(--white);
+        background: #0f172a;
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        cursor: pointer;
+        transition: background 0.2s, border-color 0.2s, transform 0.1s;
+    }
+    .cella.ij { font-size: 0.9rem; }
+    .cella:hover { border-color: var(--amber); }
+    .cella:active { transform: scale(0.94); }
+    .cella.giusta { background: var(--green); color: var(--ink); border-color: var(--green); }
+    .cella.sbagliata { background: var(--red); border-color: var(--red); }
+    .polibio.disattiva .cella { pointer-events: none; opacity: 0.6; }
+    .aiuto-griglia { font-size: 0.8rem; color: var(--muted); margin: 8px 0 0; }
+
+    .finale h2 { color: var(--green); font-size: clamp(1.4rem, 5vw, 1.8rem); margin: 10px 0; }
+    .finale p { color: var(--white); line-height: 1.5; }
+    .parola { display: flex; justify-content: center; gap: 6px; margin: 16px 0; }
+    .parola span {
+        flex: 0 1 48px;
+        min-width: 0;
+        height: 58px;
+        line-height: 58px;
+        font-size: 2rem;
+        font-weight: bold;
+        color: var(--amber);
+        background: #0f172a;
+        border: 2px solid var(--amber);
+        border-radius: 8px;
+        box-shadow: 0 0 12px rgba(245, 158, 11, 0.4);
+        animation: pop 0.5s backwards;
+    }
+    .esito { color: var(--muted) !important; font-size: 0.9rem; }
+
+    details.spiegazione {
+        margin-top: 16px;
+        text-align: left;
+        font-size: 0.9rem;
+        line-height: 1.5;
+        color: var(--muted);
+        background: rgba(2, 6, 23, 0.5);
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        padding: 10px 14px;
+    }
+    details.spiegazione summary { cursor: pointer; color: var(--cyan); font-weight: bold; }
+    .piede { margin-top: 12px; }
+    .link { background: none; border: 0; color: var(--muted); font: inherit; font-size: 0.85rem; text-decoration: underline; cursor: pointer; padding: 6px; }
+    .link.conferma { color: var(--red); font-weight: bold; }
+
+    .scuoti { animation: scuoti 0.4s; }
+    .coriandoli { position: fixed; inset: 0; pointer-events: none; overflow: hidden; z-index: 50; }
+    .coriandoli i { position: absolute; top: -16px; width: 8px; height: 14px; border-radius: 2px; animation-name: cadi; animation-timing-function: linear; animation-fill-mode: forwards; }
+
+    @keyframes pulsa { 50% { box-shadow: 0 0 10px rgba(245, 158, 11, 0.6); } }
+    @keyframes pop { 0% { transform: scale(1); } 40% { transform: scale(1.3); } 100% { transform: scale(1); } }
+    @keyframes scuoti { 20%, 60% { transform: translateX(-6px); } 40%, 80% { transform: translateX(6px); } }
+    @keyframes cadi { to { transform: translateY(110vh) rotate(720deg); } }
+
+    @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after { animation: none !important; transition: none !important; }
+    }
+</style>
+</head>
+<body>
+<main class="container">
+    <h1>🔐 SFIDA CRYPTEX 🔐</h1>
+    <p class="sottotitolo">Il Codice di Polibio</p>
+    <p class="intro">Ogni risposta è una <b>coordinata da 1 a 5</b> del Quadrato di Polibio, un antico cifrario greco. Due numeri (<b>riga</b> e <b>colonna</b>) formano una lettera. Attenzione: il cifrario si mescola ogni volta, quindi <b>la sfida non è mai uguale</b>!</p>
+
+    <div id="errore-config" class="box-avviso errore" hidden></div>
+    <div id="verifica" class="box-avviso info" hidden></div>
+
+    <div class="cryptex-wrap" id="cryptex-wrap">
+        <div class="cryptex" id="cryptex" role="img" aria-label="Cryptex">
+            <div class="cap cap-left"></div>
+            <div class="anelli" id="anelli"></div>
+            <div class="cap cap-right"></div>
+        </div>
+        <p class="legenda">Sotto ogni anello: R = riga · C = colonna</p>
+    </div>
+
+    <section class="stage" id="stage">
+        <div class="stage-head">
+            <span class="fase" id="fase">Lettera 1</span>
+            <span id="errori">Errori: 0</span>
+        </div>
+        <div class="barra"><div id="barra"></div></div>
+
+        <form id="modulo" autocomplete="off" hidden>
+            <span class="etichetta" id="etichetta">NUMERO DI RIGA</span>
+            <p class="domanda" id="domanda"></p>
+            <div class="riga-risposta">
+                <input id="risposta" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="3" placeholder="?" aria-label="La tua risposta">
+                <button class="btn" id="conferma" type="submit">CONFERMA</button>
+            </div>
+        </form>
+
+        <div id="decodifica" hidden>
+            <span class="etichetta">DECIFRA LA LETTERA</span>
+            <div class="coordinate">
+                <span class="chip">RIGA <b id="c-riga"></b></span>
+                <span class="chip">COLONNA <b id="c-colonna"></b></span>
+            </div>
+            <p class="domanda">Trova la casella nel Quadrato di Polibio e toccala.</p>
+            <div class="polibio" id="polibio"></div>
+            <p class="aiuto-griglia">Riga = numeri a sinistra · Colonna = numeri in alto</p>
+            <p class="nota">⚠️ Ogni lettera ha il suo cifrario: le caselle sono mescolate in modo diverso!</p>
+        </div>
+
+        <div id="finale" class="finale" hidden>
+            <h2>🔓 CRYPTEX APERTO!</h2>
+            <p>Hai decifrato la parola segreta:</p>
+            <div class="parola" id="parola"></div>
+            <p>Ora prendi il tuo <b>cryptex vero</b> e gira gli anelli fino a formare questa parola.</p>
+            <p class="esito" id="esito"></p>
+            <button class="btn" type="button" id="rigioca">GIOCA DI NUOVO</button>
+        </div>
+
+        <p class="feedback" id="feedback" aria-live="polite"></p>
+    </section>
+
+    <details class="spiegazione">
+        <summary>Che cos'è il Quadrato di Polibio?</summary>
+        <p>Polibio era uno storico greco vissuto più di 2000 anni fa. Inventò un modo per trasformare ogni lettera in <b>due numeri</b>: la riga e la colonna di una griglia 5×5. Così si potevano mandare messaggi segreti a distanza, perfino con le torce! Nella griglia la I e la J condividono la stessa casella.</p>
+        <p>In questo gioco le lettere della griglia vengono mescolate a ogni partita e per ogni lettera: chi non conosce la griglia giusta non può indovinare il codice.</p>
+    </details>
+
+    <div class="piede"><button class="link" id="ricomincia" type="button">↺ Ricomincia da capo</button></div>
+</main>
+
+<script>
+(function () {
+    "use strict";
+
+    /* =====================================================================
+       CONFIGURAZIONE
+       ---------------------------------------------------------------------
+       PAROLA_CRYPTEX: la combinazione del tuo cryptex (da 3 a 7 lettere).
+       La J vale come I (nel Quadrato di Polibio stanno nella stessa casella).
+
+       BANCA: 150 domande, 30 per ogni risposta possibile (1, 2, 3, 4, 5).
+       "t" è il testo (può contenere <b> e <br>), "r" è la risposta.
+
+       Come funziona a ogni partita:
+         - per OGNI lettera viene creato un Quadrato di Polibio mescolato a
+           caso: la riga e la colonna della lettera cambiano sempre, quindi
+           le risposte non si possono imparare a memoria;
+         - per ogni numero che serve si pesca una domanda con quella
+           risposta, scegliendo prima quelle mai uscite su questo
+           dispositivo. Le domande si ripetono solo dopo averle viste tutte;
+         - 2 errori sulla stessa domanda = il cifrario si rimescola e arriva
+           una domanda nuova, quindi tirare a indovinare non conviene;
+         - ricaricare la pagina non cambia domanda e non toglie i blocchi.
+
+       Puoi aggiungere o modificare domande liberamente: basta che "r" sia
+       un numero intero da 1 a 5. Apri la pagina con "?verifica" in fondo
+       all'indirizzo (es. sfida_cryptex_2.html?verifica) per un controllo.
+       ===================================================================== */
+    const PAROLA_CRYPTEX = "GENIO";
+
+    const BANCA = [
+        // ---------------- risposta 1 ----------------
+        { r: 1, t: "Dividi il numero dei <b>giorni della settimana</b> per il numero dei <b>colori dell'arcobaleno</b>. Quanto fa?" },
+        { r: 1, t: "Qual è il prossimo numero della sequenza?<br><b>9, 7, 5, 3, …</b>" },
+        { r: 1, t: "Quanto fa <b>100 ÷ 100</b>?" },
+        { r: 1, t: "Hai 12 biscotti e ne mangi 11. Quanti biscotti restano?" },
+        { r: 1, t: "Quale numero, moltiplicato per qualsiasi altro numero, lo lascia <b>uguale</b>?" },
+        { r: 1, t: "Quante lune ha la Terra?" },
+        { r: 1, t: "Quanto fa <b>(6 + 4) ÷ 10</b>?" },
+        { r: 1, t: "Un'ora ha 60 minuti. Quante ore sono <b>60 minuti</b>?" },
+        { r: 1, t: "Quanto fa <b>25 − (8 × 3)</b>?" },
+        { r: 1, t: "Una torta è divisa in 8 fette. Ne vengono mangiate 7. Quante fette restano?" },
+        { r: 1, t: "Quanti <b>zeri</b> ci sono nel numero <b>101</b>?" },
+        { r: 1, t: "Qual è la cifra delle <b>centinaia</b> nel numero <b>175</b>?" },
+        { r: 1, t: "Un triangolo ha 3 lati, un quadrato ne ha 4. Quanti lati <b>in più</b> ha il quadrato?" },
+        { r: 1, t: "Quante volte il 7 sta nel 7?" },
+        { r: 1, t: "Marco ha 15 anni e Luca ne ha 14. Quanti anni di differenza ci sono?" },
+        { r: 1, t: "Quanto fa <b>(36 ÷ 6) − 5</b>?" },
+        { r: 1, t: "Quale numero devi aggiungere a 99 per arrivare a 100?" },
+        { r: 1, t: "Pensa a un numero qualsiasi, moltiplicalo per <b>0</b> e poi aggiungi 1. Che numero ottieni?" },
+        { r: 1, t: "Quante pizze <b>intere</b> ottieni unendo due mezze pizze?" },
+        { r: 1, t: "Quanti mesi dell'anno iniziano con la lettera <b>O</b>?" },
+        { r: 1, t: "Quanto fa <b>(8 × 8) − 63</b>?" },
+        { r: 1, t: "Quanto fa <b>(45 ÷ 9) − 4</b>?" },
+        { r: 1, t: "Quanti mesi hanno <b>solo 28 giorni</b> negli anni normali (non bisestili)?" },
+        { r: 1, t: "Un cubo è appoggiato sul tavolo. Quante delle sue facce toccano il tavolo?" },
+        { r: 1, t: "Qual è il più piccolo numero <b>dispari</b> maggiore di zero?" },
+        { r: 1, t: "Quanto fa <b>(3 × 3) − (2 × 4)</b>?" },
+        { r: 1, t: "Una lumaca sale di 3 metri e poi scivola giù di 2 metri. Di quanti metri è salita in tutto?" },
+        { r: 1, t: "Quanti <b>angoli retti</b> ha un triangolo rettangolo?" },
+        { r: 1, t: "Quante <b>decine</b> ci sono nel numero 10?" },
+        { r: 1, t: "Quanto fa <b>50 − (7 × 7)</b>?" },
+
+        // ---------------- risposta 2 ----------------
+        { r: 2, t: "Qual è il prossimo numero della sequenza?<br><b>10, 8, 6, 4, …</b>" },
+        { r: 2, t: "Hai 50 mele. Ne regali <b>la metà</b> alla nonna. Delle mele che ti restano, 23 le usi per una torta. Quante mele hai ancora?" },
+        { r: 2, t: "Qual è <b>la metà della metà</b> di 8?" },
+        { r: 2, t: "Quante ruote ha una bicicletta?" },
+        { r: 2, t: "Qual è il più piccolo numero <b>pari</b> maggiore di zero?" },
+        { r: 2, t: "Quanto fa <b>14 ÷ 7</b>?" },
+        { r: 2, t: "Quante zampe ha un gallo?" },
+        { r: 2, t: "Quanto fa <b>20 − (6 × 3)</b>?" },
+        { r: 2, t: "Hai 10 caramelle e le dividi in parti uguali tra 5 amici. Quante caramelle a testa?" },
+        { r: 2, t: "Quante ore ci sono in <b>120 minuti</b>?" },
+        { r: 2, t: "Quante <b>cifre</b> ha il numero <b>47</b>?" },
+        { r: 2, t: "Quale numero moltiplicato per 6 fa 12?" },
+        { r: 2, t: "Quanto fa <b>(9 + 7) ÷ 8</b>?" },
+        { r: 2, t: "Luca ha 7 figurine e ne compra altre 5. Poi ne regala 10. Quante figurine gli restano?" },
+        { r: 2, t: "Qual è la cifra delle <b>decine</b> nel numero <b>328</b>?" },
+        { r: 2, t: "Oggi è <b>venerdì</b>. Fra quanti giorni sarà domenica?" },
+        { r: 2, t: "Quante scarpe ci sono in <b>un paio</b> di scarpe?" },
+        { r: 2, t: "Quanto fa <b>100 ÷ 50</b>?" },
+        { r: 2, t: "Un rettangolo ha il <b>perimetro</b> di 10 cm e un lato lungo 3 cm. Quanti cm misura l'altro lato?" },
+        { r: 2, t: "Pensa a un numero, <b>raddoppialo</b> e poi dividi il risultato per il numero che avevi pensato. Che numero ottieni?" },
+        { r: 2, t: "Quante <b>mezz'ore</b> ci sono in un'ora?" },
+        { r: 2, t: "Quanto fa <b>(7 × 7) − 47</b>?" },
+        { r: 2, t: "Quanti mesi dell'anno iniziano con la lettera <b>A</b>?" },
+        { r: 2, t: "Quanti numeri <b>pari</b> ci sono tra 1 e 5?" },
+        { r: 2, t: "Sul tavolo ci sono 6 bicchieri. Ne rompi <b>un terzo</b>. Quanti bicchieri hai rotto?" },
+        { r: 2, t: "Quanto fa <b>(3 × 4) − 10</b>?" },
+        { r: 2, t: "Qual è il prossimo numero della sequenza?<br><b>32, 16, 8, 4, …</b>" },
+        { r: 2, t: "Un'automobile ha 4 ruote. Quante automobili servono per avere 8 ruote?" },
+        { r: 2, t: "In una classe ci sono 24 bambini, divisi in squadre da 12. Quante squadre si formano?" },
+        { r: 2, t: "Quanto fa <b>(81 ÷ 9) − 7</b>?" },
+
+        // ---------------- risposta 3 ----------------
+        { r: 3, t: "Un rettangolo ha l'<b>area</b> di 24 cm² e un lato lungo 8 cm. Quanti cm misura l'altro lato?" },
+        { r: 3, t: "Dividi 27 caramelle in parti uguali tra 9 amici. Quante caramelle a testa?" },
+        { r: 3, t: "Quale numero, <b>moltiplicato per sé stesso</b>, fa 9?" },
+        { r: 3, t: "Quanti lati ha un triangolo?" },
+        { r: 3, t: "Qual è il prossimo numero della sequenza?<br><b>15, 12, 9, 6, …</b>" },
+        { r: 3, t: "Quanto fa <b>21 ÷ 7</b>?" },
+        { r: 3, t: "Quante ruote ha un triciclo?" },
+        { r: 3, t: "Quanto fa <b>30 − (9 × 3)</b>?" },
+        { r: 3, t: "Hai 20 euro. Compri un libro da 12 euro e un quaderno da 5 euro. Quanti euro ti restano?" },
+        { r: 3, t: "Quante <b>cifre</b> ha il numero <b>500</b>?" },
+        { r: 3, t: "Qual è la cifra delle <b>unità</b> nel numero <b>743</b>?" },
+        { r: 3, t: "Un anno ha 12 mesi e 4 stagioni. Quanti mesi dura ogni stagione?" },
+        { r: 3, t: "Quanto fa <b>(10 + 8) ÷ 6</b>?" },
+        { r: 3, t: "Un triangolo con i lati tutti uguali ha il <b>perimetro</b> di 9 cm. Quanti cm misura un lato?" },
+        { r: 3, t: "Quale numero moltiplicato per 8 fa 24?" },
+        { r: 3, t: "In una scatola ci sono 12 matite. Ne prendi <b>un quarto</b>. Quante matite hai preso?" },
+        { r: 3, t: "Quante volte il 5 sta nel 15?" },
+        { r: 3, t: "Quanto fa <b>(6 × 6) − 33</b>?" },
+        { r: 3, t: "Oggi è <b>lunedì</b>. Fra quanti giorni sarà giovedì?" },
+        { r: 3, t: "Quante <b>decine</b> ci sono nel numero 30?" },
+        { r: 3, t: "Un gatto ha 4 zampe. Se ne alza una, su quante zampe sta in piedi?" },
+        { r: 3, t: "Quanti numeri <b>dispari</b> ci sono da 1 a 6 (contando anche l'1)?" },
+        { r: 3, t: "Quanto fa <b>100 − 97</b>?" },
+        { r: 3, t: "Luca ha <b>il triplo</b> delle figurine di Anna. Anna ne ha 1. Quante figurine ha Luca?" },
+        { r: 3, t: "Un'ora e mezza più un'altra ora e mezza: quante ore sono in tutto?" },
+        { r: 3, t: "Quanto fa <b>(4 × 5) − 17</b>?" },
+        { r: 3, t: "Qual è il prossimo numero della sequenza?<br><b>48, 24, 12, 6, …</b>" },
+        { r: 3, t: "Quanti colori ha la bandiera italiana?" },
+        { r: 3, t: "In un sacchetto ci sono 18 biglie, divise in 6 gruppi uguali. Quante biglie ci sono in ogni gruppo?" },
+        { r: 3, t: "Quanto fa <b>(72 ÷ 8) − 6</b>?" },
+
+        // ---------------- risposta 4 ----------------
+        { r: 4, t: "Un quadrato ha il <b>perimetro</b> di 16 cm. Quanti cm misura un lato?" },
+        { r: 4, t: "In una fattoria ci sono 3 galline e alcuni conigli. Contando <b>tutte le zampe</b> sono 22. Quanti sono i conigli?" },
+        { r: 4, t: "Quante stagioni ci sono in un anno?" },
+        { r: 4, t: "Quanti lati ha un rettangolo?" },
+        { r: 4, t: "Qual è il prossimo numero della sequenza?<br><b>20, 16, 12, 8, …</b>" },
+        { r: 4, t: "Quanti angoli ha un quadrato?" },
+        { r: 4, t: "Quanto fa <b>28 ÷ 7</b>?" },
+        { r: 4, t: "Quante zampe ha un cane?" },
+        { r: 4, t: "Quanto fa <b>40 − (6 × 6)</b>?" },
+        { r: 4, t: "Quanti mesi dell'anno finiscono con <b>-bre</b>?" },
+        { r: 4, t: "Quante <b>cifre</b> ha il numero <b>2025</b>?" },
+        { r: 4, t: "Hai 3 sacchetti con 4 caramelle ciascuno. Ne mangi 8. Quante caramelle restano?" },
+        { r: 4, t: "Quanto fa <b>(15 + 9) ÷ 6</b>?" },
+        { r: 4, t: "Un'auto ha 4 ruote più la ruota di scorta nel bagagliaio. Quante ruote toccano la strada?" },
+        { r: 4, t: "Quanti <b>quarti d'ora</b> ci sono in un'ora?" },
+        { r: 4, t: "Oggi è <b>domenica</b>. Fra quanti giorni sarà giovedì?" },
+        { r: 4, t: "Quale numero moltiplicato per 9 fa 36?" },
+        { r: 4, t: "Quanto fa <b>(5 × 5) − 21</b>?" },
+        { r: 4, t: "Un tavolo ha 4 gambe. Quanti tavoli servono per avere 16 gambe?" },
+        { r: 4, t: "Qual è la cifra delle <b>migliaia</b> nel numero <b>4.312</b>?" },
+        { r: 4, t: "Quante volte il 25 sta nel 100?" },
+        { r: 4, t: "Hai 2 euro. Un ghiacciolo costa 50 centesimi. Quanti ghiaccioli puoi comprare?" },
+        { r: 4, t: "Quanto fa <b>(7 + 7) − 10</b>?" },
+        { r: 4, t: "Un quadrato ha l'<b>area</b> di 16 cm². Quanti cm misura un lato?" },
+        { r: 4, t: "In una gara ci sono 12 bambini, divisi in squadre da 3. Quante squadre si formano?" },
+        { r: 4, t: "Qual è il prossimo numero della sequenza?<br><b>64, 32, 16, 8, …</b>" },
+        { r: 4, t: "Quanto fa <b>(9 × 9) − 77</b>?" },
+        { r: 4, t: "Marta ha 10 anni e sua sorella ne ha 6. Quanti anni di differenza ci sono?" },
+        { r: 4, t: "Quanti numeri <b>pari</b> ci sono tra 1 e 9?" },
+        { r: 4, t: "Quanto fa <b>(56 ÷ 8) − 3</b>?" },
+
+        // ---------------- risposta 5 ----------------
+        { r: 5, t: "Trova il numero mancante:<br><b>45, 35, 25, 15, …</b>" },
+        { r: 5, t: "Quante dita ci sono in una mano?" },
+        { r: 5, t: "Quanto fa <b>35 ÷ 7</b>?" },
+        { r: 5, t: "Quale numero, <b>moltiplicato per sé stesso</b>, fa 25?" },
+        { r: 5, t: "Quanti lati ha un pentagono?" },
+        { r: 5, t: "Qual è la metà di 10?" },
+        { r: 5, t: "Quanto fa <b>50 − (9 × 5)</b>?" },
+        { r: 5, t: "Hai 20 caramelle e le dividi in parti uguali tra 4 amici. Quante caramelle a testa?" },
+        { r: 5, t: "Quanti giorni di scuola ci sono da <b>lunedì a venerdì</b> (contando anche il lunedì)?" },
+        { r: 5, t: "Quanti sono i <b>sensi</b> del corpo umano (vista, udito, …)?" },
+        { r: 5, t: "Quanti cerchi ci sono nel simbolo delle <b>Olimpiadi</b>?" },
+        { r: 5, t: "Quanto fa <b>(12 + 8) ÷ 4</b>?" },
+        { r: 5, t: "Qual è la cifra delle <b>decine</b> nel numero <b>253</b>?" },
+        { r: 5, t: "Quante <b>cifre</b> ha il numero <b>10.000</b>?" },
+        { r: 5, t: "Un pentagono con i lati tutti uguali ha il <b>perimetro</b> di 25 cm. Quanti cm misura un lato?" },
+        { r: 5, t: "Quante monete da 20 centesimi servono per fare 1 euro?" },
+        { r: 5, t: "Quale numero moltiplicato per 8 fa 40?" },
+        { r: 5, t: "Quanto fa <b>(3 × 3) − 4</b>?" },
+        { r: 5, t: "Oggi è <b>lunedì</b>. Fra quanti giorni sarà sabato?" },
+        { r: 5, t: "Un rettangolo ha l'<b>area</b> di 30 cm² e un lato di 6 cm. Quanti cm misura l'altro lato?" },
+        { r: 5, t: "Qual è il prossimo numero della sequenza?<br><b>17, 14, 11, 8, …</b>" },
+        { r: 5, t: "Quante <b>vocali</b> ci sono nell'alfabeto italiano?" },
+        { r: 5, t: "Quanti minuti passano dalle <b>10:55</b> alle <b>11:00</b>?" },
+        { r: 5, t: "Luca ha 13 figurine. Ne regala 4 ad Anna e 4 a Marco. Quante figurine gli restano?" },
+        { r: 5, t: "Quanto fa <b>100 ÷ 20</b>?" },
+        { r: 5, t: "Quante punte ha una stella disegnata così: ⭐?" },
+        { r: 5, t: "Quanto fa <b>(8 × 8) − 59</b>?" },
+        { r: 5, t: "<b>Il doppio</b> di un numero è 10. Qual è il numero?" },
+        { r: 5, t: "In un sacchetto ci sono 15 palline di 3 colori, con lo stesso numero di palline per colore. Quante palline ci sono per ogni colore?" },
+        { r: 5, t: "Quanto fa <b>(63 ÷ 9) − 2</b>?" }
+    ];
+    /* ===================================================================== */
+
+    const ALFABETO = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+    const LETTERE_GRIGLIA = "ABCDEFGHIKLMNOPQRSTUVWXYZ"; // 25 lettere: la J divide la casella con la I
+    const COPIE = 4;                  // copie dell'alfabeto sulla striscia di ogni anello (per l'effetto rotazione)
+    const DURATA_GIRO = 1400;         // ms
+    const ATTESE = [0, 0, 3, 5, 8];   // secondi di blocco dopo 1, 2, 3, 4+ errori di fila
+    const CHIAVE = "sfida-cryptex-2";
+    const CHIAVE_VISTE = "sfida-cryptex-2-viste";
+    const MENO_MOVIMENTO = !!(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches);
+
+    const PAROLA = String(PAROLA_CRYPTEX).toUpperCase().replace(/\s+/g, "").split("");
+    const N = PAROLA.length;
+    const TOT = N * 3;                // per ogni lettera: riga, colonna, decodifica
+    const suGriglia = (l) => (l === "J" ? "I" : l);
+
+    const $ = (id) => document.getElementById(id);
+    const el = {
+        erroreConfig: $("errore-config"), verifica: $("verifica"),
+        cryptexWrap: $("cryptex-wrap"), cryptex: $("cryptex"), anelli: $("anelli"),
+        stage: $("stage"), fase: $("fase"), errori: $("errori"), barra: $("barra"),
+        modulo: $("modulo"), etichetta: $("etichetta"), domanda: $("domanda"),
+        risposta: $("risposta"), conferma: $("conferma"),
+        decodifica: $("decodifica"), cRiga: $("c-riga"), cColonna: $("c-colonna"), polibio: $("polibio"),
+        finale: $("finale"), parola: $("parola"), esito: $("esito"), rigioca: $("rigioca"),
+        feedback: $("feedback"), ricomincia: $("ricomincia")
+    };
+
+    /* ---------- Controllo della configurazione ---------- */
+    const problemi = [];
+    if (N < 3 || N > 7) problemi.push(`PAROLA_CRYPTEX deve avere da 3 a 7 lettere (ora ne ha ${N}).`);
+    PAROLA.forEach((l, i) => {
+        if (!ALFABETO.includes(l)) problemi.push(`PAROLA_CRYPTEX: "${l}" (posizione ${i + 1}) non è una lettera dalla A alla Z senza accenti.`);
+    });
+    const perValore = { 1: [], 2: [], 3: [], 4: [], 5: [] };
+    BANCA.forEach((d, id) => {
+        if (!d || typeof d.t !== "string" || !d.t.trim()) { problemi.push(`Domanda n. ${id + 1}: manca il testo "t".`); return; }
+        if (!Number.isInteger(d.r) || d.r < 1 || d.r > 5) { problemi.push(`Domanda n. ${id + 1}: la risposta "r" deve essere un numero intero da 1 a 5 (ora è ${d.r}).`); return; }
+        perValore[d.r].push(id);
+    });
+    [1, 2, 3, 4, 5].forEach((v) => {
+        if (perValore[v].length < 3) problemi.push(`Servono almeno 3 domande con risposta ${v} (ora ce ne sono ${perValore[v].length}).`);
+    });
+    if (problemi.length) {
+        el.erroreConfig.hidden = false;
+        el.erroreConfig.innerHTML = "<b>⚠️ Configurazione da sistemare:</b><ul></ul>";
+        const ul = el.erroreConfig.querySelector("ul");
+        problemi.forEach((p) => { const li = document.createElement("li"); li.textContent = p; ul.appendChild(li); });
+        el.cryptexWrap.hidden = true;
+        el.stage.hidden = true;
+        el.ricomincia.hidden = true;
+        return;
+    }
+    document.documentElement.style.setProperty("--n", N);
+
+    /* ---------- Domande già uscite su questo dispositivo ---------- */
+    const viste = new Set();
+    try {
+        (JSON.parse(localStorage.getItem(CHIAVE_VISTE)) || []).forEach((id) => {
+            if (Number.isInteger(id) && id >= 0 && id < BANCA.length) viste.add(id);
+        });
+    } catch (e) { /* storage non disponibile */ }
+    function salvaViste() { try { localStorage.setItem(CHIAVE_VISTE, JSON.stringify([...viste])); } catch (e) { /* ignora */ } }
+
+    if (/[?&]verifica(=|&|$)/.test(location.search)) {
+        el.verifica.hidden = false;
+        el.verifica.innerHTML = "<b>Modalità verifica</b> (solo per chi prepara il gioco)<br>" +
+            `Parola del cryptex: <b>${PAROLA.join("")}</b><br>` +
+            `Domande nella banca: <b>${BANCA.length}</b> (` + [1, 2, 3, 4, 5].map((v) => `risposta ${v}: ${perValore[v].length}`).join(" · ") + ")<br>" +
+            `Domande già uscite su questo dispositivo nel giro attuale: ${viste.size}`;
+    }
+
+    /* ---------- Stato della partita (salvato nel browser) ---------- */
+    const FIRMA = PAROLA.join("") + "|" + BANCA.length;
+
+    function mescolaGriglia() {
+        const a = LETTERE_GRIGLIA.split("");
+        for (let k = a.length - 1; k > 0; k--) {
+            const j = Math.floor(Math.random() * (k + 1));
+            [a[k], a[j]] = [a[j], a[k]];
+        }
+        return a.join("");
+    }
+    function nuovoStato() {
+        return {
+            firma: FIRMA,
+            passo: 0,            // 3 passi per lettera: riga, colonna, decodifica
+            errori: 0,           // errori totali della partita
+            serie: 0,            // errori di fila (per il blocco)
+            tentativi: 0,        // errori sulla domanda attuale (a 2 si rimescola)
+            bloccoFino: 0,       // timestamp di fine blocco
+            griglie: PAROLA.map(() => mescolaGriglia()),          // un cifrario diverso per ogni lettera
+            domande: PAROLA.map(() => ({ riga: null, colonna: null })),
+            usate: []            // domande già uscite in questa partita
+        };
+    }
+    const idValido = (x) => Number.isInteger(x) && x >= 0 && x < BANCA.length;
+    const grigliaValida = (g) => typeof g === "string" && g.length === 25 && g.split("").sort().join("") === LETTERE_GRIGLIA;
+    function carica() {
+        try {
+            const s = JSON.parse(localStorage.getItem(CHIAVE));
+            const intero = (x) => Number.isInteger(x) && x >= 0;
+            if (s && s.firma === FIRMA && intero(s.passo) && s.passo <= TOT &&
+                intero(s.errori) && intero(s.serie) && intero(s.tentativi) && typeof s.bloccoFino === "number" &&
+                Array.isArray(s.griglie) && s.griglie.length === N && s.griglie.every(grigliaValida) &&
+                Array.isArray(s.domande) && s.domande.length === N &&
+                s.domande.every((d) => d && (d.riga === null || idValido(d.riga)) && (d.colonna === null || idValido(d.colonna))) &&
+                Array.isArray(s.usate) && s.usate.every(idValido)) {
+                s.bloccoFino = Math.min(s.bloccoFino, Date.now() + 10000);
+                return s;
+            }
+        } catch (e) { /* dati assenti o rovinati: nuova partita */ }
+        return null;
+    }
+    function salva() { try { localStorage.setItem(CHIAVE, JSON.stringify(stato)); } catch (e) { /* ignora */ } }
+
+    const statoSalvato = carica();
+    let stato = statoSalvato || nuovoStato();
+    if (!statoSalvato) salva();
+
+    let occupato = false;      // true durante animazioni e passaggi: ignora i click
+    let timerBlocco = null;
+    let erroriCella = 0;       // tocchi sbagliati sulla griglia per la lettera corrente
+    let generazione = 0;       // cambia a ogni nuova partita: annulla i timer in sospeso
+
+    const letteraDi = (p) => Math.floor(p / 3);
+    const tipoDi = (p) => (p % 3 === 0 ? "riga" : p % 3 === 1 ? "colonna" : "decodifica");
+    const risolta = (i) => i < letteraDi(stato.passo);
+    const bloccato = () => Date.now() < stato.bloccoFino;
+
+    function dopo(ms, fn) {
+        const g = generazione;
+        setTimeout(() => { if (g === generazione) fn(); }, ms);
+    }
+
+    /* ---------- Cifrario e domande ---------- */
+    function coordinate(i) {
+        const pos = stato.griglie[i].indexOf(suGriglia(PAROLA[i]));
+        return { riga: Math.floor(pos / 5) + 1, colonna: (pos % 5) + 1 };
+    }
+
+    function scegliDomanda(valore) {
+        const tutte = perValore[valore];
+        const giaUsate = new Set(stato.usate);
+        let candidate = tutte.filter((id) => !giaUsate.has(id) && !viste.has(id));
+        if (!candidate.length) {
+            // tutte le domande con questo risultato sono già uscite: comincia un nuovo giro
+            tutte.forEach((id) => viste.delete(id));
+            candidate = tutte.filter((id) => !giaUsate.has(id));
+        }
+        if (!candidate.length) candidate = tutte.slice();
+        const id = candidate[Math.floor(Math.random() * candidate.length)];
+        viste.add(id);
+        salvaViste();
+        return id;
+    }
+
+    // la domanda attuale per la lettera i ("riga" o "colonna"); se manca, la pesca
+    function domanda(i, t) {
+        const valore = coordinate(i)[t];
+        let id = stato.domande[i][t];
+        if (id === null || BANCA[id].r !== valore) {
+            id = scegliDomanda(valore);
+            stato.domande[i][t] = id;
+            stato.usate.push(id);
+            salva();
+        }
+        return BANCA[id];
+    }
+
+    // sposta la lettera nel suo cifrario: la risposta cambia e arriva una domanda nuova
+    function rimescola(i, t) {
+        const g = stato.griglie[i].split("");
+        const pos = g.indexOf(suGriglia(PAROLA[i]));
+        const dest = t === "riga"
+            ? Math.floor(Math.random() * 25)                            // in un punto qualsiasi
+            : Math.floor(pos / 5) * 5 + Math.floor(Math.random() * 5);  // nella stessa riga (già indovinata)
+        [g[pos], g[dest]] = [g[dest], g[pos]];
+        stato.griglie[i] = g.join("");
+        stato.domande[i][t] = null;
+        if (t === "riga") stato.domande[i].colonna = null;
+    }
+
+    /* ---------- Cryptex ---------- */
+    const anelli = [];
+    function costruisciCryptex() {
+        let striscia = "";
+        for (let c = 0; c < COPIE; c++) striscia += ALFABETO.map((l) => `<span>${l}</span>`).join("");
+        for (let i = 0; i < N; i++) {
+            const col = document.createElement("div");
+            col.className = "colonna-anello";
+            col.innerHTML = `<div class="anello"><div class="striscia">${striscia}</div></div>` +
+                `<div class="coppia"><div class="num" data-vuoto="R">R</div><div class="num" data-vuoto="C">C</div></div>`;
+            el.anelli.appendChild(col);
+            anelli.push({
+                col: col,
+                anello: col.querySelector(".anello"),
+                striscia: col.querySelector(".striscia"),
+                nums: col.querySelectorAll(".num")
+            });
+        }
+    }
+
+    function letteraCasuale(evita) {
+        let l;
+        do { l = ALFABETO[Math.floor(Math.random() * ALFABETO.length)]; } while (l === evita);
+        return l;
+    }
+
+    // posiziona l'anello i sulla lettera, senza animazione
+    function posa(i, lettera) {
+        const s = anelli[i].striscia;
+        const pos = 26 + ALFABETO.indexOf(lettera);
+        s.style.transition = "none";
+        s.style.transform = `translateY(calc(var(--slot) * ${1 - pos}))`;
+        void s.offsetHeight; // forza il reflow prima di eventuali nuove animazioni
+    }
+
+    // fa girare l'anello i fino alla lettera (sempre "in avanti")
+    function gira(i, lettera, fatto) {
+        if (MENO_MOVIMENTO) { posa(i, lettera); fatto(); return; }
+        const s = anelli[i].striscia;
+        const arrivo = 52 + ALFABETO.indexOf(lettera);
+        s.style.transition = `transform ${DURATA_GIRO}ms cubic-bezier(.12,.75,.2,1)`;
+        s.style.transform = `translateY(calc(var(--slot) * ${1 - arrivo}))`;
+        dopo(DURATA_GIRO + 60, () => { posa(i, lettera); fatto(); });
+    }
+
+    function aggiornaCryptex() {
+        const p = stato.passo;
+        const corrente = p < TOT ? letteraDi(p) : -1;
+        anelli.forEach((a, i) => {
+            const ok = risolta(i);
+            const c = coordinate(i);
+            a.anello.classList.toggle("risolto", ok);
+            a.anello.classList.toggle("attivo", i === corrente);
+            a.anello.classList.toggle("bloccato", !ok && i !== corrente);
+            a.col.classList.toggle("fatto", ok);
+            [0, 1].forEach((k) => {
+                const q = i * 3 + k;
+                const box = a.nums[k];
+                const svelato = p > q;
+                box.textContent = svelato ? String(k === 0 ? c.riga : c.colonna) : box.dataset.vuoto;
+                box.classList.toggle("svelato", svelato);
+                box.classList.toggle("corrente", p === q);
+            });
+        });
+        el.cryptex.setAttribute("aria-label", "Cryptex: " + anelli.map((a, i) => (risolta(i) ? PAROLA[i] : "?")).join(" "));
+        el.cryptex.classList.toggle("aperto", p >= TOT);
+        el.barra.style.width = (p / TOT) * 100 + "%";
+    }
+
+    function mostraCryptex() {
+        const r = el.cryptex.getBoundingClientRect();
+        if (r.top < 0 || r.bottom > window.innerHeight) {
+            el.cryptex.scrollIntoView({ behavior: MENO_MOVIMENTO ? "auto" : "smooth", block: "center" });
+        }
+    }
+
+    /* ---------- Quadrato di Polibio ---------- */
+    const letteraCella = (i, r, c) => stato.griglie[i][(r - 1) * 5 + (c - 1)];
+    const nomeCella = (i, r, c) => (letteraCella(i, r, c) === "I" ? "I/J" : letteraCella(i, r, c));
+
+    function disegnaGriglia(i) {
+        let html = `<div class="h" aria-hidden="true"></div>`;
+        for (let c = 1; c <= 5; c++) html += `<div class="h" data-colonna="${c}">${c}</div>`;
+        for (let r = 1; r <= 5; r++) {
+            html += `<div class="h" data-riga="${r}">${r}</div>`;
+            for (let c = 1; c <= 5; c++) {
+                const l = letteraCella(i, r, c);
+                const ij = l === "I";
+                html += `<button type="button" class="cella${ij ? " ij" : ""}" data-r="${r}" data-c="${c}" ` +
+                    `aria-label="Riga ${r}, colonna ${c}: ${ij ? "I o J" : l}">${ij ? "I/J" : l}</button>`;
+            }
+        }
+        el.polibio.innerHTML = html;
+    }
+    function evidenzia(r, c) {
+        el.polibio.querySelector(`[data-riga="${r}"]`).classList.add("evidenzia");
+        el.polibio.querySelector(`[data-colonna="${c}"]`).classList.add("evidenzia");
+    }
+
+    /* ---------- Messaggi, errori e blocco ---------- */
+    function scrivi(msg, tipo) {
+        el.feedback.className = "feedback " + (tipo || "");
+        el.feedback.textContent = msg;
+    }
+    function scuoti(nodo) {
+        nodo.classList.remove("scuoti");
+        void nodo.offsetWidth;
+        nodo.classList.add("scuoti");
+    }
+    function abilita(si) {
+        el.risposta.readOnly = !si;
+        el.conferma.disabled = !si;
+        el.polibio.classList.toggle("disattiva", !si);
+    }
+    function blocca(msg) {
+        abilita(false);
+        clearInterval(timerBlocco);
+        const tick = () => {
+            const resto = Math.ceil((stato.bloccoFino - Date.now()) / 1000);
+            if (resto <= 0) {
+                clearInterval(timerBlocco);
+                timerBlocco = null;
+                abilita(true);
+                scrivi("🔓 Sistema sbloccato: riprova con calma!", "info");
+                if (!el.modulo.hidden) el.risposta.focus({ preventScroll: true });
+                return;
+            }
+            scrivi(`${msg}\n🔒 Troppi errori di fila: sistema bloccato per ${resto} s…`, "ko");
+        };
+        tick();
+        timerBlocco = setInterval(tick, 250);
+    }
+    function errore(msg, nodo) {
+        stato.errori++;
+        stato.serie++;
+        const sec = ATTESE[Math.min(stato.serie, ATTESE.length - 1)];
+        if (sec > 0) stato.bloccoFino = Date.now() + sec * 1000;
+        salva();
+        el.errori.textContent = "Errori: " + stato.errori;
+        scuoti(nodo);
+        if (sec > 0) blocca(msg);
+        else scrivi(msg, "ko");
+    }
+
+    /* ---------- Disegno della schermata ---------- */
+    function mostraDomanda(i, t) {
+        el.etichetta.textContent = t === "riga" ? "NUMERO DI RIGA" : "NUMERO DI COLONNA";
+        el.domanda.innerHTML = domanda(i, t).t;
+        el.risposta.value = "";
+    }
+
+    function render(metti_focus) {
+        const p = stato.passo;
+        aggiornaCryptex();
+        el.errori.textContent = "Errori: " + stato.errori;
+        el.modulo.hidden = true;
+        el.decodifica.hidden = true;
+        el.finale.hidden = true;
+        scrivi("", "");
+
+        if (p >= TOT) { mostraFinale(); return; }
+
+        const i = letteraDi(p);
+        const t = tipoDi(p);
+        el.fase.textContent = `Lettera ${i + 1} di ${N}`;
+        abilita(!bloccato());
+
+        if (t === "decodifica") {
+            const c = coordinate(i);
+            el.decodifica.hidden = false;
+            el.cRiga.textContent = c.riga;
+            el.cColonna.textContent = c.colonna;
+            disegnaGriglia(i);
+            erroriCella = 0;
+        } else {
+            el.modulo.hidden = false;
+            mostraDomanda(i, t);
+            if (metti_focus) el.risposta.focus({ preventScroll: true });
+        }
+    }
+
+    function mostraFinale() {
+        el.fase.textContent = "Codice decifrato!";
+        el.finale.hidden = false;
+        el.parola.innerHTML = PAROLA.map((l, k) => `<span style="animation-delay:${k * 120}ms">${l}</span>`).join("");
+        el.esito.textContent = stato.errori === 0
+            ? "🏆 Perfetto: nessun errore!"
+            : `Errori commessi: ${stato.errori}. Bravissimo comunque!`;
+    }
+
+    function festeggia() {
+        if (MENO_MOVIMENTO) return;
+        const box = document.createElement("div");
+        box.className = "coriandoli";
+        const colori = ["#f59e0b", "#22c55e", "#38bdf8", "#f472b6", "#facc15", "#a78bfa"];
+        for (let k = 0; k < 70; k++) {
+            const c = document.createElement("i");
+            c.style.left = Math.random() * 100 + "vw";
+            c.style.background = colori[k % colori.length];
+            c.style.animationDuration = 2.2 + Math.random() * 2 + "s";
+            c.style.animationDelay = Math.random() * 0.6 + "s";
+            box.appendChild(c);
+        }
+        document.body.appendChild(box);
+        setTimeout(() => box.remove(), 5200);
+    }
+
+    /* ---------- Risposta alle domande ---------- */
+    el.modulo.addEventListener("submit", (e) => {
+        e.preventDefault();
+        const p = stato.passo;
+        if (occupato || bloccato() || p >= TOT || tipoDi(p) === "decodifica") return;
+
+        const testo = el.risposta.value.trim();
+        if (!/^\d+$/.test(testo)) {
+            scrivi("⚠️ Scrivi un numero!", "warn");
+            scuoti(el.risposta);
+            el.risposta.focus();
+            return;
+        }
+        const n = parseInt(testo, 10);
+        const i = letteraDi(p);
+        const t = tipoDi(p);
+
+        if (n === domanda(i, t).r) {
+            stato.serie = 0;
+            stato.tentativi = 0;
+            occupato = true;
+            abilita(false);
+            scrivi(`✅ Esatto! ${t === "riga" ? "Riga" : "Colonna"} = ${n}`, "ok");
+            stato.passo++;
+            salva();
+            aggiornaCryptex();
+            const box = anelli[i].nums[t === "riga" ? 0 : 1];
+            box.classList.remove("pop");
+            void box.offsetWidth;
+            box.classList.add("pop");
+            dopo(1100, () => { occupato = false; render(true); });
+        } else {
+            stato.tentativi++;
+            let msg = n < 1 || n > 5
+                ? `🤔 ${n}? Le coordinate del Quadrato vanno da 1 a 5: ricontrolla il calcolo!`
+                : "❌ Non è giusto. Rileggi la domanda e ricontrolla il calcolo!";
+            if (stato.tentativi >= 2) {
+                stato.tentativi = 0;
+                rimescola(i, t);
+                mostraDomanda(i, t);
+                scuoti(el.domanda);
+                msg = "🔀 Due errori sulla stessa domanda: il cifrario si è rimescolato! Ecco una domanda nuova.";
+            }
+            errore(msg, el.risposta);
+        }
+    });
+
+    /* ---------- Decodifica sulla griglia ---------- */
+    el.polibio.addEventListener("click", (e) => {
+        const cella = e.target.closest("button.cella");
+        const p = stato.passo;
+        if (!cella || occupato || bloccato() || p >= TOT || tipoDi(p) !== "decodifica") return;
+
+        const i = letteraDi(p);
+        const giusta = coordinate(i);
+        const r = +cella.dataset.r;
+        const c = +cella.dataset.c;
+
+        if (r === giusta.riga && c === giusta.colonna) {
+            stato.serie = 0;
+            occupato = true;
+            cella.classList.add("giusta");
+            const L = PAROLA[i];
+            scrivi(`✅ Lettera decifrata: ${L}! Guarda il cryptex…`, "ok");
+            stato.passo++;
+            salva();
+            mostraCryptex();
+            dopo(MENO_MOVIMENTO ? 0 : 400, () => {
+                gira(i, L, () => {
+                    aggiornaCryptex();
+                    if (stato.passo >= TOT) {
+                        dopo(500, () => { occupato = false; render(false); festeggia(); });
+                    } else {
+                        dopo(700, () => { occupato = false; render(true); });
+                    }
+                });
+            });
+        } else {
+            cella.classList.add("sbagliata");
+            setTimeout(() => cella.classList.remove("sbagliata"), 700);
+            erroriCella++;
+            let msg = `❌ Hai toccato riga ${r}, colonna ${c} (${nomeCella(i, r, c)}). Ti serve riga ${giusta.riga}, colonna ${giusta.colonna}.`;
+            if (erroriCella >= 2) {
+                evidenzia(giusta.riga, giusta.colonna);
+                msg += " Ti ho illuminato la riga e la colonna giuste!";
+            }
+            errore(msg, el.polibio);
+        }
+    });
+
+    /* ---------- Nuova partita ---------- */
+    let timerConferma = null;
+    function annullaConferma() {
+        clearTimeout(timerConferma);
+        timerConferma = null;
+        el.ricomincia.textContent = "↺ Ricomincia da capo";
+        el.ricomincia.classList.remove("conferma");
+    }
+    el.ricomincia.addEventListener("click", () => {
+        if (!timerConferma) {
+            el.ricomincia.textContent = "Sicuro? Tocca di nuovo per azzerare tutto";
+            el.ricomincia.classList.add("conferma");
+            timerConferma = setTimeout(annullaConferma, 3500);
+            return;
+        }
+        annullaConferma();
+        nuovaPartita();
+    });
+    el.rigioca.addEventListener("click", nuovaPartita);
+
+    function nuovaPartita() {
+        generazione++;
+        clearInterval(timerBlocco);
+        timerBlocco = null;
+        occupato = false;
+        erroriCella = 0;
+        stato = nuovoStato();
+        salva();
+        anelli.forEach((a, i) => posa(i, letteraCasuale(PAROLA[i])));
+        render(false);
+        window.scrollTo({ top: 0, behavior: MENO_MOVIMENTO ? "auto" : "smooth" });
+    }
+
+    /* ---------- Avvio ---------- */
+    costruisciCryptex();
+    anelli.forEach((a, i) => posa(i, risolta(i) ? PAROLA[i] : letteraCasuale(PAROLA[i])));
+    const puntatoreFine = !!(window.matchMedia && window.matchMedia("(pointer: fine)").matches);
+    render(puntatoreFine);
+    if (stato.passo < TOT && bloccato()) {
+        blocca("⏳ Il sistema è ancora bloccato.");
+    } else if (statoSalvato && stato.passo > 0 && stato.passo < TOT) {
+        scrivi("💾 Partita ripresa da dove l'avevi lasciata.", "info");
+    }
+})();
+</script>
+</body>
+</html>

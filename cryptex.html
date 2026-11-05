@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Missione Cryptex</title>
+    <style>
+        :root {
+            --gold: #dfb76c;
+            --dark-bg: #1a191d;
+            --card-bg: #252429;
+            --text: #e0e0e0;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Courier New', Courier, monospace; }
+        body { background-color: var(--dark-bg); color: var(--text); padding: 15px; display: flex; flex-direction: column; align-items: center; min-height: 100vh; }
+        .container { max-width: 500px; width: 100%; border: 2px solid var(--gold); padding: 15px; border-radius: 8px; background-color: #121114; box-shadow: 0 0 15px rgba(223,183,108,0.2); }
+        h1 { text-align: center; color: var(--gold); font-size: 22px; margin-bottom: 5px; text-transform: uppercase; letter-spacing: 2px; }
+        .subtitle { text-align: center; font-size: 11px; color: #888; margin-bottom: 15px; }
+        
+        .cifrario { background: var-(--card-bg); border: 1px dashed var(--gold); padding: 10px; border-radius: 5px; font-size: 11px; text-align: center; line-height: 1.6; margin-bottom: 15px; color: #c8c8c8; }
+        
+        .indizio-card { background-color: var(--card-bg); border-left: 4px solid var(--gold); padding: 12px; margin-bottom: 12px; border-radius: 0 5px 5px 0; }
+        .indizio-titolo { font-weight: bold; color: var(--gold); font-size: 13px; margin-bottom: 4px; }
+        .indizio-testo { font-size: 13px; line-height: 1.4; }
+        
+        .inputs-container { display: flex; justify-content: space-between; margin: 20px 0; gap: 8px; }
+        .box-lettera { flex: 1; text-align: center; }
+        .box-lettera input { width: 100%; height: 50px; background-color: var(--card-bg); border: 2px solid #444; border-radius: 5px; color: var(--gold); font-size: 24px; font-weight: bold; text-align: center; text-transform: uppercase; }
+        .box-lettera input:focus { border-color: var(--gold); outline: none; box-shadow: 0 0 5px var(--gold); }
+        .box-lettera label { display: block; font-size: 9px; color: #888; margin-top: 4px; }
+        
+        .btn-verifica { width: 100%; background: linear-gradient(135deg, #dfb76c, #b38f43); border: none; color: #111; padding: 14px; font-size: 16px; font-weight: bold; border-radius: 5px; cursor: pointer; text-transform: uppercase; transition: all 0.2s; }
+        .btn-verifica:active { transform: scale(0.98); }
+        
+        .popup { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.85); justify-content: center; align-items: center; padding: 20px; z-index: 100; }
+        .popup-content { background: var(--card-bg); border: 2px solid var(--gold); padding: 25px; text-align: center; border-radius: 8px; max-width: 400px; box-shadow: 0 0 25px var(--gold); }
+        .popup h2 { color: var(--gold); margin-bottom: 10px; font-size: 24px; }
+        .popup p { font-size: 14px; line-height: 1.5; margin-bottom: 15px; }
+        .popup-close { background: var(--gold); border: none; padding: 8px 20px; font-weight: bold; border-radius: 4px; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Missione Cryptex</h1>
+    <div class="subtitle">Decodifica i calcoli logici per trovare la chiave</div>
+    
+    <div class="cifrario">
+        <strong>IL CIFRARIO DEL GEOMETRA</strong><br>
+        A=1 • B=2 • C=3 • D=4 • E=5 • F=6 • G=7 • H=8 • I=9 • L=10<br>
+        M=11 • N=12 • O=13 • P=14 • Q=15 • R=16 • S=17 • T=18 • U=19 • V=20 • Z=21
+    </div>
+
+    <div class="indizio-card">
+        <div class="indizio-titolo">1ª Lettera</div>
+        <div class="indizio-testo">È il numero perfetto di lati di un <strong>triangolo</strong>.</div>
+    </div>
+
+    <div class="indizio-card">
+        <div class="indizio-titolo">2ª Lettera</div>
+        <div class="indizio-testo">È il numero più grande in assoluto <strong>minore di 20</strong> che finisce con il 9.</div>
+    </div>
+
+    <div class="indizio-card">
+        <div class="indizio-titolo">3ª Lettera</div>
+        <div class="indizio-testo">Nella tabellina del 5, moltiplica il 5 per il primo numero primo pari (il 2), e poi aggiungi 3.</div>
+    </div>
+
+    <div class="indizio-card">
+        <div class="indizio-titolo">4ª Lettera</div>
+        <div class="indizio-testo">Pensa a un quadrato. Moltiplica il numero dei suoi lati per il numero dei suoi angoli.</div>
+    </div>
+
+    <div class="indizio-card">
+        <div class="indizio-titolo">5ª Lettera</div>
+        <div class="indizio-testo">È il numero che sta esattamente <strong>a metà strada tra l'1 e il 9</strong>.</div>
+    </div>
+
+    <div class="inputs-container">
+        <div class="box-lettera">
+            <input type="text" maxlength="1" id="l1" autocomplete="off" oninput="muoviFocus(this, 'l2')">
+            <label>1ª Lett.</label>
+        </div>
+        <div class="box-lettera">
+            <input type="text" maxlength="1" id="l2" autocomplete="off" oninput="muoviFocus(this, 'l3')">
+            <label>2ª Lett.</label>
+        </div>
+        <div class="box-lettera">
+            <input type="text" maxlength="1" id="l3" autocomplete="off" oninput="muoviFocus(this, 'l4')">
+            <label>3ª Lett.</label>
+        </div>
+        <div class="box-lettera">
+            <input type="text" maxlength="1" id="l4" autocomplete="off" oninput="muoviFocus(this, 'l5')">
+            <label>4ª Lett.</label>
+        </div>
+        <div class="box-lettera">
+            <input type="text" maxlength="1" id="l5" autocomplete="off" oninput="muoviFocus(this, '')">
+            <label>5ª Lett.</label>
+        </div>
+    </div>
+
+    <button class="btn-verifica" onclick="verificaParola()">Verifica Codice</button>
+</div>
+
+<div class="popup" id="popup-successo">
+    <div class="popup-content">
+        <h2>SBLOCCATO! 🔓</h2>
+        <p>Incredibile ingegno! La parola è corretta. Ora puoi allineare i rulli del tuo Cryptex fisico per scoprire cosa si nasconde al suo interno!</p>
+        <button class="popup-close" onclick="chiudiPopup()">Chiudi</button>
+    </div>
+</div>
+
+<div class="popup" id="popup-errore">
+    <div class="popup-content" style="border-color: #ff4a4a; box-shadow: 0 0 25px #ff4a4a;">
+        <h2 style="color: #ff4a4a;">CODICE ERRATO ❌</h2>
+        <p>I calcoli non tornano ancora... Ricontrolla bene i numeri sul cifrario e riprova, la mente di un matematico non si arrende mai!</p>
+        <button class="popup-close" style="background: #ff4a4a; color: white;" onclick="chiudiPopup()">Riprova</button>
+    </div>
+</div>
+
+<script>
+    function muoviFocus(attuale, prossimoId) {
+        if (attuale.value.length >= 1 && prossimoId !== '') {
+            document.getElementById(prossimoId).focus();
+        }
+    }
+
+    function verificaParola() {
+        var p1 = document.getElementById('l1').value.toUpperCase();
+        var p2 = document.getElementById('l2').value.toUpperCase();
+        var p3 = document.getElementById('l3').value.toUpperCase();
+        var p4 = document.getElementById('l4').value.toUpperCase();
+        var p5 = document.getElementById('l5').value.toUpperCase();
+        
+        var parolaInserita = p1 + p2 + p3 + p4 + p5;
+        
+        if(parolaInserita === "CUORE") {
+            document.getElementById('popup-successo').style.display = 'flex';
+        } else {
+            document.getElementById('popup-errore').style.display = 'flex';
+        }
+    }
+
+    function chiudiPopup() {
+        document.getElementById('popup-successo').style.display = 'none';
+        document.getElementById('popup-errore').style.display = 'none';
+    }
+</script>
+
+</body>
+</html>

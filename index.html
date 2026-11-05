@@ -137,6 +137,7 @@ p { margin: 0; }
 .thumb-x { position: absolute; top: 4px; right: 4px; width: 36px; height: 36px; border-radius: 50%; border: 0; background: rgb(0 0 0 / .7); color: #fff; font-size: .95rem; }
 .photo-add { aspect-ratio: 3 / 4; max-width: 100%; border-radius: 10px; border: 1.5px dashed var(--brass-deep); background: var(--stone); color: var(--brass-hi); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; font-size: 1.6rem; }
 .photo-add span { font-size: .85rem; font-weight: 600; }
+body.dragging .photo-grid { outline: 2px dashed var(--brass); outline-offset: 6px; border-radius: 12px; }
 .photo-busy { aspect-ratio: 3 / 4; border-radius: 10px; background: var(--stone); display: grid; place-items: center; color: var(--ink-dim); font-size: .8rem; }
 .field { display: flex; flex-direction: column; gap: 6px; }
 .field > span { font-weight: 500; font-size: .92rem; }
@@ -279,6 +280,7 @@ input:focus, select:focus, textarea:focus { border-color: var(--brass); outline:
     <header class="subbar"><button class="back" data-go="home">‹ Indietro</button></header>
     <h2 class="screen-title">Fotografa le pagine</h2>
     <p class="muted">Una pagina per foto, dritta e con buona luce. Puoi aggiungerne fino a <span id="max-photos">6</span>.</p>
+    <p class="notice small" id="desktop-hint" hidden>Dal computer: fai uno screenshot della pagina (Win+Shift+S) e premi Ctrl+V qui, oppure trascina le immagini in questa pagina.</p>
     <div class="notice" id="ai-warning" hidden>
       <span id="ai-warning-text"></span>
       <button class="btn btn-ghost" id="btn-warning-parent">Apri l'Area genitori</button>
@@ -1041,11 +1043,17 @@ const Capture = {
     });
     for (let i = 0; i < this.busy; i++) grid.append(el('div', 'photo-busy', 'Preparo…'));
     if (this.photos.length + this.busy < AI.maxImages) {
-      const cam = el('button', 'photo-add'); cam.type = 'button'; cam.innerHTML = '📷<span>Scatta</span>';
-      cam.addEventListener('click', () => $('#cam-input').click());
-      const gal = el('button', 'photo-add'); gal.type = 'button'; gal.innerHTML = '🖼️<span>Galleria</span>';
-      gal.addEventListener('click', () => $('#gallery-input').click());
-      grid.append(cam, gal);
+      const tile = (icon, label, onClick) => {
+        const b = el('button', 'photo-add'); b.type = 'button';
+        b.append(icon, el('span', '', label));
+        b.addEventListener('click', onClick);
+        return b;
+      };
+      if (isDesktop()) {
+        grid.append(tile('📋', 'Incolla', pasteFromClipboard), tile('🖼️', 'Scegli file', () => $('#gallery-input').click()));
+      } else {
+        grid.append(tile('📷', 'Scatta', () => $('#cam-input').click()), tile('🖼️', 'Galleria', () => $('#gallery-input').click()));
+      }
     }
     $('#btn-generate').disabled = !this.photos.length || this.busy > 0;
     $('#btn-generate').textContent = this.photos.length ? `Crea la missione (${this.photos.length} ${this.photos.length === 1 ? 'pagina' : 'pagine'})` : 'Crea la missione';
@@ -1074,9 +1082,52 @@ async function compressImage(file) {
   if (!blob) throw new Error('encode');
   return blob;
 }
+const isDesktop = () => { try { return matchMedia('(hover: hover) and (pointer: fine)').matches; } catch { return false; } };
+const imageFiles = list => [...(list || [])]
+  .map(it => (it && typeof it.getAsFile === 'function' ? (it.kind === 'file' && /^image\//.test(it.type) ? it.getAsFile() : null) : it))
+  .filter(f => f && /^image\//.test(f.type));
+async function pasteFromClipboard() {
+  try {
+    const items = await navigator.clipboard.read();
+    const files = [];
+    for (const it of items) {
+      const type = it.types.find(t => t.startsWith('image/'));
+      if (type) { const b = await it.getType(type); files.push(new File([b], 'incollata.' + type.split('/')[1], { type })); }
+    }
+    if (!files.length) { showCaptureError("Negli appunti non c'è nessuna immagine. Fai uno screenshot della pagina (Win+Shift+S) e riprova."); return; }
+    Capture.add(files);
+  } catch {
+    showCaptureError("Premi Ctrl+V per incollare l'immagine che hai copiato.");
+  }
+}
+// Images pasted (Ctrl+V) or dropped on the page go straight into the photo list.
+function bindPasteAndDrop() {
+  const accept = files => {
+    if (!files.length || (current !== 'capture' && current !== 'home')) return false;
+    if (current !== 'capture') show('capture');
+    Capture.add(files);
+    return true;
+  };
+  document.addEventListener('paste', e => {
+    const files = imageFiles(e.clipboardData && e.clipboardData.items);
+    if (accept(files)) e.preventDefault();
+  });
+  const hasFiles = e => !!(e.dataTransfer && [...e.dataTransfer.types].includes('Files'));
+  let depth = 0;
+  document.addEventListener('dragenter', e => { if (hasFiles(e)) { depth++; document.body.classList.add('dragging'); } });
+  document.addEventListener('dragleave', e => { if (hasFiles(e) && --depth <= 0) { depth = 0; document.body.classList.remove('dragging'); } });
+  document.addEventListener('dragover', e => { if (hasFiles(e)) e.preventDefault(); });
+  document.addEventListener('drop', e => {
+    if (!hasFiles(e)) return;
+    e.preventDefault();
+    depth = 0; document.body.classList.remove('dragging');
+    accept(imageFiles(e.dataTransfer.files));
+  });
+}
 function showCaptureError(msg) { const p = $('#capture-error'); p.textContent = msg; p.hidden = !msg; }
 function renderCaptureNotice() {
   Capture.render();
+  $('#desktop-hint').hidden = !isDesktop();
   const box = $('#ai-warning');
   if (AI.mode === 'pending') { box.hidden = true; return; }
   if (AI.mode === 'blocked') {
@@ -1532,6 +1583,7 @@ function init() {
     else { $('#gate-error').hidden = false; $('#gate-pin').value = ''; }
   });
   bindSettings();
+  bindPasteAndDrop();
   show('home');
   if (!AI.inArtifact() && 'serviceWorker' in navigator && /^https:|^http:\/\/(localhost|127\.0\.0\.1)/.test(location.href)) {
     navigator.serviceWorker.register('sw.js').catch(() => { /* offline support is optional */ });

@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-05T19:48:15Z",
+  "aggiornato": "2026-11-06T13:23:00Z",
   "classi": {
     "1-elementare": {
       "classe": "1ª elementare",
@@ -20,9 +20,14 @@
       "classe": "2ª elementare",
       "materie": [
         {
+          "slug": "inglese",
+          "nome": "Inglese",
+          "n": 50
+        },
+        {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 1
+          "n": 50
         },
         {
           "slug": "scienze",

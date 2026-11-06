@@ -8,11 +8,12 @@ Fonti lette: i file già nella struttura, i vecchi file per classe (missioni/<cl
 e le bozze (missioni/bozze/*.json). Le missioni non valide vengono scartate ed elencate,
 i doppioni (stesso id) tenuti una volta sola.
 
-Uso:
-    python strumenti/unisci_biblioteca.py                  # unisce, riscrive i file e l'indice
-    python strumenti/unisci_biblioteca.py --pulisci        # come sopra, poi cancella bozze e vecchi file
-    python strumenti/unisci_biblioteca.py --solo-controllo # controlla e riassume, non scrive nulla
+Uso (senza --scrivi lo strumento controlla e riassume soltanto, non modifica nulla):
+    python strumenti/unisci_biblioteca.py                  # controlla tutto e riassume
+    python strumenti/unisci_biblioteca.py --scrivi         # unisce, riscrive i file pubblicati e l'indice
+    python strumenti/unisci_biblioteca.py --scrivi --pulisci   # come sopra, poi cancella bozze e vecchi file
     python strumenti/unisci_biblioteca.py --senza-bozze    # ignora le bozze (es. non ancora riviste)
+    python strumenti/unisci_biblioteca.py --solo 1-elementare-storia,1-elementare-inglese   # solo queste bozze
     python strumenti/unisci_biblioteca.py --file missioni/bozze/4-elementare-storia-1.json
 """
 import json
@@ -152,13 +153,19 @@ def main():
     if "--file" in sys.argv:
         return controlla_file(Path(sys.argv[sys.argv.index("--file") + 1]).resolve())
     pulisci = "--pulisci" in sys.argv
-    solo_controllo = "--solo-controllo" in sys.argv
+    # Writing the published files is opt-in: a plain run (for example by a helper agent) only checks.
+    solo_controllo = "--scrivi" not in sys.argv or "--solo-controllo" in sys.argv
 
     vecchi = [LIB / f"{slug_classe(c)}.json" for c in CLASSI]
     sorgenti = sorted(LIB.glob("*/*.json"))
     sorgenti = [p for p in sorgenti if p.parent != BOZZE] + [p for p in vecchi if p.exists()]
     if "--senza-bozze" not in sys.argv:
-        sorgenti += sorted(BOZZE.glob("*.json"))
+        bozze = sorted(BOZZE.glob("*.json"))
+        if "--solo" in sys.argv:
+            # only drafts of these class-subject pairs, e.g. --solo 1-elementare-storia,1-elementare-inglese
+            coppie = [c.strip() for c in sys.argv[sys.argv.index("--solo") + 1].split(",") if c.strip()]
+            bozze = [p for p in bozze if any(re.fullmatch(re.escape(c) + r"(-\d+)?", p.stem) for c in coppie)]
+        sorgenti += bozze
 
     gruppi = defaultdict(dict)           # (classe, materia) -> id -> missione
     nomi_materia = {}

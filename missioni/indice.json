@@ -1,18 +1,38 @@
 {
-  "aggiornato": "2026-11-06T13:23:00Z",
+  "aggiornato": "2026-11-06T13:38:53Z",
   "classi": {
     "1-elementare": {
       "classe": "1ª elementare",
       "materie": [
         {
+          "slug": "geografia",
+          "nome": "Geografia",
+          "n": 50
+        },
+        {
+          "slug": "inglese",
+          "nome": "Inglese",
+          "n": 50
+        },
+        {
+          "slug": "italiano",
+          "nome": "Italiano",
+          "n": 50
+        },
+        {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 1
+          "n": 51
         },
         {
           "slug": "scienze",
           "nome": "Scienze",
-          "n": 1
+          "n": 51
+        },
+        {
+          "slug": "storia",
+          "nome": "Storia",
+          "n": 50
         }
       ]
     },
@@ -20,8 +40,18 @@
       "classe": "2ª elementare",
       "materie": [
         {
+          "slug": "geografia",
+          "nome": "Geografia",
+          "n": 50
+        },
+        {
           "slug": "inglese",
           "nome": "Inglese",
+          "n": 50
+        },
+        {
+          "slug": "italiano",
+          "nome": "Italiano",
           "n": 50
         },
         {
@@ -32,7 +62,12 @@
         {
           "slug": "scienze",
           "nome": "Scienze",
-          "n": 1
+          "n": 50
+        },
+        {
+          "slug": "storia",
+          "nome": "Storia",
+          "n": 50
         }
       ]
     },

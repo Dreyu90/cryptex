@@ -1,5 +1,5 @@
 # 2ª media · Geografia: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:00
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:01
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Albania, terra delle aquile [lib-2-media-geografia-albania] · AQUILA

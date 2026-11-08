@@ -1,5 +1,5 @@
 # 4ª elementare · Italiano: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:00
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:01
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## A capo senza errori [lib-4-elementare-italiano-divisione-in-sillabe] · SILLABA

@@ -1,5 +1,5 @@
 # 4ª elementare · Storia: 101 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:00
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:01
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Abramo, pastore in cammino [lib-4-elementare-storia-abramo-e-patriarchi] · CANAAN
@@ -977,7 +977,7 @@ concetti: Gli Accadi; Le conquiste di Sargon; Che cos'è un impero; Lingua e leg
 - L'accadico si scriveva con il cuneiforme, la stessa scrittura dei Sumeri.
 - Qual è la differenza principale tra una città-stato sumera e l'impero di Sargon?
 - Verso quale anno Sargon creò il suo impero?
-- Metti in ordine questi fatti, dal più antico.
+- Metti in ordine le tappe della nascita dell'impero di Sargon, dalla più antica.
 - Secondo una leggenda, da neonato Sargon...
 - Secondo te, perché per Sargon era difficile tenere unito un impero così grande?
 

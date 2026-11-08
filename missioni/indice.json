@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-08T19:00:26Z",
+  "aggiornato": "2026-11-08T19:01:04Z",
   "classi": {
     "1-elementare": {
       "classe": "1ª elementare",
@@ -137,7 +137,7 @@
         {
           "slug": "storia",
           "nome": "Storia",
-          "n": 51
+          "n": 101
         }
       ]
     },

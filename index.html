@@ -322,7 +322,7 @@ input:focus, select:focus, textarea:focus { border-color: var(--brass); outline:
       <div class="cryptex" id="gen-cryptex"></div>
       <h2 class="screen-title">Sto decifrando le pagine…</h2>
       <p class="gen-status" id="gen-status">Leggo le foto</p>
-      <p class="muted small"><span id="gen-time">0 s</span> · di solito meno di mezzo minuto</p>
+      <p class="muted small"><span id="gen-time">0 s</span> · di solito meno di un minuto</p>
       <button class="btn btn-ghost" id="btn-cancel-gen">Annulla</button>
     </div>
   </section>
@@ -517,7 +517,8 @@ const LIBRARY_BRANCH = 'main';
 const MODEL_NAMES = { 'claude-opus-5-5': 'Claude Opus 5.5', 'claude-sonnet-5-5': 'Claude Sonnet 5.5', 'claude-haiku-5-5': 'Claude Haiku 5.5' };
 // Gemini models with a free tier. If one is out of free requests, the next one is tried.
 const GEMINI_MODELS = { 'gemini-3.8-flash': 'Gemini 3.8 Flash', 'gemini-3.6-flash': 'Gemini 3.6 Flash', 'gemini-3.5-flash-lite': 'Gemini 3.5 Flash-Lite' };
-const GEMINI_URL = model => `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
+// Streaming endpoint: the answer arrives piece by piece, so a slow but working model is never cut off.
+const GEMINI_URL = model => `https://generativelanguage.googleapis.com/v1beta/models/${model}:streamGenerateContent?alt=sse`;
 const RANKS = [[0, 'Apprendista'], [100, 'Esploratore'], [300, 'Decifratore'], [700, 'Custode dei codici'], [1500, 'Maestro Cryptex']];
 const TYPE_LABEL = { scelta: 'Scelta multipla', vero_falso: 'Vero o falso?', completa: 'Completa la frase', ordina: 'Metti in ordine', aperta: 'Sfida del Maestro' };
 const OK_TITLES = ['Esatto!', 'Perfetto!', 'Centrato!', 'Ottimo lavoro!', 'Proprio così!'];
@@ -795,14 +796,35 @@ function parseJsonLoose(text) {
   throw { code: 'bad_output' };
 }
 
-async function geminiCall({ parts, schema, maxTokens, signal, timeoutMs = 60000 }) {
+async function geminiCall({ parts, schema, maxTokens, signal, timeoutMs = 60000, onProgress }) {
   const s = Store.s;
   if (!s.geminiKey) throw { code: 'no_key' };
   const t = withTimeout(signal, timeoutMs);
-  try { return await geminiRequest({ parts, schema, maxTokens, s, t }); }
+  try { return await geminiRequest({ parts, schema, maxTokens, s, t, onProgress }); }
   finally { t.done(); }
 }
-async function geminiRequest({ parts, schema, maxTokens, s, t }) {
+// Reads a server-sent-events stream; calls onEvent for every "data:" JSON object, and onData on every received chunk.
+async function readSse(res, onEvent, onData) {
+  const reader = res.body.getReader();
+  const decoder = new TextDecoder();
+  let buf = '';
+  for (;;) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    onData();
+    buf += decoder.decode(value, { stream: true });
+    let cut;
+    while ((cut = buf.search(/\r?\n\r?\n/)) >= 0) {
+      const block = buf.slice(0, cut);
+      buf = buf.slice(cut).replace(/^\r?\n\r?\n/, '');
+      const payload = block.split(/\r?\n/).filter(l => l.startsWith('data:')).map(l => l.slice(5).trim()).join('');
+      if (payload) { try { onEvent(JSON.parse(payload)); } catch { /* ignore a malformed event */ } }
+    }
+  }
+}
+const GEMINI_FIRST_DATA_MS = 100000; // the model may think silently before writing
+const GEMINI_IDLE_MS = 45000;        // once it writes, a long silence means it is stuck
+async function geminiRequest({ parts, schema, maxTokens, s, t, onProgress }) {
   const first = GEMINI_MODELS[s.geminiModel] ? s.geminiModel : DEFAULTS.geminiModel;
   const models = [first, ...Object.keys(GEMINI_MODELS).filter(m => m !== first)];
   const hasImages = parts.some(p => p.inlineData);
@@ -811,43 +833,72 @@ async function geminiRequest({ parts, schema, maxTokens, s, t }) {
   let lastErr = null;
   for (let i = 0; i < models.length; i++) {
     const model = models[i];
+    const last = i === models.length - 1;
     const generationConfig = { responseMimeType: 'application/json', maxOutputTokens: maxTokens };
     if (use.schema) generationConfig.responseJsonSchema = schema;
     // Low thinking: answers much sooner and is plenty for quiz questions (Flash-Lite already defaults to minimal).
     if (use.thinking && !/lite/.test(model)) generationConfig.thinkingConfig = { thinkingLevel: 'LOW' };
     // High media resolution: lets the model read the small print of a textbook page.
     if (use.media) generationConfig.mediaResolution = 'MEDIA_RESOLUTION_HIGH';
-    let res, data;
+    // This attempt has its own stop switch: the caller's stop/timeout, or a model that goes silent.
+    const ctl = new AbortController();
+    const stopAttempt = () => ctl.abort();
+    t.signal.addEventListener('abort', stopAttempt, { once: true });
+    let stalled = false, idle = null;
+    const arm = ms => { clearTimeout(idle); idle = setTimeout(() => { stalled = true; ctl.abort(); }, ms); };
+    arm(GEMINI_FIRST_DATA_MS);
+    let res, text = '', finish = '', blocked = '', errBody = null;
     try {
       res = await fetch(GEMINI_URL(model), {
-        method: 'POST', signal: t.signal,
+        method: 'POST', signal: ctl.signal,
         headers: { 'content-type': 'application/json', 'x-goog-api-key': s.geminiKey },
         body: JSON.stringify({ contents: [{ role: 'user', parts }], generationConfig })
       });
-      data = await res.json().catch(() => null);
-    } catch (e) { throw fetchFailure(e, t, model); }
+      if (!res.ok) {
+        errBody = await res.json().catch(() => null);
+      } else {
+        await readSse(res, ev => {
+          if (ev.error) errBody = ev;
+          if (ev.promptFeedback && ev.promptFeedback.blockReason) blocked = ev.promptFeedback.blockReason;
+          const cand = arr(ev.candidates)[0];
+          if (!cand) return;
+          if (cand.finishReason) finish = cand.finishReason;
+          const piece = arr(cand.content && cand.content.parts).filter(p => typeof p.text === 'string' && !p.thought).map(p => p.text).join('');
+          if (piece) { text += piece; if (onProgress) onProgress(text.length); }
+        }, () => arm(text ? GEMINI_IDLE_MS : GEMINI_FIRST_DATA_MS));
+      }
+    } catch (e) {
+      clearTimeout(idle);
+      t.signal.removeEventListener('abort', stopAttempt);
+      if (stalled && !t.timedOut() && !t.signal.aborted) {
+        // This model went silent: try the next (faster) free model.
+        lastErr = { code: 'timeout', model };
+        if (!last) { if (onProgress) onProgress(0); continue; }
+        throw lastErr;
+      }
+      throw fetchFailure(e, t, model);
+    }
+    clearTimeout(idle);
+    t.signal.removeEventListener('abort', stopAttempt);
     if (t.timedOut()) throw { code: 'timeout', model };
-    if (!res.ok) {
-      const err = { code: 'http', provider: 'gemini', model, status: res.status, message: (data && data.error && data.error.message) || '' };
-      if (res.status === 400) {
+    if (!res.ok || errBody) {
+      const status = res.ok ? (errBody.error && errBody.error.code) || 500 : res.status;
+      const err = { code: 'http', provider: 'gemini', model, status, message: (errBody && errBody.error && errBody.error.message) || '' };
+      if (status === 400) {
         const off = use.thinking && /thinking/i.test(err.message) ? 'thinking'
           : use.media && /media|resolution/i.test(err.message) ? 'media'
           : use.schema && /schema/i.test(err.message) ? 'schema' : null;
         if (off) { use[off] = false; i--; continue; }
       }
       // Model missing, out of free requests or overloaded: try the next free model.
-      if ([404, 429, 500, 503].includes(res.status) && i < models.length - 1) { lastErr = err; continue; }
+      if ([404, 429, 500, 503].includes(status) && !last) { lastErr = err; continue; }
       throw err;
     }
-    if (!data) throw { code: 'bad_output', model };
-    if (data.promptFeedback && data.promptFeedback.blockReason) throw { code: 'refused', model, finish: data.promptFeedback.blockReason };
-    const cand = arr(data.candidates)[0];
-    if (!cand) throw { code: 'bad_output', model };
-    const finish = cand.finishReason;
+    if (blocked) throw { code: 'refused', model, finish: blocked };
     if (finish === 'MAX_TOKENS') throw { code: 'truncated', model, finish };
     if (finish === 'RECITATION') throw { code: 'recitation', model, finish };
     if (['SAFETY', 'PROHIBITED_CONTENT', 'BLOCKLIST', 'SPII', 'IMAGE_SAFETY'].includes(finish)) throw { code: 'refused', model, finish };
-    const text = arr(cand.content && cand.content.parts).filter(p => typeof p.text === 'string' && !p.thought).map(p => p.text).join('');
+    if (!text) throw { code: 'bad_output', model, finish };
     try { return parseJsonLoose(text); } catch (e) { throw { code: 'bad_output', model, finish }; }
   }
   throw lastErr || { code: 'bad_output' };
@@ -898,7 +949,7 @@ const AI = {
         parts.push({ text: `Foto ${i + 1}:` });
         parts.push({ inlineData: { mimeType: 'image/jpeg', data: await blobToBase64(blobs[i]) } });
       }
-      return geminiCall({ parts, schema: MISSION_SCHEMA, maxTokens: 16384, signal, timeoutMs: 150000 });
+      return geminiCall({ parts, schema: MISSION_SCHEMA, maxTokens: 16384, signal, timeoutMs: 300000, onProgress: n => { genChars = n; } });
     }
     const content = [];
     for (let i = 0; i < blobs.length; i++) {
@@ -1447,7 +1498,7 @@ function renderCaptureNotice() {
 }
 
 /* ================= generation ================= */
-let genCtl = null, genTimer = null;
+let genCtl = null, genTimer = null, genChars = 0;
 async function generate() {
   if (!Capture.photos.length) return;
   showCaptureError('');
@@ -1460,11 +1511,14 @@ async function generate() {
   Cryptex.build(host, 6);
   Cryptex.spin(host);
   const t0 = Date.now();
+  genChars = 0;
   $('#gen-status').textContent = GEN_STEPS[0];
   $('#gen-time').textContent = '0 s';
   genTimer = setInterval(() => {
     const sec = Math.round((Date.now() - t0) / 1000);
-    $('#gen-status').textContent = GEN_STEPS[Math.min(Math.floor(sec / 5), GEN_STEPS.length - 1)];
+    $('#gen-status').textContent = genChars
+      ? `Scrivo le domande… (${genChars.toLocaleString('it-IT')} caratteri)`
+      : GEN_STEPS[Math.min(Math.floor(sec / 5), GEN_STEPS.length - 1)];
     $('#gen-time').textContent = `${sec} s`;
   }, 1000);
   try {

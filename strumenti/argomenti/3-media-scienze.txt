@@ -1,5 +1,5 @@
-# 3ª media · Scienze: 90 missioni valide
-# ultima bozza numerata: 10 · aggiornato 2026-11-08 19:49
+# 3ª media · Scienze: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:00
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## A, B, AB o zero? [lib-3-media-scienze-gruppi-sanguigni-codominanza] · SANGUE
@@ -79,6 +79,17 @@ concetti: I magneti; Il campo magnetico terrestre; Corrente e magnetismo; L'indu
 - Perché per sollevare rottami di ferro si usano elettromagneti e non calamite normali?
 - La dinamo di una bicicletta accende la luce solo quando pedali. Spiega perché, usando l'induzione elettromagn…
 
+## Calore, luce e magneti [lib-3-media-scienze-effetti-corrente-joule] · JOULE
+concetti: L'effetto termico; L'effetto luminoso; L'effetto chimico; L'effetto magnetico; La potenza elettrica
+- Quale di questi apparecchi sfrutta soprattutto l'effetto termico della corrente?
+- In una lampadina a incandescenza gran parte dell'energia elettrica diventa calore invece che luce.
+- La scomposizione di una sostanza grazie alla corrente elettrica si chiama ___.
+- Facendo passare corrente nell'acqua resa conduttrice, si liberano due gas. Quali?
+- Un campanello elettrico suona perché la corrente…
+- Un phon funziona a 230 V e assorbe 8 A. Qual è la sua potenza?
+- Ordina le trasformazioni che avvengono in un bollitore elettrico.
+- Perché le lampadine LED consumano molto meno di quelle a incandescenza, a parità di luce?
+
 ## Cariche elettriche e scintille [lib-3-media-scienze-cariche-elettrizzazione] · AMBRA
 concetti: Le cariche elettriche; L'elettrizzazione per strofinio; Conduttori e isolanti; Scariche e fulmini
 - Che carica elettrica hanno gli elettroni?
@@ -100,17 +111,6 @@ concetti: La rete nervosa; Gangli e cordoni; I vertebrati; Cervelli diversi
 - Il polpo è un invertebrato, ma è considerato molto intelligente. Che cosa lo rende possibile?
 - Che cosa hanno in comune la rete nervosa di una medusa e il cervello umano?
 - Confronta il sistema nervoso di una medusa con quello di un essere umano: che cosa hanno in comune e che cosa…
-
-## Che cosa fa il cervello di notte [lib-3-media-scienze-sonno-cervello] · SONNO
-concetti: Perché dormiamo; Le fasi del sonno; Quanto dormire; Luce e orologio biologico
-- Quante ore di sonno a notte sono consigliate in media a un ragazzo di 13-14 anni?
-- Mentre dormi il cervello si spegne completamente e non lavora.
-- La fase del sonno in cui gli occhi si muovono rapidamente e si fanno i sogni più vividi si chiama sonno ___.
-- Perché usare il telefono a letto può rendere più difficile addormentarsi?
-- Durante il sonno profondo viene liberato molto ormone della crescita. Che cosa ne deduci?
-- Ordina le fasi di un ciclo di sonno, a partire dall'addormentamento.
-- Il giorno prima di una verifica è meglio studiare fino a tardi o dormire bene?
-- Spiega perché in estate, con giornate lunghe e tanta luce la sera, molti ragazzi faticano ad addormentarsi pr…
 
 ## Che ore sono dall'altra parte? [lib-3-media-scienze-fusi-orari] · FUSO
 concetti: Rotazione e ore; I fusi orari; Est e ovest; La linea del cambiamento di data
@@ -160,7 +160,7 @@ concetti: La struttura dell'occhio; Iride e pupilla; La retina; I difetti della 
 concetti: La speciazione; L'isolamento geografico; Popolazioni che divergono; I fringuelli delle Galápagos
 - Che cosa si intende per speciazione?
 - Una catena montuosa o un braccio di mare possono dividere una popolazione in due gruppi che non si incrociano…
-- I fringuelli delle Galápagos hanno becchi diversi. A che cosa sono legate queste differenze?
+- Su un'isola delle Galápagos una lunga siccità lascia quasi solo semi grandi e duri. Quali fringuelli hanno pi…
 - Due popolazioni diventano specie diverse quando non possono più incrociarsi: si parla di isolamento ___.
 - Ordina le tappe della speciazione per isolamento geografico.
 - Perché due popolazioni separate diventano sempre più diverse?
@@ -170,7 +170,7 @@ concetti: La speciazione; L'isolamento geografico; Popolazioni che divergono; I 
 ## Come nascono le montagne [lib-3-media-scienze-orogenesi-catene-montuose] · CATENA
 concetti: L'orogenesi; Scontro tra continenti; Pieghe e faglie; Montagne che invecchiano
 - In quale tipo di margine tra placche nascono le grandi catene montuose?
-- L'Himalaya è nato dallo scontro tra la placca indiana e quella euroasiatica.
+- Le Alpi sono nate dallo scontro tra la placca africana e quella euroasiatica.
 - Strati di roccia compressi lentamente da due lati, senza rompersi, formano…
 - Quando la compressione supera la resistenza della roccia, questa si spacca e si forma una ___.
 - Sulle Alpi e sull'Himalaya si trovano fossili marini ad alta quota. Perché?
@@ -180,7 +180,7 @@ concetti: L'orogenesi; Scontro tra continenti; Pieghe e faglie; Montagne che inv
 
 ## Comete, asteroidi e stelle cadenti [lib-3-media-scienze-comete-asteroidi-meteore] · COMETA
 concetti: Gli asteroidi; Le comete; Meteore e meteoriti; Gli sciami meteorici; Sorvegliare il cielo
-- Dove si trova la fascia principale degli asteroidi?
+- Di che cosa sono fatti soprattutto gli asteroidi?
 - Una 'stella cadente' è in realtà una stella che precipita verso la Terra.
 - Un frammento di roccia spaziale che attraversa l'atmosfera e raggiunge il suolo si chiama ___.
 - Di che cosa è fatta principalmente una cometa?
@@ -191,12 +191,12 @@ concetti: Gli asteroidi; Le comete; Meteore e meteoriti; Gli sciami meteorici; S
 
 ## Contare i cromosomi [lib-3-media-scienze-cariotipo-anomalie-cromosomiche] · CORREDO
 concetti: Il corredo cromosomico; Il cariotipo; La non disgiunzione; La trisomia 21
-- Quanti cromosomi ci sono in una cellula del corpo umano?
-- I gameti umani, cioè ovuli e spermatozoi, hanno 23 cromosomi.
+- Nelle cellule del corpo i cromosomi sono a coppie. Da dove arrivano i due cromosomi di ogni coppia?
+- Osservando un cariotipo si può capire se una persona è maschio o femmina.
 - L'immagine dei cromosomi di una cellula ordinati a coppie per forma e dimensioni si chiama ___.
 - Delle 23 coppie di cromosomi umani, quante sono coppie di autosomi?
 - Che cos'è la non disgiunzione?
-- Nella sindrome di Down, quanti cromosomi ha di solito ogni cellula?
+- Quale fattore è noto per aumentare la probabilità di avere un figlio con trisomia 21?
 - Ordina le tappe con cui può originarsi una trisomia.
 - Perché per la sindrome di Down si parla di 'trisomia 21'? Spiega che cosa significa questo nome.
 
@@ -288,6 +288,17 @@ concetti: La fecondazione; Embrione e feto; Placenta e cordone; Gravidanza e par
 - Perché in gravidanza è importante non bere alcol e non fumare?
 - Perché le prime otto settimane di gravidanza sono un periodo particolarmente delicato per lo sviluppo?
 
+## Dalla centrale alla presa [lib-3-media-scienze-alternatore-trasformatore] · DINAMO
+concetti: L'induzione; Alternatori e dinamo; La corrente alternata; Il trasformatore; Il viaggio dell'energia
+- La dinamo della bicicletta trasforma…
+- Muovendo una calamita dentro una bobina di filo si può produrre corrente elettrica.
+- La corrente delle prese di casa cambia verso molte volte al secondo: si chiama corrente ___.
+- Un motore elettrico, come quello di un frullatore, fa il lavoro opposto di un alternatore. Quale trasformazio…
+- A che cosa serve un trasformatore?
+- Perché l'energia elettrica viaggia negli elettrodotti ad altissima tensione?
+- Ordina il viaggio dell'energia da una centrale fino a casa tua.
+- Spiega che differenza c'è tra la corrente prodotta da una pila e quella che arriva alle prese di casa.
+
 ## Dare un nome a ogni vivente [lib-3-media-scienze-classificazione-linneo] · LINNEO
 concetti: Perché classificare; La nomenclatura binomiale; Le categorie; La specie; Classificazione ed evoluzione
 - Chi inventò il sistema dei nomi scientifici formati da due parole?
@@ -321,16 +332,38 @@ concetti: L'eclissi di Sole; L'eclissi di Luna; Perché sono rare; Le maree
 - Quante alte maree ci sono, di solito, nell'arco di un giorno?
 - Spiega perché le eclissi di Sole avvengono con la luna nuova e quelle di Luna con la luna piena.
 
+## Elettricità senza pericoli [lib-3-media-scienze-sicurezza-elettrica] · SICURO
+concetti: Perché la corrente è pericolosa; Il salvavita; La messa a terra; Comportamenti corretti
+- Perché è pericoloso usare il phon vicino alla vasca piena?
+- Il corpo umano è un buon isolante e la corrente non può attraversarlo.
+- L'interruttore differenziale che stacca la corrente quando c'è una dispersione è chiamato comunemente ___.
+- A che cosa serve il polo centrale nelle spine di molti elettrodomestici?
+- Vedi una persona rimasta attaccata a un cavo elettrico. Qual è la prima cosa da fare?
+- Che cosa fa il salvavita quando un apparecchio guasto disperde corrente?
+- Perché non si deve staccare la spina tirando il cavo?
+- Spiega perché salvavita e messa a terra lavorano insieme per proteggerti.
+
 ## Energia da antiche foreste [lib-3-media-scienze-combustibili-fossili-origine] · CARBONE
 concetti: Energia di antichi viventi; Il carbone; Petrolio e gas naturale; I problemi
 - Da che cosa derivano i combustibili fossili?
-- Il carbone si è formato soprattutto da resti di piante di antiche foreste paludose.
+- Nelle antiche paludi i resti delle piante non si decomponevano del tutto perché sott'acqua mancava l'ossigeno…
 - Ordina i tipi di carbone dal meno ricco al più ricco di carbonio.
 - Da che cosa deriva soprattutto il petrolio?
 - Il petrolio risale nelle rocce porose finché non incontra uno strato ___ che lo blocca, formando un giaciment…
 - Bruciando carbone, petrolio e metano si libera soprattutto…
 - Perché si dice che i combustibili fossili sono 'energia solare in scatola'?
 - Spiega perché i combustibili fossili non sono rinnovabili e quale problema per il clima comporta il loro uso.
+
+## Energia dal vento e dal Sole [lib-3-media-scienze-fonti-rinnovabili-elettricita] · EOLICO
+concetti: Rinnovabili e non rinnovabili; L'idroelettrico; Eolico e fotovoltaico; La geotermia; I limiti
+- Quale di queste è una fonte rinnovabile?
+- I pannelli fotovoltaici trasformano direttamente la luce del Sole in energia elettrica.
+- L'energia ricavata dal calore interno della Terra si chiama energia ___.
+- In una centrale idroelettrica, quale energia dell'acqua viene trasformata in elettricità?
+- Ordina come funziona una centrale idroelettrica.
+- Perché le centrali geotermiche si possono costruire solo in alcune zone, e non dappertutto?
+- Qual è il principale limite di eolico e fotovoltaico?
+- Perché, per usare molta energia solare ed eolica, servono anche sistemi per immagazzinare l'energia, come le …
 
 ## Eruzioni tranquille o esplosive? [lib-3-media-scienze-tipi-di-eruzione] · LAVA
 concetti: La viscosità del magma; Le eruzioni effusive; Le eruzioni esplosive; La forma del vulcano
@@ -343,6 +376,17 @@ concetti: La viscosità del magma; Le eruzioni effusive; Le eruzioni esplosive; 
 - Con un'analogia: un magma fluido sta a un magma viscoso come...
 - Nel 79 d.C. un'eruzione del Vesuvio seppellì Pompei. Spiega perché un'eruzione esplosiva come quella è più pe…
 
+## Fili lunghi, corti, spessi [lib-3-media-scienze-resistenza-elettrica-materiali] · FILO
+concetti: La resistenza elettrica; Lunghezza e sezione; Il materiale; La temperatura
+- In quale unità si misura la resistenza elettrica?
+- A parità di materiale e spessore, un filo più lungo ha una resistenza maggiore.
+- I fili elettrici di casa sono fatti di solito di ___, un metallo che conduce molto bene.
+- Perché i cavi che portano molta corrente, come quello del forno, sono più spessi?
+- Un filo con una resistenza di 5 Ω è attraversato da una corrente di 2 A. Quale tensione c'è ai suoi capi?
+- Nella stufetta elettrica si usa un filo di nichel-cromo invece che di rame. Perché?
+- Che cosa sono i superconduttori?
+- Hai due fili di rame lunghi 1 metro: uno sottile e uno spesso il doppio. Quale scegli per collegare un appare…
+
 ## Fiori rosa e altezze diverse [lib-3-media-scienze-dominanza-incompleta-poligenici] · ALTEZZA
 concetti: La dominanza incompleta; Incrociare gli intermedi; I caratteri poligenici; Geni e ambiente
 - Incrociando bocche di leone rosse con bocche di leone bianche, tutte le piante figlie sono rosa. Che tipo di …
@@ -350,7 +394,7 @@ concetti: La dominanza incompleta; Incrociare gli intermedi; I caratteri poligen
 - Incroci tra loro due bocche di leone rosa. Quali proporzioni ti aspetti nei figli?
 - I caratteri controllati da molti geni insieme, come l'altezza, si chiamano ___.
 - Perché le altezze degli alunni di una classe non si dividono in 'alti' e 'bassi', ma variano gradualmente?
-- Due gemelli identici crescono con alimentazioni molto diverse e da adulti uno è più basso dell'altro. Che cos…
+- Da una stessa pianta ottieni due talee, quindi con lo stesso DNA. Una cresce al sole in un terreno ricco, l'a…
 - Ortensie con lo stesso DNA possono fare fiori blu o rosa a seconda del terreno. Perché?
 - Spiega la differenza tra ciò che Mendel osservò incrociando piselli a fiore viola e bianco e ciò che succede …
 
@@ -396,7 +440,7 @@ concetti: I gemelli monozigoti; I gemelli dizigoti; Gemelli e ricerca; Le impron
 - Ordina come si formano due gemelli monozigoti.
 - Due gemelli monozigoti hanno le stesse impronte digitali?
 - Perché gli scienziati studiano gemelli monozigoti cresciuti in famiglie diverse?
-- Due gemelli monozigoti hanno lo stesso DNA, ma uno suona il pianoforte e l'altro gioca a calcio, e hanno cara…
+- Due gemelli monozigoti, cresciuti in due famiglie diverse, da adulti hanno quasi la stessa altezza e lo stess…
 
 ## Geyser, fumarole e soffioni [lib-3-media-scienze-vulcanismo-secondario] · GEYSER
 concetti: Fumarole e solfatare; I geyser; Sorgenti termali e soffioni; Il bradisismo
@@ -413,8 +457,8 @@ concetti: Fumarole e solfatare; I geyser; Sorgenti termali e soffioni; Il bradis
 concetti: Il giorno; Anno e anni bisestili; Il mese e la Luna; Il calendario gregoriano
 - Perché l'anno dura circa 365 giorni?
 - Ogni quattro anni, di regola, febbraio ha 29 giorni.
-- Il ciclo completo delle fasi lunari dura circa ___ giorni, e da esso deriva l'idea di mese.
-- Perché si aggiunge un giorno ogni quattro anni?
+- Un mese lunare dura circa 29,5 giorni: un anno fatto di 12 mesi lunari durerebbe quindi circa ___ giorni, men…
+- Quanti anni bisestili ci sono dal 2025 al 2040, estremi compresi?
 - Il 2100 sarà un anno bisestile.
 - Il calendario che usiamo oggi si chiama gregoriano perché…
 - Ordina queste durate dalla più breve alla più lunga.
@@ -438,7 +482,7 @@ concetti: Ghiandole e ormoni; Ipofisi e ipotalamo; Pancreas e insulina; Tiroide 
 - L'ipofisi è una piccola ghiandola alla base del cervello che controlla molte altre ghiandole.
 - Stai per tuffarti da uno scoglio alto e il cuore ti batte forte. Quale ormone è entrato in azione?
 - Perché nel sale da cucina si aggiunge spesso iodio?
-- Quali ormoni guidano i cambiamenti del corpo durante la pubertà?
+- Durante la pubertà testicoli e ovaie aumentano la produzione di ormoni sessuali. Da quale ghiandola ricevono …
 - Che differenza c'è tra il sistema nervoso e il sistema endocrino?
 - Spiega che cosa succede nel corpo di una persona con diabete di tipo 1 e perché deve controllare spesso lo zu…
 
@@ -463,6 +507,17 @@ concetti: L'età della Terra; Le grandi suddivisioni; La vita nel tempo; Le esti
 - Com'erano le prime forme di vita comparse sulla Terra?
 - Se tutta la storia della Terra fosse compressa in un solo giorno, gli esseri umani comparirebbero...
 - Che cos'è un'estinzione di massa e perché, dopo, altri gruppi di organismi hanno potuto diffondersi?
+
+## Il cervello che lavora di notte [lib-3-media-scienze-sonno-cervello] · SONNO
+concetti: Perché dormiamo; Le fasi del sonno; Quanto dormire; Luce e orologio biologico
+- Quante ore di sonno a notte sono consigliate in media a un ragazzo di 13-14 anni?
+- Mentre dormi il cervello si spegne completamente e non lavora.
+- La fase del sonno in cui gli occhi si muovono rapidamente e si fanno i sogni più vividi si chiama sonno ___.
+- Perché usare il telefono a letto può rendere più difficile addormentarsi?
+- Durante il sonno profondo viene liberato molto ormone della crescita. Che cosa ne deduci?
+- Ordina le fasi di un ciclo di sonno, a partire dall'addormentamento.
+- Il giorno prima di una verifica è meglio studiare fino a tardi o dormire bene?
+- Spiega perché in estate, con giornate lunghe e tanta luce la sera, molti ragazzi faticano ad addormentarsi pr…
 
 ## Il cervello, centro di comando [lib-3-media-scienze-encefalo-midollo-spinale] · MIDOLLO
 concetti: Il sistema nervoso centrale; Il cervello; Cervelletto e tronco encefalico; Il midollo spinale
@@ -512,10 +567,10 @@ concetti: Tre famiglie collegate; I processi in superficie; I processi in profon
 concetti: Che cos'è un buco nero; Come nasce; L'orizzonte degli eventi; Come si osservano
 - Perché un buco nero si chiama così?
 - Una stella come il Sole diventerà un buco nero alla fine della sua vita.
-- Da che cosa può nascere un buco nero?
+- Quale di questi corpi celesti potrebbe diventare un buco nero alla fine della sua vita?
 - Il confine di un buco nero oltre il quale nulla può tornare indietro si chiama orizzonte degli ___.
 - Se un buco nero non emette luce, come fanno gli astronomi a trovarlo?
-- Che cosa si trova, secondo gli astronomi, al centro della nostra galassia?
+- Nel 2019 una rete di radiotelescopi ha ottenuto la prima immagine di un buco nero. Che cosa si vede in quella…
 - Ordina le fasi che portano alla nascita di un buco nero.
 - Se il Sole fosse sostituito da un buco nero con la stessa massa, la Terra verrebbe 'risucchiata'? Spiega.
 
@@ -540,6 +595,17 @@ concetti: La struttura del neurone; L'impulso nervoso; La sinapsi; I tipi di neu
 - Come si chiamano i neuroni che portano gli ordini dal sistema nervoso centrale ai muscoli?
 - Senti il profumo di una pizza appena sfornata. Quali neuroni portano l'informazione dal naso verso il cervell…
 - Perché i neuroni hanno una forma così diversa dalle altre cellule, con prolungamenti lunghi e ramificati?
+
+## Il potere nascosto nell'atomo [lib-3-media-scienze-energia-nucleare-fissione] · URANIO
+concetti: Il nucleo dell'atomo; La fissione; La centrale nucleare; Vantaggi e rischi; La fusione
+- Da che cosa è formato il nucleo di un atomo?
+- Nella fissione nucleare un nucleo pesante si spezza in due nuclei più piccoli, liberando energia.
+- Perché nella fissione dell'uranio può nascere una reazione a catena?
+- Nel reattore la reazione a catena è tenuta sotto controllo da barre che assorbono i ___.
+- Ordina le trasformazioni che avvengono in una centrale nucleare.
+- Quale vantaggio ha una centrale nucleare rispetto a una centrale a carbone?
+- Perché le scorie delle centrali nucleari sono un problema difficile da risolvere?
+- La fusione nucleare è ciò che fa brillare il Sole. Spiega che differenza c'è tra fissione e fusione e perché …
 
 ## Il quadrato di Punnett [lib-3-media-scienze-genotipo-fenotipo-punnett] · ALLELE
 concetti: Gene e allele; Omozigote ed eterozigote; Genotipo e fenotipo; Il quadrato di Punnett
@@ -579,10 +645,10 @@ concetti: Cos'è un punto caldo; Isole in fila; Vulcani a scudo; L'Islanda, caso
 - Dove si trova di solito un punto caldo rispetto ai margini delle placche?
 - Secondo il modello dei punti caldi, il magma sale da un pennacchio caldo che arriva dalle profondità del mant…
 - Nella catena delle Hawaii le isole a nord-ovest sono le più vecchie. Perché?
-- Il magma dei punti caldi oceanici è basaltico e fluido, perciò forma vulcani a ___, larghi e poco ripidi.
-- Le eruzioni delle Hawaii sono di solito effusive. Che cosa ti aspetti di vedere?
+- Il magma basaltico dei punti caldi oceanici è povero di silice e quindi molto ___: scorre facilmente e i gas …
+- Il Mauna Kea, alle Hawaii, supera di poco i 4200 m sul livello del mare, ma misurato dalla sua base sul fonda…
 - Ordina le tappe della vita di un'isola vulcanica nata sopra un punto caldo.
-- Perché l'Islanda ha un'attività vulcanica così intensa?
+- Quasi tutta la dorsale medio-atlantica è sommersa, mentre l'Islanda emerge dall'oceano. Perché proprio lì?
 - Se conosci l'età delle isole lungo la catena delle Hawaii, come puoi capire in che direzione e a che velocità…
 
 ## Keplero, Newton e le orbite [lib-3-media-scienze-keplero-e-gravita] · ELLISSE
@@ -595,6 +661,17 @@ concetti: La prima legge di Keplero; La seconda legge di Keplero; La terza legge
 - Un astronauta ha una massa di 72 kg. Sulla Luna, dove la gravità è circa 1/6 di quella terrestre, che cosa ca…
 - Perché la Luna non «cade» sulla Terra, pur essendo attratta dalla gravità?
 - Che cosa succederebbe alla Terra se all'improvviso la gravità del Sole sparisse? Spiega.
+
+## L'impianto elettrico di casa [lib-3-media-scienze-impianto-casa-parallelo] · PRESA
+concetti: Collegamenti in parallelo; Collegamenti in serie; Correnti che si sommano; Gli interruttori
+- Qual è la tensione delle prese di casa in Italia?
+- Se colleghi in serie a una pila due lampadine uguali, ognuna riceve metà della tensione della pila.
+- Nel collegamento in parallelo ogni apparecchio di casa riceve la stessa ___ della rete, cioè 230 V.
+- Come va collegato un interruttore per accendere e spegnere una sola lampadina?
+- Su una presa multipla sono accesi un bollitore da 9 A, un phon da 8 A e un caricabatterie da 0,5 A. Qual è la…
+- Perché è pericoloso collegare tanti apparecchi potenti alla stessa presa multipla?
+- Tre lampadine uguali sono collegate in serie a una pila. Se ne aggiungi una quarta in serie, che cosa succede…
+- In molte case, se accendi insieme forno, lavatrice e phon, la corrente si stacca. Spiega perché succede, usan…
 
 ## L'Italia, terra di vulcani [lib-3-media-scienze-vulcani-italiani] · ETNA
 concetti: L'Etna; Il Vesuvio; Stromboli e le Eolie; Campi Flegrei e sorveglianza
@@ -622,7 +699,7 @@ concetti: Che cos'è; Le razze di cani; Le piante coltivate; Darwin e gli alleva
 concetti: Due forme di falena; La rivoluzione industriale; Il ritorno delle chiare; Mimetismo e adattamento
 - La falena delle betulle esiste in due forme. Quali?
 - Il colore chiaro o scuro della falena è un carattere ereditario.
-- Durante la rivoluzione industriale in Inghilterra, perché le falene scure diventarono più numerose?
+- Nella storia della falena delle betulle, chi faceva la 'selezione', eliminando le falene più visibili?
 - Un colore che rende un animale difficile da vedere nel suo ambiente si chiama colorazione ___.
 - Che cosa successe quando le leggi contro l'inquinamento resero l'aria più pulita?
 - Ordina gli eventi della storia della falena delle betulle.
@@ -651,6 +728,17 @@ concetti: Cos'è una galassia; I tipi di galassie; La Via Lattea; Le galassie vi
 - Quante galassie si stima ci siano nell'universo osservabile?
 - Spiega dove si trova il Sistema solare nella Via Lattea e perché non possiamo fotografare la nostra galassia …
 
+## La pila di Alessandro Volta [lib-3-media-scienze-pila-di-volta] · PILA
+concetti: Alessandro Volta; La prima pila; Dall'energia chimica all'elettrica; Pile e batterie di oggi
+- Galvani vide muoversi le zampe di una rana toccate con due metalli diversi e pensò a un'elettricità prodotta …
+- In onore di Volta, l'unità di misura della tensione elettrica si chiama ___.
+- In una pila l'energia chimica si trasforma in energia elettrica.
+- Come era costruita la prima pila di Volta?
+- Ordina che cosa succede quando accendi una torcia a pile.
+- Colleghi in serie tre pile da 1,5 V. Quale tensione totale ottieni?
+- Dove vanno gettate le pile esaurite?
+- Perché una pila usa e getta prima o poi si scarica, mentre una batteria ricaricabile può essere riutilizzata?
+
 ## Le onde che svelano l'interno [lib-3-media-scienze-onde-sismiche-interno] · SISMA
 concetti: Le onde P; Le onde S; Le onde superficiali; Leggere l'interno
 - Quali onde sismiche arrivano per prime a una stazione di misura?
@@ -673,6 +761,17 @@ concetti: I fossili; Gli organi omologhi; Gli organi analoghi; Gli organi vestig
 - Negli strati rocciosi più antichi si trovano organismi semplici, in quelli più recenti anche organismi più co…
 - Le balene vivono in mare ma respirano aria con i polmoni e hanno resti di ossa delle zampe posteriori. Che co…
 
+## Leggere la bolletta della luce [lib-3-media-scienze-consumi-elettrici-kwh] · CONSUMO
+concetti: Energia e potenza; Calcolare i consumi; La classe energetica; Risparmiare energia
+- In bolletta l'energia elettrica consumata si misura in…
+- Un kilowattora è l'energia consumata da un apparecchio da 1000 W acceso per un'ora.
+- Un forno da 2000 W resta acceso per 30 minuti. Quanta energia consuma?
+- Sull'etichetta energetica europea, la classe più efficiente, che consuma meno, è la classe ___.
+- Una lampadina LED da 10 W resta accesa 5 ore al giorno per 30 giorni. Quanta energia consuma in un mese?
+- Quale di queste abitudini fa risparmiare energia?
+- Se 1 kWh costa 0,30 euro, quanto costa usare per 2 ore un phon da 1500 W?
+- Una famiglia vuole consumare meno energia elettrica. Proponi almeno due azioni e spiega perché funzionano.
+
 ## Leggere un albero genealogico [lib-3-media-scienze-alberi-genealogici] · ALBERO
 concetti: I simboli; Il carattere recessivo; Il carattere dominante; Il carattere legato all'X
 - In un albero genealogico, che cosa indica di solito un quadrato?
@@ -681,13 +780,13 @@ concetti: I simboli; Il carattere recessivo; Il carattere dominante; Il caratter
 - Due genitori sani hanno un figlio con un carattere recessivo. Qual è il genotipo dei genitori?
 - Due genitori portatori (Aa) di una malattia recessiva hanno un figlio. Qual è la probabilità che sia malato?
 - In un albero genealogico ogni persona che manifesta il carattere ha almeno un genitore che lo manifesta, e il…
-- In una famiglia il daltonismo compare quasi solo nei maschi. Perché?
+- In un albero genealogico, una madre portatrice sana del daltonismo e un padre con vista normale hanno diversi…
 - In un albero genealogico vedi un carattere che 'salta' i genitori e ricompare nei figli di due persone sane. …
 
 ## Mappa del cervello [lib-3-media-scienze-emisferi-lobi-corteccia] · LOBO
 concetti: Due emisferi; La corteccia cerebrale; I lobi; Aree che collaborano
 - Che cosa collega i due emisferi cerebrali?
-- L'emisfero sinistro controlla i movimenti della parte destra del corpo.
+- La corteccia cerebrale è formata soprattutto da materia grigia, cioè dai corpi dei neuroni.
 - Le informazioni che arrivano dagli occhi vengono elaborate soprattutto nel lobo ___, nella parte posteriore d…
 - Quale lobo è più coinvolto nel prendere decisioni e pianificare le azioni?
 - Il lobo temporale, vicino alle orecchie, elabora soprattutto…
@@ -761,6 +860,17 @@ concetti: La nascita; La fusione nucleare; Colore e temperatura; Stelle come il 
 - Perché una stella stabile non collassa sotto il proprio peso?
 - Il ferro nel tuo sangue è stato prodotto dentro antiche stelle. Spiega come è possibile.
 
+## Onde invisibili intorno a noi [lib-3-media-scienze-onde-elettromagnetiche] · RADIO
+concetti: Che cosa sono; Lo spettro elettromagnetico; Gli usi; Rischi e protezioni
+- A che velocità viaggiano le onde elettromagnetiche nel vuoto?
+- Le onde elettromagnetiche, a differenza del suono, possono viaggiare anche nel vuoto.
+- Il forno che scalda il cibo facendo vibrare le molecole d'acqua usa le ___.
+- Ordina queste onde dalla lunghezza d'onda maggiore alla minore.
+- Quali onde usano i medici per vedere le ossa in una radiografia?
+- Perché d'estate si usa la crema solare?
+- Quale posto occupa la luce visibile nello spettro elettromagnetico?
+- La radio di un'auto riceve la musica senza fili. Spiega come arriva il segnale dalla stazione radio.
+
 ## Orecchio, naso, lingua e pelle [lib-3-media-scienze-udito-e-altri-sensi] · TIMPANO
 concetti: L'orecchio; L'equilibrio; Gusto e olfatto; Il tatto; Proteggere l'udito
 - Quale membrana vibra quando le onde sonore arrivano nell'orecchio?
@@ -807,7 +917,7 @@ concetti: Le placche; Margini divergenti; Margini convergenti; Margini trasformi
 
 ## Proteggi il tuo cervello [lib-3-media-scienze-protezione-sistema-nervoso] · CASCO
 concetti: Le difese naturali; I traumi alla testa; Il casco; Il midollo spinale
-- Quali membrane avvolgono e proteggono encefalo e midollo spinale?
+- Qual è la difesa più esterna e rigida che protegge l'encefalo?
 - Tra le meningi scorre un liquido che fa da cuscinetto contro i colpi: il liquido ___.
 - Un casco ben allacciato riduce molto il rischio di gravi lesioni alla testa in caso di caduta.
 - Perché un casco va sostituito dopo un forte urto, anche se sembra intatto?
@@ -829,7 +939,7 @@ concetti: L'origine dei terremoti; Ipocentro ed epicentro; Le faglie; Gli tsunam
 
 ## Quanti anni ha questa roccia? [lib-3-media-scienze-datazione-relativa-assoluta] · ISOTOPO
 concetti: La datazione relativa; Tagli e intrusioni; La datazione assoluta; Il carbonio-14
-- In una serie di strati mai disturbati, quale strato è il più antico?
+- In una parete vedi tre strati mai disturbati: argilla in basso, arenaria al centro, calcare in alto. Quale si…
 - La datazione relativa dice quale roccia è più vecchia, ma non quanti anni ha.
 - Un filone di roccia magmatica attraversa tre strati sedimentari. Che cosa puoi concludere?
 - Il tempo necessario perché metà degli atomi radioattivi di un campione decada si chiama tempo di ___.
@@ -931,7 +1041,7 @@ concetti: I giacimenti; I minerali metallici; Cave e miniere; Risorse non rinnov
 - Che cos'è un giacimento?
 - Dalla bauxite si ricava soprattutto l'___.
 - Da quale minerale si ricava il ferro?
-- Il marmo di Carrara si estrae da cave a cielo aperto.
+- Il marmo di Carrara, roccia usata in edilizia e scultura, si estrae in cave e non in miniere.
 - Perché i minerali metallici sono considerati risorse non rinnovabili?
 - Quale problema ambientale può causare una miniera?
 - Riciclare una lattina di alluminio invece di produrne una nuova dalla bauxite…
@@ -944,7 +1054,7 @@ concetti: La riproduzione asessuata; Esempi di asessuata; La riproduzione sessua
 - I figli nati per riproduzione asessuata sono geneticamente identici al genitore.
 - Come si riproducono di solito i batteri?
 - Le fragole producono lunghi fusti striscianti che mettono radici e formano nuove piantine. Come si chiamano?
-- Perché due fratelli nati dagli stessi genitori, ma non gemelli, sono diversi?
+- Quale di questi esempi è una riproduzione sessuata?
 - Se l'ambiente cambia all'improvviso, per esempio arriva una nuova malattia, quale riproduzione dà più possibi…
 - Un agricoltore ha un melo con frutti buonissimi. Perché preferisce moltiplicarlo per talea o innesto invece d…
 
@@ -961,7 +1071,7 @@ concetti: La crosta; Il mantello; Il nucleo; Litosfera e astenosfera
 
 ## Vivere accanto a un vulcano [lib-3-media-scienze-rischio-vulcanico-prevenzione] · ALLERTA
 concetti: Che cos'è il rischio; Sorvegliare i vulcani; Zona rossa e allerta; Comportamenti corretti
-- Perché il Vesuvio è considerato uno dei vulcani più a rischio al mondo?
+- Quando si parla di rischio vulcanico, che cosa indica la 'vulnerabilità'?
 - Oggi i vulcanologi possono prevedere il giorno e l'ora esatti di un'eruzione.
 - Quale di questi segnali può indicare che il magma sta risalendo?
 - Nel piano di emergenza del Vesuvio, l'area da evacuare prima di un'eruzione si chiama zona ___.

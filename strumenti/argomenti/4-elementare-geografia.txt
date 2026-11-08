@@ -1,5 +1,5 @@
 # 4ª elementare · Geografia: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:00
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Adige, Tevere e Arno [lib-4-elementare-geografia-altri-fiumi-italiani] · TEVERE
@@ -64,7 +64,7 @@ concetti: Lo stambecco; Camoscio e marmotta; Grandi uccelli rapaci; Orso e lupo
 - Lo ___ è un animale delle Alpi con lunghe corna ricurve, capace di arrampicarsi su rocce ripidissime.
 - Qual è la particolarità del gipeto, il grande avvoltoio tornato sulle Alpi?
 - Come sono le corna del camoscio?
-- In quale zona d'Italia vive l'orso bruno marsicano?
+- Da dove prende il nome l'orso bruno marsicano?
 - Perché l'aquila reale costruisce il nido su pareti rocciose molto alte?
 - Gli animali di montagna devono superare inverni lunghi e freddi. Fai almeno due esempi di come si sono adatta…
 
@@ -148,7 +148,7 @@ concetti: La zona torrida; Le zone temperate; Le zone polari; Tropici e circoli 
 ## Dal chicco alla pagnotta [lib-4-elementare-geografia-filiera-del-pane] · FARINA
 concetti: Il grano; Dal grano alla farina; Dal forno alla tavola; La filiera e i tre settori
 - In quale stagione si fa di solito la mietitura del grano in Italia?
-- Con il grano duro si produce soprattutto la semola per la pasta.
+- Il lievito fa gonfiare l'impasto del pane prima della cottura.
 - Il grano viene macinato nel ___ e diventa farina.
 - Metti in ordine le tappe della filiera del pane.
 - In quale stagione si semina di solito il grano in Italia?
@@ -172,7 +172,7 @@ concetti: Le Alpi Retiche; Carniche e Giulie; Valli coltivate; Più basse a est
 - In quale sezione delle Alpi centrali si trova l'Ortles?
 - Le Alpi orientali sono in genere più basse delle Alpi occidentali.
 - Le Alpi ___ si trovano in Friuli-Venezia Giulia, al confine con la Slovenia.
-- Quale frutto si coltiva in grandi quantità in Trentino-Alto Adige e in Valtellina?
+- In quale regione si trova la Valtellina?
 - Quale fiume percorre la Valtellina prima di entrare nel lago di Como?
 - Con quali Stati confinano le Alpi Carniche e Giulie?
 - Le Alpi occidentali superano i 4.000 metri, le Alpi Giulie restano sotto i 3.000. Che cosa noti spostandoti d…
@@ -225,7 +225,7 @@ concetti: Che cosa studia il geografo; Fonti dirette e indirette; Foto aeree e s
 ## Dove il Po si divide [lib-4-elementare-geografia-delta-del-po] · RAMO
 concetti: Che cos'è il delta; Un delta che cresce; Il Parco del Delta; Valli da pesca
 - Perché la foce del Po si chiama delta?
-- Nel delta il Po si divide in più rami prima di arrivare al mare.
+- Nel delta del Po l'acqua del fiume scorre veloce, come in montagna.
 - Il delta cresce verso il mare perché il fiume deposita sabbia e ___.
 - La città di Adria in antichità era un porto sul mare; oggi è lontana dalla costa. Perché?
 - Tra quali regioni si trova il Parco del Delta del Po?
@@ -247,7 +247,7 @@ concetti: Che cosa fa l'industria; Le materie prime; L'industria al Nord; Il Mad
 ## Fin dove arriva l'Italia [lib-4-elementare-geografia-confini-d-italia] · CONFINE
 concetti: Confini naturali; Gli Stati confinanti; Stati dentro l'Italia; Una penisola nel Mediterraneo
 - Con quale Stato confina l'Italia a nord-ovest?
-- L'Italia è circondata per gran parte dal mare.
+- Un confine tracciato con una linea sulla carta, senza seguire monti, fiumi o coste, è un confine naturale.
 - La Città del ___ è uno Stato indipendente che si trova dentro Roma.
 - Metti in ordine gli Stati che confinano con l'Italia lungo le Alpi, da ovest a est.
 - La Repubblica di San Marino è circondata da quali regioni italiane?
@@ -323,7 +323,7 @@ concetti: Temperatura e termometro; Precipitazioni e pluviometro; Umidità e igr
 
 ## Gran Sasso e Majella [lib-4-elementare-geografia-appennino-centrale] · CORNO
 concetti: Il Gran Sasso; Il Calderone; Majella e Sibillini; Altopiani e pastori
-- Il Corno Grande, la vetta più alta dell'Appennino, fa parte di quale gruppo montuoso?
+- Quanto è alto, più o meno, il Corno Grande, la vetta più alta dell'Appennino?
 - Sul Gran Sasso si trova il Calderone, un piccolo ghiacciaio tra i più meridionali d'Europa.
 - Il massiccio della ___, in Abruzzo, ha come vetta più alta il Monte Amaro.
 - Che cos'è Campo Imperatore?
@@ -351,7 +351,7 @@ concetti: Il Volturno; L'Ofanto; Pescara e Garigliano; Fiumi brevi
 - In quale mare sfocia il Volturno?
 - Perché molti fiumi del Sud sono brevi?
 - Il Garigliano segna per un tratto il confine tra quali regioni?
-- Perché d'estate molti fiumi del Sud hanno pochissima acqua?
+- Dopo un forte temporale d'autunno, un fiume breve del Sud può ingrossarsi in poche ore. Perché?
 - L'Ofanto attraversa tre regioni prima di arrivare al mare. Perché un fiume come questo è importante per l'agr…
 
 ## I grandi laghi del Nord [lib-4-elementare-geografia-i-laghi-prealpini] · GARDA
@@ -370,8 +370,8 @@ concetti: Dove si trovano; Nate dal mare; Il colore; Patrimonio dell'umanità
 - Qual è la montagna più alta delle Dolomiti?
 - Nel 2009 le Dolomiti sono state riconosciute dall'UNESCO patrimonio dell'umanità.
 - Le Dolomiti sono formate da una roccia chiamata ___.
-- Come mai sulle Dolomiti si trovano fossili di animali marini?
-- Che cos'è l'enrosadira?
+- Oggi le barriere coralline vivono in mari caldi e poco profondi. Che cosa ci dice questo su com'era, milioni …
+- Perché al tramonto le Dolomiti si colorano di rosa e arancione?
 - In quali regioni si trovano le Dolomiti?
 - Quale gruppo dolomitico, con tre grandi torri di roccia, è uno dei simboli delle Dolomiti?
 - Ogni anno milioni di turisti visitano le Dolomiti. Quali vantaggi porta il turismo e perché bisogna anche pro…
@@ -484,7 +484,7 @@ concetti: Dove comincia; Il Monte Cimone; Versanti e fiumi; Attraversare i monti
 - I fiumi che scendono dal versante emiliano dell'Appennino in quale fiume si gettano per lo più?
 - Il Monte Cimone è alto circa 2.165 metri, il Monte Bianco circa 4.800. Di quanti metri, all'incirca, è più ba…
 - Perché attraversare l'Appennino tra Bologna e Firenze è stato a lungo difficile?
-- L'Arno e i fiumi emiliani nascono sulle stesse montagne, ma l'Arno va verso il Tirreno e gli altri verso il P…
+- Un tempo, per andare da Bologna a Firenze, bisognava superare passi di montagna con strade strette e piene di…
 
 ## L'energia che ci muove [lib-4-elementare-geografia-fonti-di-energia] · TURBINA
 concetti: Fonti non rinnovabili; Sole e vento; Acqua e calore della Terra; Risparmiare energia
@@ -496,6 +496,17 @@ concetti: Fonti non rinnovabili; Sole e vento; Acqua e calore della Terra; Rispa
 - Dove conviene installare le pale eoliche?
 - Quale comportamento aiuta a risparmiare energia a casa?
 - Perché molti paesi, compresa l'Italia, cercano di usare sempre più fonti rinnovabili? Indica almeno due motiv…
+
+## L'Italia nella casa europea [lib-4-elementare-geografia-italia-nell-unione-europea] · EURO
+concetti: Il continente europeo; L'Unione Europea; L'euro e la bandiera; Viaggiare e studiare
+- In quale continente si trova l'Italia?
+- La bandiera dell'Unione Europea ha stelle gialle su sfondo blu.
+- La moneta che usiamo in Italia e in molti altri Paesi dell'Unione Europea si chiama ___.
+- Quanti Stati fanno parte dell'Unione Europea?
+- Che cosa significa che l'Italia è uno dei Paesi fondatori dell'Unione Europea?
+- Quale catena montuosa segna, per tradizione, il confine tra Europa e Asia?
+- Che cos'è il programma Erasmus?
+- Quali vantaggi ha un cittadino italiano perché l'Italia fa parte dell'Unione Europea? Indicane almeno due.
 
 ## La bussola nel taschino [lib-4-elementare-geografia-punti-cardinali] · NORD
 concetti: I punti cardinali; La rosa dei venti; La bussola; Orientarsi con Sole e stelle
@@ -546,7 +557,7 @@ concetti: L'effetto serra; Il riscaldamento globale; Le conseguenze; Che cosa po
 - Che cosa fa l'effetto serra naturale?
 - Senza un po' di effetto serra naturale, sulla Terra farebbe molto più freddo.
 - Petrolio, carbone e gas naturale sono chiamati combustibili ___.
-- Quale conseguenza del riscaldamento globale si vede già sulle Alpi?
+- Quale di questi fenomeni diventa più frequente con il riscaldamento globale?
 - Che differenza c'è tra effetto serra naturale e riscaldamento globale?
 - Perché lo scioglimento dei ghiacci può far alzare il livello dei mari?
 - Quale scelta quotidiana aiuta a ridurre i gas serra?
@@ -554,9 +565,9 @@ concetti: L'effetto serra; Il riscaldamento globale; Le conseguenze; Che cosa po
 
 ## Laghi nati nei crateri [lib-4-elementare-geografia-laghi-vulcanici-del-lazio] · CRATERE
 concetti: Come nascono; Il lago di Bolsena; Bracciano e Vico; Albano e Nemi
-- Perché molti laghi del Lazio hanno una forma quasi rotonda?
-- Il lago di Bolsena è il più grande lago vulcanico d'Europa.
-- Il lago Albano e il lago di Nemi si trovano sui Colli ___, vicino a Roma.
+- Molti laghi vulcanici hanno sponde ripide che scendono subito in profondità. Perché?
+- Nel lago di Bolsena ci sono due isole.
+- Il lago di Bolsena è il più grande lago ___ d'Europa.
 - In quale provincia si trova il lago di Bolsena?
 - Per quale motivo il lago di Bracciano è importante per la città di Roma?
 - Quale località, residenza estiva dei papi, si affaccia sul lago Albano?
@@ -578,12 +589,12 @@ concetti: Allevamento e alpeggio; Boschi e legname; Il turismo; Acqua ed energia
 concetti: Tre sezioni; Il Monte Bianco; Il Monviso; Valli e passaggi
 - In quale regione italiana si trova il versante italiano del Monte Bianco?
 - Il Monte Bianco si trova al confine tra Italia e Francia.
-- Le Alpi più a sud, vicine al mar Ligure, si chiamano Alpi ___.
+- Il Monviso, con la sua forma a piramide, si trova nelle Alpi ___.
 - Metti in ordine queste sezioni delle Alpi occidentali, da sud verso nord.
 - Per quale forma è famoso il Monviso?
-- Quale opera permette di andare in automobile dalla Valle d'Aosta alla Francia passando sotto il Monte Bianco?
-- Perché sul Monte Bianco ci sono ghiacciai anche in estate?
-- Perché la Valle d'Aosta e la Valle di Susa sono sempre state importanti vie di passaggio?
+- Quale valle del Piemonte, percorsa da autostrada e ferrovia, porta in Francia attraverso il traforo del Fréju…
+- Perché il Monte Bianco si chiama così?
+- Il Monte Bianco e il Monviso sono due vette famose delle Alpi occidentali. Descrivili: dove si trovano, quant…
 
 ## Le due isole maggiori [lib-4-elementare-geografia-sicilia-e-sardegna] · ISOLA
 concetti: Le isole maggiori; La Sicilia; La Sardegna; Vivere su un'isola
@@ -661,6 +672,17 @@ concetti: Un clima continentale; La nebbia; Una pianura chiusa; Le piogge
 - In quali stagioni piove di più, di solito, nella Pianura Padana?
 - La Pianura Padana ha inverni miti perché è aperta ai venti caldi del mare.
 - Perché d'inverno, nelle città della Pianura Padana, l'aria inquinata può restare a lungo senza disperdersi?
+
+## Nel bosco, tra foglie e aghi [lib-4-elementare-geografia-boschi-d-italia] · FOGLIA
+concetti: Latifoglie e conifere; Sempreverdi e caducifoglie; A che cosa serve il bosco; Gli incendi boschivi
+- Quale di questi alberi è una conifera?
+- Tutte le conifere restano verdi anche d'inverno.
+- Gli alberi che in autunno perdono le foglie si chiamano ___.
+- Quale di questi prodotti viene dal bosco?
+- Perché si dice che il bosco è il «polmone verde» di un territorio?
+- Perché d'estate il rischio di incendi nei boschi è più alto?
+- Durante una gita vedi del fumo che esce da un bosco. Che cosa è giusto fare?
+- Un incendio ha bruciato il bosco sopra un paese di montagna. Quali problemi può causare, oltre alla perdita d…
 
 ## Neve e boschi dell'Appennino [lib-4-elementare-geografia-clima-appenninico] · FAGGIO
 concetti: Inverni freddi in quota; Due versanti; Boschi appenninici; Meno rigido delle Alpi
@@ -755,7 +777,7 @@ concetti: Che cos'è una frana; Le cause; Il dissesto idrogeologico; Prevenire
 - Che cos'è una frana?
 - Le piogge molto intense e prolungate possono favorire le frane.
 - Tagliare gli alberi di un bosco su un pendio si chiama ___ e rende più facili le frane.
-- Perché le radici degli alberi aiutano a evitare le frane?
+- Perché anche un terremoto può provocare frane?
 - Perché l'Italia è molto esposta al dissesto idrogeologico?
 - A che cosa servono le reti metalliche lungo alcune strade di montagna?
 - Quale scelta aiuta a prevenire i danni delle frane?
@@ -796,13 +818,13 @@ concetti: La popolazione italiana; La densità; Zone affollate e zone vuote; Una
 
 ## Quattro stagioni ben distinte [lib-4-elementare-geografia-climi-temperati-del-mondo] · AUTUNNO
 concetti: Le zone temperate; Clima oceanico; Clima continentale; Clima mediterraneo
-- Nelle zone temperate si alternano quattro stagioni.
+- Nelle zone temperate fa caldo tutto l'anno e piove quasi ogni giorno.
 - Quale paese ha un tipico clima oceanico, con piogge frequenti in tutte le stagioni?
 - Il clima delle zone lontane dal mare, con inverni freddi ed estati calde, si chiama clima ___.
 - La Terra ha due zone temperate. Dove si trovano?
-- Perché lontano dal mare la differenza di temperatura tra estate e inverno è più grande?
-- Quale coltivazione è tipica del clima mediterraneo?
-- In quale stagione piove meno nel clima mediterraneo?
+- Perché il clima delle zone lontane dal mare si chiama «continentale»?
+- Quali Paesi, oltre all'Italia, hanno coste con clima mediterraneo?
+- Un clima simile a quello mediterraneo c'è anche in California e in una parte dell'Australia. Che cosa hanno i…
 - Londra è vicina all'oceano, Mosca è nel mezzo di un grande continente. Dove ti aspetti un inverno più freddo …
 
 ## Riduci, riusa, ricicla [lib-4-elementare-geografia-rifiuti-e-raccolta-differenziata] · RICICLO
@@ -818,47 +840,14 @@ concetti: La raccolta differenziata; Il riciclo; Le tre R; Discariche e impianti
 
 ## Ripasso: carte, scale e bussola [lib-4-elementare-geografia-ripasso-carte-e-orientamento] · BUSSOLA
 concetti: I punti cardinali; La scala; Carte e simboli; Orientarsi oggi
-- Guardi il tramonto dalla finestra. Verso quale punto cardinale stai guardando?
-- Il navigatore satellitare usa segnali che arrivano dai satelliti per indicare la posizione.
-- Il punto cardinale opposto al Nord è il ___.
+- Sei rivolto verso Nord. Quale punto cardinale hai alla tua destra?
+- Se guardi verso Est, alle tue spalle c'è l'Ovest.
+- Il navigatore dell'auto capisce dove ti trovi grazie ai segnali dei ___.
 - Su una carta in scala 1:200.000, a quanti chilometri reali corrisponde 1 cm?
 - Due città distano 3 cm su una carta in scala 1:1.000.000. Quanto distano nella realtà?
 - Perché sulle carte si usano simboli invece di scrivere tutto a parole?
 - Perché in montagna è utile portare anche carta e bussola, oltre al telefono con il GPS?
 - Devi preparare una gita in bicicletta usando una carta. Quali informazioni guarderesti e perché?
-
-## Ripasso: che tempo fa in Italia? [lib-4-elementare-geografia-ripasso-climi-italiani] · CLIMA
-concetti: I fattori del clima; I climi del Nord; I climi del Centro-Sud; Clima e vita quotidiana
-- Dove è più probabile trovare nebbia fitta in una mattina di novembre?
-- Sulle coste della Sicilia gli inverni sono in genere miti.
-- Salendo in montagna, la temperatura in genere ___.
-- A gennaio parti per una settimana sulle Dolomiti. Che cosa metti in valigia?
-- Milano e Genova sono vicine, ma Genova ha inverni più miti. Perché?
-- In un paese crescono abeti e larici e d'inverno la neve resta per mesi. Quale clima ha?
-- Perché d'estate il Sud Italia soffre spesso di siccità?
-- A luglio passi una settimana al mare in Puglia e una in montagna sulle Alpi. Che differenze di clima trovi e …
-
-## Ripasso: fiumi, laghi e mari [lib-4-elementare-geografia-ripasso-acque-d-italia] · ACQUA
-concetti: I fiumi; I laghi; Mari e coste; Acqua e persone
-- Sei su un ponte di Roma e guardi il fiume sotto di te. Quale fiume è?
-- I fiumi dell'Appennino hanno in genere una portata più regolare dei fiumi alpini.
-- Il mare che si trova tra la Calabria, la Puglia e la Grecia è il mar ___.
-- Un lago quasi perfettamente rotondo nel Lazio ha molto probabilmente un'origine...
-- Un fiume ha molta acqua anche in piena estate, quando piove poco. Dove nasce probabilmente?
-- Quale mare si trova tra la Sardegna e la penisola italiana?
-- Metti in ordine questi laghi, dal più grande al più piccolo.
-- Il tuo paese si trova vicino a un fiume. Indica due modi in cui il fiume è utile e un pericolo che può portar…
-
-## Ripasso: indovina il settore [lib-4-elementare-geografia-ripasso-mestieri-e-settori] · SETTORE
-concetti: Settore primario; Settore secondario; Settore terziario; Settori collegati
-- In quale settore lavora un apicoltore che alleva api e raccoglie il miele?
-- Un'infermiera che lavora in ospedale fa parte del settore terziario.
-- Un muratore che costruisce case lavora nel settore ___.
-- Quale di questi lavoratori non produce oggetti ma offre un servizio?
-- Quale gruppo comprende solo lavori del settore secondario?
-- Pensa a una maglietta di cotone. Chi lavora nel settore primario?
-- Un'azienda agricola coltiva ortaggi e ha anche un agriturismo che ospita i turisti. In quali settori lavora?
-- Immagina di aprire un'attività nel tuo paese. Quale sceglieresti, a quale settore appartiene e perché sarebbe…
 
 ## Riviera, inverni dolci [lib-4-elementare-geografia-clima-ligure-tirrenico] · RIVIERA
 concetti: Inverni miti; Estati ventilate; Piogge d'autunno; Coltivazioni del clima mite
@@ -886,7 +875,7 @@ concetti: Le Riviere liguri; Le Cinque Terre; La Costiera Amalfitana; Coste bass
 concetti: Roma capitale; Le città più popolose; Perché nascono le città; Che cosa offre una città
 - Qual è la capitale d'Italia?
 - Milano è la seconda città italiana per numero di abitanti.
-- Roma è attraversata dal fiume ___.
+- A Roma hanno sede il Parlamento e il ___, che guidano lo Stato italiano.
 - Metti in ordine queste città, dalla più popolosa alla meno popolosa.
 - Perché molte città sono nate dove si incrociavano strade importanti?
 - Quale di questi è un problema tipico delle grandi città?
@@ -899,21 +888,21 @@ concetti: La costa adriatica; Conero e Gargano; Il Salento; Il mar Ionio
 - Il Conero è un promontorio a picco sul mar Tirreno.
 - Il Salento, il tacco dello stivale, si trova nella regione ___.
 - Vicino a quale città si trova il promontorio del Conero?
-- Perché la Riviera romagnola, con città come Rimini, attira tanti turisti d'estate?
+- Perché la costa dell'alto Adriatico, per esempio in Romagna, è bassa e ricca di sabbia?
 - Quale grande golfo forma il mar Ionio tra Puglia, Basilicata e Calabria?
 - In quale località, sulla punta del Salento, si dice che si incontrino l'Adriatico e lo Ionio?
-- Confronta la costa della Romagna con quella del Gargano: in che cosa sono diverse e come cambia il modo in cu…
+- Immagina di navigare lungo la costa adriatica da Rimini fino a Santa Maria di Leuca. Come cambia il paesaggio…
 
 ## Sapori con il marchio [lib-4-elementare-geografia-prodotti-tipici-dop] · TIPICO
 concetti: DOP e IGP; Formaggi famosi; Territorio e sapore; Una ricchezza per l'Italia
 - Che cosa garantisce la sigla DOP su un prodotto alimentare?
 - L'Italia è uno dei Paesi europei con più prodotti alimentari DOP e IGP.
 - La mozzarella di ___ campana DOP si fa con il latte di un animale allevato soprattutto in Campania e nel Lazi…
-- In quale regione si produce soprattutto il Parmigiano Reggiano?
+- Quale formaggio DOP, prodotto soprattutto in Lombardia e in Piemonte, ha venature verdi-azzurre?
 - Perché un formaggio fatto in un altro continente non può usare il nome di un formaggio DOP italiano?
-- Perché il territorio influenza il sapore di un prodotto tipico?
+- Che cosa significa la sigla IGP che trovi su alcuni prodotti tipici?
 - Alcuni prodotti venduti all'estero hanno nomi e bandierine che sembrano italiani, ma non sono fatti in Italia…
-- Scegli un prodotto tipico della tua zona o di una regione che conosci e spiega perché è legato al suo territo…
+- Perché comprare un prodotto tipico DOP aiuta anche le persone e i paesi della zona in cui nasce?
 
 ## Scogliere, spiagge e lagune [lib-4-elementare-geografia-le-coste] · SCOGLIO
 concetti: Coste alte; Coste basse; Golfi e promontori; Le lagune
@@ -948,10 +937,10 @@ concetti: I bovini della pianura; Pecore e maiali; La pesca; L'acquacoltura
 - Perché pescare troppo diventa un problema anche per i pescatori?
 - Il prosciutto di Parma, il pecorino sardo, il Parmigiano: perché alcuni prodotti dell'allevamento sono legati…
 
-## Stromboli, Campi Flegrei e Vulcano [lib-4-elementare-geografia-stromboli-e-campi-flegrei] · ZOLFO
+## Stromboli e Campi Flegrei [lib-4-elementare-geografia-stromboli-e-campi-flegrei] · ZOLFO
 concetti: Lo Stromboli; I Campi Flegrei; Il bradisismo; Vulcani spenti
 - In quale arcipelago si trova lo Stromboli?
-- Lo Stromboli è un vulcano attivo che produce piccole esplosioni molto frequenti.
+- Alla Solfatara di Pozzuoli escono dal terreno vapori caldi con un forte odore di zolfo.
 - I Campi Flegrei sono un'area vulcanica vicino alla città di ___.
 - Che cosa sono le fumarole della Solfatara?
 - Che cos'è il bradisismo?
@@ -961,7 +950,7 @@ concetti: Lo Stromboli; I Campi Flegrei; Il bradisismo; Vulcani spenti
 
 ## Taiga, tundra e ghiacci [lib-4-elementare-geografia-climi-freddi-e-polari] · TUNDRA
 concetti: La taiga; La tundra; Il clima polare; Adattarsi al freddo
-- Quale animale vive nell'Artico, vicino al Polo Nord?
+- Quale animale della tundra ha una pelliccia folta ed è allevato da alcuni popoli del Nord?
 - L'Antartide è un continente coperto quasi completamente da una grande calotta di ghiaccio.
 - La taiga è una grande foresta di ___, come abeti e pini.
 - Perché nella tundra non crescono alberi alti?
@@ -973,8 +962,8 @@ concetti: La taiga; La tundra; Il clima polare; Adattarsi al freddo
 ## Tanta collina, poca pianura [lib-4-elementare-geografia-italia-tanta-collina] · STIVALE
 concetti: La forma; La superficie; Collina, montagna, pianura; Dove vive la gente
 - Che forma ha la penisola italiana?
-- In Italia la pianura occupa più spazio della collina.
-- Il tipo di territorio più diffuso in Italia è la ___.
+- In Italia la montagna occupa più spazio della pianura.
+- La superficie dell'Italia si misura in chilometri ___.
 - Se montagna e collina occupano insieme circa il 77% del territorio, quanto resta alla pianura?
 - Qual è, all'incirca, la superficie dell'Italia?
 - Metti in ordine i tipi di territorio italiano, da quello che occupa più spazio a quello che ne occupa meno.
@@ -1058,9 +1047,20 @@ concetti: Le carte fisiche; Le carte politiche; Le carte tematiche; Legenda e si
 - Le carte politiche servono soprattutto a mostrare l'altezza dei monti e la profondità dei mari.
 - Prepari una gita in montagna e vuoi sapere quanta pioggia cade di solito in quella zona. Quale tipo di carta …
 
+## Valigie in viaggio [lib-4-elementare-geografia-migrazioni] · VALIGIA
+concetti: Che cos'è una migrazione; Gli italiani nel mondo; Dal Sud al Nord; L'Italia oggi
+- Come si chiama una persona che lascia il proprio Paese per andare a vivere in un altro?
+- Tra la fine dell'Ottocento e l'inizio del Novecento milioni di italiani emigrarono in America.
+- Per l'Italia, una persona arrivata da un altro Paese per viverci è un ___.
+- Perché tanti italiani, più di cento anni fa, partirono per l'America?
+- Negli anni Cinquanta e Sessanta molte famiglie del Sud si trasferirono a Torino e a Milano. Perché?
+- In quali Paesi europei andarono a lavorare molti italiani dopo la Seconda guerra mondiale?
+- Oggi molti giovani italiani vanno a studiare o lavorare all'estero, mentre in Italia arrivano persone da altr…
+- Nella tua classe ci sono bambini con famiglie arrivate da Paesi diversi. Che cosa può imparare la classe da q…
+
 ## Venezia, città sull'acqua [lib-4-elementare-geografia-laguna-di-venezia] · MOSE
 concetti: La laguna; Barene e canali; L'acqua alta; Il MOSE
-- Che cosa separa la laguna di Venezia dal mare aperto?
+- Quale di queste isole si trova nella laguna di Venezia?
 - La laguna di Venezia comunica con il mare attraverso tre bocche di porto.
 - Le case di Venezia poggiano su migliaia di ___ di legno piantati nel fondo.
 - Che cos'è l'acqua alta a Venezia?

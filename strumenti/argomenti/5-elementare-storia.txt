@@ -1,5 +1,5 @@
 # 5ª elementare · Storia: 101 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:00
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## A teatro con i Romani [lib-5-elementare-storia-teatro-romano] · PLAUTO

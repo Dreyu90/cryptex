@@ -1,5 +1,5 @@
 # 3ª media · Storia: 101 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:00
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## 11 settembre 2001 [lib-3-media-storia-11-settembre-2001] · TORRI
@@ -41,8 +41,8 @@ concetti: La guerra sottomarina; L'intervento americano; L'uscita della Russia; 
 - Nel 1915 un sottomarino tedesco affondò il transatlantico ___, con molti americani a bordo.
 - Gli Stati Uniti entrarono in guerra fin dall'agosto 1914.
 - Quale fatto spinse gli Stati Uniti a dichiarare guerra nel 1917?
-- Perché la Russia uscì dalla guerra nel 1918?
-- Perché l'intervento americano fu decisivo per la vittoria dell'Intesa?
+- Quale vantaggio diede alla Germania l'uscita della Russia dalla guerra nel 1918?
+- Perché nella primavera del 1918 la Germania lanciò una grande offensiva sul fronte occidentale?
 - Metti in ordine cronologico questi eventi.
 - Perché il 1917 è considerato l'anno di svolta della Prima guerra mondiale?
 
@@ -110,7 +110,7 @@ concetti: Un impero in crisi; Il colpo di Stato fallito; La dissoluzione; Quindi
 - Che cosa fece Gorbaciov il 25 dicembre 1991?
 - Quanti Stati indipendenti nacquero dalla dissoluzione dell'URSS?
 - Metti in ordine cronologico questi eventi.
-- Perché la fine dell'URSS segnò la fine della guerra fredda?
+- Che cosa cambiò con la fine dell'URSS per i cittadini delle ex repubbliche, come ucraini o lituani? Indica al…
 
 ## 2 giugno 1946, nasce la Repubblica [lib-3-media-storia-referendum-2-giugno-1946] · VOTO
 concetti: Il referendum istituzionale; Il voto alle donne; L'Assemblea Costituente; Un paese diviso nel voto
@@ -157,15 +157,15 @@ concetti: Un'epoca di fiducia; La società di massa; Tempo libero e sport; Le Es
 - La Belle Époque nascondeva anche problemi e tensioni. Quali?
 
 ## Berlino 1884: l'Africa a tavolino [lib-3-media-storia-conferenza-di-berlino-e-congo] · CONGO
-concetti: La Conferenza di Berlino; L'occupazione effettiva; Il Congo di Leopoldo II; L'Africa spartita
+concetti: La Conferenza di Berlino; L'occupazione effettiva; Il Congo di Leopoldo II; Gli esploratori aprono la strada
 - Chi organizzò la Conferenza di Berlino del 1884-85?
 - Alla Conferenza di Berlino parteciparono anche i rappresentanti dei popoli africani.
 - Che cosa stabiliva il principio dell'occupazione effettiva?
 - Il Congo divenne possedimento personale del re belga ___ II.
 - Quale prodotto veniva raccolto con lavoro forzato nel Congo di Leopoldo II?
-- Quali paesi africani erano ancora indipendenti nel 1914?
-- Perché molti confini africani sono ancora oggi linee dritte?
-- Quali problemi può creare un confine tracciato senza tener conto dei popoli che vivono in un territorio?
+- Quale esploratore percorse il bacino del fiume Congo lavorando per il re Leopoldo II?
+- Perché le esplorazioni dell'Ottocento facilitarono la conquista dell'Africa?
+- Il Congo di Leopoldo II è considerato uno degli esempi più brutali del colonialismo. Perché?
 
 ## Berlino, il muro e la caduta [lib-3-media-storia-muro-di-berlino] · MURO
 concetti: Berlino divisa; La costruzione del muro; Gorbaciov e le riforme; La fine della divisione
@@ -183,7 +183,7 @@ concetti: La Prussia e Bismarck; Le guerre dell'unità; La nascita dell'Impero t
 - Quale Stato guidò l'unificazione della Germania?
 - Bismarck voleva unificare la Germania con la diplomazia e con la forza militare.
 - Metti in ordine le guerre combattute dalla Prussia.
-- Quale regione ottenne l'Italia, alleata della Prussia, dopo la guerra del 1866?
+- In quale battaglia del 1866 la Prussia sconfisse in modo decisivo l'Austria?
 - L'Impero tedesco fu proclamato nella Sala degli specchi della reggia di ___.
 - Chi divenne il primo imperatore della Germania unita?
 - Quale regione perse la Francia nel 1871, alimentando il desiderio di rivincita?
@@ -202,7 +202,7 @@ concetti: La guerra lampo; L'attacco a ovest; La Francia divisa; La battaglia d'
 
 ## Budapest 1956, Praga 1968 [lib-3-media-storia-ungheria-1956-e-praga-1968] · PRAGA
 concetti: Il controllo sovietico; La rivolta d'Ungheria; La Primavera di Praga; L'invasione del 1968
-- Che cos'era il Patto di Varsavia?
+- Quale di questi paesi, nel 1956, era governato da un regime comunista legato all'URSS?
 - Che cosa annunciò il governo ungherese di Imre Nagy nel 1956?
 - La rivolta ungherese del 1956 fu repressa dai carri armati sovietici.
 - Dubček voleva costruire un socialismo «dal volto ___».
@@ -230,12 +230,12 @@ concetti: Una definizione; Partito unico e capo; Propaganda e terrore; Tre esemp
 - Perché nei regimi totalitari esisteva una polizia segreta?
 - Quale di questi comportamenti sarebbe stato pericoloso in un regime totalitario?
 - Quale coppia indica correttamente un regime e il suo capo?
-- Che cosa avevano in comune nazismo e stalinismo, pur avendo ideologie opposte?
+- Perché il fascismo è spesso definito un totalitarismo «imperfetto»?
 - Quali strumenti della nostra democrazia servono a impedire che nasca un regime totalitario?
 
 ## Come nasce una legge [lib-3-media-storia-come-nasce-una-legge] · LEGGE
 concetti: L'iniziativa; Le due Camere; Promulgazione e pubblicazione; Il referendum abrogativo
-- Quale organo approva le leggi in Italia?
+- Da quali due Camere è formato il Parlamento italiano?
 - Quante firme di elettori servono per presentare una proposta di legge di iniziativa popolare?
 - Per diventare legge, un testo deve essere approvato identico da Camera e Senato.
 - Dopo l'approvazione, la legge viene ___ dal Presidente della Repubblica.
@@ -273,7 +273,7 @@ concetti: Un garibaldino al governo; Un governo autoritario; Le riforme; Colonie
 - Che cos'erano i Fasci siciliani repressi da Crispi?
 - Il Codice Zanardelli, entrato in vigore nel 1890, abolì in Italia la pena di ___.
 - Dove l'Italia di Crispi cercò di creare un impero coloniale?
-- Quale evento costrinse Crispi alle dimissioni nel 1896?
+- Perché Crispi voleva a tutti i costi un impero coloniale in Africa?
 - Metti in ordine cronologico questi fatti.
 - Secondo te quali rischi corre uno Stato quando risponde alle proteste sociali solo con la forza?
 
@@ -323,8 +323,8 @@ concetti: Il fronte italiano; La disfatta di Caporetto; La resistenza sul Piave;
 
 ## De Gasperi e la ricostruzione [lib-3-media-storia-anni-del-centrismo] · TERRA
 concetti: Il centrismo; La riforma agraria; La Cassa per il Mezzogiorno; L'Italia nel mondo
-- Chi guidò i governi italiani dal 1945 al 1953?
 - Il centrismo era una formula di governo che univa la DC a partiti di centro, escludendo comunisti e socialist…
+- Perché nel 1947 De Gasperi escluse comunisti e socialisti dal governo?
 - Che cosa fece la riforma agraria del 1950?
 - Per finanziare opere pubbliche nel Sud nel 1950 fu creata la Cassa per il ___.
 - Qual era lo scopo principale della Cassa per il Mezzogiorno?
@@ -356,8 +356,8 @@ concetti: Depretis e il trasformismo; La legge Coppino; La riforma elettorale de
 
 ## Due blocchi armati [lib-3-media-storia-triplice-alleanza-e-intesa] · INTESA
 concetti: La Triplice Alleanza; La Triplice Intesa; La corsa agli armamenti; La polveriera balcanica
-- Quali paesi formavano la Triplice Alleanza?
-- Quali paesi formavano la Triplice Intesa?
+- Perché la Triplice Alleanza era un patto «difensivo»?
+- Quale paese, rimasto isolato e desideroso di rivincita sulla Germania, cercò per primo nuovi alleati?
 - L'Italia, pur essendo nella Triplice Alleanza, nel 1915 entrò in guerra a fianco dell'Intesa.
 - La gara tra le potenze per avere eserciti e flotte sempre più grandi si chiama corsa agli ___.
 - Perché la Gran Bretagna era preoccupata dalla nuova flotta tedesca?
@@ -459,7 +459,7 @@ concetti: La conquista del West; I nativi americani; Una terra di immigrati; Una
 - La conquista del West avvenne a spese dei nativi americani, che persero le loro terre.
 - I nativi americani sconfitti furono costretti a vivere in territori limitati chiamati ___.
 - Perché l'arrivo della ferrovia e la caccia ai bisonti furono un disastro per molte tribù delle praterie?
-- Che cos'era Ellis Island?
+- Perché tra Ottocento e Novecento gli Stati Uniti attiravano tanti immigrati?
 - Quale paese sconfissero gli Stati Uniti nella guerra del 1898?
 - Metti in ordine cronologico questi eventi della storia americana.
 - Come fecero gli Stati Uniti a diventare una grande potenza in meno di un secolo?
@@ -483,7 +483,7 @@ concetti: La radio entra nelle case; Il cinema sonoro; Charlie Chaplin; Media e 
 - Che cosa prendeva in giro Chaplin nel film «Tempi moderni»?
 - Chi veniva ridicolizzato nel film di Chaplin «Il grande dittatore» del 1940?
 - Quale grande centro cinematografico fu inaugurato a Roma nel 1937?
-- Perché radio e cinema erano strumenti preziosi per i regimi totalitari?
+- Quale presidente americano usò la radio per parlare ai cittadini con le «chiacchierate al caminetto»?
 - In che modo l'arrivo della radio cambiò il rapporto tra i cittadini e chi governava?
 
 ## Il crollo dei quattro imperi [lib-3-media-storia-fine-degli-imperi-e-turchia] · TURCHIA
@@ -516,7 +516,7 @@ concetti: Il potere dei militari; La Manciuria; Lo scontro con la Cina; L'allean
 - In quale anno iniziò la guerra su larga scala tra Giappone e Cina?
 - Con quali paesi si alleò il Giappone negli anni Trenta?
 - Metti in ordine cronologico questi eventi.
-- Che cosa dimostrò il caso della Manciuria?
+- Che cos'era il Manciukuò, creato dal Giappone nel 1932?
 - In che modo le conquiste giapponesi in Asia prepararono lo scontro con gli Stati Uniti?
 
 ## Il Giappone dei samurai moderni [lib-3-media-storia-giappone-meiji] · MEIJI
@@ -543,7 +543,7 @@ concetti: La ricostruzione; I consumi di massa; La migrazione interna; Grandi op
 
 ## Il no degli internati militari [lib-3-media-storia-internati-militari-italiani] · RIFIUTO
 concetti: L'8 settembre e i soldati; Gli internati militari; Il rifiuto; Cefalonia
-- In quale situazione si trovarono i soldati italiani dopo l'armistizio dell'8 settembre 1943?
+- Quanti soldati italiani, all'incirca, furono deportati come internati nei campi tedeschi?
 - I soldati italiani deportati in Germania furono chiamati «internati ___ italiani».
 - Gli internati militari italiani erano protetti dalle regole internazionali come normali prigionieri di guerra.
 - Che cosa scelse la maggior parte degli internati quando le fu proposto di combattere per la Germania o per la…
@@ -556,7 +556,7 @@ concetti: L'8 settembre e i soldati; Gli internati militari; Il rifiuto; Cefalon
 concetti: Il debito pubblico; La tassa sul macinato; Il pareggio del bilancio; Unificare il paese
 - Qual era il principale problema economico del nuovo Regno d'Italia nel 1861?
 - La tassa più odiata della Destra storica colpiva la macinazione dei cereali e si chiamava tassa sul ___.
-- Perché la tassa sul macinato pesava soprattutto sui più poveri?
+- Oltre alle tasse, in che modo la Destra storica raccolse denaro per le casse dello Stato?
 - L'introduzione della tassa sul macinato provocò proteste e rivolte nelle campagne.
 - Che cosa significa raggiungere il pareggio del bilancio?
 - In quale anno la Destra storica annunciò il raggiungimento del pareggio?
@@ -604,7 +604,7 @@ concetti: L'esilio in Sud America; La difesa di Roma; Aspromonte e Mentana; Il m
 - Nel 1849 Garibaldi difese la Repubblica ___ contro le truppe francesi.
 - Che cosa accadde a Garibaldi in Aspromonte nel 1862?
 - Metti in ordine cronologico questi episodi della vita di Garibaldi.
-- Perché il governo italiano ostacolò i tentativi di Garibaldi di prendere Roma?
+- Chi era Anita, morta nel 1849 durante la ritirata da Roma?
 - Perché secondo te Garibaldi divenne un personaggio così popolare in Italia e nel mondo?
 
 ## L'Italia in cerca di colonie [lib-3-media-storia-colonialismo-italiano] · ADUA
@@ -699,7 +699,7 @@ concetti: Nascita della Costituzione; I principi fondamentali; La divisione dei 
 concetti: La guerra totale; Le donne al lavoro; Propaganda e censura; Sacrifici quotidiani
 - Che cosa significa che la Prima guerra mondiale fu una «guerra totale»?
 - Che cosa producevano molte fabbriche durante la guerra?
-- Durante la guerra molte donne andarono a lavorare in fabbrica al posto degli uomini.
+- Nelle lettere dal fronte i soldati potevano raccontare liberamente le sconfitte e la vita in trincea.
 - Il controllo delle lettere dei soldati per eliminare notizie scomode si chiama ___.
 - Qual era lo scopo dei manifesti di propaganda?
 - Che cos'era il razionamento?
@@ -778,7 +778,7 @@ concetti: La repressione degli oppositori; Antonio Gramsci; Gobetti e i Rosselli
 - Il Tribunale speciale per la difesa dello Stato giudicava gli oppositori politici del fascismo.
 - Quale opera scrisse Antonio Gramsci durante la prigionia?
 - Che cosa fondarono in esilio Carlo e Nello Rosselli?
-- L'isola di ___, luogo di confino, è la stessa dove fu scritto il Manifesto per un'Europa libera e unita.
+- Il giovane liberale Piero ___ fondò la rivista «La Rivoluzione liberale» e morì in esilio a Parigi nel 1926.
 - Perché molti antifascisti scelsero l'esilio all'estero?
 - Metti in ordine cronologico questi fatti.
 - Perché è importante ricordare chi si oppose al fascismo quando era pericoloso farlo?
@@ -810,11 +810,11 @@ concetti: Il piano tedesco; La battaglia della Marna; Verdun e la Somme; Nuove a
 - Attraverso quale paese neutrale la Germania attaccò la Francia nel 1914?
 - Quale conseguenza ebbe l'invasione del Belgio?
 - Nel settembre 1914 i Tedeschi furono fermati vicino a Parigi nella battaglia della ___.
-- Dopo la battaglia della Marna il fronte occidentale si bloccò e iniziò la guerra di trincea.
+- La battaglia della Marna fu una vittoria tedesca che aprì ai Tedeschi la strada per Parigi.
 - Che cosa avevano in comune le battaglie di Verdun e della Somme?
 - In quale battaglia furono usati per la prima volta i carri armati?
 - Metti in ordine cronologico questi eventi del fronte occidentale.
-- Perché sul fronte occidentale le offensive costavano tantissime vite ma conquistavano così poco terreno?
+- Verdun è diventata il simbolo della guerra di logoramento. Che cosa significa «logoramento» e perché i comand…
 
 ## Matteotti e la dittatura fascista [lib-3-media-storia-dittatura-fascista] · REGIME
 concetti: Legge Acerbo ed elezioni del 1924; Il delitto Matteotti; Le leggi fascistissime; I Patti Lateranensi
@@ -951,12 +951,12 @@ concetti: La propaganda; I giovani inquadrati; Il tempo libero; Economia e autar
 ## Ripasso: dal 1815 al 1870 [lib-3-media-storia-ripasso-risorgimento] · UNITA
 concetti: Restaurazione e moti; Il Quarantotto; Cavour e il 1859; Dai Mille a Roma
 - Quale potenza dominava gran parte dell'Italia dopo il 1815?
-- Lo Statuto Albertino, concesso nel 1848, rimase in vigore in Piemonte anche dopo la sconfitta nella prima gue…
-- Perché il Piemonte divenne il centro del movimento per l'unità dopo il 1849?
-- Nel 1859, per vincere l'Austria, Cavour si alleò con la ___ di Napoleone III.
-- Come si concluse la spedizione dei Mille dal punto di vista politico?
+- Nel 1848 non solo Carlo Alberto, ma anche il papa Pio IX e il granduca di Toscana concessero una costituzione.
+- Chi diventò re di Sardegna dopo l'abdicazione di Carlo Alberto nel 1849?
+- Nel 1860, con i ___, Toscana ed Emilia-Romagna scelsero di unirsi al Regno di Sardegna.
+- Quale fu la principale differenza tra la conquista del Sud nel 1860 e quella di Roma nel 1870?
 - Metti in ordine cronologico queste tappe dell'unificazione.
-- Perché i moti degli anni Venti e Trenta dell'Ottocento fallirono?
+- Perché la Santa Alleanza era un grande ostacolo per i patrioti italiani?
 - Confronta le strade di Mazzini, Cavour e Garibaldi verso l'unità: in che cosa erano diverse e come contribuir…
 
 ## Ripasso: il secolo breve [lib-3-media-storia-ripasso-novecento] · SECOLO
@@ -986,7 +986,7 @@ concetti: Lo spazio Schengen; Il programma Erasmus; La cittadinanza europea; Dir
 - Che cosa permette lo spazio Schengen?
 - A chi si rivolge principalmente il programma Erasmus?
 - Il programma Erasmus è nato nel 1987.
-- La cittadinanza europea è stata introdotta dal trattato di ___ del 1992.
+- Sulla copertina del passaporto di un cittadino italiano, sopra «Repubblica italiana», c'è la scritta «Unione …
 - Che cosa può fare un cittadino italiano grazie alla cittadinanza europea?
 - Una ragazza italiana che vive a Madrid a quali elezioni spagnole può votare?
 - Metti in ordine cronologico queste tappe.
@@ -998,7 +998,7 @@ concetti: La guerra sulle città; L'oscuramento e lo sfollamento; Il razionament
 - Nella Seconda guerra mondiale i bombardamenti colpirono anche le città e la popolazione civile.
 - Perché di notte era obbligatorio l'oscuramento?
 - Le famiglie che lasciavano le città bombardate per rifugiarsi in campagna erano dette ___.
-- A che cosa serviva la tessera annonaria?
+- Che cosa succedeva se una famiglia aveva finito i bollini della tessera prima della fine del mese?
 - Che cos'era la «borsa nera»?
 - Perché la borsa nera rendeva la guerra ancora più ingiusta?
 - Immagina la giornata di un ragazzo della tua età in una città italiana nel 1943: che cosa sarebbe diverso dal…
@@ -1086,7 +1086,7 @@ concetti: Un'idea di Wilson; Le assenze pesanti; Senza un esercito; Il falliment
 - Gli Stati Uniti, il cui presidente aveva proposto la Società delle Nazioni, non ne fecero mai parte.
 - Quale presidente americano propose la nascita della Società delle Nazioni?
 - Quale strumento poteva usare la Società contro uno Stato aggressore?
-- Nel 1935 la Società delle Nazioni applicò sanzioni all'Italia per l'invasione dell'___.
+- Dopo la Seconda guerra mondiale il compito della Società delle Nazioni passò a una nuova organizzazione, l'__…
 - Metti in ordine cronologico questi eventi.
 - Perché la Società delle Nazioni non riuscì a impedire le aggressioni degli anni Trenta?
 - Che cosa impararono i fondatori dell'ONU dal fallimento della Società delle Nazioni?
@@ -1106,7 +1106,7 @@ concetti: La guerra civile spagnola; L'espansione di Hitler; Monaco e l'appeasem
 concetti: Il Congresso di Vienna; Legittimità ed equilibrio; La Santa Alleanza; L'Italia dopo il 1815
 - Perché nel 1814 i rappresentanti delle grandi potenze si riunirono a Vienna?
 - Il protagonista del Congresso di Vienna fu il ministro austriaco Metternich.
-- Che cosa stabiliva il principio di legittimità?
+- Grazie al principio di legittimità, chi tornò sul trono di Francia dopo la caduta di Napoleone?
 - Austria, Prussia e Russia firmarono un patto per difendere i troni chiamato Santa ___.
 - Quale territorio italiano passò sotto il dominio diretto dell'Austria?
 - Quale territorio ottenne il Regno di Sardegna nel 1815?

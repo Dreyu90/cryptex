@@ -1,6 +1,17 @@
-# 3ª media · Inglese: 90 missioni valide
-# ultima bozza numerata: 10 · aggiornato 2026-11-08 19:49
+# 3ª media · Inglese: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:00
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A spasso per Londra [lib-3-media-inglese-londra-luoghi] · LONDON
+concetti: Il Tamigi; Big Ben e Parlamento; La famiglia reale; Musei e trasporti
+- Quale fiume attraversa Londra?
+- Che cos'è esattamente Big Ben?
+- Completa: 'Buckingham Palace is the London home of the British ___.'
+- La metropolitana di Londra è la più antica del mondo.
+- Quale ponte di Londra si apre per far passare le navi?
+- Come si chiama in modo informale la metropolitana di Londra?
+- Che cosa ha di speciale il British Museum per i visitatori?
+- Organizza in inglese una giornata a Londra: scrivi tre frasi con i luoghi che visiteresti e perché.
 
 ## Ago, last, since: segnali di tempo [lib-3-media-inglese-segnali-di-tempo] · TIME
 concetti: Segnali del past simple; Segnali del present perfect; La parola ago; For con due tempi
@@ -149,7 +160,7 @@ concetti: Obbligo e divieto; Permesso e abilità; Consiglio e possibilità; Sceg
 concetti: Cambiamenti fino a oggi; Verbi di cambiamento; Prima e adesso; Comparativi nei cambiamenti
 - Che cosa significa 'increase'?
 - Completa: 'You ___ grown so much since last summer!'
-- Quale frase descrive un cambiamento ancora visibile oggi?
+- Quale frase collega un cambiamento al presente, senza dire quando è avvenuto?
 - In 'Ten years ago the village was small, but now it has become a busy town' si usano due tempi diversi perché…
 - Quale frase usa correttamente un comparativo per un cambiamento?
 - Il numero di studenti passa da 300 a 250. Che cosa è successo?
@@ -212,22 +223,22 @@ concetti: Verbi + -ing; Verbi + to; Like, love, hate; -ing come soggetto e dopo 
 - Scrivi in inglese due cose che ti piace fare (enjoy + -ing) e due cose che vuoi fare in futuro (want + to).
 
 ## Era una notte buia: la scena [lib-3-media-inglese-past-continuous-descrizioni] · SCENE
-concetti: Forma; Descrivere lo sfondo; Azione in corso a un'ora precisa; Sfondo e azione principale
+concetti: Forma; Descrivere lo sfondo; Negative e domande; Sfondo e sequenza di eventi
 - Quale frase è al past continuous?
 - Completa: 'It ___ raining and the wind was blowing.'
-- 'At nine o'clock yesterday I was doing my homework' indica un'azione in corso a un'ora precisa del passato.
-- Ieri alle 16 eri in piscina. Come rispondi a 'What were you doing at 4 pm?'
+- 'Were you sleeping at midnight?' è una domanda corretta al past continuous.
+- Come si dice 'Non stavamo ascoltando'?
 - Quale frase descrive meglio lo sfondo all'inizio di un racconto?
-- Nella frase 'The children were playing in the garden when a dog jumped over the fence', quale verbo è l'event…
-- Perché in 'Everyone was laughing when the teacher came in' si usano due tempi diversi?
-- Scrivi in inglese l'inizio di una storia di mistero (2-3 frasi) che descrive la scena con il past continuous …
+- Quale frase racconta tre azioni avvenute una dopo l'altra?
+- Perché in 'The wind was blowing. Tom closed the window and switched on the light.' si usano due tempi diversi?
+- Scrivi in inglese l'inizio di una storia di mistero (2-3 frasi): descrivi la scena con il past continuous e p…
 
 ## Excuse me, where is...? [lib-3-media-inglese-indicazioni-stradali] · STREET
 concetti: Chiedere; Direzioni; Posizioni; Ringraziare
 - Come inizi in modo educato a chiedere un'indicazione?
 - Completa: 'Go ___ on and then turn left.'
 - Che cosa significa 'The bank is opposite the post office'?
-- 'Turn right' significa 'gira a sinistra'.
+- Se un turista ti dice 'Thank you very much!', puoi rispondere 'You're welcome'.
 - Completa: 'The café is ___ the cinema and the bank.'
 - Metti in ordine le indicazioni nel dialogo.
 - Quale domanda è corretta?
@@ -235,7 +246,7 @@ concetti: Chiedere; Direzioni; Posizioni; Ringraziare
 
 ## False friends: attenti alle trappole! [lib-3-media-inglese-false-friends] · TRAP
 concetti: Cosa sono; Parole di scuola; Parole di tutti i giorni; Come difendersi
-- Che cosa significa 'library'?
+- Che cosa significa 'factory'?
 - Che cosa significa 'parents'?
 - Completa: 'I thought he was Spanish, but ___ he's from Mexico.' (in realtà)
 - 'Eventually' significa 'eventualmente'.
@@ -243,6 +254,17 @@ concetti: Cosa sono; Parole di scuola; Parole di tutti i giorni; Come difendersi
 - 'We had an argument' significa...
 - Perché i false friends sono pericolosi per chi parla italiano?
 - Scegli due false friends, spiega in italiano che cosa significano davvero e scrivi una frase inglese corretta…
+
+## Feste: da Halloween a Thanksgiving [lib-3-media-inglese-feste-anglosassoni] · PUMPKIN
+concetti: Halloween; Bonfire Night; Thanksgiving; Natale e dintorni
+- Quando si festeggia Halloween?
+- Che cosa ricorda Bonfire Night il 5 novembre?
+- Completa: 'In the USA, Thanksgiving is on the fourth ___ of November.'
+- Boxing Day si festeggia il 26 dicembre.
+- Di quale paese è patrono San Patrizio, festeggiato il 17 marzo?
+- Metti in ordine queste feste come cadono nell'anno, da marzo a dicembre.
+- Che cosa dicono i bambini bussando alle porte a Halloween?
+- Descrivi in inglese con 2-3 frasi una festa anglosassone a scelta: quando si festeggia e che cosa si fa.
 
 ## First conditional: se succede, allora… [lib-3-media-inglese-first-conditional-forma] · WILL
 concetti: Struttura; Situazioni possibili; Niente will dopo if; Won't nella conseguenza
@@ -261,7 +283,7 @@ concetti: Iniziare; Continuare; Concludere; Eventi contemporanei
 - Che cosa significa 'in the end'?
 - Completa la ricetta: 'First, boil the water. ___, add the pasta.'
 - 'Suddenly' si usa per introdurre un evento improvviso e inaspettato.
-- Metti in ordine i connettivi come compaiono di solito in un racconto.
+- Metti in ordine le frasi di questo breve racconto di una gita.
 - Quale frase usa correttamente 'while'?
 - Che cosa esprime 'at last' in 'At last you're here!'?
 - Racconta in inglese in 3-4 frasi una giornata di gita usando almeno tre connettivi diversi.
@@ -278,14 +300,14 @@ concetti: For + durata; Since + inizio; Azioni che continuano; Tradurre 'da'
 - Perché la frase 'Studio inglese da quattro anni' in inglese non si traduce con il present simple?
 
 ## Going to: forma e domande [lib-3-media-inglese-going-to-forma] · GOING
-concetti: Forma affermativa; Negativa; Domande; Previsioni con prove
+concetti: Forma affermativa; Negativa; Domande; Was going to
 - Completa: 'We ___ going to watch a film tonight.'
-- Quale frase è corretta?
+- Qual è la forma contratta corretta di 'They are going to move house'?
 - Come si dice 'Non ho intenzione di uscire'?
 - Come chiedi a un amico che cosa farà questo weekend?
-- Guardando un bambino che corre verso una pozzanghera puoi dire 'He's going to fall!'
+- 'I was going to call you, but I forgot' significa che avevi intenzione di chiamare, ma non l'hai fatto.
 - Metti in ordine le parole per formare la domanda.
-- Il cielo è nero e senti tuoni. Quale frase è più adatta?
+- Ieri volevi andare al mare, ma ha piovuto. Quale frase lo dice?
 - Scrivi in inglese due cose che hai intenzione di fare la prossima estate e una che non hai intenzione di fare…
 
 ## Hai mai...? Ever e never [lib-3-media-inglese-ever-never] · NEVER
@@ -329,7 +351,7 @@ concetti: Aggiungere; Contrapporre; Causa ed effetto; Concludere
 - Quale frase usa correttamente 'although'?
 - 'In conclusion' si usa all'inizio di un testo per presentare l'argomento.
 - Quale connettivo aggiunge un'idea in un testo formale?
-- Metti in ordine i connettivi come si usano in un breve testo argomentativo.
+- Metti in ordine le frasi di un breve testo argomentativo sui compiti.
 - Scrivi in inglese 3-4 frasi sul tema 'Should students have homework every day?' usando almeno tre connettivi …
 
 ## I've been waiting: azione che dura [lib-3-media-inglese-present-perfect-continuous] · WAITING
@@ -340,7 +362,7 @@ concetti: Struttura del tempo; Azione ancora in corso; Tracce visibili; Domande 
 - Come chiedi a un amico da quanto tempo aspetta l'autobus?
 - Tuo fratello è rosso in faccia e sudato. Che cosa dici?
 - Come si traduce 'Piove da stamattina'?
-- Perché si dice 'I've known her for years' e non 'I've been knowing her'?
+- Che differenza c'è tra 'She's been crying' e 'She's crying'?
 - Spiega in italiano la differenza tra 'I've painted the room' e 'I've been painting the room', con un esempio …
 
 ## If + can, might, should [lib-3-media-inglese-first-conditional-modali] · MIGHT
@@ -370,11 +392,22 @@ concetti: Esprimere un'opinione; Essere d'accordo; Non essere d'accordo; Chieder
 - Come si dice 'Secondo me'?
 - Quale frase esprime accordo?
 - Completa: 'I ___ with you: video games can be educational.'
-- 'I am agree' è un modo corretto di dire 'Sono d'accordo'.
+- 'Exactly!' si usa per dire che non sei d'accordo.
 - Quale frase esprime disaccordo in modo educato?
 - Come chiedi l'opinione di un compagno?
 - Come dici che non sei d'accordo con una buona ragione?
 - Rispondi in inglese alla domanda 'Should mobile phones be allowed at school?' dando la tua opinione e un moti…
+
+## In, on, at: preposizioni di tempo [lib-3-media-inglese-preposizioni-tempo] · WEEKEND
+concetti: At; On; In; Senza preposizione
+- Quale preposizione si usa con le ore?
+- Completa: 'I've got a piano lesson ___ Monday afternoon.'
+- Quale frase è corretta?
+- Si dice 'in the morning' ma 'at night'.
+- Completa: 'We go skiing ___ winter.'
+- Quale frase è corretta?
+- Quale serie è tutta corretta?
+- Descrivi in inglese il tuo anno scolastico con tre frasi che usano in, on e at correttamente.
 
 ## Indovina la parola: definizioni in inglese [lib-3-media-inglese-definizioni-relative] · DEFINE
 concetti: A person who…; A thing which/that…; A place where…; Spiegare senza la parola
@@ -393,7 +426,7 @@ concetti: Domande sulle esperienze; Domande sui dettagli; Durata della carriera;
 - Quale domanda chiede un dettaglio preciso?
 - Completa la risposta: 'I ___ been a professional runner since 2019.'
 - Alla domanda 'Have you ever lost a final?' è corretto rispondere 'Yes, I did'.
-- Metti in ordine lo scambio di battute dell'intervista.
+- Metti in ordine cronologico le frasi con cui la campionessa racconta la sua carriera.
 - Che cosa significa 'How long have you been a member of the team?'
 - Quale risposta è coerente con 'When did you start skiing?'
 - Scrivi in inglese tre domande per intervistare il tuo sportivo preferito: una con 'Have you ever', una con 'W…
@@ -453,6 +486,17 @@ concetti: Be allowed to; Not allowed to; Let; Al passato
 - Quale frase vuol dire la stessa cosa di 'The teacher lets us choose our seats'?
 - Scrivi in inglese due cose che i tuoi genitori ti lasciano fare (let) e una che non hai il permesso di fare (…
 
+## Lift o elevator? UK contro USA [lib-3-media-inglese-british-american] · COOKIE
+concetti: Parole diverse; Cibo; Ortografia; Trasporti e città
+- Come si dice 'ascensore' in inglese americano?
+- Come scrive 'colore' un americano?
+- Completa: in inglese britannico le patatine in busta si chiamano ___.
+- 'Autumn' e 'fall' indicano entrambi l'autunno: il primo è britannico, il secondo americano.
+- Un ragazzo di New York dice 'I live in an apartment'. Come lo direbbe un ragazzo di Londra?
+- A Londra prendi 'the Tube'. Che cosa prendi a New York?
+- Perché un americano e un inglese potrebbero non capirsi parlando di 'chips'?
+- Scegli tre parole che cambiano tra inglese britannico e americano e scrivi entrambe le versioni con il signif…
+
 ## Made of, made from, made in [lib-3-media-inglese-made-of-from-in] · WOOD
 concetti: Made of; Made from; Made in; Materiali
 - Che cosa significa 'leather'?
@@ -472,7 +516,7 @@ concetti: Make; Do; Espressioni fisse; Do come verbo generico
 - Completa: 'Could you ___ me a favour?'
 - 'I always make my bed in the morning' è corretto.
 - Quale frase è sbagliata?
-- Qual è la regola generale per scegliere tra make e do?
+- Un amico ti scrive 'What are you doing?'. Che cosa vuole sapere?
 - Scrivi in inglese due cose che fai nel weekend con 'do' e due con 'make'.
 
 ## May e might: forse sì [lib-3-media-inglese-may-might-possibilita] · MAYBE
@@ -563,6 +607,17 @@ concetti: Periodo non concluso; So far e up to now; Periodo concluso; Contare le
 - Metti in ordine le parole per formare la domanda.
 - Spiega perché diciamo 'I've done two tests this month' ma 'I did two tests last month'.
 
+## Online: tecnologia e sicurezza [lib-3-media-inglese-tecnologia-online] · ONLINE
+concetti: Lessico digitale; Sicurezza online; Cyberbullismo; Usare bene la tecnologia
+- Che cosa significa 'download'?
+- Completa: 'Never share your ___ with anybody, not even your best friend.'
+- Quale password è più sicura?
+- Se qualcuno ti offende online, è giusto parlarne con un adulto di fiducia.
+- Che cos'è il 'cyberbullying'?
+- Leggi una notizia incredibile su un sito sconosciuto. Che cosa dovresti fare?
+- Perché non dovresti pubblicare il tuo indirizzo di casa online?
+- Scrivi in inglese tre regole per usare internet in sicurezza, usando should, shouldn't o never.
+
 ## Participi irregolari da campioni [lib-3-media-inglese-participi-irregolari] · GONE
 concetti: Tre forme del verbo; Participio uguale al past; Participi in -en o -n; Cambio di vocale
 - Qual è il participio passato di 'go'?
@@ -625,7 +680,7 @@ concetti: Will per le previsioni; Gradi di certezza; Posizione dell'avverbio; I 
 - Dove va probably in una frase affermativa con will?
 - Quale frase negativa è corretta?
 - 'I don't think we'll lose' è un modo naturale per dire che probabilmente non perderemo.
-- Ordina dal più sicuro al meno sicuro.
+- Ordina le frasi dalla probabilità di vittoria più alta alla più bassa.
 - La squadra ha vinto tutte le partite. Quale previsione è più sensata?
 - Scrivi in inglese tre previsioni sulla tua vita fra dieci anni usando definitely, probably e I don't think.
 
@@ -650,6 +705,17 @@ concetti: Tempo definito; Tempo indefinito; Domande con When; Italiano e inglese
 - Confronta 'I've lost my wallet' e 'I lost my wallet on the bus yesterday'. Che cosa cambia?
 - Metti in ordine il dialogo.
 - Traduci 'Ho mangiato la pizza' in due modi diversi in inglese e spiega quando useresti ciascuno.
+
+## Quattro nazioni, un regno [lib-3-media-inglese-regno-unito-nazioni] · KINGDOM
+concetti: Le quattro nazioni; Le capitali; Great Britain e UK; La bandiera
+- Da quante nazioni è formato il Regno Unito?
+- Qual è la capitale della Scozia?
+- Completa: 'The capital of Wales is ___.'
+- La Gran Bretagna e il Regno Unito sono esattamente la stessa cosa.
+- Qual è la capitale dell'Irlanda del Nord?
+- Perché la bandiera del Regno Unito si chiama anche Union Jack o Union Flag?
+- Quale città non è una capitale delle nazioni del Regno Unito?
+- Spiega in italiano la differenza tra England, Great Britain e United Kingdom.
 
 ## Question tags: vero, no? [lib-3-media-inglese-question-tags] · TAGS
 concetti: Cosa sono; Positiva e negativa; Stesso ausiliare; Casi speciali
@@ -695,16 +761,16 @@ concetti: Zero conditional; First conditional; Second conditional; Scegliere il 
 - Ordina le frasi dalla situazione più certa a quella più immaginaria.
 - Scegli una situazione, per esempio la neve, e scrivi una frase al first conditional e una al second condition…
 
-## Ripasso: tutti i modi del futuro [lib-3-media-inglese-ripasso-futuro] · AGENDA
-concetti: Will; Going to; Present continuous; Present simple
-- Quale tempo usi per l'orario di un treno?
-- Squilla il telefono. Che cosa dici?
-- Completa: 'I ___ seeing the dentist on Tuesday at 4.' (è già fissato)
-- Hai già deciso di imparare la chitarra. Quale frase lo esprime?
-- 'I promise I'll help you' usa will perché è una promessa.
-- Quale frase è un appuntamento fissato?
-- Quale coppia associa bene frase e uso?
-- Scrivi in inglese il tuo programma per domenica usando almeno tre forme diverse di futuro, e indica quale uso…
+## Save the planet: lessico green [lib-3-media-inglese-ambiente-lessico] · GREEN
+concetti: Problemi ambientali; Le tre R; Energia; Azioni quotidiane
+- Che cosa significa 'pollution'?
+- Metti in ordine le tre R come si dicono di solito, dalla più efficace.
+- Completa: 'Solar and wind power are ___ energy sources.'
+- Quale di questi è un combustibile fossile?
+- 'Reuse' significa buttare via un oggetto dopo averlo usato.
+- Quale consiglio aiuta a ridurre l'inquinamento dell'aria?
+- Perché si dice che i combustibili fossili causano il riscaldamento globale?
+- Scrivi in inglese tre cose che fai o potresti fare per l'ambiente, usando should o I can.
 
 ## Say o tell? Riferire le parole [lib-3-media-inglese-say-tell-discorso-indiretto] · TOLD
 concetti: Say; Tell; Discorso indiretto; Pronomi e tempo
@@ -761,6 +827,17 @@ concetti: Some-; Any-; No-; Every-
 - Quale frase ha lo stesso significato di 'There's nothing in the box'?
 - Scrivi in inglese tre frasi sulla tua classe usando un pronome con some-, uno con no- e uno con every-.
 
+## Stars and stripes: gli Stati Uniti [lib-3-media-inglese-stati-uniti] · STARS
+concetti: Stati e capitale; La bandiera; Independence Day; Simboli e città
+- Quanti stati formano gli Stati Uniti?
+- Qual è la capitale degli Stati Uniti?
+- Completa: 'Americans celebrate Independence Day on the 4th of ___.'
+- Le 13 strisce della bandiera americana rappresentano le 13 colonie originarie.
+- In che anno fu dichiarata l'indipendenza degli Stati Uniti?
+- Da quale paese fu donata la Statua della Libertà?
+- Perché è sbagliato dire che New York è la capitale degli USA?
+- Scrivi in inglese tre fatti sugli Stati Uniti che hai imparato.
+
 ## Still o not any more? [lib-3-media-inglese-still-any-more] · STILL
 concetti: Still; Not any more; Still o yet; Posizione
 - Che cosa significa 'My grandma still works'?
@@ -786,7 +863,7 @@ concetti: That per persone e cose; Pronome soggetto; Pronome oggetto
 ## The best I've ever seen! [lib-3-media-inglese-superlativo-ever] · BEST
 concetti: Superlativo + ever; Superlativi irregolari; Esprimere entusiasmo
 - Qual è il superlativo di 'good'?
-- Qual è il superlativo di 'bad'?
+- Qual è il superlativo di 'far'?
 - Completa: 'This is the most beautiful beach I have ever ___.'
 - Nella frase 'It's the best book I've ever read' si usa il present perfect perché parli di tutta la tua esperi…
 - Quale frase è corretta?
@@ -801,7 +878,7 @@ concetti: Aggettivi brevi; Aggettivi lunghi; In e of; Irregolari
 - Qual è il superlativo di 'famous'?
 - 'It was the worst day of my life' usa il superlativo irregolare di bad.
 - Quale frase è corretta?
-- Quale fiume è più lungo d'Italia? Scegli la frase corretta.
+- Qual è il fiume più lungo d'Italia? Scegli la frase corretta.
 - Perché si dice 'the happiest day of the year' con of?
 - Scrivi in inglese tre frasi sulla tua famiglia o la tua classe con superlativi diversi (breve, lungo, irregol…
 
@@ -893,6 +970,28 @@ concetti: Struttura; Was o were; Storia e monumenti; Domande e negative
 - Metti in ordine le parti della frase.
 - Trasforma 'Someone stole my bike last night' in forma passiva e spiega perché qui la passiva è più naturale.
 
+## What do you want to be? [lib-3-media-inglese-lavori-futuro] · CAREER
+concetti: Nomi dei lavori; Parlare del futuro; Descrivere un lavoro; Qualità
+- Chi difende le persone in tribunale?
+- Completa: 'I'd like to ___ an engineer.'
+- Che cosa fa 'a journalist'?
+- 'A firefighter' è una persona che spegne gli incendi.
+- Quale qualità è più importante per un infermiere?
+- Quale frase è corretta?
+- Perché in inglese si dice 'My mum is a teacher' e non 'My mum is teacher'?
+- Scrivi in inglese che lavoro vorresti fare, che cosa fa chi lo svolge e quale qualità serve.
+
+## What's the matter? Dal medico [lib-3-media-inglese-salute-dal-medico] · DOCTOR
+concetti: Chiedere come stai; Malesseri; Consigli; Parti del corpo
+- Che cosa chiede il medico con 'What's the matter?'
+- Completa: 'I've got a ___. My head hurts a lot.'
+- Che cosa significa 'I've got a sore throat'?
+- 'I've got a temperature' significa che ho la febbre.
+- Quale consiglio dà un medico per il raffreddore?
+- Quale parola indica il mal d'orecchi?
+- Perché si dice 'I've got a cold' e non 'I am cold' per dire che hai il raffreddore?
+- Scrivi in inglese un breve dialogo dal medico (4 battute): il paziente descrive il malessere e il medico dà d…
+
 ## When o if nel futuro? [lib-3-media-inglese-when-if-futuro] · HOME
 concetti: If per l'incertezza; When per la certezza; Presente dopo when; As soon as
 - Sei sicuro che tornerai a casa. Quale frase usi?
@@ -925,6 +1024,17 @@ concetti: Past continuous; Azione interrotta; While e when; Azioni contemporanee
 - Scegli la congiunzione giusta: 'I fell asleep ___ I was watching TV.'
 - Metti in ordine le parole.
 - Perché in 'I was reading when the lights went out' si usano due tempi diversi?
+
+## Who called? Domande sul soggetto [lib-3-media-inglese-domande-soggetto-oggetto] · SUBJECT
+concetti: Domande sul soggetto; Domande sull'oggetto; Riconoscere la differenza; Which e how many
+- Quale domanda chiede chi ha mangiato la torta?
+- Completa: 'Who ___ you meet at the party?'
+- 'What happened?' è corretta senza did, perché what è il soggetto del verbo.
+- Anna ha chiamato Marco. Vuoi sapere chi ha chiamato Marco e la risposta deve essere 'Anna'. Quale domanda fai?
+- Quale risposta va bene per 'Who did Luca invite?'
+- Quale domanda è corretta?
+- Quale domanda è sbagliata?
+- Spiega in italiano la differenza tra 'Who helps Giulia?' e 'Who does Giulia help?' e scrivi una possibile ris…
 
 ## Who o which? Pronomi relativi [lib-3-media-inglese-relativi-who-which] · WHICH
 concetti: Who per le persone; Which per cose e animali; Unire due frasi

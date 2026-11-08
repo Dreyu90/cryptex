@@ -1,5 +1,5 @@
 # 2ª media · Italiano: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:00
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Al posto di chi? Sostituzione e scambio [lib-2-media-italiano-sostituzione-scambio] · CAMBIO

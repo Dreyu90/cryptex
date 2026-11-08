@@ -1,5 +1,5 @@
-# 4ª elementare · Storia: 91 missioni valide
-# ultima bozza numerata: 10 · aggiornato 2026-11-08 19:49
+# 4ª elementare · Storia: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:00
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Abramo, pastore in cammino [lib-4-elementare-storia-abramo-e-patriarchi] · CANAAN
@@ -24,24 +24,13 @@ concetti: Un faraone diverso; Il culto di Aton; La nuova capitale; Il ritorno ag
 - Quale faraone, regnando poco dopo Akhenaton, riportò il culto di Amon?
 - Perché il tentativo di Akhenaton di imporre un solo dio durò così poco?
 
-## Antica Cina: il grande ripasso [lib-4-elementare-storia-ripasso-antica-cina] · DRAGO
-concetti: Due grandi fiumi; Dinastie e imperatori; Grandi invenzioni; Scrittura e pensiero
-- Quale fiume cinese è chiamato così per il colore del suo fango?
-- La ___, inventata in Cina, indicava il nord grazie a un ago calamitato.
-- Qin Shi Huangdi è stato il primo imperatore della Cina.
-- Come si chiamano i segni della scrittura cinese?
-- Metti in ordine queste dinastie cinesi, dalla più antica.
-- Quale invenzione cinese ha cambiato per sempre il modo di fare libri?
-- Quale insegnamento è tipico di Confucio?
-- Tra seta, carta e bussola, quale invenzione cinese ti sembra più importante per il mondo di oggi? Spiega perc…
-
 ## Artigiani della valle dell'Indo [lib-4-elementare-storia-artigiani-indo] · PERLA
 concetti: Perline e gioielli; La ragazza danzante; Ceramiche e giocattoli; Il 're-sacerdote'
 - Con quale pietra rossa gli artigiani dell'Indo facevano bellissime perline?
 - A Mohenjo-daro sono stati trovati piccoli carretti giocattolo di terracotta con le ruote.
 - La 'ragazza danzante' è una piccola statua di ___, trovata a Mohenjo-daro.
 - Di che colori erano spesso decorati i vasi dell'Indo?
-- Perline dell'Indo sono state trovate anche in Mesopotamia. Che cosa dimostra?
+- Che cosa doveva fare un artigiano per trasformare una pietra in una perlina da collana?
 - Che cosa rappresenta la statuetta detta 're-sacerdote'?
 - Perché il nome 're-sacerdote' si scrive tra virgolette?
 - Che cosa ci raccontano i giocattoli trovati nelle città dell'Indo sulla vita dei bambini di allora?
@@ -59,7 +48,7 @@ concetti: Il nord della Mesopotamia; Un esercito sempre pronto; Macchine per l'a
 
 ## Baal, Astarte e gli dei fenici [lib-4-elementare-storia-religione-fenicia] · BAAL
 concetti: Molti dei; Baal e Astarte; Melqart di Tiro; Templi e colonie
-- I Fenici credevano in molti dei: erano ___.
+- Ogni città fenicia aveva un suo dio ___.
 - Il nome Baal significa 'signore'.
 - Di che cosa era dio Baal?
 - Chi era Astarte?
@@ -92,8 +81,8 @@ concetti: Nabucodonosor il costruttore; La Porta di Ishtar; I Giardini pensili; 
 
 ## Biblo, Tiro e Sidone [lib-4-elementare-storia-biblo-tiro-sidone] · BIBLO
 concetti: Città sulla costa; Biblo e i libri; Tiro, città sull'isola; Indipendenti e rivali
-- In quale paese di oggi si trovavano Biblo, Tiro e Sidone?
-- Le città fenicie formavano un unico grande regno con un solo re.
+- Dove sorgevano Biblo, Tiro e Sidone?
+- Il papiro veniva prodotto nella città di Biblo.
 - Dal nome della città di Biblo derivano parole come 'Bibbia' e '___'.
 - Quale merce egizia passava in grande quantità per il porto di Biblo?
 - Perché Tiro, costruita su un'isola, era difficile da conquistare?
@@ -105,7 +94,7 @@ concetti: Città sulla costa; Biblo e i libri; Tiro, città sull'isola; Indipend
 concetti: Poca pioggia; Canali e argini; Bacini di raccolta; Lavorare insieme
 - Nella Mesopotamia del sud piove molto per tutto l'anno.
 - Per portare l'acqua dei fiumi fino ai campi, i Mesopotamici scavavano dei ___.
-- A che cosa servivano gli argini costruiti lungo i fiumi?
+- Che differenza c'è tra un canale e un argine?
 - Perché i contadini costruivano bacini per raccogliere l'acqua?
 - I canali si riempivano spesso di fango portato dal fiume. Che cosa succedeva se nessuno li puliva?
 - Metti in ordine il viaggio dell'acqua, dal fiume al campo.
@@ -134,6 +123,17 @@ concetti: L'imperatore e la corte; I funzionari; I contadini; Artigiani e mercan
 - Più tardi in Cina i funzionari furono scelti con degli esami. Che vantaggio aveva questo metodo?
 - Confronta i contadini cinesi con quelli egizi: che cosa avevano in comune?
 
+## Cinque scritture a confronto [lib-4-elementare-storia-ripasso-scritture-antiche] · SEGNI
+concetti: Il cuneiforme; I geroglifici; I caratteri cinesi; L'alfabeto; Scritture misteriose
+- Quale di queste scritture è la più antica?
+- Gli Egizi scrivevano i geroglifici soltanto sulla pietra dei templi.
+- I geroglifici furono decifrati grazie alla Stele di ___.
+- Quale di queste scritture usa segni che indicano parole o idee, e non singoli suoni?
+- Quale popolo usava la Lineare A, una scrittura non ancora decifrata?
+- Quale popolo prese l'alfabeto dai Fenici e vi aggiunse le vocali?
+- Perché la scrittura cinese, a differenza del cuneiforme e dei geroglifici, non ha mai avuto bisogno di essere…
+- Scegli due scritture e spiega una differenza importante tra loro.
+
 ## Ciro entra a Babilonia [lib-4-elementare-storia-ciro-conquista-babilonia] · CIRO
 concetti: I Persiani; Il 539 a.C.; Un re tollerante; La fine dell'indipendenza
 - Ciro il Grande era il re dei ___.
@@ -160,7 +160,7 @@ concetti: Chi era Confucio; Il rispetto; Il buon governante; Studio e insegnamen
 concetti: Il limo fertile; Che cosa si coltivava; Gli attrezzi; Tasse e granai
 - Dopo la piena, il Nilo lasciava sui campi il ___, un fango nero e fertile.
 - Gli Egizi chiamavano la loro terra Kemet, cioè 'terra nera', per il colore del fango fertile.
-- Da quale pianta coltivata gli Egizi ricavavano il tessuto per i vestiti?
+- Quale di queste piante un contadino egizio NON poteva coltivare, perché arrivò dall'America molti secoli dopo?
 - Che cosa si otteneva con il grano e l'orzo?
 - Quale attrezzo, trainato dai buoi, serviva a smuovere la terra?
 - Che cosa succedeva a una parte del raccolto del contadino?
@@ -187,7 +187,7 @@ concetti: Chi erano i giudici; Debora; Gedeone; Sansone
 - Con quanti uomini, secondo la Bibbia, Gedeone sconfisse i Madianiti?
 - Che differenza c'era tra un giudice e un re?
 - Metti in ordine queste tappe della storia degli Ebrei.
-- Perché, secondo te, le tribù d'Israele a un certo punto chiesero un re invece dei giudici?
+- Debora, Gedeone e Sansone erano personaggi molto diversi. Che cosa avevano in comune come giudici d'Israele?
 
 ## Detective delle fonti [lib-4-elementare-storia-fonti-storiche] · FONTE
 concetti: Il lavoro dello storico; Tipi di fonti; Archeologi e musei; Gli strati del terreno
@@ -217,7 +217,7 @@ concetti: Rimisurare i campi; Il cubito; I numeri egizi; Calcoli per costruire
 - Dopo ogni piena del Nilo, i confini dei campi dovevano essere misurati di nuovo.
 - Per misurare i campi gli agrimensori usavano lunghe ___ con nodi a distanze uguali.
 - Nel sistema egizio, come si scriveva il numero 23?
-- Quale cifra mancava nel sistema di numerazione egizio?
+- Quale simbolo mancava nel sistema di numerazione egizio?
 - Il cubito reale misurava circa 52 cm. Quanto era lunga, più o meno, una corda di 10 cubiti?
 - Perché per costruire una piramide servivano tanti calcoli?
 - Perché la piena del Nilo, che portava fertilità, creava anche un problema di confini? Come lo risolvevano gli…
@@ -231,7 +231,7 @@ concetti: La deportazione; La fede in esilio; Custodire la memoria; Ritorno e di
 - Quale lavoro importante fu svolto, secondo molti studiosi, durante l'esilio?
 - Dopo la fine dell'esilio, che cosa fecero gli Ebrei?
 - Come si chiama la dispersione degli Ebrei in comunità lontane dalla loro terra?
-- Immagina di essere un ragazzo ebreo in esilio a Babilonia: che cosa faresti per non dimenticare chi sei?
+- Secondo molti studiosi, proprio durante l'esilio gli Ebrei misero per iscritto molte loro storie e leggi. Per…
 
 ## Famiglia e antenati in Cina [lib-4-elementare-storia-famiglia-e-antenati-cina] · NONNO
 concetti: La famiglia al centro; Il capofamiglia; Il culto degli antenati; Il rispetto per gli anziani
@@ -240,7 +240,7 @@ concetti: La famiglia al centro; Il capofamiglia; Il culto degli antenati; Il ri
 - Chi guidava la famiglia nell'antica Cina?
 - Dove si facevano spesso le offerte agli antenati?
 - Che cosa si offriva agli antenati?
-- Quale filosofo cinese insegnava che i figli devono rispettare e aiutare i genitori?
+- Secondo gli insegnamenti di Confucio, che cosa doveva fare un figlio quando i genitori diventavano anziani?
 - Perché i Cinesi ritenevano importante onorare gli antenati?
 - Nella tua famiglia o nel tuo paese ci sono modi per ricordare chi non c'è più? Confrontali con il culto degli…
 
@@ -332,6 +332,39 @@ concetti: Una donna faraone; La spedizione a Punt; Il tempio a terrazze; La memo
 - In quale periodo della storia egizia regnò Hatshepsut?
 - Perché qualcuno volle cancellare il nome di Hatshepsut dai monumenti? E perché oggi la conosciamo lo stesso?
 
+## Hattusa, capitale degli Ittiti [lib-4-elementare-storia-hattusa-capitale-ittita] · HATTUSA
+concetti: Una capitale sull'altopiano; Mura e porte; Gli archivi di tavolette; Il re e il pankus
+- Hattusa sorgeva su un altopiano. Che cos'è un altopiano?
+- Una delle porte di Hattusa è chiamata Porta dei Leoni.
+- Il re ittita era aiutato da un'assemblea di nobili chiamata ___.
+- Con quale scrittura sono scritte le tavolette degli archivi di Hattusa?
+- Tra le tavolette di Hattusa ci sono lettere e trattati con quale popolo?
+- Perché Hattusa era circondata da mura enormi?
+- Che cosa rende originale il governo ittita rispetto a quello del faraone?
+- Perché gli archivi di tavolette di Hattusa sono preziosi per gli storici?
+
+## I colori degli affreschi cretesi [lib-4-elementare-storia-affreschi-cretesi] · GIGLIO
+concetti: Che cos'è un affresco; Natura e mare; Il salto del toro; Il Principe dei gigli
+- L'affresco si dipinge sull'intonaco ancora ___.
+- Gli affreschi cretesi mostrano soprattutto scene di guerra e di battaglie.
+- Perché i colori di un affresco durano così a lungo?
+- Perché il toro compare così spesso nell'arte di Creta?
+- Che cosa porta sulla testa il 'Principe dei gigli'?
+- Che cosa ci dicono gli affreschi pieni di mare e di natura sui Cretesi?
+- Molti affreschi di Cnosso sono stati ricostruiti a partire da frammenti. Che cosa deve ricordare chi li osser…
+- Il salto del toro era un'attività pericolosissima. Perché, secondo te, i Cretesi la praticavano e la dipingev…
+
+## I misteriosi Popoli del Mare [lib-4-elementare-storia-popoli-del-mare] · PREDONI
+concetti: Chi erano; Attacchi e distruzioni; Ramses III li respinge; I Filistei
+- I Popoli del Mare arrivarono verso il ___ a.C.
+- Gli studiosi conoscono con certezza da dove venivano i Popoli del Mare.
+- Quale grande impero dell'Anatolia crollò anche a causa di questi attacchi?
+- Quale faraone sconfisse i Popoli del Mare?
+- Come conosciamo la battaglia di Ramses III contro i Popoli del Mare?
+- Quale di questi popoli si stabilì sulla costa di Canaan?
+- Quale nome geografico deriva dai Filistei?
+- Verso il 1200 a.C. molti regni del Mediterraneo entrarono in crisi nello stesso periodo. Perché, secondo te, …
+
 ## I profeti d'Israele [lib-4-elementare-storia-profeti-di-israele] · PROFETA
 concetti: Chi era un profeta; Richiami ai potenti; Parole di speranza; Profeti famosi
 - Secondo la Bibbia, un profeta era una persona che parlava a nome di Dio.
@@ -360,9 +393,9 @@ concetti: Perché mummificare; Le fasi del lavoro; I vasi canopi; Il sarcofago
 - Per seccare il corpo, gli imbalsamatori lo coprivano di ___, un sale naturale.
 - Con quale tessuto si avvolgeva la mummia?
 - Dove venivano conservati gli organi interni tolti dal corpo?
-- Quale organo veniva lasciato nel corpo, perché gli Egizi lo ritenevano la sede del pensiero?
+- Perché gli organi tolti venivano conservati nei vasi canopi invece di essere buttati?
 - Quanto durava, più o meno, tutta la preparazione della mummia?
-- Metti in ordine le fasi della mummificazione.
+- Perché gli imbalsamatori toglievano per prima cosa gli organi interni?
 - Perché il clima secco dell'Egitto ha aiutato a conservare le mummie fino a oggi?
 
 ## I tre Regni dell'Egitto [lib-4-elementare-storia-egitto-tre-regni] · CORONA
@@ -444,7 +477,7 @@ concetti: Un viaggio incredibile; Tre anni per mare; Il sole a destra; Annone di
 
 ## Il Grande Bagno di Mohenjo-daro [lib-4-elementare-storia-mohenjo-daro-grande-bagno] · BAGNO
 concetti: Due grandi città; La cittadella; Il Grande Bagno; Il granaio
-- Mohenjo-daro e Harappa si trovano nell'attuale Pakistan.
+- Mohenjo-daro e Harappa erano piccoli villaggi di poche capanne.
 - Il Grande Bagno era una vasca di mattoni resa impermeabile con il ___.
 - Quando furono scoperte dagli archeologi le città dell'Indo?
 - Che cos'era la cittadella?
@@ -468,12 +501,12 @@ concetti: La civiltà minoica; Il palazzo di Cnosso; Palazzi senza mura; Magazzi
 concetti: La casa del dio; Karnak e Amon; La sala delle colonne; Gli obelischi
 - Per gli Egizi il tempio era la ___ del dio.
 - A quale dio era dedicato soprattutto il tempio di Karnak?
-- Chiunque poteva entrare nel santuario più interno del tempio, dove stava la statua del dio.
+- Le colonne della grande sala di Karnak erano lisce, senza alcuna decorazione.
 - Che cos'è un obelisco?
 - Quante colonne ci sono nella grande sala delle colonne di Karnak?
 - Perché il tempio di Karnak è così grande e pieno di parti diverse?
 - Oggi alcuni obelischi egizi si trovano in piazze di Roma. Come ci sono arrivati?
-- Perché, secondo te, la gente comune non poteva entrare nel santuario del dio?
+- Karnak fu ingrandito per secoli da tanti faraoni diversi. Perché, secondo te, ognuno voleva aggiungere qualco…
 
 ## Il Minotauro e il labirinto [lib-4-elementare-storia-minotauro-labirinto] · TORO
 concetti: Il mito del Minotauro; Teseo e Arianna; Il toro sacro; Tra mito e storia
@@ -501,23 +534,23 @@ concetti: Una lenta decadenza; Le ipotesi sul clima; Altre ipotesi; L'arrivo deg
 concetti: Il Fiume Azzurro; Il riso vuole acqua; Il lavoro nella risaia; Una coltivazione antichissima
 - Il Fiume Azzurro è il fiume più ___ di tutta l'Asia.
 - Il riso cresce bene in campi allagati d'acqua, chiamati risaie.
-- Perché nel sud della Cina si coltivava soprattutto riso, e al nord il miglio?
+- Quale clima preferisce il riso?
 - Come si sistemavano le piantine di riso nella risaia?
 - Metti in ordine il lavoro del riso.
 - Da quanto tempo, più o meno, si coltiva il riso lungo il Fiume Azzurro?
 - Perché coltivare il riso richiedeva tante persone che lavoravano insieme?
-- Perché le civiltà nate vicino ai fiumi, come quella cinese, coltivavano cereali diversi a seconda del clima? …
+- Il riso coltivato lungo il Fiume Azzurro si è diffuso in gran parte dell'Asia e, molto più tardi, anche in It…
 
 ## Il Tempio di Gerusalemme [lib-4-elementare-storia-tempio-di-gerusalemme] · ARCA
 concetti: Il primo Tempio; L'Arca dell'Alleanza; La distruzione; Il secondo Tempio e il Muro
 - Quale re fece costruire il primo Tempio di Gerusalemme?
 - L'Arca dell'Alleanza conteneva le ___ della Legge.
 - L'Arca dell'Alleanza era una cassa di legno rivestita d'oro.
-- Quale re babilonese distrusse il primo Tempio?
-- Chi permise agli Ebrei di tornare e ricostruire il Tempio?
+- Perché la distruzione del Tempio fu un colpo durissimo per gli Ebrei?
+- In quale anno i Romani distrussero il secondo Tempio?
 - Metti in ordine la storia del Tempio.
 - Che cosa resta oggi del Tempio, luogo di preghiera molto importante per gli Ebrei?
-- Perché il Tempio era così importante per gli Ebrei? Che cosa provarono, secondo te, quando fu distrutto?
+- Salomone fece costruire il Tempio a Gerusalemme, la capitale scelta da suo padre Davide. Perché, secondo te, …
 
 ## Il tesoro di Tutankhamon [lib-4-elementare-storia-tutankhamon] · TESORO
 concetti: Un faraone ragazzo; La scoperta del 1922; Il tesoro; La leggenda della maledizione
@@ -530,11 +563,22 @@ concetti: Un faraone ragazzo; La scoperta del 1922; Il tesoro; La leggenda della
 - Tutankhamon regnò pochi anni e non fece grandi imprese. Perché oggi è il faraone più famoso?
 - Perché quasi tutte le tombe dei faraoni furono trovate vuote, mentre quella di Tutankhamon no? Prova a dare u…
 
+## Il vulcano di Thera [lib-4-elementare-storia-eruzione-di-thera] · THERA
+concetti: L'isola di Thera; L'eruzione; Akrotiri sepolta; Conseguenze per Creta
+- L'isola di Thera oggi si chiama ___.
+- L'eruzione di Thera fu una delle più violente della storia.
+- Dove si trova Thera rispetto a Creta?
+- Akrotiri, la città di Thera, viene paragonata a quale città italiana sepolta da un vulcano?
+- Ad Akrotiri sono stati trovati pochissimi resti umani. Che cosa fa pensare?
+- Metti in ordine quello che probabilmente accadde ad Akrotiri.
+- In che modo l'eruzione può aver danneggiato Creta?
+- Perché una catastrofe naturale può indebolire un'intera civiltà e renderla più facile da conquistare?
+
 ## Indo e Cina a confronto [lib-4-elementare-storia-indo-e-cina-confronto] · ORIENTE
 concetti: Civiltà di fiume; Chi governava; Due scritture; Destini diversi
 - Che cosa avevano in comune la civiltà dell'Indo e quella cinese?
-- La scrittura dell'Indo è stata decifrata e si legge facilmente.
-- La scrittura cinese si usa ancora oggi, anche se i ___ sono cambiati nel tempo.
+- La civiltà dell'Indo entrò in crisi molti secoli prima che la Cina fosse unificata da un imperatore.
+- Per conoscere la civiltà dell'Indo gli studiosi hanno soprattutto fonti ___, come resti di case e oggetti.
 - Che cosa sappiamo di chi governava le città dell'Indo?
 - Chi governava la Cina antica?
 - Quale differenza c'è nel destino delle due civiltà?
@@ -585,6 +629,28 @@ concetti: Un impero odiato; L'alleanza contro gli Assiri; Il 612 a.C.; Chi prese
 - Quale popolo prese il potere in Mesopotamia dopo la fine degli Assiri?
 - Gli Assiri avevano l'esercito più forte del loro tempo, eppure il loro impero crollò. Come lo spieghi?
 
+## La dea dei serpenti [lib-4-elementare-storia-religione-cretese] · BIPENNE
+concetti: La grande dea; La dea dei serpenti; La bipenne; Luoghi sacri
+- I Cretesi veneravano soprattutto divinità femminili legate alla natura.
+- La ___ è un'ascia a doppia lama, simbolo sacro dei Cretesi.
+- Che cosa tengono in mano le famose statuette della 'dea dei serpenti'?
+- Dove celebravano i loro riti i Cretesi, oltre che nei palazzi?
+- Secondo alcuni studiosi, da 'labrys', il nome della bipenne, deriverebbe la parola...
+- Perché sappiamo poco della religione cretese rispetto a quella egizia?
+- Quale simbolo sacro, a forma di corna, decorava i palazzi cretesi?
+- Perché, secondo te, molti popoli antichi che vivevano di agricoltura veneravano una dea della natura e della …
+
+## La fine dei Micenei [lib-4-elementare-storia-fine-dei-micenei] · DORI
+concetti: Il crollo; Le ipotesi; Il Medioevo ellenico; La scrittura perduta
+- Verso il 1200 a.C. molti palazzi micenei furono distrutti e abbandonati.
+- Secondo una delle ipotesi, la Grecia fu invasa da un popolo chiamato ___.
+- Quale di queste è una delle ipotesi sulla fine dei Micenei?
+- Come viene chiamato il periodo di crisi che seguì la fine dei Micenei?
+- Che cosa accadde ai commerci durante il Medioevo ellenico?
+- Che fine fece la Lineare B, la scrittura dei Micenei?
+- Da quale popolo i Greci impararono più tardi un nuovo modo di scrivere?
+- Perché si usa la parola 'Medioevo' per questo periodo della storia greca?
+
 ## La Mezzaluna fertile [lib-4-elementare-storia-mezzaluna-fertile] · LUNA
 concetti: Una regione ad arco; Terre fertili tra i deserti; Culla delle civiltà; La regione oggi
 - Perché questa regione è chiamata «Mezzaluna»?
@@ -610,13 +676,13 @@ concetti: Il Libro dei Morti; Il cuore sulla bilancia; Premio o castigo; Gli ush
 ## La piramide della società egizia [lib-4-elementare-storia-societa-egizia] · VISIR
 concetti: Il faraone in cima; Visir e funzionari; Sacerdoti e nobili; Il popolo
 - Chi stava in cima alla società egizia?
-- Gli Egizi consideravano il faraone un dio vivente.
+- In Egitto i sacerdoti si occupavano dei templi e dei riti per gli dei.
 - Il primo aiutante del faraone, che guidava funzionari e scribi, era il ___.
 - Che cosa erano i 'nomi' dell'antico Egitto?
 - Qual era il gruppo più numeroso della popolazione egizia?
 - Durante la piena del Nilo i campi erano sott'acqua. Che cosa facevano molti contadini?
 - Chi erano, soprattutto, gli schiavi in Egitto?
-- Perché la società egizia si rappresenta con una piramide?
+- Perché il faraone, pur essendo considerato un dio, aveva bisogno del visir e di tanti funzionari?
 
 ## La piramide sociale dei Sumeri [lib-4-elementare-storia-societa-sumera] · LUGAL
 concetti: Il re e i sacerdoti; Scribi e funzionari; Chi lavorava; Gli schiavi
@@ -651,6 +717,17 @@ concetti: Città indipendenti; Il re-sacerdote; Mura e rivalità; La città e la
 - Le città sumere dipendevano dai villaggi e dai campi intorno per avere il cibo.
 - Che differenza c'è tra una città-stato sumera e una città di oggi come la tua? Spiega.
 
+## Le civiltà sulla linea del tempo [lib-4-elementare-storia-ripasso-linea-del-tempo-civilta] · EPOCA
+concetti: Le prime città; Egitto e Indo; Il II millennio a.C.; Il I millennio a.C.
+- La scrittura nacque in Mesopotamia più di 5000 anni fa.
+- Verso quale anno l'Egitto fu unificato in un solo regno?
+- Hammurabi regnò a Babilonia verso il ___ a.C.
+- Quale di questi fatti è avvenuto più di recente?
+- Metti in ordine questi fatti, dal più antico.
+- In quale millennio fiorirono la civiltà cretese e quella micenea?
+- Quanti anni separano la caduta di Ninive (612 a.C.) dalla conquista di Babilonia da parte di Ciro (539 a.C.)?
+- Perché per trovare quanti anni separano due date avanti Cristo si fa una sottrazione, mentre tra una data a.C…
+
 ## Le feste del calendario ebraico [lib-4-elementare-storia-feste-ebraiche] · SHOFAR
 concetti: Rosh haShanah; Yom Kippur; Sukkot; Hanukkah
 - A Rosh haShanah, il Capodanno ebraico, si suona lo ___, un corno di montone.
@@ -675,10 +752,10 @@ concetti: La ruota; L'aratro seminatore; Il tornio del vasaio; Contare per 60
 
 ## Le riforme del primo imperatore [lib-4-elementare-storia-riforme-primo-imperatore] · MONETA
 concetti: Unificare la Cina; Una sola scrittura; Stesse misure e monete; Strade e carri
-- Nel 221 a.C. Qin Shi Huangdi unificò la Cina e divenne il primo ___.
+- Il primo imperatore fece costruire molte ___ per collegare le regioni dell'impero.
 - Prima delle riforme, nei vari regni cinesi i caratteri si scrivevano in modi diversi.
 - Com'era fatta la moneta voluta dal primo imperatore?
-- Quale di queste opere è legata al primo imperatore?
+- Com'era la Cina prima del 221 a.C.?
 - Perché avere pesi e misure uguali in tutto l'impero aiutava il commercio?
 - Perché il primo imperatore volle che gli assi dei carri avessero tutti la stessa larghezza?
 - Che vantaggio portò un'unica scrittura per tutto l'impero?
@@ -697,9 +774,9 @@ concetti: La scoperta di Woolley; Lo Stendardo di Ur; La regina Puabi; Musica e 
 
 ## Lo scriba, maestro dei geroglifici [lib-4-elementare-storia-scribi-egizi] · SCRIBA
 concetti: Una lunga scuola; Gli attrezzi; Il lavoro; Un mestiere stimato
-- Lo scriba scriveva su fogli di ___, ricavati da una pianta del Nilo.
+- Lo scriba intingeva nell'inchiostro un ___ appuntito, che usava come pennello.
 - In Egitto quasi tutti sapevano leggere e scrivere.
-- Con che cosa scriveva lo scriba?
+- Su quale materiale lo scriba scriveva i documenti più importanti?
 - Su che cosa si esercitavano gli allievi, per non sprecare il papiro?
 - Di quali colori erano gli inchiostri principali dello scriba?
 - Dopo la piena del Nilo, perché il faraone aveva bisogno degli scribi?
@@ -730,20 +807,20 @@ concetti: Medici famosi; I papiri medici; Rimedi e magia; Conoscere il corpo
 
 ## Mercanti della Mesopotamia [lib-4-elementare-storia-commercio-mesopotamia] · MERCE
 concetti: Che cosa mancava; Che cosa si scambiava; Baratto e argento; Le vie del commercio
-- Quale materiale era abbondante in Mesopotamia?
+- Per costruire templi e palazzi servivano grandi travi di legno. Perché i Mesopotamici dovevano comprarle lont…
 - La Mesopotamia era ricca di miniere di metalli.
 - Che cosa offrivano i Mesopotamici in cambio di legno e metalli?
-- Scambiare merci con altre merci, senza usare monete, si chiama ___.
+- Prima delle monete, per misurare il valore delle merci si usava un metallo prezioso pesato sulla bilancia: l'…
 - Con il baratto, quale problema poteva avere un mercante che offriva orzo?
-- Per rendere più facili gli scambi, che cosa si usava come misura di valore?
+- Perché le merci viaggiavano spesso in barca lungo i fiumi?
 - Quali animali formavano le carovane dei mercanti mesopotamici?
 - Spiega con un esempio perché un popolo che ha poche risorse ha bisogno di commerciare.
 
 ## Mesopotamia: il grande ripasso [lib-4-elementare-storia-ripasso-mesopotamia] · POPOLI
 concetti: I Sumeri; I Babilonesi; Gli Assiri; In ordine nel tempo
 - Quale popolo inventò la scrittura cuneiforme?
-- A quale popolo apparteneva il re Hammurabi?
-- La biblioteca di Assurbanipal si trovava a Ninive, capitale degli Assiri.
+- Quale coppia re - popolo è giusta?
+- Tra il regno di Hammurabi e la conquista di Babilonia da parte di Ciro passarono più di mille anni.
 - Gli Assiri erano famosi soprattutto come ___ e conquistatori.
 - Quale di questi popoli viene prima nel tempo?
 - Metti in ordine i popoli che dominarono la Mesopotamia, dal più antico.
@@ -760,6 +837,17 @@ concetti: Un popolo guerriero; Città sulle alture; Mura ciclopiche; Il palazzo 
 - Perché i Micenei costruivano città simili a fortezze?
 - Il re miceneo si chiamava faraone, come il re degli Egizi.
 - Le mura ciclopiche sono una fonte materiale. Quali informazioni ci danno sui Micenei e sul loro modo di viver…
+
+## Molti dei o un solo Dio? [lib-4-elementare-storia-ripasso-religioni-antiche] · DIVINO
+concetti: Il politeismo; Il monoteismo; Dei e natura; Luoghi di culto
+- Per gli Egizi Ra era il grande dio del ___.
+- Egizi, Sumeri e Fenici erano politeisti.
+- Che cosa avevano in comune Ra, Nanna e Baal?
+- Baal, dio della tempesta, apparteneva a quale popolo?
+- Quale coppia popolo - luogo di culto è giusta?
+- Sia Akhenaton sia gli Ebrei misero al centro un solo dio. Che differenza ci fu nel tempo?
+- Dove pregavano gli Ebrei lontani dal Tempio di Gerusalemme?
+- Perché, secondo te, molti popoli antichi immaginavano dei legati al sole, alla pioggia o ai fiumi?
 
 ## Mosè e la fuga dall'Egitto [lib-4-elementare-storia-mose-esodo] · ESODO
 concetti: Schiavi in Egitto; L'Esodo; Le Tavole della Legge; La Pasqua ebraica
@@ -851,7 +939,7 @@ concetti: La rivoluzione del Neolitico; Dai villaggi alle città; L'invenzione d
 
 ## Rame, stagno e bronzo [lib-4-elementare-storia-bronzo-e-artigiani] · BRONZO
 concetti: Il bronzo; L'età del bronzo; Artigiani specializzati; Fondere e colare
-- Il bronzo si ottiene unendo il rame con lo ___.
+- Il bronzo non è un metallo puro ma una ___, cioè un miscuglio di metalli fusi insieme.
 - Il bronzo è più duro del rame puro.
 - Perché attrezzi e armi di bronzo erano un progresso rispetto a quelli di pietra?
 - Come si dava forma a un oggetto di bronzo?
@@ -870,6 +958,17 @@ concetti: Un faraone famoso; Il tempio nella roccia; Il sole nel tempio; Il salv
 - Perché negli anni Sessanta del Novecento il tempio fu tagliato a blocchi e spostato?
 - Metti in ordine le fasi del salvataggio di Abu Simbel.
 - Che cosa ci dice il fenomeno del sole che entra nel tempio sulle conoscenze degli Egizi?
+
+## Re, faraoni e imperatori [lib-4-elementare-storia-ripasso-chi-governava] · POTERE
+concetti: Re-sacerdoti sumeri; Il faraone; L'imperatore cinese; I re d'Israele; Le città fenicie
+- Secondo gli Egizi, di che cosa era padrone il faraone?
+- L'imperatore cinese governava una sola piccola città, come i re sumeri.
+- Nelle città-stato sumere il potere era nelle mani del re-___.
+- Qual era la differenza principale tra un re sumero e l'imperatore cinese?
+- Perché i re d'Israele potevano essere criticati dai profeti?
+- Nelle città fenicie, chi aveva molto peso accanto al re?
+- Che cosa avevano in comune il faraone e l'imperatore cinese?
+- Confronta un faraone egizio e un re d'Israele: chi aveva più limiti al proprio potere, e perché?
 
 ## Sargon, il primo imperatore [lib-4-elementare-storia-sargon-impero-accadico] · SARGON
 concetti: Gli Accadi; Le conquiste di Sargon; Che cos'è un impero; Lingua e leggenda
@@ -958,6 +1057,17 @@ concetti: Il racconto di Omero; Elena e l'assedio; L'inganno del cavallo; Schlie
 - Gli storici pensano che la vera causa della guerra non fu il rapimento di Elena. Quale fu, probabilmente?
 - Che cosa trovò Schliemann scavando sulla collina di Hissarlik, in Turchia?
 - Schliemann usò i poemi di Omero come guida per cercare Troia. Secondo te fu una buona idea? Spiega vantaggi e…
+
+## Un giorno nell'antica Cina [lib-4-elementare-storia-vita-quotidiana-cina] · CANAPA
+concetti: Case e villaggi; A tavola; Seta e canapa; Giochi e lavoro
+- Con che cosa mangiavano, e mangiano ancora oggi, molti Cinesi?
+- Nell'antica Cina tutti, anche i contadini più poveri, vestivano di seta.
+- I contadini cinesi si facevano i vestiti con la ___, una fibra robusta ricavata da una pianta.
+- Con quali materiali erano costruite le case dei contadini cinesi?
+- Che cosa avevano in più le case dei ricchi, rispetto a quelle dei contadini?
+- Quale gioco, che vola grazie al vento, è nato nell'antica Cina?
+- Molti bambini delle famiglie contadine aiutavano presto i genitori nei campi. Perché?
+- Confronta la giornata di un bambino dell'antica Cina con la tua: che cosa c'è di simile e che cosa di diverso?
 
 ## Un giorno nell'antico Egitto [lib-4-elementare-storia-vita-quotidiana-egizi] · SENET
 concetti: Case di fango; A tavola; Lino e trucco; Giochi e famiglia

@@ -1,5 +1,5 @@
 # 5ª elementare · Scienze: 101 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 20:00
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Abitudini per stare bene [lib-5-elementare-scienze-stile-di-vita-sano] · SALUTE

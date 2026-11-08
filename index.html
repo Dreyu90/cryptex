@@ -1378,7 +1378,7 @@ async function geminiRequest({ parts, schema, maxTokens, s, t, onProgress }) {
           if (!cand) return;
           if (cand.finishReason) finish = cand.finishReason;
           const piece = arr(cand.content && cand.content.parts).filter(p => typeof p.text === 'string' && !p.thought).map(p => p.text).join('');
-          if (piece) { text += piece; if (onProgress) onProgress(text.length); }
+          if (piece) { text += piece; if (onProgress) onProgress(text.length, text); }
         }, () => arm(text ? GEMINI_IDLE_MS : GEMINI_FIRST_DATA_MS));
       }
     } catch (e) {
@@ -1463,7 +1463,7 @@ const AI = {
         parts.push({ text: `Foto ${i + 1}:` });
         parts.push({ inlineData: { mimeType: 'image/jpeg', data: await blobToBase64(blobs[i]) } });
       }
-      return geminiCall({ parts, schema: MISSION_SCHEMA, maxTokens: 16384, signal, timeoutMs: 300000, onProgress: n => { genChars = n; } });
+      return geminiCall({ parts, schema: MISSION_SCHEMA, maxTokens: 16384, signal, timeoutMs: 300000, onProgress: (n, text) => { genChars = n; if (genStream) genStream(text); } });
     }
     const content = [];
     for (let i = 0; i < blobs.length; i++) {
@@ -1895,6 +1895,7 @@ function renderResCur(k) {
 let current = 'home';
 function show(name) {
   stopSpeaking();
+  if (name !== 'play' && name !== 'generating') Awake.off();
   current = name;
   if (name !== 'play' && name !== 'result') setTheme('altro');
   $$('[data-screen]').forEach(s => { s.hidden = s.dataset.screen !== name; });
@@ -1906,7 +1907,7 @@ function show(name) {
     try { if (!(history.state && history.state.cx)) history.pushState({ cx: 1 }, ''); } catch { /* ignore */ }
   }
 }
-window.addEventListener('popstate', () => { if (current !== 'home') { cancelGeneration(); show('home'); } });
+window.addEventListener('popstate', () => { if (current !== 'home') { if (current === 'generating') cancelGeneration(); show('home'); } });
 document.addEventListener('click', e => { const g = e.target.closest('[data-go]'); if (g) show(g.dataset.go); });
 
 /* ================= home ================= */
@@ -2096,7 +2097,41 @@ function renderCaptureNotice() {
 }
 
 /* ================= generation ================= */
-let genCtl = null, genTimer = null, genChars = 0;
+let genCtl = null, genTimer = null, genChars = 0, genStream = null;
+// Keep the screen on while the AI works and while playing: with the screen off Android pauses the app.
+const Awake = {
+  lock: null, want: false,
+  async on() { this.want = true; try { if ('wakeLock' in navigator && !this.lock) { this.lock = await navigator.wakeLock.request('screen'); this.lock.addEventListener('release', () => { this.lock = null; }); } } catch { /* not available */ } },
+  off() { this.want = false; try { if (this.lock) this.lock.release(); } catch { /* ignore */ } this.lock = null; }
+};
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible' && Awake.want) Awake.on(); });
+
+// Reads the questions already complete in a partial JSON answer (the stream is cut mid-way).
+function partialMission(text) {
+  const grab = k => {
+    const m = text.match(new RegExp('"' + k + '"\\s*:\\s*"((?:[^"\\\\]|\\\\.)*)"'));
+    if (!m) return '';
+    try { return JSON.parse('"' + m[1] + '"'); } catch { return ''; }
+  };
+  const qs = [];
+  const at = text.indexOf('"domande"');
+  const open = at >= 0 ? text.indexOf('[', at) : -1;
+  if (open >= 0) {
+    let depth = 0, start = -1, inStr = false, esc = false;
+    for (let k = open + 1; k < text.length; k++) {
+      const ch = text[k];
+      if (inStr) { if (esc) esc = false; else if (ch === '\\') esc = true; else if (ch === '"') inStr = false; continue; }
+      if (ch === '"') { inStr = true; continue; }
+      if (ch === '{') { if (depth === 0) start = k; depth++; }
+      else if (ch === '}') {
+        depth--;
+        if (depth === 0 && start >= 0) { try { const q = cleanQuestion(JSON.parse(text.slice(start, k + 1))); if (q) qs.push(q); } catch { /* incomplete */ } start = -1; }
+      } else if (ch === ']' && depth === 0) break;
+    }
+  }
+  return { illeggibile: /"leggibile"\s*:\s*false/.test(text), titolo: grab('titolo'), materia: grab('materia'), parola: cleanWord(grab('parola_segreta')), qs };
+}
+const EARLY_START = 2; // questions needed before the child can start
 async function generate() {
   if (!Capture.photos.length) return;
   showCaptureError('');
@@ -2104,6 +2139,7 @@ async function generate() {
   if (!AI.canUse()) { renderCaptureNotice(); return; }
   genCtl = new AbortController();
   const ctl = genCtl;
+  Awake.on();
   show('generating');
   const host = $('#gen-cryptex');
   Cryptex.build(host, 6);
@@ -2120,8 +2156,31 @@ async function generate() {
       : GEN_STEPS[Math.min(Math.floor(sec / 5), GEN_STEPS.length - 1)];
     $('#gen-time').textContent = `${sec} s`;
   }, 1000);
+  // Early start: as soon as the first questions are complete, the game begins and the rest keep arriving.
+  let early = null;
+  genStream = text => {
+    if (ctl.signal.aborted) return;
+    const p = partialMission(text);
+    if (p.illeggibile) return;
+    if (!early) {
+      if (p.qs.length < EARLY_START || !p.parola) return;
+      stopGen();
+      early = {
+        id: 'm' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6), creata: new Date().toISOString(),
+        classe: Store.s.classe, titolo: p.titolo || 'Missione di studio', materia: p.materia, parola: p.parola,
+        parola_spiegazione: '', concetti: [], domande: [], plays: [], best: 0, streaming: true
+      };
+      early.domande.push(...p.qs);
+      startGame(early, null, Number(Store.s.numDomande) || 10);
+      return;
+    }
+    if (p.materia && !early.materia) early.materia = p.materia;
+    while (early.domande.length < p.qs.length) addStreamedQuestion(early, p.qs[early.domande.length]);
+  };
   try {
     const raw = await AI.generateMission(Capture.photos.map(p => p.blob), str($('#focus-note').value).slice(0, 300), ctl.signal);
+    genStream = null;
+    if (early) { finishStreamedMission(early, raw, null); return; }
     if (ctl.signal.aborted) return;
     const m = buildMission(raw);
     stopGen();
@@ -2135,22 +2194,75 @@ async function generate() {
     $('#focus-note').value = '';
     startGame(m);
   } catch (e) {
+    genStream = null;
+    if (early) { finishStreamedMission(early, null, e); return; }
     stopGen();
+    Awake.off();
     if (ctl.signal.aborted || (e && e.code === 'cancelled')) return;
     show('capture');
     showCaptureError([errorText(e), errorDetail(e)].filter(Boolean).join('\n\n'));
   }
 }
 function stopGen() { clearInterval(genTimer); genTimer = null; genCurStop(); Cryptex.stop($('#gen-cryptex')); }
+// A question that arrived while the child is already playing.
+function addStreamedQuestion(m, q) {
+  m.domande.push(q);
+  if (!G || G.mission !== m) return;
+  const idx = m.domande.length - 1;
+  G.indices.push(idx);
+  G.queue.push(idx);
+  G.total = Math.max(G.total, G.indices.length);
+  updateHud();
+  if (G.waiting) { G.waiting = false; renderQuestion(); }
+}
+// The stream ended: complete the mission (or keep what arrived if it failed) and save it.
+function finishStreamedMission(m, raw, err) {
+  let full = null;
+  try { full = raw ? buildMission(raw) : null; } catch { full = null; }
+  if (full && !full.problema) {
+    full.domande.slice(m.domande.length).forEach(q => addStreamedQuestion(m, q));
+    m.titolo = full.titolo; m.materia = full.materia || m.materia;
+    m.concetti = full.concetti; m.parola_spiegazione = full.parola_spiegazione;
+  }
+  m.streaming = false;
+  if (m.domande.length >= 3) {
+    Store.d.missions.push(m);
+    Store.save();
+    if (Store.s.ghToken && Store.s.autoPublish && !AI.inArtifact() && full && !full.problema) {
+      publishMission(m).then(() => toast('Missione salvata nella biblioteca su GitHub'), e => toast(publishErrorText(e)));
+    }
+    Capture.clear();
+    $('#focus-note').value = '';
+  }
+  if (err && !full) toast(m.domande.length >= 3 ? `La missione è più corta del previsto: ${m.domande.length} domande.` : errorText(err));
+  if (G && G.mission === m) {
+    G.total = G.indices.length;
+    updateHud();
+    if (G.waiting) { G.waiting = false; if (G.queue.length) renderQuestion(); else finish(); }
+  }
+}
+// Shown when the child is faster than the AI.
+function renderWaiting() {
+  G.waiting = true;
+  $('#q-type').textContent = 'Un attimo…';
+  $('#q-concept').textContent = '';
+  $('#q-text').textContent = 'Il Maestro sta scrivendo la prossima domanda.';
+  $('#q-body').textContent = '';
+  $('#q-hint').hidden = true;
+  $('#btn-hint').hidden = true;
+  $('#feedback').hidden = true;
+}
 function cancelGeneration() { if (genCtl) { genCtl.abort(); genCtl = null; } stopGen(); }
 
 /* ================= game ================= */
 let G = null;
-function startGame(mission, only) {
+function startGame(mission, only, expected) {
+  Awake.on();
   const indices = only && only.length ? only.slice() : mission.domande.map((_, i) => i);
   const word = cleanWord(Store.s.parolaCryptex) || cleanWord(mission.parola) || 'GENIO';
   G = { mission, indices, queue: indices.slice(), attempts: {}, resolved: 0, total: indices.length, points: 0, streak: 0,
-        firstTry: new Set(), notFirst: new Set(), hints: new Set(), word, revealed: 0, review: !!(only && only.length), current: null, answered: false, ctl: null };
+        firstTry: new Set(), notFirst: new Set(), hints: new Set(), word, revealed: 0, review: !!(only && only.length), current: null, answered: false, ctl: null, waiting: false };
+  if (expected && mission.streaming) G.total = Math.max(G.total, expected);
   show('play');
   const k = SAPERE.key(mission.materia);
   setTheme(k);
@@ -2387,13 +2499,14 @@ function resolve(outcome, extra = {}) {
   const parts = [extra.feedback, extra.correction, extra.hideExplanation ? '' : q.spiegazione].filter(Boolean);
   $('#fb-text').textContent = parts.join('\n\n');
   $('#fb-text').hidden = !parts.length;
-  $('#btn-next').textContent = G.queue.length ? 'Avanti' : 'Apri il cryptex';
+  $('#btn-next').textContent = G.queue.length || G.mission.streaming ? 'Avanti' : 'Apri il cryptex';
   $('#btn-hint').disabled = true;
   fb.hidden = false;
   try { fb.scrollIntoView({ behavior: reducedMotion() ? 'auto' : 'smooth', block: 'nearest' }); } catch { /* ignore */ }
 }
-function next() { stopSpeaking(); if (G.queue.length) { renderQuestion(); try { $('#qcard').scrollIntoView({ block: 'nearest' }); } catch { /* ignore */ } } else finish(); }
+function next() { stopSpeaking(); if (G.queue.length) { renderQuestion(); try { $('#qcard').scrollIntoView({ block: 'nearest' }); } catch { /* ignore */ } } else if (G.mission.streaming) renderWaiting(); else finish(); }
 function finish() {
+  Awake.off();
   const m = G.mission, N = G.total, first = G.firstTry.size, pct = first / N;
   const stars = pct >= 0.85 ? 3 : pct >= 0.6 ? 2 : 1;
   const play = { data: new Date().toISOString(), totale: N, primoColpo: first, punti: G.points, stelle: stars, ripasso: G.review, daRipassare: [...G.notFirst] };

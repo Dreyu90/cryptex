@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-06T13:38:53Z",
+  "aggiornato": "2026-11-08T17:18:29Z",
   "classi": {
     "1-elementare": {
       "classe": "1ª elementare",
@@ -75,19 +75,34 @@
       "classe": "3ª elementare",
       "materie": [
         {
+          "slug": "geografia",
+          "nome": "Geografia",
+          "n": 50
+        },
+        {
+          "slug": "inglese",
+          "nome": "Inglese",
+          "n": 50
+        },
+        {
           "slug": "italiano",
           "nome": "Italiano",
-          "n": 1
+          "n": 51
+        },
+        {
+          "slug": "matematica",
+          "nome": "Matematica",
+          "n": 50
         },
         {
           "slug": "scienze",
           "nome": "Scienze",
-          "n": 1
+          "n": 51
         },
         {
           "slug": "storia",
           "nome": "Storia",
-          "n": 1
+          "n": 51
         }
       ]
     },
@@ -95,14 +110,29 @@
       "classe": "4ª elementare",
       "materie": [
         {
+          "slug": "inglese",
+          "nome": "Inglese",
+          "n": 50
+        },
+        {
+          "slug": "italiano",
+          "nome": "Italiano",
+          "n": 50
+        },
+        {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 1
+          "n": 51
+        },
+        {
+          "slug": "scienze",
+          "nome": "Scienze",
+          "n": 50
         },
         {
           "slug": "storia",
           "nome": "Storia",
-          "n": 1
+          "n": 51
         }
       ]
     },
@@ -110,14 +140,34 @@
       "classe": "5ª elementare",
       "materie": [
         {
+          "slug": "geografia",
+          "nome": "Geografia",
+          "n": 50
+        },
+        {
+          "slug": "inglese",
+          "nome": "Inglese",
+          "n": 50
+        },
+        {
+          "slug": "italiano",
+          "nome": "Italiano",
+          "n": 50
+        },
+        {
+          "slug": "matematica",
+          "nome": "Matematica",
+          "n": 50
+        },
+        {
           "slug": "scienze",
           "nome": "Scienze",
-          "n": 1
+          "n": 51
         },
         {
           "slug": "storia",
           "nome": "Storia",
-          "n": 1
+          "n": 51
         }
       ]
     },
@@ -125,14 +175,34 @@
       "classe": "1ª media",
       "materie": [
         {
+          "slug": "geografia",
+          "nome": "Geografia",
+          "n": 50
+        },
+        {
+          "slug": "inglese",
+          "nome": "Inglese",
+          "n": 50
+        },
+        {
+          "slug": "italiano",
+          "nome": "Italiano",
+          "n": 50
+        },
+        {
+          "slug": "matematica",
+          "nome": "Matematica",
+          "n": 50
+        },
+        {
           "slug": "scienze",
           "nome": "Scienze",
-          "n": 1
+          "n": 51
         },
         {
           "slug": "storia",
           "nome": "Storia",
-          "n": 1
+          "n": 51
         }
       ]
     },
@@ -140,14 +210,29 @@
       "classe": "2ª media",
       "materie": [
         {
+          "slug": "inglese",
+          "nome": "Inglese",
+          "n": 50
+        },
+        {
+          "slug": "italiano",
+          "nome": "Italiano",
+          "n": 50
+        },
+        {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 1
+          "n": 51
+        },
+        {
+          "slug": "scienze",
+          "nome": "Scienze",
+          "n": 50
         },
         {
           "slug": "storia",
           "nome": "Storia",
-          "n": 1
+          "n": 51
         }
       ]
     },
@@ -155,9 +240,19 @@
       "classe": "3ª media",
       "materie": [
         {
+          "slug": "inglese",
+          "nome": "Inglese",
+          "n": 50
+        },
+        {
+          "slug": "italiano",
+          "nome": "Italiano",
+          "n": 50
+        },
+        {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 1
+          "n": 51
         },
         {
           "slug": "storia",

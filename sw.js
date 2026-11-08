@@ -1,5 +1,5 @@
 // Cryptex Studio service worker: keeps the app usable offline (saved missions can be played without internet).
-const CACHE = 'cryptex-studio-v4';
+const CACHE = 'cryptex-studio-v5';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-512.png'];
 
 self.addEventListener('install', event => {

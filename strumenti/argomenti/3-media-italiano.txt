@@ -1,5 +1,5 @@
 # 3ª media · Italiano: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Argomenti che convincono [lib-3-media-italiano-tipi-di-argomenti] · PROVA

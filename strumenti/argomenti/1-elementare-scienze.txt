@@ -1,5 +1,5 @@
-# 1ª elementare · Scienze: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# 1ª elementare · Scienze: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## A tavola con gli animali [lib-1-elementare-scienze-cibo-animali] · CIBO
@@ -23,6 +23,28 @@ concetti: Animali domestici; Animali selvatici; Rispettare i selvatici
 - Durante una gita trovi un riccio nel prato. Che cosa fai?
 - Un cucciolo di volpe può vivere bene in un appartamento.
 - Perché il cane è un animale domestico?
+
+## Aria invisibile ma presente [lib-1-elementare-scienze-aria-invisibile] · BOLLA
+concetti: L'aria è dappertutto; L'aria occupa spazio; Sentire l'aria; L'aria serve
+- L'aria si può vedere a occhio nudo.
+- Che cosa c'è dentro un palloncino gonfio?
+- L'aria che si muove si chiama ___.
+- Come capisci che c'è vento?
+- Una bottiglia che sembra vuota, che cosa contiene?
+- Chi ha bisogno di aria per vivere?
+- Se buchi un palloncino gonfio, l'aria esce.
+- Come puoi dimostrare a un amico che l'aria esiste, anche se non si vede?
+
+## Aria pulita per tutti [lib-1-elementare-scienze-aria-pulita] · SMOG
+concetti: Aria sporca; Aria e salute; Muoversi senza fumo; Gli alberi aiutano
+- Che cosa sporca l'aria delle città?
+- Respirare aria sporca fa bene alla salute.
+- Per andare a scuola senza fare fumo puoi andare a ___.
+- Quale di questi aiuta a pulire l'aria della città?
+- Quale mezzo non fa fumo?
+- Dove l'aria è di solito più pulita?
+- Se tanti bambini vanno a scuola a piedi, in città ci sono meno auto.
+- Perché è utile piantare alberi lungo le strade?
 
 ## Arriva la primavera! [lib-1-elementare-scienze-primavera] · PRATO
 concetti: I mesi della primavera; Giornate più lunghe; La natura si risveglia; Animali in primavera
@@ -57,6 +79,28 @@ concetti: I mesi dell'inverno; Freddo, neve e ghiaccio; Giornate corte; Aiutare 
 - D'inverno l'acqua di una pozzanghera può diventare ghiaccio.
 - Perché d'inverno è utile mettere semi per gli uccellini?
 
+## Buonanotte, corpo mio! [lib-1-elementare-scienze-sonno] · SONNO
+concetti: Il corpo riposa; Dormire per crescere; Pronti per la nanna; Senza sonno
+- A che cosa serve dormire?
+- Mentre dormi, il tuo corpo cresce.
+- Quante ore circa deve dormire un bambino ogni notte?
+- Prima di dormire è meglio spegnere la ___.
+- Metti in ordine la sera prima di dormire.
+- Luca ha dormito poco. Come si sentirà a scuola?
+- Quale attività aiuta ad addormentarsi?
+- Perché è importante andare a letto presto la sera prima della scuola?
+
+## Caldo o freddo? Il termometro [lib-1-elementare-scienze-termometro] · FEBBRE
+concetti: Caldo e freddo; Il termometro; La febbre; Temperatura fuori
+- Com'è un cubetto di ghiaccio al tatto?
+- Che cosa misura il termometro?
+- Se il corpo è più caldo del solito, forse hai la ___.
+- Il termometro serve per misurare la febbre.
+- Il termometro fuori dalla finestra segna molto freddo. Che cosa metti?
+- Com'è l'acqua giusta per il bagnetto?
+- D'estate i termometri segnano di solito più caldo che d'inverno.
+- Perché per sapere se hai la febbre è meglio il termometro della mano sulla fronte?
+
 ## Che cosa attira la calamita? [lib-1-elementare-scienze-calamita] · MAGNETE
 concetti: La calamita attira il ferro; Cose che non attira; Attraverso le cose; Due calamite insieme
 - Quale oggetto viene attirato da una calamita?
@@ -67,6 +111,17 @@ concetti: La calamita attira il ferro; Cose che non attira; Attraverso le cose; 
 - Avvicini due calamite e si allontanano. Come fai a farle attaccare?
 - Due calamite si attirano sempre, comunque le avvicini.
 - Ti sono caduti degli spilli in una scatola di riso. Come li ritrovi con una calamita?
+
+## Che cosa c'è nella terra? [lib-1-elementare-scienze-terra-sassi] · TERRA
+concetti: Di che cosa è fatta; Il terriccio; Abitanti della terra; Sabbia e terra
+- Qual è la terra migliore per far crescere una piantina?
+- Nella terra vivono piccoli animali come i lombrichi.
+- Nella terra si trovano anche pezzetti di ___ marcite.
+- Con una lente osservi la terra. Che cosa vedi?
+- Versi acqua sulla sabbia e sulla terra. Che cosa succede?
+- Scavando nell'orto trovi tante formiche in fila. Dove abitano?
+- Il terriccio è duro come un sasso.
+- Perché in un vaso di sola sabbia una pianta beve meno acqua?
 
 ## Che cosa serve a una pianta? [lib-1-elementare-scienze-bisogni-pianta] · LUCE
 concetti: L'acqua giusta; Tanta luce; Aria e terra; Curare una pianta
@@ -89,6 +144,28 @@ concetti: Tipi di tempo; Pioggia e nuvole; Il vento; Temporale e arcobaleno
 - C'è un temporale con lampi e tuoni. Dove è meglio stare?
 - Durante un temporale prima vedi il lampo e poi senti il tuono.
 - Domani piove. Che cosa porti con te per andare a scuola?
+
+## Chi fa luce? [lib-1-elementare-scienze-sorgenti-luce] · LAMPADA
+concetti: Sorgenti naturali; Sorgenti artificiali; Chi non fa luce; Luce di notte
+- Qual è la più grande sorgente di luce naturale per noi?
+- Quale oggetto fa luce?
+- La lampadina è una sorgente di luce ___.
+- Un libro fa luce da solo, come una lampadina.
+- Di notte, per strada, che cosa illumina il marciapiede?
+- Quale di queste è una sorgente di luce naturale?
+- Lo specchio non fa luce: rimanda quella che riceve.
+- Che differenza c'è tra una torcia accesa e uno specchio?
+
+## Chi fa questo verso? [lib-1-elementare-scienze-versi-animali] · VERSO
+concetti: Versi di casa; Versi della fattoria; Versi di uccelli; Perché fanno versi
+- Quale animale abbaia?
+- Che verso fa la mucca?
+- La pecora ___.
+- Chi canta chicchirichì al mattino?
+- L'asino raglia.
+- Perché un uccello lancia un verso forte quando arriva un gatto?
+- Quale animale cinguetta?
+- Perché un vitellino muggisce quando non vede la mamma?
 
 ## Chi nasce dall'uovo? [lib-1-elementare-scienze-nascita-animali] · UOVO
 concetti: Nati dall'uovo; Nati dalla pancia; Il latte della mamma; Covare le uova
@@ -167,6 +244,17 @@ concetti: Le uova nello stagno; Il girino; La trasformazione; La rana adulta
 - La rana adulta vive sempre e solo sott'acqua, come un pesce.
 - Che cosa succede alla coda del girino quando diventa rana?
 
+## Dal grano al pane [lib-1-elementare-scienze-grano-pane] · PANE
+concetti: Il grano; Dalla spiga alla farina; Dalla farina al pane; Chi lavora
+- Da quale pianta si ottiene la farina per il pane?
+- I chicchi di grano stanno nella ___.
+- Che cosa si fa ai chicchi per avere la farina?
+- Metti in ordine il viaggio del grano.
+- Chi cuoce il pane nel forno?
+- Che cosa serve, oltre alla farina, per l'impasto del pane?
+- Il mugnaio è la persona che trasforma i chicchi in farina.
+- Perché senza le piante di grano non avremmo il pane?
+
 ## Dal seme alla piantina [lib-1-elementare-scienze-seme] · SEME
 concetti: Il seme; Che cosa serve al seme; La germinazione; L'esperimento del fagiolo
 - Da dove nasce una nuova pianta di fagiolo?
@@ -188,6 +276,39 @@ concetti: Il legno; Come nasce la carta; Oggetti di carta; Risparmiare carta
 - Hai usato un foglio solo da una parte. Che cosa puoi fare?
 - Anche i libri e i giornali sono fatti di carta.
 - Perché riciclare la carta aiuta gli alberi del bosco?
+
+## Dalla pecora al maglione [lib-1-elementare-scienze-lana] · LANA
+concetti: Il pelo della pecora; La tosatura; Dalla lana al filo; Lana calda
+- La lana dei maglioni è...
+- Tagliare la lana alla pecora si chiama ___.
+- Tosare la pecora le fa male.
+- Metti in ordine il viaggio della lana.
+- Quale indumento è spesso di lana?
+- Che cosa diventa la lana quando viene filata?
+- Perché d'inverno usiamo vestiti di lana?
+- Perché la pecora dopo la tosatura non resta senza lana per sempre?
+
+## Denti forti e brillanti [lib-1-elementare-scienze-denti] · DENTI
+concetti: Denti da latte; Lavare i denti; Dolci e carie; Il dentista
+- A 6 anni molti bambini perdono i primi denti.
+- Che cosa ti serve per lavare i denti?
+- I primi denti si chiamano denti da ___.
+- Quando è bene lavare i denti?
+- Quale merenda fa meglio ai tuoi denti?
+- Chi controlla e cura i denti?
+- Dal dentista si va solo quando un dente fa tanto male.
+- Hai appena mangiato una merendina dolce. Che cosa fai dopo, e perché?
+
+## Dentro e fuori: il respiro [lib-1-elementare-scienze-respiro] · ARIA
+concetti: Respirare sempre; Naso e polmoni; Dentro e fuori; Respiro veloce
+- Mentre dormi continui a respirare.
+- Da dove entra l'aria quando respiri?
+- L'aria che respiri arriva nei ___.
+- Quanti polmoni abbiamo?
+- Metti la mano sul petto e fai entrare l'aria. Che cosa succede?
+- Hai appena fatto una gara di corsa. Come respiri?
+- Una persona può vivere un giorno intero senza respirare.
+- Perché dopo una corsa hai il fiatone?
 
 ## Di che cosa è fatto? [lib-1-elementare-scienze-materiali] · VETRO
 concetti: I materiali; Riconoscere i materiali; Il materiale giusto; Oggetti con più materiali
@@ -211,6 +332,17 @@ concetti: Il Sole e il giorno; La notte; Le parti della giornata; Animali nottur
 - Perché il pipistrello dorme di giorno?
 - Perché di notte accendiamo le luci in casa?
 
+## Dinosauri, giganti di un tempo [lib-1-elementare-scienze-dinosauri] · FOSSILE
+concetti: Tanto tempo fa; Estinti; I fossili; Erbivori e carnivori
+- I dinosauri vissero tantissimo tempo fa.
+- Possiamo vedere un dinosauro vivo allo zoo?
+- Le ossa di dinosauro diventate pietra si chiamano ___.
+- Come sappiamo com'erano fatti i dinosauri?
+- Un dinosauro con denti piatti mangiava probabilmente...
+- Un dinosauro con denti appuntiti come coltelli era...
+- Gli uomini delle caverne cacciavano i dinosauri.
+- Che cosa ci può raccontare un'impronta di dinosauro trovata nella roccia?
+
 ## Dolce, salato, amaro, aspro [lib-1-elementare-scienze-gusto] · LINGUA
 concetti: I sapori principali; Esempi di sapori; Gusto e olfatto amici; Assaggiare con prudenza
 - Che sapore ha il miele?
@@ -221,6 +353,28 @@ concetti: I sapori principali; Esempi di sapori; Gusto e olfatto amici; Assaggia
 - Hai il raffreddore. Perché la minestra sembra senza sapore?
 - Nel bosco trovi delle bacche rosse. Che cosa fai?
 - Perché non devi mai bere da una bottiglia senza sapere che cosa contiene?
+
+## Erbe che profumano [lib-1-elementare-scienze-erbe-aromatiche] · MENTA
+concetti: Erbe aromatiche; Foglie profumate; In cucina; Coltivarle
+- Quale di queste è un'erba aromatica?
+- Se strofini una foglia di menta senti un profumo fresco.
+- Sulla pizza margherita si mettono foglie di ___.
+- Quale parte del corpo usi per sentire il profumo delle erbe?
+- Dove puoi coltivare le erbe aromatiche?
+- Perché in cucina si usano le erbe aromatiche?
+- Quale erba ha foglie sottili come aghi e si mette sull'arrosto?
+- Che cosa serve a una piantina di basilico in vaso per crescere?
+
+## Etciù! Il raffreddore [lib-1-elementare-scienze-raffreddore] · NASO
+concetti: Come ci si sente; Fazzoletti e gomito; Non contagiare; Guarire
+- Che cosa succede al naso con il raffreddore?
+- Con il raffreddore si starnutisce spesso.
+- Ti cola il naso. Che cosa usi per soffiarlo?
+- Dopo aver usato il fazzoletto di carta lo butti nel ___.
+- Come passa il raffreddore da una persona all'altra?
+- Che cosa aiuta a guarire dal raffreddore?
+- Lavare spesso le mani aiuta a non passare il raffreddore agli altri.
+- Perché, quando hai il raffreddore forte, è meglio restare qualche giorno a casa?
 
 ## Fatto dalla natura o dall'uomo? [lib-1-elementare-scienze-naturale-artificiale] · NATURA
 concetti: Elementi naturali; Oggetti artificiali; Dalla natura all'oggetto
@@ -277,6 +431,28 @@ concetti: Acqua liquida; Il ghiaccio; Il vapore; Dal vapore alle goccioline
 - Scaldiamo un cubetto di ghiaccio in un pentolino. Metti in ordine.
 - Perché il ghiacciolo si scioglie se lo tieni troppo in mano?
 
+## Guarda come cresco! [lib-1-elementare-scienze-crescita] · CRESCO
+concetti: Diventare più alti; Misurare la crescita; Cose che crescono sempre; Cosa serve per crescere
+- Crescendo, i bambini diventano più alti e anche più pesanti.
+- I pantaloni dell'anno scorso ti stanno corti. Perché?
+- Con che cosa misuri quanto sei alto?
+- Le unghie crescono sempre, per questo si ___.
+- Che cosa cresce sempre e va tagliato dal parrucchiere?
+- Che cosa aiuta il corpo a crescere bene?
+- Per crescere bene sono utili anche il gioco e il movimento all'aperto.
+- Come puoi scoprire quanto sei cresciuto in un anno?
+
+## I regali delle piante [lib-1-elementare-scienze-doni-piante] · COTONE
+concetti: Aria pulita; Cibo dalle piante; Materiali dalle piante; Ombra e casa
+- Quale cibo viene da una pianta?
+- Le magliette si fanno spesso con il ___, che viene da una pianta.
+- Che cosa producono le piante che serve a noi per respirare?
+- Quale di questi cibi NON viene da una pianta?
+- Il sughero dei tappi viene dalla corteccia di un albero.
+- Da quale pianta viene la pasta?
+- Per quale animale un albero è una casa?
+- Racconta due cose che usi ogni giorno e che vengono dalle piante.
+
 ## Il bruco diventa farfalla [lib-1-elementare-scienze-farfalla] · BRUCO
 concetti: L'uovo e il bruco; Il bruco mangione; La crisalide; La farfalla
 - Che cosa nasce dalle uova della farfalla?
@@ -288,6 +464,17 @@ concetti: L'uovo e il bruco; Il bruco mangione; La crisalide; La farfalla
 - Perché il bruco mangia così tante foglie?
 - Bruco e farfalla sono lo stesso animale. Che cosa cambia?
 
+## Il cactus e le sue spine [lib-1-elementare-scienze-cactus] · CACTUS
+concetti: Dove vive il cactus; Una riserva d'acqua; Le spine; Il cactus in casa
+- Dove vivono molti cactus?
+- Le spine del cactus lo difendono dagli animali.
+- Il cactus conserva l'___ nel suo fusto grosso.
+- Come si cura un cactus in vaso?
+- Le spine del cactus sono...
+- Com'è il tempo nel deserto dove vive il cactus?
+- Se annaffi un cactus tutti i giorni lo aiuti a crescere meglio.
+- Perché il cactus riesce a vivere dove piove pochissimo?
+
 ## Il corpo dalla testa ai piedi [lib-1-elementare-scienze-corpo] · CORPO
 concetti: Le parti del corpo; Mani e piedi; Il corpo si piega; Dentro il corpo
 - In quale parte del corpo ci sono occhi, naso e bocca?
@@ -298,6 +485,17 @@ concetti: Le parti del corpo; Mani e piedi; Il corpo si piega; Dentro il corpo
 - Hai appena fatto una bella corsa. Che cosa fa il cuore?
 - Ogni piede ha cinque dita, come la mano.
 - Prova a prendere una matita senza piegare le dita. Perché è difficile?
+
+## Il fuoco: caldo e pericoloso [lib-1-elementare-scienze-fuoco] · FUOCO
+concetti: Luce e calore; Il fuoco ha bisogno d'aria; Pericolo; In caso di fuoco
+- Che cosa ci dà il fuoco?
+- I bambini possono giocare con i fiammiferi.
+- Senza ___ il fuoco si spegne.
+- Copri una candela accesa con un barattolo di vetro. Che cosa succede?
+- Vedi del fumo uscire da una stanza. Che cosa fai?
+- A che cosa serve il fuoco in cucina?
+- I vigili del fuoco sono le persone che spengono gli incendi.
+- Perché fiammiferi e accendini si tengono lontani dai bambini?
 
 ## Il giro della vita [lib-1-elementare-scienze-ciclo-vita] · CICLO
 concetti: Le fasi della vita; Dal neonato al nonno; Cuccioli e genitori; Anche le piante crescono
@@ -354,6 +552,28 @@ concetti: Mangiare di tutto; Frutta e verdura ogni giorno; L'acqua è la bevanda
 - Salti la colazione. Che cosa può succedere a metà mattina?
 - Prepara un pranzo sano: che cosa metti nel piatto?
 
+## Il prato e i suoi abitanti [lib-1-elementare-scienze-prato] · ERBA
+concetti: Il prato; Fiori del prato; Piccoli abitanti; Il prato cambia
+- Di che colore è di solito l'erba del prato?
+- Quale fiore bianco e giallo trovi spesso nel prato?
+- La ___ è un insetto rosso con i puntini neri.
+- Quale animaletto salta tra l'erba del prato?
+- Dopo che il giardiniere ha tagliato l'erba del prato, l'erba ricresce.
+- Il tarassaco fa un pallino bianco di semi. Che cosa succede se soffi?
+- Nel prato vivono solo piante e nessun animale.
+- Come cambia il prato dall'inverno alla primavera?
+
+## Il Sole, la nostra stella [lib-1-elementare-scienze-sole-stella] · STELLA
+concetti: Il Sole è una stella; Luce e calore; Grande e lontano; Il Sole e la vita
+- Di notte vedi tante stelline. Che cosa sono?
+- Il Sole ci dà luce e calore.
+- Il Sole ci sembra piccolo perché è molto ___.
+- Perché d'estate la sabbia della spiaggia scotta?
+- In una giornata di sole, dove fa più caldo nella stanza?
+- Che cosa succederebbe alle piante senza la luce del Sole?
+- Il Sole è molto più grande della Terra.
+- Perché il Sole è importante per la vita sulla Terra?
+
 ## L'acqua è un tesoro [lib-1-elementare-scienze-acqua-preziosa] · ACQUA
 concetti: Acqua per vivere; L'acqua nel corpo; Da dove viene l'acqua; Non sprecare
 - Anche le piante e gli animali hanno bisogno di acqua.
@@ -365,6 +585,28 @@ concetti: Acqua per vivere; L'acqua nel corpo; Da dove viene l'acqua; Non spreca
 - Il cammello non ha mai bisogno di bere.
 - Scrivi un modo per non sprecare acqua a casa.
 
+## L'orto della nostra scuola [lib-1-elementare-scienze-orto-scuola] · ORTO
+concetti: Che cos'è un orto; Preparare e seminare; Curare l'orto; Il raccolto
+- Che cosa si coltiva in un orto?
+- Le piante dell'orto hanno bisogno di acqua.
+- Prima di seminare si ___ la terra per renderla morbida.
+- Metti in ordine il lavoro nell'orto.
+- Che cosa sono le erbacce?
+- Quando si raccoglie un pomodoro?
+- Quale di questi NON cresce nell'orto?
+- Che cosa succederebbe all'orto se nessuno lo annaffiasse per tanti giorni d'estate?
+
+## La Luna cambia forma [lib-1-elementare-scienze-fasi-luna] · FASI
+concetti: La Luna; Forme diverse; Circa un mese; Anche di giorno
+- Come si chiama la Luna quando è un cerchio tutto illuminato?
+- La Luna gira intorno alla Terra.
+- Quando vediamo solo una sottile parte di Luna la chiamiamo ___.
+- In quanto tempo circa la Luna ripete tutte le sue forme?
+- Chi illumina la Luna?
+- La Luna si vede soltanto di notte.
+- Stanotte vedi una mezza luna. Che cosa è successo alla Luna?
+- Se la Luna è sempre tonda, perché a volte la vediamo a spicchio?
+
 ## La mia ombra mi segue [lib-1-elementare-scienze-ombra] · OMBRA
 concetti: Come nasce l'ombra; Dove si trova; Lunga o corta; L'ombra copia la forma
 - Se alzi un braccio, anche la tua ombra alza il braccio.
@@ -375,6 +617,28 @@ concetti: Come nasce l'ombra; Dove si trova; Lunga o corta; L'ombra copia la for
 - In una stanza tutta buia, dov'è la tua ombra?
 - Se la lampada è alla tua destra, l'ombra cade alla tua destra.
 - Perché un vetro trasparente fa pochissima ombra?
+
+## Lombrico e lumaca dopo la pioggia [lib-1-elementare-scienze-lombrico-lumaca] · LUMACA
+concetti: Il lombrico; Amico della terra; La chiocciola; Dopo la pioggia
+- Che cosa porta sulla schiena la chiocciola?
+- Il lombrico ha tante zampe per camminare.
+- Che cosa mangia il lombrico?
+- Lombrichi e lumache escono soprattutto dopo la ___.
+- Come si muove la chiocciola?
+- Perché il lombrico è utile all'orto?
+- Le chiocciole preferiscono i giorni umidi a quelli secchi e caldi.
+- Un contadino trova tanti lombrichi nel campo. Perché è contento?
+
+## Mamme e cuccioli della fattoria [lib-1-elementare-scienze-nomi-cuccioli] · PULCINO
+concetti: Nomi dei cuccioli; Cavalla e maiale; Pecora e capra; Somigliano ai genitori
+- Come si chiama il piccolo della gallina?
+- Come si chiama il piccolo del maiale?
+- Il piccolo della pecora è l'___.
+- Come si chiama il piccolo della cavalla?
+- Il capretto è il piccolo di quale animale?
+- Un puledro, crescendo, diventa un cavallo.
+- Un agnellino, crescendo, diventa una mucca.
+- Che cosa hanno in comune un cucciolo e i suoi genitori?
 
 ## Mani che sentono tutto [lib-1-elementare-scienze-tatto] · PELLE
 concetti: Liscio o ruvido; Morbido o duro; Caldo o freddo; Dita speciali
@@ -397,6 +661,61 @@ concetti: Germi invisibili; Quando lavare le mani; Come lavare le mani; Denti e 
 - Stai per starnutire. Che cosa fai?
 - Basta lavarsi i denti una volta alla settimana.
 - Perché ci laviamo le mani prima di mangiare?
+
+## Mare, fiume e lago [lib-1-elementare-scienze-mare-fiume-lago] · FIUME
+concetti: Il mare; Il fiume; Il lago; Acqua dolce e salata
+- Dov'è l'acqua salata?
+- L'acqua del fiume scorre.
+- Il fiume nasce in montagna e scorre verso il ___.
+- Che cos'è un lago?
+- Che sapore ha l'acqua di un lago?
+- Metti in ordine il viaggio del fiume.
+- L'acqua del fiume è salata come quella del mare.
+- Qual è la differenza tra un fiume e un lago?
+
+## Metalli lucidi e resistenti [lib-1-elementare-scienze-metalli] · METALLO
+concetti: Che cosa sono; Come sono; Il metallo si scalda; La ruggine
+- Quale oggetto è di metallo?
+- Molti metalli, se puliti, sono lucidi.
+- Il ferro rimasto sotto la pioggia si copre di ___.
+- Lasci un cucchiaio di metallo nella tazza di latte caldo. Che cosa succede?
+- Di che metallo sono spesso le lattine delle bibite?
+- Perché le pentole hanno spesso il manico di plastica o di legno?
+- Un chiodo di ferro si piega facilmente con le dita.
+- Perché non si lascia una bicicletta di ferro sempre sotto la pioggia?
+
+## Muoversi fa bene! [lib-1-elementare-scienze-movimento] · SPORT
+concetti: Il movimento fa bene; Giocare all'aperto; Prima e dopo lo sport; Fare sport insieme
+- Correre e saltare rendono il corpo più forte.
+- Quale di queste attività fa muovere il corpo?
+- Hai giocato a calcio e sei tutto sudato. Che cosa fai quando torni a casa?
+- Prima di una corsa è bene fare il ___ per scaldare i muscoli.
+- Che cosa è meglio fare in una bella giornata di sole?
+- In una partita, un compagno cade. Che cosa fai?
+- Nei giochi di squadra ognuno può inventare le regole che vuole.
+- Perché è importante muoversi ogni giorno?
+
+## Muschio e funghi nell'umido [lib-1-elementare-scienze-muschio-funghi] · MUSCHIO
+concetti: Il muschio; Posti umidi; I funghi; Attenzione ai funghi
+- Com'è il muschio al tatto?
+- Dove cresce di solito il muschio?
+- Il fungo non è una pianta verde: non ha ___.
+- Puoi raccogliere e mangiare tutti i funghi che trovi nel bosco.
+- Quando spuntano più funghi nel bosco?
+- Trovi un fungo colorato in un prato. Che cosa fai?
+- Il muschio fa fiori grandi e colorati.
+- Perché è difficile trovare muschio in un posto secco e soleggiato?
+
+## Nascosti! Animali mimetici [lib-1-elementare-scienze-mimetismo] · STECCO
+concetti: Confondersi; Il camaleonte; Forme che ingannano; Perché nascondersi
+- A che cosa somiglia l'insetto stecco?
+- Quale animale può cambiare colore?
+- Quando un animale si confonde con l'ambiente si dice che si ___.
+- Un animale mimetizzato si fa vedere meno dai nemici.
+- Una cavalletta verde dove si nasconde meglio?
+- Perché anche un predatore può essere mimetico?
+- Alcune farfalle con le ali chiuse sembrano foglie secche.
+- Perché per un insetto è utile somigliare a una foglia?
 
 ## Occhi aperti sul mondo [lib-1-elementare-scienze-vista] · OCCHI
 concetti: Che cosa vediamo; Senza luce non si vede; Occhi protetti; Aiuti per vedere
@@ -442,6 +761,50 @@ concetti: Le orecchie e i suoni; Forte o piano; Vicino o lontano; Suoni che avvi
 - Il cane sente anche suoni che noi non riusciamo a sentire.
 - La maestra parla dal fondo della classe. Perché ti avvicini per sentirla meglio?
 
+## Ossa e muscoli al lavoro [lib-1-elementare-scienze-ossa-muscoli] · OSSA
+concetti: Lo scheletro; Ossa che proteggono; I muscoli muovono; Ossa forti
+- Come si chiamano tutte le ossa insieme?
+- Senza ossa il corpo starebbe dritto lo stesso.
+- Quale osso protegge il cervello?
+- Per muovere le ossa servono i ___.
+- Che cosa proteggono le costole?
+- Quale alimento aiuta le ossa a diventare forti?
+- Che cosa succederebbe se non avessimo i muscoli?
+- Che cosa puoi fare per avere ossa forti?
+
+## Osserva come uno scienziato [lib-1-elementare-scienze-piccolo-scienziato] · LENTE
+concetti: Osservare; Fare domande; Provare; Strumenti e note
+- Vuoi misurare quanto è lunga una foglia. Che strumento usi?
+- Per osservare bene bisogna guardare con attenzione.
+- Una prova per scoprire come funziona qualcosa si chiama ___.
+- Vedi che una pozzanghera è sparita al sole. Che cosa ti chiede uno scienziato?
+- Metti in ordine il lavoro dello scienziato.
+- Perché lo scienziato scrive sul quaderno ciò che scopre?
+- Due semi: uno annaffiato e uno no. Che cosa vuoi scoprire?
+- Vuoi scoprire se il ghiaccio si scioglie prima al sole o all'ombra. Come fai la prova?
+
+## Otto zampe: il ragno [lib-1-elementare-scienze-ragni] · RAGNO
+concetti: Otto zampe; La ragnatela; Cacciatore di insetti; Insetto o ragno?
+- Quante zampe ha un ragno?
+- Il ragno costruisce la ___.
+- Il ragno è un insetto.
+- A che cosa serve la ragnatela al ragno?
+- Che cosa NON ha il ragno?
+- Perché il ragno è utile in casa e in giardino?
+- Il filo della ragnatela lo produce il ragno stesso.
+- Racconta una differenza tra un insetto e un ragno.
+
+## Passeggiata nel bosco [lib-1-elementare-scienze-bosco] · BOSCO
+concetti: Tanti alberi; Il sottobosco; Una casa per tanti; Rispettare il bosco
+- Che cosa c'è soprattutto in un bosco?
+- Quale animale puoi incontrare nel bosco?
+- Le piccole piante che crescono sotto gli alberi formano il ___.
+- Nel bosco si possono lasciare le carte per terra.
+- Quale frutto piccolo e rosso può crescere nel sottobosco?
+- Perché nel bosco non si accende il fuoco?
+- Perché tanti animali vivono nel bosco?
+- Che cosa fai per rispettare il bosco durante una gita?
+
 ## Pelo, piume, squame e guscio [lib-1-elementare-scienze-coperture-animali] · PIUME
 concetti: Il pelo; Le piume; Squame e gusci; Coperture per difendersi
 - Quali animali hanno le piume?
@@ -453,6 +816,28 @@ concetti: Il pelo; Le piume; Squame e gusci; Coperture per difendersi
 - Il pipistrello vola, quindi ha le piume.
 - Perché il contadino tosa la pecora quando arriva il caldo?
 
+## Pianta o animale? Scoprilo! [lib-1-elementare-scienze-pianta-animale] · VERDE
+concetti: Tutti viventi; Chi si sposta; Il cibo; Respirano tutti
+- Una piantina di fagiolo e un pulcino sono tutti e due esseri viventi.
+- Che cosa sa fare un animale che una pianta non sa fare?
+- Gli animali vanno in cerca del ___; le piante lo preparano da sole.
+- Come si procura il cibo un coniglio?
+- Che cosa serve sia alle piante sia agli animali?
+- Un albero può spostarsi da solo in un altro giardino.
+- Quale di questi è un animale e non una pianta?
+- Una pianta non va a fare la spesa. Come si procura il cibo?
+
+## Piccoli amici del pianeta [lib-1-elementare-scienze-rispetto-natura] · PIANETA
+concetti: La Terra è la nostra casa; Niente rifiuti in giro; Rispettare piante e animali; Piccoli gesti
+- Come si chiama il pianeta dove viviamo?
+- La Terra è la casa di persone, animali e piante.
+- Al parco, la carta della merenda va nel ___.
+- Trovi un nido di uccellini. Che cosa fai?
+- Quale gesto aiuta il pianeta?
+- Nel parco vedi dei fiori bellissimi. Che cosa fai?
+- Piantare un albero è un regalo per il pianeta.
+- Racconta una cosa che puoi fare ogni giorno per proteggere la Terra.
+
 ## Pinne e branchie: i pesci [lib-1-elementare-scienze-pesci] · SQUAME
 concetti: Vivere in acqua; Respirare con le branchie; Pinne e coda; Non è un pesce!
 - Dove vivono i pesci?
@@ -463,6 +848,17 @@ concetti: Vivere in acqua; Respirare con le branchie; Pinne e coda; Non è un pe
 - La balena è un pesce.
 - Quale di questi animali è un pesce?
 - Hai un pesce rosso. Perché devi cambiare spesso l'acqua della vaschetta?
+
+## Plastica: utile ma attenzione [lib-1-elementare-scienze-plastica] · RIUSO
+concetti: Com'è la plastica; Oggetti di plastica; Plastica e natura; Usarne meno
+- Quale oggetto è di solito di plastica?
+- Una bottiglia di plastica, se cade, di solito non si rompe.
+- Le bottiglie di plastica sono ___: si sollevano senza fatica.
+- Quale scelta aiuta a usare meno plastica quando fai la spesa?
+- Che cosa succede alla plastica lasciata in un prato?
+- Perché un sacchetto di plastica in mare è pericoloso?
+- Un giocattolo di plastica ancora bello, che non usi più, puoi regalarlo invece di buttarlo.
+- Che cosa puoi fare tu per usare meno plastica?
 
 ## Proteggo i miei cinque sensi [lib-1-elementare-scienze-sensi-sicurezza] · CUFFIE
 concetti: Occhi al sicuro; Orecchie al sicuro; Pelle al sicuro; Chiedere aiuto
@@ -508,6 +904,83 @@ concetti: Viventi e non viventi; Le piante del parco; Gli animali del parco; I s
 - In autunno uno scoiattolo nasconde tante nocciole. Perché lo fa?
 - Perché nel parco non bisogna strappare i fiori e rompere i rami?
 
+## Ripasso: il giardino delle piante [lib-1-elementare-scienze-ripasso-giardino] · AIUOLA
+concetti: Le parti della pianta; Che cosa serve; Dal seme alla pianta; Piante diverse
+- Quale parte della pianta ha i petali colorati?
+- Il cespuglio è più basso di un albero e ha tanti rami che partono da terra.
+- L'albero ha un fusto grosso e duro che si chiama ___.
+- Metti in ordine la vita di un girasole.
+- Quale di queste è un albero?
+- A che cosa servono le radici?
+- Le foglie di una pianta sono gialle e secche. Che cosa le manca forse?
+- Un albero e una margherita sono molto diversi. Perché sono tutti e due piante?
+
+## Ripasso: il grande quiz di scienze [lib-1-elementare-scienze-ripasso-grande-quiz] · SCIENZA
+concetti: Viventi e non viventi; Il corpo e i sensi; Animali e piante; Materiali e stagioni
+- Quale di questi cresce, perché è un essere vivente?
+- Con quale senso senti la musica?
+- Dopo l'estate arriva l'___.
+- Quale di questi oggetti è di metallo?
+- Che cosa serve a una pianta per vivere?
+- Di che materiale è fatta di solito una bottiglia trasparente che si rompe se cade?
+- Alcuni animali mangiano piante, altri mangiano carne.
+- Un seme e un sasso sembrano tutti e due duri e fermi. Perché il seme è vivente e il sasso no?
+
+## Ripasso: la scatola misteriosa [lib-1-elementare-scienze-ripasso-scatola-sensi] · SCATOLA
+concetti: Indovinare col tatto; Indovinare con l'udito; Indovinare con l'olfatto; Prudenza con il gusto
+- Tocchi qualcosa di morbido, leggero e pieno di buchini. Che cosa può essere?
+- Scuoti la scatola e senti un tintinnio. Che cosa c'è dentro?
+- Senti un profumo fresco che ricorda la limonata. Che cosa c'è nella scatola?
+- Un foglio di carta vetrata, al tatto, è ___.
+- Per scoprire che cosa c'è nella scatola puoi assaggiare tutto.
+- Scuoti la scatola e non senti nessun rumore. Che cosa può esserci?
+- Tocchi un oggetto lungo e sottile, con una punta da una parte. Che cosa è?
+- Perché non devi mai assaggiare un oggetto sconosciuto?
+
+## Ripasso: materiali in cameretta [lib-1-elementare-scienze-ripasso-cameretta] · CAMERA
+concetti: Riconoscere i materiali; Materiali e proprietà; Il materiale giusto; Buttare bene
+- Di che materiale è di solito l'armadio?
+- Quale materiale è trasparente?
+- Il cuscino è morbido perché è fatto di ___.
+- Uno specchio fatto di stoffa ti farebbe vedere la tua faccia.
+- Il quaderno vecchio è finito. In quale bidone va?
+- Perché la coperta del letto è di lana o di stoffa e non di plastica?
+- Di che materiale sono spesso i mattoncini da costruzione?
+- Perché la scrivania è di legno e non di carta?
+
+## Ripasso: scienze in cucina [lib-1-elementare-scienze-ripasso-cucina] · FORNO
+concetti: I sensi in cucina; L'acqua cambia; Il calore trasforma; Sicurezza in cucina
+- Con quale senso capisci se la minestra è abbastanza salata?
+- Sollevi il coperchio della pentola che bolle. Che cosa trovi sotto il coperchio?
+- Il burro nella padella calda si ___.
+- I bambini possono accendere il forno da soli.
+- Un uovo crudo cuoce per 10 minuti nell'acqua che bolle. Come diventa?
+- Senti lo sfrigolio della padella. Quale senso usi?
+- Che cosa succede all'impasto del pane nel forno?
+- Perché in cucina si usano le presine per prendere le pentole?
+
+## Safari nella savana [lib-1-elementare-scienze-savana] · LEONE
+concetti: La savana; Il leone; Giraffa ed elefante; La zebra
+- Com'è il paesaggio della savana?
+- Quale animale ha le strisce bianche e nere?
+- L'elefante beve e prende il cibo con la ___.
+- Perché la giraffa ha il collo lungo?
+- Che cosa mangia il leone?
+- Il leone maschio ha una grande criniera.
+- Le zebre vivono sempre da sole.
+- Che cosa succederebbe a una giraffa con il collo corto nella savana?
+
+## Sassi, rocce e sabbia [lib-1-elementare-scienze-rocce-sassi] · ROCCIA
+concetti: Le rocce; I sassi del fiume; La sabbia; Usare le pietre
+- Com'è una roccia?
+- La sabbia è fatta di granelli piccolissimi.
+- I sassi del fiume sono ___ perché l'acqua li consuma.
+- Perché i sassi del fiume sono tondi?
+- A che cosa servono le pietre alle persone?
+- Di che cosa sono fatte le montagne?
+- Un sasso non è un essere vivente: non nasce e non cresce.
+- Da dove viene la sabbia della spiaggia?
+
 ## Sei zampe: gli insetti [lib-1-elementare-scienze-insetti] · FORMICA
 concetti: Sei zampe; Il corpo dell'insetto; Insetti con le ali; Insetti che lavorano insieme
 - Quante zampe ha un insetto?
@@ -519,6 +992,17 @@ concetti: Sei zampe; Il corpo dell'insetto; Insetti con le ali; Insetti che lavo
 - Conti le zampe di un animaletto: sono otto. Che cos'è?
 - Perché le api lavorano tutte insieme nell'alveare?
 
+## Si scioglie o non si scioglie? [lib-1-elementare-scienze-si-scioglie] · SALE
+concetti: Sciogliersi; Sale e zucchero; Cose che non si sciolgono; L'olio
+- Metti un cucchiaino di zucchero nell'acqua e mescoli. Che cosa succede?
+- La sabbia si scioglie nell'acqua.
+- Dopo aver sciolto il sale, l'acqua diventa ___.
+- Versi un po' d'olio in un bicchiere d'acqua. Dove va l'olio?
+- Quale di queste cose NON si scioglie nell'acqua?
+- Il sale sciolto nell'acqua non si vede più. Dov'è finito?
+- Se lasci al sole un piattino di acqua salata, quando l'acqua sparisce sul fondo resta il sale.
+- Hai mescolato sabbia e zucchero nell'acqua. Che cosa vedi dopo un po'?
+
 ## Sole e caldo d'estate [lib-1-elementare-scienze-estate] · LUGLIO
 concetti: Mesi e vacanze; Difendersi dal caldo; La natura d'estate; Il corpo suda
 - Quale di questi è un mese d'estate?
@@ -529,6 +1013,61 @@ concetti: Mesi e vacanze; Difendersi dal caldo; La natura d'estate; Il corpo sud
 - Perché d'estate i prati senza pioggia diventano gialli?
 - Perché d'estate devi bere più acqua del solito?
 - Scrivi una cosa che fai d'estate e non puoi fare d'inverno. Perché?
+
+## Spegni e risparmia! [lib-1-elementare-scienze-risparmio-energia] · ENERGIA
+concetti: A che cosa serve; Spegnere la luce; Non sprecare; Usare il Sole
+- Che cosa fa funzionare la lampadina?
+- Esci dalla tua stanza. Che cosa fai con la luce?
+- Il frigorifero va tenuto ___ il più possibile.
+- Lasciare la TV accesa quando nessuno la guarda spreca energia.
+- È mattina e c'è il sole. Come illumini la stanza senza sprecare?
+- Quale di questi oggetti funziona con l'energia elettrica?
+- Per risparmiare energia si possono tenere accese le luci di giorno.
+- Perché è importante non sprecare l'energia?
+
+## Su in montagna con l'aquila [lib-1-elementare-scienze-animali-montagna] · AQUILA
+concetti: La montagna; Stambecco e camoscio; La marmotta; L'aquila
+- Quale uccello vola alto sopra le montagne?
+- In montagna, d'inverno, spesso c'è la neve.
+- Lo stambecco ha delle grandi ___ ricurve.
+- Una marmotta vede un'aquila. Che cosa fa?
+- Come si muove il camoscio sulle rocce?
+- Perché l'aquila trova le prede anche da molto in alto?
+- La marmotta vive dentro tane scavate nel terreno.
+- Perché molti animali di montagna hanno una pelliccia folta?
+
+## Tra i ghiacci dei poli [lib-1-elementare-scienze-animali-polari] · POLO
+concetti: I poli; L'orso polare; Il pinguino; Difendersi dal freddo
+- Com'è il clima ai poli?
+- Di che colore è la pelliccia dell'orso polare?
+- Il pinguino vive al Polo Nord insieme all'orso polare.
+- Ai poli quasi tutto è coperto di ___.
+- Che cosa protegge dal freddo gli animali dei poli?
+- Dove vive l'orso polare?
+- Il pinguino ha piume fitte e uno strato di grasso che lo tengono al caldo.
+- Perché la pelliccia bianca aiuta l'orso polare a cacciare?
+
+## Tuffo tra gli animali del mare [lib-1-elementare-scienze-animali-mare] · DELFINO
+concetti: Il mare è una casa; Il delfino; Animali senza pinne; Attenzione in spiaggia
+- Quale di questi animali vive nel mare?
+- Il delfino allatta i suoi piccoli, come fa la mucca.
+- Il polpo ha otto ___.
+- Con che cosa il granchio afferra il cibo?
+- Vedi una medusa vicino a te in mare. Che cosa fai?
+- Quante braccia ha di solito una stella marina?
+- Il delfino è un pesce.
+- Il delfino e il pesce vivono nel mare. Che cosa hanno di diverso?
+
+## Tum tum: il cuore batte [lib-1-elementare-scienze-cuore] · CUORE
+concetti: Dov'è il cuore; Il cuore spinge il sangue; Battiti veloci; Sentire il cuore
+- Dove si trova il cuore?
+- Il cuore spinge il sangue in tutto il corpo.
+- Il cuore è grande più o meno come il tuo ___.
+- Dove puoi sentire i battiti del cuore?
+- Senti il polso da seduto, poi fai 20 saltelli e lo senti di nuovo. Come sono i battiti dopo i saltelli?
+- Che strumento usa il medico per ascoltare il cuore?
+- Il cuore si ferma quando dormiamo.
+- Hai paura di un tuono e il cuore batte forte. Perché succede?
 
 ## Un cucciolo da accudire [lib-1-elementare-scienze-cura-animali] · CUCCIA
 concetti: Cibo e acqua; Pulizia e salute; Movimento e gioco; Rispetto e affetto
@@ -551,6 +1090,17 @@ concetti: Gli animali della fattoria; Che cosa ci danno; Dal latte al formaggio;
 - Come si chiama il piccolo della mucca?
 - Quale di questi animali NON vive in fattoria?
 - Se il contadino non desse da mangiare alle galline, che cosa succederebbe?
+
+## Vestirsi con il tempo giusto [lib-1-elementare-scienze-vestiti-tempo] · GIACCA
+concetti: Vestiti per il freddo; Vestiti per il caldo; Contro la pioggia; Vestirsi a strati
+- Fuori c'è un vento gelido. Che cosa metti sulla testa?
+- Oggi c'è il sole e fa molto caldo. Che cosa scegli?
+- Sotto la pioggia ti ripari con l'___.
+- Con le scarpe di tela, nelle pozzanghere, i piedi restano asciutti.
+- Entri in una classe molto calda con maglione e giacca. Che cosa fai?
+- A che cosa servono i guanti d'inverno?
+- In estate, per giocare al sole, è bene mettere il cappotto.
+- Perché d'inverno non usciamo in maglietta a maniche corte?
 
 ## Vivo o non vivo? [lib-1-elementare-scienze-viventi] · VIVENTE
 concetti: Gli esseri viventi; Le cose non viventi; Anche le piante vivono; Si muove ma non vive

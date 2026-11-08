@@ -1,5 +1,5 @@
-# 5ª elementare · Scienze: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# 5ª elementare · Scienze: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Abitudini per stare bene [lib-5-elementare-scienze-stile-di-vita-sano] · SALUTE
@@ -24,6 +24,17 @@ concetti: La corrente elettrica; Le parti del circuito; Circuito aperto e chiuso
 - Perché una pila, dopo molto uso, 'si scarica'?
 - Spiega perché in casa le luci si accendono e si spengono premendo un interruttore.
 
+## Acqua, carburante del corpo [lib-5-elementare-scienze-idratazione-sete] · ACQUA
+concetti: Acqua nel corpo; A che cosa serve; La sete; Bere bene
+- Circa quanta parte del corpo umano è formata da acqua?
+- La sete è un segnale che il corpo ha bisogno di acqua.
+- Quando fa caldo il corpo si raffredda producendo ___.
+- Dopo una partita di calcio in estate, che cosa è meglio bere?
+- Quale di questi è un compito dell'acqua nel corpo?
+- In quale situazione devi bere più del solito?
+- Un bambino beve pochissimo per tutto il giorno. Che cosa può succedere?
+- Perché non possiamo stare senza bere per molti giorni, mentre possiamo saltare un pasto?
+
 ## Acuti, gravi e forti [lib-5-elementare-scienze-altezza-intensita-timbro] · TIMBRO
 concetti: L'altezza; L'intensità; Il timbro; Corde e suoni
 - Il cinguettio di un uccellino, rispetto al muggito di una mucca, è un suono più...
@@ -45,6 +56,17 @@ concetti: Le arterie; Le vene; I capillari; Piccola e grande circolazione
 - Metti in ordine il percorso del sangue a partire dal ventricolo destro.
 - Perché le pareti delle arterie sono più spesse ed elastiche di quelle delle vene?
 - Perché i capillari devono avere pareti sottilissime?
+
+## Bicipite e tricipite in squadra [lib-5-elementare-scienze-muscoli-antagonisti-leve] · LEVA
+concetti: I muscoli tirano; Muscoli antagonisti; Ossa come leve; Il movimento coordinato
+- Quale muscolo si contrae quando pieghi il braccio per portare una mela alla bocca?
+- Un muscolo può spingere un osso oltre che tirarlo.
+- I muscoli che compiono movimenti opposti si chiamano ___.
+- Quale muscolo distende il braccio quando lanci una palla in avanti?
+- Nella leva del braccio, attorno a che cosa ruota l'avambraccio?
+- Quando il bicipite si contrae, che cosa fa il tricipite?
+- Chi manda ai muscoli il comando di contrarsi?
+- Se i muscoli sanno solo tirare, come fai a piegare e poi distendere la gamba?
 
 ## Caccia agli sprechi [lib-5-elementare-scienze-risparmio-energetico] · SPRECO
 concetti: Perché risparmiare; In casa; Riscaldamento e isolamento; Spostamenti
@@ -101,6 +123,17 @@ concetti: I carboidrati; Le proteine; I grassi; Vitamine e sali minerali
 - Il ferro, presente per esempio nei legumi e negli spinaci, è importante per i globuli rossi. A quale gruppo d…
 - Perché una dieta fatta solo di pasta, o solo di carne, non va bene per crescere?
 
+## Che ore sono dall'altra parte? [lib-5-elementare-scienze-di-notte-fusi-orari] · FUSO
+concetti: Dì e notte; Il Sole sorge a est; I fusi orari; Ore diverse nel mondo
+- Perché si alternano il dì e la notte?
+- Il Sole sorge a ovest e tramonta a est.
+- La Terra è divisa in ___ fusi orari.
+- Ogni fuso orario è largo circa 15 gradi. Perché proprio 15?
+- In Italia è mezzogiorno. A New York, 6 ore indietro, che ora è?
+- In Italia sono le 10 del mattino. A Tokyo, 8 ore avanti, che ora è?
+- Se viaggi verso est attraversando molti fusi orari, che cosa devi fare all'orologio?
+- Una tua cugina vive in Australia. Perché quando tu fai colazione lei sta per andare a dormire?
+
 ## Chi lascia passare la corrente? [lib-5-elementare-scienze-conduttori-isolanti-elettrici] · RAME
 concetti: Conduttori elettrici; Isolanti elettrici; I cavi elettrici; Sicurezza con l'elettricità
 - Quale di questi materiali conduce bene l'elettricità?
@@ -112,6 +145,17 @@ concetti: Conduttori elettrici; Isolanti elettrici; I cavi elettrici; Sicurezza 
 - Il corpo umano conduce l'elettricità?
 - Scrivi due regole di sicurezza da rispettare con prese e apparecchi elettrici e spiega perché sono importanti.
 
+## Cibi freschi più a lungo [lib-5-elementare-scienze-conservazione-cibi] · MUFFA
+concetti: Perché il cibo si guasta; Il freddo; Altri metodi; La scadenza
+- Chi fa ammuffire il pane dimenticato in un sacchetto?
+- Il frigorifero uccide tutti i microbi presenti nel cibo.
+- La data entro cui consumare un alimento si chiama data di ___.
+- In quali condizioni i microbi crescono più in fretta sul cibo?
+- Come si conservano a lungo i pomodori secchi o le albicocche secche?
+- Perché il gelato si tiene nel congelatore?
+- Il latte 'pastorizzato' è stato...
+- Perché in estate un panino al prosciutto lasciato nello zaino tutto il giorno può diventare pericoloso?
+
 ## Comete e stelle cadenti [lib-5-elementare-scienze-comete-asteroidi] · COMETA
 concetti: Gli asteroidi; Le comete; Meteore e meteoriti; I pianeti nani
 - Che cos'è in realtà una 'stella cadente'?
@@ -122,6 +166,50 @@ concetti: Gli asteroidi; Le comete; Meteore e meteoriti; I pianeti nani
 - Come si chiama un frammento di roccia spaziale che attraversa l'atmosfera e arriva fino al suolo?
 - In Italia, la notte di San Lorenzo, il 10 agosto, è famosa per...
 - Perché una cometa sviluppa la sua lunga coda solo quando si avvicina al Sole?
+
+## Corri e conta i battiti [lib-5-elementare-scienze-sport-cuore-respiro] · FIATO
+concetti: I muscoli chiedono ossigeno; Il cuore accelera; Il respiro accelera; Allenarsi fa bene
+- Che cosa succede ai battiti del cuore quando corri?
+- Durante lo sport respiri più velocemente perché i muscoli hanno bisogno di più ossigeno.
+- Con il respiro, oltre a prendere ossigeno, il corpo elimina l'anidride ___.
+- Metti in ordine il viaggio dell'ossigeno durante una corsa.
+- Perché le gambe di un ciclista hanno bisogno di tanto ossigeno?
+- Luca a riposo ha 80 battiti al minuto; dopo una corsa ne ha 140. Di quanti battiti è aumentato il suo cuore?
+- Una persona allenata, a riposo, di solito ha...
+- Perché è utile fare movimento regolarmente e non solo una volta ogni tanto?
+
+## Dal panino alla cellula [lib-5-elementare-scienze-ripasso-dal-piatto-alla-cellula] · PANINO
+concetti: La digestione; L'assorbimento; Il trasporto; Le scorie
+- Metti in ordine gli organi che il panino attraversa.
+- In quale organo i nutrienti passano nel sangue?
+- Nello stomaco il cibo viene mescolato con i succhi gastrici.
+- I nutrienti assorbiti arrivano alle cellule viaggiando nel ___.
+- Quale organo spinge il sangue con i nutrienti fino ai piedi?
+- Quale apparato elimina le scorie presenti nel sangue?
+- A che cosa servono i villi dell'intestino?
+- Spiega come lavorano insieme apparato digerente e apparato circolatorio per nutrire una cellula del tuo dito.
+
+## Dal suono all'elettricità e ritorno [lib-5-elementare-scienze-microfono-altoparlante] · CUFFIE
+concetti: Il microfono; L'altoparlante; La membrana; Ascoltare in sicurezza
+- Che cosa fa il microfono?
+- L'altoparlante trasforma un segnale elettrico in suono.
+- Nell'altoparlante la membrana è mossa da un ___.
+- Metti in ordine il viaggio della voce di un cantante fino alle casse del concerto.
+- Che cosa vibra dentro un altoparlante per produrre il suono?
+- Qual è il modo più sicuro di usare le cuffie?
+- In quale di questi oggetti c'è un microfono?
+- Spiega perché si può dire che microfono e altoparlante fanno uno il lavoro contrario dell'altro.
+
+## Dalla centrale alla presa [lib-5-elementare-scienze-centrale-elettrica] · TURBINA
+concetti: La centrale elettrica; Che cosa fa girare la turbina; Il viaggio della corrente; La centrale termoelettrica
+- Come si chiama la grande ruota a pale che, girando, fa funzionare il generatore?
+- In una centrale idroelettrica è l'acqua che cade a far girare la turbina.
+- Prima di arrivare nelle case, la corrente passa dai ___ che ne abbassano la tensione.
+- Metti in ordine ciò che succede in una centrale termoelettrica.
+- In un parco eolico, che cosa fa girare le pale?
+- In una centrale, il generatore trasforma...
+- Perché i cavi dell'alta tensione sono molto pericolosi e non bisogna mai avvicinarsi?
+- Perché si dice che una centrale termoelettrica a carbone e una centrale eolica fanno lo stesso lavoro in modo…
 
 ## Denti al lavoro [lib-5-elementare-scienze-denti-saliva] · SMALTO
 concetti: Tipi di denti; Struttura del dente; Saliva e lingua; Denti da latte e cura
@@ -144,6 +232,72 @@ concetti: Inspirazione ed espirazione; Il diaframma; Lo scambio dei gas; Ossigen
 - Metti in ordine il viaggio dell'ossigeno dall'aria fino a una cellula del tuo piede.
 - Dopo una corsa respiri più velocemente. Perché?
 - Spiega che cosa succede nel tuo corpo durante l'espirazione.
+
+## Dentro la nostra stella [lib-5-elementare-scienze-sole-struttura] · CORONA
+concetti: Una stella di gas; Grandezza e distanza; Macchie e corona; Il Sole e la vita
+- Di che cosa è fatto soprattutto il Sole?
+- La luce del Sole arriva sulla Terra in circa 8 minuti.
+- Le zone più scure e un po' meno calde sulla superficie del Sole si chiamano ___ solari.
+- Quante volte, circa, il Sole è più largo della Terra?
+- Quando si può vedere la corona solare a occhio nudo, con le dovute protezioni?
+- Perché si dice che il Sole è il 'motore' del ciclo dell'acqua?
+- Il Sole sembra molto più grande e luminoso delle altre stelle. Perché?
+- Immagina che il Sole si spegnesse all'improvviso. Spiega due conseguenze per la vita sulla Terra.
+
+## Dentro un osso vivo [lib-5-elementare-scienze-ossa-midollo-fratture] · CALCIO
+concetti: Un osso è vivo; Il midollo osseo; Calcio e crescita; Le fratture
+- Quale di queste frasi sulle ossa è giusta?
+- Il midollo osseo rosso produce le cellule del sangue.
+- Il minerale che rende le ossa dure e resistenti si chiama ___.
+- Quale alimento ti aiuta di più a fornire calcio alle ossa?
+- Perché a chi si rompe un braccio si mette il gesso?
+- Metti in ordine ciò che succede dopo una frattura.
+- Oltre al calcio, che cosa aiuta le ossa a diventare robuste?
+- Un osso rotto, con il tempo, guarisce da solo. Perché questo dimostra che le ossa sono vive?
+
+## Detective delle etichette [lib-5-elementare-scienze-etichette-zuccheri-sale] · DOLCE
+concetti: L'etichetta; Zuccheri nascosti; Troppo sale; Scegliere bene
+- Dove trovi l'elenco degli ingredienti di un biscotto confezionato?
+- Negli ingredienti, il primo della lista è quello presente in quantità maggiore.
+- Mangiare troppi dolci favorisce la ___ dei denti.
+- Quale bevanda contiene di solito più zuccheri aggiunti?
+- Perché si consiglia di non esagerare con patatine e salatini?
+- Due merendine: una ha 30 g di zuccheri per 100 g, l'altra 12 g. Quale è la scelta migliore per gli zuccheri?
+- Un succo ha come primo ingrediente 'zucchero' e come terzo 'succo di frutta'. Che cosa capisci?
+- Al supermercato devi scegliere dei cereali per la colazione. Come puoi usare l'etichetta per fare una scelta …
+
+## Donare sangue salva vite [lib-5-elementare-scienze-gruppi-sanguigni-donazione] · DONARE
+concetti: I gruppi sanguigni; La trasfusione; Il donatore; A che cosa serve
+- Quali sono i quattro gruppi sanguigni principali?
+- Per una trasfusione va bene il sangue di qualsiasi persona.
+- Dare sangue a una persona che ne ha perso molto si chiama ___.
+- Chi può donare il sangue?
+- Perché le donazioni di sangue sono così importanti?
+- Dopo una donazione, che cosa succede al sangue del donatore?
+- In quale di queste situazioni può servire una trasfusione?
+- Perché prima di una trasfusione i medici controllano il gruppo sanguigno del paziente?
+
+## Dove sono finite le stelle? [lib-5-elementare-scienze-inquinamento-luminoso] · BUIO
+concetti: L'inquinamento luminoso; Stelle nascoste; Danni agli animali; Rimedi
+- Dove si vedono più stelle di notte?
+- Anche la luce può essere una forma di inquinamento.
+- Per ridurre l'inquinamento luminoso i lampioni dovrebbero illuminare verso il ___.
+- Le tartarughine marine appena nate devono raggiungere il mare di notte. Perché le luci della spiaggia sono un…
+- Che cosa succede a molti insetti notturni attorno ai lampioni?
+- Quale di queste è una causa di inquinamento luminoso?
+- Quale comportamento aiuta a ridurre l'inquinamento luminoso a casa tua?
+- Spiega perché l'inquinamento luminoso può essere un problema per gli uccelli che migrano di notte.
+
+## Energia in movimento e in attesa [lib-5-elementare-scienze-energia-cinetica-potenziale] · MOLLA
+concetti: Energia cinetica; Energia potenziale; Una si trasforma nell'altra; Esempi di ogni giorno
+- Quale di questi oggetti ha energia cinetica?
+- Un vaso appoggiato su uno scaffale alto ha energia potenziale.
+- Un arco teso o una molla schiacciata possiedono energia ___.
+- Due biciclette vanno alla stessa velocità: una è guidata da un bambino, l'altra da un adulto pesante. Quale h…
+- Sei in cima a uno scivolo e scendi. Che trasformazione avviene?
+- Metti in ordine ciò che succede su un'altalena, partendo da quando sei fermo nel punto più alto.
+- Da quale altezza un sasso arriva a terra più veloce?
+- Spiega perché le montagne russe partono sempre con una prima salita molto alta.
 
 ## Energia in tutte le forme [lib-5-elementare-scienze-forme-di-energia] · ENERGIA
 concetti: Che cos'è l'energia; Le forme di energia; L'energia chimica; Il Sole, grande fonte
@@ -178,6 +332,17 @@ concetti: Energia idroelettrica; Energia geotermica; Le biomasse; Energia del ma
 - Perché le centrali idroelettriche si costruiscono soprattutto in montagna?
 - Perché l'acqua dei fiumi è una fonte di energia rinnovabile? Pensa al ciclo dell'acqua.
 
+## Galileo punta il cannocchiale [lib-5-elementare-scienze-galileo-telescopio] · GALILEO
+concetti: Geocentrico ed eliocentrico; Il cannocchiale di Galileo; Le scoperte; Il metodo scientifico
+- Che cosa sostiene il modello eliocentrico?
+- Galileo scoprì dei satelliti che giravano attorno a Giove.
+- Lo strumento con cui Galileo osservò il cielo fu il ___.
+- Chi, prima di Galileo, propose che il Sole fosse al centro?
+- Perché la scoperta dei satelliti di Giove fu così importante?
+- Metti in ordine i passi del metodo scientifico di Galileo.
+- Che cosa vide Galileo osservando la Luna con il cannocchiale?
+- Perché si dice che Galileo ha cambiato il modo di fare scienza?
+
 ## Giochi d'ombra [lib-5-elementare-scienze-ombre-materiali] · OMBRA
 concetti: Trasparenti, traslucidi, opachi; Come nasce l'ombra; Ombre lunghe e corte; La meridiana
 - Il vetro della finestra lascia passare la luce e ti fa vedere bene ciò che c'è fuori. È un materiale...
@@ -188,6 +353,17 @@ concetti: Trasparenti, traslucidi, opachi; Come nasce l'ombra; Ombre lunghe e co
 - A che cosa serviva la meridiana?
 - Perché d'estate sotto un albero si sta più freschi?
 - Perché al tramonto le ombre sono molto lunghe, mentre a mezzogiorno sono corte?
+
+## Grande sfida del sistema solare [lib-5-elementare-scienze-ripasso-sistema-solare] · NETTUNO
+concetti: Gli otto pianeti; Rocciosi e gassosi; I record; Più lontano, anno più lungo
+- Qual è il pianeta più grande del sistema solare?
+- Metti in ordine questi pianeti dal più vicino al più lontano dal Sole.
+- La fascia degli asteroidi si trova tra Marte e Giove.
+- Il pianeta più caldo del sistema solare è ___, grazie alla sua densa atmosfera.
+- Quale gruppo contiene solo pianeti rocciosi?
+- Quale pianeta ha l'anno più lungo?
+- Mercurio è più vicino al Sole di Venere, eppure Venere è più caldo. Perché?
+- Un tuo amico dice: 'Più un pianeta è lontano dal Sole, più dura il suo anno.' Ha ragione? Spiega usando due p…
 
 ## I filtri del corpo [lib-5-elementare-scienze-apparato-escretore] · RENI
 concetti: I reni filtrano il sangue; Il percorso dell'urina; Il sudore; L'importanza dell'acqua
@@ -244,6 +420,28 @@ concetti: Il sangue trasporta tutto; Respirazione e circolazione; Il sistema ner
 - Le cellule producono anidride carbonica e altri scarti, che il sangue porta via. Quali organi li eliminano?
 - Scegli un'azione, per esempio giocare a calcio, e spiega come collaborano almeno tre apparati.
 
+## Il fiume nascosto della linfa [lib-5-elementare-scienze-sistema-linfatico] · LINFA
+concetti: La linfa; I linfonodi; Difese e linfociti; Linfonodi gonfi
+- Che aspetto ha la linfa?
+- La linfa scorre in vasi speciali chiamati vasi linfatici.
+- I piccoli filtri lungo i vasi linfatici si chiamano ___.
+- Quali cellule lavorano nei linfonodi per difenderci?
+- Hai mal di gola e il medico sente delle palline gonfie sul collo. Che cosa sono probabilmente?
+- A che cosa servono i linfonodi?
+- Con quali altre cellule collabora il sistema linfatico per proteggerti?
+- Perché i linfonodi gonfi possono essere un segnale che il corpo sta combattendo un'infezione?
+
+## Il giorno in più di febbraio [lib-5-elementare-scienze-anno-bisestile] · ANNO
+concetti: La rivoluzione; Le 6 ore in più; L'anno bisestile; Riconoscere un bisestile
+- Quanto tempo impiega la Terra per girare attorno al Sole?
+- In un anno bisestile febbraio ha 29 giorni.
+- Un anno bisestile ha ___ giorni.
+- Perché si aggiunge un giorno ogni 4 anni?
+- Quale di questi anni è bisestile?
+- Il 2024 è stato bisestile. Qual è il bisestile successivo?
+- Che cosa succederebbe se non esistessero gli anni bisestili?
+- Una bambina nata il 29 febbraio dice che festeggia il 'vero' compleanno solo ogni 4 anni. Spiega perché.
+
 ## Il lungo viaggio del cibo [lib-5-elementare-scienze-stomaco-intestino] · VILLI
 concetti: Esofago e stomaco; Intestino tenue e assorbimento; Fegato e pancreas; Intestino crasso
 - Quale tubo porta il cibo dalla gola allo stomaco?
@@ -254,6 +452,28 @@ concetti: Esofago e stomaco; Intestino tenue e assorbimento; Fegato e pancreas; 
 - Qual è il compito principale dell'intestino crasso?
 - Metti in ordine il viaggio del cibo nell'apparato digerente.
 - Perché i villi intestinali sono così numerosi? Che cosa succederebbe se l'intestino tenue fosse liscio?
+
+## Il lungo viaggio dell'ossigeno [lib-5-elementare-scienze-ripasso-viaggio-ossigeno] · GLOBULO
+concetti: Respirare; Passaggio nel sangue; Il cuore spinge; Nelle cellule
+- Quali cellule del sangue trasportano l'ossigeno?
+- Metti in ordine il percorso dell'aria quando inspiri.
+- Le cellule usano l'ossigeno per produrre energia.
+- Lo scambio tra aria e sangue avviene in piccoli sacchetti dei polmoni chiamati ___.
+- Quale organo spinge il sangue ricco di ossigeno verso tutto il corpo?
+- Che cosa porta il sangue dalle cellule ai polmoni?
+- Il sangue ricco di ossigeno lascia il cuore viaggiando in quali vasi?
+- Spiega perché, se smettiamo di respirare, le cellule del corpo vanno in difficoltà in pochi minuti.
+
+## Il mare che sale e scende [lib-5-elementare-scienze-maree] · MAREA
+concetti: Che cosa sono le maree; La Luna attira l'acqua; Due volte al giorno; Maree grandi e piccole
+- Quale corpo celeste causa soprattutto le maree?
+- In molti luoghi l'alta marea arriva circa due volte al giorno.
+- Quando il livello del mare si abbassa si parla di bassa ___.
+- Perché nel Mediterraneo le maree sono molto più piccole che sulle coste dell'oceano Atlantico?
+- Sei su una spiaggia dell'oceano: al mattino la sabbia è larghissima, il pomeriggio il mare arriva quasi agli …
+- Oltre alla Luna, quale altro corpo celeste influisce sulle maree?
+- Un pescatore sulla costa atlantica vede l'alta marea alle 6 del mattino. Circa quando arriverà la successiva …
+- Spiega con parole tue perché l'acqua degli oceani si muove con le maree anche se nessuno la spinge.
 
 ## Il mondo allo specchio [lib-5-elementare-scienze-riflessione-specchi] · SPECCHI
 concetti: La riflessione; Superfici lisce e ruvide; Lo specchio piano; Specchi utili
@@ -277,6 +497,17 @@ concetti: Un muscolo che pompa; Atri e ventricoli; Le valvole; Battito e polso
 - Perché le pareti del ventricolo sinistro sono più spesse di quelle del destro?
 - Perché, quando fai una corsa, il cuore batte più forte e più in fretta?
 
+## Il pianeta giusto per vivere [lib-5-elementare-scienze-terra-pianeta-vita] · OZONO
+concetti: La distanza giusta; L'acqua liquida; L'atmosfera; Lo strato di ozono
+- Quale caratteristica rende la Terra speciale nel sistema solare?
+- L'atmosfera terrestre contiene l'ossigeno che respiriamo.
+- Lo strato di ___ filtra gran parte dei raggi ultravioletti del Sole.
+- Che cosa succederebbe all'acqua se la Terra fosse molto più vicina al Sole, come Venere?
+- E se la Terra fosse molto più lontana dal Sole, come Marte o oltre?
+- Perché le stelle cadenti bruciano prima di toccare terra?
+- Perché è importante proteggere lo strato di ozono?
+- Elenca tre condizioni che permettono la vita sulla Terra e spiega perché sono importanti.
+
 ## Il segreto dei colori [lib-5-elementare-scienze-colori-luce] · PRISMA
 concetti: La luce bianca; L'arcobaleno; Il colore degli oggetti; Colori e calore
 - Di che cosa è formata la luce bianca del Sole?
@@ -298,6 +529,50 @@ concetti: L'asse inclinato; Raggi diretti e inclinati; Solstizi ed equinozi; Emi
 - Metti in ordine queste date dell'anno, a partire da gennaio.
 - Di quanti gradi è inclinato, circa, l'asse della Terra?
 - Perché in Australia il Natale si festeggia spesso in spiaggia?
+
+## Il superpotere del sonno [lib-5-elementare-scienze-sonno-riposo] · SONNO
+concetti: Perché dormiamo; Il cervello di notte; Quante ore; Dormire bene
+- Circa quante ore dovrebbe dormire ogni notte un bambino di 10 anni?
+- Mentre dormi il tuo corpo si spegne completamente e non fa niente.
+- Di notte il corpo produce molto ormone della ___.
+- Hai studiato le tabelline e poi hai dormito bene. Che cosa succede?
+- Quale abitudine aiuta di più ad addormentarsi?
+- Che cosa succede se per molti giorni dormi troppo poco?
+- Perché è utile andare a letto più o meno sempre alla stessa ora?
+- Il giorno prima di una verifica, è meglio studiare fino a mezzanotte o dormire bene? Spiega perché.
+
+## Il telefono con i barattoli [lib-5-elementare-scienze-telefono-spago] · SPAGO
+concetti: Il suono nei solidi; Il telefono a barattoli; Lo spago teso; Ascoltare attraverso i solidi
+- Nel telefono a barattoli, che cosa trasporta la voce da un barattolo all'altro?
+- Il telefono a barattoli funziona meglio se lo spago è ben teso.
+- Il suono si propaga più velocemente nei ___ che nell'aria.
+- Un compagno tocca con un dito lo spago tra i barattoli. Che cosa succede?
+- Appoggi l'orecchio a un'estremità di un tavolo e un amico batte piano all'altra. Che cosa noti?
+- Metti in ordine il viaggio della voce nel telefono a barattoli.
+- Nei vecchi film d'avventura qualcuno appoggia l'orecchio al binario per capire se arriva il treno. Perché fun…
+- Il tuo telefono a barattoli non funziona. Quali possono essere le cause e come le risolvi?
+
+## Il termostato del corpo [lib-5-elementare-scienze-febbre-termoregolazione] · FEBBRE
+concetti: Temperatura normale; Quando fa caldo; Quando fa freddo; La febbre
+- Qual è, più o meno, la temperatura normale del corpo umano?
+- Il sudore aiuta il corpo a raffreddarsi.
+- Quando hai freddo i muscoli tremano: sono i ___.
+- Perché il corpo alza la temperatura quando ha un'infezione?
+- Fuori ci sono 35 °C e tu stai bene. Quale sarà più o meno la tua temperatura interna?
+- Perché dopo una corsa hai la faccia rossa e sudi?
+- Con quale strumento si misura la febbre?
+- Spiega come il corpo cerca di mantenere la temperatura giusta sia d'estate sia d'inverno.
+
+## Il triangolo del fuoco [lib-5-elementare-scienze-combustione-fuoco] · FUOCO
+concetti: La combustione; Il triangolo del fuoco; Spegnere il fuoco; Cosa si forma
+- Quale gas dell'aria serve perché un fuoco possa bruciare?
+- Dopo aver bruciato un foglio di carta puoi riottenere il foglio di partenza.
+- Il legno nel camino è il ___, cioè ciò che brucia.
+- Copri una candela accesa con un barattolo di vetro. Dopo poco la fiamma si spegne. Perché?
+- Che cosa libera la combustione?
+- I vigili del fuoco gettano acqua sulle fiamme. Quale elemento del triangolo tolgono soprattutto?
+- Perché su un fornello a gas acceso non si deve mai lasciare uno strofinaccio vicino alla fiamma?
+- In un incendio nel bosco, i forestali a volte tagliano una striscia di alberi davanti alle fiamme. Perché fun…
 
 ## Il viaggio del suono nell'orecchio [lib-5-elementare-scienze-orecchio-udito] · TIMPANO
 concetti: Orecchio esterno; Orecchio medio; Orecchio interno ed equilibrio; Proteggere l'udito
@@ -343,6 +618,17 @@ concetti: Funzioni dello scheletro; Le parti dello scheletro; Ossa lunghe, piatt
 - Un neonato ha circa 300 ossa, un adulto 206. Perché?
 - Che cosa puoi fare ogni giorno per avere ossa sane e forti? Spiega almeno due abitudini.
 
+## La forza che frena [lib-5-elementare-scienze-attrito] · ATTRITO
+concetti: Che cos'è l'attrito; Superfici lisce e ruvide; Attrito utile; Attrito e calore
+- Su quale superficie una pallina rotola più a lungo?
+- Strofinando le mani una contro l'altra si produce calore.
+- La forza che si oppone allo strisciamento di due superfici si chiama ___.
+- Perché d'inverno si spargono sabbia o sale sulle strade ghiacciate?
+- Le scarpe da calcio hanno i tacchetti. A che cosa servono?
+- Perché si mette l'olio sulla catena della bicicletta?
+- Che cosa succederebbe se all'improvviso non ci fosse più attrito?
+- Fai un esempio in cui l'attrito è utile e uno in cui è un problema, spiegando perché.
+
 ## La Luna cambia faccia [lib-5-elementare-scienze-fasi-lunari] · FALCE
 concetti: Perché la Luna cambia aspetto; Le fasi lunari; Il mese lunare; La faccia nascosta
 - Come si chiama la fase in cui la Luna appare come un disco tutto illuminato?
@@ -376,6 +662,17 @@ concetti: Il neurone; Sistema nervoso centrale; Nervi sensitivi e motori; Le par
 - Metti in ordine che cosa succede quando senti la campanella e ti alzi.
 - Perché il cervello e il midollo spinale sono protetti da ossa come il cranio e le vertebre?
 
+## La stella che indica il nord [lib-5-elementare-scienze-stella-polare] · POLARE
+concetti: La Stella Polare; Ferma nel cielo; Come trovarla; Orientarsi di notte
+- Quale punto cardinale indica la Stella Polare?
+- Durante la notte la Stella Polare sembra restare quasi ferma mentre le altre stelle ruotano.
+- La Stella Polare fa parte della costellazione dell'Orsa ___.
+- Quale gruppo di stelle aiuta a trovare la Stella Polare?
+- Di notte guardi la Stella Polare davanti a te. Dove si trova il sud?
+- Guardando la Stella Polare, dove si trova l'est?
+- Perché un bambino in Australia non riesce a vedere la Stella Polare?
+- Sei in barca di notte senza bussola né telefono. Come puoi capire da che parte andare per dirigerti verso nor…
+
 ## La strada dell'aria [lib-5-elementare-scienze-vie-respiratorie] · ALVEOLI
 concetti: Naso e prime vie; Trachea, bronchi e polmoni; Gli alveoli polmonari; Laringe ed epiglottide
 - Perché è meglio respirare con il naso che con la bocca?
@@ -387,6 +684,39 @@ concetti: Naso e prime vie; Trachea, bronchi e polmoni; Gli alveoli polmonari; L
 - Quando deglutisci, una piccola 'linguetta' chiude la laringe perché il cibo non vada nelle vie dell'aria. Com…
 - Perché i polmoni contengono milioni di alveoli invece di un unico grande sacco d'aria?
 
+## La voce nasce in gola [lib-5-elementare-scienze-voce-corde-vocali] · CORDE
+concetti: Le corde vocali; Acuto o grave; Dal suono alle parole; La voce che cambia
+- In quale organo si trovano le corde vocali?
+- Per parlare usiamo l'aria che esce dai polmoni.
+- Le corde vocali producono il suono perché ___.
+- Perché di solito la voce di un bambino è più acuta di quella di un uomo adulto?
+- Prova a dire 'mamma' tenendo la lingua ferma e la bocca chiusa. Che cosa capisci?
+- Che cosa succede alla voce di molti ragazzi durante la pubertà?
+- Dopo aver urlato tutto il pomeriggio allo stadio sei rauco. Perché?
+- Descrivi il percorso che compie l'aria per diventare la parola 'ciao'.
+
+## Lampadine in fila o in parallelo [lib-5-elementare-scienze-circuiti-serie-parallelo] · SERIE
+concetti: Il circuito in serie; Il circuito in parallelo; Se una si guasta; L'impianto di casa
+- In un circuito in serie, quanti percorsi può seguire la corrente?
+- In un circuito in parallelo ogni lampadina ha il suo ramo.
+- Nell'impianto elettrico di casa gli apparecchi sono collegati in ___.
+- Tre lampadine sono collegate in serie. Ne sviti una. Che cosa succede alle altre?
+- Tre lampadine sono collegate in parallelo. Ne sviti una. Che cosa succede alle altre?
+- Perché sarebbe scomodo se in casa le lampade fossero collegate in serie?
+- Quale disegno descrive un circuito in serie?
+- Hai una fila di luci decorative: se una si brucia, si spengono tutte. Come sono collegate, secondo te, e perc…
+
+## Lampadine: ieri e oggi [lib-5-elementare-scienze-tipi-lampadine] · LAMPADA
+concetti: La lampadina a incandescenza; Le lampadine LED; Efficienza; Edison e l'invenzione
+- Che cosa fa luce in una lampadina a incandescenza?
+- Le lampadine LED consumano meno energia di quelle a incandescenza.
+- Lo scienziato americano che rese pratica la lampadina a incandescenza si chiamava Thomas ___.
+- Tocchi una vecchia lampadina accesa da un po': scotta. Che cosa capisci?
+- Che cosa vuol dire che una lampadina è più efficiente?
+- Quale vantaggio hanno i LED oltre a consumare meno?
+- Una casa sostituisce 10 lampadine vecchie da 60 W con LED da 8 W. Quanti watt in meno consumano tutte insieme…
+- Perché in molti paesi le vecchie lampadine a incandescenza sono state sostituite dai LED?
+
 ## Le difese del corpo [lib-5-elementare-scienze-difese-vaccini] · VACCINO
 concetti: Microbi e malattie; Le prime barriere; Globuli bianchi e anticorpi; I vaccini
 - Come si chiamano i piccolissimi esseri viventi che possono causare malattie, come i batteri?
@@ -397,6 +727,28 @@ concetti: Microbi e malattie; Le prime barriere; Globuli bianchi e anticorpi; I 
 - Come agisce un vaccino?
 - Chi ha avuto la varicella di solito non la prende una seconda volta. Perché?
 - Perché vaccinarsi protegge non solo te, ma anche le persone che ti stanno vicino?
+
+## Le piante catturano il Sole [lib-5-elementare-scienze-fotosintesi-energia] · FOGLIA
+concetti: La fotosintesi; La clorofilla; Energia nella catena alimentare; Ossigeno per tutti
+- Di che cosa ha bisogno una pianta per fare la fotosintesi?
+- Con la fotosintesi le piante liberano ossigeno.
+- Il pigmento verde che cattura la luce si chiama ___.
+- Metti in ordine il passaggio dell'energia del Sole in una catena alimentare.
+- Da dove viene, all'inizio, l'energia contenuta in una bistecca?
+- Una piantina viene chiusa per giorni in un armadio buio. Che cosa succede?
+- Perché si dice che i boschi sono 'polmoni verdi'?
+- Spiega perché senza piante non ci sarebbe cibo nemmeno per i carnivori.
+
+## Mani pulite, microbi in fuga [lib-5-elementare-scienze-igiene-mani-microbi] · SAPONE
+concetti: I microbi; Come si diffondono; Lavarsi le mani; Buone abitudini
+- Con quale strumento si possono vedere i batteri?
+- Tutti i microbi sono dannosi per l'uomo.
+- Per lavare bene le mani servono acqua e ___.
+- Per quanto tempo, circa, conviene strofinare le mani con il sapone?
+- In quale di questi modi un raffreddore passa più facilmente da una persona all'altra?
+- Stai per starnutire e non hai un fazzoletto. Che cosa è meglio fare?
+- Perché bisogna lavarsi le mani prima di mangiare?
+- Perché le maniglie delle porte e i corrimano possono aiutare a diffondere le malattie?
 
 ## Matite spezzate e lenti [lib-5-elementare-scienze-rifrazione-lenti] · LENTE
 concetti: La rifrazione; Le lenti; Strumenti ottici; Il cristallino
@@ -420,6 +772,17 @@ concetti: La cellula, unità di vita; Le parti della cellula; Tessuti e organi; 
 - Stomaco, intestino e fegato lavorano insieme per digerire il cibo. Che cosa formano tutti insieme?
 - Spiega come sono collegati cellule, tessuti, organi e apparati, facendo un esempio.
 
+## Messaggeri chimici del corpo [lib-5-elementare-scienze-ghiandole-ormoni] · ORMONE
+concetti: Gli ormoni; Le ghiandole; Crescita e sviluppo; L'adrenalina
+- Come viaggiano gli ormoni nel corpo?
+- Gli ormoni sono prodotti dalle ghiandole.
+- L'ormone che ti fa diventare più alto si chiama ormone della ___.
+- Un cane ti abbaia all'improvviso: il cuore batte forte e respiri veloce. Quale ormone è entrato in azione?
+- Quale ghiandola si trova davanti al collo?
+- Che differenza c'è tra i messaggi dei nervi e quelli degli ormoni?
+- In quale periodo della vita molti ormoni cambiano il corpo da bambino ad adulto?
+- Perché l'adrenalina è utile quando sei in pericolo?
+
 ## Missione: esplorare lo spazio [lib-5-elementare-scienze-esplorazione-spaziale] · RAZZO
 concetti: I primi viaggi; Lo sbarco sulla Luna; La Stazione spaziale internazionale; I satelliti artificiali
 - Chi è stato il primo uomo a camminare sulla Luna?
@@ -442,6 +805,50 @@ concetti: Volontari e involontari; Contrazione e rilassamento; I tendini; Muscol
 - Perché prima di una partita è utile fare il riscaldamento?
 - Spiega la differenza tra muscoli volontari e involontari, con un esempio per ciascuno.
 
+## Passeggiata tra i crateri [lib-5-elementare-scienze-luna-crateri] · CRATERE
+concetti: La Luna, satellite della Terra; Niente atmosfera; I crateri; Temperature estreme
+- Che cos'è la Luna?
+- Sulla Luna c'è aria che gli astronauti possono respirare.
+- Le buche rotonde scavate dai meteoriti sulla Luna si chiamano ___.
+- Perché le impronte degli astronauti sulla Luna sono ancora lì dopo tanti anni?
+- Di che colore apparirebbe il cielo a un astronauta sulla Luna, di giorno?
+- Perché sulla Luna le temperature cambiano così tanto tra luce e buio?
+- Circa a quale distanza dalla Terra si trova la Luna?
+- La Terra è stata colpita da tanti meteoriti quanto la Luna, ma ha molti meno crateri visibili. Perché?
+
+## Perché le cose cadono? [lib-5-elementare-scienze-gravita-peso] · PESO
+concetti: La forza di gravità; Massa e peso; Gravità sulla Luna; Newton e la gravità
+- Perché una mela si stacca dal ramo e cade a terra?
+- Se un astronauta va sulla Luna, la sua massa resta la stessa.
+- Sulla Luna la gravità è circa ___ volte più debole che sulla Terra.
+- Perché gli astronauti sulla Luna riuscivano a fare grandi salti?
+- Quale grandezza cambia se porti un sasso dalla Terra a Giove?
+- Chi capì che la stessa forza fa cadere i corpi e tiene la Luna attorno alla Terra?
+- Lasci cadere una palla ai Poli e una all'Equatore. In che direzione cadono?
+- Spiega la differenza tra massa e peso usando l'esempio di un astronauta che va sulla Luna.
+
+## Piccole ferite, grandi riparazioni [lib-5-elementare-scienze-ferite-primo-soccorso] · CEROTTO
+concetti: La coagulazione; La crosta; Curare una sbucciatura; Chiedere aiuto
+- Quali parti del sangue formano un tappo quando ti tagli?
+- Conviene staccare la crosta appena si forma.
+- In Italia il numero unico per le emergenze è il ___.
+- Metti in ordine come si cura una piccola sbucciatura al ginocchio.
+- A che cosa serve la crosta?
+- Perché si disinfetta una ferita?
+- Un compagno cade e ha una ferita profonda che sanguina molto. Che cosa fai per prima cosa?
+- Che cosa succederebbe se il sangue non riuscisse a coagulare?
+
+## Pile scariche, dove vanno? [lib-5-elementare-scienze-pile-riciclo] · RICICLO
+concetti: Come funziona una pila; Pile esauste; Smaltirle bene; Pile ricaricabili
+- Che tipo di energia è immagazzinata in una pila?
+- Le pile scariche si possono buttare insieme ai rifiuti di casa.
+- I due poli di una pila sono il polo positivo e il polo ___.
+- Dove si devono portare le pile esauste?
+- Perché una pila buttata in un prato è dannosa?
+- Quale scelta produce meno rifiuti per un telecomando usato ogni giorno?
+- Perché una pila prima o poi si scarica?
+- Spiega perché è importante raccogliere separatamente le pile esauste.
+
 ## Più veloce del pensiero [lib-5-elementare-scienze-riflessi-emisferi] · SCATTO
 concetti: Atti volontari; Atti riflessi; I due emisferi; Cura del cervello
 - Quale di queste azioni è un riflesso?
@@ -452,6 +859,17 @@ concetti: Atti volontari; Atti riflessi; I due emisferi; Cura del cervello
 - Impari ad andare in bicicletta: all'inizio ci pensi molto, poi lo fai quasi senza pensarci. Che cosa è succes…
 - Perché è importante dormire abbastanza ogni notte?
 - Perché è importante indossare il casco quando vai in bicicletta o sui pattini?
+
+## Polmoni senza fumo [lib-5-elementare-scienze-fumo-polmoni] · FUMO
+concetti: Che cosa c'è nel fumo; Danni ai polmoni; Il fumo passivo; Aria pulita
+- La nicotina contenuta nel tabacco crea dipendenza: chi fuma fa fatica a smettere.
+- Quale sostanza del fumo si deposita nei polmoni e li sporca come una vernice scura?
+- Respirare il fumo delle sigarette degli altri si chiama fumo ___.
+- Perché un fumatore spesso ha il fiatone salendo le scale?
+- Perché è vietato fumare nei luoghi pubblici chiusi, come bar e scuole?
+- Quale abitudine aiuta di più i tuoi polmoni a restare in forma?
+- Un tuo zio smette di fumare. Che cosa succede ai suoi polmoni col passare del tempo?
+- Spiega a un amico perché il fumo fa male anche a chi non fuma.
 
 ## Prima il lampo, poi il tuono [lib-5-elementare-scienze-velocita-suono-eco] · TUONO
 concetti: La velocità del suono; Lampo e tuono; L'eco; Suoni per orientarsi
@@ -486,6 +904,39 @@ concetti: L'eclissi di Sole; L'eclissi di Luna; Allineamenti rari; Osservare in 
 - Qual è il modo sicuro per osservare un'eclissi di Sole?
 - Spiega la differenza tra un'eclissi di Sole e un'eclissi di Luna, indicando chi sta in mezzo in ciascun caso.
 
+## Quanta energia c'è nel cibo? [lib-5-elementare-scienze-calorie-energia-cibo] · CALORIA
+concetti: Le calorie; Chi dà più energia; Il corpo consuma sempre; L'equilibrio
+- In quale unità si misura l'energia che dà il cibo?
+- Mentre dormi il tuo corpo non consuma energia.
+- Un grammo di grassi dà circa ___ kcal, più del doppio dei carboidrati.
+- Quanta energia danno circa 10 g di grassi?
+- Una merenda contiene 20 g di carboidrati. Circa quanta energia fornisce da questi carboidrati?
+- Chi consuma più energia in un'ora?
+- Che cosa succede se ogni giorno mangi molta più energia di quella che consumi?
+- Perché un calciatore che si allena ogni giorno ha bisogno di mangiare più di un bambino che fa poco movimento?
+
+## Quanta energia consuma casa? [lib-5-elementare-scienze-consumi-elettrodomestici] · WATT
+concetti: La potenza; Il consumo; La classe energetica; Piccoli sprechi
+- In quale unità si misura la potenza di una lampadina?
+- Sull'etichetta energetica la classe A indica gli apparecchi più efficienti.
+- L'energia consumata in casa si legge in bolletta in ___.
+- Una lampadina da 10 W resta accesa per 5 ore. Quanta energia consuma?
+- Quale apparecchio ha di solito la potenza più alta?
+- Che cosa vuol dire lasciare la TV in stand-by?
+- Una lampadina vecchia da 60 W e una LED da 8 W fanno la stessa luce. Quanti watt risparmi ogni ora con la LED?
+- Elenca due abitudini che una famiglia può adottare per consumare meno energia elettrica e spiega perché funzi…
+
+## Rinnovabile o no? Il grande ripasso [lib-5-elementare-scienze-ripasso-fonti-energia] · FONTE
+concetti: Fonti rinnovabili; Fonti non rinnovabili; Vantaggi e svantaggi; Scegliere il futuro
+- Quale di queste fonti è rinnovabile?
+- Il carbone si forma di nuovo in pochi anni.
+- Le centrali che usano il calore interno della Terra sfruttano l'energia ___.
+- Qual è uno svantaggio dei pannelli solari?
+- Qual è il principale svantaggio dei combustibili fossili?
+- Quale gruppo contiene solo fonti non rinnovabili?
+- Un paese di montagna ventoso e pieno di torrenti vuole energia pulita. Quali fonti gli conviene usare?
+- Perché si dice che passare alle fonti rinnovabili è una scelta per il futuro?
+
 ## Rumori e strumenti musicali [lib-5-elementare-scienze-rumore-strumenti] · DECIBEL
 concetti: Suoni e rumori; Inquinamento acustico; Strumenti musicali; Difendersi dal rumore
 - A quale famiglia di strumenti appartiene il tamburo?
@@ -496,6 +947,28 @@ concetti: Suoni e rumori; Inquinamento acustico; Strumenti musicali; Difendersi 
 - Il violino è uno strumento ad arco. Che cosa vibra per produrre il suono?
 - Che differenza c'è, di solito, tra un suono musicale e un rumore?
 - La tua scuola è vicina a una strada molto trafficata. Proponi due soluzioni per ridurre il rumore in classe e…
+
+## Schiena dritta, zaino leggero [lib-5-elementare-scienze-colonna-postura] · COLONNA
+concetti: La colonna vertebrale; Il midollo protetto; Le curve della colonna; La postura corretta
+- Come si chiamano le piccole ossa che formano la colonna vertebrale?
+- La colonna vertebrale è un unico osso lungo e rigido.
+- Dentro la colonna vertebrale passa il midollo ___, che porta i messaggi dei nervi.
+- A che cosa servono le curve naturali della colonna?
+- Qual è il modo migliore di portare lo zaino?
+- Mentre fai i compiti, quale posizione è più corretta?
+- Perché non bisogna mai tuffarsi di testa dove l'acqua è bassa?
+- Il tuo zaino pesa moltissimo e lo porti sempre su una spalla. Che cosa potrebbe succedere alla schiena e che …
+
+## Scintille, palloncini e fulmini [lib-5-elementare-scienze-elettricita-statica-fulmini] · FULMINE
+concetti: Cariche elettriche; Attrazione e repulsione; L'elettricità statica; I fulmini
+- Strofini un palloncino sui capelli e lo avvicini a pezzetti di carta. Che cosa succede?
+- Due cariche elettriche dello stesso tipo si attraggono.
+- Il dispositivo che protegge gli edifici guidando il fulmine a terra si chiama ___.
+- Che cosa succede quando strofini certi materiali tra loro?
+- Due palloncini strofinati allo stesso modo sui capelli si avvicinano. Che cosa fanno?
+- Durante un temporale sei all'aperto. Che cosa NON devi fare?
+- Perché il parafulmine è fatto di metallo ed è collegato al terreno?
+- Togliendo un maglione di lana al buio a volte vedi piccole scintille. Come lo spieghi?
 
 ## Sole e vento al lavoro [lib-5-elementare-scienze-energia-solare-eolica] · EOLICO
 concetti: Fonti rinnovabili; Energia solare; Energia eolica; Vantaggi e limiti
@@ -508,6 +981,17 @@ concetti: Fonti rinnovabili; Energia solare; Energia eolica; Vantaggi e limiti
 - Perché si usano insieme diverse fonti rinnovabili, come sole e vento?
 - Perché le fonti rinnovabili sono considerate più rispettose dell'ambiente di petrolio e carbone?
 
+## Sole sì, ma con la crema [lib-5-elementare-scienze-pelle-sole-raggi-uv] · CREMA
+concetti: I raggi ultravioletti; La melanina; Le scottature; Proteggersi
+- Come si chiama il pigmento che scurisce la pelle al sole e la protegge?
+- I raggi ultravioletti del Sole sono invisibili ai nostri occhi.
+- Per proteggere la pelle al mare si spalma la crema ___.
+- In quali ore d'estate è meglio stare all'ombra?
+- Che cosa succede alla pelle con una scottatura?
+- È nuvoloso al mare. Ti serve comunque la crema?
+- Perché un po' di sole fa bene al corpo?
+- Perché le persone con la pelle molto chiara si scottano più facilmente?
+
 ## Stelle, costellazioni e galassie [lib-5-elementare-scienze-stelle-galassie] · STELLA
 concetti: Le stelle; Stelle lontanissime; Le costellazioni; Le galassie
 - Che cos'è una stella?
@@ -518,6 +1002,28 @@ concetti: Le stelle; Stelle lontanissime; Le costellazioni; Le galassie
 - Quante stelle contiene, più o meno, una galassia come la Via Lattea?
 - Perché di giorno non vediamo le altre stelle, anche se sono nel cielo?
 - Quando guardi una stella lontana, vedi una luce partita moltissimi anni fa. Spiega perché.
+
+## Suoni che non sentiamo [lib-5-elementare-scienze-ultrasuoni-infrasuoni] · HERTZ
+concetti: Frequenza; Ciò che sentiamo; Ultrasuoni; Infrasuoni
+- In quale unità si misura la frequenza di un suono?
+- I cani riescono a sentire alcuni ultrasuoni che noi non sentiamo.
+- L'orecchio umano sente suoni da circa 20 a circa ___ hertz.
+- Un suono di 50.000 Hz è...
+- Gli elefanti comunicano anche a chilometri di distanza con suoni molto gravi che noi non sentiamo. Sono...
+- Con quale esame il medico usa gli ultrasuoni per vedere dentro il corpo?
+- Che cosa vuol dire che un suono ha una frequenza alta?
+- Come fa un pipistrello a trovare gli insetti al buio usando gli ultrasuoni?
+
+## Suoni che si amplificano [lib-5-elementare-scienze-cassa-risonanza] · CASSA
+concetti: La risonanza; La cassa armonica; Diapason e tavolo; Forma e materiale
+- A che cosa serve la cassa vuota di una chitarra?
+- Un diapason appoggiato su un tavolo si sente più forte.
+- Quando un oggetto vibra insieme a un altro e il suono si rafforza, si parla di ___.
+- Quale di questi strumenti ha una cassa armonica di legno?
+- Perché una chitarra e un violino suonano diversi anche facendo la stessa nota?
+- Tendi un elastico tra due chiodi su una tavola, poi lo stesso elastico su una scatola vuota. Dove lo senti pi…
+- Il cellulare vibra sul tavolo di legno e fa molto più rumore che in tasca. Perché?
+- Spiega perché le chitarre elettriche hanno bisogno di un amplificatore, mentre le chitarre classiche no.
 
 ## Tesori neri sottoterra [lib-5-elementare-scienze-fonti-non-rinnovabili] · CARBONE
 concetti: Fonti non rinnovabili; Come si sono formati; Inquinamento; Gli usi
@@ -551,6 +1057,50 @@ concetti: Il plasma; I globuli rossi; I globuli bianchi; Le piastrine
 - Oltre alle cellule del sangue, che cosa trasporta il plasma in tutto il corpo?
 - Durante un'infezione i globuli bianchi nel sangue spesso aumentano. Perché?
 - Che cosa potrebbe succedere a una persona che ha poche piastrine nel sangue? Spiega perché.
+
+## Un'immagine a testa in giù [lib-5-elementare-scienze-camera-oscura] · CAMERA
+concetti: La camera oscura; Un'immagine capovolta; Occhio e camera oscura; La macchina fotografica
+- Che cosa serve per costruire una camera oscura?
+- Nella camera oscura l'immagine di un albero appare capovolta.
+- Nell'occhio l'immagine si forma su una membrana chiamata ___.
+- Perché l'immagine nella camera oscura è capovolta?
+- Nell'occhio, quale parte fa da 'forellino' della camera oscura?
+- Se sulla retina l'immagine è capovolta, perché vediamo il mondo dritto?
+- Nella macchina fotografica, che cosa ha preso il posto del semplice forellino?
+- Costruisci una camera oscura e la punti verso una finestra. Descrivi che cosa vedi e spiega perché.
+
+## Una calamita da accendere [lib-5-elementare-scienze-elettromagnete] · BOBINA
+concetti: Corrente e magnetismo; Costruire un elettromagnete; Acceso e spento; Gli usi
+- Che cosa serve per costruire un semplice elettromagnete?
+- Un elettromagnete continua ad attirare il ferro anche quando si stacca la pila.
+- Un filo percorso da corrente si comporta come una ___.
+- Avvicini una bussola a un filo in cui passa corrente. Che cosa fa l'ago?
+- Perché in uno sfasciacarrozze si usano gru con elettromagneti?
+- Come puoi rendere più forte un elettromagnete?
+- Quale di questi oggetti contiene un elettromagnete?
+- Qual è il vantaggio di un elettromagnete rispetto a una normale calamita?
+
+## Una coperta attorno alla Terra [lib-5-elementare-scienze-effetto-serra] · SERRA
+concetti: L'effetto serra naturale; Troppi gas serra; Il riscaldamento globale; Cosa possiamo fare
+- Quale gas è uno dei principali gas serra?
+- Senza alcun effetto serra la Terra sarebbe molto più fredda.
+- L'aumento della temperatura media della Terra si chiama riscaldamento ___.
+- Quale attività umana libera più gas serra?
+- Quale di queste è una conseguenza del riscaldamento globale?
+- Perché piantare alberi aiuta contro l'effetto serra?
+- Quale scelta riduce di più i gas serra per andare a scuola, a 1 km da casa?
+- Spiega il legame tra usare tanto l'automobile e il riscaldamento della Terra.
+
+## Una giornata in orbita [lib-5-elementare-scienze-vita-astronauti] · TUTA
+concetti: La microgravità; Mangiare e dormire; Muscoli e ossa; La tuta spaziale
+- Perché gli astronauti sulla Stazione spaziale fluttuano?
+- Sulla Stazione spaziale gli astronauti dormono in sacchi a pelo fissati alle pareti.
+- Per uscire dalla stazione gli astronauti indossano la ___ spaziale.
+- Perché nello spazio si evitano cibi che fanno briciole, come i cracker?
+- Perché gli astronauti fanno ogni giorno circa due ore di ginnastica?
+- Quale di questi compiti NON fa la tuta spaziale?
+- Al ritorno sulla Terra, dopo sei mesi in orbita, come si sente di solito un astronauta?
+- Spiega perché vivere per mesi sulla Stazione spaziale è faticoso per il corpo, anche se non si sente il peso.
 
 ## Veloce come la luce [lib-5-elementare-scienze-luce-propagazione] · RAGGIO
 concetti: Corpi luminosi e illuminati; La luce va dritta; La velocità della luce; Vedere con la luce

@@ -1,5 +1,5 @@
 # 3ª media · Storia: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## 1941, la guerra diventa mondiale [lib-3-media-storia-guerra-mondiale-1941] · GLOBALE

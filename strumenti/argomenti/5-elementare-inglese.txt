@@ -1,6 +1,17 @@
-# 5ª elementare · Inglese: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# 5ª elementare · Inglese: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A apple o an apple? [lib-5-elementare-inglese-a-an-articoli] · VOWEL
+concetti: A davanti a consonante; An davanti a vocale; Conta il suono; The
+- Completa: «I eat ___ egg every morning.»
+- Si dice «a banana».
+- Quale coppia è corretta?
+- «The film lasts ___ hour.»
+- Perché si dice «a uniform» e non «an uniform»?
+- Completa: «I've got a cat. ___ cat is grey.»
+- Quale frase è corretta?
+- Spiega quando si usa «a» e quando «an», con un esempio per ciascuno.
 
 ## Accanto, dietro, tra: dov'è? [lib-5-elementare-inglese-preposizioni-di-luogo] · BETWEEN
 concetti: Next to e between; Opposite; In front of e behind; On the corner
@@ -12,6 +23,28 @@ concetti: Next to e between; Opposite; In front of e behind; On the corner
 - Dove si trova un negozio «on the corner»?
 - Si dice «next to the cinema», con to.
 - Descrivi in inglese dove si trova la tua scuola rispetto ad altri due luoghi, usando due preposizioni diverse.
+
+## Al ristorante: I'd like... [lib-5-elementare-inglese-cibo-al-ristorante] · MENU
+concetti: Ordinare; Le domande del cameriere; Le portate; Il conto
+- Cosa vuol dire «I'd like a lemonade, please»?
+- Quando ordini, «I'd like» è più gentile di «I want».
+- Il cameriere chiede «Are you ready to order?». Cosa vuol dire?
+- «Can I have the ___, please?» (il conto)
+- Cos'è il «dessert»?
+- Metti in ordine le portate di un pranzo al ristorante.
+- «What would you like to drink?» Quale risposta va bene?
+- Sei in un ristorante a Londra: scrivi in inglese cosa ordini da mangiare e da bere, in modo gentile.
+
+## Alla stazione: un biglietto, prego [lib-5-elementare-inglese-alla-stazione] · TICKET
+concetti: Single e return; Platform; Gli orari; Chiedere un biglietto
+- Cos'è «a single ticket»?
+- «Platform» è il binario da cui parte il treno.
+- Vai a Londra e torni a casa la sera stessa. Che biglietto compri?
+- «What time does the train ___?» «At ten fifteen.»
+- Come chiedi un biglietto di andata e ritorno per Bath?
+- Il treno parte alle 9:40 e arriva alle 10:25. Quanto dura il viaggio?
+- Senti l'annuncio: «The train to York leaves from platform 6.» Cosa fai?
+- Scrivi in inglese un breve dialogo alla biglietteria: chiedi un biglietto e il binario.
 
 ## Alto come te: as ... as [lib-5-elementare-inglese-as-as-uguaglianza] · SAME
 concetti: As + aggettivo + as; Negativo not as ... as; L'aggettivo non cambia
@@ -34,6 +67,17 @@ concetti: Altezza; Corporatura; Occhi; Età
 - Dove va il colore nella frase inglese?
 - Ben misura 1,80 m. Come lo descrivi?
 - Descrivi in inglese con tre frasi l'aspetto di una persona che conosci (altezza, corporatura, occhi). Spiega …
+
+## Andiamo? Let's e Would you like [lib-5-elementare-inglese-inviti-lets-would-you-like] · INVITE
+concetti: Let's; Would you like to...?; Accettare; Rifiutare con gentilezza
+- Cosa vuol dire «Let's play football!»?
+- Dopo «Let's» il verbo va alla forma base: «Let's go», non «Let's going».
+- Come inviti un'amica alla tua festa in modo gentile?
+- «Would you like to go skating?» «Yes, I'd ___ to!»
+- Quale risposta rifiuta un invito con gentilezza?
+- Che differenza c'è tra «Do you like dancing?» e «Would you like to dance?»
+- Il tuo amico dice «Let's watch a film!». Quale risposta accetta?
+- Un compagno ti invita al cinema, ma devi andare dai nonni. Scrivi in inglese una risposta gentile con il moti…
 
 ## Better e worse: gli irregolari [lib-5-elementare-inglese-comparativi-irregolari] · BETTER
 concetti: Good → better; Bad → worse; Far → farther
@@ -68,6 +112,17 @@ concetti: Aggettivi in -e; Raddoppio della consonante; Aggettivi in -y
 - Il comparativo di «large» è «larger».
 - Scrivi i comparativi di «sad», «funny» e «wide» e spiega quale regola hai usato per ciascuno.
 
+## By bus o on foot? [lib-5-elementare-inglese-mezzi-di-trasporto] · TRAIN
+concetti: I mezzi; By più mezzo; On foot; How do you go...?
+- Come si dice «aereo»?
+- A Londra la metropolitana è chiamata anche «the Tube».
+- Come dici «Vado a scuola in autobus»?
+- «I live near the school, so I go there on ___.»
+- Quale domanda chiede che mezzo usi per andare a scuola?
+- Vuoi andare in Sardegna con la tua auto. Quale mezzo prendi per attraversare il mare?
+- Quale frase è corretta?
+- Scrivi in inglese come vai a scuola tu e come ci va un tuo amico, in due frasi.
+
 ## C'era una volta: there was [lib-5-elementare-inglese-there-was-there-were] · ONCE
 concetti: There was; There were; Negativo e domande; Presente e passato
 - Come si dice «C'era un gatto in giardino»?
@@ -90,6 +145,28 @@ concetti: UK e Irlanda; America del Nord; Oceania; Città grandi ma non capitali
 - Wellington è la capitale di...
 - Molti pensano che Sydney sia la capitale dell'Australia. Spiega perché si fa questo errore e qual è la capita…
 
+## Cartoni, quiz e notiziari in TV [lib-5-elementare-inglese-film-e-tv] · CARTOON
+concetti: Programmi TV; Tipi di film; Dare un'opinione; What's on TV?
+- Cos'è «the news»?
+- Una «comedy» è un film che fa ridere.
+- Un film ti fa venire voglia di dormire. Come lo descrivi?
+- «What's ___ TV tonight?»
+- Un programma che spiega la vita degli animali nella savana è...
+- Un film con astronavi e robot del futuro è...
+- Quale frase esprime un'opinione?
+- Scrivi in inglese il tuo programma o film preferito, che tipo è e perché ti piace.
+
+## Che lavoro fa? I mestieri [lib-5-elementare-inglese-lavori-mestieri] · DOCTOR
+concetti: Nomi dei mestieri; A davanti al mestiere; What does he do?; Dove lavorano
+- Chi cura gli animali malati?
+- «My dad is engineer» è una frase corretta.
+- Dove lavora «a waiter»?
+- «What ___ your mum do?» «She's a pilot.»
+- Come si dice «pompiere»?
+- Completa: «My aunt is ___ artist.»
+- Quale domanda chiede il lavoro di tuo zio?
+- Scegli due mestieri e scrivi in inglese dove lavorano, per esempio «A teacher works in a school».
+
 ## Che lingua parli? Le lingue [lib-5-elementare-inglese-lingue-del-mondo] · SPEAK
 concetti: Lingua e nazionalità; Lingue che vanno oltre i confini; Speak + lingua; Paesi con più lingue
 - Come si dice «Parlo francese»?
@@ -100,6 +177,50 @@ concetti: Lingua e nazionalità; Lingue che vanno oltre i confini; Speak + lingu
 - «She ___ German and Italian.»
 - In Svizzera l'italiano è una delle lingue ufficiali.
 - Scegli una lingua che si parla in più di un paese e spiega in italiano perché succede, facendo un esempio in …
+
+## Children, feet, teeth: plurali strani [lib-5-elementare-inglese-plurali-irregolari] · TEETH
+concetti: Plurale regolare; Cambio di vocale; Plurali speciali; Parole in -y e in -f
+- Qual è il plurale di «child»?
+- Il plurale di «mouse» è «mice».
+- Qual è il plurale di «watch»?
+- «I brush my ___ twice a day.»
+- Qual è il plurale di «baby»?
+- Quale frase è corretta?
+- In autunno cadono le foglie. Come dici «le foglie» (leaf)?
+- Perché non si dice «two mans» e «three foots»? Spiega e scrivi le forme giuste.
+
+## Collezioni: I collect stamps [lib-5-elementare-inglese-collezionisti] · STAMP
+concetti: Collect; Quanti pezzi hai?; Swap
+- Marco ha una scatola piena di monete di tanti paesi. Cosa dice?
+- «Shells» sono le conchiglie.
+- Cosa colleziona chi raccoglie «stickers»?
+- «How many shells ___ your brother got?» «He's got sixty.»
+- Hai due figurine uguali e vuoi darne una a un amico in cambio di un'altra. Cosa chiedi?
+- «I've got a hundred and fifty stickers.» Quante figurine ha?
+- Completa: «My sister ___ postcards from every city she visits.»
+- Racconta in inglese che cosa collezioni (o vorresti collezionare) e quanti pezzi hai.
+
+## Com'era la vacanza? How was it? [lib-5-elementare-inglese-vacanze-how-was] · HOLIDAY
+concetti: Parole delle vacanze; How was...?; Where were you?; Go on holiday
+- Cos'è una «tent»?
+- «We go on holiday every summer» vuol dire «Andiamo in vacanza ogni estate».
+- «How was your holiday?» Quale risposta va bene?
+- «Where were you in July?» «We ___ at a campsite in Tuscany.»
+- Dove dormi se fai campeggio?
+- Come dici «Eravamo in montagna»?
+- «The weather was terrible and the hotel was dirty.» Com'è stata la vacanza?
+- Racconta in inglese la tua ultima vacanza: dove eri e com'era, in due o tre frasi con was o were.
+
+## Com'è? Aspetto o carattere [lib-5-elementare-inglese-what-is-she-like] · LOOK
+concetti: What does he look like?; What is he like?; Like vuol dire come; How is he?
+- Vuoi sapere com'è fisicamente la nuova maestra. Che cosa chiedi?
+- In «What is your brother like?» la parola like significa «piacere».
+- Quale risposta va bene per «What's your best friend like?»
+- «What does your dad ___ like?» «He's tall and he's got a beard.»
+- Un'amica è stata malata. Per sapere come sta oggi chiedi...
+- Che differenza c'è tra «What does she like?» e «What is she like?»
+- Vuoi sapere se il nuovo compagno è simpatico o timido. Quale domanda fai?
+- Descrivi in inglese una persona che conosci rispondendo alle due domande: What does he/she look like? What is…
 
 ## Come si leggono gli anni? [lib-5-elementare-inglese-dire-gli-anni] · YEAR
 concetti: Anni a coppie; Gli anni 2000; Dal 2010 in poi; Gli zeri
@@ -112,6 +233,17 @@ concetti: Anni a coppie; Gli anni 2000; Dal 2010 in poi; Gli zeri
 - «Eighteen fifty» corrisponde all'anno 1815.
 - Scrivi in lettere in inglese l'anno in cui sei nato e l'anno di oggi, e spiega il trucco per leggere gli anni.
 
+## Cosa c'è in camera mia? [lib-5-elementare-inglese-there-is-there-are] · BEDROOM
+concetti: There is; There are; Negativo e domande; I mobili
+- Completa: «There ___ a lamp on my desk.»
+- «There are a chair in my room» è corretto.
+- Dove metti i vestiti?
+- «___ there any books on the shelf?» «Yes, there are.»
+- Nella tua camera ci sono tre poster. Come lo dici?
+- Come dici «Non c'è la TV in camera mia»?
+- «There's a shelf above my bed.» Cosa c'è sopra il letto?
+- Descrivi la tua camera in inglese con almeno tre frasi, usando there is e there are.
+
 ## Cosa indossa? He's wearing... [lib-5-elementare-inglese-vestiti-he-is-wearing] · JACKET
 concetti: Nomi dei vestiti; Be wearing; Plurali speciali; Colore prima del vestito
 - Che cosa significa «skirt»?
@@ -122,6 +254,50 @@ concetti: Nomi dei vestiti; Be wearing; Plurali speciali; Colore prima del vesti
 - Quale frase descrive cosa indossa Tom in questo momento?
 - Quale espressione è nell'ordine corretto?
 - Descrivi in inglese cosa indossi oggi con due frasi, usando il present continuous. Spiega com'è formato.
+
+## Cosa stai facendo adesso? [lib-5-elementare-inglese-present-continuous-azioni] · DOING
+concetti: Come si forma; Azioni in corso; Negativo e domande
+- Come dici «Sto leggendo»?
+- «Look! The baby is sleeping» descrive qualcosa che succede adesso.
+- Completa: «They ___ playing in the garden now.»
+- «___ you listening to me?» «Yes, I am.»
+- Come dici «Non sta piovendo»?
+- Quale espressione ti dice che serve il present continuous?
+- La mamma ti chiama: «What are you doing?» Quale risposta è giusta?
+- Guardati intorno: scrivi in inglese due cose che stanno succedendo adesso, con il present continuous.
+
+## Cross, go past, go along [lib-5-elementare-inglese-verbi-di-movimento] · CROSS
+concetti: Go along; Cross; Go past; Until e at the end
+- Cosa vuol dire «Cross the road»?
+- «Go past the church» vuol dire «entra in chiesa».
+- «Go along this street.» Cosa devi fare?
+- «The school is at the ___ of the street.»
+- Per arrivare all'isola devi attraversare il ponte. Cosa dici?
+- Completa: «Go along the road ___ you see the station.»
+- «Go past the supermarket and the cinema is on your right.» Dove si trova il cinema?
+- Spiega in inglese a un turista come arrivare dalla tua scuola al parco, usando almeno due tra go along, cross…
+
+## Cucina, bagno, camera: la casa [lib-5-elementare-inglese-casa-stanze] · KITCHEN
+concetti: Le stanze; Altre parti della casa; Cosa fai in ogni stanza; Flat e house
+- Come si dice «cucina»?
+- «Upstairs» vuol dire al piano di sopra.
+- Dove fai la doccia?
+- «We live on the third floor of a big building. We live in a ___.»
+- Cos'è il «living room»?
+- Dove parcheggia l'auto il papà?
+- Quale frase è logica?
+- Descrivi la tua casa in inglese: se è un flat o una house, quante stanze ha e qual è la tua preferita.
+
+## Da cento a mille: i numeri [lib-5-elementare-inglese-numeri-fino-a-mille] · HUNDRED
+concetti: Hundred; And dopo hundred; Thousand; Il trattino
+- Come si scrive 300 in inglese?
+- «Five thousands» è il modo giusto di scrivere 5000.
+- Come si legge 152?
+- «I've got ___ hundred stickers.» (700)
+- Qual è la scrittura corretta di 67?
+- Quale numero è «one thousand two hundred»?
+- Un libro ha 408 pagine. Come lo dici?
+- Scrivi in lettere in inglese il numero 365 e spiega a cosa corrisponde nel calendario.
 
 ## Di dove sei? Where are you from? [lib-5-elementare-inglese-where-are-you-from] · FROM
 concetti: La domanda; La risposta; Domande sì/no
@@ -167,6 +343,28 @@ concetti: Inversione nella domanda; Risposte brevi; Domande con parole wh-
 - «Were your parents at the meeting?» Erano presenti. Come rispondi?
 - Scrivi due domande in inglese con was o were da fare a un amico sul suo ultimo compleanno, e spiega dove hai …
 
+## Felice, triste, annoiato: emozioni [lib-5-elementare-inglese-emozioni-feelings] · HAPPY
+concetti: Emozioni di base; Altre emozioni; How do you feel?; Emozioni al passato
+- Cosa vuol dire «angry»?
+- «Bored» significa annoiato.
+- Domani vai in un parco divertimenti e non riesci a dormire dalla gioia. Come ti senti?
+- «How do you ___ today?» «I feel great!»
+- Qual è il contrario di «happy»?
+- Come traduci «Eravamo preoccupati per la verifica»?
+- Hai corso tutto il pomeriggio e ti si chiudono gli occhi. Quale aggettivo usi?
+- Racconta in inglese, con una o due frasi, un momento in cui ti sei sentito felice o spaventato, usando was.
+
+## Feste inglesi: Bonfire Night e altre [lib-5-elementare-inglese-feste-regno-unito] · BONFIRE
+concetti: Bonfire Night; Pancake Day; Christmas e Boxing Day; Le date in inglese
+- In che giorno si festeggia Bonfire Night?
+- Boxing Day è il 26 dicembre.
+- A Pancake Day in molte città si fanno le «pancake races». Cosa fanno i partecipanti?
+- «Bonfire Night is on the ___ of November.»
+- Cosa vedi nel cielo durante Bonfire Night?
+- Pancake Day cade lo stesso giorno di quale festa italiana?
+- Bonfire Night ricorda un fatto del 1605. Come si legge 1605?
+- Spiega in inglese cosa fai il giorno di Natale, con due frasi.
+
 ## Gentile e simpatico: il carattere [lib-5-elementare-inglese-aggettivi-di-carattere] · KIND
 concetti: Aggettivi positivi; Aggettivi negativi; Altri caratteri; Aspetto e carattere
 - Che cosa significa «friendly»?
@@ -211,6 +409,28 @@ concetti: Have got e has got; Negativo; Domande; Parole utili
 - Metti in ordine le parole per formare la domanda.
 - Descrivi in inglese una persona famosa o un personaggio dei cartoni con tre frasi con has got o hasn't got. S…
 
+## He plays, she watches: la -s [lib-5-elementare-inglese-present-simple-terza-persona] · PLAYS
+concetti: La -s della terza persona; -es e -ies; Have diventa has; Doesn't più verbo base
+- Completa: «My brother ___ football on Saturdays.»
+- La terza persona di «go» è «goes».
+- Qual è la forma giusta di «study» con «she»?
+- «Tom ___ a big dog.»
+- Come dici «Lei non guarda la TV»?
+- Quale frase è scritta bene?
+- «He doesn't likes milk» è corretto.
+- Spiega quando un verbo al present simple prende la -s e fai un esempio.
+
+## I continenti in inglese [lib-5-elementare-inglese-continenti] · ASIA
+concetti: I nomi dei continenti; Sempre maiuscola; Record dei continenti; In con i continenti
+- Come si scrive «Antartide» in inglese?
+- L'Asia è il continente più grande.
+- Completa: «Japan is ___ Asia.»
+- «Australia is in ___.»
+- Quale nome di continente è scritto correttamente in inglese?
+- Qual è il continente più freddo?
+- In quale continente si trova il Canada?
+- Scegli tre paesi e scrivi in inglese in quale continente si trovano.
+
 ## Ieri ero, eravamo: was e were [lib-5-elementare-inglese-was-were-affermativo] · WERE
 concetti: Was con I, he, she, it; Were con you, we, they; Significato di was e were; Soggetti con nomi
 - Qual è il passato di «I am»?
@@ -221,6 +441,28 @@ concetti: Was con I, he, she, it; Were con you, we, they; Significato di was e w
 - Quale frase è corretta?
 - «It was cold yesterday» è sbagliata perché con it si deve usare were.
 - Scrivi in inglese due frasi su dove eri e com'eri ieri pomeriggio, usando was. Poi spiega perché non hai usat…
+
+## Il fiume più lungo del mondo [lib-5-elementare-inglese-superlativi-geografia] · NILE
+concetti: Superlativi corti; Record del mondo; Record dell'Italia; In con i luoghi
+- Qual è «the highest mountain in the world»?
+- L'oceano Pacifico è «the largest ocean in the world».
+- Qual è il superlativo di «long»?
+- «The Po is the ___ river in Italy.»
+- Qual è «the biggest island in Italy»?
+- Completa: «Lake Garda is ___ lake in Italy.»
+- Quale frase è corretta?
+- Scrivi in inglese due record geografici del mondo usando i superlativi.
+
+## Il libro di Tom: Tom's book [lib-5-elementare-inglese-genitivo-sassone] · OWNER
+concetti: Nome più 's; Ordine rovesciato; Plurali e apostrofo; 's non sempre possiede
+- Come dici «la bici di Luca»?
+- Nella frase «Sara's dog» il possessore è il cane.
+- Come traduci «la camera di mia sorella»?
+- «This is ___ pencil case.» (l'astuccio di Marta)
+- In quale frase «'s» vuol dire «is»?
+- Come scrivi «la casa dei miei nonni»?
+- «The children's toys» è corretto, perché children è plurale ma non finisce in -s.
+- Perché «Sara's dog» si traduce «il cane di Sara» anche se le parole sono in ordine diverso?
 
 ## Il più alto: the tallest [lib-5-elementare-inglese-superlativi-est] · TALLEST
 concetti: The + -est; Stesse regole di ortografia; In con i luoghi e i gruppi; Superlativo e comparativo
@@ -266,6 +508,17 @@ concetti: Hobby creativi; Hobby tranquilli; Hobby all'aperto; Parlare degli hobb
 - Come chiedi a un amico qual è il suo hobby?
 - Scrivi in inglese qual è il tuo hobby preferito e dove o quando lo fai. Spiega perché il nome dell'hobby fini…
 
+## In cucina: mix, cut, bake [lib-5-elementare-inglese-cucinare-ricetta] · RECIPE
+concetti: Verbi di cucina; Ingredienti; Ordine della ricetta; Quantità
+- Cos'è la «flour»?
+- «Bake» vuol dire cuocere al forno.
+- Cosa fai quando «you pour the milk»?
+- «Add a ___ of sugar.»
+- Metti in ordine le istruzioni per fare i pancake.
+- Quale parola usi per l'ultimo passaggio di una ricetta?
+- Per una torta servono farina, uova, zucchero e burro. Quale lista è giusta?
+- Scrivi in inglese tre istruzioni per preparare un panino, usando first, then e finally.
+
 ## In giro per la città [lib-5-elementare-inglese-luoghi-in-citta] · LIBRARY
 concetti: Negozi e servizi; Luoghi pubblici; Falsi amici; A cosa servono
 - Che cos'è il «post office»?
@@ -276,6 +529,17 @@ concetti: Negozi e servizi; Luoghi pubblici; Falsi amici; A cosa servono
 - Dove compri il pane fresco?
 - Vuoi comprare un libro nuovo da tenere. Dove vai?
 - Descrivi in inglese con due frasi due luoghi del tuo paese o della tua città e di' a cosa servono.
+
+## Inglese, storia, scienze: le materie [lib-5-elementare-inglese-materie-scolastiche] · SUBJECT
+concetti: Nomi delle materie; Le maiuscole; L'orario; La materia preferita
+- Come si dice «storia» come materia scolastica?
+- «PE» è l'educazione fisica.
+- Quale materia si scrive sempre con la maiuscola?
+- «What's your favourite ___?» «Art!»
+- Cos'è il «timetable»?
+- In quale materia studi le carte geografiche e i fiumi?
+- Come dici «Il martedì ho storia e inglese»?
+- Scrivi in inglese qual è la tua materia preferita e perché, in una o due frasi.
 
 ## Italian, German: nazionalità in -an [lib-5-elementare-inglese-nazionalita-ian-an] · ITALIAN
 concetti: Nazionalità in -ian; Nazionalità in -an; Maiuscola anche qui; Paese o nazionalità?
@@ -288,6 +552,61 @@ concetti: Nazionalità in -ian; Nazionalità in -an; Maiuscola anche qui; Paese 
 - Qual è la nazionalità di chi viene dall'Australia?
 - Spiega la differenza tra «Italy» e «Italian» e scrivi una frase in inglese con ciascuna parola.
 
+## Japan, Brazil, Egypt: oltre l'Europa [lib-5-elementare-inglese-paesi-extraeuropei] · JAPAN
+concetti: Paesi dell'Asia; Paesi delle Americhe; Paesi dell'Africa; Nomi che ingannano
+- Come si dice «Giappone»?
+- «Morocco» è il Marocco.
+- Come si scrive «Egitto»?
+- «I'd like to visit ___ USA.»
+- In quale paese si trovano Rio de Janeiro e gran parte della foresta amazzonica?
+- Quale paese è famoso per il Taj Mahal?
+- Quale coppia è corretta?
+- Scegli un paese fuori dall'Europa che vorresti visitare e scrivi in inglese perché.
+
+## La mia giornata: daily routine [lib-5-elementare-inglese-routine-quotidiana] · ROUTINE
+concetti: La mattina; Pomeriggio e sera; Have con i pasti; At con le ore
+- Cosa vuol dire «get dressed»?
+- Per dire «faccio colazione» si dice «I have breakfast».
+- Cosa fai quando «you do your homework»?
+- «I wake up ___ seven o'clock.»
+- Metti in ordine la mattina di Sam.
+- Quale frase è corretta?
+- Quale di queste azioni fai la sera, prima di andare a dormire?
+- Descrivi in inglese tre azioni della tua mattina con l'ora, per esempio «I get up at seven».
+
+## Leggere una mappa della città [lib-5-elementare-inglese-leggere-una-mappa] · ROUTE
+concetti: La legenda; I simboli; You are here; Seguire un percorso
+- Su una mappa, cos'è la «key»?
+- «You are here» indica il punto in cui ti trovi.
+- Sulle mappe inglesi una grande «P» indica di solito...
+- «Follow the red ___ to the castle.»
+- Il simbolo con una «i» indica...
+- Sei al punto «You are here». Il museo è a nord e la mappa ha il nord in alto. Dove guardi sulla mappa?
+- Cosa vuol dire «Which route is shorter?»
+- Immagina una mappa del tuo quartiere: scrivi in inglese tre simboli della legenda e cosa indicano.
+
+## Mamma, zio, cugino: la famiglia [lib-5-elementare-inglese-famiglia-vocabolario] · FAMILY
+concetti: Genitori e figli; Nonni e nipoti; Zii e cugini; Parole che ingannano
+- Come si dice «genitori» in inglese?
+- La parola «cousin» si usa sia per il cugino sia per la cugina.
+- La mamma del tuo papà, per te, è...
+- «My mum's brother is my ___.»
+- Anna dice: «I've got a son and two daughters». Quanti figli ha?
+- Cosa vuol dire «I've got a lot of relatives in Sicily»?
+- Tua sorella ha un bambino maschio. Per te lui è...
+- Scrivi due frasi in inglese per presentare due persone della tua famiglia, per esempio «Paolo is my uncle».
+
+## Me, him, her: pronomi oggetto [lib-5-elementare-inglese-pronomi-complemento] · THEM
+concetti: Soggetto e oggetto; Le coppie; Dopo le preposizioni
+- Qual è il pronome oggetto di «she»?
+- Nella frase «They help us» il pronome «us» riceve l'azione.
+- Completa: «Where is Tom? I can't see ___.»
+- «Do you want to play with ___?» (con noi)
+- Quale frase è corretta?
+- Come traduci «Questo regalo è per loro»?
+- «I've got two cats. I feed them every day.» A chi si riferisce «them»?
+- Perché si dice «He likes her» e non «Him likes she»?
+
 ## Mi piace! like, love, hate [lib-5-elementare-inglese-like-love-hate-ing] · LOVE
 concetti: Verbi di gusto; Verbo + -ing; He likes, she loves
 - Che cosa significa «I hate getting up early»?
@@ -298,6 +617,28 @@ concetti: Verbi di gusto; Verbo + -ing; He likes, she loves
 - Come si dice «Mi piace leggere i fumetti»?
 - «I don't mind cooking» significa che cucinare non ti dispiace.
 - Scrivi in inglese una cosa che ami fare e una che odi fare, poi una frase su un amico. Spiega cosa cambia qua…
+
+## Mouse, tastiera e videogiochi [lib-5-elementare-inglese-videogiochi-computer] · MOUSE
+concetti: Parti del computer; Azioni al computer; Parole dei videogiochi; Sicurezza online
+- Come si dice «tastiera»?
+- «Save» vuol dire salvare un file.
+- Nel gioco compare la scritta «Level 3». Cosa vuol dire?
+- «___ on the icon to open the game.»
+- Cos'è un «laptop»?
+- Il tuo «score» è 500. Cosa indica?
+- Un giocatore sconosciuto ti scrive: «What's your password?». Cosa fai?
+- Scrivi in inglese una regola per usare internet in modo sicuro e spiega in italiano perché è importante.
+
+## My, your, his, her: di chi? [lib-5-elementare-inglese-aggettivi-possessivi] · THEIR
+concetti: Le forme; His o her; Forme che non cambiano; Its e it's
+- Qual è l'aggettivo possessivo di «we»?
+- Completa: «Marco is with ___ sister.»
+- Per dire «la sua bici» parlando di Giulia si dice «her bike».
+- «I love ___ new shoes.»
+- Come dici «la loro casa»?
+- Quale frase è corretta? (Il cane muove la sua coda.)
+- Cosa c'è di sbagliato in «Where are the your books?»
+- Perché si dice «his mother» e non «her mother» quando parli della mamma di Luca?
 
 ## Non c'ero! wasn't e weren't [lib-5-elementare-inglese-was-were-negativo] · ABSENT
 concetti: Negativo con not; Forme contratte; Correggere un'informazione
@@ -310,6 +651,17 @@ concetti: Negativo con not; Forme contratte; Correggere un'informazione
 - Wasn't e weren't sono tutte e due il negativo al passato di to be, ma si usano con soggetti diversi.
 - Scrivi una frase in inglese con wasn't e una con weren't su cose che non erano vere ieri, e spiega come hai s…
 
+## Nord, sud, est, ovest [lib-5-elementare-inglese-punti-cardinali] · NORTH
+concetti: I quattro punti; Punti intermedi; In the north of; Il sole e i punti
+- Come si dice «sud»?
+- Il sole sorge a «west».
+- Come dici «Palermo è nel sud dell'Italia»?
+- «Scotland is in the ___ of the UK.»
+- Tra il nord e l'est c'è...
+- Al tramonto, in che direzione vedi il sole?
+- Firenze si trova a sud di Bologna. Completa: «Bologna is ___ of Florence.»
+- Scrivi in inglese dove si trova la tua città o la tua regione in Italia.
+
 ## Oggi sono, ieri ero [lib-5-elementare-inglese-present-vs-past-to-be] · TODAY
 concetti: Il presente di to be; Il passato di to be; Parole spia del tempo; Confronto oggi e ieri
 - Qual è il passato di «they are»?
@@ -321,6 +673,17 @@ concetti: Il presente di to be; Il passato di to be; Parole spia del tempo; Conf
 - Nella frase «I am happy every day» il verbo deve stare al passato.
 - Scrivi due frasi in inglese che confrontano come sei oggi e com'eri ieri (per esempio contento, stanco, a cas…
 
+## Ogni giorno o proprio adesso? [lib-5-elementare-inglese-present-simple-vs-continuous] · USUALLY
+concetti: Abitudini; Azioni di adesso; Parole spia
+- Quale espressione va con il present simple?
+- «I'm eating a sandwich now» descrive un'abitudine.
+- Completa: «Sara usually ___ to school by bus.»
+- «Shh! The baby ___ sleeping.»
+- Che differenza c'è tra «He plays the piano» e «He's playing the piano»?
+- Quale frase è corretta?
+- Come traduci «Di solito guardo i cartoni il sabato»?
+- Scrivi due frasi su un tuo familiare: una su cosa fa di solito e una su cosa sta facendo adesso.
+
 ## On Monday, at 5: in, on, at [lib-5-elementare-inglese-preposizioni-di-tempo] · MONDAY
 concetti: On con i giorni; At con le ore; In con mesi, stagioni, anni; Maiuscola per giorni e mesi
 - Quale preposizione va con «Tuesday»?
@@ -331,6 +694,28 @@ concetti: On con i giorni; At con le ore; In con mesi, stagioni, anni; Maiuscola
 - Quale espressione è SBAGLIATA?
 - «My birthday party is ___ 3rd June.» Quale preposizione serve?
 - Scrivi in inglese tre frasi sulla tua settimana usando in, on e at una volta ciascuna. Spiega quando si usa o…
+
+## Persone famose: dove sono nate? [lib-5-elementare-inglese-biografie-famosi] · GENIUS
+concetti: Was born; Was più mestiere; Leggere le date; Domande biografiche
+- Cosa vuol dire «Leonardo da Vinci was born in 1452»?
+- «Shakespeare was a writer» significa che Shakespeare era uno scrittore.
+- Come si legge l'anno di nascita di Mozart, 1756?
+- «Where ___ Marie Curie born?» «In Warsaw.»
+- Galileo Galilei studiò il cielo con il telescopio. Come completi «Galileo was ___»?
+- Vuoi sapere in che anno è nato Shakespeare. Cosa chiedi?
+- Shakespeare e Galileo sono nati entrambi nel 1564, quindi si può dire «They were both born in 1564».
+- Scrivi una mini biografia in inglese (2-3 frasi) di una persona famosa: dove è nata e che lavoro faceva.
+
+## Pizza italiana, sushi giapponese [lib-5-elementare-inglese-cibo-dal-mondo] · SUSHI
+concetti: Nazionalità più cibo; Piatti britannici; Piatti americani; Sempre maiuscola
+- Il curry è un piatto tipico dell'India. Come completi «Curry is ___ food»?
+- «Fish and chips» è un piatto tipico britannico.
+- Quale abbinamento tra cibo e nazionalità è giusto?
+- «I love ___ cheese, like Brie.»
+- Cosa trovi in un «full English breakfast»?
+- Quale cibo è tipicamente americano?
+- Quale frase è scritta correttamente?
+- Scrivi in inglese due cibi di paesi diversi usando l'aggettivo di nazionalità, e di' quale preferisci.
 
 ## Più alto di: -er than [lib-5-elementare-inglese-comparativi-er-than] · TALLER
 concetti: Aggettivi corti + -er; Than = di, che; Ordine della frase; Usare il confronto
@@ -387,6 +772,39 @@ concetti: I was born; In e on con le date; Domande sulla nascita
 - Si dice «I was born on 2014».
 - Scrivi in inglese dove e quando sei nato, usando in e on almeno una volta. Spiega perché si usa was.
 
+## Quanto costa? How much is it? [lib-5-elementare-inglese-fare-acquisti-prezzi] · PRICE
+concetti: How much is it?; How much are they?; Frasi del negozio; Cheap e expensive
+- Come chiedi il prezzo di un cappello?
+- Per chiedere il prezzo di un paio di scarpe si dice «How much are these shoes?».
+- Cosa vuol dire «It's very expensive»?
+- Il commesso ti porge il sacchetto e dice: «Here you ___.»
+- Il commesso chiede «Can I help you?». Quale risposta va bene?
+- La maglia rossa costa 10 sterline, quella blu 15. Quale frase è vera?
+- Completa: «How much ___ these sunglasses?»
+- Scrivi in inglese un breve dialogo di tre battute in un negozio di vestiti, con il prezzo.
+
+## Quanto è lontano? How far [lib-5-elementare-inglese-how-far-how-long] · MILE
+concetti: How far?; Near e far; How long does it take?; Le miglia
+- Cosa vuol dire «The bakery is near the school»?
+- Un miglio (mile) è più lungo di un chilometro.
+- Quale domanda chiede la distanza?
+- «How long does it ___ to get to school?» «Fifteen minutes.»
+- «It takes twenty minutes by bus.» Cosa vuol dire?
+- Un cartello in Scozia dice «Edinburgh 10 miles». Circa quanti chilometri sono?
+- Completa: «My grandparents live ___ from here: it takes five hours by car.»
+- Spiega in inglese se la tua scuola è vicina o lontana da casa e quanto tempo ci metti.
+
+## Racchetta e pallone: l'attrezzatura [lib-5-elementare-inglese-attrezzatura-sportiva] · RACKET
+concetti: Oggetti per gli sport; Abbigliamento sportivo; Luoghi dello sport; You need
+- Come si dice «racchetta»?
+- «Helmet» è il casco che metti quando vai in bici.
+- Dove si gioca a basket?
+- «To play baseball you need a ball and a ___.»
+- Cosa metti sugli occhi per nuotare sott'acqua?
+- Cos'è una «swimming pool»?
+- Vai a sciare. Cosa ti serve?
+- Scegli il tuo sport preferito e scrivi in inglese cosa ti serve per praticarlo e dove si gioca.
+
 ## Ricci o lisci? I capelli [lib-5-elementare-inglese-descrivere-capelli] · CURLY
 concetti: Lunghezza; Forma; Colore; Hair è singolare
 - Che cosa significa «short hair»?
@@ -420,6 +838,39 @@ concetti: Was e were; Negativo e domande; There was / there were; Parole del pas
 - Metti in ordine le parti del racconto, come succedono durante la gita.
 - Racconta in inglese con tre frasi una gita o una giornata speciale del passato, usando was, were e there was …
 
+## Ripasso: paesi a confronto [lib-5-elementare-inglese-ripasso-confronto-paesi] · RUSSIA
+concetti: Comparativi con i paesi; Superlativi con i paesi; Più abitanti; Il clima a confronto
+- L'Italia misura circa 300.000 km², il Regno Unito circa 240.000. Quale frase è vera?
+- La Città del Vaticano è «the smallest country in the world».
+- Gli Stati Uniti hanno molti più abitanti del Canada. Come lo dici?
+- «In winter, Canada is ___ than Italy.»
+- La Russia è più grande del Canada. Come lo dici?
+- L'Egitto è quasi tutto deserto. Rispetto all'Irlanda è...
+- San Marino è più grande del Vaticano. Completa: «San Marino is ___ than Vatican City.»
+- Confronta in inglese l'Italia con un altro paese usando un comparativo, poi scrivi una frase con un superlati…
+
+## Ripasso: quando ero piccolo [lib-5-elementare-inglese-ripasso-da-piccolo] · CHILD
+concetti: Was e were; Prima e adesso; Descrivere l'aspetto; Quando ero...
+- Come dici «Quando ero piccolo»?
+- «Now I'm taller than when I was six» vuol dire che adesso sei più basso.
+- «When I was a baby, my hair was very curly.» Com'erano i capelli?
+- «When I was five, I was ___ than now.»
+- Quale frase è corretta?
+- Hai 10 anni. «When I was four» si riferisce a...
+- Nel 2020 la tua sorellina era alta 90 cm, oggi 130 cm. Quale frase è giusta?
+- Descrivi in inglese com'eri da piccolo e come sei ora, usando was e un comparativo.
+
+## Ripasso: sabato in città [lib-5-elementare-inglese-ripasso-sabato-in-citta] · WEEKEND
+concetti: Hobby e luoghi; Indicazioni; Proposte; Orari
+- Vuoi andare a nuotare. Dove vai?
+- Se ti dicono «Turn left at the cinema», arrivato al cinema devi girare a sinistra.
+- Proponi a un amico di andare al cinema sabato. Cosa dici?
+- «The film starts ___ half past four.»
+- Dove puoi «watch a football match» dal vivo?
+- «Go straight on, take the second street on the right and the museum is opposite the park.» Dove si trova il m…
+- Il film comincia alle 15:00 e dura due ore. A che ora finisce?
+- Scrivi in inglese un messaggio a un amico per proporgli un'attività sabato: cosa, dove e a che ora.
+
 ## Sai farlo? can e can't [lib-5-elementare-inglese-can-cant-abilita] · SKILL
 concetti: Can per le abilità; Can't per il negativo; Domande con can; Verbo base dopo can
 - Come si dice «So nuotare»?
@@ -442,6 +893,17 @@ concetti: Attirare l'attenzione; Le domande; Ringraziare; Distanza
 - Metti in ordine le battute del dialogo.
 - Scrivi un breve dialogo in inglese (4 battute) in cui chiedi la strada per la piscina. Spiega quali parole se…
 
+## Semaforo e strisce: strada sicura [lib-5-elementare-inglese-sicurezza-stradale] · SAFETY
+concetti: Parole della strada; I colori del semaforo; Le regole; Guida a sinistra
+- Cosa sono le «traffic lights»?
+- Nel Regno Unito le auto viaggiano sul lato sinistro della strada.
+- Dove cammini in sicurezza lungo la strada?
+- «When the light is ___, you must stop.»
+- Prima di attraversare, cosa devi fare?
+- Cos'è una «zebra crossing»?
+- Sei a Londra e devi attraversare. Perché devi guardare prima a destra?
+- Scrivi in inglese due regole per andare in bici o a piedi in sicurezza.
+
 ## Sempre o mai? always, never [lib-5-elementare-inglese-avverbi-di-frequenza] · ALWAYS
 concetti: Gli avverbi; Posizione con i verbi; Posizione con to be; How often?
 - Che cosa significa «sometimes»?
@@ -452,6 +914,39 @@ concetti: Gli avverbi; Posizione con i verbi; Posizione con to be; How often?
 - Ugo va a piedi a scuola 5 giorni su 5. Quale frase lo dice?
 - «He always is tired» è la frase corretta.
 - Scrivi tre frasi in inglese sulla tua settimana usando always, sometimes e never. Spiega dove hai messo gli a…
+
+## Siediti! Gli imperativi [lib-5-elementare-inglese-imperativi-regole] · RULES
+concetti: Imperativo affermativo; Imperativo negativo; Please; Istruzioni in classe
+- Cosa vuol dire «Open your books!»?
+- Per dire «Non correre!» si dice «Don't run!».
+- La maestra dice «Stand up, please». Cosa fai?
+- «___ talk during the test!»
+- Quale frase è un imperativo corretto?
+- Quale frase è la più gentile?
+- In piscina c'è un cartello: «Don't dive». Cosa vuol dire?
+- Scrivi in inglese tre regole per la tua classe: due con «Don't» e una affermativa.
+
+## Some o any? Al supermercato [lib-5-elementare-inglese-some-any] · SOME
+concetti: Some nelle affermative; Any nelle negative; Any nelle domande; Offrire con some
+- Completa: «There are ___ bananas in the fridge.»
+- «I haven't got some money» è corretto.
+- Completa: «Are there ___ tomatoes?»
+- «There isn't ___ milk left.»
+- La nonna ti offre una fetta di torta. Cosa dice?
+- Al supermercato chiedi se hanno del pane fresco. Cosa dici?
+- Quale frase è corretta?
+- Guarda nel tuo frigo immaginario: scrivi in inglese una frase con some e una con any.
+
+## Sono bravo a disegnare: good at [lib-5-elementare-inglese-good-at-ing] · TALENT
+concetti: Good at; Verbo in -ing dopo at; Bad at e not very good at; Domande
+- Cosa vuol dire «I'm good at English»?
+- «She's good at dance» è corretto.
+- Completa: «My brother is good at ___.»
+- «Are you good at chess?» «No, I'm ___.»
+- Qual è il modo più gentile di dire che non canti bene?
+- Vuoi sapere in cosa è brava la tua amica. Chiedi...
+- Quale frase è corretta?
+- Scrivi in inglese una cosa in cui sei bravo e una in cui non sei molto bravo.
 
 ## Spanish, Chinese: -ish ed -ese [lib-5-elementare-inglese-nazionalita-ish-ese] · SPANISH
 concetti: Nazionalità in -ish; Nazionalità in -ese; Nazionalità irregolari
@@ -475,6 +970,17 @@ concetti: Bandiera del Regno Unito; Bandiera degli USA; Altre bandiere; Descrive
 - «There is three stripes» è il modo corretto di descrivere una bandiera.
 - Descrivi in inglese con due frasi la bandiera di un paese che ti piace, senza dire il nome. Poi spiega quali …
 
+## Sterline e penny: soldi inglesi [lib-5-elementare-inglese-sterline-e-penny] · POUND
+concetti: Pound e pence; Leggere i prezzi; Altre monete; Il resto
+- Quanti pence ci sono in una sterlina?
+- In Irlanda si paga con l'euro.
+- Come si legge «£2.40»?
+- «This sweet costs one ___.» (1p)
+- Quale moneta si usa negli Stati Uniti?
+- Compri un libro da £7 e paghi con una banconota da £10. Quanto «change» ricevi?
+- Un gelato costa £1.50 e un succo 80p. Quanto spendi in tutto?
+- Spiega che differenza c'è tra pound e penny e scrivi in inglese come si legge £5.25.
+
 ## Suono la chitarra: gli strumenti [lib-5-elementare-inglese-strumenti-musicali] · GUITAR
 concetti: Nomi degli strumenti; Play the + strumento; Famiglie di strumenti
 - Come si dice «violino»?
@@ -496,6 +1002,28 @@ concetti: Regola base; Verbi in -e; Raddoppio
 - Quale verbo perde la e quando aggiunge -ing?
 - «Reading» si forma semplicemente aggiungendo -ing a «read».
 - Scrivi la forma -ing di «make», «sit» e «cook», e spiega la regola che hai usato per ciascuna.
+
+## Testa, spalle, ginocchia: il corpo [lib-5-elementare-inglese-parti-del-corpo] · KNEE
+concetti: Testa e viso; Braccia e mani; Gambe e piedi; Mi fa male
+- Come si dice «naso»?
+- «Toe» è il dito del piede.
+- Qual è il gomito?
+- «I can't walk well. My knee ___.»
+- Cosa vuol dire «I've got a headache»?
+- Ordina queste parti del corpo dall'alto verso il basso.
+- Completa: «I kick the ball with my ___.»
+- Sei dal medico in Inghilterra: spiega in inglese che ti fa male il braccio e che hai mal di testa.
+
+## Thanksgiving e St Patrick's Day [lib-5-elementare-inglese-feste-usa-irlanda] · TURKEY
+concetti: Thanksgiving; Independence Day; St Patrick's Day; Halloween
+- Di che colore ci si veste a St Patrick's Day?
+- Thanksgiving si festeggia negli Stati Uniti a novembre.
+- Quale animale si mangia di solito a Thanksgiving?
+- «On Halloween children say: Trick or ___!»
+- Gli Stati Uniti festeggiano l'indipendenza il...
+- Cos'è lo «shamrock», simbolo di St Patrick's Day?
+- Metti in ordine queste feste come cadono nell'anno, da gennaio a dicembre.
+- Thanksgiving vuol dire «rendere grazie». Scrivi in inglese due cose per cui sei grato, iniziando con «I'm tha…
 
 ## The most e the best [lib-5-elementare-inglese-superlativi-most-best] · BEST
 concetti: The most + aggettivo lungo; Best e worst; Best friend
@@ -519,6 +1047,17 @@ concetti: Do you like...?; Risposte brevi; Does con he e she; Domande aperte
 - «Does he likes music?» è la forma corretta.
 - Scrivi tre domande in inglese per un'intervista a un compagno sui suoi gusti, e spiega quando usi do e quando…
 
+## Up, down, across, through [lib-5-elementare-inglese-preposizioni-di-moto] · THROUGH
+concetti: Up e down; Across e over; Through; Into e out of
+- Cosa vuol dire «Go up the stairs»?
+- Il treno va «through the tunnel»: entra da una parte ed esce dall'altra.
+- Il gatto è saltato dentro la scatola. Completa: «The cat jumped ___ the box.»
+- «The horse jumps ___ the fence.»
+- Qual è il contrario di «up»?
+- Cammini nel bosco entrando da un lato e uscendo dall'altro. Completa: «We walked ___ the forest.»
+- «Get out of the pool!» Cosa vuol dire?
+- Racconta in inglese un breve percorso avventuroso usando almeno tre preposizioni di moto.
+
 ## Viaggio in Europa: i paesi [lib-5-elementare-inglese-paesi-d-europa] · EUROPE
 concetti: Nomi dei paesi europei; Nomi simili e diversi; I vicini dell'Italia; Maiuscola obbligatoria
 - Come si dice «Spagna» in inglese?
@@ -540,6 +1079,17 @@ concetti: Ore precise; Half past e quarter; Past e to; Chiedere l'ora
 - Come chiedi l'ora a un passante?
 - Le 6:20 si dicono «twenty to six».
 - Scrivi in inglese a che ora ti svegli e a che ora vai a letto, usando past o to almeno una volta. Spiega la d…
+
+## Who, what, why: parole per domandare [lib-5-elementare-inglese-question-words] · ANSWER
+concetti: Who e what; Where e when; Why e because; How e i suoi composti
+- Quale parola usi per chiedere chi è una persona?
+- Nella risposta, «perché» si traduce «because».
+- «___ is the cinema?» «It's next to the bank.»
+- «How ___ are you?» «I'm ten.»
+- Qual è una risposta adatta a «When is your birthday?»
+- Vuoi sapere quante matite ha il tuo compagno. Chiedi...
+- «Why are you happy?» Quale risposta è giusta?
+- Inventa tre domande in inglese per conoscere un nuovo compagno, usando tre parole wh- diverse.
 
 ## Yesterday, last, ago: quando? [lib-5-elementare-inglese-espressioni-di-tempo-passato] · PAST
 concetti: Yesterday; Last; Ago; Ordinare nel tempo

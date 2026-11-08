@@ -1,5 +1,5 @@
-# 1ª media · Matematica: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# 1ª media · Matematica: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Acuti, retti e ottusi [lib-1-media-matematica-angoli-classificazione] · RETTO
@@ -57,6 +57,28 @@ concetti: Angoli complementari; Angoli supplementari; Angoli esplementari; Angol
 - Due rette incidenti formano un angolo di 65°. Quanto misurano gli altri tre angoli?
 - Due angoli supplementari sono uno il doppio dell'altro. Quanto misurano? Spiega il ragionamento.
 
+## Angoli esterni: sempre 360° [lib-1-media-matematica-poligoni-angoli-esterni] · GIRO
+concetti: Angolo esterno; Somma degli angoli esterni; Poligoni regolari; Dall'angolo ai lati
+- Un angolo esterno di un poligono è ___ all'angolo interno con lo stesso vertice.
+- La somma degli angoli esterni di un poligono convesso è sempre 360°, qualunque sia il numero dei lati.
+- Quanto misura ogni angolo esterno di un esagono regolare?
+- Un angolo interno di un poligono misura 108°. Quanto misura l'angolo esterno con lo stesso vertice?
+- Un poligono regolare ha angoli esterni di 40°. Quanti lati ha?
+- Un poligono regolare ha angoli interni di 150°. Quanti lati ha?
+- Ogni angolo esterno di un ottagono regolare misura 40°.
+- Immagina di camminare lungo il perimetro di un poligono convesso girando a ogni vertice. Perché alla fine hai…
+
+## Angoli vicini e bisettrice [lib-1-media-matematica-angoli-consecutivi-adiacenti-bisettrice] · VICINI
+concetti: Angoli consecutivi; Angoli adiacenti; La bisettrice; Bisettrici e problemi
+- Due angoli con il vertice e un lato in comune, e nessun altro punto interno in comune, si dicono ___.
+- Due angoli adiacenti sono sempre anche consecutivi.
+- Un angolo misura 65°. Quanto misura il suo adiacente?
+- La bisettrice di un angolo di 130° lo divide in due angoli di...
+- La bisettrice di un angolo piatto forma con i suoi lati due angoli...
+- Due angoli consecutivi devono sempre avere la stessa ampiezza.
+- Due angoli adiacenti misurano 70° e 110°. Che angolo formano le loro bisettrici?
+- Spiega perché le bisettrici di due angoli adiacenti formano sempre un angolo retto, qualunque sia la loro amp…
+
 ## Arrotondare e stimare [lib-1-media-matematica-arrotondamento-stima] · STIMA
 concetti: Arrotondamento; Per difetto e per eccesso; Stima dei calcoli
 - Come si arrotonda 4 372 alle centinaia?
@@ -90,6 +112,17 @@ concetti: Divisibilità per 2; Divisibilità per 5, 10 e 100; Divisibilità per 
 - Quale di questi numeri è divisibile sia per 2 sia per 5?
 - Spiega perché, per sapere se un numero è divisibile per 4, basta guardare le sue ultime due cifre. Prova con …
 
+## Calcolare con i decimali [lib-1-media-matematica-operazioni-numeri-decimali] · DECIMO
+concetti: Addizione e sottrazione; Moltiplicazione; Per 10, 100, 1 000; Divisione e problemi
+- Quanto fa 3,45 + 12,7?
+- Per addizionare i numeri decimali in colonna, bisogna incolonnare le ___.
+- Per moltiplicare 4,5 per 100 basta aggiungere due zeri: 4,500.
+- Quanto fa 2,4 × 0,3?
+- Quanto fa 37,2 : 10?
+- Paghi un libro da 3,75 € con una banconota da 10 €. Quanto ricevi di resto?
+- Il prodotto di due numeri decimali compresi tra 0 e 1 è più piccolo di ciascuno dei due fattori.
+- Tre amici dividono in parti uguali una pizza da 7,50 €. Spiega come calcoli la quota di ognuno e come control…
+
 ## Calcolare la frazione di un numero [lib-1-media-matematica-frazione-di-un-numero] · QUOTA
 concetti: Frazione come operatore; Unità frazionaria di un numero; Problemi diretti; La parte che resta
 - Quanto è 1/6 di 42?
@@ -100,6 +133,17 @@ concetti: Frazione come operatore; Unità frazionaria di un numero; Problemi dir
 - I 3/10 di 100 € sono più dei 2/5 di 100 €.
 - Una bici costa 180 €. Con lo sconto paghi i 5/6 del prezzo. Quanto risparmi?
 - Un serbatoio contiene 600 litri d'acqua. Il primo giorno si usano i 2/5 dell'acqua e il secondo giorno 1/3 di…
+
+## Calcoli veloci a mente [lib-1-media-matematica-calcolo-mentale-strategie] · MENTE
+concetti: Scomporre i numeri; Compensazione; Moltiplicare per 5, 9 e 11; Raggruppare i fattori
+- Per calcolare 46 × 5 a mente conviene...
+- Con la compensazione: 58 + 37 = 60 + ___
+- Quale scomposizione ti aiuta a calcolare 8 × 34?
+- Per moltiplicare un numero per 9 puoi moltiplicarlo per 10 e poi sottrarre il numero stesso.
+- Quanto fa 25 × 13 × 4?
+- Quanto fa 36 × 11 a mente?
+- Per calcolare 83 − 29 puoi fare 83 − 30 e poi togliere ancora 1.
+- Spiega come calcoleresti a mente 4 × 37 × 25 e perché il tuo metodo è corretto.
 
 ## Chi viene prima nei calcoli? [lib-1-media-matematica-ordine-operazioni] · ORDINE
 concetti: Precedenza delle operazioni; Da sinistra a destra; Dal problema all'espressione
@@ -112,6 +156,39 @@ concetti: Precedenza delle operazioni; Da sinistra a destra; Dal problema all'es
 - Metti in ordine i passaggi per calcolare 60 − 4 × 3 × 2 + 9.
 - Al bar compri 3 cornetti da 2 € ciascuno e un succo da 3 €, e paghi con una banconota da 20 €. Scrivi un'unic…
 
+## Chili, grammi e litri [lib-1-media-matematica-misure-massa-capacita] · LITRO
+concetti: Misure di massa; Misure di capacità; Equivalenze pratiche; Acqua: litri e chili
+- Quanti grammi ci sono in un kilogrammo?
+- Una bottiglia d'acqua contiene 750 ml. Quanti litri sono?
+- Un etto, cioè un ettogrammo, corrisponde a ___ grammi.
+- Un litro di acqua ha una massa di circa 1 kg.
+- Quante bottigliette da 25 cl riempi con 2 litri di succo?
+- Compri 3 hg di prosciutto e 1,5 kg di pane. Quanti grammi pesa la spesa in tutto?
+- Una tazza contiene 2,5 dl di latte. Quanti millilitri sono?
+- Perché per l'acqua è facile passare da litri a kilogrammi, mentre per l'olio no?
+
+## Conosco somma e differenza [lib-1-media-matematica-problemi-somma-differenza] · SCARTO
+concetti: Il metodo; Il disegno a segmenti; La verifica
+- Se due numeri hanno somma 30 e differenza 10, il numero minore è 10.
+- Togliendo la differenza dalla somma si ottiene il ___ del numero minore.
+- Due numeri hanno somma 50 e differenza 12. Quali sono?
+- Nel disegno a segmenti, il segmento del numero maggiore è uguale a quello del minore più...
+- Anna e Marco hanno insieme 40 anni; Marco ha 6 anni più di Anna. Quanti anni ha Anna?
+- Come verifichi che 17 e 23 hanno somma 40 e differenza 6?
+- Due fratelli si dividono 85 € e uno riceve 15 € più dell'altro. Quanto riceve chi prende di più?
+- Spiega con un disegno a segmenti, descritto a parole, perché per trovare il numero minore si fa (somma − diff…
+
+## Coordinate sul piano cartesiano [lib-1-media-matematica-piano-cartesiano] · ASSE
+concetti: Assi e origine; Coordinate di un punto; Punti sugli assi; L'ordine conta
+- Il punto di incontro dei due assi cartesiani si chiama ___.
+- Nel punto P(5; 2), qual è l'ascissa?
+- I punti A(2; 5) e B(5; 2) sono lo stesso punto.
+- Per raggiungere il punto Q(3; 6) partendo dall'origine, ti muovi di...
+- Quale punto si trova sull'asse delle ordinate (asse y)?
+- Quali sono le coordinate dell'origine?
+- Come si chiama l'asse orizzontale del piano cartesiano?
+- Nel gioco della battaglia navale si dice prima la colonna e poi la riga. Perché è importante rispettare l'ord…
+
 ## Dalla parte al tutto [lib-1-media-matematica-problemi-inversi-frazioni] · TUTTO
 concetti: Problema inverso; Passare dall'unità frazionaria; Diretto o inverso?; Verifica
 - 1/4 di un numero è 9. Qual è il numero?
@@ -122,6 +199,17 @@ concetti: Problema inverso; Passare dall'unità frazionaria; Diretto o inverso?;
 - Se trovi che l'intero vale 50 sapendo che i suoi 2/5 valgono 20, puoi verificarlo calcolando 50 : 5 × 2 = 20.
 - Hai speso 12 €, che sono i 3/8 dei soldi che avevi nel salvadanaio. Quanti euro avevi?
 - In gita, i 5/6 degli alunni, cioè 45 ragazzi, hanno portato il pranzo al sacco. Quanti alunni ci sono in tutt…
+
+## Dalle frazioni ai decimali [lib-1-media-matematica-frazioni-decimali] · CAMBIO
+concetti: Frazioni decimali; Da frazione a decimale; Da decimale a frazione; Frazioni da ricordare
+- Quale di queste è una frazione decimale?
+- Come si scrive 23/100 come numero decimale?
+- Per trasformare una frazione in numero decimale si divide il numeratore per il ___.
+- A quale numero decimale corrisponde 3/4?
+- 1/5 è uguale a 0,5.
+- Quale frazione ridotta ai minimi termini corrisponde a 0,35?
+- Quanto vale 7/8 come numero decimale?
+- Un sacchetto contiene 1/4 di kg di olive e un altro 0,3 kg. Spiega quale contiene più olive.
 
 ## Differenze e coppie ordinate [lib-1-media-matematica-differenza-prodotto-cartesiano] · COPPIA
 concetti: Differenza tra insiemi; Insieme complementare; Prodotto cartesiano; Coppie ordinate
@@ -134,6 +222,17 @@ concetti: Differenza tra insiemi; Insieme complementare; Prodotto cartesiano; Co
 - Se A − B = Ø, allora tutti gli elementi di A appartengono anche a B.
 - Hai 3 magliette (rossa, blu e verde) e 2 pantaloni (jeans e neri). Spiega come puoi usare il prodotto cartesi…
 
+## Dividere un insieme in parti [lib-1-media-matematica-insiemi-partizione] · PARTI
+concetti: Che cos'è una partizione; Le tre condizioni; Partizioni nella realtà
+- A = {1, 2, 3, 4, 5, 6}. Quale di queste è una partizione di A?
+- In una partizione uno dei sottoinsiemi può essere vuoto.
+- In una partizione i sottoinsiemi devono essere a due a due ___, cioè senza elementi in comune.
+- In classe alcuni alunni portano gli occhiali e altri no. Perché i gruppi 'con occhiali' e 'senza occhiali' fo…
+- Le 52 carte di un mazzo francese vengono divise per seme. Quanti sottoinsiemi ha questa partizione?
+- Dividi i numeri da 1 a 20 in 'multipli di 2' e 'multipli di 3'. Perché NON è una partizione?
+- L'unione di tutti i sottoinsiemi di una partizione dà di nuovo l'insieme di partenza.
+- Proponi una partizione dei numeri naturali da 1 a 10 in tre sottoinsiemi e spiega perché funziona.
+
 ## Divisioni e resti [lib-1-media-matematica-divisione-proprieta] · RESTO
 concetti: Termini della divisione; Divisione esatta; Proprietà invariantiva; Lo zero nella divisione
 - Nella divisione 47 : 5 = 9 con resto 2, il numero 5 si chiama ___.
@@ -144,6 +243,28 @@ concetti: Termini della divisione; Divisione esatta; Proprietà invariantiva; Lo
 - Se 156 : 12 dà resto 0, allora 156 è un multiplo di 12.
 - Dividi 58 caramelle tra 9 bambini in parti uguali, dando a ciascuno il più possibile. Quante caramelle avanza…
 - Spiega perché non si può dividere un numero per zero. Aiutati con l'esempio 12 : 0.
+
+## Dopo la virgola [lib-1-media-matematica-numeri-decimali-valore] · VIRGOLA
+concetti: Parte intera e parte decimale; Decimi, centesimi, millesimi; Confrontare i decimali; Zeri finali
+- Nel numero 7,384 qual è la cifra dei centesimi?
+- 4,7 e 4,70 rappresentano lo stesso numero.
+- Un decimo è uguale a dieci ___.
+- Quale numero è il più grande?
+- Ordina dal più piccolo al più grande.
+- Come si legge 12,06?
+- Paolo dice che 2,15 è maggiore di 2,9 perché 15 è maggiore di 9. Che errore fa?
+- Perché aggiungere uno zero alla fine di 3,5 non cambia il numero, mentre aggiungerlo alla fine di 35 lo cambi…
+
+## Due parallele e una trasversale [lib-1-media-matematica-angoli-rette-parallele-trasversale] · TAGLIO
+concetti: Alterni interni; Corrispondenti; Coniugati interni; Riconoscere le parallele
+- Se due rette parallele sono tagliate da una trasversale, gli angoli corrispondenti sono ___.
+- Due rette parallele sono tagliate da una trasversale e un angolo alterno interno misura 70°. Quanto misura l'…
+- Due rette parallele sono tagliate da una trasversale. Uno dei due angoli coniugati interni misura 70°. Quanto…
+- Gli angoli coniugati interni formati da due parallele e una trasversale sono congruenti.
+- Due rette tagliate da una trasversale formano angoli alterni interni di 85° e 95°. Che cosa puoi dire delle r…
+- Dove si trovano due angoli corrispondenti?
+- Una trasversale forma con due rette parallele angoli acuti di 50°. Quanto misurano gli angoli ottusi della fi…
+- Le strisce di un passaggio pedonale sono tagliate da una linea obliqua. Come potresti verificare con un gonio…
 
 ## Fette di intero [lib-1-media-matematica-frazioni-unita-frazionaria] · FETTA
 concetti: Termini della frazione; Unità frazionaria; Parti uguali; Confrontare unità frazionarie
@@ -156,6 +277,39 @@ concetti: Termini della frazione; Unità frazionaria; Parti uguali; Confrontare 
 - In una classe di 24 alunni, 9 portano gli occhiali. Quale frazione della classe non porta gli occhiali?
 - Spiega perché 1/3 di una pizza è più grande di 1/5 della stessa pizza, anche se 3 è minore di 5.
 
+## Figure allo specchio [lib-1-media-matematica-assi-di-simmetria] · SPECCHI
+concetti: Asse di simmetria; Poligoni regolari; Triangoli e quadrilateri; Simmetria intorno a noi
+- Una retta che divide una figura in due parti che si sovrappongono piegando il foglio si chiama asse di ___.
+- Quanti assi di simmetria ha un quadrato?
+- Quanti assi di simmetria ha un rettangolo che non è un quadrato?
+- Un triangolo scaleno non ha assi di simmetria.
+- Quanti assi di simmetria ha un esagono regolare?
+- Quale di queste lettere maiuscole ha un asse di simmetria verticale?
+- Quale triangolo ha esattamente un asse di simmetria?
+- Perché la diagonale di un rettangolo non è un asse di simmetria, mentre la diagonale di un quadrato sì?
+
+## Figure disegnate con le coordinate [lib-1-media-matematica-piano-cartesiano-figure] · MAPPA
+concetti: Segmenti orizzontali; Segmenti verticali; Perimetri sul piano; Punto medio
+- Quanto è lungo il segmento con estremi A(2; 3) e B(9; 3)?
+- Il segmento con estremi C(4; 1) e D(4; 8) è verticale.
+- Per un segmento verticale, la lunghezza è la differenza tra le ___ degli estremi.
+- Un rettangolo ha vertici A(1; 1), B(6; 1), C(6; 4) e D(1; 4). Qual è il perimetro?
+- Qual è il punto medio del segmento con estremi (2; 3) e (10; 3)?
+- Tre vertici di un quadrato sono (1; 2), (5; 2) e (5; 6). Qual è il quarto vertice?
+- Due punti con la stessa ordinata stanno su un segmento parallelo all'asse delle ordinate.
+- Su una mappa a quadretti la casa è in (2; 1), la scuola in (2; 7) e la palestra in (8; 7). Spiega quanti quad…
+
+## Frazioni di quello che resta [lib-1-media-matematica-frazioni-del-resto] · RIMASTO
+concetti: Del totale o del resto?; Passo dopo passo; La frazione che rimane
+- Spendere 1/4 del totale e spendere 1/4 di quello che resta sono la stessa cosa.
+- Hai 120 €. Spendi 1/3 della somma per un gioco. Quanto ti resta?
+- Ti restano 80 € e spendi 1/4 di questa somma per un libro. Quanto costa il libro?
+- Nella frase 'regala 1/2 del resto', la frazione si calcola sulla parte che è ___, non sul totale.
+- Un libro ha 240 pagine. Il primo giorno ne leggi 1/4, il secondo 1/3 delle pagine rimaste. Quante pagine ti r…
+- Mangi metà di una torta e poi metà di quello che è rimasto. Che frazione della torta resta?
+- Spendi 2/5 dei tuoi soldi e poi 1/3 del resto. Che frazione del totale ti rimane?
+- Spiega perché, se spendi 1/2 dei tuoi soldi e poi 1/2 del resto, non hai speso tutto.
+
 ## Frazioni diverse, stessa quantità [lib-1-media-matematica-frazioni-equivalenti] · UGUALE
 concetti: Frazioni equivalenti; Proprietà invariantiva; Prodotti in croce
 - Quale di queste frazioni è equivalente a 1/2?
@@ -167,6 +321,17 @@ concetti: Frazioni equivalenti; Proprietà invariantiva; Prodotti in croce
 - Luca mangia 2/8 di una torta e Sara 1/4 di una torta uguale. Chi ne mangia di più?
 - Scrivi tre frazioni equivalenti a 6/9 e spiega come le hai trovate: una deve avere i termini più piccoli poss…
 
+## Gli angoli dell'orologio [lib-1-media-matematica-orologio-angoli] · ORARIO
+concetti: Il quadrante; La lancetta dei minuti; Angoli alle ore piene; Anche le ore si muovono
+- Di quanti gradi si sposta la lancetta delle ore in un'ora?
+- Che angolo formano le lancette alle 3:00?
+- In un minuto la lancetta dei minuti ruota di ___ gradi.
+- Alle 6:00 le lancette formano un angolo piatto.
+- Che angolo, il minore dei due, formano le lancette alle 4:00?
+- Di quanti gradi ruota la lancetta dei minuti in 20 minuti?
+- Alle 3:30 la lancetta delle ore è a metà tra il 3 e il 4. Che angolo formano le lancette?
+- Perché alle 12:30 le lancette non formano un angolo piatto, anche se la lancetta dei minuti indica il 6?
+
 ## Gradi, primi e secondi [lib-1-media-matematica-misura-angoli-sessagesimale] · GRADO
 concetti: Il grado; Primi e secondi; Operazioni con le misure; Goniometro
 - Un grado equivale a ___ primi.
@@ -177,6 +342,17 @@ concetti: Il grado; Primi e secondi; Operazioni con le misure; Goniometro
 - Quanto fa 90° − 37° 25′?
 - La misura 15° 80′ è scritta in forma corretta.
 - Un angolo misura 47° 50′ 40″. Calcola il suo doppio e scrivilo in forma corretta, spiegando i passaggi.
+
+## Gran ripasso di fine anno [lib-1-media-matematica-ripasso-generale-fine-anno] · FINALE
+concetti: Numeri e potenze; Divisibilità; Frazioni; Geometria
+- Quanto vale 2³ + 3²?
+- Il numero 2 340 è divisibile sia per 3 sia per 5.
+- Qual è il mcm tra 6 e 15?
+- Due frazioni che rappresentano la stessa quantità si dicono ___.
+- Quanto sono i 3/8 di 64?
+- Quanto misura ogni angolo interno di un triangolo equilatero?
+- Quale espressione vale 20?
+- Una bottiglia da 1 litro e mezzo è piena per 2/3. Spiega quanta acqua contiene.
 
 ## I numeri degli antichi Romani [lib-1-media-matematica-numeri-romani] · MILLE
 concetti: Simboli romani; Sommare e sottrarre; Regole di scrittura; Un sistema non posizionale
@@ -211,6 +387,28 @@ concetti: Fattori e prodotto; Commutativa e associativa; Proprietà distributiva
 - Quale proprietà assicura che (5 × 7) × 2 = 5 × (7 × 2)?
 - Una scatola contiene 24 pastelli. Spiega come puoi calcolare a mente quanti pastelli ci sono in 15 scatole us…
 
+## Il giro del perimetro [lib-1-media-matematica-perimetro-poligoni] · CORNICE
+concetti: Il perimetro; Poligoni regolari; Formule inverse; Problemi pratici
+- Il perimetro di un poligono è la ___ delle misure dei suoi lati.
+- Un triangolo ha lati di 5 cm, 7 cm e 9 cm. Qual è il perimetro?
+- Qual è il perimetro di un esagono regolare con lato 4 cm?
+- Un quadrato ha perimetro 36 cm. Quanto misura il lato?
+- Un pentagono regolare con lato 6 cm ha perimetro 36 cm.
+- Un triangolo isoscele ha perimetro 36 cm e base 10 cm. Quanto misura ciascun lato obliquo?
+- Vuoi recintare un orto rettangolare di 12 m per 7 m con una rete che costa 2 € al metro. Quanto spendi?
+- Un quadrato e un triangolo equilatero hanno lo stesso perimetro di 24 cm. Spiega quale dei due ha il lato più…
+
+## Il linguaggio dei computer [lib-1-media-matematica-sistema-binario] · BINARIO
+concetti: Basi diverse; La base due; Da binario a decimale; Da decimale a binario
+- Quali cifre usa il sistema binario?
+- Nel sistema in base 5 si usano le cifre da 0 a 5.
+- Nel sistema binario ogni posizione vale il ___ della posizione alla sua destra.
+- Quanto vale in base dieci il numero binario 1011?
+- Quanto vale in base dieci il numero binario 10000?
+- Come si scrive il numero 6 in binario?
+- Metti in ordine i passaggi per scrivere 13 in binario.
+- Perché nel sistema binario servono molte più cifre che nel sistema decimale per scrivere lo stesso numero?
+
 ## Il massimo comune divisore [lib-1-media-matematica-massimo-comune-divisore] · MASSIMO
 concetti: Divisori comuni; MCD con la scomposizione; Casi particolari; Problemi con il MCD
 - Quali sono i divisori comuni di 12 e 18?
@@ -244,6 +442,28 @@ concetti: Multipli comuni; mcm con la scomposizione; Casi particolari; Problemi 
 - Due fari si accendono insieme: uno lampeggia ogni 6 secondi, l'altro ogni 8 secondi. Dopo quanti secondi lamp…
 - Giulia va in piscina ogni 4 giorni e Marco ogni 6 giorni. Oggi si sono incontrati in piscina. Tra quanti gior…
 
+## Il segreto del triangolo isoscele [lib-1-media-matematica-triangolo-isoscele-proprieta] · BASE
+concetti: Lati e base; Angoli alla base; L'altezza sulla base; Calcoli con gli angoli
+- In un triangolo isoscele gli angoli alla ___ sono congruenti.
+- Un triangolo equilatero è anche isoscele.
+- In un triangolo isoscele l'angolo al vertice misura 40°. Quanto misura ciascun angolo alla base?
+- Un angolo alla base di un triangolo isoscele misura 35°. Quanto misura l'angolo al vertice?
+- In un triangolo isoscele, l'altezza relativa alla base...
+- Può esistere un triangolo isoscele con gli angoli alla base di 95°?
+- L'altezza relativa alla base di un triangolo isoscele divide la base in due parti diverse.
+- Un triangolo isoscele ha base 16 cm. L'altezza relativa alla base la divide in due parti: spiega quanto misur…
+
+## Il trucco di Euclide [lib-1-media-matematica-mcd-algoritmo-euclide] · EUCLIDE
+concetti: Divisioni successive; L'ultimo resto non nullo; Quando conviene
+- Nell'algoritmo di Euclide la prima divisione si fa tra il numero maggiore e il minore.
+- Nell'algoritmo di Euclide il MCD è l'ultimo ___ diverso da zero.
+- Per MCD(84, 36): 84 : 36 = 2 con resto 12. Qual è la divisione successiva?
+- Con l'algoritmo di Euclide: 84 : 36 = 2 resto 12, poi 36 : 12 = 3 resto 0. Qual è MCD(84, 36)?
+- Calcola MCD(91, 65) con l'algoritmo di Euclide.
+- Ordina i passaggi per trovare MCD(150, 54) con l'algoritmo di Euclide.
+- Se la prima divisione dà subito resto 0, come in 60 : 15, qual è il MCD?
+- Perché per numeri grandi come 1 071 e 462 l'algoritmo di Euclide può essere più comodo della scomposizione in…
+
 ## Il valore di ogni cifra [lib-1-media-matematica-sistema-decimale-posizionale] · CIFRA
 concetti: Sistema decimale; Valore posizionale; Ordini e classi; Comporre e scomporre
 - Nel sistema decimale, 10 centinaia formano 1 migliaio.
@@ -266,6 +486,17 @@ concetti: L'insieme N; Successivo e precedente; Retta orientata; Confronto
 - Metti in ordine questi numeri dal più piccolo al più grande.
 - Sulla retta orientata, perché la distanza tra 0 e 1 deve essere uguale a quella tra 5 e 6? Cosa succederebbe …
 
+## Indagine statistica in classe [lib-1-media-matematica-indagine-statistica-frequenze] · DATI
+concetti: Le fasi dell'indagine; Frequenza assoluta; Frequenza relativa; Caratteri qualitativi e quantitativi
+- Ordina le fasi di un'indagine statistica.
+- Il numero di volte in cui una risposta compare si chiama frequenza ___.
+- Quale di questi è un carattere quantitativo?
+- Il numero di fratelli è un carattere qualitativo.
+- In una classe di 25 alunni: 10 giocano a calcio, 6 nuotano, 5 fanno danza e gli altri giocano a basket. Qual …
+- In una classe 10 alunni su 25 giocano a calcio. Qual è la frequenza relativa del calcio?
+- La somma delle frequenze relative di tutte le risposte è sempre 1.
+- Nella classe A 12 alunni su 20 hanno un animale, nella classe B 15 su 30. Spiega in quale classe gli animali …
+
 ## Insiemi dentro altri insiemi [lib-1-media-matematica-sottoinsiemi] · VUOTO
 concetti: Sottoinsieme; Insieme vuoto; Insieme universo; Contare i sottoinsiemi
 - A = {cane, gatto, pesce, criceto}. Quale di questi insiemi è un sottoinsieme di A?
@@ -276,6 +507,17 @@ concetti: Sottoinsieme; Insieme vuoto; Insieme universo; Contare i sottoinsiemi
 - Se B è un sottoinsieme di A, allora anche A è per forza un sottoinsieme di B.
 - Quanti sottoinsiemi ha in tutto l'insieme D = {x, y, z}, contando anche Ø e D stesso?
 - L'universo U è formato dai numeri da 1 a 10. A è l'insieme dei numeri pari di U e B quello dei multipli di 4 …
+
+## Insiemi gemelli o solo equipotenti? [lib-1-media-matematica-insiemi-uguali-equipotenti] · GEMELLI
+concetti: Cardinalità di un insieme; Insiemi uguali; Insiemi equipotenti; Ordine e ripetizioni
+- Qual è la cardinalità dell'insieme delle lettere della parola MAMMA?
+- {1, 2, 3} e {3, 1, 2} sono due insiemi diversi perché l'ordine degli elementi è diverso.
+- Quale insieme è uguale ad A = {numeri pari compresi tra 1 e 9}?
+- Due insiemi con lo stesso numero di elementi si dicono ___.
+- Quale coppia di insiemi è equipotente ma NON uguale?
+- Due insiemi uguali sono sempre anche equipotenti.
+- Qual è la cardinalità dell'insieme dei giorni della settimana che iniziano con la lettera M?
+- Come puoi capire se l'insieme degli alunni e quello delle sedie di un'aula sono equipotenti senza contarli?
 
 ## Insiemi: chi entra e chi no [lib-1-media-matematica-insiemi-rappresentazione] · VENN
 concetti: Che cos'è un insieme; Appartenenza; Rappresentare un insieme; Insiemi finiti e infiniti
@@ -288,6 +530,28 @@ concetti: Che cos'è un insieme; Appartenenza; Rappresentare un insieme; Insiemi
 - Se D = {1, 3, 5}, allora l'insieme {5, 1, 3} è uguale a D.
 - Il gruppo «i ragazzi alti della tua classe» non è un insieme matematico, mentre «i ragazzi della tua classe p…
 
+## Interi e frazioni insieme [lib-1-media-matematica-numeri-misti] · MISTO
+concetti: Numero misto; Da frazione impropria a misto; Da misto a frazione impropria; Misti nella realtà
+- Hai mangiato 2 pizze intere e mezza pizza. Come scrivi la quantità come numero misto?
+- Per trasformare un numero misto in frazione impropria, moltiplichi l'intero per il ___ e aggiungi il numerato…
+- Come scrivi 17/5 come numero misto?
+- Quale frazione impropria corrisponde a 2 e 3/4?
+- In un numero misto la frazione che accompagna l'intero è sempre propria.
+- Ogni torta è divisa in 6 fette e hai 23 fette. Quante torte intere puoi ricomporre e quante fette avanzano?
+- Tra quali due interi consecutivi si trova 13/3 sulla retta dei numeri?
+- Spiega perché 3 e 1/2 è uguale a 7/2, ragionando sulle metà.
+
+## La famiglia dei quadrilateri [lib-1-media-matematica-quadrilateri-classificazione] · ROMBO
+concetti: Proprietà dei quadrilateri; Trapezi; Parallelogrammi; Rettangolo, rombo, quadrato
+- Quanto misura la somma degli angoli interni di un quadrilatero?
+- Un quadrilatero con due lati paralleli, detti basi, si chiama ___.
+- Ogni quadrato è anche un rombo.
+- Tre angoli di un quadrilatero misurano 80°, 100° e 95°. Quanto misura il quarto?
+- Quale proprietà hanno tutti i parallelogrammi?
+- Quale quadrilatero ha tutti i lati congruenti ma non necessariamente gli angoli retti?
+- Ogni rettangolo è anche un quadrato.
+- Spiega perché il quadrato si può considerare sia un rettangolo sia un rombo.
+
 ## La forza delle potenze di dieci [lib-1-media-matematica-potenze-di-dieci] · DIECI
 concetti: Potenze di 10; Moltiplicare per potenze di 10; Scrittura polinomiale; Numeri grandi in forma compatta
 - Quanti zeri ha il numero 10⁷ scritto per esteso?
@@ -298,6 +562,28 @@ concetti: Potenze di 10; Moltiplicare per potenze di 10; Scrittura polinomiale; 
 - 1 000 × 1 000 = 10⁵
 - La distanza media tra la Terra e il Sole è di circa 150 000 000 km. Come si scrive in forma compatta?
 - Spiega perché 10³ × 10⁴ dà un numero con 7 zeri, usando sia il conteggio degli zeri sia le proprietà delle po…
+
+## La leggenda della scacchiera [lib-1-media-matematica-potenze-di-due-raddoppi] · CHICCO
+concetti: Raddoppi successivi; Crescita veloce; La leggenda degli scacchi
+- Quanto vale 2⁶?
+- 2¹⁰ è uguale a 1 024.
+- Sulla scacchiera della leggenda, sulla prima casella c'è 1 chicco e su ogni casella successiva ce n'è il ___ …
+- Quanti chicchi ci sono sulla 5ª casella della scacchiera?
+- Ordina dalla più piccola alla più grande.
+- Un batterio si divide in due ogni ora. Partendo da 1 batterio, quanti ce ne sono dopo 8 ore?
+- Partendo da 1, cosa fa arrivare più in alto dopo 10 passi: aggiungere 100 a ogni passo o raddoppiare a ogni p…
+- Perché la leggenda racconta che il re non riuscì a dare all'inventore tutti i chicchi richiesti per le 64 cas…
+
+## La media dei voti [lib-1-media-matematica-media-aritmetica] · MEDIA
+concetti: Calcolare la media; Che cosa significa; Valori estremi; Il dato mancante
+- Per calcolare la media aritmetica si sommano tutti i valori e si divide per il loro ___.
+- Qual è la media dei voti 6, 7, 8, 7?
+- Le temperature di tre giorni sono 12 °C, 15 °C e 18 °C. Qual è la temperatura media?
+- La media aritmetica è sempre uno dei valori del gruppo di dati.
+- Hai preso 6, 7 e 5. Che voto ti serve nella quarta verifica per avere la media del 7?
+- Cinque amici hanno 10, 10, 10, 10 e 60 figurine. Quanto vale la media?
+- Perché nel gruppo 10, 10, 10, 10, 60 la media non descrive bene la maggior parte dei dati?
+- Un ragazzo dice: 'La media dei miei voti è 7, quindi ho preso 7 in tutte le verifiche'. Spiega perché sbaglia.
 
 ## La somma delle cifre [lib-1-media-matematica-criteri-divisibilita-3-9-11] · NOVE
 concetti: Divisibilità per 3; Divisibilità per 9; Divisibilità per 11; Criteri combinati
@@ -332,6 +618,50 @@ concetti: Prodotto con la stessa base; Quoziente con la stessa base; Potenza di 
 - Quanto vale 7⁵ × 7³ : 7⁶?
 - Usando le proprietà delle potenze, spiega perché un numero diverso da zero elevato a 0 fa 1. Parti, per esemp…
 
+## Leggere i grafici statistici [lib-1-media-matematica-grafici-statistici] · GRAFICO
+concetti: Ideogramma; Diagramma a barre; Areogramma; Diagramma cartesiano
+- In un ideogramma ogni simbolo vale 4 libri. Quanti libri rappresentano 6 simboli e mezzo?
+- In un areogramma il cerchio intero, cioè ___ gradi, rappresenta il totale.
+- Per mostrare come cambia la temperatura nelle ore di una giornata, quale grafico è più adatto?
+- In un diagramma a barre l'altezza di ogni barra è proporzionale alla frequenza.
+- In un areogramma un settore rappresenta il 25% dei dati. Quanto misura il suo angolo?
+- Su 30 alunni, 10 preferiscono la montagna. Quanto misura il settore 'montagna' in un areogramma?
+- In un diagramma a barre la barra 'calcio' è alta il doppio della barra 'tennis', che vale 7. Quanti hanno sce…
+- Perché l'areogramma è adatto a mostrare come si divide un totale in parti, mentre il diagramma cartesiano è a…
+
+## Linee aperte, chiuse, intrecciate [lib-1-media-matematica-linee-spezzate-curve] · LINEA
+concetti: Tipi di linee; Aperte e chiuse; Semplici e intrecciate; La spezzata
+- Una linea formata da segmenti consecutivi non allineati si chiama...
+- In una linea chiusa il punto di partenza coincide con quello di arrivo.
+- Una linea che taglia sé stessa si dice ___.
+- Una linea formata in parte da segmenti e in parte da archi curvi si chiama...
+- Una spezzata ha lati di 3 cm, 4,5 cm e 2 cm. Quanto è lunga?
+- Quale linea separa il piano in una parte 'interna' e una 'esterna'?
+- Una spezzata chiusa e semplice forma il contorno di...
+- Descrivi a parole la forma del numero 8 e spiega che tipo di linea è: aperta o chiusa, semplice o intrecciata.
+
+## Lordo, netto e tara [lib-1-media-matematica-peso-lordo-netto-tara] · TARA
+concetti: Peso netto; Tara; Peso lordo; Il dato mancante
+- Il peso lordo è la somma del peso netto e della ___.
+- In una scatola di biscotti, che cos'è la tara?
+- Un vasetto di miele ha peso netto 400 g e tara 150 g. Qual è il peso lordo?
+- Se la tara non è zero, il peso netto è sempre minore del peso lordo.
+- Un sacchetto pesa in tutto 1,2 kg e la confezione vuota pesa 200 g. Qual è il peso netto?
+- Una cassetta di arance pesa 12 kg in tutto e le arance pesano 10,5 kg. Quanto pesa la cassetta vuota?
+- Un fruttivendolo riceve 6 scatole, ognuna con peso lordo 2,7 kg e tara 0,2 kg. Quanti kg di frutta ha ricevut…
+- Perché sulle confezioni si indica il peso netto e non quello lordo?
+
+## MCD e mcm di tre numeri [lib-1-media-matematica-mcd-mcm-tre-numeri] · TRIO
+concetti: MCD di tre numeri; mcm di tre numeri; Problemi con tre dati
+- Il MCD di tre numeri deve dividere tutti e tre i numeri.
+- Qual è MCD(12, 18, 30)?
+- Qual è mcm(4, 6, 10)?
+- Nel mcm si prendono tutti i fattori primi, comuni e non comuni, con l'esponente ___.
+- A = 2³ × 3 × 5, B = 2² × 3², C = 2 × 3 × 7. Qual è il MCD?
+- Tre fari si accendono ogni 8, 12 e 20 secondi. Se si accendono insieme adesso, dopo quanti secondi lo rifaran…
+- Hai nastri lunghi 24, 36 e 60 cm e vuoi tagliarli in pezzi uguali, più lunghi possibile, senza avanzi. Quanto…
+- Nel problema dei nastri da 24, 36 e 60 cm tagliati in pezzi da 12 cm, quanti pezzi ottieni in tutto? Perché s…
+
 ## MCD o mcm? Scegli bene [lib-1-media-matematica-problemi-mcd-mcm] · CICLO
 concetti: Quando usare il MCD; Quando usare il mcm; Controllare la risposta
 - Se devi preparare con 24 matite e 36 gomme il maggior numero possibile di pacchetti tutti uguali, senza avanz…
@@ -342,6 +672,50 @@ concetti: Quando usare il MCD; Quando usare il mcm; Controllare la risposta
 - Calcolando quando due semafori tornano verdi insieme, puoi ottenere un tempo più breve del ciclo di ciascuno …
 - Vuoi coprire un pavimento rettangolare di 360 cm per 480 cm con piastrelle quadrate tutte uguali, le più gran…
 - Leggi i due problemi. A: hai 30 biglie rosse e 42 blu e vuoi preparare il maggior numero possibile di sacchet…
+
+## Metri, centimetri e chilometri [lib-1-media-matematica-misure-lunghezza] · METRO
+concetti: Il metro e le sue unità; Equivalenze; Scegliere l'unità adatta; Un sistema decimale
+- Quanti centimetri ci sono in un metro?
+- Passando da un'unità di lunghezza a quella immediatamente più piccola, si moltiplica per ___.
+- Quanti metri sono 3,5 km?
+- Quale unità useresti per misurare la distanza tra Milano e Roma?
+- 250 cm sono uguali a 25 m.
+- Ordina queste lunghezze dalla più piccola alla più grande.
+- Un'asse è lunga 1,2 m e un'altra 35 cm. Quanto sono lunghe in tutto?
+- Perché il sistema metrico si chiama 'decimale'? Fai un esempio.
+
+## Milioni e miliardi senza paura [lib-1-media-matematica-numeri-grandi-milioni-miliardi] · MILIONE
+concetti: Classi di cifre; Leggere e scrivere; Confrontare numeri grandi; Ordini di grandezza
+- Quanti milioni ci sono in un miliardo?
+- Come si scrive in cifre 'tre milioni quarantamila cinque'?
+- Le cifre di un numero grande si separano in gruppi di ___ partendo da destra.
+- Un milione di secondi è più di dieci giorni.
+- Quale numero è il più grande?
+- Nel numero 4 728 315 609, qual è la cifra delle centinaia di milioni?
+- Quanti zeri ha un miliardo scritto in cifre?
+- La Terra ha circa 8 miliardi di abitanti e l'Italia circa 59 milioni. Spiega perché la popolazione mondiale è…
+
+## Misteri dei numeri primi [lib-1-media-matematica-primi-gemelli-goldbach] · MISTERO
+concetti: Primi gemelli; Congettura di Goldbach; Il 2 e gli altri primi; Congettura e teorema
+- Quale coppia è formata da primi gemelli?
+- Tutti i numeri primi sono dispari.
+- Un'affermazione che sembra vera ma non è ancora stata dimostrata si chiama ___.
+- Come puoi scrivere 20 come somma di due numeri primi?
+- In quanti modi puoi scrivere 16 come somma di due primi, senza contare l'ordine?
+- Perché, tra i numeri maggiori di 2, i primi gemelli sono sempre entrambi dispari?
+- La congettura di Goldbach è stata verificata per moltissimi numeri, ma nessuno l'ha ancora dimostrata in gene…
+- Perché in matematica non basta controllare tanti esempi per dire che un'affermazione è vera per tutti i numer…
+
+## Moda e mediana a confronto [lib-1-media-matematica-moda-mediana] · CENTRO
+concetti: La moda; La mediana; Mediana con dati pari; Scegliere l'indice
+- Il valore che compare più volte in un gruppo di dati si chiama ___.
+- Qual è la moda di 3, 7, 5, 7, 2?
+- Qual è la mediana di 3, 7, 5, 7, 2?
+- La mediana è sempre il valore che compare più spesso.
+- Qual è la mediana di 4, 10, 6, 8?
+- Un negozio di scarpe vuole sapere quale numero di scarpa ordinare in quantità maggiore. Quale indice gli serv…
+- Un gruppo di dati può avere più di una moda.
+- Gli stipendi di 5 persone sono 1 000, 1 100, 1 200, 1 300 e 10 000 euro. Spiega perché la mediana descrive me…
 
 ## Moltiplicare e dividere frazioni [lib-1-media-matematica-moltiplicazione-divisione-frazioni] · INVERSO
 concetti: Prodotto di frazioni; Semplificare in croce; Frazione inversa; Divisione di frazioni
@@ -365,6 +739,17 @@ concetti: Multipli; Divisori; Legame tra multipli e divisori; Trovare tutti i di
 - Vuoi dividere 36 caramelle in sacchetti tutti uguali, senza avanzi. Quale di questi numeri di sacchetti non p…
 - Spiega un metodo per trovare tutti i divisori di 30 senza dimenticarne nessuno, poi elencali.
 
+## Numeri perfetti, abbondanti e difettivi [lib-1-media-matematica-numeri-perfetti] · IDEALE
+concetti: Divisori propri; Numeri perfetti; Abbondanti e difettivi; Primi sempre difettivi
+- Quali sono i divisori propri di 10?
+- Un numero è perfetto quando è uguale alla ___ dei suoi divisori propri.
+- 6 è un numero perfetto perché 1 + 2 + 3 = 6.
+- Quale di questi numeri è perfetto?
+- I divisori propri di 12 sono 1, 2, 3, 4 e 6, con somma 16. Come si chiama 12?
+- Ogni numero primo è abbondante.
+- Qual è la somma dei divisori propri di 8, e che numero è 8?
+- Perché un numero primo non può mai essere perfetto?
+
 ## Numeri primi tra loro [lib-1-media-matematica-numeri-primi-tra-loro] · COPRIMI
 concetti: Primi tra loro; mcm di numeri primi tra loro; MCD × mcm; Numeri consecutivi
 - Quale coppia è formata da numeri primi tra loro?
@@ -375,6 +760,39 @@ concetti: Primi tra loro; mcm di numeri primi tra loro; MCD × mcm; Numeri conse
 - Due numeri consecutivi, come 20 e 21, sono sempre primi tra loro.
 - Per quale di queste coppie il mcm è uguale al prodotto dei due numeri?
 - Verifica con i numeri 6 e 15 che MCD × mcm è uguale al prodotto dei due numeri. Mostra i calcoli.
+
+## Ore, minuti e secondi [lib-1-media-matematica-misure-tempo-calcoli] · MINUTO
+concetti: Il tempo non è decimale; Trasformare le unità; Calcolare una durata; Somme con il riporto
+- Quanti secondi ci sono in un'ora?
+- Il tempo si misura in un sistema decimale, come le lunghezze.
+- Quanti minuti sono 2 h 15 min?
+- In 1 ora ci sono ___ minuti.
+- Come scrivi 200 minuti in ore e minuti?
+- Un treno parte alle 8:45 e arriva alle 11:20. Quanto dura il viaggio?
+- Quanto fa 1 h 50 min + 45 min?
+- Spiega perché per calcolare 10:15 − 7:40 non puoi fare il calcolo come con i numeri decimali.
+
+## Pari o dispari? Le regole [lib-1-media-matematica-numeri-pari-dispari] · DISPARI
+concetti: Pari e dispari; Somme di pari e dispari; Prodotti di pari e dispari; Numeri consecutivi
+- Quale di questi numeri è dispari?
+- La somma di due numeri dispari è sempre un numero dispari.
+- Il prodotto di più numeri è dispari solo se tutti i fattori sono ___.
+- Senza calcolare: 137 + 249 + 581 dà un risultato pari o dispari?
+- Due numeri consecutivi sono sempre...
+- Il prodotto 3 × 5 × 7 × 8 è pari o dispari?
+- La somma di due numeri consecutivi è sempre dispari.
+- Luca ha 25 caramelle e vuole dividerle con il fratello in due parti uguali senza spezzarle. Perché non ci rie…
+
+## Per cento vuol dire su cento [lib-1-media-matematica-percentuali-come-frazioni] · SCONTO
+concetti: Percentuale come frazione; Percentuali famose; Calcolare una percentuale; Sconti
+- Che cosa significa 35%?
+- Il 50% di una quantità è la sua metà.
+- Il 25% corrisponde alla frazione ___.
+- Quanto vale il 10% di 350?
+- Quanto vale il 30% di 80 €?
+- Una felpa costa 50 € ed è scontata del 20%. Quanto la paghi?
+- Una percentuale non può mai superare il 100%.
+- Un negozio fa lo sconto del 25% su uno zaino da 60 €. Spiega due modi diversi per trovare il prezzo scontato.
 
 ## Poligoni: lati, angoli, diagonali [lib-1-media-matematica-poligoni] · ESAGONO
 concetti: Che cos'è un poligono; Somma degli angoli interni; Diagonali; Poligoni regolari
@@ -397,6 +815,17 @@ concetti: Potenza di una frazione; Casi particolari; Espressioni con le frazioni
 - (1/3)² = 2/6
 - Quanto vale (1 − 1/4) : (1/2)²?
 - Spiega perché (3/2)² è maggiore di 3/2, mentre (2/3)² è minore di 2/3.
+
+## Problemi con i segmenti [lib-1-media-matematica-problemi-segmenti] · LUNGO
+concetti: Somma e differenza di segmenti; Multipli e sottomultipli; Somma e differenza note; Somma o differenza e multiplo
+- AB = 12 cm e BC = 7 cm sono consecutivi e allineati. Quanto misura AC?
+- Se AB è il triplo di CD, allora CD è la ___ parte di AB.
+- Se AB = 15 cm e AB è il triplo di CD, allora CD = 45 cm.
+- La somma di due segmenti è 40 cm e la differenza è 8 cm. Quanto misura il maggiore?
+- La somma di due segmenti è 35 cm e uno è il quadruplo dell'altro. Quanto misura il minore?
+- AC = 30 cm e B è un punto di AC con AB = 18 cm. Quanto misura BC?
+- Due segmenti differiscono di 18 cm e uno è il triplo dell'altro. Quanto misurano?
+- Spiega come risolvi: 'Il perimetro di un rettangolo è 50 cm e la base supera l'altezza di 5 cm. Quanto misura…
 
 ## Proprie, improprie o apparenti? [lib-1-media-matematica-frazioni-proprie-improprie-apparenti] · INTERO
 concetti: Frazioni proprie; Frazioni improprie; Frazioni apparenti; Interi e parti
@@ -431,6 +860,39 @@ concetti: Stesso denominatore; Stesso numeratore; Minimo comune denominatore; Fr
 - Metti in ordine queste frazioni dalla più piccola alla più grande.
 - Anna ha letto i 3/5 di un libro e Bea i 5/8 dello stesso libro. Chi ha letto di più? Spiega come confronti le…
 
+## Quando il resto conta [lib-1-media-matematica-divisione-resto-problemi] · AVANZO
+concetti: Quoziente e resto; Arrotondare per eccesso; Il resto come risposta; Verifica
+- In 47 : 6, quanto valgono quoziente e resto?
+- In una divisione il resto può essere maggiore del divisore.
+- Per verificare una divisione con resto si calcola: divisore × quoziente + ___ = dividendo.
+- A una gita partecipano 130 persone e ogni pullman porta 50 passeggeri. Quanti pullman servono?
+- Hai 100 figurine da sistemare in bustine da 8. Quante figurine restano fuori dalle bustine piene?
+- Un libro ha 230 pagine e ne leggi 30 al giorno. In quanti giorni lo finisci?
+- In una divisione il divisore è 9, il quoziente 14 e il resto 5. Qual è il dividendo?
+- Perché nel problema dei pullman la risposta non è il quoziente della divisione, ma il quoziente più 1?
+
+## Quanti divisori ha un numero? [lib-1-media-matematica-contare-divisori] · CONTA
+concetti: Elenco dei divisori; Contare con gli esponenti; Quadrati perfetti; Numeri primi
+- Quanti divisori ha 12?
+- Un numero primo ha esattamente due divisori.
+- I divisori si trovano a coppie: se 4 divide 36, anche ___ divide 36.
+- 72 = 2³ × 3². Quanti divisori ha 72?
+- Quale calcolo dà il numero dei divisori di 2⁴ × 5?
+- Quale di questi numeri ha un numero DISPARI di divisori?
+- Perché 49 ha un numero dispari di divisori (1, 7, 49)?
+- Senza elencarli, spiega come trovi quanti divisori ha 100.
+
+## Radici con i fattori primi [lib-1-media-matematica-radice-quadrata-scomposizione] · DIMEZZA
+concetti: Quadrati perfetti scomposti; Dimezzare gli esponenti; Radice di un prodotto
+- Un numero è un quadrato perfetto se nella sua scomposizione tutti gli esponenti sono pari.
+- Quale di questi numeri è un quadrato perfetto?
+- Per calcolare la radice quadrata di un quadrato perfetto scomposto, si ___ ogni esponente.
+- 324 = 2² × 3⁴. Quanto vale √324?
+- Quanto vale √(16 × 25)?
+- 1 764 = 2² × 3² × 7². Quanto vale √1 764?
+- 72 = 2³ × 3². Perché 72 non è un quadrato perfetto?
+- Un giardino quadrato ha area 900 m². Spiega come trovi la lunghezza del lato usando la scomposizione.
+
 ## Rette parallele e perpendicolari [lib-1-media-matematica-rette-nel-piano] · BINARI
 concetti: Rette incidenti; Rette parallele; Rette perpendicolari; Distanza punto-retta
 - Due rette che hanno un solo punto in comune si dicono:
@@ -453,6 +915,17 @@ concetti: Semplificare; Frazione irriducibile; Semplificare con il MCD
 - In una classe di 30 alunni, 18 vanno a scuola a piedi. Quale frazione irriducibile rappresenta questa parte d…
 - Marco semplifica 16/40 dividendo per 2, ottiene 8/20 e dice di aver finito. Ha ragione? Spiega e trova la fra…
 
+## Riga e compasso all'opera [lib-1-media-matematica-costruzioni-riga-compasso] · ARCO
+concetti: Gli strumenti; Asse di un segmento; Bisettrice con il compasso; Triangolo equilatero
+- A che cosa serve il compasso nelle costruzioni geometriche?
+- L'asse di un segmento è la retta perpendicolare al segmento passante per il suo punto ___.
+- Ogni punto dell'asse di un segmento AB è alla stessa distanza da A e da B.
+- Ordina i passaggi per costruire l'asse di un segmento AB.
+- Per costruire un triangolo equilatero sul lato AB, che apertura dai al compasso?
+- Per costruire la bisettrice di un angolo, il primo arco si traccia puntando il compasso...
+- Con riga e compasso si può costruire un triangolo equilatero solo se la riga è graduata.
+- Due amici abitano nei punti A e B. Spiega dove si può costruire una fontana che sia alla stessa distanza dall…
+
 ## Ripasso: detective dei divisori [lib-1-media-matematica-ripasso-divisibilita] · INDIZIO
 concetti: Criteri di divisibilità; Fattori primi; MCD e mcm; Ragionare sui numeri
 - Per quali numeri è divisibile 4 230?
@@ -474,6 +947,39 @@ concetti: Espressioni con le potenze; Proprietà delle operazioni; Valore posizi
 - (20 + 4) : 4 = 20 : 4 + 4 : 4
 - Una scatola contiene 6 file da 6 confezioni, e ogni confezione ha 6 biscotti. Quanti biscotti ci sono nella s…
 - Un'edicola riceve 15 pacchi da 24 giornali ciascuno e ne vende 318. Quanti giornali restano? Scrivi un'unica …
+
+## Ripasso: sfida delle frazioni [lib-1-media-matematica-ripasso-frazioni] · PEZZI
+concetti: Equivalenza e semplificazione; Operazioni con le frazioni; Confronto; Problemi con le frazioni
+- A quale frazione ridotta ai minimi termini è uguale 18/24?
+- 5/8 è maggiore di 3/5.
+- Quanto fa 2/3 + 1/6?
+- Quanto fa 3/4 × 8/9?
+- Per dividere due frazioni, moltiplichi la prima per l'___ della seconda.
+- Quanto fa 5/6 : 5/12?
+- In una classe di 25 alunni i 3/5 sono femmine. Quanti sono i maschi?
+- Spiega come confronteresti 5/8 e 3/5 senza calcolatrice.
+
+## Ripasso: sfida di geometria [lib-1-media-matematica-ripasso-geometria] · FIGURA
+concetti: Angoli; Triangoli; Poligoni; Rette nel piano
+- Due rette del piano che hanno un solo punto in comune si dicono...
+- Quanto misura il complementare di un angolo di 28°?
+- Un triangolo può avere due angoli ottusi.
+- La somma degli angoli interni di un pentagono è ___ gradi.
+- Un triangolo ha due angoli di 48° e 67°. Quanto misura il terzo?
+- Quale terna di misure può essere quella dei lati di un triangolo?
+- Quante diagonali ha un esagono?
+- Due rette incidenti formano un angolo di 40°. Spiega quanto misurano gli altri tre angoli e perché.
+
+## Scopri la regola nascosta [lib-1-media-matematica-successioni-numeriche] · SERIE
+concetti: Successioni e termini; Regola additiva; Regola moltiplicativa; Successioni speciali
+- Qual è il termine successivo: 5, 12, 19, 26, …?
+- Qual è il termine successivo: 3, 6, 12, 24, …?
+- Ogni numero di una successione si chiama ___.
+- Nella successione 1, 4, 9, 16, 25, … il termine successivo è 36.
+- Nella successione di Fibonacci 1, 1, 2, 3, 5, 8, 13, … quale termine viene dopo 13?
+- Nella successione 100, 93, 86, 79, … qual è il primo termine minore di 60?
+- La successione 4, 7, 10, 13, … segue la regola '+3'. Quale numero NON ne fa parte?
+- Che differenza c'è tra la successione 2, 4, 6, 8, … e la successione 2, 4, 8, 16, …? Quale cresce più in fret…
 
 ## Semirette e segmenti [lib-1-media-matematica-semirette-segmenti] · TRATTO
 concetti: Semiretta; Segmento; Consecutivi e adiacenti; Punto medio
@@ -541,6 +1047,28 @@ concetti: Tipi di parentesi; Dall'interno verso l'esterno; Le parentesi cambiano
 - Quale di queste espressioni vale 64?
 - Luca calcola 40 − 10 + 5 così: «10 + 5 = 15, poi 40 − 15 = 25». Spiega qual è il suo errore e dove dovrebbe m…
 
+## Triangoli congruenti: tre criteri [lib-1-media-matematica-criteri-congruenza-triangoli] · COPIA
+concetti: Figure congruenti; Primo criterio; Secondo criterio; Terzo criterio
+- Il terzo criterio dice che due triangoli con i tre ___ rispettivamente congruenti sono congruenti.
+- Due triangoli con i tre angoli rispettivamente congruenti sono sempre congruenti.
+- Il primo criterio di congruenza richiede due lati congruenti e...
+- Che cosa richiede il secondo criterio di congruenza?
+- Due triangoli hanno lati di 5, 6 e 7 cm e di 7, 5 e 6 cm. Per quale criterio sono congruenti?
+- Che cosa significa che due figure sono congruenti?
+- Due triangoli hanno AB = DE = 4 cm, AC = DF = 6 cm e angolo A = angolo D = 50°. Sono congruenti?
+- Perché un triangolo fatto con tre aste non si deforma, e come si collega questo al terzo criterio di congruen…
+
+## Un quarto d'ora, tre quarti [lib-1-media-matematica-frazioni-ora-tempo] · QUARTO
+concetti: Frazioni dell'ora; Frazioni del giorno; Problemi di tempo
+- Quanti minuti sono 3/4 d'ora?
+- Mezz'ora più un quarto d'ora fanno 45 minuti.
+- Un quarto d'ora dura ___ minuti.
+- Quante ore sono 1/3 di un giorno?
+- Dormi 3/8 della giornata. Quante ore dormi?
+- Un film dura 1 ora e 3/4. Quanti minuti dura in tutto?
+- Fai i compiti per 2/5 di ora. Quanti minuti sono?
+- Perché 1/4 d'ora sono 15 minuti, ma 1/4 di giorno sono 6 ore? Spiega.
+
 ## Unione e intersezione [lib-1-media-matematica-intersezione-unione] · UNIONE
 concetti: Intersezione; Unione; Insiemi disgiunti; Contare con i diagrammi
 - A = {1, 2, 3, 4, 5} e B = {4, 5, 6, 7}. Quale insieme è A ∩ B?
@@ -551,3 +1079,25 @@ concetti: Intersezione; Unione; Insiemi disgiunti; Contare con i diagrammi
 - Se tutti gli elementi di B stanno anche in A, allora l'intersezione A ∩ B è sempre uguale ad A.
 - In una classe di 22 alunni, 12 hanno un cane, 9 hanno un gatto e 4 hanno sia un cane sia un gatto. Quanti alu…
 - In un gruppo di 30 ragazzi, 18 praticano nuoto, 15 praticano tennis e 7 praticano entrambi gli sport. Quanti …
+
+## Uno è il triplo dell'altro [lib-1-media-matematica-problemi-parti-multiple] · TRIPLO
+concetti: Parti uguali; Somma e multiplo; Differenza e multiplo
+- Due numeri hanno somma 48 e uno è il triplo dell'altro. Quanto vale il minore?
+- Se un numero è il triplo dell'altro, la loro somma corrisponde a 4 parti uguali.
+- Se il maggiore è il quadruplo del minore, la loro differenza corrisponde a ___ parti uguali.
+- Due numeri hanno differenza 30 e uno è il quadruplo dell'altro. Quali sono?
+- Un papà ha 4 volte l'età del figlio e insieme hanno 50 anni. Quanti anni ha il figlio?
+- Perché nei problemi 'uno è il doppio dell'altro' conviene disegnare il minore come 1 segmento e il maggiore c…
+- Marta ha 24 figurine più di Luca e ne ha 5 volte tante. Quante figurine ha Marta?
+- Spiega come risolvi: 'Un nastro di 60 cm è tagliato in due pezzi, uno doppio dell'altro. Quanto è lungo ciasc…
+
+## Vero o falso? Parola alla logica [lib-1-media-matematica-logica-enunciati-connettivi] · LOGICA
+concetti: Enunciati; La negazione 'non'; Il connettivo 'e'; Il connettivo 'o'
+- Quale di queste frasi è un enunciato?
+- La negazione di 'Il 7 è un numero pari' è un enunciato vero.
+- L'enunciato 'p e q' è vero solo quando p e q sono ___ veri.
+- Quale enunciato è vero?
+- Com'è l'enunciato '7 è un numero primo o 7 è pari'?
+- Qual è la negazione di 'Tutti gli alunni hanno portato il libro'?
+- '4 è dispari o 4 è maggiore di 10' è un enunciato vero.
+- Perché la frase 'La matematica è divertente' non è un enunciato, mentre '3 + 4 = 8' lo è, anche se è falsa?

@@ -1,5 +1,5 @@
 # 3ª elementare · Scienze: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Acqua da bere, acqua da salvare [lib-3-elementare-scienze-acqua-potabile-risparmio] · FONTE

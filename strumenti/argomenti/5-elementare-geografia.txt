@@ -1,6 +1,17 @@
-# 5ª elementare · Geografia: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# 5ª elementare · Geografia: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A tavola con le regioni [lib-5-elementare-geografia-prodotti-tipici-regioni] · PESTO
+concetti: Prodotti del Nord; Prodotti del Centro; Prodotti del Sud e delle isole; Cibo e territorio
+- Di quale regione è tipico il pesto?
+- In quale regione si produce la mozzarella di bufala più famosa?
+- Le orecchiette sono un tipo di pasta tipico di quale regione?
+- Il Parmigiano Reggiano e il prosciutto di Parma vengono dall'___.
+- I cannoli sono un dolce tipico della Sicilia.
+- La bistecca alla fiorentina è un piatto tipico di quale città?
+- Perché in Sardegna ci sono tanti formaggi di pecora?
+- Spiega con un esempio perché i prodotti tipici dipendono dal territorio.
 
 ## Abruzzo, la regione verde [lib-5-elementare-geografia-abruzzo] · SASSO
 concetti: Montagne; Parchi; Città; Tradizioni
@@ -13,6 +24,17 @@ concetti: Montagne; Parchi; Città; Tradizioni
 - Perché i pastori abruzzesi d'inverno portavano le greggi in Puglia?
 - Quali attività economiche possono nascere in una regione con tanti parchi e montagne come l'Abruzzo, senza da…
 
+## Agenda 2030, obiettivi per il pianeta [lib-5-elementare-geografia-agenda-2030] · FUTURO
+concetti: Che cos'è; Lo sviluppo sostenibile; Alcuni obiettivi; Tutti possono aiutare
+- Quanti sono gli obiettivi dell'Agenda 2030?
+- Chi ha approvato l'Agenda 2030?
+- Uno sviluppo che pensa anche alle generazioni future si chiama sviluppo ___.
+- Tra gli obiettivi dell'Agenda 2030 c'è garantire a tutti un'istruzione di qualità.
+- Quale di questi è un obiettivo dell'Agenda 2030?
+- Quale gesto quotidiano aiuta l'obiettivo della lotta al cambiamento climatico?
+- Perché si dice che sprecare risorse oggi è un problema anche per il futuro?
+- Scegli un obiettivo dell'Agenda 2030 e spiega che cosa puoi fare tu per aiutarlo.
+
 ## Basilicata, la terra dei Sassi [lib-5-elementare-geografia-basilicata] · MATERA
 concetti: Il territorio; Città e province; I Sassi di Matera; Risorse
 - Qual è il capoluogo della Basilicata?
@@ -23,6 +45,17 @@ concetti: Il territorio; Città e province; I Sassi di Matera; Risorse
 - Quale risorsa naturale si estrae nella Val d'Agri?
 - Qual è il parco nazionale più grande d'Italia, tra Basilicata e Calabria?
 - Un tempo i Sassi di Matera erano considerati un luogo povero, oggi sono visitati da turisti di tutto il mondo…
+
+## Brexit, l'addio di Londra [lib-5-elementare-geografia-brexit-regno-unito] · BREXIT
+concetti: Che cos'è la Brexit; Il referendum; L'uscita; Le conseguenze
+- Che cosa significa Brexit?
+- In quale anno si svolse il referendum sulla Brexit?
+- Dopo la Brexit, quanti Stati fanno parte dell'Unione europea?
+- Il Regno Unito è stato il primo Stato a uscire dall'Unione europea.
+- Un voto in cui i cittadini decidono direttamente rispondendo sì o no si chiama ___.
+- Dopo la Brexit, che documento serve a un italiano per entrare nel Regno Unito?
+- Perché dopo la Brexit le merci tra Italia e Regno Unito viaggiano con più difficoltà?
+- Prova a spiegare un vantaggio di far parte dell'Unione europea che il Regno Unito ha perso con la Brexit.
 
 ## Calabria, la punta dello Stivale [lib-5-elementare-geografia-calabria] · SILA
 concetti: Il territorio; Città; Storia; Prodotti
@@ -46,6 +79,50 @@ concetti: Napoli e la popolazione; I vulcani; Coste e isole; Arte e prodotti
 - Perché la cenere del Vesuvio ha permesso di conoscere così bene la vita a Pompei?
 - Molte persone vivono ancora vicino al Vesuvio. Perché secondo te i terreni vicino ai vulcani sono stati sempr…
 
+## Campi, ulivi e vigneti [lib-5-elementare-geografia-agricoltura-italiana] · VIGNA
+concetti: Prodotti tipici; Clima e colture; DOP e IGP; Agricoltura moderna
+- In quali regioni si coltiva soprattutto il riso?
+- Quale regione produce più olio d'oliva in Italia?
+- Gli agrumi come arance e limoni crescono bene soprattutto in Sicilia e in Calabria.
+- I prodotti protetti da un marchio che garantisce la loro origine da un territorio preciso sono detti ___.
+- Perché un formaggio DOP non può essere prodotto ovunque con lo stesso nome?
+- Che cosa caratterizza l'agricoltura biologica?
+- Oggi nei campi lavorano molte meno persone di cento anni fa, ma si produce di più. Perché?
+- Perché in Italia si coltivano prodotti diversi al Nord e al Sud? Fai un esempio.
+
+## Carte tematiche e grafici [lib-5-elementare-geografia-carte-tematiche-grafici] · GRAFICO
+concetti: Carta fisica e carta politica; Carte tematiche; I grafici; Leggere i dati
+- Sulla carta fisica, quale colore indica di solito le pianure?
+- Una carta che mostra solo dove si coltivano vite e ulivo è una carta...
+- Il grafico a forma di cerchio diviso in spicchi si chiama ___.
+- Vuoi mostrare come è cambiata la popolazione di una città dal 1950 a oggi. Quale grafico è più adatto?
+- In un aerogramma, uno spicchio che occupa metà cerchio rappresenta il 50% del totale.
+- In una classe di 20 alunni, il 25% va a scuola a piedi. Quanti alunni sono?
+- Una carta della densità di popolazione usa colori più scuri dove vivono più persone. Dove saranno i colori pi…
+- Spiega la differenza tra una carta fisica e una carta politica.
+
+## Che tempo fa in Italia? [lib-5-elementare-geografia-clima-italia] · MITE
+concetti: Clima temperato; Zone climatiche; Altitudine e mare; I venti
+- Che tipo di clima ha in generale l'Italia?
+- Com'è il clima della Pianura Padana?
+- Quale clima hanno le coste del Sud e delle isole?
+- Più si sale in montagna, più la temperatura diminuisce.
+- Il vento freddo e fortissimo che soffia su Trieste da nord-est si chiama ___.
+- Lo scirocco arriva da sud-est. Che tipo di aria porta di solito?
+- Una città di mare e una di pianura interna hanno la stessa latitudine. D'inverno, quale sarà di solito più mi…
+- Perché le Alpi sono importanti per il clima dell'Italia?
+
+## Chi ci protegge ogni giorno [lib-5-elementare-geografia-forze-ordine-emergenze] · SIRENA
+concetti: Polizia e Carabinieri; Guardia di Finanza e Polizia locale; Vigili del Fuoco; Il numero 112
+- Qual è il numero unico europeo per le emergenze?
+- Chi controlla che le aziende paghino le tasse e combatte il contrabbando?
+- La Polizia che dipende dal Comune e regola il traffico in città si chiama Polizia ___.
+- I Carabinieri sono anche una delle forze armate italiane.
+- In un palazzo scoppia un incendio. Chi interviene per spegnerlo?
+- Quando chiami il 112, che cosa è importante dire subito?
+- Perché non si deve mai chiamare il 112 per scherzo?
+- Perché in uno Stato democratico servono le forze dell'ordine?
+
 ## Chi governa l'Unione europea [lib-5-elementare-geografia-ue-istituzioni] · EUROPA
 concetti: Il Parlamento europeo; La Commissione europea; I Consigli; Altre istituzioni
 - Chi elegge il Parlamento europeo?
@@ -56,6 +133,28 @@ concetti: Il Parlamento europeo; La Commissione europea; I Consigli; Altre istit
 - Di che cosa si occupa la Banca centrale europea?
 - Due Paesi dell'Unione non sono d'accordo su come applicare una legge europea. Quale istituzione può risolvere…
 - Perché secondo te è importante che anche i cittadini, e non solo i governi, partecipino alle scelte dell'Unio…
+
+## Città, periferie e borghi [lib-5-elementare-geografia-citta-campagna] · BORGO
+concetti: Le grandi città; Dalla campagna alla città; Problemi della città; I piccoli Comuni
+- Metti in ordine queste città dalla più popolosa alla meno popolosa.
+- Come si chiama lo spostamento di molte persone dalla campagna alla città?
+- Chi viaggia ogni giorno da un Comune all'altro per andare a scuola o al lavoro si chiama ___.
+- In Italia la maggior parte dei Comuni ha meno di 5.000 abitanti.
+- Perché negli anni Cinquanta e Sessanta molte persone si trasferirono nelle città del Nord?
+- Quale soluzione aiuta a ridurre il traffico in città?
+- Che cosa significa che un borgo di montagna si sta spopolando?
+- Che cosa si potrebbe fare per convincere le famiglie a restare a vivere in un piccolo paese di montagna?
+
+## Com'è fatta la Costituzione [lib-5-elementare-geografia-struttura-costituzione] · INDICE
+concetti: 139 articoli; Le parti; Una Costituzione rigida; La legge più importante
+- Da quanti articoli è formata la Costituzione italiana?
+- Quali articoli formano i Principi fondamentali?
+- Metti in ordine le parti della Costituzione come si trovano nel testo.
+- La Parte seconda della Costituzione spiega l'___ della Repubblica, cioè come funzionano Parlamento, Governo e…
+- Una Costituzione rigida si può cambiare con la stessa facilità di una legge normale.
+- Quando è entrata in vigore la Costituzione?
+- Se il Parlamento approvasse una legge contraria alla Costituzione, che cosa potrebbe succedere?
+- Perché secondo te i costituenti vollero una Costituzione difficile da cambiare?
 
 ## Come nasce l'Unione europea [lib-5-elementare-geografia-ue-storia] · PACE
 concetti: Dopo la guerra; I primi passi; Il Trattato di Maastricht; L'Unione si allarga
@@ -78,6 +177,28 @@ concetti: La proposta; L'approvazione; La promulgazione; La pubblicazione
 - Il Senato modifica una proposta già approvata dalla Camera. Che cosa succede?
 - Perché una legge viene pubblicata prima di entrare in vigore?
 - Immagina che la tua classe voglia proporre una legge per avere più piste ciclabili. Che cosa dovreste fare pe…
+
+## Coste alte, coste basse [lib-5-elementare-geografia-coste-italiane] · COSTA
+concetti: Tanta costa; Coste alte; Coste basse; Golfi e promontori
+- Circa quanto sono lunghe le coste italiane?
+- Come sono quasi sempre le coste della Romagna?
+- La Costiera Amalfitana è un esempio di costa alta e rocciosa.
+- Un tratto di mare che entra profondamente nella terra si chiama ___.
+- Il Gargano, che sporge dalla Puglia nell'Adriatico, è chiamato lo sperone d'Italia. Che cos'è?
+- Che cos'è una laguna come quella di Venezia?
+- Perché in molte spiagge si costruiscono scogliere artificiali davanti alla riva?
+- Perché secondo te le coste basse e sabbiose sono adatte al turismo balneare e quelle alte meno?
+
+## Da dove arriva l'energia? [lib-5-elementare-geografia-energia-italia] · SOLE
+concetti: Fonti non rinnovabili; Fonti rinnovabili; Rinnovabili in Italia; Risparmio energetico
+- Quale di queste fonti di energia NON è rinnovabile?
+- Dove si trovano molte centrali idroelettriche italiane?
+- A Larderello, in Toscana, si usa il calore della Terra per produrre energia ___.
+- L'Italia produce da sola tutto il gas e il petrolio di cui ha bisogno.
+- Quale fonte usano le pale eoliche?
+- Quale di queste azioni fa risparmiare energia in casa?
+- Perché le fonti rinnovabili sono importanti per il futuro?
+- Perché al Sud e nelle isole ci sono molti impianti solari ed eolici?
 
 ## Dentro il Parlamento italiano [lib-5-elementare-geografia-parlamento] · SENATO
 concetti: Due Camere; Le sedi; I parlamentari; Elezioni e compiti
@@ -123,6 +244,17 @@ concetti: Il territorio; La via Emilia; Cibo ed economia; Arte e storia
 - In quale città nacque il tricolore italiano nel 1797?
 - Perché secondo te la pianura dell'Emilia-Romagna è adatta all'agricoltura e all'allevamento, e come questo ha…
 
+## Erasmus, studiare in Europa [lib-5-elementare-geografia-erasmus-europa] · ERASMO
+concetti: Che cos'è l'Erasmus; Il nome; Erasmus+ per tutti; I vantaggi
+- Chi organizza il programma Erasmus?
+- In quale anno è nato il programma Erasmus?
+- Il programma prende il nome da Erasmo da ___, studioso olandese.
+- Oggi Erasmus+ può coinvolgere anche le scuole e gli insegnanti, non solo le università.
+- Che cosa impara di solito uno studente che fa l'Erasmus?
+- Perché è importante che gli esami fatti all'estero siano riconosciuti nell'università di partenza?
+- In quale secolo visse Erasmo da Rotterdam?
+- Secondo te, in che modo l'Erasmus aiuta i giovani a sentirsi cittadini europei?
+
 ## Euro, stelle e Inno alla gioia [lib-5-elementare-geografia-euro-simboli-ue] · EURO
 concetti: L'euro; La bandiera europea; Inno e motto; Festa dell'Europa
 - Quale moneta usiamo in Italia?
@@ -133,6 +265,17 @@ concetti: L'euro; La bandiera europea; Inno e motto; Festa dell'Europa
 - Che cosa significa il motto Unita nella diversità?
 - Perché il 9 maggio si festeggia l'Europa?
 - Quali vantaggi ha una moneta comune per chi viaggia o fa acquisti in Europa?
+
+## Fabbriche e made in Italy [lib-5-elementare-geografia-industria-italiana] · OPERAIO
+concetti: Il triangolo industriale; Il made in Italy; Piccole imprese e distretti; Poche materie prime
+- Quali città formavano il triangolo industriale?
+- Per che cosa è famosa nel mondo Milano?
+- Un'area dove molte piccole imprese producono lo stesso tipo di prodotto si chiama ___ industriale.
+- L'Italia è ricca di petrolio e di minerali, per questo non deve importare materie prime.
+- Quale prodotto è tipico del distretto della provincia di Belluno?
+- Metti in ordine il percorso di una maglia di lana.
+- Perché un'azienda italiana che importa materie prime può comunque guadagnare molto?
+- Perché secondo te le prime grandi industrie italiane nacquero proprio tra Milano, Torino e Genova?
 
 ## Friuli-Venezia Giulia, terra di confine [lib-5-elementare-geografia-friuli-venezia-giulia] · CARSO
 concetti: Una regione di confine; Trieste e le città; Il Carso; Lingue e storia
@@ -155,6 +298,17 @@ concetti: Il compito dei giudici; L'indipendenza; I gradi di giudizio; La Corte 
 - Di che cosa si occupa la Corte costituzionale?
 - Perché è utile che si possa ricorrere in appello contro una sentenza?
 - Che cosa significa la scritta La legge è uguale per tutti presente nei tribunali?
+
+## I diritti dei bambini [lib-5-elementare-geografia-diritti-bambini] · GIOCO
+concetti: La Convenzione ONU; Chi protegge; I diritti; Chi li difende
+- Quale organizzazione ha approvato la Convenzione sui diritti dell'infanzia?
+- In quale giorno si celebra la Giornata dei diritti dell'infanzia?
+- Fino a quale età una persona è protetta dalla Convenzione?
+- Secondo la Convenzione anche il gioco e il riposo sono diritti dei bambini.
+- L'agenzia dell'ONU che aiuta i bambini di tutto il mondo si chiama ___.
+- Un bambino viene fatto lavorare tutto il giorno in una fabbrica invece di andare a scuola. Quali diritti non …
+- Che cosa significa il diritto del bambino a essere ascoltato?
+- Secondo te perché i bambini hanno bisogno di diritti speciali, oltre a quelli di tutti?
 
 ## I parchi nazionali italiani [lib-5-elementare-geografia-parchi-nazionali] · PARCO
 concetti: A che cosa servono; Il Gran Paradiso; Il Parco d'Abruzzo; Le regole del parco
@@ -189,6 +343,17 @@ concetti: Che cos'è il Comune; Gli organi del Comune; I servizi del Comune; Le 
 - Da dove arrivano i soldi che il Comune usa per i suoi servizi?
 - Se fossi sindaco del tuo Comune per un giorno, quale servizio miglioreresti e perché? Indica anche chi ti aiu…
 
+## Il diritto alla salute [lib-5-elementare-geografia-diritto-salute] · SALUTE
+concetti: L'articolo 32; Il Servizio sanitario nazionale; Medici e ospedali; La prevenzione
+- Quale articolo della Costituzione tutela la salute?
+- Il Servizio sanitario nazionale offre cure solo a chi ha molti soldi.
+- In quale anno è nato il Servizio sanitario nazionale?
+- Il medico che segue i bambini fino all'adolescenza si chiama ___.
+- Quale di questi comportamenti è un esempio di prevenzione?
+- Con quali soldi viene pagato soprattutto il Servizio sanitario nazionale?
+- Perché la Costituzione dice che la salute è anche un interesse della collettività?
+- Indica tre abitudini quotidiane che aiutano a mantenersi in salute.
+
 ## Il Governo e i ministri [lib-5-elementare-geografia-governo-ministri] · GOVERNO
 concetti: Chi forma il Governo; I ministeri; La nascita del Governo; Sede e compiti
 - Chi guida il Governo italiano?
@@ -199,6 +364,28 @@ concetti: Chi forma il Governo; I ministeri; La nascita del Governo; Sede e comp
 - Metti in ordine le tappe della nascita di un nuovo Governo.
 - Che cosa succede se il Governo non ottiene la fiducia del Parlamento?
 - Perché secondo te ogni ministro si occupa di un settore diverso?
+
+## Il lavoro nella Costituzione [lib-5-elementare-geografia-lavoro-diritti] · SALARIO
+concetti: Fondata sul lavoro; Giusta paga e riposo; Uguaglianza e tutela dei minori; Sindacati e sciopero
+- Quale frase riassume l'inizio dell'articolo 1 della Costituzione?
+- Secondo la Costituzione un lavoratore può rinunciare alle ferie in cambio di più soldi.
+- Quando i lavoratori smettono di lavorare per protestare e chiedere diritti, fanno ___.
+- Una donna e un uomo fanno lo stesso lavoro. Cosa dice la Costituzione sulla loro paga?
+- Quale giorno si celebra la Festa dei lavoratori?
+- A che cosa serve un sindacato?
+- Perché in Italia i bambini non possono lavorare in fabbrica?
+- Secondo te perché la Costituzione dice che la paga deve garantire una vita libera e dignitosa?
+
+## Il Mediterraneo, mare tra continenti [lib-5-elementare-geografia-mar-mediterraneo] · STRETTO
+concetti: Un mare quasi chiuso; Le porte del Mediterraneo; I mari d'Italia; Stretti e canali italiani
+- Quali continenti si affacciano sul Mediterraneo?
+- Quale stretto collega il Mediterraneo all'Oceano Atlantico?
+- Il Canale di Suez è un passaggio scavato dall'uomo che collega il Mediterraneo al Mar Rosso.
+- La Sicilia è separata dalla Calabria dallo Stretto di ___.
+- Quale di questi mari NON fa parte del Mediterraneo?
+- Una nave entra dall'Atlantico e va fino al Mar Nero. Metti in ordine i luoghi che attraversa.
+- Cosa separa la Sardegna dalla Corsica?
+- Perché il Canale di Suez è così importante per le navi che vanno dall'Europa all'Asia?
 
 ## Il Presidente della Repubblica [lib-5-elementare-geografia-presidente-repubblica] · COLLE
 concetti: Il Capo dello Stato; L'elezione; Durata e sede; I compiti
@@ -211,6 +398,17 @@ concetti: Il Capo dello Stato; L'elezione; Durata e sede; I compiti
 - Perché si dice che il Presidente della Repubblica è un garante della Costituzione?
 - Perché secondo te è utile che il Capo dello Stato sia una figura al di sopra dei partiti politici?
 
+## Il viaggio dei fiumi italiani [lib-5-elementare-geografia-fiumi-italiani] · FOCE
+concetti: Il Po; Altri grandi fiumi; Fiumi alpini e appenninici; Parti di un fiume
+- Qual è il fiume più lungo d'Italia?
+- Da quale montagna nasce il Po?
+- Quale fiume attraversa Roma?
+- Metti in ordine questi fiumi dal più lungo al più corto.
+- I fiumi alpini hanno acqua anche d'estate perché sono alimentati dallo scioglimento di nevi e ghiacciai.
+- La foce del Po, divisa in tanti rami che formano un ventaglio, si chiama ___.
+- In Calabria ci sono fiumare, corsi d'acqua quasi asciutti d'estate e impetuosi dopo le piogge. Perché?
+- Spiega la differenza tra sorgente, affluente e foce di un fiume.
+
 ## Il voto, voce dei cittadini [lib-5-elementare-geografia-elezioni-voto] · SCHEDA
 concetti: Chi può votare; Come si vota; Le elezioni; Il referendum
 - A quale età si può votare in Italia?
@@ -222,6 +420,83 @@ concetti: Chi può votare; Come si vota; Le elezioni; Il referendum
 - Perché si dice che votare è un dovere civico?
 - Nella tua classe dovete scegliere la meta della gita. Come organizzeresti una votazione giusta, seguendo le r…
 
+## In vacanza nel Bel Paese [lib-5-elementare-geografia-turismo-italia] · VIAGGIO
+concetti: Un settore importante; Tanti tipi di turismo; Le stagioni del turismo; Turismo sostenibile
+- A quale settore economico appartiene il turismo?
+- Una famiglia visita Assisi per vedere i luoghi di San Francesco. Che tipo di turismo fa?
+- Che cosa cerca chi fa turismo enogastronomico?
+- Chi va alle terme per fare bagni in acque calde e curative fa turismo ___.
+- Le città d'arte come Roma e Firenze sono visitate dai turisti solo d'estate.
+- Venezia riceve ogni anno milioni di visitatori. Quale problema può causare questo?
+- Perché le località sciistiche possono lavorare sia d'inverno sia d'estate?
+- Indica due comportamenti di un turista rispettoso dei luoghi che visita.
+
+## In viaggio da nord a sud [lib-5-elementare-geografia-viaggio-nord-sud] · TRENO
+concetti: Da nord a sud; Le grandi linee; Verso le isole; Leggere un itinerario
+- Metti in ordine queste città da nord a sud.
+- Quali città collega l'Autostrada del Sole?
+- Andando in treno da Bologna a Firenze, quale catena montuosa attraversi?
+- Per arrivare in Sicilia in auto devi imbarcarti su un traghetto e attraversare lo Stretto di ___.
+- Per andare dalla penisola in Sardegna si può viaggiare in treno senza mai lasciare la terraferma.
+- Sulla carta, con scala 1:1.000.000, due città distano 5 cm. Quanti km ci sono in realtà?
+- Perché molte persone scelgono il treno ad alta velocità invece dell'auto per andare da Milano a Roma?
+- Descrivi come cambia il paesaggio viaggiando dalle Alpi fino alla Calabria.
+
+## Isole piccole, grandi tesori [lib-5-elementare-geografia-isole-minori] · ELBA
+concetti: Arcipelaghi; L'Elba; Isole vulcaniche; Isole nel golfo e a sud
+- Come si chiama un gruppo di isole vicine tra loro?
+- Qual è la più grande isola dell'Arcipelago Toscano?
+- Nelle isole Eolie si trova lo ___, un vulcano sempre attivo.
+- Capri, Ischia e Procida si trovano nel Golfo di Napoli.
+- Quale isola è la terra italiana più a sud?
+- A quale regione appartengono le isole Eolie?
+- In quale mare si trovano le isole Tremiti?
+- Quali difficoltà può avere chi vive tutto l'anno su una piccola isola? Indica almeno due esempi.
+
+## Italiani in viaggio nel mondo [lib-5-elementare-geografia-italiani-nel-mondo] · VALIGIA
+concetti: La grande emigrazione; Ellis Island; Emigrazione in Europa; Oggi
+- Verso quali Paesi emigrarono soprattutto gli italiani tra Ottocento e Novecento?
+- Perché tanti italiani emigravano a quel tempo?
+- Gli emigrati che arrivavano a New York venivano controllati sull'isola di ___.
+- Dopo la Seconda guerra mondiale molti italiani andarono a lavorare nelle miniere del Belgio.
+- In quale di questi Paesi europei emigrarono molti italiani nel secondo dopoguerra?
+- Che cosa si intende per persone di origine italiana nel mondo?
+- In molte città americane ci sono quartieri chiamati Little Italy. Perché?
+- Immagina di essere un emigrato italiano appena arrivato in America cento anni fa. Quali difficoltà avresti in…
+
+## L'acqua, un bene prezioso [lib-5-elementare-geografia-acqua-risorsa] · ACQUA
+concetti: Poca acqua dolce; Il viaggio dell'acqua; Sprechi e siccità; Risparmiare acqua
+- Quanta parte dell'acqua della Terra è dolce?
+- Metti in ordine il viaggio dell'acqua del rubinetto.
+- L'impianto che pulisce l'acqua sporca prima di restituirla ai fiumi si chiama ___.
+- In Italia una parte importante dell'acqua si perde lungo i tubi prima di arrivare nelle case.
+- Durante una lunga siccità, che cosa può succedere a un fiume come il Po?
+- Quale abitudine fa risparmiare più acqua?
+- Un rubinetto perde 5 litri d'acqua al giorno. Quanti litri spreca in una settimana?
+- Perché si dice che l'acqua è un bene prezioso anche se la Terra è coperta per gran parte dagli oceani?
+
+## L'Appennino, spina dorsale [lib-5-elementare-geografia-appennino-spina-dorsale] · DORSO
+concetti: Lungo la penisola; Tre tratti; Montagne più basse; Lo spartiacque
+- Da dove a dove si estende l'Appennino?
+- Qual è la cima più alta dell'Appennino?
+- Metti in ordine i tratti dell'Appennino da nord a sud.
+- Le cime dell'Appennino sono in media più alte di quelle delle Alpi.
+- Perché nell'Appennino le frane sono frequenti?
+- La linea di cime che divide le acque che scorrono verso mari diversi si chiama ___.
+- Il Tevere scende dall'Appennino verso ovest. In quale mare sfocia?
+- Perché i fiumi che scendono dall'Appennino verso l'Adriatico sono di solito brevi?
+
+## L'Europa, il nostro continente [lib-5-elementare-geografia-europa-continente] · URALI
+concetti: I confini; Un continente piccolo; Le grandi penisole; Fiumi d'Europa
+- Quali montagne segnano il confine orientale tra Europa e Asia?
+- Quale oceano bagna l'Europa a ovest?
+- In quale penisola si trovano Spagna e Portogallo?
+- Il fiume più lungo d'Europa, che scorre in Russia, è il ___.
+- L'Europa è il continente più grande del mondo.
+- Quale penisola comprende Norvegia e Svezia?
+- In quale mare sfocia il Danubio?
+- L'Italia è una penisola. Che cos'è una penisola e quali altre penisole europee conosci?
+
 ## L'Italia sulla carta d'Europa [lib-5-elementare-geografia-italia-confini-mari] · CONFINE
 concetti: Posizione dell'Italia; Stati confinanti; I mari italiani; Confini naturali
 - In quale parte dell'Europa si trova l'Italia?
@@ -232,6 +507,28 @@ concetti: Posizione dell'Italia; Stati confinanti; I mari italiani; Confini natu
 - Metti in ordine gli Stati che confinano con l'Italia lungo le Alpi, da ovest verso est.
 - Perché si dice che a nord l'Italia ha un confine naturale?
 - Secondo te, perché la posizione dell'Italia al centro del Mediterraneo è stata importante nella sua storia?
+
+## L'ONU, le Nazioni Unite [lib-5-elementare-geografia-onu-nazioni-unite] · CASCO
+concetti: Nascita e scopo; Gli Stati membri; Gli organi; Le agenzie
+- In quale città ha sede l'ONU?
+- Perché fu fondata l'ONU nel 1945?
+- Quanti Stati fanno parte dell'ONU?
+- L'agenzia dell'ONU che combatte la fame nel mondo ha sede a Roma e si chiama ___.
+- Nell'Assemblea generale dell'ONU ogni Stato ha un voto, piccolo o grande che sia.
+- Quanti sono i membri permanenti del Consiglio di sicurezza con diritto di veto?
+- Quale agenzia dell'ONU si occupa della salute nel mondo?
+- Perché è utile che gli Stati del mondo abbiano un luogo dove discutere insieme?
+
+## La Protezione civile e i rischi [lib-5-elementare-geografia-protezione-civile] · ALLERTA
+concetti: Che cos'è; I rischi in Italia; L'allerta meteo; Cosa fare
+- Quale di questi è un rischio naturale molto diffuso in Italia?
+- Metti in ordine i colori dell'allerta meteo dal rischio più basso al più alto.
+- Durante una scossa di terremoto sei in classe. Che cosa devi fare?
+- Dopo un terremoto è bene usare l'ascensore per uscire più in fretta.
+- Chi aiuta gratuitamente la Protezione civile durante un'emergenza è un ___.
+- Quale di queste attività è un esempio di prevenzione?
+- Che cosa significa un'allerta rossa per forti piogge?
+- Perché a scuola si fanno le prove di evacuazione? Spiega a cosa servono.
 
 ## Lavori in tre settori [lib-5-elementare-geografia-settori-economici] · SETTORE
 concetti: Il settore primario; Il settore secondario; Il settore terziario; Le filiere
@@ -255,6 +552,17 @@ concetti: Roma capitale; Il territorio; Le province; La bonifica
 - Metti in ordine le città che sono state capitali d'Italia, dalla prima all'ultima.
 - Perché secondo te bonificare una zona paludosa migliorava la vita delle persone?
 
+## Le Alpi, corona d'Italia [lib-5-elementare-geografia-alpi-arco-montuoso] · VETTA
+concetti: Un grande arco; Tre settori; Cime e ghiacciai; Valichi e trafori
+- Dove si trovano le Alpi rispetto all'Italia?
+- Quale montagna, la più alta d'Italia, si trova nelle Alpi occidentali?
+- Le Dolomiti, famose per le rocce che al tramonto diventano rosa, in quale parte delle Alpi si trovano?
+- I ghiacciai delle Alpi, sciogliendosi lentamente, danno acqua ai fiumi anche d'estate.
+- Un passaggio naturale tra due montagne che permette di attraversare la catena si chiama ___.
+- Metti in ordine queste parti delle Alpi da ovest verso est.
+- Perché sono stati scavati trafori come quello del Monte Bianco?
+- Perché le Alpi sono importanti per l'Italia? Indica almeno due motivi.
+
 ## Le Dolomiti del Trentino-Alto Adige [lib-5-elementare-geografia-trentino-alto-adige] · MELA
 concetti: Due province autonome; Lingue diverse; Montagne e fiumi; Economia e curiosità
 - Qual è il capoluogo del Trentino-Alto Adige?
@@ -266,6 +574,61 @@ concetti: Due province autonome; Lingue diverse; Montagne e fiumi; Economia e cu
 - Chi è Ötzi, conservato nel museo di Bolzano?
 - In questa regione l'acqua dei fiumi di montagna viene usata per produrre energia. Spiega perché le zone di mo…
 
+## Le donne e il diritto di voto [lib-5-elementare-geografia-donne-voto] · VOTO
+concetti: Il primo voto delle donne; Il suffragio universale; Le madri costituenti; Uguaglianza e prime volte
+- In quale anno le donne votarono per la prima volta in un'elezione nazionale in Italia?
+- Quando possono votare tutti i cittadini maggiorenni, uomini e donne, si parla di suffragio ___.
+- Quante donne furono elette all'Assemblea Costituente?
+- L'articolo 3 della Costituzione dice che tutti i cittadini sono uguali davanti alla legge senza distinzione d…
+- Chi fu la prima donna presidente della Camera dei deputati?
+- Prima del 1946 in Italia chi poteva votare alle elezioni politiche?
+- Perché le 21 madri costituenti furono così importanti?
+- Perché il voto delle donne nel 1946 fu un passo importante per la democrazia?
+
+## Le feste della Repubblica [lib-5-elementare-geografia-feste-civili] · FESTA
+concetti: 25 aprile; 2 giugno; 17 marzo e 4 novembre; 27 gennaio
+- Che cosa si festeggia il 2 giugno?
+- Che cosa ricorda il 25 aprile?
+- Il 17 marzo si ricorda la proclamazione del Regno d'Italia, avvenuta nel ___.
+- Il 4 novembre ricorda la fine della Prima guerra mondiale per l'Italia, nel 1918.
+- Perché il Giorno della Memoria si celebra il 27 gennaio?
+- Metti in ordine queste giornate seguendo il calendario, da gennaio a dicembre.
+- Che cosa si vede di solito a Roma il 2 giugno?
+- Perché secondo te è importante ricordare ogni anno giorni come il 25 aprile o il 27 gennaio?
+
+## Le lingue delle minoranze [lib-5-elementare-geografia-minoranze-linguistiche] · LADINO
+concetti: L'articolo 6; Tedesco e francese; Sloveno, ladino e friulano; Sardo, albanese, greco e catalano
+- Quale articolo della Costituzione tutela le minoranze linguistiche?
+- In quale regione molti abitanti parlano tedesco come prima lingua?
+- In Valle d'Aosta, oltre all'italiano, è lingua ufficiale il ___.
+- Ad Alghero, in Sardegna, si parla anche una varietà di catalano.
+- Quale lingua minoritaria si parla vicino al confine con la Slovenia?
+- In quale ambiente si parla il ladino?
+- Perché in Alto Adige i cartelli stradali sono scritti in due lingue?
+- Perché secondo te è importante proteggere le lingue delle minoranze?
+
+## Le regioni in cifre [lib-5-elementare-geografia-regioni-in-cifre] · NUMERI
+concetti: Le più grandi; La più piccola; La più popolosa; Calcolare la densità
+- Qual è la regione più grande d'Italia?
+- Qual è la regione più piccola d'Italia?
+- La Lombardia è la regione italiana con più abitanti.
+- Dopo la Sicilia, la seconda regione per superficie è il ___.
+- Una regione ha 1.200.000 abitanti e una superficie di 12.000 km². Qual è la sua densità?
+- Quale regione ha la densità di popolazione più alta?
+- La regione A ha 300.000 abitanti su 4.500 km², la regione B 1.500.000 abitanti su 5.000 km². Quale è più dens…
+- La Sardegna è molto grande ma ha pochi abitanti per km². Prova a spiegare perché.
+
+## Le tasse, servizi per tutti [lib-5-elementare-geografia-tasse-tributi] · TASSA
+concetti: L'articolo 53; La progressività; Imposte dirette e indirette; A che cosa servono
+- Che cosa dice l'articolo 53 della Costituzione?
+- Quale di questi servizi è pagato con le tasse?
+- Un sistema in cui chi guadagna di più paga in proporzione di più si dice ___.
+- L'IVA è un'imposta che si paga quando si compra qualcosa.
+- Un gioco costa 100 euro più l'IVA al 22%. Quanto si paga in tutto?
+- Perché è importante che un negozio rilasci lo scontrino?
+- Che cosa succede se molte persone evadono le tasse?
+- Perché è giusto che chi guadagna di più paghi più tasse? Spiega con parole tue.
+
 ## Leggere la carta politica [lib-5-elementare-geografia-carta-politica-scala] · SCALA
 concetti: La carta politica; La legenda; La scala di riduzione; Carte diverse
 - Che cosa mostra soprattutto una carta politica?
@@ -276,6 +639,17 @@ concetti: La carta politica; La legenda; La scala di riduzione; Carte diverse
 - Vuoi sapere dove si trovano le catene montuose della Sardegna. Quale carta usi?
 - Sulla carta politica d'Italia, come si riconosce di solito un capoluogo di regione?
 - Perché per una carta dell'Italia intera si usa una scala più piccola, per esempio 1:5.000.000, rispetto alla …
+
+## Libertà da difendere [lib-5-elementare-geografia-liberta-fondamentali] · LIBERO
+concetti: Libertà personale; Libertà di pensiero; Riunione e associazione; Religione e circolazione
+- Quale articolo della Costituzione protegge la libertà di manifestare il proprio pensiero?
+- Secondo la Costituzione i cittadini possono riunirsi in una piazza, purché pacificamente e senza armi.
+- Una famiglia vuole trasferirsi da Torino a Palermo. Che cosa dice la Costituzione?
+- Un gruppo di persone che si unisce per uno scopo comune, come una squadra o un gruppo di volontari, forma un'…
+- Che cosa significa libertà religiosa?
+- Quando può essere arrestata una persona, secondo la Costituzione?
+- Un giornale pubblica un articolo che critica il Governo. Il Governo può vietarlo prima che esca?
+- Si dice che la mia libertà finisce dove comincia quella degli altri. Spiega con un esempio.
 
 ## Liguria, tra mare e monti [lib-5-elementare-geografia-liguria] · PORTO
 concetti: Il territorio; Le Riviere; Genova e il porto; Terrazzamenti e fiori
@@ -332,6 +706,28 @@ concetti: Il referendum del 1946; L'Assemblea Costituente; L'entrata in vigore; 
 - Che cosa succede se il Parlamento approva una legge che va contro la Costituzione?
 - Perché è importante che uno Stato abbia una Costituzione scritta?
 
+## Paralleli e meridiani [lib-5-elementare-geografia-reticolo-coordinate] · GRADI
+concetti: Il reticolo geografico; Latitudine; Longitudine; L'Italia nel reticolo
+- Come si chiamano le linee immaginarie che vanno da un polo all'altro?
+- Il parallelo più lungo, che divide la Terra in due emisferi, si chiama ___.
+- Che cosa indica la latitudine di un luogo?
+- Il meridiano di riferimento, con longitudine 0°, passa vicino a Roma.
+- In quale emisfero si trova l'Italia?
+- Il 45° parallelo passa per il Nord Italia. Che cosa ha di speciale?
+- L'Italia si trova a est del meridiano di Greenwich. Che coordinata avrà una sua città?
+- Perché per trovare un punto preciso sulla Terra servono sia la latitudine sia la longitudine?
+
+## Pianure, terre da coltivare [lib-5-elementare-geografia-pianure-italiane] · PIANA
+concetti: Poca pianura; La Pianura Padana; Altre pianure; Pianure e uomo
+- Qual è la pianura più grande d'Italia?
+- In Italia la pianura occupa più della metà del territorio.
+- Una pianura formata dai detriti portati dai fiumi si chiama pianura ___.
+- Qual è la seconda pianura d'Italia per grandezza, famosa per il grano?
+- In quale regione si trova il Campidano?
+- Che cosa si faceva per bonificare una palude?
+- Perché le pianure sono di solito molto abitate?
+- Spiega come il Po ha contribuito a formare la Pianura Padana.
+
 ## Piemonte, ai piedi dei monti [lib-5-elementare-geografia-piemonte] · TORINO
 concetti: Il territorio; Torino; Agricoltura; Industria
 - Qual è il capoluogo del Piemonte?
@@ -342,6 +738,17 @@ concetti: Il territorio; Torino; Agricoltura; Industria
 - Per quale prodotto pregiato sono famose le colline di Alba?
 - Quale settore industriale è legato da tempo a Torino?
 - Il Piemonte ha montagne, colline e pianure. Spiega come ogni ambiente offre attività economiche diverse.
+
+## Proteggere l'ambiente insieme [lib-5-elementare-geografia-ambiente-tutela] · VERDE
+concetti: L'articolo 9; L'inquinamento; Rifiuti e raccolta differenziata; Ridurre, riusare, riciclare
+- In quale contenitore va la buccia di una banana?
+- Quale articolo della Costituzione parla della tutela dell'ambiente?
+- L'articolo 9 dice che l'ambiente va protetto anche pensando alle generazioni future.
+- Perché nella Pianura Padana lo smog ristagna spesso d'inverno?
+- La prima delle tre R per avere meno rifiuti è ___: comprare e usare meno oggetti usa e getta.
+- Metti in ordine il viaggio di una bottiglia di plastica riciclata.
+- Quale di queste è un esempio di riuso?
+- Indica due cose che la tua famiglia può fare per inquinare meno l'aria della città.
 
 ## Puglia, il tacco dello Stivale [lib-5-elementare-geografia-puglia] · TRULLO
 concetti: Il territorio; Gargano, Tavoliere e Salento; Monumenti; Agricoltura
@@ -365,6 +772,17 @@ concetti: Gli abitanti; La densità; Le migrazioni; Una popolazione che invecchi
 - Perché si dice che la popolazione italiana sta invecchiando?
 - Molti italiani in passato sono emigrati, oggi molte persone arrivano in Italia da altri Paesi. Quali motivi s…
 
+## Ripasso: chi fa che cosa [lib-5-elementare-geografia-ripasso-istituzioni] · PALAZZO
+concetti: Il Parlamento; Il Governo; Il Presidente della Repubblica; Garanzia e giustizia
+- Chi fa le leggi in Italia?
+- Un Presidente della Repubblica viene eletto nel 2029. Fino a quale anno resterà in carica, se completa il man…
+- La sede del Governo e del Presidente del Consiglio è Palazzo ___.
+- Metti in ordine i passaggi per formare un nuovo Governo.
+- La Corte costituzionale può annullare una legge contraria alla Costituzione.
+- Che cosa fa il Presidente della Repubblica quando promulga una legge?
+- Perché i giudici devono essere indipendenti dal Governo?
+- Perché il Governo ha bisogno della fiducia del Parlamento?
+
 ## Ripasso: cittadini d'Italia e d'Europa [lib-5-elementare-geografia-ripasso-stato-europa] · STATO
 concetti: Gli elementi dello Stato; I livelli di governo; La cittadinanza europea; Le date fondamentali
 - Quali sono i tre elementi che formano uno Stato?
@@ -376,6 +794,17 @@ concetti: Gli elementi dello Stato; I livelli di governo; La cittadinanza europe
 - Che cosa significa che lo Stato ha la sovranità?
 - Racconta una giornata qualsiasi e indica almeno tre momenti in cui usi qualcosa che dipende dal Comune, dalla…
 
+## Ripasso: come lavora l'Italia [lib-5-elementare-geografia-ripasso-economia] · FILIERA
+concetti: Settore primario; Settore secondario; Settore terziario; Importare ed esportare
+- Un pescatore lavora nel settore...
+- Un muratore che costruisce case lavora nel settore...
+- Una maestra lavora nel settore...
+- Metti in ordine la filiera del pane.
+- Quando un'azienda italiana vende i suoi prodotti in un altro Paese, li ___.
+- In Italia la maggior parte dei lavoratori è impiegata nel settore terziario.
+- L'Italia compra all'estero gran parte del petrolio e del gas. Si dice che li...
+- Scegli un oggetto della tua cartella e prova a spiegare quali settori hanno lavorato per farlo arrivare a te.
+
 ## Ripasso: i capoluoghi di regione [lib-5-elementare-geografia-ripasso-capoluoghi] · MAPPA
 concetti: Capoluoghi del Nord; Capoluoghi del Centro; Capoluoghi del Sud e delle isole; Capoluogo e città più grande
 - Di quale regione è capoluogo Trieste?
@@ -386,6 +815,28 @@ concetti: Capoluoghi del Nord; Capoluoghi del Centro; Capoluoghi del Sud e delle
 - Quale di questi capoluoghi di regione NON si affaccia sul mare?
 - Quale coppia regione-capoluogo è SBAGLIATA?
 - Secondo te, perché in alcune regioni il capoluogo non è la città più popolosa? Fai un esempio.
+
+## Ripasso: il paesaggio italiano [lib-5-elementare-geografia-ripasso-italia-fisica] · COLLINA
+concetti: Collina, montagna e pianura; Monti e vulcani; Acque; Coste e isole
+- Metti in ordine le forme del territorio italiano dalla più estesa alla meno estesa.
+- Qual è il vulcano attivo più alto d'Europa?
+- Quale lago supera per superficie tutti gli altri laghi italiani?
+- Il fiume più lungo d'Italia è il ___.
+- La Sardegna è più grande della Sicilia.
+- Quale catena montuosa attraversa l'Italia per tutta la sua lunghezza?
+- Perché d'estate il Po ha più acqua di un fiume appenninico come il Tevere, in proporzione?
+- L'Italia ha più colline che pianure. Come influisce questo sulla vita delle persone?
+
+## Ripasso: l'Europa unita [lib-5-elementare-geografia-ripasso-unione-europea] · STELLE
+concetti: Le tappe; I fondatori; Le istituzioni; I simboli
+- Metti in ordine queste tappe della storia europea.
+- Quale di questi Paesi fu tra i sei fondatori?
+- In quale città furono firmati nel 1957 i trattati che fondarono la Comunità economica europea?
+- L'inno europeo è l'Inno alla ___ di Beethoven.
+- I cittadini europei eleggono il Parlamento europeo ogni 5 anni.
+- In quale città ha sede la Banca centrale europea?
+- Che cosa vuol dire il motto Unita nella diversità?
+- Perché dopo la Seconda guerra mondiale alcuni Paesi europei decisero di collaborare?
 
 ## Ripasso: l'Italia centrale [lib-5-elementare-geografia-ripasso-italia-centro] · CENTRO
 concetti: Le regioni del Centro; L'Appennino; Fiumi e laghi; Storia e cultura
@@ -409,6 +860,17 @@ concetti: Le regioni del Nord; La Pianura Padana; Il clima; Lo sviluppo industri
 - Quale di queste caratteristiche ha favorito lo sviluppo delle industrie al Nord?
 - Spiega le differenze tra il clima della Pianura Padana e quello della Riviera ligure, e perché sono così dive…
 
+## Ripasso: regioni di confine [lib-5-elementare-geografia-ripasso-regioni-confine] · VALICO
+concetti: Confini con la Francia; Confini con la Svizzera; Confini con Austria e Slovenia; Regioni senza mare e Stati interni
+- Quale regione confina con la Slovenia?
+- Quale di queste regioni confina con la Francia?
+- Il Canton Ticino, in Svizzera, confina con la Lombardia.
+- Metti in ordine da ovest a est queste regioni di confine.
+- Quale di queste regioni NON ha il mare?
+- La Repubblica di San Marino si trova tra l'Emilia-Romagna e le ___.
+- Quale regione confina con due Stati, Svizzera e Austria?
+- Perché secondo te nelle regioni di confine si parlano spesso anche lingue degli Stati vicini?
+
 ## Ripasso: Sud e isole [lib-5-elementare-geografia-ripasso-sud-isole] · ISOLA
 concetti: Le regioni del Sud e delle isole; Il clima mediterraneo; La Magna Grecia; Vulcani e terremoti
 - Quali sono le due regioni dell'Italia insulare?
@@ -431,6 +893,28 @@ concetti: L'isola; Il territorio; I nuraghi; Tradizioni ed economia
 - Perché in Sardegna l'allevamento delle pecore è così diffuso?
 - I nuraghi sono patrimonio della Sardegna e dell'umanità. Perché secondo te è importante conservare costruzion…
 
+## Schengen, Europa senza dogane [lib-5-elementare-geografia-spazio-schengen] · DOGANA
+concetti: L'accordo di Schengen; Chi ne fa parte; Libera circolazione; Controlli comuni
+- Da dove prende il nome l'accordo di Schengen?
+- Che cosa prevede l'accordo di Schengen?
+- La Svizzera non fa parte dell'Unione europea ma fa parte dello spazio Schengen.
+- Quale Paese è nell'Unione europea ma NON nello spazio Schengen?
+- Anche nello spazio Schengen, quando viaggi devi sempre portare un ___ d'identità.
+- In caso di grave pericolo, che cosa possono fare i Paesi Schengen?
+- Un camion porta formaggi dall'Italia alla Germania. Che vantaggio ha grazie a Schengen?
+- Perché i Paesi Schengen devono collaborare molto per controllare i confini esterni?
+
+## Si può cambiare la Costituzione? [lib-5-elementare-geografia-revisione-costituzione] · RIFORMA
+concetti: La procedura speciale; Maggioranze e referendum; Ciò che non si può cambiare; Esempi di modifiche
+- Quante volte ogni Camera deve approvare una legge di modifica della Costituzione?
+- Quanto tempo deve passare almeno tra la prima e la seconda votazione?
+- L'articolo 139 dice che l'Italia non può tornare a essere una monarchia modificando la Costituzione.
+- Metti in ordine i passaggi per modificare la Costituzione.
+- Se nella seconda votazione la riforma non ottiene i due terzi, i cittadini possono chiedere un ___.
+- Quale principio è stato aggiunto all'articolo 9 nel 2022?
+- Perché la doppia votazione distanziata rende più sicura la Costituzione?
+- Perché secondo te la forma repubblicana non si può cambiare?
+
 ## Sicilia, la più grande isola [lib-5-elementare-geografia-sicilia] · ETNA
 concetti: La più grande; Forma e mari; Vulcani e isole; Storia e prodotti
 - Qual è il capoluogo della Sicilia?
@@ -442,6 +926,28 @@ concetti: La più grande; Forma e mari; Vulcani e isole; Storia e prodotti
 - Quale isola siciliana è la terra più a sud d'Italia?
 - Perché la Sicilia, pur essendo un'isola, ha avuto nella sua storia tanti popoli diversi, come Greci, Arabi e …
 
+## Specchi d'acqua d'Italia [lib-5-elementare-geografia-laghi-italiani] · LAGO
+concetti: I laghi prealpini; I laghi vulcanici; Il Trasimeno; Laghi costieri e artificiali
+- Quale lago, che bagna tre regioni, è il più grande d'Italia?
+- Come si sono formati i grandi laghi ai piedi delle Alpi?
+- I laghi vulcanici hanno spesso una forma rotonda perché occupano il cratere di un antico vulcano.
+- In quale regione si trovano i laghi di Bolsena e di Bracciano?
+- Il lago più grande dell'Italia peninsulare è il ___, in Umbria.
+- Metti in ordine questi laghi dal più grande al più piccolo.
+- Il Lago di Resia, da cui spunta un campanile, è un lago artificiale. Che cosa significa?
+- A che cosa possono servire i laghi artificiali? Indica almeno due usi.
+
+## Stalle, pascoli e reti [lib-5-elementare-geografia-allevamento-pesca] · LATTE
+concetti: Bovini e suini; Pecore e capre; La pesca; L'acquacoltura
+- In quale zona d'Italia si allevano soprattutto le mucche da latte?
+- Quale regione italiana ha il maggior numero di pecore?
+- Il Parmigiano Reggiano si produce con il latte di ___.
+- Il fermo della pesca serve a dare tempo ai pesci di riprodursi.
+- Quale regione ha la flotta di pescherecci più grande d'Italia?
+- Che cos'è l'acquacoltura?
+- Perché le pecore si allevano spesso in collina e in montagna, mentre le mucche da latte in pianura?
+- Che cosa potrebbe succedere se si pescasse troppo in un mare? Spiega perché.
+
 ## Strade, binari, porti e aeroporti [lib-5-elementare-geografia-trasporti-vie-comunicazione] · BINARIO
 concetti: Le autostrade; Le ferrovie; Porti e aeroporti; Attraverso le Alpi
 - Quali città collega l'Autostrada del Sole (A1)?
@@ -452,6 +958,28 @@ concetti: Le autostrade; Le ferrovie; Porti e aeroporti; Attraverso le Alpi
 - Un treno ad alta velocità va da Roma a Napoli, circa 220 km, a una media di 220 km all'ora. Quanto dura il vi…
 - Perché in Sicilia non si può arrivare in treno senza salire su un traghetto?
 - Perché le vie di comunicazione, come strade, ferrovie e porti, sono importanti per l'economia di una regione?
+
+## Tante lingue, una sola Europa [lib-5-elementare-geografia-lingue-europa] · LINGUA
+concetti: 24 lingue ufficiali; Le lingue romanze; Lingue germaniche e slave; Alfabeti diversi
+- Quante sono le lingue ufficiali dell'Unione europea?
+- Quale di queste lingue deriva dal latino?
+- Le lingue che derivano dal latino si chiamano lingue ___.
+- A quale famiglia di lingue appartiene il tedesco?
+- Il bulgaro si scrive con l'alfabeto cirillico.
+- Quale di queste è una lingua slava?
+- Perché le leggi dell'Unione europea vengono tradotte in tutte le lingue ufficiali?
+- Una parola come mano si dice main in francese e mano in spagnolo. Come spieghi questa somiglianza?
+
+## Tesori protetti dall'UNESCO [lib-5-elementare-geografia-patrimonio-unesco] · TESORO
+concetti: Che cos'è l'UNESCO; Siti culturali italiani; Siti naturali; Patrimonio immateriale
+- Di quale organizzazione fa parte l'UNESCO?
+- Quale di questi siti UNESCO si trova in Puglia?
+- Le Dolomiti sono state riconosciute dall'UNESCO come sito naturale.
+- Quale vulcano siciliano è Patrimonio dell'umanità?
+- La ___ mediterranea, con olio, cereali, verdure e pesce, è patrimonio immateriale dell'UNESCO.
+- Che cosa significa che un bene è patrimonio immateriale?
+- L'antica città romana sepolta dall'eruzione del Vesuvio nel 79 d.C. è oggi sito UNESCO. Come si chiama?
+- Perché è importante che un luogo sia riconosciuto Patrimonio dell'umanità?
 
 ## Toscana, arte e colline [lib-5-elementare-geografia-toscana] · ARNO
 concetti: Il territorio; Firenze e il Rinascimento; Altre città; Isole e prodotti
@@ -474,6 +1002,17 @@ concetti: Le province; Le città metropolitane; Gli organi della Regione; I comp
 - Metti in ordine questi enti dal più piccolo al più grande, secondo il territorio che amministrano.
 - L'edificio di una scuola superiore ha bisogno di riparazioni. Quale ente se ne occupa di solito?
 - Perché secondo te è utile che alcune decisioni, come quelle sulla sanità, siano prese dalla Regione invece ch…
+
+## Tre capitali per un'Italia unita [lib-5-elementare-geografia-unita-italia-capitali] · UNITA
+concetti: Il Regno d'Italia; Tre capitali; L'Italia si completa; I protagonisti
+- In quale anno nacque il Regno d'Italia?
+- Qual è stata la prima capitale del Regno d'Italia?
+- Metti in ordine le capitali d'Italia dalla prima all'attuale.
+- Roma fu conquistata nel 1870 con la breccia di Porta ___.
+- Nel 1861 anche Trento e Trieste facevano già parte del Regno d'Italia.
+- Chi guidò la spedizione dei Mille nel 1860?
+- In quale anno il Veneto entrò a far parte del Regno d'Italia?
+- Che cosa cambiò per gli abitanti della penisola con la nascita di uno Stato unito?
 
 ## Tre poteri in equilibrio [lib-5-elementare-geografia-tre-poteri] · POTERE
 concetti: Il potere legislativo; Il potere esecutivo; Il potere giudiziario; La separazione dei poteri
@@ -507,6 +1046,17 @@ concetti: Il cuore verde; Città e province; Acque; San Francesco
 - Che cosa ha di particolare la Cascata delle Marmore, vicino a Terni?
 - Quale grande pittore dipinse gli affreschi con le storie di San Francesco nella basilica di Assisi?
 - Perché secondo te l'Umbria è chiamata il cuore verde d'Italia? Spiega entrambe le parole.
+
+## Un giro tra le capitali europee [lib-5-elementare-geografia-capitali-ue] · PARIGI
+concetti: Capitali dell'Europa occidentale; Capitali dell'Europa centrale; Capitali del Nord e dell'Est; Capitali del Mediterraneo
+- Qual è la capitale della Spagna?
+- Di quale Stato è capitale Berlino?
+- Qual è la capitale della Svezia?
+- La capitale della Grecia, famosa per l'Acropoli e il Partenone, è ___.
+- Vienna è la capitale dell'Austria, uno Stato che confina con l'Italia.
+- Metti in ordine queste capitali da ovest verso est.
+- Il Danubio attraversa tre capitali dell'Unione europea. Quali?
+- Perché molte istituzioni europee hanno sede a Bruxelles? Prova a ipotizzare un motivo legato alla sua posizio…
 
 ## Valle d'Aosta, tetto d'Italia [lib-5-elementare-geografia-valle-aosta] · BIANCO
 concetti: La regione più piccola; Le montagne; Due lingue; Storia ed economia

@@ -1,5 +1,5 @@
 # 2ª media · Storia: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Beccaria contro la pena di morte [lib-2-media-storia-beccaria-delitti-pene] · DELITTO

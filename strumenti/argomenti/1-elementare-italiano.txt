@@ -1,5 +1,5 @@
-# 1ª elementare · Italiano: 50 missioni valide
-# ultima bozza numerata: 05 · aggiornato 2026-11-08 18:38
+# 1ª elementare · Italiano: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## A pezzetti: le sillabe [lib-1-elementare-italiano-sillabe] · SILLABA
@@ -24,6 +24,28 @@ concetti: Parole che imitano i suoni; I versi degli animali; I rumori delle cose
 - Perché BAU e DRIN sono parole speciali?
 - Che rumore fa la pioggia sul vetro? Scrivilo con una parola.
 
+## Bianco come la neve [lib-1-elementare-italiano-similitudini-come] · NEVE
+concetti: Il paragone con COME; Paragoni famosi; Inventare paragoni
+- Completa: Bianco come…
+- Completa: Veloce come…
+- 'Lento come una lumaca' è un paragone che ha senso.
+- Quel bambino è buono come il ___.
+- Completa: Dolce come…
+- In quale frase c'è un paragone?
+- Completa: Freddo come…
+- Inventa un paragone con COME per descrivere il sole.
+
+## Buongiorno o ciao? [lib-1-elementare-italiano-saluti-giusti] · SALUTO
+concetti: Saluti del giorno; Ciao e buongiorno; Arrivare e andare via
+- Che cosa dici prima di andare a dormire?
+- Entri a scuola alle otto del mattino. Che cosa dici alla bidella?
+- Con il tuo migliore amico puoi dire CIAO.
+- Esci dal negozio e dici: '___!'
+- Il dottore ti visita per la prima volta. Come lo saluti?
+- Sono le nove di sera e arriva la zia. Che cosa le dici?
+- Perché è importante salutare?
+- Perché con un adulto che non conosci dici BUONGIORNO e non CIAO?
+
 ## C'era una volta... e poi? [lib-1-elementare-italiano-racconto] · FIABA
 concetti: Inizio, svolgimento, fine; Personaggi e luoghi; Le fiabe
 - Con quali parole cominciano spesso le fiabe?
@@ -34,6 +56,28 @@ concetti: Inizio, svolgimento, fine; Personaggi e luoghi; Le fiabe
 - 'Nel bosco, un orso cerca il miele.' Dove si svolge la storia?
 - Di solito, in quale parte conosci i personaggi e il luogo?
 - Inventa una fine felice per la storia di Mia: che cosa fa con l'aquilone?
+
+## C'è o ci sono? [lib-1-elementare-italiano-ce-ci-sono] · STELLE
+concetti: C'è per una cosa; Ci sono per tante cose; Come si scrive c'è
+- Completa: Nel prato ___ un fiore.
+- Completa: Sul tavolo ___ tre mele.
+- La frase 'C'è tanti bambini' è scritta bene.
+- In cucina ___ la mamma.
+- Come si scrive giusto?
+- Quale frase è giusta?
+- Quale frase è giusta?
+- Da quali due parole nasce C'È?
+
+## Caro amico, ti scrivo [lib-1-elementare-italiano-lettera-amico] · POSTA
+concetti: Il saluto iniziale; Il messaggio; Saluti e firma
+- Leggi: 'Cara Giulia, oggi ho imparato a nuotare!' A chi scrive Marco?
+- La lettera finisce con: 'Un abbraccio, Marco.' Chi ha scritto la lettera?
+- Nella lettera Marco racconta che ha imparato a nuotare.
+- Leggi: 'Vieni al mare con me sabato?' Marco invita Giulia al mare ___.
+- Metti in ordine le parti di una lettera.
+- Leggi: 'L'acqua era fredda ma mi sono divertito.' Com'era l'acqua?
+- Con quale saluto puoi iniziare una lettera alla nonna?
+- Che cosa scrivi alla fine di una lettera?
 
 ## Catena di sillabe [lib-1-elementare-italiano-catena-sillabe] · CATENA
 concetti: La prima sillaba; L'ultima sillaba; Il gioco della catena
@@ -46,6 +90,28 @@ concetti: La prima sillaba; L'ultima sillaba; Il gioco della catena
 - Quale parola può venire dopo TOPO nella catena?
 - Trova una parola che comincia con l'ultima sillaba di SCUOLA.
 
+## CC e GG: doppie dolci [lib-1-elementare-italiano-doppie-cc-gg] · PIOGGIA
+concetti: CCI e CCE dolci; GGI e GGE dolci; Doppie dure
+- Quale parola ha la doppia CC con suono dolce?
+- OGGI si scrive con la doppia GG.
+- Al mattino mi lavo la fa___ia.
+- Quale parola è scritta giusta?
+- In quale parola la doppia CC ha un suono duro?
+- Quale parola ha la doppia GG?
+- Quale parola ha la doppia GG con suono duro?
+- Che suono ha la CC in GOCCIA: dolce o duro? Perché?
+
+## Che tempo fa oggi? [lib-1-elementare-italiano-parole-del-tempo-atmosferico] · NUVOLA
+concetti: Le parole del tempo; Che cosa ci serve; Com'è il cielo
+- Piove forte. Che cosa prendi per uscire?
+- Che cosa cade dal cielo quando fa molto freddo d'inverno?
+- Se il cielo è sereno, è pieno di nuvole.
+- Le foglie volano via: c'è tanto ___.
+- C'è la nebbia. Che cosa succede?
+- Il cielo è grigio e pieno di nuvole. Com'è?
+- D'estate al mare c'è un sole forte. Che cosa metti in testa?
+- Che cosa ti metti quando nevica? Perché?
+
 ## Chi fa che cosa? [lib-1-elementare-italiano-chi-fa-cosa] · FRASE
 concetti: Chi e che cosa fa; Frasi più lunghe; Frasi incomplete
 - Quale di queste è una frase che dice chi fa che cosa?
@@ -56,6 +122,17 @@ concetti: Chi e che cosa fa; Frasi più lunghe; Frasi incomplete
 - In 'Domani Sara va al mare', quale parte dice QUANDO?
 - In 'Al mattino il gallo canta sul tetto', chi è il protagonista?
 - Allunga la frase 'Il cane corre' dicendo dove.
+
+## Chi è buono, chi è cattivo? [lib-1-elementare-italiano-personaggi-fiaba] · LUPO
+concetti: Il protagonista; Il cattivo; L'aiutante
+- Chi è la protagonista della fiaba Cappuccetto Rosso?
+- Nella fiaba dei tre porcellini, chi è il cattivo?
+- Nella fiaba il cacciatore aiuta Cappuccetto Rosso e la nonna.
+- Cappuccetto Rosso porta un cestino alla ___.
+- Perché il lupo si traveste da nonna?
+- Metti in ordine la fiaba.
+- In Biancaneve, chi aiuta la protagonista?
+- Che cosa fa il cattivo in una fiaba?
 
 ## Chi? Dove? Quando? Perché? [lib-1-elementare-italiano-parole-domanda] · DOMANDA
 concetti: CHI e CHE COSA; DOVE e QUANDO; PERCHÉ e COME
@@ -101,6 +178,17 @@ concetti: Parole che dicono com'è; Qualità e cinque sensi; Qualità e nome d'a
 - Quale coppia di qualità va bene per una pietra?
 - Descrivi il tuo zaino con due qualità.
 
+## Come finirà la storia? [lib-1-elementare-italiano-inventare-finale] · FINALE
+concetti: Il finale; Immaginare che cosa succede; Un finale adatto
+- Il finale di una storia è…
+- 'E vissero felici e contenti' è un modo di finire una fiaba.
+- Leggi: 'Leo fa un pupazzo di neve. Poi esce un sole caldo.' Che cosa succederà al pupazzo?
+- Il pupazzo di Leo si scioglie e alla fine resta una pozza di ___.
+- Metti in ordine la storia di Leo.
+- Leggi: 'Il cielo diventa nero e si sentono i tuoni.' Che cosa succederà?
+- Storia: 'Gaia ha perso il suo orsetto e lo cerca ovunque.' Quale finale è adatto?
+- Inventa un finale per la storia di Gaia che cerca l'orsetto.
+
 ## Come si sente? Le emozioni [lib-1-elementare-italiano-emozioni] · SORRISO
 concetti: I nomi delle emozioni; Gli indizi nel testo; Perché si sente così
 - Luca ride, batte le mani e salta. Come si sente?
@@ -111,6 +199,28 @@ concetti: I nomi delle emozioni; Gli indizi nel testo; Perché si sente così
 - 'Il cane scodinzola quando vede Pietro.' Come si sente il cane?
 - Sofia ha paura del buio. Che cosa la può aiutare?
 - Racconta una volta in cui eri felice. Perché?
+
+## Copertina, titolo e autore [lib-1-elementare-italiano-parti-del-libro] · LIBRO
+concetti: La copertina; Titolo e autore; Le pagine
+- Dove trovi il titolo di un libro?
+- Chi è l'autore di un libro?
+- Le pagine di un libro sono numerate in ordine.
+- Pinocchio è stato scritto da Carlo ___.
+- La maestra dice: 'Aprite il libro a pagina 12.' Che cosa cerchi?
+- Metti in ordine le pagine del libro.
+- Che cosa c'è di solito sulla copertina?
+- Che differenza c'è tra il titolo e l'autore di un libro?
+
+## Da uno a tanti: i plurali [lib-1-elementare-italiano-singolare-plurale-finali] · TANTI
+concetti: Da -O a -I; Da -A a -E; Da -E a -I
+- Qual è il plurale di GATTO?
+- Qual è il plurale di MELA?
+- Il plurale di MARE è MARE.
+- Il papà ha tre ___ nel mazzo.
+- Qual è il plurale di CANE?
+- Quale parola è al plurale?
+- Nonna ha una gonna. Zia ne ha tre: tre…
+- Come diventa la parola BAMBINO quando i bambini sono tanti?
 
 ## Descrivo il mio animale [lib-1-elementare-italiano-descrizione-animale] · ASPETTO
 concetti: Com'è fatto; Che cosa fa; Usare i sensi
@@ -123,6 +233,17 @@ concetti: Com'è fatto; Che cosa fa; Usare i sensi
 - Quale frase fa capire subito che si parla di una zebra?
 - Descrivi con una frase il tuo animale preferito.
 
+## Descrivo la mia nonna [lib-1-elementare-italiano-descrizione-persona] · NONNA
+concetti: Com'è fuori; Com'è dentro; Che cosa le piace fare
+- Leggi: 'La nonna Rosa ha i capelli bianchi.' Di che colore sono i capelli della nonna?
+- Leggi: 'La nonna è bassa e porta gli occhiali.' La nonna è alta.
+- Leggi: 'La nonna è gentile e ride sempre.' Com'è il carattere della nonna?
+- Leggi: 'Alla nonna piace cucinare le lasagne.' Alla nonna piace ___.
+- Quale parola descrive com'è fatta una persona fuori?
+- Quale parola descrive il carattere di una persona?
+- Quale frase dice che cosa fa una persona?
+- Descrivi in una frase una persona a cui vuoi bene.
+
 ## Doppie: due lettere uguali [lib-1-elementare-italiano-doppie] · DOPPIA
 concetti: Che cosa sono le doppie; Si sentono più forti; Cambiano la parola; Doppie e sillabe
 - In quale parola c'è una doppia?
@@ -133,6 +254,39 @@ concetti: Che cosa sono le doppie; Si sentono più forti; Cambiano la parola; Do
 - Come si divide in sillabe la parola GATTO?
 - Togli una R da CARRO: quale parola leggi?
 - Perché è importante scrivere bene le doppie? Fai un esempio.
+
+## Due parole diventano una [lib-1-elementare-italiano-parole-composte] · ARCO
+concetti: Unire due parole; Il significato; Capire parole nuove
+- PORTA + CHIAVI fa…
+- Da quali due parole nasce GIRASOLE?
+- Il PORTAPENNE serve a tenere le penne.
+- CAPO + ___ fa CAPOTRENO.
+- A che cosa serve un APRISCATOLE?
+- Come si chiama il pesce con il muso lungo come una spada?
+- Che cos'è un ASCIUGAMANO?
+- Spiega che cosa fa un TAGLIAERBA.
+
+## Due vocali vicine vicine [lib-1-elementare-italiano-vocali-vicine] · UOVO
+concetti: Vocali che stanno insieme; Leggerle tutte e due; Non dimenticarle scrivendo
+- In quale parola ci sono due vocali vicine?
+- Quali sono le due vocali vicine in FIORE?
+- In BUONO ci sono due vocali vicine: U e O.
+- Il ___ batte nel petto.
+- Quale parola è scritta giusta?
+- Leggi bene: in quale parola la A e la I sono vicine?
+- Luca scrive PANO invece di PIANO. Che errore ha fatto?
+- Perché scrivere SCOLA invece di SCUOLA è un errore?
+
+## E e MA: parole ponte [lib-1-elementare-italiano-unire-frasi-e-ma] · PONTE
+concetti: E aggiunge; MA dice il contrario; Frasi più lunghe
+- Completa: Ho un cane ___ un gatto.
+- Completa: Volevo giocare, ___ ero stanco.
+- Nella frase 'Fa freddo, ma esco' MA unisce due idee diverse.
+- Mangio pane ___ marmellata.
+- Unisci: 'Sara legge.' 'Sara scrive.'
+- Quale frase usa bene MA?
+- Unisci: 'Corro veloce.' 'Arrivo secondo.'
+- Inventa una frase con MA.
 
 ## E o È? Il cappellino [lib-1-elementare-italiano-e-accentata] · ESSERE
 concetti: E unisce; È dice com'è o dove; Il trucco di ERA
@@ -145,6 +299,17 @@ concetti: E unisce; È dice com'è o dove; Il trucco di ERA
 - Perché in 'Il gatto è nero' ci vuole l'accento?
 - Scrivi una frase che usa sia E sia È.
 
+## Felice o infelice? [lib-1-elementare-italiano-contrari-in-s] · FELICE
+concetti: IN- davanti; S- davanti; Non funziona sempre
+- Qual è il contrario di FELICE?
+- Qual è il contrario di CONTENTO?
+- Il contrario di BELLO è SBELLO.
+- Tolgo il coperchio: ___ la pentola.
+- Qual è il contrario di POSSIBILE?
+- Il camion arriva pieno e poi lo svuotano. Qual è il contrario di CARICARE?
+- Qual è il contrario di VELOCE?
+- Perché si scrive IMPOSSIBILE e non INPOSSIBILE?
+
 ## Filastrocche e poesie [lib-1-elementare-italiano-filastrocche] · VERSO
 concetti: Il verso; La strofa; Ritmo e rima; Il poeta
 - Come si chiama ogni riga di una poesia?
@@ -156,6 +321,17 @@ concetti: Il verso; La strofa; Ritmo e rima; Il poeta
 - Perché le filastrocche si ricordano facilmente?
 - Completa con una rima: 'Il gatto sul muretto, il topo nel...'
 
+## Gallo e gallina: coppie speciali [lib-1-elementare-italiano-maschile-femminile-speciali] · GALLINA
+concetti: Cambia la vocale finale; Si aggiunge un pezzetto; Parola tutta diversa
+- Qual è il femminile di MAESTRO?
+- Qual è il femminile di LEONE?
+- Il femminile di FRATELLO è SORELLA.
+- Il gallo e la ___ vivono nel pollaio.
+- Qual è il femminile di UOMO?
+- Qual è il maschile di BAMBINA?
+- Qual è il femminile di PAPÀ?
+- Come diventa femminile la parola DOTTORE?
+
 ## Gattino o gattone? [lib-1-elementare-italiano-diminutivi-accrescitivi] · PICCOLO
 concetti: Parole piccole; Parole grandi; Parole che ingannano
 - Come si chiama un piccolo gatto?
@@ -166,6 +342,17 @@ concetti: Parole piccole; Parole grandi; Parole che ingannano
 - Che cos'è un TACCHINO?
 - In quale parola -ONE NON vuol dire grande?
 - Come chiami un piccolo albero? E un albero molto grande?
+
+## GIA, GIO, GIU: la I nascosta [lib-1-elementare-italiano-gia-gio-giu] · GIOCO
+concetti: GE e GI dolci; GIA, GIO, GIU; Senza I il suono è duro
+- In quale parola la G ha un suono dolce?
+- Nella parola GIARDINO dopo la G c'è la I.
+- Il papà mi regala un ___cattolo.
+- Quale parola è scritta giusta?
+- Togli la I da GIOCO. Come suona GOCO?
+- Quale parola ha il suono GIU?
+- Quale gruppo ha solo suoni dolci?
+- Perché in GIARDINO dopo la G c'è la I?
 
 ## GN e GLI: suoni speciali [lib-1-elementare-italiano-gn-gl] · GNOMO
 concetti: Il suono GN; Il suono GLI; Dopo GN niente I
@@ -188,6 +375,28 @@ concetti: HO, HAI, HA, HANNO; A senza H; O senza H
 - In quale frase ci vuole HA con la H?
 - Che cosa succede se togli la H da HANNO?
 - Perché in 'Io ho un cane' ci vuole la H?
+
+## Ieri, oggi, domani nelle azioni [lib-1-elementare-italiano-azioni-ieri-oggi-domani] · DOMANI
+concetti: Azioni di oggi; Azioni di ieri; Azioni di domani
+- Quale frase racconta una cosa già successa?
+- Quale frase racconta una cosa che succederà?
+- La frase 'Adesso leggo un libro' racconta una cosa che succede ora.
+- Ieri Luca ___ una torta.
+- Completa: Domani io ___ al mare.
+- Quale parola ti fa capire che l'azione succede adesso?
+- Metti in ordine, da ieri a domani.
+- Racconta in una frase una cosa che farai domani.
+
+## Il cane abbaia, il gatto miagola [lib-1-elementare-italiano-versi-animali-verbi] · ABBAIA
+concetti: Il verso come azione; Animali della fattoria; Animali selvatici
+- Che cosa fa il gatto?
+- Che cosa fa la mucca?
+- Il leone ruggisce.
+- La pecora ___ nel prato.
+- Chi ulula alla luna?
+- Il cavallo…
+- Il cane fa 'bau bau'. Con quale parola si dice il suo verso?
+- Che verso fa il serpente e come si dice?
 
 ## Il gioco dei contrari [lib-1-elementare-italiano-contrari] · OPPOSTO
 concetti: Che cos'è un contrario; Contrari di com'è; Contrari di azioni; Contrari di posizione
@@ -244,6 +453,28 @@ concetti: Leggere gli indizi; Mettere insieme gli indizi; Inventare un indovinel
 - Quale indizio va bene per un indovinello sulla PIOGGIA?
 - Inventa un indovinello su un animale, senza dire il nome.
 
+## Indovina l'oggetto descritto [lib-1-elementare-italiano-descrizione-oggetto] · MATITA
+concetti: Forma e colore; Di che cosa è fatto; A che cosa serve
+- 'È lunga, sottile e ha la punta.' Quale oggetto è?
+- Di che materiale è fatta di solito una matita?
+- La gomma serve a cancellare.
+- La palla è ___ come un'arancia.
+- 'È di stoffa, ha due spallacci e ci metti i libri.' Che cos'è?
+- Quale oggetto è di vetro?
+- 'È di metallo, è piccola e apre la porta.' Che cos'è?
+- Descrivi la tua gomma in una frase: com'è e a che cosa serve.
+
+## Io, tu, lui: chi lo fa? [lib-1-elementare-italiano-io-tu-lui] · PERSONA
+concetti: Io e noi; Tu e voi; Lui, lei, loro
+- Quando parli di te stesso, che parola usi?
+- Parli con la tua amica Sara. Che parola usi per lei?
+- Per parlare di Marco, che non è qui, puoi dire LUI.
+- Anna è brava: ___ disegna benissimo.
+- Io e Luca giochiamo insieme. Chi siamo?
+- La maestra parla a tutta la classe: 'Bambini, ___ siete bravi!'
+- Leo e Mia sono al parco. ___ giocano a nascondino.
+- Che differenza c'è tra IO e TU?
+
 ## L'apostrofo, virgola in alto [lib-1-elementare-italiano-apostrofo] · ALBERO
 concetti: Che cos'è l'apostrofo; LO e LA davanti a vocale; Con le consonanti niente apostrofo
 - Com'è fatto l'apostrofo?
@@ -254,6 +485,28 @@ concetti: Che cos'è l'apostrofo; LO e LA davanti a vocale; Con le consonanti ni
 - In L'ORSO, quale vocale è caduta?
 - In quale scrittura c'è un errore?
 - Perché scriviamo L'ELEFANTE e non LO ELEFANTE?
+
+## La cameretta di Tommaso [lib-1-elementare-italiano-descrizione-cameretta] · LETTO
+concetti: Che cosa c'è; Dove sono le cose; I dettagli
+- Leggi: 'Nella cameretta c'è un letto blu.' Di che colore è il letto?
+- Leggi: 'Sotto il letto c'è una scatola di giochi.' La scatola è sopra il letto.
+- Leggi: 'Il letto è vicino alla finestra.' Dov'è il letto?
+- Leggi: 'Sopra la scrivania ci sono i colori.' I colori sono ___ la scrivania.
+- Leggi: 'Sul muro c'è un poster di un dinosauro.' Che cosa capisci di Tommaso?
+- Quale frase dà più dettagli?
+- Nel testo ci sono letto, scrivania, scatola e poster. Che cosa NON c'è?
+- Dove tiene i giochi Tommaso?
+
+## La cicala e la formica [lib-1-elementare-italiano-favola-cicala-formica] · FORMICA
+concetti: La favola; I due personaggi; L'insegnamento
+- In una favola chi sono spesso i personaggi?
+- Che cosa fa la cicala d'estate?
+- D'estate la formica raccoglie il cibo.
+- Quando arriva l'inverno, la cicala ha ___.
+- Metti in ordine i fatti della favola.
+- Che cosa insegna questa favola?
+- Perché d'inverno la formica non ha fame?
+- Che cosa avrebbe dovuto fare la cicala d'estate?
 
 ## La H che fa la dura [lib-1-elementare-italiano-suoni-duri] · CHIAVE
 concetti: Suono duro: CA, CO, CU; CHE e CHI; GHE e GHI; La H non si legge
@@ -277,6 +530,39 @@ concetti: Che cos'è un elenco; La virgola separa; La E prima dell'ultima; Una l
 - Quante cose ci sono in 'pane, burro, miele e latte'?
 - Scrivi la lista per una merenda al parco: tre cose.
 
+## La parolina NON [lib-1-elementare-italiano-frasi-negative-non] · NIENTE
+concetti: NON dice di no; Dove si mette NON; Rispondere di no
+- Quale frase dice il contrario di 'Il cane abbaia'?
+- Nella frase 'Mia non dorme' la parola NON sta prima dell'azione.
+- Oggi c'è il sole: ___ piove.
+- Quale frase è scritta bene?
+- Hai fatto merenda? Rispondi di no.
+- Leggi: 'Luca non è a casa.' Che cosa vuol dire?
+- Quale risposta dice di no?
+- Trasforma con NON la frase: 'Il gatto mangia.'
+
+## Leggo ad alta voce [lib-1-elementare-italiano-leggere-ad-alta-voce] · VOCE
+concetti: Le pause; Il tono; Leggere bene
+- Quando leggi e trovi un punto, che cosa fai?
+- Alla virgola si fa una piccola pausa.
+- Come leggi la frase 'Vieni anche tu?'
+- Con il punto ___ leggi con tanta emozione.
+- Per farti capire da chi ascolta, come leggi?
+- Quale frase leggi con emozione forte?
+- Leggendo trovi una parola difficile. Che cosa fai?
+- Perché quando leggi ad alta voce devi rispettare punti e virgole?
+
+## Leggo e capisco: al parco [lib-1-elementare-italiano-leggo-capisco-parco] · PARCO
+concetti: I personaggi; I fatti in ordine; Capire il perché
+- Leggi: 'Sara va al parco con il cane Fido.' Chi è Fido?
+- Leggi: 'Sara lancia una palla rossa.' La palla è blu.
+- Leggi: 'Fido corre sull'erba.' Dove corre Fido?
+- Leggi: 'Sara lancia la palla e Fido la riporta.' Fido ___ la palla.
+- Metti in ordine i fatti della storia.
+- Leggi: 'Inizia a piovere: Sara e Fido tornano a casa.' Perché tornano a casa?
+- Fido riporta sempre la palla. Che cosa capisci di Fido?
+- Che cosa fanno Sara e Fido al parco?
+
 ## Leggo e capisco: la festa [lib-1-elementare-italiano-leggo-capisco] · TORTA
 concetti: Chi c'è nel testo; Dove e quando; Che cosa succede
 - Leggi: 'Oggi è il compleanno di Nina.' Chi festeggia il compleanno?
@@ -287,6 +573,28 @@ concetti: Chi c'è nel testo; Dove e quando; Che cosa succede
 - Metti in ordine quello che succede con la torta.
 - Leggi: 'Leo regala a Nina un libro di fiabe.' Che cosa farà Nina con il regalo?
 - Perché oggi Nina fa una festa?
+
+## Leggo i cartelli [lib-1-elementare-italiano-cartelli] · USCITA
+concetti: Cartelli che informano; Cartelli che vietano; Aperto e chiuso
+- Vuoi andare fuori dal cinema. Che cartello cerchi?
+- Se sulla porta del negozio c'è scritto CHIUSO, puoi entrare a comprare.
+- Cartello: VIETATO CALPESTARE L'ERBA. Che cosa non puoi fare?
+- Devi lavarti le mani. Cerchi il cartello ___.
+- Cartello al parco: VIETATO L'INGRESSO AI CANI. Che cosa vuol dire?
+- Sulla porta della biblioteca c'è scritto APERTO. Che cosa puoi fare?
+- Perché nei posti pubblici ci sono i cartelli?
+- Perché è importante rispettare un cartello con scritto VIETATO?
+
+## Leggo le regole della classe [lib-1-elementare-italiano-regole-della-classe] · REGOLA
+concetti: A che cosa servono; Come sono scritte; Rispettarle
+- A che cosa servono le regole della classe?
+- Regola: 'Alza la mano per parlare.' Che cosa devi fare?
+- La regola 'Metti in ordine il banco' dice di lasciare tutto in disordine.
+- Regola: 'Nei corridoi si ___ piano.'
+- Che cosa succederebbe se tutti parlassero insieme?
+- Quale frase è una regola della classe?
+- Un compagno ti presta un pastello. Che cosa fai dopo?
+- Inventa una regola per la tua classe.
 
 ## Leggo un invito [lib-1-elementare-italiano-invito] · INVITO
 concetti: Chi scrive e chi riceve; Quando e dove; Che cosa portare
@@ -310,6 +618,28 @@ concetti: Cinque lettere straniere; Parole che le usano; L'alfabeto completo
 - Perché la parola TAXI ha la X?
 - Scrivi una parola che usa una lettera straniera.
 
+## LI o GLI? Ascolta bene [lib-1-elementare-italiano-li-gli] · FOGLIA
+concetti: Il suono LI; Il suono GLI; Attenti alle coppie
+- Quale parola ha il suono LI?
+- Quale parola ha il suono GLI?
+- LUGLIO, il mese delle vacanze, si scrive con GLI.
+- Sull'insalata metto l'o___o.
+- Quale parola è scritta giusta?
+- In quale coppia tutte e due le parole hanno il suono GLI?
+- Quale parola è scritta giusta?
+- Che differenza senti tra OLIO e FOGLIO?
+
+## Lunedì e maggio: minuscola! [lib-1-elementare-italiano-giorni-mesi-minuscola] · LUNEDI
+concetti: Giorni con la minuscola; Mesi con la minuscola; Maiuscola a inizio frase
+- In quale frase il giorno è scritto giusto?
+- In mezzo a una frase, il mese di aprile si scrive con la minuscola.
+- In quale frase il mese è scritto giusto?
+- I giorni della settimana si scrivono con la lettera ___.
+- Quale frase è scritta giusta?
+- Quale di queste parole ha l'accento sull'ultima lettera?
+- Perché in 'Sabato andiamo al mare' SABATO ha la maiuscola?
+- Come si scrive il mese di dicembre in mezzo a una frase?
+
 ## M prima di B e P [lib-1-elementare-italiano-mb-mp] · BAMBINO
 concetti: Prima di B ci va M; Prima di P ci va M; Con le altre lettere va N
 - Quale parola è scritta giusta? Ci giocano i bambini.
@@ -331,6 +661,28 @@ concetti: La frase ha senso; La maiuscola all'inizio; Il punto alla fine; Punto 
 - Quale parola va sempre scritta con la maiuscola?
 - Quale segno metti alla fine di: Quanti anni hai
 - Scrivi una frase su di te. Ricorda maiuscola e punto.
+
+## Mamma mucca e il vitello [lib-1-elementare-italiano-animali-e-cuccioli] · VITELLO
+concetti: Nomi speciali dei cuccioli; Nomi con -INO; I piccoli della fattoria
+- Come si chiama il cucciolo della mucca?
+- Come si chiama il cucciolo della gallina?
+- Il cucciolo della pecora si chiama agnello.
+- Il cucciolo del cane si chiama anche ___.
+- Come si chiama il cucciolo del cavallo?
+- Il girino, da grande, diventerà…
+- Come si chiama il piccolo del topo?
+- Scegli due animali della fattoria e scrivi come si chiamano i loro piccoli.
+
+## Mi presento: ecco chi sono [lib-1-elementare-italiano-mi-presento] · CIAO
+concetti: Nome ed età; Dove abiti e la famiglia; Che cosa ti piace
+- Quale frase serve a dire il tuo nome?
+- Quale frase dice la tua età?
+- La frase 'Il mio gioco preferito è il pallone' racconta un tuo gusto.
+- Mi chiamo Pietro e ___ a Milano.
+- Quale frase parla della tua famiglia?
+- Un nuovo compagno ti dice: 'Mi chiamo Omar.' Che cosa gli rispondi?
+- Mia dice: 'Ciao, mi chiamo Mia e ho sei anni.' Quanti anni ha Mia?
+- Presentati in una frase: di' il tuo nome e una cosa che ti piace.
 
 ## Nomi propri e nomi comuni [lib-1-elementare-italiano-nomi-propri-comuni] · COGNOME
 concetti: Il nome comune; Il nome proprio; La maiuscola; Nome e cognome
@@ -354,6 +706,28 @@ concetti: La vignetta; Le nuvolette; L'ordine di lettura
 - Perché il fumetto si chiama così?
 - Disegni un bambino che pensa al gelato. Che cosa scrivi nella nuvoletta?
 
+## Oche e laghi: plurali con H [lib-1-elementare-italiano-plurale-ca-ga-go] · OCHE
+concetti: Da -CA a -CHE; Da -GA a -GHE; Da -GO a -GHI
+- Qual è il plurale di OCA?
+- Qual è il plurale di RIGA?
+- Il plurale di MUCCA è MUCCE.
+- In montagna ci sono tanti ___.
+- Nel bosco raccolgo tanti…
+- Perché OCHE si scrive con la H?
+- Qual è il plurale di STREGA?
+- Scrivi il plurale di BARCA e spiega perché c'è la H.
+
+## Ogni cosa nella sua stanza [lib-1-elementare-italiano-parole-della-casa] · CUCINA
+concetti: Le stanze; Gli oggetti di ogni stanza; Che cosa si fa
+- In quale stanza trovi il forno?
+- Dove trovi la vasca da bagno?
+- In camera da letto di solito si dorme.
+- In cucina la mamma ___ la cena.
+- Come si chiama la stanza dove la famiglia guarda la TV sul divano?
+- Quale oggetto NON si trova di solito in bagno?
+- Quale parola indica una stanza?
+- Che cosa fai in bagno al mattino?
+
 ## Orecchie attente: P o B? [lib-1-elementare-italiano-suoni-simili] · SUONO
 concetti: P e B; T e D; F e V; Una lettera, un'altra parola
 - Quale parola è scritta giusta? È un frutto giallo.
@@ -364,6 +738,17 @@ concetti: P e B; T e D; F e V; Una lettera, un'altra parola
 - Se cambi la P di PANCA con una B, che cosa ottieni?
 - In quale coppia le parole cambiano solo per T e D?
 - Perché devi ascoltare bene quando scrivi P o B?
+
+## Orecchie fini: C o G? [lib-1-elementare-italiano-suoni-simili-c-g] · GOCCIA
+concetti: Il suono della C; Il suono della G; Una lettera, un'altra parola
+- Quale parola comincia con lo stesso suono di CANE?
+- Quale parola comincia con lo stesso suono di GATTO?
+- La parola GOMITOLO comincia con la C.
+- Corriamo forte, vinciamo la ___!
+- Quale parola è scritta giusta?
+- Quale parola è scritta giusta?
+- Se in GALLO cambi la G con la C, che parola ottieni?
+- Perché devi ascoltare bene la differenza tra C e G?
 
 ## Parlo, ascolto, aspetto [lib-1-elementare-italiano-ascolto-parlato] · TURNO
 concetti: Ascoltare con attenzione; Il turno di parola; Parlare in modo chiaro; Parole gentili
@@ -409,6 +794,39 @@ concetti: Una parola madre; Il pezzetto uguale; Mestieri e negozi
 - Che cosa hanno in comune DENTE, DENTISTA e DENTINO?
 - Scrivi una parola della famiglia di LATTE.
 
+## Parole gemelle: i sinonimi [lib-1-elementare-italiano-sinonimi] · GEMELLO
+concetti: Stesso significato; Cambiare senza cambiare senso; Sinonimi e contrari
+- Quale parola vuol dire come FELICE?
+- Quale parola vuol dire come VELOCE?
+- GRANDE e PICCOLO sono sinonimi.
+- Ho visto un cane piccolo. Ho visto un cane ___.
+- 'La casa è grande.' Quale frase vuol dire lo stesso?
+- Quale coppia è di sinonimi?
+- 'Ho visto un film pauroso.' Al posto di PAUROSO puoi dire…
+- Che cosa sono i sinonimi? Fai un esempio.
+
+## Parole lunghe, parole corte [lib-1-elementare-italiano-parole-lunghe-corte] · LUNGA
+concetti: Contare le lettere; Più lunga, più corta; Parola e cosa
+- Quante lettere ha la parola SOLE?
+- Quante lettere ha la parola PATATA?
+- La parola GATTO è più lunga della parola RE.
+- Quale parola è la più lunga?
+- La parola ___ è più corta di CANE.
+- Metti le parole in ordine, dalla più corta alla più lunga.
+- La balena è enorme e la formichina è minuscola. Quale parola ha più lettere?
+- Una parola corta può indicare una cosa grande? Fai un esempio.
+
+## Parole nascoste nelle parole [lib-1-elementare-italiano-parole-nascoste] · TESORO
+concetti: Una parola dentro un'altra; Lettere vicine e in fila; Inizio, mezzo o fine
+- Quale frutto si nasconde in MELANZANA?
+- Quale animale si nasconde in CANESTRO?
+- Nella parola SALAME si nasconde la parola SALE.
+- In CAMPANELLO la parola PANE si nasconde ___.
+- In quale parola si nasconde SOLE?
+- In quale parola ORO si nasconde all'inizio?
+- In quale parola NON si nasconde la parola ALA?
+- Quale parola si nasconde in TESORO? Dove la trovi?
+
 ## Persone, animali e cose [lib-1-elementare-italiano-nomi] · NOME
 concetti: Persone, animali, cose; Maschile e femminile; Singolare e plurale
 - Quale parola è il nome di un animale?
@@ -419,6 +837,17 @@ concetti: Persone, animali, cose; Maschile e femminile; Singolare e plurale
 - Quale nome è femminile?
 - La parola CASE è singolare.
 - Scrivi il nome di una persona, di un animale e di una cosa.
+
+## Pesca: frutto o pesci? [lib-1-elementare-italiano-parole-piu-significati] · PESCA
+concetti: Una parola, due significati; La frase aiuta; Altri esempi
+- Quali due significati ha la parola PESCA?
+- La parola RISO può essere un cibo e anche una risata.
+- 'Il nonno va a pesca al lago.' Qui PESCA vuol dire…
+- Mangio una ___ succosa e dolce.
+- 'Vivo al terzo piano.' Qui PIANO vuol dire…
+- 'Parla piano, il bimbo dorme.' Qui PIANO vuol dire…
+- Quale frase usa RISO come cibo?
+- Come fai a capire quale significato ha una parola come PESCA?
 
 ## Prima, poi, infine [lib-1-elementare-italiano-prima-poi-infine] · ORDINE
 concetti: Le parole del tempo; Che cosa viene prima; Raccontare in ordine
@@ -453,6 +882,39 @@ concetti: Le doppie; L'apostrofo; L'accento; La H di avere; M prima di B e P
 - Quanti errori ci sono in 'Il gato ha una cuccia in citta.'?
 - Riscrivi giusta la frase: 'La nonna a un ombrelo.'
 
+## Ripasso: la storia del gattino [lib-1-elementare-italiano-ripasso-leggo-storia] · STORIA
+concetti: Chi e dove; Quando e che cosa; Perché e come si sente
+- Leggi: 'Micio, un gattino grigio, sale su un albero.' Chi è Micio?
+- Leggi: 'L'albero è in giardino.' La storia succede in giardino.
+- Leggi: 'Una mattina Micio sale su un albero.' Quando succede la storia?
+- Micio è un gattino ___.
+- Metti in ordine i fatti della storia.
+- Leggi: 'Micio non riesce a scendere e miagola forte.' Perché miagola forte?
+- Leggi: 'Micio fa le fusa.' Come si sente Micio?
+- Come aiuta il papà di Ada il gattino?
+
+## Ripasso: lettere e sillabe [lib-1-elementare-italiano-ripasso-lettere-sillabe] · LETTURA
+concetti: Vocali e consonanti; Le sillabe; Le doppie nelle sillabe
+- Quante vocali ci sono nella parola LIMONE?
+- Quante sillabe ha la parola FARFALLA?
+- Nella parola TOPO ci sono due consonanti.
+- TA-VO-___ forma la parola TAVOLO.
+- Come si divide in sillabe la parola SASSO?
+- Quale parola ha quattro sillabe?
+- Quale parola comincia con una vocale?
+- Dividi in sillabe la parola GATTINO.
+
+## Ripasso: maiuscole e punti [lib-1-elementare-italiano-ripasso-maiuscole-punti] · VIRGOLA
+concetti: La maiuscola; Punto, domanda, esclamazione; La virgola
+- Quale frase comincia nel modo giusto?
+- Quale segno metti alla fine di: 'Dove hai messo lo zaino'?
+- Nella frase 'Compro pane, latte e uova' la virgola separa le cose dell'elenco.
+- Che bello, è arrivata la neve___
+- Quale frase ha tutte le maiuscole giuste?
+- In quale frase la virgola è al posto giusto?
+- Dopo il punto, la parola che segue comincia con…
+- A che cosa serve il punto di domanda?
+
 ## Ripasso: parole al lavoro [lib-1-elementare-italiano-ripasso-grammatica] · PAROLA
 concetti: I nomi; Gli articoli; Le azioni; Le qualità
 - In 'La volpe furba scappa', qual è il nome?
@@ -474,6 +936,17 @@ concetti: C e G dure e dolci; GN e GLI; SC dolce e duro; QU e CU
 - In quale coppia la G ha il suono duro tutte e due le volte?
 - Trova la parola scritta in modo sbagliato.
 - Leggi CASA e CENA. Che differenza senti nella C?
+
+## Roma, Po e Fido: maiuscole! [lib-1-elementare-italiano-maiuscola-luoghi-animali] · ROMA
+concetti: Città e paesi; Fiumi, laghi e monti; I nomi degli animali
+- Quale nome di città è scritto giusto?
+- Il fiume Po si scrive con la P maiuscola.
+- Quale frase è scritta giusta?
+- I nomi delle città si scrivono con la lettera ___.
+- Quale frase è scritta giusta?
+- Perché nella frase 'Il mio cane è bravo' CANE è minuscolo?
+- In 'Abito in Sicilia', perché Sicilia ha la maiuscola?
+- Scrivi il nome di una città e di un fiume. Con che lettera cominciano?
 
 ## SCI e SCE nella sciarpa [lib-1-elementare-italiano-sci-sce] · PESCE
 concetti: Suono dolce SCE e SCI; Suono duro SCA, SCO, SCU; SCHE e SCHI; SCIA, SCIO, SCIU
@@ -497,6 +970,28 @@ concetti: A che cosa servono; I passi in ordine; Che cosa serve; Parole che dico
 - Regole: 1. Lancia il dado. 2. Avanza di tante caselle quanti sono i puntini. Che cosa succede se salti il pas…
 - Spiega a un amico come ci si lava le mani.
 
+## Stampato o corsivo? [lib-1-elementare-italiano-stampato-corsivo] · CORSIVO
+concetti: Lo stampato maiuscolo; Lo stampato minuscolo; Il corsivo
+- Quale parola è scritta tutta in stampato maiuscolo?
+- Quale parola è scritta tutta in stampato minuscolo?
+- Nel corsivo le lettere di una parola si scrivono legate tra loro.
+- Lo stampato ___ usa lettere grandi e staccate.
+- Quale coppia mostra la stessa lettera, maiuscola e minuscola?
+- Scrivi una parola in corsivo. Che cosa fai tra una lettera e l'altra?
+- Con quale scrittura sono stampate di solito le storie dei tuoi libri?
+- Qual è la differenza tra stampato e corsivo?
+
+## Ti racconto la mia gita [lib-1-elementare-italiano-racconto-esperienza] · DIARIO
+concetti: Una cosa vera; Quando e dove; In ordine e con i sentimenti
+- Leggi: 'Ieri sono andata in gita alla fattoria.' Dove è andata la bambina?
+- Leggi di nuovo: 'Ieri sono andata in gita alla fattoria.' Quando è andata in gita la bambina?
+- Un racconto di esperienza parla di cose successe davvero.
+- Leggi: 'Mi sono divertita tanto!' La bambina si è sentita ___.
+- Metti in ordine i fatti della gita: prima le mucche, poi le galline, alla fine la merenda.
+- Leggi: 'Quando ho visto i pulcini mi sono emozionata.' Che cosa racconta questa frase?
+- Quale frase va bene in un racconto di esperienza?
+- Racconta in una frase una cosa bella che hai fatto e come ti sei sentito.
+
 ## TR, BR, ST: consonanti vicine [lib-1-elementare-italiano-consonanti-vicine] · TRENO
 concetti: Due consonanti insieme; Non saltare lettere; La S davanti; Nella stessa sillaba
 - In quale parola ci sono due consonanti vicine all'inizio?
@@ -518,6 +1013,17 @@ concetti: Parole in gruppo; L'intruso; Il nome del gruppo
 - In quale gruppo va la parola CAROTA?
 - Quale parola aggiungi al gruppo MATITA, GOMMA, RIGHELLO?
 - Trova l'intruso in CANE, GATTO, ROSA, TOPO. Perché?
+
+## Un biglietto di auguri [lib-1-elementare-italiano-biglietto-auguri] · AUGURI
+concetti: Perché si scrive; Le parti; Parole affettuose
+- Leggi: 'Caro nonno, buon compleanno!' A chi è scritto il biglietto?
+- Leggi il biglietto di Emma: 'Caro nonno, buon compleanno!' Per quale festa lo scrive?
+- Il biglietto finisce con 'Tua nipote Emma': è firmato da Emma.
+- A Natale si dice: 'Buon ___!'
+- Quale frase è affettuosa?
+- Quale frase è un augurio?
+- Leggi: 'Ti auguro una giornata piena di sorrisi.' Che cosa augura Emma?
+- Scrivi una frase di auguri per il compleanno di un amico.
 
 ## Un, uno, una: chissà quale [lib-1-elementare-italiano-articoli-indeterminativi] · STIVALE
 concetti: Una cosa qualsiasi; UN e UNA; UNO davanti a S e Z
@@ -541,6 +1047,39 @@ concetti: Cambiare la prima lettera; Cambiare una vocale; Aggiungere o togliere
 - Quante lettere devi cambiare per passare da TOPO a TIPO?
 - Cambia la prima lettera di MOLLA e scrivi una parola nuova.
 
+## Uno spazio tra le parole [lib-1-elementare-italiano-spazi-tra-parole] · SPAZIO
+concetti: Uno spazio tra le parole; Articolo e nome staccati; Contare le parole
+- Quale frase è scritta con gli spazi giusti?
+- Si scrive LACASA, tutto attaccato.
+- Come si scrive giusto?
+- La frase 'Il sole è caldo' ha ___ parole.
+- Leggi: LAMAMMACUCINA. Come si scrive bene?
+- Quante parole ci sono nella frase 'Il gatto beve il latte'?
+- Perché si scrive IL PANE staccato e non ILPANE?
+- Perché quando scrivi devi lasciare uno spazio tra le parole?
+
+## Vado a capo con le sillabe [lib-1-elementare-italiano-andare-a-capo] · RIGA
+concetti: La riga finisce; Si divide per sillabe; Le doppie si dividono
+- Se una parola non ci sta nella riga, puoi continuarla nella riga sotto.
+- Come vai a capo con la parola CASA?
+- Che segno metti alla fine della riga quando dividi una parola?
+- Per andare a capo divido la parola in ___.
+- Come vai a capo con la parola TETTO?
+- Quale divisione è giusta per MAMMA?
+- Posso andare a capo così: TAV-OLO.
+- Devi andare a capo con la parola CAPPELLO. Come la puoi dividere? Perché?
+
+## Vero o inventato? [lib-1-elementare-italiano-realta-fantasia] · DRAGO
+concetti: Cose reali; Cose fantastiche; Storie e informazioni
+- Quale personaggio è fantastico?
+- Quale frase racconta una cosa che può succedere davvero?
+- Un pesce che parla con le persone è una cosa reale.
+- Nelle fiabe la ___ magica realizza i desideri.
+- Quale di queste cose è reale?
+- Vuoi sapere che cosa mangiano davvero i leoni. Che libro leggi?
+- Il libro dice: 'Il drago entrò nel castello.' Che tipo di storia è?
+- Perché un gatto con gli stivali che parla è un personaggio fantastico?
+
 ## Vocali e consonanti in festa [lib-1-elementare-italiano-vocali-consonanti] · VOCALE
 concetti: Le cinque vocali; Le consonanti; Vocali dentro le parole
 - Quale di queste lettere è una vocale?
@@ -551,3 +1090,14 @@ concetti: Le cinque vocali; Le consonanti; Vocali dentro le parole
 - Quante vocali ci sono nella parola MELA?
 - Quale consonante manca? _ANE: lo compri dal fornaio.
 - Scrivi il tuo nome. Quali vocali ci sono dentro?
+
+## Z e ZZ: che zigzag! [lib-1-elementare-italiano-zeta-doppia-zeta] · PIZZA
+concetti: La lettera Z; La doppia ZZ; Una Z sola in -ZIONE
+- Quale parola comincia con la Z?
+- La Z è una vocale.
+- Quale parola ha la doppia ZZ?
+- Mangio una fetta di pi___a.
+- Quale parola è scritta giusta?
+- Quale parola è scritta giusta?
+- Completa la parola: la maestra spiega la le…ione.
+- Scrivi una parola con la doppia ZZ e una con una Z sola.

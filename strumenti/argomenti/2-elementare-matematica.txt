@@ -1,6 +1,17 @@
-# 2ª elementare · Matematica: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# 2ª elementare · Matematica: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A occhio, quanti sono? [lib-2-elementare-matematica-stima-delle-quantita] · STIMA
+concetti: Che cos'è una stima; Stimare a gruppi; Stima e conteggio; Stime ragionevoli
+- Fare una stima significa dire un numero vicino a quello vero senza contare uno per uno.
+- Quanti bambini ci sono circa in una classe?
+- Quanti passi fai circa per attraversare la tua cameretta?
+- Per sapere se la tua stima era buona, alla fine devi ___ gli oggetti uno per uno.
+- In un barattolo ogni strato ha circa 10 caramelle e gli strati sono 5. Quante caramelle ci sono circa?
+- Luca stima 40 biglie e Sara 60. Poi le contano: sono 43. Chi ha fatto la stima migliore?
+- Un vassoio ha 4 file di biscotti, con circa 9 biscotti per fila. Quale numero è una buona stima?
+- In una pagina dell'album ci sono 10 righe di figurine, con circa 6 figurine per riga. Spiega come stimi quant…
 
 ## Addizioni in colonna [lib-2-elementare-matematica-addizioni-in-colonna] · SOMMA
 concetti: I termini dell'addizione; Incolonnare bene; Si parte dalle unità; Controllare il risultato
@@ -35,6 +46,17 @@ concetti: Dieci decine fanno cento; Il numero 100; Quanto manca a 100; Cento in 
 - Quale di questi modi NON fa 100?
 - Hai 9 decine e 10 unità sciolte. Che numero è? Spiega quale cambio fai.
 
+## Caccia agli angoli [lib-2-elementare-matematica-angoli] · ANGOLO
+concetti: Che cos'è un angolo; L'angolo retto; Più aperto o più chiuso; Angoli nelle figure
+- Un angolo è formato da due linee che partono dallo stesso punto.
+- Quale di questi oggetti ha un angolo retto?
+- Il punto da cui partono le due linee di un angolo si chiama ___.
+- Quanti angoli ha un triangolo?
+- Quanti angoli retti ha un rettangolo?
+- Quale di queste lettere maiuscole ha un angolo retto?
+- Alle 3 in punto le lancette dell'orologio formano un angolo retto. Com'è l'angolo alle 2 in punto?
+- Spiega come puoi controllare se l'angolo di un banco è un angolo retto, usando un foglio di carta.
+
 ## Calcoli veloci a mente [lib-2-elementare-matematica-calcolo-mentale-addizioni] · MENTE
 concetti: Aggiungere le decine; Aggiungere 9 con un trucco; Spezzare i numeri; I doppi aiutano
 - Quanto fa 52 + 30?
@@ -67,6 +89,17 @@ concetti: Moltiplicare è addizionare; La tabellina del 2; La tabellina del 5; L
 - Metti in ordine queste moltiplicazioni, dal risultato più piccolo al più grande.
 - Quale di questi numeri NON può essere un risultato della tabellina del 5?
 - Non ti ricordi quanto fa 2 × 9. Spiega come puoi trovare il risultato da solo.
+
+## Catene di più e meno [lib-2-elementare-matematica-catene-di-operazioni] · CATENA
+concetti: Un passo alla volta; Più e meno che si annullano; Unire due passi; Catene nella vita
+- Quanto fa 10 + 5 - 3?
+- Se aggiungi 7 e poi togli 7, torni al numero di partenza.
+- Quanto fa 20 - 6 + 4?
+- Aggiungere 10 e poi togliere 1 è come aggiungere ___.
+- Parti da 30 e fai la catena +10, -5, +20, -12: metti in ordine i numeri che ottieni.
+- Quanto fa 46 + 8 - 8 + 3?
+- Sull'autobus ci sono 25 persone. Alla prima fermata salgono 6 persone e ne scendono 10. Quante persone ci son…
+- Spiega un modo veloce per calcolare 37 + 10 - 1.
 
 ## Certo, possibile o impossibile? [lib-2-elementare-matematica-certo-possibile-impossibile] · FORSE
 concetti: Evento certo; Evento possibile; Evento impossibile; Più probabile, meno probabile
@@ -101,6 +134,28 @@ concetti: Il successivo; Il precedente; Il salto di decina; I numeri vicini
 - Marco pensa un numero. Il suo successivo è 100. Che numero ha pensato?
 - Spiega come trovi i due vicini del numero 70, cioè il precedente e il successivo.
 
+## Conta i quadretti [lib-2-elementare-matematica-contare-i-quadretti] · AREA
+concetti: La superficie; Misurare con i quadretti; Forme diverse, stessa superficie; Righe per colonne
+- La superficie di una figura è lo spazio che occupa dentro il suo contorno.
+- Una figura è formata da 7 quadretti. Quanto misura la sua superficie?
+- Un rettangolo sul quaderno è largo 4 quadretti e alto 3. Quanti quadretti contiene?
+- Due figure di forma diversa formate ognuna da 6 quadretti hanno la stessa ___.
+- Quale rettangolo ha la stessa superficie di un rettangolo di 2 × 6 quadretti?
+- Un pavimento è fatto di 5 file con 8 piastrelle quadrate in ogni fila. Quante piastrelle ci sono?
+- Un quadrato è largo 5 quadretti e alto 5 quadretti. Quanti quadretti contiene?
+- Spiega la differenza tra il contorno di una figura e la sua superficie, usando una figura disegnata sul quade…
+
+## Cubetti, lunghi e piatti [lib-2-elementare-matematica-blocchi-base-dieci] · BLOCCO
+concetti: Il cubetto; Il lungo; Il piatto; Rappresentare e cambiare
+- Quanti cubetti servono per fare un lungo?
+- Un piatto equivale a 10 lunghi, cioè a 100 cubetti.
+- Hai 4 lunghi e 7 cubetti. Che numero rappresenti?
+- Nei blocchi base dieci, il cubetto rappresenta ___.
+- Hai 2 lunghi e 15 cubetti. Se cambi 10 cubetti con un lungo, cosa ottieni?
+- Quanti lunghi servono per rappresentare il numero 90?
+- Quale gruppo di blocchi rappresenta il numero 53?
+- Spiega quanti lunghi servono per formare un piatto e perché il piatto vale 100.
+
 ## Cubi, sfere e cilindri [lib-2-elementare-matematica-figure-solide] · CUBO
 concetti: Solidi e figure piane; Il cubo e il parallelepipedo; Solidi che rotolano; Le impronte dei solidi
 - Quale solido ha la forma di un dado da gioco?
@@ -134,6 +189,17 @@ concetti: Dati e domanda; Scegliere l'operazione; Dati inutili e mancanti; Rispo
 - «Una classe ha 22 bambini. Oggi 5 sono a casa malati. Quanti bambini sono in classe oggi?» Quale risposta è g…
 - Inventa un piccolo problema che si risolve con la sottrazione 20 - 8. Indica quali sono i dati e qual è la do…
 
+## Dividere con le tabelline [lib-2-elementare-matematica-dividere-con-le-tabelline] · INVERSO
+concetti: L'operazione inversa; Cercare nella tabellina; Diviso 2, 5 e 10; La prova della divisione
+- Quanto fa 15 : 3? Pensa alla tabellina del 3.
+- Per calcolare 28 : 4 puoi chiederti: quale numero moltiplicato per 4 fa 28?
+- Quanto fa 42 : 6?
+- 70 : 10 = ___
+- Quanto fa 72 : 8?
+- Giada calcola 45 : 5 = 9. Quale calcolo usa per fare la prova?
+- Dividi 18 figurine in parti uguali tra 2 amici. Quante ne riceve ciascuno?
+- Spiega come calcoli 63 : 9 e come fai la prova.
+
 ## Dividere in parti uguali [lib-2-elementare-matematica-dividere-in-parti-uguali] · PARTI
 concetti: Distribuire in parti uguali; Il simbolo della divisione; Divisione e moltiplicazione; Quando qualcosa avanza
 - Dividi 8 fragole tra 4 bambini in parti uguali. Quante ne riceve ciascuno?
@@ -144,6 +210,39 @@ concetti: Distribuire in parti uguali; Il simbolo della divisione; Divisione e m
 - Dividi 14 biglie in parti uguali fra 4 amici. Che cosa succede?
 - Quanto fa 32 : 4?
 - Hai 15 adesivi da dividere in parti uguali tra te e 2 amici. Spiega come fai e quanti ne riceve ciascuno.
+
+## Diviso uno, diviso sé stesso [lib-2-elementare-matematica-diviso-uno-e-se-stesso] · SOLO
+concetti: Diviso uno; Diviso sé stesso; Lo zero diviso; Per uno e diviso uno
+- Quanto fa 9 : 1?
+- Quanto fa 8 : 8?
+- Se hai 0 caramelle e le dividi tra 5 amici, ognuno riceve 0 caramelle.
+- Se dividi 6 panini tra 6 bambini, ognuno riceve ___ panino.
+- Hai 7 biglie e le dai tutte a un solo amico. Quale divisione descrive la situazione?
+- Quale coppia di operazioni dà lo stesso risultato?
+- Quanto fa 0 : 4 + 4 : 4?
+- Spiega perché 10 : 10 fa 1, usando un esempio con oggetti.
+
+## Figure da comporre [lib-2-elementare-matematica-figure-da-comporre] · TANGRAM
+concetti: Comporre figure; Scomporre figure; Il tangram; Due triangoli, un quadrato
+- Unendo due quadrati uguali, lato contro lato, ottieni un rettangolo.
+- Quanti pezzi ha il tangram?
+- Se tagli un quadrato lungo la diagonale ottieni due ___ uguali.
+- Quale figura NON c'è tra i pezzi del tangram?
+- Dividi un quadrato con una linea verticale e una orizzontale che passano per il centro. Quante parti ottieni?
+- Quanti quadratini uguali servono per formare un quadrato più grande con 3 quadratini per lato?
+- Nel tangram ci sono 5 triangoli. Quanti pezzi NON sono triangoli?
+- Spiega come puoi ottenere un quadrato usando due triangoli uguali.
+
+## Giochiamo con le cifre [lib-2-elementare-matematica-carte-delle-cifre] · CIFRE
+concetti: Cifre e numeri; Il numero più grande; Il numero più piccolo; Quanti numeri puoi formare
+- Quante sono le cifre che usiamo per scrivere tutti i numeri?
+- Il numero 47 è formato da due cifre: il 4 e il 7.
+- Con le carte 3 e 8, qual è il numero più grande che puoi formare?
+- Con le carte 5 e 2, il numero più piccolo che puoi formare è ___.
+- Con le carte 0 e 6, quale numero di due cifre puoi formare?
+- Qual è il numero più grande di due cifre?
+- Con le carte 1, 4 e 7, usando due carte diverse alla volta, quanti numeri di due cifre puoi formare?
+- Con le carte 2, 5 e 9, usando due carte diverse alla volta, scrivi tutti i numeri di due cifre che puoi forma…
 
 ## Giorni, settimane e mesi [lib-2-elementare-matematica-giorni-settimane-mesi] · MESI
 concetti: I giorni della settimana; I mesi dell'anno; Quanti giorni ha un mese; Prima, dopo, ieri, domani
@@ -178,6 +277,28 @@ concetti: Numeri fino a 100; Le quattro operazioni; Misure di tempo e denaro; Ra
 - Hai 2 euro e 50 centesimi. Compri una matita da 1 euro. Quanto ti resta?
 - Risolvi e spiega: «La classe di Pietro ha 24 bambini. Per la gita si formano gruppi da 6 bambini e ogni grupp…
 
+## I multipli di un numero [lib-2-elementare-matematica-multipli-di-un-numero] · SCALA
+concetti: Che cosa sono i multipli; Riconoscere un multiplo; Multipli di 2, 5 e 10; Multiplo di più numeri
+- I multipli di 3 sono i numeri della tabellina del 3: 3, 6, 9, 12...
+- Quale di questi numeri è un multiplo di 4?
+- Quale di questi numeri è un multiplo di 5?
+- Tutti i multipli di 10 finiscono con la cifra ___.
+- Metti in ordine i primi cinque multipli di 6, dal più piccolo.
+- Il numero 12 è multiplo di quale gruppo di numeri?
+- Le uova si vendono in confezioni da 6. Quante uova puoi comprare usando solo confezioni intere?
+- Spiega come fai a capire se 27 è un multiplo di 3.
+
+## I nomi delle operazioni [lib-2-elementare-matematica-termini-moltiplicazione-divisione] · TERMINE
+concetti: Fattori e prodotto; Dividendo, divisore, quoziente; I simboli; Collegare i termini
+- In 4 × 5 = 20, il numero 20 si chiama ___.
+- Nella moltiplicazione 3 × 7, i numeri 3 e 7 si chiamano fattori.
+- Quale simbolo si usa per la divisione?
+- In 18 : 3 = 6, quale numero è il divisore?
+- In 24 : 4 = 6, come si chiama il 6?
+- Il prodotto è 32 e un fattore è 4. Qual è l'altro fattore?
+- In una divisione il dividendo è 35 e il divisore è 5. Qual è il quoziente?
+- Scrivi una moltiplicazione e una divisione con i numeri 3, 9 e 27, poi spiega il nome di ogni numero.
+
 ## I numeri scritti in lettere [lib-2-elementare-matematica-numeri-in-lettere] · LETTERE
 concetti: Le decine in lettere; Unire decine e unità; La vocale che sparisce; Il tre con l'accento
 - Come si scrive in lettere il numero 60?
@@ -211,6 +332,17 @@ concetti: Maggiore, minore, uguale; Confrontare le decine; Decine uguali? Guarda
 - Nel numero 7? manca la cifra delle unità. Quale cifra rende giusto il confronto 7? > 74?
 - Un compagno scrive 28 > 82. Spiega se ha ragione e perché.
 
+## Il diagramma di Carroll [lib-2-elementare-matematica-diagramma-di-carroll] · TABELLA
+concetti: Com'è fatto; Proprietà e contrario; La casella giusta; Leggere il diagramma
+- Il diagramma di Carroll è una tabella che serve a classificare gli elementi secondo due proprietà.
+- Nel diagramma le colonne sono «pari» e «non pari». In quale colonna va il 7?
+- Il contrario della proprietà «è rosso» è «___ rosso».
+- Righe: «maggiore di 50» e «non maggiore di 50». Colonne: «pari» e «non pari». In quale casella va il 64?
+- Con le stesse righe e colonne, in quale casella va il 35?
+- In un diagramma di Carroll sugli animali, la casella «ha 4 zampe e vola» è vuota. Cosa significa?
+- Nella casella «pari e maggiore di 50» ci sono 52, 70 e 88. Nella casella «pari e non maggiore di 50» ci sono …
+- Il diagramma ha le proprietà «ha le ruote / non ha le ruote» e «ha il motore / non ha il motore». Spiega in q…
+
 ## Il doppio e la metà [lib-2-elementare-matematica-doppio-e-meta] · META
 concetti: Il doppio; La metà; Doppio e metà sono inversi; La metà dei numeri pari
 - Qual è il doppio di 8?
@@ -221,6 +353,17 @@ concetti: Il doppio; La metà; Doppio e metà sono inversi; La metà dei numeri 
 - Vuoi dividere delle biglie in due mucchi uguali senza avanzi. Con quale numero di biglie NON ci riesci?
 - Pensa un numero: il suo doppio è 70. Che numero è?
 - Spiega come puoi trovare la metà di 48 spezzando il numero in decine e unità.
+
+## Il giro della figura [lib-2-elementare-matematica-il-perimetro] · BORDO
+concetti: Che cos'è il perimetro; Sommare i lati; Il perimetro del quadrato; Il perimetro nella vita
+- Il perimetro è la lunghezza del contorno di una figura.
+- Un triangolo ha i lati di 3 cm, 4 cm e 5 cm. Quanto misura il perimetro?
+- Il quadrato ha 4 lati ___, quindi per il perimetro puoi moltiplicare un lato per 4.
+- Un quadrato ha il lato di 5 cm. Quanto misura il perimetro?
+- Un rettangolo ha due lati da 6 cm e due lati da 2 cm. Quanto misura il perimetro?
+- Vuoi incollare un nastro tutto intorno a una cornice. Cosa devi misurare?
+- Un orto quadrato ha il lato di 9 metri. Quanti metri di rete servono per recintarlo tutto?
+- Un quadrato ha il lato di 4 cm. Un rettangolo ha due lati da 6 cm e due da 2 cm. Spiega quale delle due figur…
 
 ## Il prestito nella sottrazione [lib-2-elementare-matematica-sottrazione-con-il-prestito] · CAMBIO
 concetti: Quando serve il prestito; Rompere una decina; Le decine diminuiscono; Prestito con lo zero
@@ -233,6 +376,28 @@ concetti: Quando serve il prestito; Rompere una decina; Le decine diminuiscono; 
 - Nel salvadanaio hai 50 euro. Spendi 23 euro per un libro. Quanti euro ti restano?
 - Spiega a un compagno perché in 75 - 39 bisogna fare il prestito e come si fa.
 
+## Il risultato è giusto? [lib-2-elementare-matematica-stimare-i-risultati] · OCCHIO
+concetti: Stimare con le decine; Troppo grande o troppo piccolo; Guardare le unità; Stima e calcolo insieme
+- Senza fare il conto esatto, 41 + 29 fa circa...
+- La somma 32 + 45 non può essere 17, perché il risultato deve essere più grande di 45.
+- In 26 + 13, sommando le unità 6 + 3, il risultato deve finire con la cifra ___.
+- Senza fare il conto, quale risultato di 58 + 37 è più ragionevole?
+- Quanto fa 47 + 28? Guarda prima le unità.
+- Un biglietto costa 48 euro e un altro 31 euro. Circa quanto spendi?
+- Leo calcola 63 - 28 e ottiene 45. La stima 60 - 30 = 30 gli fa capire che c'è un errore. Qual è il risultato …
+- Anna calcola 39 + 42 e scrive 71. Spiega come una stima può farle capire che ha sbagliato e trova il risultat…
+
+## Il trucco della sottrazione [lib-2-elementare-matematica-proprieta-invariantiva-sottrazione] · TRUCCO
+concetti: Aggiungere a tutti e due; Togliere a tutti e due; Arrivare alla decina tonda; La distanza tra due numeri
+- Se aggiungi lo stesso numero a tutti e due i termini di una sottrazione, il risultato non cambia.
+- Quanto è la distanza tra 10 e 15 sulla linea dei numeri?
+- 15 - 8 = 7. Quanto fa allora 17 - 10?
+- Per calcolare 43 - 9 puoi aggiungere 1 a tutti e due i numeri: 44 - 10 = ___.
+- Come puoi trasformare 62 - 28 per renderla più facile, senza cambiare il risultato?
+- Quanto fa 75 - 25? Prova a togliere 5 a tutti e due i numeri.
+- Luca ha 9 anni e sua sorella 4. Quanti anni di differenza avranno tra 10 anni?
+- Spiega come calcoli 81 - 39 usando il trucco di aggiungere lo stesso numero ai due termini.
+
 ## In fila dal più piccolo [lib-2-elementare-matematica-ordinare-i-numeri] · FILA
 concetti: Ordine crescente; Ordine decrescente; Il minore e il maggiore; Numeri compresi tra due
 - La serie 5, 18, 31, 47 è in ordine crescente.
@@ -243,6 +408,17 @@ concetti: Ordine crescente; Ordine decrescente; Il minore e il maggiore; Numeri 
 - Quale serie è in ordine decrescente?
 - Quanti numeri ci sono tra 20 e 25, senza contare 20 e 25?
 - Devi trovare il numero più grande tra 47, 74, 70 e 44. Spiega come fai a trovarlo.
+
+## In gita con la matematica [lib-2-elementare-matematica-ripasso-gita-scolastica] · GITA
+concetti: Contare persone e gruppi; I soldi della gita; Gli orari; Dividere la merenda
+- In gita vanno 2 classi: una di 18 bambini e una di 21. Quanti bambini vanno in gita?
+- Se il pullman parte alle 8:00 e il viaggio dura 2 ore, arriva alle 10:00.
+- La gita costa 7 euro a bambino. Quanto pagano in tutto 3 fratelli?
+- La maestra divide 24 panini tra 8 bambini in parti uguali: ognuno riceve ___ panini.
+- I 30 bambini si dividono in gruppi da 5 per visitare il museo. Quanti gruppi si formano?
+- La visita al museo inizia alle 10:30 e dura un'ora. A che ora finisce?
+- Luca ha 20 euro per la gita. Spende 7 euro per il biglietto e 5 euro per un ricordo. Quanto gli resta?
+- Al parco 4 bambini hanno in tutto 20 biscotti e vogliono dividerli in parti uguali. Uno dice che ne spettano …
 
 ## Indagini e grafici [lib-2-elementare-matematica-indagini-e-grafici] · GRAFICO
 concetti: Fare un'indagine; La tabella e le tacche; Leggere l'istogramma; Leggere l'ideogramma
@@ -255,6 +431,17 @@ concetti: Fare un'indagine; La tabella e le tacche; Leggere l'istogramma; Legger
 - Nell'istogramma del gelato preferito la colonna del cioccolato arriva a 9 e quella del limone a 4. Quanti bam…
 - Vuoi scoprire qual è il colore preferito della tua classe. Spiega come fai l'indagine e come mostri i risulta…
 
+## Indovina il numero segreto [lib-2-elementare-matematica-indovinelli-con-i-numeri] · ENIGMA
+concetti: Decine e unità; Pari o dispari; Maggiore, minore, tra; Unire gli indizi
+- Ho 4 decine e 2 unità. Chi sono?
+- Se un numero segreto è dispari, non può finire con 8.
+- Sono maggiore di 30 e minore di 32. Chi sono?
+- Le mie unità sono 5 e ho 3 decine in più delle unità. Sono il numero ___.
+- Sono un numero tra 20 e 30, sono pari e la mia cifra delle unità è 6. Chi sono?
+- Sono un numero dispari tra 40 e 44. Quali numeri posso essere?
+- Sono nella tabellina del 5, sono pari e sono minore di 20. Chi sono?
+- Inventa un indovinello con almeno due indizi per il numero 47 e spiega perché i tuoi indizi portano solo a qu…
+
 ## Insiemi e classificazioni [lib-2-elementare-matematica-insiemi-e-classificazioni] · INSIEME
 concetti: Classificare gli oggetti; Il diagramma di Venn; La parte in comune; La parola non
 - Quale di questi elementi NON appartiene all'insieme dei frutti?
@@ -266,6 +453,61 @@ concetti: Classificare gli oggetti; Il diagramma di Venn; La parte in comune; La
 - Su 20 bambini, 8 hanno lo zaino rosso. Quanti bambini NON hanno lo zaino rosso?
 - Hai questi oggetti: matita, pallone, gomma, bambola, righello, trottola. Spiega come li divideresti in due gr…
 
+## L'orologio digitale [lib-2-elementare-matematica-orologio-digitale] · SCHERMO
+concetti: Ore e minuti sul display; Le ventiquattro ore; Da cifre a parole; Mattina o pomeriggio
+- Sull'orologio digitale leggi 7:15. Che ore sono?
+- Dopo le 12:00 l'orologio digitale può segnare 13:00, 14:00, fino a 23:59.
+- Le 9:30 si leggono: le nove e ___.
+- L'orologio digitale segna 15:00. Che ora è?
+- Come si scrive sul display digitale le 6 del pomeriggio?
+- Quale orario digitale corrisponde a «le dieci e un quarto»?
+- Il display segna 8:50. Quanti minuti mancano alle 9:00?
+- Il cartello del parco dice: «Aperto dalle 9:00 alle 19:00». Spiega a che ora apre e a che ora chiude il parco…
+
+## L'uguale come una bilancia [lib-2-elementare-matematica-uguaglianze] · UGUALE
+concetti: Il segno uguale; Operazioni equivalenti; Il numero mancante; Controllare un'uguaglianza
+- Il segno = vuol dire che a sinistra e a destra c'è lo stesso valore.
+- Quale operazione vale quanto 6 + 4?
+- 8 + 5 = 10 + ___
+- Quale uguaglianza è giusta?
+- Quale numero manca? 20 - ___ = 12 + 3
+- Marco scrive «4 + 3 = 7 + 2 = 9» per fare un calcolo in due passi. Perché è sbagliato?
+- Quale coppia di sottrazioni ha lo stesso risultato?
+- Trova il numero che manca in 9 + 7 = ___ + 10 e spiega come hai ragionato.
+
+## La decina più vicina [lib-2-elementare-matematica-arrotondare-alla-decina] · TONDO
+concetti: Le decine vicine; Arrotondare; Il caso del cinque; A cosa serve
+- Tra quali decine si trova il numero 63?
+- Qual è la decina più vicina a 38?
+- Il numero 72 si arrotonda a 70.
+- Il numero 45 è a metà tra 40 e 50: per convenzione si arrotonda a ___.
+- Quale di questi numeri si arrotonda a 80?
+- Un libro costa 19 euro e un gioco 31 euro. Arrotondando i prezzi, quanto spendi circa?
+- Quanti numeri ci sono tra 20 e 30, senza contare 20 e 30?
+- Marta ha 50 euro e vuole comprare scarpe da 28 euro e una felpa da 21 euro. Arrotonda i prezzi, spiega se le …
+
+## La festa dei numeri [lib-2-elementare-matematica-ripasso-festa-di-compleanno] · FESTA
+concetti: Gli invitati; Preparare la tavola; Dividere torta e caramelle; L'orario della festa
+- Inviti 12 compagni di classe e 5 cugini. Quanti invitati hai?
+- Se dividi 16 caramelle tra 4 amici in parti uguali, ognuno ne riceve 4.
+- Ci sono 6 tavoli e su ogni tavolo metti 4 bicchieri. Quanti bicchieri servono?
+- La festa inizia alle 16:00 e dura 3 ore: finisce alle ___.
+- Dei 17 invitati, 3 non possono venire. Quanti bambini vengono alla festa?
+- La torta è tagliata in 8 fette uguali. Se ne mangiate 5, quante fette restano?
+- Compri 5 confezioni con 6 palloncini ciascuna. Ne scoppiano 4. Quanti palloncini restano?
+- Hai 30 caramelle e alla festa ci sono 6 bambini. Spiega come le dividi in parti uguali e quante ne riceve cia…
+
+## La macchina dei numeri [lib-2-elementare-matematica-macchine-dei-numeri] · MOTORE
+concetti: Entrata, regola, uscita; Trovare l'uscita; Scoprire la regola; Tornare indietro
+- La macchina aggiunge 7. Entra il 15. Cosa esce?
+- In una macchina dei numeri, la regola è l'operazione che la macchina fa a ogni numero che entra.
+- La macchina moltiplica per 3. Entra il 6. Cosa esce?
+- Entra 20 ed esce 14; entra 30 ed esce 24. La regola è: ___ 6.
+- Entra 4 ed esce 8; entra 5 ed esce 10; entra 7 ed esce 14. Qual è la regola?
+- La macchina aggiunge 9. È uscito il 30. Quale numero era entrato?
+- La macchina fa due cose: prima aggiunge 10, poi toglie 3. Entra il 25. Cosa esce?
+- Una macchina toglie 8. È uscito il 47. Spiega come trovi il numero che era entrato.
+
 ## La prova della sottrazione [lib-2-elementare-matematica-prova-della-sottrazione] · PROVA
 concetti: Operazioni inverse; La prova della sottrazione; La prova dell'addizione; Trovare il numero mancante
 - Se 30 + 15 = 45, allora 45 - 15 = 30.
@@ -276,6 +518,17 @@ concetti: Operazioni inverse; La prova della sottrazione; La prova dell'addizion
 - Nel cestino c'erano alcune mele. Ne hai mangiate 6 e ne restano 18. Quante mele c'erano?
 - Con la prova scopri un errore. Quale di questi calcoli è SBAGLIATO?
 - Spiega perché l'addizione serve a controllare una sottrazione. Usa l'esempio 50 - 18 = 32.
+
+## La tabella del cento [lib-2-elementare-matematica-tabella-del-cento] · GRIGLIA
+concetti: Com'è fatta; Scendere e salire; Destra e sinistra; Le colonne
+- Nella tabella del cento, ogni riga contiene 10 numeri.
+- Nella tabella, quale numero sta subito a destra del 46?
+- Quale numero sta subito sotto il 23?
+- I numeri 4, 14, 24, 34 stanno nella stessa ___.
+- Parti da 58 e sali di due caselle. Dove arrivi?
+- Parti da 5 e scendi di una casella alla volta: metti in ordine i numeri che incontri.
+- Quale di questi numeri NON sta nella stessa colonna del 9?
+- Parti da 34. Scendi di 2 caselle e poi vai a destra di 3 caselle. Spiega dove arrivi.
 
 ## La tabellina del nove [lib-2-elementare-matematica-tabellina-del-9] · DITA
 concetti: Contare di 9 in 9; Il trucco del 10; Cifre che sommano 9; Il trucco delle dita
@@ -365,6 +618,28 @@ concetti: Le aste dell'abaco; Leggere l'abaco; L'asta vuota è zero; Il cambio s
 - Quale numero ha bisogno di più palline in tutto sull'abaco?
 - Un compagno vuole mettere 12 palline sull'asta delle unità per rappresentare il numero 12. Spiega perché non …
 
+## Leggere il calendario [lib-2-elementare-matematica-leggere-il-calendario] · DATA
+concetti: La data; Righe e colonne; Contare i giorni; Una settimana dopo
+- Nella data 15 marzo 2026, quale parte indica il mese?
+- Se oggi è lunedì 3, lunedì prossimo sarà il 10.
+- Nel calendario ogni riga di 7 giorni rappresenta una ___.
+- Oggi è il 12 maggio. Il tuo compleanno è il 20 maggio. Quanti giorni mancano?
+- Il 5 aprile è un giovedì. Che giorno della settimana è il 12 aprile?
+- In Italia, come si scrive con i numeri la data 4 luglio 2026?
+- La gita è il 28 ottobre. Oggi è il 25 ottobre. Fra quanti giorni c'è la gita?
+- In un mese di 31 giorni, il giorno 2 è un sabato. Spiega quali altri giorni di quel mese sono sabato.
+
+## Leggere lo scontrino [lib-2-elementare-matematica-lo-scontrino] · CASSA
+concetti: Che cos'è lo scontrino; Il totale; Contanti e resto; Controllare gli errori
+- Lo scontrino è il foglietto che ricevi alla cassa con l'elenco di ciò che hai comprato e i prezzi.
+- Sullo scontrino ci sono: pane 2 euro, latte 1 euro, biscotti 3 euro. Quanto è il totale?
+- Sullo scontrino leggi: totale 8 euro, contanti 10 euro, resto ___ euro.
+- Cosa NON trovi di solito su uno scontrino?
+- Compri 2 quaderni da 3 euro e una penna da 2 euro. Quale totale deve esserci sullo scontrino?
+- Il totale è 17 euro e paghi con 20 euro. Quanto resto c'è scritto?
+- Sullo scontrino: mele 4 euro, pere 5 euro, uva 6 euro, totale 14 euro. Cosa noti?
+- Il papà paga con 50 euro una spesa da 34 euro e riceve 6 euro di resto. Spiega se il resto è giusto.
+
 ## Linee aperte e chiuse [lib-2-elementare-matematica-linee-aperte-e-chiuse] · CONFINE
 concetti: Tipi di linee; Linee aperte e chiuse; Interno, esterno, confine; Linee che si incrociano
 - Come si chiama una linea fatta solo di pezzi dritti uniti tra loro, come un fulmine disegnato?
@@ -386,6 +661,28 @@ concetti: Figure simmetriche; L'asse di simmetria; Simmetria intorno a noi; Comp
 - Pieghi a metà un foglio e ritagli una forma lungo la piega. Che cosa ottieni quando apri il foglio?
 - Su un foglio a quadretti un punto è 3 quadretti a sinistra dell'asse. Dove disegni il punto simmetrico?
 - Spiega come puoi controllare se un disegno è simmetrico usando solo il foglio.
+
+## Lo zero tiene il posto [lib-2-elementare-matematica-zero-segnaposto] · POSTO
+concetti: Lo zero conta; Le decine intere; Il valore della posizione; Lo zero nei calcoli
+- Quale di questi numeri è una decina intera?
+- Nel numero 60 lo zero dice che non ci sono unità.
+- Quanto vale il 3 nel numero 30?
+- Il numero formato da 8 decine e 0 unità è ___.
+- Scrivi un 5 e poi metti uno zero alla sua destra. Che numero ottieni?
+- Calcoli 40 + 30 in colonna. Quale cifra scrivi nelle unità del risultato?
+- Quanto fa 90 - 60?
+- Giulia dice che 7 e 70 sono quasi lo stesso numero, perché lo zero non vale niente. Spiega se ha ragione.
+
+## Metà, terzo e quarto [lib-2-elementare-matematica-meta-terzo-quarto] · FETTA
+concetti: Parti uguali; La metà; Il terzo; Il quarto
+- Per dividere una pizza a metà, le due parti devono essere uguali.
+- Qual è la metà di 16?
+- Una torta è tagliata in 3 parti uguali. Come si chiama ognuna?
+- Se dividi un foglio in 4 parti uguali, ogni parte è un ___ del foglio.
+- Cosa è più grande: un mezzo o un quarto della stessa pizza?
+- Qual è un terzo di 12 caramelle?
+- Hai 20 euro e ne spendi un quarto. Quanti euro spendi?
+- Marco taglia una torta in 2 pezzi, uno grande e uno piccolo, e dice di averla divisa a metà. Spiega se ha rag…
 
 ## Moltiplicazioni in colonna [lib-2-elementare-matematica-moltiplicazioni-in-colonna] · COLONNA
 concetti: Come si incolonna; Prima unità, poi decine; Il riporto nella moltiplicazione; Moltiplicare è sommare in fretta
@@ -409,6 +706,28 @@ concetti: Monete e banconote; Euro e centesimi; Cambiare il denaro; Contare il d
 - Hai 3 banconote da 10 euro e 4 banconote da 5 euro. Quanti euro hai?
 - Devi pagare 7 euro e hai solo monete da 2 euro e da 1 euro. Spiega un modo per pagare la cifra giusta.
 
+## Orizzontale, verticale, obliqua [lib-2-elementare-matematica-orizzontale-verticale-obliqua] · LINEA
+concetti: La linea orizzontale; La linea verticale; La linea obliqua; Linee nella realtà
+- Una linea orizzontale è sdraiata, come la linea dell'orizzonte sul mare.
+- Com'è il tronco di un albero dritto?
+- Com'è uno scivolo del parco giochi?
+- Un filo con un peso appeso, lasciato fermo, forma una linea ___.
+- Quale di questi oggetti ha una forma orizzontale?
+- Nella lettera T maiuscola, com'è la linea in alto?
+- Quale lettera maiuscola è fatta solo di linee oblique?
+- Guarda la tua aula e spiega dove vedi una linea orizzontale, una verticale e una obliqua.
+
+## Paio, coppia e dozzina [lib-2-elementare-matematica-paio-coppia-dozzina] · DOZZINA
+concetti: Paio e coppia; La dozzina; La decina; Contare con i gruppi
+- Quanti calzini ci sono in un paio?
+- Una dozzina di uova sono 12 uova.
+- Mezza dozzina di uova sono ___ uova.
+- Una decina di matite sono...
+- Quante scarpe ci sono in 4 paia di scarpe?
+- Compri 2 dozzine di uova. Quante uova hai?
+- Hai 30 uova. Quante dozzine intere puoi riempire e quante uova restano?
+- Spiega che cosa è di più: mezza dozzina di pasticcini o un paio di coppie di pasticcini.
+
 ## Pari o dispari? [lib-2-elementare-matematica-pari-e-dispari] · COPPIA
 concetti: Numeri pari; Numeri dispari; Basta l'ultima cifra; Pari e dispari si alternano
 - Quale di questi numeri è pari?
@@ -419,6 +738,28 @@ concetti: Numeri pari; Numeri dispari; Basta l'ultima cifra; Pari e dispari si a
 - Metti in ordine, dal più piccolo al più grande, i numeri pari che stanno tra 20 e 30.
 - In una classe ci sono 23 bambini. La maestra vuole formare delle coppie. Che cosa succede?
 - Senza contare tutto, come fai a sapere se 94 è pari o dispari? Spiegalo.
+
+## Pari più dispari fa... [lib-2-elementare-matematica-somme-pari-e-dispari] · COPPIE
+concetti: Pari più pari; Dispari più dispari; Pari più dispari; Prevedere senza calcolare
+- La somma di due numeri pari è sempre un numero pari.
+- Quanto fa 7 + 5? Il risultato è pari o dispari?
+- Se sommi un numero pari e un numero dispari, il risultato è sempre ___.
+- Senza calcolare, quale somma dà un numero dispari?
+- Perché la somma di due numeri dispari è pari?
+- Quanto fa 3 + 5 + 7? È pari o dispari?
+- Lia dice che 26 + 48 = 75. Senza fare il conto, come capisci che ha sbagliato?
+- Spiega con un esempio di oggetti perché 5 + 3 dà un numero pari.
+
+## Per o diviso? [lib-2-elementare-matematica-per-o-diviso] · SCELTA
+concetti: Quando moltiplicare; Dividere in parti uguali; Dividere per formare gruppi; Controllare la scelta
+- 5 bambini hanno 3 palloncini ciascuno. Quale operazione usi per sapere quanti palloncini ci sono in tutto?
+- Hai 20 caramelle da dividere in parti uguali tra 4 amici. Quale operazione usi?
+- Per sapere quante scatole da 6 servono per 30 uova si fa 30 : 6.
+- Quando dividi qualcosa in parti uguali, ogni parte è ___ del totale.
+- Il maestro ha 28 bambini e vuole formare squadre da 4. Quante squadre forma?
+- In un parcheggio ci sono 9 file con 5 auto ciascuna. Quante auto ci sono?
+- Luca deve dividere 18 figurine tra 3 amici e scrive 18 × 3 = 54. Cosa ha sbagliato?
+- Risolvi e spiega quale operazione usi: «32 matite sono messe in parti uguali in 4 astucci. Quante matite ci s…
 
 ## Per zero e per uno [lib-2-elementare-matematica-per-zero-e-per-uno] · ZERO
 concetti: Moltiplicare per 1; Moltiplicare per 0; Più zero o per zero; Gruppi vuoti
@@ -442,6 +783,50 @@ concetti: Destra, sinistra, sopra, sotto; Le coordinate; Descrivere un percorso;
 - In un reticolo le colonne hanno le lettere e le righe hanno i numeri. Una nave occupa le caselle B2, B3 e B4.…
 - In un reticolo le righe sono numerate dal basso verso l'alto. Spiega a un amico come arrivare dalla casella A…
 
+## Pesante o leggero? [lib-2-elementare-matematica-pesante-o-leggero] · PESO
+concetti: Confrontare il peso; Il chilogrammo; Grande non vuol dire pesante; Sommare i pesi
+- Su una bilancia a due piatti, il piatto che scende è quello con l'oggetto...
+- Un oggetto grande è sempre più pesante di un oggetto piccolo.
+- Il peso si misura in chilogrammi, che si scrivono in breve ___.
+- Quale di questi oggetti pesa di più?
+- Quale oggetto pesa circa 1 chilogrammo?
+- Una borsa contiene 3 kg di patate e 2 kg di mele. Quanto pesa la spesa?
+- La bilancia è in equilibrio: da una parte c'è un melone, dall'altra 4 pesi da 1 kg. Quanto pesa il melone?
+- Sara dice che un cuscino è più pesante di un barattolo di marmellata perché è più grande. Spiega se ha per fo…
+
+## Più dieci, meno dieci [lib-2-elementare-matematica-piu-dieci-meno-dieci] · DIECI
+concetti: Aggiungere dieci; Togliere dieci; Più decine insieme; Contare di dieci in dieci
+- Quanto fa 36 + 10?
+- Quanto fa 81 - 10?
+- Quando aggiungi 10 a un numero, la cifra delle unità resta uguale.
+- 45 + 30 = ___
+- Conta all'indietro di 10 in 10 partendo da 92: metti in ordine.
+- Quale operazione porta da 64 a 34?
+- Ogni giorno metti 10 euro nel salvadanaio. Oggi ne hai 23. Quanti ne avrai tra 4 giorni?
+- Tommaso calcola 58 - 20 e scrive 56. Spiega quale errore ha fatto e qual è il risultato giusto.
+
+## Primo, secondo, terzo [lib-2-elementare-matematica-numeri-ordinali] · PRIMO
+concetti: Contare o mettere in fila; Scrivere gli ordinali; Posizioni in una fila; Ordinali nella vita
+- In una gara arrivi al traguardo dopo due bambini. Quale parola indica la tua posizione?
+- Il simbolo 5° si legge «quinto».
+- Dopo il nono viene il ___.
+- Metti in ordine gli ordinali dal più piccolo al più grande.
+- Abiti al quarto piano. Il tuo amico abita due piani più in alto. A che piano abita?
+- Quale frase usa un numero per dire il POSTO e non la quantità?
+- In una fila ci sono 6 bambini. Luca è il secondo partendo dalla fine. In che posizione è partendo dall'inizio?
+- In una fila di 7 bambini, Anna è la terza dall'inizio. Spiega in che posizione è se conti dalla fine.
+
+## Problemi con gruppi uguali [lib-2-elementare-matematica-problemi-con-gruppi-uguali] · SCATOLA
+concetti: Riconoscere i gruppi uguali; Moltiplicazione o addizione ripetuta; Il dato che si ripete; Più passaggi
+- Ci sono 4 vasi e in ogni vaso ci sono 5 fiori. Quanti fiori ci sono?
+- Il problema «3 sacchetti con 6 caramelle ciascuno» si può risolvere sia con 6 + 6 + 6 sia con 3 × 6.
+- Nei problemi, parole come «ogni» e «___» fanno pensare a gruppi uguali.
+- Una scatola contiene 8 colori. Quanti colori ci sono in 7 scatole?
+- Quale problema si risolve con una moltiplicazione?
+- Un biglietto del cinema costa 6 euro. Quanto spendono 4 amici?
+- La nonna prepara 5 vassoi con 9 biscotti ciascuno. Ne mangiate 7. Quanti biscotti restano?
+- Inventa un problema che si risolve con 6 × 4 e risolvilo con la risposta completa.
+
 ## Problemi in due passi [lib-2-elementare-matematica-problemi-in-due-passi] · PASSI
 concetti: Domande nascoste; L'ordine dei passaggi; Due operazioni diverse; Un risultato ragionevole
 - «Ho 10 euro. Compro un succo da 2 euro e un panino da 3 euro. Quanti euro mi restano?» Qual è la domanda nasc…
@@ -452,6 +837,39 @@ concetti: Domande nascoste; L'ordine dei passaggi; Due operazioni diverse; Un ri
 - Metti in ordine i passaggi per risolvere: «Una scatola ha 6 biscotti. Compro 4 scatole e mangio 5 biscotti. Q…
 - Luca risolve «Ho 50 euro, spendo 20 euro e poi 15 euro. Quanto mi resta?» e trova 85. Perché il risultato non…
 - Risolvi e spiega i tuoi passaggi: «Alla festa ci sono 4 tavoli con 5 bambini ciascuno. Arrivano altri 3 bambi…
+
+## Problemi per aggiungere [lib-2-elementare-matematica-problemi-per-aggiungere] · UNIRE
+concetti: Aggiungere; Unire due gruppi; Le parole chiave; La risposta completa
+- Nel parcheggio ci sono 24 auto. Ne arrivano altre 13. Quante auto ci sono adesso?
+- Le parole «in tutto» in un problema fanno pensare spesso a un'addizione.
+- In classe ci sono 11 maschi e 13 femmine. Quanti bambini ci sono in tutto?
+- Il problema chiede quante figurine ha Ada. La risposta completa è: «Ada ha 45 ___».
+- Quale di questi problemi si risolve con un'addizione?
+- Leo legge 38 pagine lunedì e 27 martedì. Quante pagine ha letto in tutto?
+- Nell'acquario ci sono 16 pesci rossi, 9 pesci gialli e 5 pesci blu. Quanti pesci ci sono?
+- Inventa un problema che si risolve con 35 + 20, poi risolvilo e scrivi la risposta completa.
+
+## Problemi per togliere [lib-2-elementare-matematica-problemi-per-togliere] · TOGLI
+concetti: Togliere; Quanto resta; Le parole chiave; Controllare con l'addizione
+- Hai 15 palloncini e ne scoppiano 4. Quanti palloncini ti restano?
+- La parola «restano» in un problema fa pensare spesso a una sottrazione.
+- Nel vaso ci sono 30 biscotti. Ne mangi 10. Restano ___ biscotti.
+- Quale di questi problemi si risolve con una sottrazione?
+- Sul treno ci sono 64 passeggeri. Alla stazione ne scendono 25. Quanti restano sul treno?
+- Sara aveva 50 figurine, ne ha regalate 18 e dice che gliene restano 32. Quale calcolo controlla che sia giust…
+- Il fornaio prepara 48 panini. Ne vende 20 al mattino e 15 al pomeriggio. Quanti panini rimangono?
+- Mattia aveva 72 biglie e ne ha perse 27. Dice che gliene restano 55. Spiega se ha ragione e controlla con l'a…
+
+## Programma il robot [lib-2-elementare-matematica-programma-il-robot] · CODICE
+concetti: I comandi; La sequenza di comandi; Girare; Trovare l'errore
+- In un programma per robot, l'ordine dei comandi è importante.
+- Il robot guarda verso la porta e riceve il comando «avanti 3». Cosa fa?
+- Il robot guarda avanti e gira a destra due volte: alla fine guarda ___.
+- Il comando «gira a destra» fa spostare il robot in un'altra casella?
+- Il robot deve andare 2 caselle avanti e poi 1 casella a destra. Quale programma è giusto?
+- Il programma «avanti, avanti, gira a destra, avanti» doveva portare il robot sulla stella, 2 caselle avanti e…
+- Il robot parte da una casella e fa: avanti, avanti, avanti, indietro. A quante caselle si trova dalla partenz…
+- Un robot deve fare un percorso a forma di quadrato con il lato di 1 casella e tornare al punto di partenza. S…
 
 ## Quadrati, triangoli e cerchi [lib-2-elementare-matematica-figure-piane] · VERTICE
 concetti: Lati e vertici; Quadrato e rettangolo; Il triangolo; Il cerchio
@@ -497,6 +915,28 @@ concetti: Confrontare due quantità; Quanto manca; Le parole dei problemi; Conta
 - Il viaggio dura 90 minuti. Sono passati 55 minuti. Quanti minuti mancano all'arrivo?
 - La nonna ha 72 anni e lo zio Carlo ne ha 45. Spiega come trovi la loro differenza di età.
 
+## Quanto contiene? [lib-2-elementare-matematica-quanto-contiene] · LITRO
+concetti: La capacità; Il litro; Mezzo litro; Confrontare i recipienti
+- La capacità di una bottiglia è la quantità di liquido che può contenere.
+- Con quale unità di misura si misura l'acqua in una bottiglia?
+- Quale di questi recipienti contiene più acqua?
+- Due bottiglie da mezzo litro contengono in tutto ___ litro.
+- La mamma compra 3 bottiglie d'acqua da 2 litri. Quanti litri d'acqua compra?
+- Con una brocca riempi 4 bicchieri uguali, con una bottiglia ne riempi 6. Cosa puoi dire?
+- Quanti mezzi litri ci sono in 3 litri?
+- Hai due vasi di forma diversa e vuoi sapere quale contiene più acqua. Spiega come puoi scoprirlo.
+
+## Quanto tempo passa? [lib-2-elementare-matematica-quanto-tempo-passa] · DURATA
+concetti: Inizio e fine; Durata in ore; Durata in minuti; Trovare l'ora di fine
+- Per sapere quanto dura un film devi conoscere l'ora di inizio e l'ora di fine.
+- La scuola inizia alle 8 e finisce alle 13. Quante ore stai a scuola?
+- La lezione di musica dura mezz'ora, cioè ___ minuti.
+- Un quarto d'ora dura...
+- Il cartone animato inizia alle 4 e dura 2 ore. A che ora finisce?
+- Esci di casa alle 9 e torni alle 12. Per quanto tempo sei stato fuori?
+- L'allenamento inizia alle 17:00 e dura un'ora e mezza. A che ora finisce?
+- Luca gioca dalle 15:00 alle 15:30. Sara gioca un quarto d'ora in più di Luca. Spiega quanto tempo gioca Sara.
+
 ## Quanto è lungo? [lib-2-elementare-matematica-misurare-le-lunghezze] · METRO
 concetti: Misure con unità arbitrarie; Il metro e il centimetro; Usare il righello; Scegliere lo strumento giusto
 - Con quale unità di misura conviene misurare la lunghezza di una gomma?
@@ -519,6 +959,39 @@ concetti: Lo schieramento; Righe per colonne; Girare lo schieramento; Schieramen
 - Hai 18 piantine e vuoi metterle in 3 righe uguali. Quante piantine metti in ogni riga?
 - Immagina uno schieramento di 3 righe da 7 stelline. Spiega perché, girandolo, ottieni 7 × 3 senza cambiare il…
 
+## Ripasso di misure e forme [lib-2-elementare-matematica-ripasso-misure-e-forme] · MISURA
+concetti: Le lunghezze; Il tempo; Figure piane e solide; Peso e capacità
+- Quanti lati ha un quadrato?
+- Un metro è più lungo di un centimetro.
+- Il latte si misura in ___.
+- Quanti minuti ci sono in tre quarti d'ora?
+- Quale solido ha la forma di una lattina?
+- Una matita è lunga 15 cm e una gomma 4 cm. Quanto è più lunga la matita?
+- Che cosa misureresti in chilogrammi?
+- Spiega quale unità di misura useresti per misurare la tua altezza, il tuo peso e quanto dura la ricreazione.
+
+## Risparmi nel salvadanaio [lib-2-elementare-matematica-salvadanaio] · MAIALE
+concetti: Risparmiare ogni settimana; Quanto manca; Contare le monete; Quanto tempo serve
+- Se metti 2 euro ogni settimana, dopo 3 settimane hai risparmiato 6 euro.
+- Nel salvadanaio ci sono 3 monete da 2 euro e 4 monete da 1 euro. Quanti euro ci sono?
+- Hai 30 euro e il gioco che vuoi costa 45 euro. Ti mancano ___ euro.
+- Ogni settimana metti 5 euro nel salvadanaio. Quanti euro hai dopo 6 settimane?
+- Vuoi comprare un libro da 12 euro e metti da parte 3 euro a settimana. Quante settimane ti servono?
+- Quale gruppo di monete vale 5 euro?
+- Hai risparmiato 4 euro a settimana per 5 settimane. Vuoi una palla da 26 euro. Quanto ti manca?
+- Marta ha già 10 euro e ogni settimana ne aggiunge 5. Vuole comprare uno zaino da 35 euro. Spiega dopo quante …
+
+## Ritmi e sequenze [lib-2-elementare-matematica-ritmi-e-sequenze] · RITMO
+concetti: Che cos'è un ritmo; Il modulo; Sequenze di numeri; Prevedere gli elementi
+- Nella sequenza rosso, blu, rosso, blu, rosso... il prossimo colore è blu.
+- Nella sequenza ★ ● ● ★ ● ● ★ ● ●, qual è il gruppo che si ripete?
+- Quale numero viene dopo? 3, 6, 9, 12, ...
+- Nella sequenza 50, 45, 40, 35, ... la regola è: ogni volta ___ 5.
+- Continua la sequenza che parte da 2 e aumenta di 4 ogni volta: metti in ordine.
+- Quale di queste NON è una sequenza con una regola?
+- In una collana si ripetono: perla rossa, perla gialla, perla verde. Di che colore è la 12ª perla?
+- Inventa un ritmo con due quadrati e un triangolo che si ripetono. Scrivi i primi 9 elementi e spiega qual è i…
+
 ## Salti sulla linea dei numeri [lib-2-elementare-matematica-salti-sulla-linea] · SALTO
 concetti: La linea dei numeri; Salti in avanti; Salti all'indietro; Trovare la regola
 - Conta di 10 in 10: 14, 24, 34... Quale numero viene dopo?
@@ -529,6 +1002,17 @@ concetti: La linea dei numeri; Salti in avanti; Salti all'indietro; Trovare la r
 - Una rana parte da 92 e salta all'indietro di 10 in 10. Metti in ordine i numeri che tocca.
 - Trova il numero che manca: 80, 76, 72, ?, 64.
 - Sulla linea dei numeri parti da 3 e fai salti da 3 in avanti. Atterrerai mai sul 20? Spiega.
+
+## Sfida mista sulle tabelline [lib-2-elementare-matematica-ripasso-tabelline-miste] · SFIDA
+concetti: Tabelline facili; Tabelline difficili; Tabelline al contrario; Tabelline nei problemi
+- Quanto fa 5 × 8?
+- 7 × 8 fa 56.
+- Quanto fa 6 × 9?
+- ___ × 7 = 49
+- Quale di queste moltiplicazioni NON fa 24?
+- Quanto fa 9 × 8?
+- Una settimana ha 7 giorni. Quanti giorni ci sono in 6 settimane?
+- Spiega come trovi il numero che manca in ___ × 8 = 64 e come puoi controllarlo.
 
 ## Smonta e rimonta i numeri [lib-2-elementare-matematica-scomporre-i-numeri] · PEZZI
 concetti: Scomporre in da e u; Scomporre con l'addizione; Comporre un numero; Altri modi di scomporre
@@ -541,6 +1025,17 @@ concetti: Scomporre in da e u; Scomporre con l'addizione; Comporre un numero; Al
 - Quale numero formi con 4 decine e 13 unità?
 - Trova due modi diversi per scomporre il numero 48 con un'addizione e spiega come li hai trovati.
 
+## Sommare tre numeri [lib-2-elementare-matematica-addizione-con-tre-addendi] · TRIS
+concetti: Più addendi insieme; Cercare gli amici del dieci; Tre addendi in colonna; Problemi con tre quantità
+- Quanto fa 4 + 3 + 2?
+- Per calcolare 7 + 5 + 3 conviene sommare prima 7 + 3, che fa 10.
+- Quanto fa 6 + 9 + 4?
+- In 12 + 5 + 3 = 20, i numeri 12, 5 e 3 si chiamano ___.
+- Quanto fa 23 + 14 + 31 in colonna?
+- Il pullman parte vuoto. Alla prima fermata salgono 12 bambini, alla seconda 8 e alla terza 15. Quanti bambini…
+- Quanto fa 18 + 25 + 17?
+- Spiega come calcoleresti a mente 8 + 7 + 2 + 3 nel modo più veloce.
+
 ## Sottrazioni in colonna [lib-2-elementare-matematica-sottrazioni-in-colonna] · RESTO
 concetti: I termini della sottrazione; Prima le unità; Il numero più grande sopra; Togliere nella vita
 - Quanto fa 87 - 42 in colonna?
@@ -551,3 +1046,58 @@ concetti: I termini della sottrazione; Prima le unità; Il numero più grande so
 - Metti in ordine i passaggi per calcolare 79 - 36 in colonna.
 - Piero calcola 64 - 21 e trova 85. Che cosa ha sbagliato?
 - Perché nella sottrazione il resto non può essere più grande del numero da cui togli? Spiegalo con un esempio.
+
+## Sottrazioni veloci a mente [lib-2-elementare-matematica-calcolo-mentale-sottrazioni] · LAMPO
+concetti: Togliere le decine; Togliere nove; Due salti; Contare in avanti
+- Quanto fa 68 - 30?
+- Per togliere 9 puoi togliere 10 e poi aggiungere 1.
+- Quanto fa 52 - 9?
+- Per calcolare 34 - 6 togli prima 4 e arrivi a 30, poi togli ancora 2 e arrivi a ___.
+- Quanto fa 71 - 5?
+- Quanto manca da 47 a 53? Conta in avanti.
+- Quanto fa 86 - 42? Togli prima le decine, poi le unità.
+- Spiega come calcoli a mente 62 - 58 contando in avanti.
+
+## Spezza la moltiplicazione [lib-2-elementare-matematica-spezzare-la-moltiplicazione] · SPEZZA
+concetti: Spezzare un fattore; Usare il 5 e il 10; Lo schieramento diviso; Numeri più grandi
+- 7 × 4 si può calcolare come 5 × 4 + 2 × 4.
+- Per calcolare 6 × 7 parti da 5 × 7 = 35. Quanto devi aggiungere?
+- Quanto fa 12 × 3? Spezza il 12 in 10 + 2.
+- Uno schieramento di 8 righe da 6 si divide in 5 righe da 6 e 3 righe da 6: 30 + 18 = ___.
+- Quale calcolo dà lo stesso risultato di 9 × 5?
+- Quanto fa 14 × 2?
+- Per calcolare 8 × 9 si può fare 8 × 10 - 8. Quanto fa?
+- Non ricordi quanto fa 7 × 8. Spiega come puoi calcolarlo spezzando il 7 in 5 + 2.
+
+## Togliere zero, togliere tutto [lib-2-elementare-matematica-zero-nella-sottrazione] · NIENTE
+concetti: Meno zero; Un numero meno sé stesso; Più zero e meno zero; Togliere più di quanto hai
+- Quanto fa 34 - 0?
+- Quanto fa 57 - 57?
+- 8 + 0 e 8 - 0 danno lo stesso risultato.
+- Se da un sacchetto di 12 caramelle ne mangi 12, ne restano ___.
+- Hai 6 adesivi. Un amico te ne chiede 9. Cosa succede?
+- Quale operazione ha come risultato 25?
+- Quanto fa 40 - 0 + 0 - 40?
+- Spiega perché un numero meno sé stesso fa sempre zero. Fai un esempio.
+
+## Tutti, alcuni, nessuno [lib-2-elementare-matematica-parole-della-logica] · LOGICA
+concetti: Tutti; Alcuni; Nessuno; E, o
+- La frase «Tutti i quadrati hanno 4 lati» è vera.
+- Quale frase è vera?
+- In un cesto ci sono 3 mele rosse e 2 verdi. Quale frase è vera?
+- Il numero 15 è dispari ___ maggiore di 10.
+- Il maestro dice: «Alzate la mano se avete un gatto o un cane». Chi deve alzare la mano?
+- Quale numero è pari e maggiore di 50?
+- Quale frase è falsa?
+- Spiega la differenza tra «Tutti i bambini della classe hanno la bici» e «Alcuni bambini della classe hanno la…
+
+## Un giorno lungo 24 ore [lib-2-elementare-matematica-giorno-di-24-ore] · GIORNO
+concetti: Le parti del giorno; Ventiquattro ore; Sessanta minuti; Mezzogiorno e mezzanotte
+- In quale parte del giorno di solito fai colazione?
+- Quante ore ci sono in un giorno intero?
+- La lancetta lunga impiega 60 minuti, cioè un'ora, per fare un giro completo.
+- Metti in ordine le parti del giorno, partendo dalla mattina.
+- Le 12 del giorno si chiamano ___.
+- Quanti minuti ci sono in 2 ore?
+- Dormi dalle 9 di sera alle 7 di mattina. Quante ore dormi?
+- Spiega perché in un giorno ci sono 24 ore anche se l'orologio a lancette arriva solo fino a 12.

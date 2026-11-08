@@ -1,6 +1,50 @@
-# 5ª elementare · Storia: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# 5ª elementare · Storia: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A teatro con i Romani [lib-5-elementare-storia-teatro-romano] · PLAUTO
+concetti: Un'eredità greca; Autori e generi; Teatri in muratura; Attori e pubblico
+- Quale genere teatrale preferivano soprattutto i Romani?
+- I Romani potevano costruire teatri anche in pianura, senza appoggiarli a una collina.
+- Plauto e ___ furono i più famosi autori di commedie a Roma.
+- Che cos'era la pantomima?
+- A che cosa serviva il velario nei teatri romani?
+- Qual era la differenza principale tra un teatro greco e uno romano?
+- Perché gli attori portavano spesso delle maschere?
+- Il teatro romano nacque dal teatro greco ma cambiò in alcuni aspetti. Spiega che cosa i Romani ripresero e ch…
+
+## Adriano, l'imperatore viaggiatore [lib-5-elementare-storia-adriano-viaggiatore] · VILLA
+concetti: Un imperatore viaggiatore; Difendere, non conquistare; Amante della cultura greca; Grandi costruzioni
+- In quale provincia era nato Adriano?
+- Adriano fu il primo imperatore a portare la barba.
+- Il mausoleo di Adriano oggi si chiama Castel ___.
+- Perché Adriano viaggiò per quasi tutto l'impero?
+- Quale politica scelse Adriano per i confini dell'impero?
+- Quale famoso tempio di Roma fece ricostruire Adriano?
+- Perché si può dire che Adriano era un ammiratore della Grecia?
+- Traiano allargò l'impero, Adriano preferì difenderlo. Secondo te, perché a un certo punto difendere diventò p…
+
+## Agguato nella selva di Teutoburgo [lib-5-elementare-storia-teutoburgo] · SELVA
+concetti: I Germani oltre il Reno; Arminio; L'agguato del 9 d.C.; Il Reno come confine
+- Quale fiume divenne il confine tra l'impero romano e la Germania?
+- Arminio aveva servito nell'esercito romano prima di guidare i Germani contro Roma.
+- Nella selva di Teutoburgo furono distrutte tre legioni guidate dal generale ___.
+- In quale anno avvenne la sconfitta di Teutoburgo?
+- Perché i Germani riuscirono a sconfiggere le legioni in una foresta?
+- Quale decisione prese Augusto dopo Teutoburgo?
+- Che cosa rendeva Arminio un avversario così pericoloso?
+- Spiega che cosa insegnò ai Romani la sconfitta di Teutoburgo e come cambiò la loro politica verso i confini.
+
+## Alfa, beta: nasce l'alfabeto [lib-5-elementare-storia-alfabeto-greco] · ALFA
+concetti: Dai Fenici ai Greci; L'aggiunta delle vocali; Lettere ancora usate; Dal greco al nostro alfabeto
+- Da quale popolo i Greci presero l'idea dell'alfabeto?
+- La parola «alfabeto» deriva dai nomi delle prime due lettere greche, alfa e beta.
+- La grande novità dei Greci fu aggiungere all'alfabeto i segni per le ___.
+- In matematica usi una lettera greca per calcolare la circonferenza. Quale?
+- Ordina il cammino dell'alfabeto, dal più antico al più recente.
+- Perché le vocali rendevano la scrittura più facile da leggere?
+- Rispetto ai geroglifici egizi, qual era il vantaggio dell'alfabeto?
+- Scrivi perché si può dire che, quando scrivi in italiano, usi un'invenzione nata migliaia di anni fa.
 
 ## Annibale attraversa le Alpi [lib-5-elementare-storia-annibale-seconda-guerra-punica] · ZAMA
 concetti: Il piano di Annibale; Le grandi vittorie; La resistenza di Roma; Scipione e Zama
@@ -12,6 +56,17 @@ concetti: Il piano di Annibale; Le grandi vittorie; La resistenza di Roma; Scipi
 - Come riuscì Scipione a far lasciare l'Italia ad Annibale?
 - Metti in ordine le tappe della seconda guerra punica.
 - Annibale vinse molte battaglie in Italia ma alla fine perse la guerra. Spiega perché.
+
+## Antonio, Cleopatra e Azio [lib-5-elementare-storia-antonio-cleopatra-azio] · AZIO
+concetti: Il secondo triumvirato; Antonio e Cleopatra; La battaglia di Azio; L'Egitto diventa romano
+- Chi era Cleopatra?
+- La battaglia di Azio fu combattuta in mare.
+- Il secondo triumvirato era formato da Ottaviano, Marco Antonio e ___.
+- In quale anno fu combattuta la battaglia di Azio?
+- Di che cosa Ottaviano accusava Antonio davanti ai Romani?
+- Metti in ordine i fatti dalla morte di Cesare ad Augusto.
+- Che cosa successe all'Egitto dopo la morte di Cleopatra?
+- Ottaviano raccontò la guerra contro Antonio come una guerra contro una regina straniera. Perché secondo te sc…
 
 ## Aruspici e segni degli dei [lib-5-elementare-storia-etruschi-religione] · FEGATO
 concetti: Una religione dei segni; Aruspici e àuguri; Gli dei etruschi; Un'eredità per Roma
@@ -68,6 +123,17 @@ concetti: Da Ottaviano ad Augusto; Il primo cittadino; La pace augustea; Poeti e
 - Mecenate, amico di Augusto, aiutava poeti e artisti. Chi chiamiamo oggi «mecenate»?
 - Augusto mise fine a decenni di guerre civili. Perché molti Romani accettarono di perdere un po' di libertà po…
 
+## Avanti e dopo Cristo [lib-5-elementare-storia-contare-anni-ac-dc] · SECOLO
+concetti: L'anno 1; Prima di Cristo, al contrario; I secoli; Calcolare durate
+- Quale data viene prima nel tempo?
+- Nel nostro modo di contare gli anni esiste l'anno zero.
+- La caduta dell'Impero romano d'Occidente, nel 476 d.C., avvenne nel ___ secolo d.C.
+- La battaglia di Maratona fu nel 490 a.C., quella di Salamina nel 480 a.C. Quanti anni passarono?
+- Roma fu fondata nel 753 a.C. e la Repubblica nacque nel 509 a.C. Quanto durò l'età dei re?
+- In quale secolo fu fondata Roma, nel 753 a.C.?
+- Pompei fu distrutta nel 79 d.C.; nel 212 d.C. Caracalla diede la cittadinanza a tutti i liberi dell'impero. Q…
+- Un tuo compagno dice: «Il 300 a.C. è più recente del 200 a.C., perché 300 è più grande». Spiegagli perché sba…
+
 ## Banchetti, donne e alfabeto etrusco [lib-5-elementare-storia-etruschi-vita-scrittura] · FLAUTO
 concetti: La donna etrusca; Feste, musica e giochi; L'alfabeto etrusco; Una lingua misteriosa
 - Quale strumento musicale compare spesso negli affreschi dei banchetti etruschi?
@@ -78,6 +144,61 @@ concetti: La donna etrusca; Feste, musica e giochi; L'alfabeto etrusco; Una ling
 - Oggi riusciamo a leggere le parole etrusche ma non a capirle tutte. Perché?
 - Le Lamine di Pyrgi, tre lamine d'oro, sono preziose perché riportano un testo in etrusco e anche in...
 - Immagina di trovare un'iscrizione etrusca su un vaso. Che cosa potresti capire e che cosa resterebbe un miste…
+
+## Brenno e le oche del Campidoglio [lib-5-elementare-storia-brenno-oche-campidoglio] · OCHE
+concetti: I Galli arrivano; Il sacco di Roma; Le oche sacre; «Guai ai vinti»
+- Chi era Brenno?
+- Secondo la leggenda le oche sacre svegliarono i difensori del Campidoglio.
+- I Romani furono sconfitti dai Galli presso il fiume ___, nel 390 a.C.
+- Quale parte di Roma resistette ai Galli?
+- Che cosa significa «Vae victis!», la frase attribuita a Brenno?
+- Perché Brenno gettò la spada sulla bilancia dove si pesava l'oro?
+- Dove vivevano i Galli prima di scendere verso Roma?
+- Dopo il sacco dei Galli, Roma costruì mura più forti. Spiega perché questo episodio fu una lezione importante…
+
+## Calende, Idi e mesi romani [lib-5-elementare-storia-calendario-romano] · CALENDE
+concetti: I nomi dei mesi; Quando iniziava l'anno; Calende, None e Idi; I giorni della settimana
+- Da quale personaggio prende il nome il mese di luglio?
+- Il giovedì prende il nome dal dio Giove.
+- Il primo giorno di ogni mese romano si chiamava ___.
+- Nel calendario romano più antico, in quale mese iniziava l'anno?
+- Perché dicembre si chiama così, anche se oggi è il dodicesimo mese?
+- Giulio Cesare fu ucciso alle Idi di marzo. In quale giorno?
+- Da quale astro prende il nome il lunedì?
+- Ottobre significa «ottavo» e novembre «nono», eppure sono il decimo e l'undicesimo mese. Spiega il motivo con…
+
+## Capolavori dell'arte etrusca [lib-5-elementare-storia-arte-etrusca-capolavori] · CHIMERA
+concetti: Il Sarcofago degli Sposi; La Chimera di Arezzo; Il bucchero; L'oreficeria
+- Che cosa mostra il Sarcofago degli Sposi?
+- Il Sarcofago degli Sposi è fatto di terracotta.
+- Il ___ è una ceramica nera e lucida tipica degli Etruschi.
+- Quali animali compongono la Chimera di Arezzo?
+- Di quale materiale è fatta la Chimera di Arezzo?
+- Che cos'è la granulazione usata dagli orafi etruschi?
+- Perché il bucchero aveva quel colore nero?
+- Osservando il Sarcofago degli Sposi, che cosa possiamo capire della donna etrusca e dell'idea di morte degli …
+
+## Cardo e decumano: la città romana [lib-5-elementare-storia-cardo-decumano] · CARDO
+concetti: Una pianta a scacchiera; Le due strade principali; Dall'accampamento alla città; Tracce nelle città di oggi
+- Come si chiamava la strada principale che andava da nord a sud?
+- Il decumano attraversava la città da est a ovest.
+- All'incrocio tra cardo e decumano sorgeva di solito il ___.
+- A quale costruzione militare somigliava la pianta di una città romana?
+- Quale di queste città conserva ancora nel centro le strade dritte romane?
+- Perché una pianta a scacchiera era comoda per una città nuova?
+- Il nome della città di Aosta viene da Augusta Praetoria. Che cosa ci dice questo nome?
+- Guarda la pianta della tua città o di una città che conosci: come potresti capire se ha origini romane? Spieg…
+
+## Cesare, Pompeo e Crasso [lib-5-elementare-storia-primo-triumvirato] · PATTO
+concetti: Un accordo segreto; Chi erano i tre; La fine dell'accordo; Cesare contro Pompeo
+- Quanti uomini formavano il triumvirato?
+- Crasso era famoso per essere l'uomo più ricco di Roma.
+- Per quali imprese era famoso Pompeo?
+- Crasso morì nel 53 a.C. combattendo contro i ___, a Carre.
+- Ordina questi fatti dal più antico al più recente.
+- Perché, dopo la morte di Crasso, Cesare e Pompeo diventarono nemici?
+- Dove fu sconfitto Pompeo da Cesare nel 48 a.C.?
+- Il primo triumvirato era un accordo privato tra tre uomini, non una carica prevista dalle leggi. Perché quest…
 
 ## Chi erano gli Etruschi? [lib-5-elementare-storia-etruschi-territorio] · ETRURIA
 concetti: L'Etruria; Le città-stato; L'espansione; Il declino
@@ -90,6 +211,28 @@ concetti: L'Etruria; Le città-stato; L'espansione; Il declino
 - Metti in ordine queste tappe della storia etrusca.
 - Gli Etruschi erano un popolo ricco e potente, eppure furono conquistati da Roma. Quale debolezza della loro o…
 
+## Chiedi all'oracolo di Delfi [lib-5-elementare-storia-oracolo-delfi] · PIZIA
+concetti: Il santuario di Apollo; La Pizia; Risposte ambigue; Un luogo di tutti i Greci
+- A quale dio era dedicato il santuario di Delfi?
+- La Pizia era una sacerdotessa che dava i responsi in nome del dio.
+- A Delfi si svolgevano i giochi ___, con gare sportive e musicali in onore di Apollo.
+- Al re Creso l'oracolo disse: «Se attaccherai i Persiani distruggerai un grande impero». Che cosa accadde?
+- Perché i responsi ambigui erano utili ai sacerdoti di Delfi?
+- Che cos'erano i «tesori» costruiti a Delfi?
+- Perché Delfi aiutava i Greci a sentirsi un unico popolo, pur divisi in tante polis?
+- Se tu fossi un Greco antico, per quali decisioni andresti a consultare l'oracolo? Spiega perché i Greci si fi…
+
+## Cicerone, la voce di Roma [lib-5-elementare-storia-cicerone-oratore] · ORATORE
+concetti: Un uomo nuovo; La congiura di Catilina; Scrittore e maestro di latino; La fine
+- Per che cosa era famoso soprattutto Cicerone?
+- Cicerone apparteneva a una famiglia di antichi nobili patrizi.
+- I discorsi di Cicerone contro Catilina si chiamano ___.
+- Che cosa voleva fare Catilina con la sua congiura?
+- In quale anno Cicerone fu console?
+- Perché il latino di Cicerone fu studiato per secoli?
+- Chi ordinò la morte di Cicerone nel 43 a.C.?
+- Cicerone non era un generale, eppure divenne uno degli uomini più importanti di Roma. Spiega come ci riuscì e…
+
 ## Colonne, vasi e statue greche [lib-5-elementare-storia-arte-greca] · COLONNA
 concetti: Il tempio greco; I tre ordini; La ceramica dipinta; La scultura
 - Come si riconosce un capitello ionico?
@@ -101,6 +244,17 @@ concetti: Il tempio greco; I tre ordini; La ceramica dipinta; La scultura
 - Metti in ordine i tre ordini architettonici greci, dal più antico al più recente.
 - L'arte greca, dopo più di 2000 anni, è ancora famosa e imitata. Spiega perché e fai almeno un esempio.
 
+## Come conosciamo l'antica Roma? [lib-5-elementare-storia-fonti-antica-roma] · FONTE
+concetti: Fonti scritte; Fonti materiali; Fonti iconografiche; Lo scavo
+- Quale di questi è una fonte scritta?
+- Le monete romane sono fonti materiali.
+- La Colonna ___ racconta con rilievi a spirale le guerre contro i Daci.
+- In uno scavo, quali strati sono di solito i più antichi?
+- Perché una moneta con il volto di un imperatore aiuta a datare uno strato di scavo?
+- Un mosaico che mostra una scena di pesca è una fonte…
+- Perché uno storico confronta più fonti diverse sullo stesso fatto?
+- Immagina che tra duemila anni un archeologo trovi la tua cartella di scuola. Quali fonti materiali e scritte …
+
 ## Come funzionava la Repubblica romana [lib-5-elementare-storia-istituzioni-repubblica] · SPQR
 concetti: I consoli; Il Senato; Le assemblee del popolo; Altri magistrati
 - Che cosa significa la sigla SPQR?
@@ -111,6 +265,28 @@ concetti: I consoli; Il Senato; Le assemblee del popolo; Altri magistrati
 - In caso di grave pericolo i Romani nominavano un dittatore. Per quanto tempo al massimo restava in carica?
 - Perché i consoli erano due e non uno solo?
 - La Repubblica romana divideva il potere tra consoli, Senato e assemblee. Che cosa ha in comune con l'Italia d…
+
+## Contare come gli antichi Romani [lib-5-elementare-storia-numeri-romani] · CIFRE
+concetti: Sette simboli; Somme e sottrazioni; Senza zero; Dove li vediamo oggi
+- Quanto vale il simbolo romano L?
+- Nei numeri romani, IV significa 4 perché la I scritta prima della V si sottrae.
+- Il numero 14 in numeri romani si scrive ___.
+- In numeri romani viviamo nel secolo…
+- Che numero è XLIX?
+- Metti in ordine questi numeri romani dal più piccolo al più grande.
+- Perché fare una moltiplicazione in colonna con i numeri romani era molto difficile?
+- Scrivi in numeri romani l'anno della caduta dell'Impero d'Occidente, il 476, e spiega passo per passo come ha…
+
+## Costruire una città etrusca [lib-5-elementare-storia-citta-etrusca] · SOLCO
+concetti: Il rito di fondazione; Città sulle alture; Strade ordinate; Esperti di acque
+- Con quale strumento gli Etruschi tracciavano il confine sacro di una nuova città?
+- Molte città etrusche sorgevano su colline ed erano circondate da mura.
+- Sotto i re etruschi, a Roma fu costruita la Cloaca ___ per far defluire le acque.
+- Com'erano le strade della città etrusca di Marzabotto?
+- Che cosa si vede ancora oggi in città come Volterra e Perugia?
+- Perché costruire canali e fognature era così utile alle città?
+- Quale popolo copiò dagli Etruschi il rito del solco per fondare le città?
+- Immagina di dover scegliere il luogo per una città etrusca. Quali caratteristiche cercheresti e perché?
 
 ## Creta, l'isola dei palazzi [lib-5-elementare-storia-cretesi] · TORO
 concetti: Creta e il mare; I grandi palazzi; Miti e religione; La fine dei Cretesi
@@ -133,6 +309,39 @@ concetti: Nemici dello Stato?; Le persecuzioni; L'Editto di Milano; L'Editto di 
 - Che cosa stabilì l'Editto di Tessalonica del 380, voluto da Teodosio?
 - Metti in ordine il cammino dei cristiani, dalle persecuzioni alla religione ufficiale.
 - In meno di un secolo il cristianesimo passò da religione perseguitata a religione ufficiale dell'impero. Come…
+
+## Dei, Lari e Vestali [lib-5-elementare-storia-religione-romana] · VESTA
+concetti: Tanti dei; Gli dei della casa; Le Vestali; Riti e sacerdoti
+- Quale dio greco i Romani chiamavano Giove?
+- Nelle case romane c'era un piccolo altare per gli dei protettori della famiglia.
+- Le ___ custodivano il fuoco sacro che non doveva mai spegnersi.
+- Quali dei formavano la triade onorata sul Campidoglio?
+- Di che cosa si occupavano i Penati?
+- Chi guidava la religione di Stato a Roma?
+- Perché i Romani consideravano così grave che il fuoco di Vesta si spegnesse?
+- Per i Romani la religione riguardava sia la famiglia sia lo Stato. Fai un esempio per ciascuno.
+
+## Dracme, civette e commerci [lib-5-elementare-storia-commercio-moneta-greca] · DRACMA
+concetti: Dal baratto alla moneta; La dracma e la civetta; Che cosa si scambiava; Il porto e le rotte
+- Dove nacquero le prime monete, secondo gli storici?
+- Sulle monete d'argento di Atene era raffigurata una civetta.
+- Olio e vino viaggiavano sulle navi dentro grandi vasi di terracotta chiamati ___.
+- Qual era il problema principale del baratto?
+- Perché Atene doveva importare molto grano dal Mar Nero?
+- Come si chiamava il porto di Atene?
+- Perché ogni polis coniava monete con simboli diversi?
+- Spiega perché l'invenzione della moneta rese i commerci più facili rispetto al baratto.
+
+## Eroi leggendari della Repubblica [lib-5-elementare-storia-eroi-leggendari-repubblica] · ARATRO
+concetti: Orazio Coclite; Muzio Scevola; Clelia; Cincinnato
+- Quale ponte difese da solo Orazio Coclite?
+- Muzio Scevola mise la mano destra nel fuoco per punirsi di aver sbagliato.
+- Il re etrusco che attaccò Roma nei primi anni della Repubblica si chiamava ___.
+- Come fuggì Clelia dal campo di Porsenna?
+- Che cosa fece Cincinnato dopo aver vinto i nemici?
+- Che cos'era il dittatore nella Repubblica romana?
+- Perché Porsenna, colpito dal gesto di Muzio, decise di fare pace con Roma?
+- Oggi la parola «dittatore» ha un significato negativo, ma per i Romani Cincinnato era un eroe. Spiega la diff…
 
 ## Filippo II e la Macedonia [lib-5-elementare-storia-filippo-macedonia] · FALANGE
 concetti: Il regno di Macedonia; Filippo II; La falange macedone; La battaglia di Cheronea
@@ -178,6 +387,17 @@ concetti: Dei simili agli uomini; I principali dei; Miti ed eroi; Templi e oraco
 - Eracle era figlio di Zeus e di una donna mortale. Come si chiamano i personaggi come lui?
 - Gli dei greci litigavano, erano gelosi e a volte facevano dispetti agli uomini. Secondo te perché i Greci li …
 
+## Granico, Isso e Gaugamela [lib-5-elementare-storia-alessandro-battaglie] · ISSO
+concetti: Il Granico; Isso; Gaugamela; Leggende di Alessandro
+- Presso quale fiume Alessandro vinse la sua prima battaglia in Asia, nel 334 a.C.?
+- A Isso Alessandro affrontò direttamente il re persiano Dario III.
+- Il famoso cavallo di Alessandro si chiamava ___.
+- Metti in ordine le battaglie di Alessandro contro i Persiani.
+- Perché la battaglia di Gaugamela fu decisiva?
+- Secondo la leggenda, come risolse Alessandro il problema del nodo di Gordio?
+- Secondo la leggenda, come riuscì Alessandro a domare Bucefalo, che nessuno riusciva a cavalcare?
+- Il racconto del nodo di Gordio e quello di Bucefalo che cosa vogliono mostrare del carattere di Alessandro?
+
 ## Greci in viaggio verso l'Italia [lib-5-elementare-storia-magna-grecia] · COLONIA
 concetti: Perché partire; Le colonie; La Magna Grecia; Tracce ancora visibili
 - Come fu chiamata l'Italia meridionale, piena di colonie greche?
@@ -199,6 +419,28 @@ concetti: I primi re; I re etruschi; Il re e il Senato; La fine della monarchia
 - Sotto i re etruschi fu costruita la Cloaca Massima. A che cosa serviva?
 - Metti in ordine questi re di Roma, dal primo all'ultimo.
 - Perché, dopo aver cacciato Tarquinio il Superbo, i Romani non vollero più avere un re?
+
+## I tre nomi dei Romani [lib-5-elementare-storia-tre-nomi-romani] · NOMEN
+concetti: Prenome; Nome della gens; Cognome; I nomi delle donne
+- Nel nome Marco Tullio Cicerone, qual è il prenome, cioè il nome personale?
+- Una ragazza della gens Giulia si chiamava di solito Giulia.
+- Il nomen indicava la ___, cioè il gruppo di famiglie con un antenato comune.
+- Il cognome Cicerone deriva da cicer. Che cosa significa?
+- Molti cognomi romani nascevano da…
+- Nel nome Gaio Giulio Cesare, che cosa indica «Giulio»?
+- Due sorelle della gens Cornelia si chiamavano entrambe Cornelia. Come le distinguevano i Romani?
+- Confronta il sistema dei tre nomi romani con il tuo nome e cognome. Che cosa è simile e che cosa è diverso?
+
+## I Villanoviani, prima degli Etruschi [lib-5-elementare-storia-villanoviani] · URNA
+concetti: Chi erano; Un nome da un villaggio; Le urne cinerarie; Gli antenati degli Etruschi
+- I Villanoviani prendono il nome da Villanova, una località vicino a ___.
+- I Villanoviani vissero durante l'età del ferro.
+- Che cosa facevano i Villanoviani con i loro defunti?
+- Che forma avevano molte urne villanoviane?
+- In quale di queste regioni NON si trovavano i Villanoviani?
+- Quale popolo, secondo gli storici, nacque dalla civiltà villanoviana?
+- Perché un'urna a forma di capanna è una fonte preziosa per gli archeologi?
+- Spiega perché gli storici pensano che i Villanoviani siano gli antenati degli Etruschi.
 
 ## Il grande impero dei Persiani [lib-5-elementare-storia-impero-persiano] · POSTA
 concetti: Ciro il Grande; Dario e le satrapie; La strada reale; Religione e capitali
@@ -310,6 +552,28 @@ concetti: Le necropoli; Tombe come case; Affreschi e corredi; Una fonte preziosa
 - Il Sarcofago degli Sposi mostra marito e moglie distesi insieme a banchetto. Che cosa ci racconta della socie…
 - Degli Etruschi ci restano pochi testi che riusciamo a capire. Perché allora le tombe sono così importanti per…
 
+## Le dodici fatiche di Eracle [lib-5-elementare-storia-eracle-fatiche] · CLAVA
+concetti: Eracle, l'eroe forte; Le dodici fatiche; A che cosa servivano i miti; Le colonne d'Ercole
+- Come chiamavano i Romani l'eroe greco Eracle?
+- L'Idra di Lerna era un mostro con molte teste.
+- Eracle era figlio del dio ___ e di una donna mortale.
+- Qual era la prima e più famosa fatica di Eracle?
+- Dove si trovavano le colonne d'Ercole?
+- Perché per gli antichi le colonne d'Ercole erano il «limite del mondo»?
+- Che cosa insegnavano ai ragazzi greci i racconti su Eracle?
+- Oggi diciamo «è una fatica di Ercole» per un compito difficilissimo. Spiega da dove viene questo modo di dire…
+
+## Le donne nell'antica Roma [lib-5-elementare-storia-donne-romane] · MATRONA
+concetti: Senza diritti politici; La padrona di casa; Più libere delle donne greche; Donne famose
+- Che cosa NON potevano fare le donne romane?
+- Le donne romane potevano partecipare ai banchetti insieme ai mariti.
+- La donna sposata romana, padrona di casa, era chiamata ___.
+- Quale attività domestica era considerata una virtù della matrona romana?
+- Chi era Livia?
+- Secondo un racconto famoso, Cornelia indicò i figli dicendo «Questi sono i miei gioielli». Che cosa voleva di…
+- In che cosa la vita di una donna romana era diversa da quella di una donna ateniese?
+- Confronta i diritti delle donne romane con quelli delle donne di oggi in Italia. Che cosa è cambiato?
+
 ## Le imprese di Alessandro Magno [lib-5-elementare-storia-alessandro-magno] · MAGNO
 concetti: Un giovane re; Le grandi conquiste; Unire i popoli; La morte e la divisione
 - Quanti anni aveva Alessandro quando diventò re di Macedonia?
@@ -320,6 +584,17 @@ concetti: Un giovane re; Le grandi conquiste; Unire i popoli; La morte e la divi
 - Perché Alessandro sposò una principessa persiana e incoraggiò i matrimoni tra Greci e Persiani?
 - Che cosa accadde all'impero di Alessandro dopo la sua morte?
 - Alessandro conquistò in pochi anni territori immensi. Secondo te, che cosa resta della sua impresa oltre alle…
+
+## Le leggi di Roma ci guidano ancora [lib-5-elementare-storia-diritto-romano] · LEGGE
+concetti: Perché scrivere le leggi; Le Dodici Tavole; Tribunali e avvocati; Un'eredità per l'Europa
+- Perché i plebei chiedevano che le leggi fossero scritte?
+- Le Dodici Tavole erano esposte nel ___, la piazza principale di Roma.
+- Nei processi romani gli imputati potevano essere difesi da un avvocato.
+- Quale imperatore fece raccogliere le leggi romane nel VI secolo d.C.?
+- Chi fu un famoso avvocato e oratore romano?
+- Che cosa cambiava per un plebeo con le leggi scritte?
+- Perché si dice che il diritto romano vive ancora oggi?
+- Spiega perché è importante, ancora oggi, che le leggi siano scritte e uguali per tutti. Collega la tua rispos…
 
 ## Le prime Olimpiadi della storia [lib-5-elementare-storia-olimpiadi] · STADIO
 concetti: Giochi in onore di Zeus; La tregua sacra; Atleti e gare; Dalle antiche alle moderne
@@ -342,6 +617,39 @@ concetti: La spedizione di Serse; Le Termopili; La battaglia di Salamina; La vit
 - Perché nello stretto di Salamina le navi greche ebbero la meglio?
 - Metti in ordine queste battaglie delle guerre persiane, dalla più antica alla più recente.
 - Dopo le guerre persiane molte città greche si unirono nella Lega di Delo. Perché decisero di allearsi e quale…
+
+## Le triremi, navi di Atene [lib-5-elementare-storia-triremi-flotta] · REMI
+concetti: Com'era una trireme; Lo speronamento; Temistocle e la flotta; Rematori e democrazia
+- Che cosa c'era sulla prua di una trireme per colpire le navi nemiche?
+- La trireme prendeva il nome dalle tre file di rematori per lato.
+- Temistocle fece costruire la flotta con l'argento delle miniere del ___.
+- Perché in una trireme era così importante che i rematori remassero tutti insieme?
+- Quale battaglia vinsero le triremi di Temistocle nel 480 a.C.?
+- Chi erano spesso i rematori delle triremi ateniesi?
+- Perché la flotta aumentò il peso politico dei cittadini poveri di Atene?
+- Immagina di essere a bordo di una trireme durante una battaglia. Descrivi come la nave attaccava il nemico.
+
+## Marco Aurelio, l'imperatore filosofo [lib-5-elementare-storia-marco-aurelio] · SAGGIO
+concetti: L'imperatore filosofo; I Pensieri; Guerre sul Danubio; La statua equestre
+- Perché Marco Aurelio è chiamato l'imperatore filosofo?
+- Marco Aurelio scrisse i suoi Pensieri in lingua greca.
+- Marco Aurelio combatté a lungo i popoli germanici lungo il fiume ___.
+- Perché la statua equestre di Marco Aurelio non fu fusa nel Medioevo, come molte altre?
+- Che cosa insegnava la filosofia stoica seguita da Marco Aurelio?
+- Dove scrisse molti dei suoi Pensieri Marco Aurelio?
+- Che cosa mostra la vita di Marco Aurelio?
+- Se potessi scrivere un «pensiero» come Marco Aurelio, per affrontare un momento difficile della tua giornata,…
+
+## Mario contro Silla [lib-5-elementare-storia-mario-silla] · SILLA
+concetti: Due capi rivali; La marcia su Roma; La guerra civile; Silla dittatore
+- Da chi era appoggiato Silla?
+- Silla fu il primo generale romano a entrare a Roma con il proprio esercito.
+- Una guerra tra cittadini dello stesso Stato si chiama guerra ___.
+- Che cos'erano le liste di proscrizione di Silla?
+- Perché i soldati seguirono Silla perfino contro Roma?
+- Metti in ordine questi fatti della crisi della Repubblica.
+- Che cosa fece Silla di sorprendente dopo alcuni anni di potere assoluto?
+- La marcia di Silla su Roma fu un pericoloso esempio per il futuro. Spiega perché, pensando a quello che fece …
 
 ## Metalli e commerci etruschi [lib-5-elementare-storia-etruschi-metalli-commerci] · FERRO
 concetti: Le miniere; Campi e bonifiche; Artigiani abili; Commercio sul mare
@@ -398,6 +706,28 @@ concetti: La legione; L'armamento; Disciplina e tattiche; L'accampamento
 - Una legione aveva circa 5000 soldati. Perché era utile dividerla in gruppi più piccoli?
 - L'esercito romano vinse spesso contro nemici più numerosi. Secondo te, quali caratteristiche lo rendevano cos…
 
+## Nerone e Roma in fiamme [lib-5-elementare-storia-nerone-incendio] · FIAMME
+concetti: Un giovane imperatore; Un artista sul trono; Il grande incendio; La Domus Aurea e la fine
+- Chi era il maestro e consigliere del giovane Nerone?
+- Gli storici sono sicuri che fu Nerone ad appiccare l'incendio del 64 d.C.
+- Dopo l'incendio Nerone fece costruire un'immensa reggia chiamata Domus ___.
+- Perché i senatori si scandalizzavano quando Nerone cantava in pubblico?
+- Quanti anni aveva Nerone quando diventò imperatore?
+- Perché la costruzione della Domus Aurea aumentò i sospetti su Nerone?
+- Come finì Nerone nel 68 d.C.?
+- Le fonti antiche su Nerone furono scritte soprattutto da senatori che lo odiavano. Perché uno storico deve fa…
+
+## Noci, trottole e bambole [lib-5-elementare-storia-giochi-bambini-romani] · NOCI
+concetti: Giocare con le noci; Giocattoli; Gli astragali; La bulla e la crescita
+- Qual era il gioco più diffuso tra i bambini romani?
+- I bambini romani avevano bambole e trottole.
+- I piccoli ossi di animale usati per giochi di abilità si chiamavano ___.
+- Che cos'era la bulla?
+- Che cosa significava per un ragazzo romano indossare la toga virile?
+- Che cosa voleva dire l'espressione latina «lasciare le noci»?
+- Quale di questi giochi romani somiglia di più a un gioco che fai anche tu?
+- Confronta i giochi dei bambini romani con i tuoi. Quali somiglianze trovi e perché, secondo te, alcuni giochi…
+
 ## Omero e la guerra di Troia [lib-5-elementare-storia-omero-troia] · CAVALLO
 concetti: La guerra di Troia; Iliade e Odissea; Omero e gli aedi; Mito e scoperte
 - Chi è il protagonista dell'Odissea, che viaggia per anni per tornare a Itaca?
@@ -408,6 +738,39 @@ concetti: La guerra di Troia; Iliade e Odissea; Omero e gli aedi; Mito e scopert
 - Di che cosa parla soprattutto l'Iliade?
 - Che cosa trovò l'archeologo Schliemann scavando in Turchia nell'Ottocento?
 - La guerra di Troia è un mito, eppure gli archeologi hanno trovato la città. Secondo te, i miti possono essere…
+
+## Orazi, Curiazi e Sabine [lib-5-elementare-storia-orazi-curiazi-sabine] · GEMELLI
+concetti: Il ratto delle Sabine; La pace con i Sabini; Orazi contro Curiazi; Leggenda e storia
+- Perché, secondo la leggenda, i Romani rapirono le donne sabine?
+- Le donne sabine si misero tra i due eserciti per fermare la guerra.
+- La sfida tra Orazi e Curiazi avvenne sotto il re ___.
+- Quanti fratelli combattevano per ciascuna parte nel duello tra Orazi e Curiazi?
+- Come vinse l'ultimo Orazio rimasto contro i tre Curiazi feriti?
+- Metti in ordine gli episodi della leggenda delle Sabine.
+- Quale fatto storico si nasconde dietro la leggenda delle Sabine?
+- Perché secondo te i Romani raccontavano ai figli storie come quella degli Orazi? Che cosa volevano insegnare?
+
+## Ostia, la porta di Roma sul mare [lib-5-elementare-storia-ostia-porto] · OSTIA
+concetti: Alla foce del Tevere; Il grano per Roma; Dal mare al fiume; I porti imperiali
+- Da quale parola latina viene il nome Ostia?
+- Gran parte del grano che sfamava Roma arrivava via mare.
+- I grandi magazzini dove si conservava il grano si chiamavano ___.
+- Come arrivavano le merci da Ostia fino a Roma?
+- Che forma aveva il bacino del porto di Traiano?
+- Da quali territori arrivava soprattutto il grano per Roma?
+- Perché per gli imperatori era così importante che il grano arrivasse regolarmente a Roma?
+- Segui il viaggio di un sacco di grano dall'Egitto fino alla tavola di una famiglia romana. Descrivi le tappe.
+
+## Parliamo greco senza saperlo [lib-5-elementare-storia-eredita-parole-greche] · RADICE
+concetti: Le parole della politica; Le parole della scienza; Sport e cultura; Pezzi di parola utili
+- Che cosa significa «democrazia» secondo la sua origine greca?
+- La parola «politica» viene da polis, il nome greco della città-stato.
+- «Geografia» significa «descrizione della ___».
+- «Telefono» unisce tele e fono. Che cosa significa?
+- Con quale strumento si vedono cose piccolissime, secondo il significato greco del nome?
+- La parola «museo» viene dalle Muse. Chi erano?
+- Un «cronometro» misura…
+- Scegli due parole italiane di origine greca (per esempio biologia, atleta, teatro) e spiega perché ci ricorda…
 
 ## Patrizi, plebei e famiglia romana [lib-5-elementare-storia-societa-romana] · PATER
 concetti: Il pater familias; I patrizi; Plebei e clienti; Gli schiavi
@@ -442,6 +805,28 @@ concetti: Una posizione favorevole; Il guado del Tevere; Villaggi sui colli; La 
 - Roma si trovava tra l'Etruria a nord e la Campania a sud. Che vantaggio le dava questa posizione?
 - Immagina di dover scegliere dove fondare un villaggio tremila anni fa. Quali vantaggi del luogo dove nacque R…
 
+## Pitagora e i suoi numeri [lib-5-elementare-storia-pitagora-crotone] · NUMERO
+concetti: Da Samo a Crotone; La scuola pitagorica; Tutto è numero; Un nome che resta
+- Dove era nato Pitagora?
+- Nella scuola di Pitagora potevano entrare anche le donne.
+- Quale strumento che usi a scuola porta il nome di Pitagora?
+- Il teorema di Pitagora riguarda i triangoli ___.
+- Che cosa scoprirono i pitagorici studiando le corde di uno strumento?
+- Che tipo di vita conducevano i pitagorici?
+- Che cosa voleva dire la frase pitagorica «tutto è numero»?
+- Spiega perché si può dire che Pitagora, vissuto più di 2500 anni fa, «entra» ancora nelle nostre lezioni.
+
+## Pompei sotto la cenere [lib-5-elementare-storia-pompei-vesuvio] · CENERE
+concetti: L'eruzione del 79 d.C.; Un testimone; Gli scavi; Una città fotografata
+- Quale vulcano distrusse Pompei?
+- Oltre a Pompei, l'eruzione del 79 d.C. seppellì anche Ercolano.
+- Nell'Ottocento gli archeologi versarono ___ nei vuoti lasciati dai corpi, ottenendo i calchi.
+- Chi descrisse l'eruzione in due lettere giunte fino a noi?
+- Quando iniziarono gli scavi di Pompei?
+- A che cosa servivano le grandi pietre poste di traverso nelle strade di Pompei?
+- Perché Pompei è una fonte così preziosa per gli storici?
+- Sui muri di Pompei si leggono annunci elettorali, pubblicità e scritte di persone comuni. Che cosa possiamo s…
+
 ## Popoli italici del Centro-Nord [lib-5-elementare-storia-popoli-italici-centro-nord] · CAMUNI
 concetti: Tanti popoli diversi; Liguri, Veneti e Camuni; Umbri, Piceni e Sabini; I Latini
 - In quale valle si trovano migliaia di incisioni rupestri lasciate dai Camuni?
@@ -463,6 +848,83 @@ concetti: I Sanniti; Lucani, Bruzi e Apuli; I popoli della Sicilia; Incontro con
 - Che cosa accadde quando i popoli del Sud incontrarono i coloni greci?
 - Perché per Roma fu così difficile sconfiggere i Sanniti?
 - I Lucani conquistarono la città greca di Poseidonia (Paestum), ma continuarono a usarne i templi e a decorare…
+
+## Ripasso: Atene e Sparta a confronto [lib-5-elementare-storia-ripasso-atene-sparta] · POLIS
+concetti: Due governi; Due educazioni; Due modi di vivere; Le donne
+- Quale forma di governo aveva Atene ai tempi di Pericle?
+- Sparta era governata da due re insieme ad altri magistrati e a un consiglio di anziani.
+- A Sparta i bambini venivano educati dallo Stato a partire dai ___ anni.
+- Chi lavorava la terra a Sparta?
+- Su che cosa si basava soprattutto la forza di Atene?
+- In che cosa le donne spartane erano diverse da quelle ateniesi?
+- Perché a Sparta l'educazione era così centrata sulla guerra?
+- Se fossi un ragazzo o una ragazza dell'antica Grecia, preferiresti vivere ad Atene o a Sparta? Motiva la scel…
+
+## Ripasso: chi ha fatto che cosa? [lib-5-elementare-storia-ripasso-personaggi] · EROI
+concetti: Personaggi greci; Nemici di Roma; Protagonisti romani; La fine
+- Chi guidò gli Spartani nella battaglia delle Termopili?
+- Annibale attraversò le Alpi con un esercito che comprendeva degli elefanti.
+- Nel 313 l'imperatore ___ diede ai cristiani la libertà di culto.
+- Chi guidò la grande rivolta degli schiavi contro Roma?
+- Metti in ordine questi personaggi dal più antico al più recente.
+- Chi depose l'ultimo imperatore romano d'Occidente nel 476?
+- Quale personaggio collegheresti alla conquista della Gallia?
+- Scegli un personaggio di questa missione che secondo te ha cambiato di più la storia e spiega perché.
+
+## Ripasso: dodici secoli di Roma [lib-5-elementare-storia-ripasso-linea-tempo-roma] · SECOLI
+concetti: L'età dei re; La Repubblica; L'Impero; La fine dell'Occidente
+- Quale forma di governo ebbe Roma per prima?
+- La Repubblica romana nacque nel 509 a.C., dopo la cacciata dell'ultimo re.
+- Il primo imperatore di Roma fu ___.
+- Metti in ordine questi momenti della storia di Roma.
+- In quale periodo Roma conquistò Cartagine e la Grecia?
+- Sotto quale imperatore l'impero raggiunse la sua massima estensione?
+- Perché il 476 d.C. è considerato una data simbolica?
+- Riassumi in tre frasi le tre grandi fasi della storia di Roma, indicando per ciascuna una data e un fatto imp…
+
+## Ripasso: Greci e Romani a confronto [lib-5-elementare-storia-ripasso-greci-romani] · GIOVE
+concetti: Gli stessi dei, nomi diversi; Città divise e Stato unico; Lingue e alfabeti; Che cosa ci hanno lasciato
+- Come chiamavano i Romani la dea greca Afrodite?
+- I Greci formarono un unico Stato con una sola capitale, come i Romani.
+- Il dio greco del mare Poseidone per i Romani era ___.
+- Quale lingua restò la più parlata nella parte orientale dell'impero romano?
+- Quale di queste eredità viene soprattutto dai Romani?
+- Quale di queste eredità viene soprattutto dai Greci?
+- Perché i Greci, pur divisi in tante polis, si sentivano un unico popolo?
+- Scrivi una frase su un'eredità dei Greci e una su un'eredità dei Romani che usi nella tua vita di tutti i gio…
+
+## Ripasso: l'Italia prima di Roma [lib-5-elementare-storia-ripasso-popoli-italia] · ITALIA
+concetti: Al Nord; Al Centro; Al Sud; Le isole
+- Quale popolo è famoso per le incisioni sulle rocce della Val Camonica?
+- La civiltà dei nuraghi si sviluppò in Sardegna.
+- Roma fu fondata dai ___, un popolo che viveva nel Lazio.
+- Dove vivevano i Sanniti?
+- In quali regioni vivevano soprattutto gli Etruschi?
+- Come si chiamava l'insieme delle colonie greche dell'Italia meridionale?
+- Quale popolo occupò la pianura padana dal IV secolo a.C.?
+- Roma riuscì a unificare un'Italia abitata da popoli così diversi. Quali difficoltà pensi che abbia incontrato…
+
+## Ripasso: la Grecia dall'inizio alla fine [lib-5-elementare-storia-ripasso-storia-greca] · EGEO
+concetti: Le civiltà egee; L'età arcaica; L'età classica; L'età ellenistica
+- Quale fu la prima grande civiltà del mondo greco?
+- Le polis nacquero dopo il periodo chiamato Medioevo ellenico.
+- I regni nati dalla divisione dell'impero di Alessandro si chiamano regni ___.
+- Metti in ordine i periodi della storia greca.
+- In quale secolo Atene visse il suo periodo d'oro con Pericle?
+- Quale regno unì la Grecia sotto il suo controllo nel IV secolo a.C.?
+- Perché i Greci dell'età arcaica fondarono colonie lontane?
+- Spiega perché il V secolo a.C. è considerato l'età d'oro della Grecia, facendo almeno due esempi.
+
+## Ripasso: le grandi battaglie antiche [lib-5-elementare-storia-ripasso-grandi-battaglie] · SCONTRO
+concetti: Greci contro Persiani; Alessandro contro Dario; Roma contro Cartagine; Battaglie dell'età di Augusto
+- Chi vinse la battaglia di Maratona?
+- A Canne Annibale sconfisse duramente l'esercito romano.
+- A Zama, nel 202 a.C., Annibale fu sconfitto da ___.
+- Metti in ordine queste battaglie dalla più antica alla più recente.
+- Quale fu una grande battaglia navale?
+- Quale battaglia portò l'Egitto sotto il controllo di Roma?
+- Che cosa hanno in comune Maratona e Teutoburgo?
+- Scegli una delle battaglie di questa missione e spiega quali conseguenze ebbe nella storia.
 
 ## Roma conquista l'Italia [lib-5-elementare-storia-conquista-italia] · PIRRO
 concetti: Etruschi e Galli; Le guerre sannitiche; Pirro e Taranto; Governare l'Italia
@@ -497,6 +959,39 @@ concetti: Enea, l'antenato; I gemelli e la lupa; La fondazione; Leggenda e stori
 - Sul Palatino gli archeologi hanno trovato i resti di capanne molto antiche. Che cosa dimostra questa scoperta?
 - Perché, secondo te, i Romani raccontavano di discendere da un eroe troiano e dal dio Marte?
 
+## Saturnali e altre feste romane [lib-5-elementare-storia-feste-romane] · FESTA
+concetti: I Saturnali; Il mondo alla rovescia; Il Natale di Roma; Il trionfo
+- In onore di quale dio si celebravano i Saturnali?
+- Durante i Saturnali ci si scambiavano piccoli regali.
+- Il Natale di Roma si festeggia ancora oggi il 21 ___.
+- In quale mese si celebravano i Saturnali?
+- Perché i Saturnali sono descritti come un «mondo alla rovescia»?
+- Che cos'era il trionfo?
+- Secondo la tradizione, durante il trionfo uno schiavo ripeteva al generale di ricordarsi che era un uomo. Per…
+- Alcune usanze dei Saturnali, come i regali e i banchetti di fine anno, ricordano le nostre feste di dicembre.…
+
+## Siracusa, la polis di Archimede [lib-5-elementare-storia-siracusa-archimede] · EUREKA
+concetti: Una grande polis di Sicilia; Siracusa contro i nemici; Archimede scienziato; L'assedio romano
+- In quale isola si trova Siracusa?
+- Siracusa fu fondata da coloni greci provenienti da ___.
+- Ad Archimede è attribuita l'esclamazione «Eureka!», che significa «Ho trovato!».
+- Quale di questi studi è legato ad Archimede?
+- Che cosa accadde alla spedizione ateniese contro Siracusa nel 413 a.C.?
+- Ordina questi fatti della storia di Siracusa dal più antico al più recente.
+- Perché i Romani assediarono Siracusa durante la seconda guerra punica?
+- Secondo la tradizione, le macchine di Archimede tennero a lungo lontani i Romani da Siracusa. Che cosa ci dic…
+
+## Solone libera gli Ateniesi [lib-5-elementare-storia-solone-riforme] · DEBITI
+concetti: Atene degli aristocratici; La schiavitù per debiti; Le riforme di Solone; Dopo Solone
+- Che cosa decise Solone per aiutare i contadini indebitati?
+- Le leggi di Dracone erano famose per essere molto dolci e indulgenti.
+- Che cosa poteva succedere a un contadino che non restituiva un prestito, prima di Solone?
+- Solone divise i cittadini in quattro classi in base alla ___, non più alla famiglia di nascita.
+- Metti in ordine dal più antico al più recente questi fatti della storia di Atene.
+- Perché Clistene mescolò nelle dieci tribù abitanti della città, della costa e dell'interno?
+- Perché i contadini ateniesi chiedevano un cambiamento nel VII secolo a.C.?
+- Perché le riforme di Solone furono un passo importante verso la democrazia? Spiegalo con parole tue.
+
 ## Sparta, una città di soldati [lib-5-elementare-storia-sparta] · SCUDO
 concetti: Sparta e i suoi abitanti; L'educazione spartana; Il governo di Sparta; Una vita sobria
 - A quale età i bambini spartani lasciavano la famiglia per essere educati dallo Stato?
@@ -530,6 +1025,28 @@ concetti: Feste per Dioniso; Tragedia e commedia; Attori e maschere; L'edificio 
 - Quale di questi autori scriveva commedie?
 - Il teatro era un grande evento per tutta la città di Atene. Spiega perché andare a teatro era importante per …
 
+## Tavolette, papiri e pergamene [lib-5-elementare-storia-scrivere-romani] · STILO
+concetti: Tavolette di cera; Papiro e pergamena; Dal rotolo al libro; Scritte sulla pietra
+- Con che cosa si scriveva sulle tavolette di cera?
+- Il papiro arrivava soprattutto dall'Egitto.
+- La ___ era un materiale per scrivere fatto con pelle di animale lavorata.
+- Perché le tavolette di cera erano comode per gli scolari?
+- Che forma avevano i libri più antichi dei Romani?
+- Perché il codice, cioè il libro a pagine, era più pratico del rotolo?
+- Che cos'è un'epigrafe?
+- Perché molte epigrafi sono arrivate fino a noi, mentre quasi tutti i rotoli di papiro sono andati perduti?
+
+## Tiberio, Caligola e Claudio [lib-5-elementare-storia-giulio-claudi] · CALIGA
+concetti: Gli eredi di Augusto; Tiberio; Caligola; Claudio
+- Chi fu il primo successore di Augusto?
+- Il soprannome Caligola viene dagli stivaletti dei soldati.
+- Sotto l'imperatore Claudio iniziò la conquista della ___.
+- Su quale isola Tiberio trascorse gli ultimi anni di regno?
+- Come finì il regno di Caligola?
+- Metti in ordine questi imperatori della famiglia di Augusto.
+- Perché Claudio fece costruire un nuovo grande porto vicino a Ostia?
+- Augusto aveva scelto il successore all'interno della sua famiglia. Quali vantaggi e quali rischi aveva questo…
+
 ## Un giorno nell'antica Grecia [lib-5-elementare-storia-vita-in-grecia] · ANFORA
 concetti: La casa e la famiglia; La scuola; Cibo e vestiti; Simposio e lavoro
 - Chi accompagnava a scuola i ragazzi ateniesi?
@@ -551,6 +1068,39 @@ concetti: La crisi del III secolo; La tetrarchia; Costantinopoli; La divisione d
 - Perché Costantino scelse di costruire la nuova capitale in Oriente?
 - Metti in ordine le tappe che portarono alla divisione dell'impero.
 - Dopo il 395 l'Impero d'Oriente sopravvisse per secoli, quello d'Occidente cadde molto prima. Sapendo che l'Or…
+
+## Una fattoria romana: la villa rustica [lib-5-elementare-storia-villa-rustica] · TORCHIO
+concetti: Un'azienda in campagna; Chi ci lavorava; Che cosa si produceva; Libri di agricoltura
+- Che cos'era una villa rustica?
+- Nelle ville rustiche il lavoro era svolto soprattutto da schiavi.
+- Olio e vino si conservavano in grandi giare di terracotta chiamate ___.
+- A che cosa serviva il torchio nella villa rustica?
+- Chi era il vilicus?
+- Quale autore romano scrisse un manuale per gestire una fattoria?
+- Perché una villa rustica cercava di produrre olio e vino in grande quantità?
+- Descrivi una giornata nella villa rustica durante la raccolta delle olive: chi lavorava, che cosa si faceva e…
+
+## Una passeggiata nel Foro [lib-5-elementare-storia-foro-romano] · CURIA
+concetti: Il cuore di Roma; Politica e giustizia; Templi e Via Sacra; Archi di trionfo
+- Che cos'era il Foro per i Romani?
+- La valle del Foro in origine era una zona paludosa.
+- Il Senato si riuniva nella ___, un edificio del Foro.
+- A che cosa servivano le basiliche romane del Foro?
+- Che cosa erano i Rostri?
+- Nel tempio di Saturno, nel Foro, che cosa si custodiva?
+- Perché i Romani costruivano archi di trionfo nel Foro?
+- Immagina di passeggiare nel Foro in un giorno qualsiasi. Racconta che cosa vedresti e chi incontreresti.
+
+## Vespasiano e Tito, i Flavi [lib-5-elementare-storia-vespasiano-tito] · FLAVI
+concetti: L'anno dei quattro imperatori; Vespasiano; Tito e Gerusalemme; Il breve regno di Tito
+- Come si chiamava la dinastia fondata da Vespasiano?
+- Vespasiano mise una tassa anche sulle latrine pubbliche.
+- Il 69 d.C. è detto l'anno dei ___ imperatori.
+- Quale città conquistò Tito nel 70 d.C.?
+- Quale famoso edificio di Roma fece iniziare Vespasiano?
+- Quale grande disastro avvenne durante il regno di Tito?
+- Perché Vespasiano fece costruire il Colosseo dove prima c'era una parte della Domus Aurea di Nerone?
+- L'arco di Tito celebra una vittoria romana, ma per il popolo ebraico ricorda una tragedia. Che cosa ci insegn…
 
 ## Vivere a Roma ai tempi dell'impero [lib-5-elementare-storia-vita-quotidiana-roma] · DOMUS
 concetti: Domus e insulae; Cibo e pasti; Vestiti; La scuola

@@ -1,5 +1,5 @@
-# 1ª media · Italiano: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# 1ª media · Italiano: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Aedi, epiteti e poemi epici [lib-1-media-italiano-caratteristiche-dell-epica] · AEDO
@@ -79,6 +79,17 @@ concetti: Che cos'è l'avverbio; Avverbi di modo; Avverbi di luogo e di tempo; Q
 - Come si forma l'avverbio di modo da «facile»?
 - Come cambia il significato di «Luca ha studiato» se aggiungi un avverbio? Fai due esempi con avverbi diversi.
 
+## Baciata, alternata, incrociata [lib-1-media-italiano-le-rime] · RIMA
+concetti: Che cos'è la rima; Rima baciata; Rima alternata; Rima incrociata e verso libero
+- Quale parola fa rima con «cuore»?
+- Due parole fanno rima quando hanno uguali i suoni a partire dall'ultima vocale accentata.
+- Lo schema AABB indica la rima:
+- Lo schema ABAB indica la rima ___.
+- Quale schema corrisponde alla rima incrociata?
+- Ultime parole di quattro versi: «sole / mare / viole / andare». Che rima c'è?
+- Che cosa sono i versi liberi?
+- Perché la rima rende una filastrocca o una poesia più facile da ricordare?
+
 ## C'era una volta: la fiaba [lib-1-media-italiano-fiaba] · MAGIA
 concetti: Caratteristiche della fiaba; Tempo, luogo e formule; Personaggi tipici; Autori e raccolte
 - Con quale formula comincia di solito una fiaba?
@@ -89,6 +100,28 @@ concetti: Caratteristiche della fiaba; Tempo, luogo e formule; Personaggi tipici
 - Quale scrittore italiano ha raccolto e riscritto le «Fiabe italiane» nel 1956?
 - Da dove vengono, in origine, le fiabe popolari?
 - Inventa la prima e l'ultima frase di una fiaba usando le formule tipiche, e spiega perché nelle fiabe il temp…
+
+## Cappuccetto Rosso: due finali [lib-1-media-italiano-cappuccetto-rosso-versioni] · LUPO
+concetti: La trama comune; La versione di Perrault; La versione dei Grimm; Perché le fiabe cambiano
+- Chi incontra Cappuccetto Rosso nel bosco?
+- Nella versione di Perrault la fiaba finisce male: il lupo mangia Cappuccetto Rosso.
+- Nella versione dei fratelli Grimm, chi salva Cappuccetto e la nonna?
+- Charles Perrault, che pubblicò la sua versione nel 1697, era ___.
+- Ordina gli eventi comuni alle due versioni.
+- Che cosa mettono nella pancia del lupo nella versione dei Grimm?
+- Perché esistono versioni diverse della stessa fiaba?
+- Perrault chiude la fiaba con una morale rivolta alle ragazze. Quale insegnamento vuole dare e perché sceglie …
+
+## Caro diario, ti scrivo [lib-1-media-italiano-il-diario] · DIARIO
+concetti: Che cos'è il diario; Data e destinatario; Prima persona ed emozioni; Il diario di Anna Frank
+- Che cos'è un diario personale?
+- Il diario si scrive di solito in prima persona.
+- Che cosa si scrive di solito all'inizio di ogni pagina di diario?
+- Anna Frank scrisse il suo diario mentre si nascondeva dai ___ ad Amsterdam.
+- Anna Frank scriveva al suo diario come a un'amica. Come la chiamava?
+- Quale frase è tipica di un diario?
+- Perché molti scrivono «Caro diario» all'inizio?
+- Perché scrivere un diario può aiutare a capire meglio le proprie emozioni?
 
 ## Che, cui, il quale [lib-1-media-italiano-pronomi-relativi] · PONTE
 concetti: Un doppio lavoro; Il pronome che; Il pronome cui; Il quale
@@ -112,6 +145,17 @@ concetti: Autore e narratore; Narratore esterno; Narratore interno; Onnisciente 
 - Perché un narratore interno non può sapere con certezza che cosa pensano gli altri personaggi?
 - Riscrivi «Io aprii la scatola e trovai un gattino» con un narratore esterno e spiega che cosa è cambiato.
 
+## Chi? Che cosa? Quale? [lib-1-media-italiano-pronomi-interrogativi-esclamativi] · DOMANDA
+concetti: Pronomi interrogativi; Domande dirette e indirette; Pronomi esclamativi; Pronome o aggettivo
+- Quale pronome interrogativo si usa solo per le persone?
+- In «Quale libro preferisci?», «quale» è:
+- «Dimmi chi ha telefonato» è una domanda indiretta e non vuole il punto interrogativo.
+- Nella frase «Quanti sono venuti!», «quanti» è un pronome ___.
+- In quale frase «che» è un pronome interrogativo?
+- Quale pronome interrogativo chiede una quantità?
+- Quale di queste frasi contiene una domanda indiretta?
+- Come distingui «Quale vuoi?» da «Quale gusto vuoi?»: in quale frase «quale» è pronome e in quale è aggettivo?
+
 ## Congiunzioni: parole che uniscono [lib-1-media-italiano-congiunzioni] · UNIRE
 concetti: A che cosa servono; Congiunzioni coordinanti; Congiunzioni subordinanti; Il tipo di legame
 - Nella frase «Mangio una mela e una pera», qual è la congiunzione?
@@ -122,6 +166,28 @@ concetti: A che cosa servono; Congiunzioni coordinanti; Congiunzioni subordinant
 - In «Resto a casa perché ho la febbre», che cosa indica «perché»?
 - Quale frase usa la congiunzione più logica?
 - Spiega la differenza tra «Esco e vado al parco» ed «Esco quando smette di piovere», pensando al tipo di congi…
+
+## Dedalo e Icaro in volo [lib-1-media-italiano-dedalo-e-icaro] · PIUME
+concetti: Dedalo l'inventore; Prigionia e fuga; Il volo e la caduta; Il significato
+- Che cosa costruì Dedalo per il re Minosse a Creta?
+- Dedalo raccomandò a Icaro di non volare né troppo in alto né troppo in basso.
+- Con che cosa Dedalo fabbricò le ali?
+- Ordina gli eventi del mito.
+- Avvicinandosi al sole, la ___ che teneva unite le piume si sciolse.
+- Che tipo di personaggio è Dedalo?
+- Quale insegnamento si ricava dalla storia di Icaro?
+- Perché Dedalo decise di fuggire volando invece che per mare o per terra?
+
+## Descrivere con i cinque sensi [lib-1-media-italiano-la-descrizione] · QUADRO
+concetti: Descrizione oggettiva; Descrizione soggettiva; L'ordine della descrizione; I cinque sensi
+- Quale frase è una descrizione oggettiva?
+- Nella descrizione soggettiva chi descrive esprime emozioni e giudizi personali.
+- Quale ordine segue «In primo piano c'era un lago, più in là un bosco e sullo sfondo le montagne»?
+- «Il profumo del pane appena sfornato» è un dato percepito con l'___.
+- Quale frase usa il senso del tatto?
+- Ordina le parti del viso da descrivere seguendo l'ordine dall'alto verso il basso.
+- In quale testo serve soprattutto una descrizione oggettiva?
+- Riscrivi in modo soggettivo la frase oggettiva «Il bosco è formato da alti pini» e spiega che cosa hai aggiun…
 
 ## Digrammi e trigrammi senza errori [lib-1-media-italiano-digrammi-trigrammi] · GNOMO
 concetti: I digrammi; I trigrammi; Sce o scie?; Gn senza i
@@ -156,6 +222,28 @@ concetti: Il dittongo; Il trittongo; Lo iato; Come riconoscere lo iato
 - Quante sillabe ha la parola «aereo»?
 - Qual è la differenza tra dittongo e iato? Fai un esempio per ciascuno.
 
+## Dovere, potere, volere [lib-1-media-italiano-verbi-servili] · DOVERE
+concetti: I verbi servili; Servile + infinito; L'ausiliare dei servili; Servile o verbo pieno
+- Quale di questi è un verbo servile?
+- Un verbo servile è seguito di solito da un verbo all'infinito.
+- In «Voglio leggere quel libro», qual è il verbo servile?
+- In «Devo studiare», il verbo servile esprime un ___.
+- In quale frase «volere» è usato come verbo pieno, senza infinito?
+- Quale forma è corretta?
+- Perché in «Marco sa nuotare» il verbo «sapere» funziona come servile?
+- Spiega la differenza tra «Posso uscire?» e «Devo uscire»: che cosa cambia grazie al verbo servile?
+
+## Enea nel regno dei morti [lib-1-media-italiano-enea-nell-oltretomba] · SIBILLA
+concetti: La Sibilla e il ramo d'oro; Il viaggio nell'oltretomba; L'incontro con Didone; Anchise e Roma
+- Chi guida Enea nel regno dei morti?
+- Per entrare nell'oltretomba Enea deve cogliere un ramo d'oro.
+- Chi è il traghettatore delle anime?
+- Il cane a tre teste che fa la guardia all'oltretomba si chiama ___.
+- Come si comporta Didone quando Enea le parla?
+- Dove incontra Enea il padre Anchise?
+- Perché l'incontro con Anchise è decisivo per Enea?
+- Perché, secondo te, Didone non risponde a Enea nell'oltretomba? Che cosa esprime il suo silenzio?
+
 ## Enea, da Troia al Lazio [lib-1-media-italiano-eneide] · PIETAS
 concetti: Virgilio e l'Eneide; Il viaggio di Enea; Didone e Turno; Il pio Enea
 - Chi ha scritto l'Eneide?
@@ -189,6 +277,28 @@ concetti: I ruoli; La caratterizzazione; Diretta e indiretta; Statici e dinamici
 - Quale di questi personaggi è dinamico?
 - Pensa a una storia che conosci (libro, film o fiaba): indica protagonista, antagonista e un aiutante, e spieg…
 
+## Esploratori del dizionario [lib-1-media-italiano-uso-del-dizionario] · LEMMA
+concetti: Ordine alfabetico; Il lemma e la forma base; Le informazioni della voce; Le accezioni
+- Metti queste parole in ordine alfabetico, come nel dizionario.
+- Per capire che cosa significa «andavamo», quale parola cerchi sul dizionario?
+- Sotto quale forma trovi sul dizionario l'aggettivo «belle»?
+- L'abbreviazione «s.m.» accanto a una parola significa «sostantivo maschile».
+- I diversi significati di una stessa parola, numerati nel dizionario, si chiamano ___.
+- Nel dizionario, quale parola viene prima?
+- Il dizionario dà per «corrente»: 1. flusso d'acqua; 2. flusso di elettricità; 3. spiffero d'aria; 4. tendenza…
+- Perché, quando cerchi una parola sul dizionario, non basta leggere il primo significato?
+
+## Eurialo e Niso, amici eroi [lib-1-media-italiano-eurialo-e-niso] · AMICO
+concetti: Chi sono; La sortita notturna; La morte dei due amici; Il valore dell'amicizia
+- Chi erano Eurialo e Niso?
+- Eurialo e Niso escono di notte per andare ad avvisare Enea, che si trova lontano dal campo.
+- Chi assedia il campo dei Troiani in quel momento?
+- Eurialo viene scoperto perché un ___ luccicante, preso a un nemico, brilla alla luce della luna.
+- Ordina gli eventi dell'episodio.
+- Perché Niso torna indietro invece di mettersi in salvo?
+- Quale errore commettono i due giovani durante la sortita?
+- Virgilio promette ai due amici fama eterna. Che cosa ammiri e che cosa critichi nel loro comportamento?
+
 ## Fabula, intreccio e flashback [lib-1-media-italiano-fabula-e-intreccio] · ORDINE
 concetti: La fabula; L'intreccio; Il flashback; L'anticipazione
 - Che cos'è la fabula di un racconto?
@@ -199,6 +309,61 @@ concetti: La fabula; L'intreccio; Il flashback; L'anticipazione
 - Durante una gara di nuoto, Sara ripensa al giorno in cui, da bambina, il nonno le insegnò a nuotare. Questa t…
 - Perché un autore può decidere di cominciare un giallo dalla scoperta del delitto?
 - Spiega con parole tue la differenza tra fabula e intreccio.
+
+## Famiglie e campi di parole [lib-1-media-italiano-famiglie-di-parole-campo-semantico] · CAMPO
+concetti: Famiglia di parole; Campo semantico; Generale e particolare
+- Quale parola appartiene alla famiglia di «mare»?
+- Quale parola appartiene al campo semantico della scuola ma NON alla famiglia di «scuola»?
+- «Pane», «panettiere» e «panino» appartengono alla stessa famiglia di parole.
+- «Fiore» è un iperonimo, cioè una parola più ___ di «rosa».
+- Qual è l'iperonimo di «calcio, tennis, nuoto»?
+- Quale parola è estranea al campo semantico della cucina?
+- «Pesca» (il frutto) e «pescatore» appartengono alla stessa famiglia di parole.
+- Se devi scrivere un testo sull'inverno, perché ti conviene preparare prima un elenco di parole del suo campo …
+
+## Formale o informale? [lib-1-media-italiano-registri-linguistici] · TONO
+concetti: Che cos'è il registro; Registro formale; Registro informale; Scegliere il registro giusto
+- Quale saluto è informale?
+- Nel registro formale si dà del «lei» alla persona con cui si parla.
+- Che cos'è il registro linguistico?
+- Per scrivere al preside userai un registro ___.
+- In quale situazione è adatto dire «Ehi, che si dice?»
+- Quale frase è la versione formale di «Mi passi il libro?»
+- Perché usare il registro sbagliato può creare problemi?
+- Riscrivi in registro formale il messaggio «Prof, domani non vengo, c'ho la febbre» e spiega che cosa hai camb…
+
+## Giallo, fantasy o fantascienza? [lib-1-media-italiano-generi-narrativi] · GIALLO
+concetti: Il genere narrativo; Avventura e fantasy; Giallo e horror; Fantascienza e realistico
+- In quale genere ci sono di solito un delitto e un investigatore che scopre il colpevole?
+- Un racconto ambientato su un'astronave nell'anno 3000, con robot e viaggi spaziali, appartiene al genere:
+- Un genere narrativo è un gruppo di testi con caratteristiche simili per temi, personaggi e ambienti.
+- Il genere che vuole suscitare paura e angoscia nel lettore si chiama ___.
+- Quale elemento è tipico del fantasy?
+- Perché «L'isola del tesoro» di Stevenson è un romanzo d'avventura?
+- Che cosa distingue il racconto realistico dal fantasy?
+- Scegli un libro o un film che conosci e spiega a quale genere appartiene, indicando almeno due caratteristich…
+
+## Gli dèi dell'Olimpo [lib-1-media-italiano-dei-dell-olimpo] · OLIMPO
+concetti: L'Olimpo e Zeus; Gli ambiti degli dèi; Nomi greci e latini; Dèi simili agli uomini
+- Chi era il re degli dèi dell'Olimpo?
+- Di quale ambito era dio Poseidone?
+- Il dio greco Ares corrisponde al dio romano Marte.
+- Atena era la dea della ___ e delle arti.
+- Come si chiamava la dea Afrodite per i Romani?
+- Quale dio aveva le ali ai piedi e portava i messaggi di Zeus?
+- Perché si dice che gli dèi greci erano antropomorfi?
+- Gli dèi greci litigavano, erano gelosi e si vendicavano. Perché, secondo te, i Greci li immaginavano così sim…
+
+## Glielo, me lo, te ne [lib-1-media-italiano-pronomi-combinati] · GLIELO
+concetti: Che cosa sono; Mi, ti, ci, vi cambiano; Glielo e gliela; La posizione
+- In «Te lo regalo», quanti pronomi ci sono?
+- Come sostituisci «il libro a Marco» in «Do il libro a Marco»?
+- Quando «mi» si unisce a «lo» diventa «me», come in «Me lo dici?».
+- Luca vuole la penna: ___ presto io.
+- Quale forma dell'imperativo è scritta correttamente?
+- Hai bisogno di soldi? ___ presto un po'. Quale forma è corretta?
+- In «Voglio raccontartelo», dove si trovano i pronomi?
+- Spiega perché «Glielo dico» può voler dire sia «lo dico a lui» sia «lo dico a lei».
 
 ## I segni della punteggiatura [lib-1-media-italiano-punteggiatura] · VIRGOLA
 concetti: Punti che chiudono la frase; La virgola; Punto e virgola e due punti; Virgolette e maiuscole
@@ -221,6 +386,28 @@ concetti: Il poema del ritorno; La Telemachia; Il racconto ai Feaci; La vendetta
 - Chi sono i Proci?
 - Metti in ordine questi momenti del ritorno a Itaca.
 - Penelope mette alla prova Ulisse prima di credere che sia davvero lui. Perché, secondo te, è così prudente?
+
+## Il lupo e l'agnello [lib-1-media-italiano-il-lupo-e-l-agnello] · AGNELLO
+concetti: La trama; I personaggi simbolo; Le false accuse; La morale
+- Dove si trovano il lupo e l'agnello all'inizio della favola?
+- Il lupo beve più in alto lungo il ruscello, mentre l'agnello beve più in basso.
+- Che cosa rappresenta il lupo in questa favola?
+- L'agnello risponde che non può sporcare l'acqua al lupo, perché l'acqua scorre dal lupo ___ di lui.
+- Quando il lupo dice che l'agnello ha parlato male di lui sei mesi prima, che cosa risponde l'agnello?
+- Ordina le accuse e le azioni del lupo.
+- Quale morale ricavi dalla favola?
+- Perché le risposte intelligenti dell'agnello non servono a salvarlo? Che cosa ci dice questo sul lupo?
+
+## Il ritmo del racconto [lib-1-media-italiano-tempo-della-storia-e-del-racconto] · RITMO
+concetti: Storia e racconto; Scena e sommario; L'ellissi; La pausa
+- Quando un dialogo è riportato parola per parola, il racconto dura quanto la storia. Come si chiama questa tec…
+- Nell'ellissi il narratore salta del tutto un periodo di tempo, senza raccontarlo.
+- «Per tutta l'estate lavorò nei campi e la sera tornava stanco» è un esempio di:
+- Quando il narratore si ferma a descrivere un paesaggio e la storia non avanza, si ha una ___.
+- Che cos'è il tempo della storia?
+- Leggi: «Si addormentò. Il mattino dopo, la casa era vuota.» Che cosa c'è tra le due frasi?
+- Un romanzo racconta in 300 pagine una sola giornata. Che cosa puoi dire del suo ritmo?
+- Perché uno scrittore di gialli potrebbe inserire una lunga pausa descrittiva proprio prima della scoperta del…
 
 ## Il, lo, la: gli articoli [lib-1-media-italiano-articoli-determinativi-indeterminativi] · ARTO
 concetti: Articolo determinativo; Articolo indeterminativo; Quando si usa lo; Articolo e nomi geografici
@@ -255,6 +442,17 @@ concetti: Al posto del nome; Pronomi soggetto; Pronomi complemento; Gli o le?
 - Nella frase «Vieni con me», «me» è...
 - Riscrivi «Sara ha un cane. Sara porta il cane al parco» usando i pronomi, e spiega a che cosa servono.
 
+## L'arte del riassunto [lib-1-media-italiano-il-riassunto] · BREVE
+concetti: Che cos'è il riassunto; Principali e secondarie; Le fasi del riassunto; Terza persona e discorso indiretto
+- Che cos'è un riassunto?
+- Nel riassunto i dialoghi si trasformano di solito in discorso indiretto.
+- Riassumendo «Cappuccetto Rosso», quale informazione puoi eliminare?
+- Ordina le fasi per fare un buon riassunto.
+- Il riassunto si scrive di solito in ___ persona, anche se il racconto è in prima.
+- Che cosa sono le informazioni principali di un testo?
+- Perché nel riassunto non devi inserire commenti personali?
+- Un compagno ha riassunto un racconto di 3 pagine in 3 pagine, copiando molte frasi. Che consigli gli daresti?
+
 ## L'Iliade e l'ira di Achille [lib-1-media-italiano-iliade-trama] · ILIO
 concetti: Il poema di Troia; Le cause della guerra; L'ira di Achille; La svolta e la fine
 - Chi rapì Elena, dando origine alla guerra di Troia?
@@ -265,6 +463,17 @@ concetti: Il poema di Troia; Le cause della guerra; L'ira di Achille; La svolta 
 - A quale poeta greco è tradizionalmente attribuita l'Iliade?
 - Metti in ordine questi fatti dell'Iliade.
 - Il poema si chiude con Priamo che va da Achille a chiedere il corpo del figlio. Perché questa scena è così fa…
+
+## L'inganno del cavallo di legno [lib-1-media-italiano-cavallo-di-troia] · CAVALLO
+concetti: L'idea di Ulisse; L'inganno di Sinone; Laocoonte; La caduta di Troia
+- Chi ebbe l'idea del cavallo di legno?
+- La storia del cavallo di Troia è raccontata nell'Iliade.
+- Che cosa c'era dentro il cavallo?
+- Il sacerdote troiano che mise in guardia i suoi dal cavallo si chiamava ___.
+- Chi era Sinone?
+- Ordina gli eventi della caduta di Troia.
+- Perché i Troiani pensarono che Laocoonte avesse sbagliato?
+- Oggi in informatica si chiama «cavallo di Troia» un tipo di programma dannoso. Spiega perché questo nome è ad…
 
 ## La favola e la sua morale [lib-1-media-italiano-favola] · MORALE
 concetti: Caratteristiche della favola; La morale; Animali come simboli; I grandi favolisti
@@ -288,6 +497,28 @@ concetti: La h del verbo avere; La h nei digrammi; La h nelle esclamazioni; Il t
 - Nella frase «L'anno prossimo andrò in Francia» la parola «anno» vuole la h.
 - Spiega come fai a decidere se scrivere «o» oppure «ho».
 
+## La musica delle parole [lib-1-media-italiano-onomatopea-allitterazione-anafora] · SUONO
+concetti: L'onomatopea; L'allitterazione; L'anafora; L'effetto sul lettore
+- Quale parola è un'onomatopea?
+- L'allitterazione è la ripetizione dello stesso suono all'inizio o all'interno di parole vicine.
+- Che cos'è l'anafora?
+- «Bau», «miao» e «chicchirichì» sono ___, perché imitano dei versi di animali.
+- In quale frase c'è un'allitterazione?
+- Nei versi «Ti aspetto all'alba, / ti aspetto al tramonto, / ti aspetto la notte», quale figura c'è?
+- Perché un poeta usa l'onomatopea «tic tic» in una poesia sulla pioggia?
+- Scegli tra onomatopea, allitterazione e anafora e spiega con un esempio che effetto produce su chi legge o as…
+
+## Le dodici fatiche di Eracle [lib-1-media-italiano-le-fatiche-di-eracle] · ERCOLE
+concetti: Chi era Eracle; Le dodici fatiche; Alcune imprese; Forza e ingegno
+- Come chiamavano i Romani l'eroe greco Eracle?
+- Quante erano le fatiche di Eracle?
+- Eracle era figlio di Zeus e di una donna mortale, Alcmena.
+- All'idra di Lerna, tagliata una testa, ne ___ altre.
+- Come Eracle ripulì in un solo giorno le stalle di Augia?
+- Perché Eracle dovette strangolare il leone di Nemea invece di colpirlo con le armi?
+- Che cosa dimostra l'impresa delle stalle di Augia?
+- Perché Eracle dovette affrontare le dodici fatiche? Racconta brevemente la causa.
+
 ## Le nove parti del discorso [lib-1-media-italiano-parti-del-discorso] · NOVE
 concetti: Nove categorie di parole; Parti variabili; Parti invariabili; Una parola, più ruoli
 - Quante sono le parti del discorso nella grammatica italiana?
@@ -299,6 +530,17 @@ concetti: Nove categorie di parole; Parti variabili; Parti invariabili; Una paro
 - Nella frase «Ieri Anna e io siamo usciti», a quale parte del discorso appartiene «ieri»?
 - Spiega perché «studio» può essere un nome oppure un verbo. Fai due esempi.
 
+## Le particelle ci e ne [lib-1-media-italiano-particelle-ci-e-ne] · DOVE
+concetti: Ci di luogo; Ci pronome; Ne pronome; Ne di luogo
+- In «Vai a Roma? Sì, ci vado domani», «ci» significa:
+- In «Quante mele vuoi? Ne voglio due», «ne» significa:
+- In «Ci vediamo domani», «ci» è un pronome che si riferisce a «noi».
+- «Parli spesso di quel film?» «Sì, ___ parlo spesso.»
+- In «Sono entrato in cucina e ne sono uscito subito», «ne» significa:
+- In «Ci penso io», «ci» significa:
+- Perché «c'è» si scrive con l'apostrofo?
+- In «Ho comprato dei biscotti e ne ho mangiati tre», spiega che cosa sostituisce «ne» e perché è utile.
+
 ## Le tappe di un racconto [lib-1-media-italiano-struttura-testo-narrativo] · TRAMA
 concetti: Il testo narrativo; Inizio e rottura; Peripezie e spannung; Scioglimento e finale
 - Che cosa racconta un testo narrativo?
@@ -309,6 +551,39 @@ concetti: Il testo narrativo; Inizio e rottura; Peripezie e spannung; Scioglimen
 - Perché nella fase delle peripezie l'autore mette ostacoli davanti al protagonista?
 - Metti in ordine le parti tipiche di un racconto.
 - La situazione finale di un racconto è sempre uguale a quella iniziale? Spiega con un esempio.
+
+## Leggende tra realtà e fantasia [lib-1-media-italiano-la-leggenda] · ORIGINE
+concetti: Che cos'è la leggenda; Leggenda e mito; Leggende di luoghi; Leggende di personaggi
+- Che cosa mescola la leggenda?
+- A differenza del mito, la leggenda è spesso ambientata in luoghi reali e riconoscibili.
+- Una leggenda che racconta come è nato il nome di un lago serve a:
+- Le leggende sono nate come racconti trasmessi ___, di generazione in generazione.
+- Quale personaggio è protagonista di molte leggende medievali?
+- Quale di queste storie è un mito più che una leggenda?
+- Perché nelle leggende i personaggi realmente esistiti compiono imprese impossibili?
+- Racconta in breve una leggenda legata a un luogo (della tua zona o d'Italia) e spiega che cosa vuole spiegare.
+
+## Lettere ed email ben scritte [lib-1-media-italiano-la-lettera-e-l-email] · POSTA
+concetti: Le parti della lettera; Lettera personale; Lettera formale; L'email
+- Come inizia di solito una lettera a un amico?
+- In una lettera formale si usa il «lei» e un linguaggio cortese.
+- Che cos'è il P.S. alla fine di una lettera?
+- Ordina le parti di una lettera.
+- Una lettera formale si chiude spesso con «___ saluti».
+- Rispetto a una lettera di carta, che cosa ha in più un'email?
+- A chi scriveresti una lettera formale?
+- Perché anche in un'email alla professoressa bisogna usare formule di saluto e un linguaggio corretto, come in…
+
+## Locuzioni: gruppi di parole [lib-1-media-italiano-locuzioni] · GRUPPO
+concetti: Che cos'è una locuzione; Locuzioni avverbiali; Locuzioni prepositive; Locuzioni congiuntive
+- Che cos'è una locuzione?
+- In «Arrivò all'improvviso», «all'improvviso» è una locuzione:
+- «Davanti a» e «insieme con» sono locuzioni prepositive.
+- Domani andiamo al mare, ___ piova.
+- Quale di queste è una locuzione avverbiale di modo?
+- In «Abito vicino alla scuola», «vicino a» è:
+- Quale locuzione congiuntiva introduce una causa?
+- Nell'analisi grammaticale, perché «a poco a poco» va analizzato tutto insieme invece che parola per parola?
 
 ## Maschile o femminile? [lib-1-media-italiano-genere-del-nome] · GENERE
 concetti: Il genere grammaticale; Nomi mobili; Indipendenti e di genere comune; Nomi promiscui
@@ -376,6 +651,105 @@ concetti: Nomi comuni e propri; Nomi concreti; Nomi astratti; Nomi collettivi
 - Con un nome collettivo singolare il verbo va al singolare: «La squadra ha vinto».
 - Classifica i nomi «coraggio», «Roma» e «branco»: comune o proprio? Concreto o astratto? Collettivo?
 
+## Numerali: contare e ordinare [lib-1-media-italiano-aggettivi-numerali] · CENTO
+concetti: Numerali cardinali; Numerali ordinali; Moltiplicativi e frazionari; Scrivere i numeri in lettere
+- Quale numerale è ordinale?
+- In «Ho comprato quattro quaderni», «quattro» è:
+- «Doppio» è un numerale moltiplicativo.
+- Il numero 21 si scrive in lettere ___.
+- Come si scrive in lettere l'ordinale di 11?
+- Se paghi il triplo di 5 euro, quanto paghi?
+- Quale scrittura del numero 1200 è corretta?
+- In «Arrivò primo alla gara» e «Ne ho mangiati due», di che tipo è ciascun numerale e che informazione dà?
+
+## Odino, Thor e i Vichinghi [lib-1-media-italiano-mitologia-nordica] · THOR
+concetti: Odino; Thor e il martello; Valhalla e Ragnarok; Tracce nella lingua
+- Di quale fenomeno era dio Thor?
+- Chi era il padre degli dèi nella mitologia nordica?
+- Secondo il mito, Odino rinunciò a un occhio in cambio della saggezza.
+- Il Valhalla era la grande sala in cui erano accolti i guerrieri morti in ___.
+- Quale giorno della settimana inglese prende nome da Thor?
+- Che cos'era il Ragnarok?
+- Che cosa accadeva, secondo i Vichinghi, quando Thor lanciava il suo martello?
+- Confronta Odino e Zeus: in che cosa si somigliano e in che cosa sono diversi?
+
+## Orfeo, la lira e Euridice [lib-1-media-italiano-orfeo-ed-euridice] · LIRA
+concetti: Orfeo il musico; La discesa agli Inferi; Il patto e lo sguardo; Il significato
+- Quale strumento suonava Orfeo?
+- Euridice morì per il morso di un serpente.
+- Dove scese Orfeo per riprendere Euridice?
+- Prima di uscire dagli Inferi, Orfeo non doveva mai ___ Euridice, che camminava dietro di lui.
+- Come riuscì Orfeo a convincere Ade e Persefone?
+- Che potere aveva la musica di Orfeo?
+- Perché Orfeo si voltò?
+- Che cosa può insegnare il mito di Orfeo ed Euridice sulla fiducia e sulla pazienza?
+
+## Orlando a Roncisvalle [lib-1-media-italiano-orlando-a-roncisvalle] · CORNO
+concetti: Le chansons de geste; Carlo Magno e i paladini; La battaglia di Roncisvalle; I valori cavallereschi
+- Chi era il re dei Franchi al centro del ciclo carolingio?
+- In quale lingua è scritta la «Chanson de Roland»?
+- Nel poema, la retroguardia di Orlando viene attaccata a Roncisvalle per il tradimento di Gano.
+- Orlando chiama aiuto suonando un ___ d'avorio, detto olifante.
+- Come si chiamava la spada di Orlando?
+- Perché Orlando all'inizio rifiuta di suonare il corno?
+- Come vengono descritti Orlando e il suo amico Oliviero?
+- Che cosa hanno in comune le chansons de geste medievali con i poemi epici antichi come l'Iliade?
+
+## Parole gemelle: gli omonimi [lib-1-media-italiano-omonimi-omografi-omofoni] · PESCA
+concetti: Gli omonimi; Gli omografi; Gli omofoni; Il contesto chiarisce
+- Quale coppia contiene due omonimi?
+- «Anno» e «hanno» sono omofoni: si pronunciano allo stesso modo ma si scrivono in modo diverso.
+- Quale parola cambia significato se sposti l'accento?
+- «L'ago» e «___» si pronunciano allo stesso modo.
+- «Ho comprato un chilo di pesche»: qui «pesca» indica:
+- In quale frase «calcio» indica una sostanza utile per il corpo?
+- Perché «pèsca» (frutto) e «pésca» (sport) sono omografi?
+- Come capisci quale significato ha «vite» nella frase «Per montare la mensola servono quattro viti»?
+
+## Parole in prestito [lib-1-media-italiano-prestiti-e-forestierismi] · PIZZA
+concetti: Che cos'è un prestito; Prestiti dall'inglese; Prestiti da altre lingue; L'italiano nel mondo
+- Quale di queste parole è un prestito dall'inglese?
+- Un prestito è una parola che una lingua prende da un'altra lingua.
+- La parola «garage» viene dal:
+- Molte parole come «zucchero» e «algebra» sono arrivate in italiano dall'___.
+- Quale parola italiana si usa anche in inglese e in tante altre lingue?
+- In quale campo molte parole italiane, come «allegro», «soprano» e «piano», sono entrate nelle altre lingue?
+- Perché sono entrate in italiano tante parole inglesi legate all'informatica?
+- Per alcune parole inglesi esiste un equivalente italiano, come «weekend» e «fine settimana». Quando ti sembra…
+
+## Parole in senso figurato [lib-1-media-italiano-significato-letterale-figurato] · SENSO
+concetti: Significato letterale; Significato figurato; Modi di dire; La connotazione
+- In «Luca ha un cuore d'oro», che cosa significa «cuore d'oro»?
+- In «Ho mangiato una mela rossa», le parole hanno significato letterale.
+- Che cosa significa «essere al verde»?
+- Chi «prende due piccioni con una fava» ottiene due risultati con un solo ___.
+- In quale frase «gelato» ha significato letterale?
+- Quale parola descrive una casa piccola con una sfumatura negativa?
+- Perché si dice che una persona «ha la testa fra le nuvole»?
+- «Testardo» e «determinato» indicano entrambi chi non cambia facilmente idea. Che differenza di sfumatura c'è …
+
+## Penelope, Telemaco e Argo [lib-1-media-italiano-odissea-personaggi-di-itaca] · ARGO
+concetti: Penelope e la tela; Telemaco; Argo ed Euriclea; I Proci
+- Chi era Argo nell'Odissea?
+- Chi erano i Proci?
+- Penelope tesseva una tela di giorno e la disfaceva di notte per rimandare le nozze.
+- La nutrice Euriclea riconobbe Ulisse da una ___ sulla gamba.
+- Perché Telemaco parte da Itaca all'inizio dell'Odissea?
+- Che cosa aveva promesso Penelope ai Proci a proposito della tela?
+- Perché la morte di Argo è una scena così commovente?
+- Perché Ulisse torna nella reggia travestito da mendicante invece di presentarsi subito come re?
+
+## Piove! I verbi impersonali [lib-1-media-italiano-verbi-impersonali] · PIOVE
+concetti: Verbi atmosferici; Nessun soggetto; Verbi usati impersonalmente; Il si impersonale
+- Quale verbo è impersonale?
+- In «Oggi piove», il soggetto è «oggi».
+- In quale frase il verbo è usato in modo impersonale?
+- In «Qui ___ mangia bene», la particella rende la frase impersonale.
+- A quale persona si coniugano i verbi impersonali?
+- Che cosa significa «In Italia si mangia molta pasta»?
+- Perché «Ieri ha piovuto» e «Ieri è piovuto» sono corrette entrambe?
+- Nella frase «Sembra che arrivi un temporale», chi «sembra»? Spiega perché il verbo è impersonale.
+
 ## Più bello, bellissimo! [lib-1-media-italiano-gradi-dell-aggettivo] · OTTIMO
 concetti: Positivo e comparativo; Superlativo relativo; Superlativo assoluto; Forme speciali
 - Qual è il superlativo assoluto di «veloce»?
@@ -398,6 +772,17 @@ concetti: Polifemo; Circe; Sirene, Scilla e Cariddi; Le doti di Ulisse
 - Metti in ordine i fatti dell'episodio di Polifemo.
 - In molti episodi Ulisse si salva più con l'intelligenza che con la forza. Scegli un episodio e spiega come.
 
+## Prefissi: parole che cambiano [lib-1-media-italiano-prefissi] · INIZIO
+concetti: Che cos'è un prefisso; Prefissi di negazione; Prefissi di quantità e grandezza; Prefissi di tempo e di luogo
+- Che cos'è un prefisso?
+- «Bicicletta» contiene il prefisso bi-: che cosa indica?
+- Nella parola «scontento», la s- iniziale è un prefisso che dà il significato opposto.
+- Il prefisso ___ indica qualcosa che viene prima, come in «preistoria».
+- Che cosa significa «riscrivere»?
+- Quale prefisso forma il contrario di «onesto»?
+- In quale parola «in» iniziale NON è un prefisso?
+- Che differenza di significato c'è tra «supermercato» e «minimarket»? Spiega il ruolo dei prefissi.
+
 ## Preposizioni: piccole ma importanti [lib-1-media-italiano-preposizioni] · DAVANTI
 concetti: Preposizioni semplici; Preposizioni articolate; Preposizioni improprie; Il significato cambia
 - Quale di queste è una preposizione semplice?
@@ -409,6 +794,17 @@ concetti: Preposizioni semplici; Preposizioni articolate; Preposizioni improprie
 - Quale di queste preposizioni è impropria?
 - Perché «sotto» è una preposizione in «Il cane dorme sotto il tavolo» e un avverbio in «Il cane dorme sotto»?
 
+## Prometeo e il fuoco rubato [lib-1-media-italiano-mito-di-prometeo] · FUOCO
+concetti: Chi era Prometeo; Il furto del fuoco; La punizione; Il significato
+- Che cosa rubò Prometeo agli dèi per donarlo agli uomini?
+- Prometeo era:
+- Per punirlo, Zeus fece incatenare Prometeo a una rupe, dove un'aquila gli divorava il fegato.
+- A liberare Prometeo dalle catene fu l'eroe ___.
+- Perché la punizione di Prometeo era terribile e senza fine?
+- Che cosa simboleggia il fuoco donato da Prometeo?
+- Perché Prometeo è considerato un amico dell'umanità?
+- Secondo te, perché i Greci raccontavano che il fuoco era stato rubato agli dèi? Che cosa volevano spiegare?
+
 ## Propp e lo schema delle fiabe [lib-1-media-italiano-funzioni-di-propp] · PROPP
 concetti: Chi era Propp; Le funzioni; I sette ruoli; Usare lo schema
 - Di che nazionalità era lo studioso Vladimir Propp?
@@ -419,6 +815,17 @@ concetti: Chi era Propp; Le funzioni; I sette ruoli; Usare lo schema
 - In una fiaba la regina chiede a un giovane di trovare la rosa d'oro per guarire il re. Quale ruolo ha la regi…
 - Metti in ordine queste funzioni come avvengono in una fiaba.
 - A che cosa può servirti lo schema di Propp se devi inventare una fiaba?
+
+## Quando ci vuole la maiuscola [lib-1-media-italiano-uso-delle-maiuscole] · GRANDE
+concetti: Inizio di frase; Nomi propri; Casi particolari
+- Quando si usa sempre la maiuscola?
+- Quale di queste parole, qui scritta in minuscolo, va scritta con la maiuscola?
+- In italiano i nomi dei mesi e dei giorni della settimana si scrivono con la minuscola.
+- Dopo un punto interrogativo che chiude la frase, la parola successiva comincia con la ___.
+- Queste parole sono scritte tutte in minuscolo: quale resta minuscola anche in mezzo a una frase?
+- Perché in «Ho un cane di nome Fido» scrivi «Fido» maiuscolo e «cane» minuscolo?
+- In «Marco disse: «Andiamo!»», perché «Andiamo» ha la maiuscola?
+- Nella frase «abito a milano in via verdi», quali parole devono avere la maiuscola e perché?
 
 ## Quattro modi per dirlo [lib-1-media-italiano-modi-finiti] · COMANDO
 concetti: Indicativo; Congiuntivo; Condizionale; Imperativo
@@ -442,6 +849,17 @@ concetti: Che cosa esprime il verbo; Radice e desinenza; Le tre coniugazioni; Gl
 - In quale frase c'è un tempo composto?
 - Prendi il verbo «sentire»: indica radice e desinenza dell'infinito e spiega quale parte cambia quando lo coni…
 
+## Re Artù e la Tavola Rotonda [lib-1-media-italiano-re-artu-tavola-rotonda] · GRAAL
+concetti: Il ciclo bretone; Artù e la spada; La Tavola Rotonda; La ricerca del Graal
+- Come dimostrò il giovane Artù di essere il vero re?
+- Chi era Merlino?
+- La tavola dei cavalieri era rotonda perché nessuno sedesse a capotavola e tutti fossero pari.
+- Il castello di re Artù si chiamava ___.
+- Che cos'era il Santo Graal cercato dai cavalieri?
+- In che cosa il ciclo bretone si distingue soprattutto da quello carolingio?
+- Quale cavaliere della Tavola Rotonda è famoso per il suo amore per la regina Ginevra?
+- Perché la ricerca del Graal è una prova soprattutto spirituale e non solo di forza?
+
 ## Ripasso: analisi grammaticale completa [lib-1-media-italiano-ripasso-analisi-grammaticale] · ANALISI
 concetti: Che cos'è; Analisi del nome; Analisi del verbo; Parole a doppia faccia
 - Nella frase «La mia sorellina gioca spesso in giardino», quale parola è un avverbio?
@@ -452,6 +870,50 @@ concetti: Che cos'è; Analisi del nome; Analisi del verbo; Parole a doppia facci
 - Come si analizza «fu costruito» in «Il ponte fu costruito nel 1800»?
 - Nella frase «Ieri noi abbiamo comprato tre gelati», quale analisi è corretta?
 - Fai l'analisi grammaticale completa della parola «gattini» nella frase «I gattini dormono».
+
+## Ripasso: il testo narrativo [lib-1-media-italiano-ripasso-testo-narrativo] · STORIA
+concetti: Narratore e punto di vista; Fabula e intreccio; I personaggi; Lo schema narrativo
+- In «Mi svegliai di soprassalto: qualcuno bussava», che narratore c'è?
+- In una storia, il personaggio che ostacola il protagonista è:
+- Se un racconto comincia dalla fine e poi torna indietro a raccontare il passato, usa un flashback.
+- Nello schema narrativo, la fase che segue la Spannung e risolve il problema si chiama ___.
+- Ordina le fasi di questa storia secondo lo schema narrativo.
+- Un personaggio che all'inizio è egoista e alla fine impara a condividere è un personaggio:
+- In quale caso l'intreccio è diverso dalla fabula?
+- Riscrivi la frase «Ero terrorizzato: il buio mi stringeva il cuore» con un narratore esterno. Che cosa cambia?
+
+## Ripasso: il verbo [lib-1-media-italiano-ripasso-il-verbo] · AZIONE
+concetti: Modo e tempo; Persona e numero; Ausiliari e tempi composti; Forma attiva e passiva
+- In «Voi correte», il verbo è alla:
+- In «Avremo mangiato», qual è il tempo del verbo?
+- Il passato prossimo è un tempo composto, formato da ausiliare e participio passato.
+- In «Se potessi, verrei», il verbo «verrei» è al modo ___.
+- Quale frase è in forma passiva?
+- Quale ausiliare usa «partire» nei tempi composti?
+- In «Spero che tu venga», il verbo «venga» è al:
+- Trasforma «Il gatto ha mangiato il topo» in forma passiva e spiega che cosa cambia.
+
+## Ripasso: suoni e scrittura [lib-1-media-italiano-ripasso-fonologia-ortografia] · REGOLA
+concetti: Sillabe e accento; Digrammi e acca; L'apostrofo; La punteggiatura
+- Quale parola è scritta correttamente?
+- Come si divide in sillabe «montagna»?
+- «Qual è» si scrive senza apostrofo perché è un troncamento.
+- «Hanno» si scrive con l'acca perché è voce del verbo ___.
+- Quale parola è sdrucciola, cioè ha l'accento sulla terzultima sillaba?
+- Quale scrittura è corretta?
+- Quale frase usa correttamente i due punti?
+- Spiega perché in «Luca, il mio vicino di casa, gioca a tennis» le due virgole sono importanti.
+
+## Ripasso: tre poemi epici [lib-1-media-italiano-ripasso-epica-classica] · POEMI
+concetti: Gli autori; Protagonisti e temi; Lingue e struttura; I valori degli eroi
+- Chi è l'autore dell'Eneide?
+- Quale poema racconta il ritorno a casa di un eroe dopo la guerra?
+- L'Eneide fu scritta in greco.
+- L'Eneide è divisa in ___ libri, la metà dell'Iliade.
+- Quale qualità caratterizza soprattutto Ulisse?
+- Che cosa lega l'Eneide alle vicende dell'Iliade?
+- Che cos'è la «questione omerica»?
+- Confronta Achille, Ulisse ed Enea: quale valore rappresenta ciascuno? Quale ti sembra più vicino a noi oggi e…
 
 ## Sequenze: i mattoncini del testo [lib-1-media-italiano-sequenze-e-ambientazione] · SCENA
 concetti: Che cos'è una sequenza; Narrative e descrittive; Dialogiche e riflessive; Tempo e luogo
@@ -464,6 +926,17 @@ concetti: Che cos'è una sequenza; Narrative e descrittive; Dialogiche e rifless
 - «Luca afferrò lo zaino, scese le scale di corsa e saltò sull'autobus.» Che sequenza è?
 - Perché è importante scegliere bene il luogo e il tempo in cui ambientare una storia? Fai un esempio.
 
+## Similitudini, metafore, personificazioni [lib-1-media-italiano-similitudine-metafora-personificazione] · COME
+concetti: La similitudine; La metafora; La personificazione; Perché si usano
+- Quale frase contiene una similitudine?
+- Quale frase contiene una metafora?
+- In «Il vento sussurrava tra gli alberi» c'è una personificazione.
+- La similitudine è un paragone introdotto da parole come «___», «simile a», «sembra».
+- Che cos'è una personificazione?
+- Che differenza c'è tra «I tuoi occhi sono come stelle» e «I tuoi occhi sono stelle»?
+- In quale frase c'è una personificazione?
+- Perché poeti e scrittori usano metafore e similitudini invece di dire le cose in modo diretto?
+
 ## Singolare, plurale e casi strani [lib-1-media-italiano-numero-del-nome] · PLURALE
 concetti: Plurali regolari e irregolari; Nomi invariabili; Nomi difettivi; Nomi sovrabbondanti
 - Quale di questi nomi resta uguale al plurale?
@@ -474,6 +947,39 @@ concetti: Plurali regolari e irregolari; Nomi invariabili; Nomi difettivi; Nomi 
 - Quale di questi nomi non si usa al plurale?
 - Quale di questi plurali è scritto correttamente?
 - Spiega perché si dice «i muri della casa» ma «le mura della città». Come si chiamano questi nomi?
+
+## Sinonimi e contrari in azione [lib-1-media-italiano-sinonimi-e-contrari] · UGUALE
+concetti: Sinonimi; Contrari; Contrari con prefissi; Il contesto decide
+- Quale parola è sinonimo di «veloce»?
+- Qual è il contrario di «generoso»?
+- Il contrario di «possibile» si forma aggiungendo il prefisso im-.
+- Il contrario di «ordinato» è ___.
+- In «Marco ha un carattere dolce», quale parola può sostituire «dolce»?
+- Perché i sinonimi perfetti, del tutto uguali, sono rari?
+- Il contrario di «fresco» può essere «caldo» se parli dell'aria e «raffermo» se parli del pane.
+- Perché in un tema è utile usare i sinonimi invece di ripetere sempre la stessa parola?
+
+## Sto per, sto facendo [lib-1-media-italiano-verbi-fraseologici] · STARE
+concetti: I verbi fraseologici; Azione che sta per iniziare; Azione in corso; Azione che continua o finisce
+- In «Sto mangiando», che cosa indica «stare» + gerundio?
+- Quale frase indica che un'azione sta per iniziare?
+- I verbi fraseologici, come «cominciare a», sono seguiti da un altro verbo all'infinito o al gerundio.
+- Mio fratello ha ___ di fumare: non fuma più.
+- Ordina le frasi dalla fase iniziale alla fase finale dell'azione.
+- In «Continuò a piovere per ore», che cosa esprime «continuare a»?
+- Qual è la differenza tra «Mangio» e «Sto per mangiare»?
+- Se un amico ti telefona mentre ceni, perché è più preciso rispondere «Sto mangiando» invece di «Mangio»?
+
+## Suffissi: la coda delle parole [lib-1-media-italiano-suffissi] · FINALE
+concetti: Che cos'è il suffisso; Suffissi che formano nomi; Suffissi che formano aggettivi; Suffissi per verbi e avverbi
+- Quale suffisso indica un mestiere in «giornalaio»?
+- Il suffisso si aggiunge dopo la radice della parola.
+- Da «pericolo» con un suffisso ottieni l'aggettivo:
+- Da «lento» con il suffisso -mente ottieni l'avverbio ___.
+- Quale nome astratto deriva da «bello» con un suffisso?
+- Che cosa significa che un oggetto è «lavabile»?
+- Quale verbo è formato con il suffisso -izzare?
+- Dalla parola «fiore» si formano «fioraio», «fioriera» e «fiorire». Spiega che cosa hanno in comune e che cosa…
 
 ## Suoni e lettere dell'alfabeto [lib-1-media-italiano-fonemi-e-grafemi] · FONEMA
 concetti: Fonemi e grafemi; L'alfabeto italiano; Vocali e consonanti; Suoni e lettere non coincidono
@@ -496,6 +1002,17 @@ concetti: Che cos'è la sillaba; Doppie e consonanti che si dividono; Gruppi che
 - Come si divide la parola «albero»?
 - Metti in ordine le sillabe per formare la parola «trasportare».
 - Perché «pasta» si divide pa-sta e non pas-ta?
+
+## Teseo nel labirinto [lib-1-media-italiano-teseo-e-il-minotauro] · FILO
+concetti: Il Minotauro e il tributo; Teseo e Arianna; Il filo; Le vele nere
+- Com'era il Minotauro?
+- Chi aiutò Teseo a uscire dal labirinto?
+- Atene doveva mandare a Creta dei giovani da dare in pasto al Minotauro.
+- Arianna diede a Teseo un ___ da srotolare per ritrovare l'uscita.
+- Ordina gli eventi del mito.
+- Perché il re Egeo si gettò in mare?
+- Quale nome geografico deriva da questo mito?
+- Che cosa simboleggia il filo di Arianna? Oggi diciamo anche «perdere il filo»: che cosa significa?
 
 ## Transitivi e intransitivi [lib-1-media-italiano-verbi-transitivi-intransitivi] · OGGETTO
 concetti: Verbi transitivi; Verbi intransitivi; Uso assoluto; Transitività e ausiliare
@@ -530,6 +1047,17 @@ concetti: L'accento tonico; L'accento grafico; Parole tronche e piane; Sdrucciol
 - Nella parola «casa» si deve scrivere l'accento grafico sulla prima a.
 - Che differenza c'è tra accento tonico e accento grafico?
 
+## Tutto concorda: la concordanza [lib-1-media-italiano-concordanza] · ACCORDO
+concetti: Soggetto e verbo; Nome e aggettivo; Participio con essere; Nomi di genere diverso
+- Quale frase è corretta?
+- Quale aggettivo concorda con «le scarpe»?
+- In «Le ragazze sono partite», il participio concorda con il soggetto.
+- Mia sorella è ___ ieri sera.
+- Come concordi l'aggettivo con «un ragazzo e una ragazza»?
+- Nella frase «La classe ___ in gita», quale verbo è corretto?
+- Perché «le mani sporche» è corretto e «le mani sporchi» no?
+- Spiega l'errore nella frase «Le mie amiche è arrivato tardi» e correggila.
+
 ## Un po' di partitivo [lib-1-media-italiano-articolo-partitivo] · PARTE
 concetti: Le forme del partitivo; Partitivo singolare; Partitivo plurale; Partitivo o preposizione?
 - Nella frase «Bevo dell'acqua», che cosa significa «dell'»?
@@ -540,6 +1068,28 @@ concetti: Le forme del partitivo; Partitivo singolare; Partitivo plurale; Partit
 - Come diventa al plurale «Ho letto un libro», usando il partitivo?
 - In «Il profumo dei fiori è dolce», «dei» è un articolo partitivo.
 - Che differenza di significato c'è tra «Passami il pane» e «Passami del pane»?
+
+## Verbi ribelli: gli irregolari [lib-1-media-italiano-verbi-irregolari] · FARE
+concetti: Regolari e irregolari; Passato remoto irregolare; Participi irregolari; Verbi molto irregolari
+- Che cos'è un verbo irregolare?
+- Qual è il participio passato di «prendere»?
+- Nel verbo «andare», la forma «io vado» ha una radice diversa dall'infinito.
+- Tanti anni fa il nonno ___ una lettera alla nonna.
+- Quale participio passato è scritto correttamente?
+- Qual è il passato remoto di «vedere» alla prima persona singolare?
+- Quale di questi verbi è regolare?
+- Un bambino piccolo dice «Ho prenduto la palla» invece di «Ho preso la palla». Spiega quale errore fa e perché.
+
+## Versi e strofe [lib-1-media-italiano-verso-e-strofa] · VERSO
+concetti: Il verso; Sillabe metriche; La strofa; Poesia e prosa
+- Che cosa distingue a colpo d'occhio una poesia da un testo in prosa?
+- Una strofa di quattro versi si chiama:
+- Un endecasillabo è un verso di undici sillabe metriche.
+- Una strofa di tre versi si chiama ___.
+- Che cos'è la sinalefe?
+- Come si chiama un verso di sette sillabe?
+- Perché in poesia si va a capo anche se la riga non è finita?
+- Spiega la differenza tra verso e strofa, facendo un esempio.
 
 ## Viaggio nei tempi dell'indicativo [lib-1-media-italiano-tempi-dell-indicativo] · TEMPO
 concetti: Tempi semplici e composti; L'imperfetto; Passato prossimo e remoto; Trapassato e futuro anteriore

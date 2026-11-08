@@ -1,0 +1,564 @@
+# 3ª media · Matematica: 51 missioni valide
+# ultima bozza numerata: 05 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Alla radice del problema [lib-3-media-matematica-radici-quadrate] · RADICE
+concetti: Radice quadrata; Quadrati perfetti; Stime e approssimazioni; Proprietà delle radici; Radice cubica
+- Quanto vale √81?
+- Il numero 48 è un quadrato perfetto.
+- Tra quali numeri interi consecutivi si trova √55?
+- Un cubo ha il volume di 64 cm³, quindi il suo spigolo misura ___ cm.
+- Quanto vale √(4 · 25)?
+- √(9 + 16) è uguale a √9 + √16.
+- Un giardino quadrato ha l'area di 196 m². Quanti metri di rete servono per recintarlo tutto?
+- Senza calcolatrice, trova tra quali due numeri con una cifra decimale si trova √20 e spiega come controlli la…
+
+## Anelli e corone circolari [lib-3-media-matematica-corona-circolare] · ANELLO
+concetti: Circonferenze concentriche; Area della corona; Figure composte; Il contorno della corona
+- Che cosa hanno in comune due circonferenze concentriche?
+- L'area di una corona circolare con i raggi R = 5 cm e r = 3 cm è π · (5 − 3)² = 4π cm².
+- Qual è l'area di una corona circolare con i raggi di 10 cm e 6 cm? (lascia π indicato)
+- Il contorno di una corona circolare con i raggi di 5 cm e 2 cm è lungo in tutto ___ cm (con π indicato).
+- Un disco di legno ha il raggio di 5 cm e un foro centrale con il raggio di 1 cm. Quanto misura la sua superfi…
+- Una finestra è formata da un quadrato di lato 2 m sormontato da un semicerchio che ha per diametro il lato su…
+- Da un quadrato di cartone con il lato di 10 cm si ritaglia il cerchio più grande possibile. Quanto cartone av…
+- Una fontana circolare ha il raggio di 3 m ed è circondata da un vialetto ad anello, il cui bordo esterno ha i…
+
+## Angoli dentro il cerchio [lib-3-media-matematica-angoli-circonferenza] · ARCO
+concetti: Angolo al centro; Angolo alla circonferenza; Il doppio e la metà; Triangolo nella semicirconferenza
+- In una circonferenza, quanto misura l'angolo al centro che corrisponde a un arco lungo un quarto della circon…
+- Un angolo alla circonferenza ha il vertice nel centro del cerchio.
+- Un angolo al centro misura 80°. Quanto misura un angolo alla circonferenza che insiste sullo stesso arco?
+- Un angolo alla circonferenza misura 35°: l'angolo al centro che insiste sullo stesso arco misura ___.
+- Il triangolo ABC è inscritto in una circonferenza e il lato AB è un diametro. Quanto misura l'angolo in C?
+- Gli angoli alla circonferenza APB e AQB insistono sullo stesso arco AB. Se APB misura 25°, quanto misura AQB?
+- In una circonferenza il diametro AB misura 10 cm e il punto C della circonferenza dista 6 cm da A. Quanto mis…
+- In una circonferenza di centro O l'angolo alla circonferenza ACB misura 50°. Quanto misura l'angolo al centro…
+
+## Cilindri, coni e sfere [lib-3-media-matematica-solidi-rotazione] · CONO
+concetti: Solidi di rotazione; Il cilindro; Il cono; La sfera
+- Quale solido ottieni facendo ruotare un rettangolo attorno a uno dei suoi lati?
+- Facendo ruotare un semicerchio attorno al suo diametro si ottiene una sfera.
+- Una lattina cilindrica ha il raggio di 3 cm e l'altezza di 10 cm. Qual è il suo volume? (lascia π indicato)
+- Se srotoli l'etichetta di una lattina cilindrica ottieni un ___.
+- Un cono e un cilindro hanno la stessa base e la stessa altezza. Il cilindro contiene 300 ml d'acqua: quanti n…
+- Qual è il volume di un cono con il raggio di base di 6 cm e l'altezza di 5 cm? (lascia π indicato)
+- Qual è la superficie di una sfera con il raggio di 5 cm? (lascia π indicato)
+- Un pallone ha il raggio doppio rispetto a un altro pallone. Quante volte è più grande il suo volume? Spiega p…
+
+## Contare con gli alberi [lib-3-media-matematica-diagrammi-albero] · RAMO
+concetti: Diagramma ad albero; Principio di moltiplicazione; Tutti i risultati possibili; Mettere in fila
+- Hai 3 magliette e 2 paia di pantaloni. Quanti abbinamenti diversi puoi fare?
+- Lanciando due monete i risultati possibili, tutti ugualmente probabili, sono tre: due teste, due croci, una t…
+- In un diagramma ad albero per tre lanci di una moneta, quanti percorsi completi ci sono?
+- Un menù offre 4 primi, 3 secondi e 2 dolci: i pranzi diversi con un primo, un secondo e un dolce sono ___.
+- In quanti modi diversi possono mettersi in fila 4 amici per una foto?
+- Lanci due dadi e sommi i numeri usciti. Qual è la probabilità che la somma sia 7?
+- Un lucchetto ha 3 rotelle, ciascuna con le cifre da 0 a 9. Quante combinazioni diverse ci sono?
+- Lanci una moneta due volte. Descrivi a parole il diagramma ad albero, elenca tutti i risultati e calcola la p…
+
+## Coordinate sul piano cartesiano [lib-3-media-matematica-piano-cartesiano] · ORIGINE
+concetti: Assi e coordinate; I quattro quadranti; Distanza tra punti allineati; Punto medio e figure
+- Nel punto P(4; −2), che cosa indica il numero −2?
+- In quale quadrante si trova il punto A(−3; −5)?
+- Tutti i punti che stanno sull'asse delle x hanno l'ordinata uguale a zero.
+- Qual è la distanza tra i punti A(−2; 3) e B(6; 3)?
+- Il punto medio del segmento con estremi A(2; 4) e B(8; 10) è M(___).
+- Un rettangolo ha i vertici A(1; 1), B(5; 1), C(5; 4) e D(1; 4). Quanto misura la sua area?
+- Un punto ha l'ascissa positiva e l'ordinata negativa. Se cambi il segno a entrambe le coordinate, in quale qu…
+- I punti A(0; 0), B(6; 0) e C(0; 4) sono i vertici di un triangolo. Calcola la sua area e spiega perché qui è …
+
+## Dai naturali ai reali [lib-3-media-matematica-insiemi-numerici] · REALE
+concetti: N, Z e Q; Decimali e frazioni; Numeri irrazionali; L'insieme R
+- Qual è il più piccolo insieme numerico che contiene il numero −7?
+- Ogni numero intero è anche un numero razionale.
+- Quale numero decimale corrisponde alla frazione 7/20?
+- Il numero 0,333…, in cui il 3 si ripete all'infinito, è un decimale ___ e corrisponde alla frazione 1/3.
+- Quale di questi numeri è irrazionale?
+- Il numero π è esattamente uguale a 3,14.
+- Il lato di un quadrato misura 1 m. Che tipo di numero è la misura della sua diagonale in metri?
+- Spiega perché l'insieme R dei numeri reali è più ampio di Q: fai un esempio di numero che sta in R ma non in …
+
+## Distanze in diagonale [lib-3-media-matematica-distanza-due-punti] · VOLO
+concetti: Differenze di coordinate; Formula della distanza; Perimetri nel piano; Distanza dall'origine
+- Dati A(1; 2) e B(4; 6), quanto misurano i cateti del triangolo rettangolo che ha AB come ipotenusa?
+- Quanto misura la distanza tra A(1; 2) e B(4; 6)?
+- La distanza tra due punti può essere un numero negativo, se le loro coordinate sono negative.
+- Il punto P(6; 8) dista dall'origine ___ unità.
+- Quanto misura la distanza tra C(−2; −1) e D(3; 11)?
+- Qual è il perimetro del triangolo con vertici A(0; 0), B(8; 0) e C(8; 6)?
+- Quale di questi punti si trova alla stessa distanza dall'origine del punto P(3; 4)?
+- Il quadrilatero ABCD ha i vertici A(0; 0), B(4; 3), C(4; 8) e D(0; 5). Calcola il suo perimetro e spiega che …
+
+## Dove si incontrano le rette [lib-3-media-matematica-intersezione-rette] · PUNTO
+concetti: Punto su una retta; Intersezioni con gli assi; Intersezione di due rette; Rette incidenti
+- Il punto (2; 7) appartiene alla retta y = 3x + 1.
+- In quale punto la retta y = 2x − 6 incontra l'asse x?
+- In quale punto si incontrano le rette y = x + 1 e y = −x + 5?
+- Le rette y = 2x e y = x + 4 si incontrano nel punto con ascissa 4 e ordinata ___.
+- Quanti punti in comune hanno le rette y = 5x − 2 e y = −x + 4?
+- Quanto misura l'area del triangolo formato dalla retta y = −2x + 8 con gli assi cartesiani?
+- Marta parte da casa e la sua distanza in km dopo t ore è d = 4t. Luca parte 3 km più avanti e la sua distanza…
+- Trova il punto in cui la retta y = 3x − 1 incontra la retta y = 5, spiega come hai fatto e verifica che il pu…
+
+## Due lanci, una probabilità [lib-3-media-matematica-probabilita-eventi-indipendenti] · MONETA
+concetti: Eventi indipendenti; Probabilità composta; Eventi dipendenti; Il caso non ha memoria
+- Lanciare una moneta e poi lanciare un dado sono due eventi indipendenti.
+- Lanci due volte una moneta. Qual è la probabilità di ottenere 'testa' entrambe le volte?
+- Lanci una moneta e un dado. Qual è la probabilità di ottenere 'croce' e il numero 6?
+- Una moneta regolare ha dato 'testa' per 5 volte di fila: la probabilità che al sesto lancio esca 'testa' è __…
+- Lanci due dadi. Qual è la probabilità che escano due numeri pari?
+- In un sacchetto ci sono 3 palline rosse e 2 blu. Ne estrai una rossa e non la rimetti dentro. Qual è ora la p…
+- Dallo stesso sacchetto (3 rosse e 2 blu) estrai due palline, senza rimettere la prima. Qual è la probabilità …
+- Durante un gioco da tavolo Luca non fa 6 da 20 lanci di dado e dice: 'Adesso il 6 deve uscire per forza!'. Ha…
+
+## Enigmi tra età e numeri [lib-3-media-matematica-problemi-eta-numeri] · ENIGMA
+concetti: Scegliere l'incognita; Numeri consecutivi; Problemi sulle età; Controllo del risultato
+- Se x è l'età di Paolo, come si scrive 'il triplo dell'età di Paolo diminuito di 4'?
+- La somma di due numeri interi consecutivi è 37. Quali sono?
+- Oggi Lucia ha 12 anni e sua madre 40: tra 10 anni la differenza tra le loro età sarà ancora di 28 anni.
+- Tre numeri pari consecutivi hanno somma 54: il più piccolo è ___.
+- Un numero aumentato del suo doppio dà 45. Qual è il numero?
+- Il papà ha 30 anni più di Marco. Tra 5 anni il papà avrà il triplo dell'età di Marco. Quanti anni ha Marco og…
+- Risolvendo un problema sul numero di alunni in gita trovi x = 23,5. Che cosa concludi?
+- Un nonno ha 70 anni e il nipote 10. Fra quanti anni il nonno avrà esattamente il triplo dell'età del nipote? …
+
+## Equazioni con le frazioni [lib-3-media-matematica-equazioni-coefficienti-frazionari] · COMUNE
+concetti: Il denominatore comune; Eliminare i denominatori; Attenzione ai segni; Problemi e verifica
+- Qual è il m.c.m. dei denominatori nell'equazione x/4 + 1 = x/6?
+- Qual è la soluzione di x/3 = 5?
+- Moltiplicando per 10 entrambi i membri dell'equazione x/2 + x/5 = 7 si ottiene 5x + 2x = 70.
+- Nell'equazione x/2 + x/3 = 10, moltiplicando tutto per 6 si ottiene 3x + 2x = 60, quindi x = ___.
+- Nell'equazione x/2 − (x − 4)/3 = 3, quale riga si ottiene correttamente moltiplicando tutto per 6?
+- Qual è la soluzione di (x + 1)/4 = (x − 1)/2?
+- Un terzo dei ragazzi di una classe va a scuola in bici, un quarto in autobus e gli altri 10 a piedi. Quanti s…
+- Sara ha risolto l'equazione x/5 + 2 = x/3 e ha trovato x = 15. Verifica se la soluzione è corretta e spiega c…
+
+## Formule al contrario [lib-3-media-matematica-formule-inverse] · INVERSA
+concetti: Che cos'è una formula; Ricavare una lettera; Formule della geometria; Formule della realtà
+- Un'auto percorre 180 km in 2 ore. Con la formula v = s/t, quanto vale la sua velocità media?
+- Dalla formula v = s/t, come si ricava lo spazio s?
+- Dalla formula dell'area del triangolo A = (b · h)/2 si ricava h = (2 · A)/b.
+- Un rettangolo ha l'area di 84 cm² e la base di 12 cm: la sua altezza misura ___ cm.
+- Dalla formula del perimetro del rettangolo P = 2(b + h), come si ricava la base?
+- Le mele costano 2,40 € al kg. Quanti kg puoi comprare con 6 €?
+- Un treno viaggia alla velocità media di 120 km/h. Quanto tempo impiega a percorrere 300 km?
+- Il volume di un parallelepipedo è V = a · b · c. Una scatola ha il volume di 1200 cm³ e la base di 15 cm per …
+
+## Geometria con l'incognita [lib-3-media-matematica-problemi-geometrici-equazioni] · LATO
+concetti: Perimetri e incognita; Angoli dei triangoli; Angoli complementari e supplementari; Aree e incognita
+- In un triangolo gli angoli possono misurare 90°, 60° e 40°.
+- Un rettangolo ha la base doppia dell'altezza e il perimetro di 36 cm. Quanto misura l'altezza?
+- Un angolo supera di 20° il suo complementare. Quanto misura?
+- In un triangolo isoscele l'angolo al vertice misura 40°: ciascuno degli angoli alla base misura ___.
+- Gli angoli di un triangolo misurano x, 2x e 3x. Quanto misura l'angolo più grande?
+- Un triangolo isoscele ha il perimetro di 50 cm e ciascun lato obliquo è 7 cm più lungo della base. Quanto mis…
+- Un rettangolo ha l'altezza di 8 cm. Se la base aumenta di 3 cm, l'area diventa 96 cm². Quanto misura la base …
+- Un quadrato e un rettangolo hanno lo stesso perimetro. Il rettangolo ha i lati di 10 cm e 6 cm. Trova il lato…
+
+## Grafici che raccontano storie [lib-3-media-matematica-leggere-grafici-funzioni] · GRAFICO
+concetti: Che cos'è una funzione; Funzioni empiriche e matematiche; Leggere un grafico; Grafico spazio-tempo
+- Quale di questi è un esempio di funzione empirica?
+- In una funzione, a uno stesso valore di x possono corrispondere due valori diversi di y.
+- Nella funzione che a ogni lato l di un quadrato associa il suo perimetro P, qual è la variabile indipendente?
+- In un grafico spazio-tempo, un tratto orizzontale significa che chi si muove è ___.
+- In una giornata la temperatura sale dalle 6 (4 °C) fino alle 14 (18 °C), poi scende fino alle 22 (9 °C). A ch…
+- Ale e Bea corrono a velocità costante: dopo 10 minuti Ale ha percorso 2 km e Bea 3 km. Nel grafico spazio-tem…
+- Luca va a scuola: prima cammina, poi si ferma all'edicola, infine corre perché è in ritardo. Metti in ordine …
+- Il grafico dell'altezza di una pianta nel tempo sale velocemente nelle prime settimane e poi diventa quasi or…
+
+## Identità o equazione? [lib-3-media-matematica-identita-equazioni] · SEMPRE
+concetti: Identità; Equazione determinata; Equazione impossibile; Equazione indeterminata
+- Quale di queste uguaglianze è un'identità?
+- L'equazione 5x − 3 = 2x + 9 ha come unica soluzione x = 4.
+- Risolvendo un'equazione arrivi a 0x = 7: nessun numero moltiplicato per 0 dà 7, quindi l'equazione è ___.
+- Che cosa succede se, risolvendo un'equazione, arrivi a 0x = 0?
+- Come è l'equazione 2(x + 3) = 2x + 1?
+- Come è l'equazione 3(x − 1) + x = 4x − 3?
+- Per quale valore di x è vera l'uguaglianza 4(x − 2) = 2(x + 3)?
+- Marta dice che x + x + x = 3x e x + 2 = x + 5 sono due equazioni come tutte le altre. Spiega che tipo di ugua…
+
+## Il mistero del pi greco [lib-3-media-matematica-circonferenza-cerchio] · RAGGIO
+concetti: Elementi della circonferenza; Lunghezza della circonferenza; Area del cerchio; Archi e settori circolari
+- Un cerchio ha il diametro di 14 cm. Quanto misura il raggio?
+- La corda più lunga di una circonferenza è il diametro.
+- Il rapporto tra la lunghezza di una circonferenza e il suo diametro è sempre uguale a ___.
+- La ruota di una bicicletta ha il raggio di 30 cm. Quanta strada percorre in un giro completo? (usa π = 3,14)
+- Qual è l'area di un cerchio con il raggio di 10 cm? (usa π = 3,14)
+- Se raddoppi il raggio di un cerchio, che cosa succede alla sua area?
+- Una pizza con il raggio di 20 cm viene tagliata in 8 fette uguali. Qual è l'area di una fetta? (usa π = 3,14)
+- Spiega perché un settore circolare con l'angolo al centro di 90° ha un'area uguale a un quarto dell'area del …
+
+## Il potere delle potenze [lib-3-media-matematica-proprieta-potenze] · BASE
+concetti: Potenza e suoi elementi; Prodotto e quoziente; Potenza di potenza; Esponente negativo
+- Quanto vale 7⁰?
+- 3⁴ è uguale a 3 · 4, cioè a 12.
+- Come si scrive 5³ · 5⁴ con una sola potenza?
+- Dividendo 2¹⁰ per 2⁶ si ottiene 2 elevato a ___, cioè 16.
+- Quale potenza è uguale a (3²)³?
+- Quanto vale 10⁻²?
+- Calcola 4³ · 25³ nel modo più furbo.
+- Giulia dice: '2⁻³ è un numero negativo, perché c'è il segno meno'. Ha ragione? Spiega che cosa significa l'es…
+
+## Il segreto di Pitagora [lib-3-media-pitagora] · CATETO
+concetti: Il triangolo rettangolo; L'enunciato del teorema; Calcolare l'ipotenusa; Calcolare un cateto; Terne pitagoriche e applicazioni
+- Un triangolo rettangolo ha i lati lunghi 7 cm, 24 cm e 25 cm. Quale lato è l'ipotenusa?
+- Il teorema di Pitagora vale per qualsiasi triangolo, anche se non ha un angolo retto.
+- In un triangolo rettangolo, il quadrato costruito sull'ipotenusa è equivalente alla ___ dei quadrati costruit…
+- I cateti di un triangolo rettangolo misurano 9 cm e 12 cm. Quanto misura l'ipotenusa?
+- Un triangolo rettangolo ha l'ipotenusa di 17 cm e un cateto di 8 cm. Metti in ordine i passaggi per trovare l…
+- Una scala lunga 5 m è appoggiata a un muro e il suo piede è a 3 m dalla base del muro. A che altezza arriva l…
+- Quale di questi gruppi di misure può essere quello dei lati di un triangolo rettangolo?
+- Un muratore vuole controllare che l'angolo tra due muri sia proprio retto. Segna un punto a 3 m dall'angolo s…
+
+## La bilancia delle equazioni [lib-3-media-matematica-equazioni] · UGUALE
+concetti: Equazione e soluzione; Principi di equivalenza; Risolvere passo per passo; Problemi con equazioni
+- Quale numero è la soluzione dell'equazione x + 7 = 12?
+- x = 3 è la soluzione dell'equazione 2x − 1 = 5.
+- Nell'equazione x − 4 = 10, che cosa fai su entrambi i membri per lasciare la x da sola?
+- Per risolvere 5x = 35 si dividono entrambi i membri per ___.
+- Metti in ordine i passaggi per risolvere l'equazione 3x + 4 = x + 10.
+- Qual è la soluzione di 4(x − 2) = 12?
+- Luca ha il triplo delle figurine di Marta e insieme ne hanno 48. Quante figurine ha Marta?
+- Pensa a un numero: se lo raddoppi e aggiungi 9 ottieni 25. Scrivi l'equazione, risolvila e spiega come contro…
+
+## La curva della parabola [lib-3-media-matematica-parabola-proporzionalita-quadratica] · CURVA
+concetti: Proporzionalità quadratica; Il grafico: la parabola; Il ruolo di a; Esempi nella realtà
+- Nella funzione y = 2x², quanto vale y quando x = 3?
+- Il grafico di y = x² passa sia per il punto (2; 4) sia per il punto (−2; 4).
+- Com'è la concavità della parabola y = −3x²?
+- In una proporzionalità quadratica, se x triplica, y diventa ___ volte più grande.
+- Un quadrato con il lato di 3 cm ha l'area di 9 cm². Quanto diventa l'area se il lato misura 15 cm?
+- Quale di queste parabole è la più stretta?
+- Un sasso lasciato cadere percorre circa s = 5t² metri dopo t secondi. Quanti metri percorre circa in 3 second…
+- Calcola i valori di y = x² per x = −2, −1, 0, 1, 2 e spiega perché il grafico è simmetrico rispetto all'asse …
+
+## La diagonale nascosta [lib-3-media-matematica-diagonale-parallelepipedo] · SCATOLA
+concetti: Diagonale di una faccia; Diagonale del parallelepipedo; Diagonale del cubo; Problemi pratici
+- Una faccia di una scatola è un rettangolo di 6 cm per 8 cm. Quanto misura la sua diagonale?
+- La diagonale di un parallelepipedo è più lunga delle diagonali delle sue facce.
+- Quanto misura la diagonale di un parallelepipedo con le dimensioni di 2 cm, 3 cm e 6 cm?
+- In un cubo con lo spigolo di 5 cm la diagonale di una faccia misura 5 per ___ cm.
+- Quanto misura circa la diagonale di un cubo con lo spigolo di 10 cm? (√3 ≈ 1,73)
+- Una bacchetta lunga 12,8 dm deve entrare in una scatola di 3 dm × 4 dm × 12 dm. Ci sta?
+- Un parallelepipedo ha la base di 9 cm × 12 cm e la diagonale di 25 cm. Quanto è alto?
+- Spiega perché la diagonale di un cubo di spigolo l misura l√3, partendo dalla diagonale di una faccia.
+
+## La pendenza delle rette [lib-3-media-matematica-coefficiente-angolare] · SALITA
+concetti: Coefficiente angolare; Il segno di m; Pendenza tra due punti; Rette parallele
+- Qual è il coefficiente angolare della retta y = −3x + 7?
+- La retta y = −2x + 4 sale da sinistra verso destra.
+- Quale di queste rette è parallela all'asse x?
+- La retta parallela a y = 4x − 1 che passa per l'origine ha equazione y = ___.
+- Qual è il coefficiente angolare della retta che passa per A(1; 2) e B(3; 8)?
+- Sulla retta y = 2x + 1, se x aumenta di 5, di quanto aumenta y?
+- Una strada sale di 12 m mentre avanza di 100 m in orizzontale. Qual è la sua pendenza?
+- Le rette y = 3x + 2 e y = 3x − 4 si incontrano? Spiega usando il coefficiente angolare e controlla la tua ris…
+
+## Lettere al posto dei numeri [lib-3-media-matematica-calcolo-letterale] · MONOMIO
+concetti: Espressioni letterali; Monomi simili; Prodotto di monomi; Polinomi e riduzione
+- Qual è il valore di 3x + 2 quando x = 4?
+- Quale di questi monomi è simile a 5a²b?
+- La somma 3x + 2y si può semplificare scrivendo 5xy.
+- Quanto fa 7a − 3a + a?
+- Moltiplicando 2x³ per 4x², nel risultato l'esponente della x è ___.
+- Un rettangolo ha la base di 3a e l'altezza di 2a. Quanto misura la sua area?
+- Quanto fa il polinomio 3x² + 2x − x² + 5x, una volta ridotto?
+- Un rettangolo ha i lati che misurano 2x + 1 e x + 4. Scrivi il suo perimetro come polinomio ridotto e spiega …
+
+## Media, moda e mediana [lib-3-media-matematica-statistica] · MEDIA
+concetti: Indagine statistica e campione; Media aritmetica; Moda e mediana; Grafici statistici
+- I voti di Sara in matematica sono 6, 7, 8 e 7. Qual è la sua media?
+- Nella serie 2, 5, 5, 3, 5, 8, 3 il valore che compare più volte, cioè la ___, è 5.
+- Per sapere quanto tempo passano davanti agli schermi i ragazzi italiani si può intervistare un campione, inve…
+- Per trovare la mediana dei dati 9, 3, 7, 1, 5 devi prima metterli in ordine crescente. Ordinali.
+- Qual è la mediana dei dati 4, 10, 6, 8?
+- Vuoi mostrare in che percentuale i compagni di classe usano i diversi mezzi per venire a scuola, cioè come il…
+- Cinque amici ricevono queste paghette settimanali: 4 €, 5 €, 6 €, 7 € e 38 €. Perché qui la mediana descrive …
+- Giulia ha la media del 6 in 4 verifiche. Che voto deve prendere nella quinta verifica per arrivare alla media…
+
+## Modellini in scala [lib-3-media-matematica-similitudine-scale-solidi] · SCALA
+concetti: Scala di riduzione; Rapporto di similitudine; Rapporto tra le aree; Rapporto tra i volumi
+- Su una carta in scala 1:50 000 due paesi distano 4 cm. Quanto distano nella realtà?
+- Due triangoli equilateri sono sempre simili tra loro.
+- Un rettangolo di 4 cm × 6 cm viene ingrandito in modo che il lato di 4 cm diventi di 10 cm. Quanto diventa l'…
+- Se tutte le dimensioni di un tappeto si dimezzano, la sua area diventa ___ di quella iniziale.
+- Un cubo ha lo spigolo di 2 cm e un altro di 6 cm. Quante volte il volume del secondo è più grande di quello d…
+- Un modellino di automobile in scala 1:43 è lungo 10 cm. Quanto è lunga l'auto vera?
+- La pianta di un appartamento è in scala 1:100. Una stanza sulla pianta ha l'area di 12 cm². Qual è la sua are…
+- Una statua alta 2 m pesa 800 kg. Un artista ne fa una copia dello stesso materiale, simile all'originale, alt…
+
+## Monomi sotto la lente [lib-3-media-matematica-monomi-grado-divisione] · GRADO
+concetti: Parti di un monomio; Grado di un monomio; Potenza di un monomio; Divisione tra monomi
+- Qual è il coefficiente del monomio −5a²b?
+- Qual è il grado complessivo del monomio 4x³y²?
+- Il monomio 7ab ha grado 2.
+- Elevando al quadrato il monomio 3x⁴ si ottiene 9x elevato alla ___.
+- Quanto vale (−2a²b)³?
+- Quanto fa 15x⁶y² : 5x²y?
+- Un rettangolo ha l'area di 24a³b² e la base di 6a²b. Quanto misura l'altezza?
+- Il monomio 2x³ ha grado 3. Che grado ha il suo cubo (2x³)³? Spiega la regola che usi e se vale per qualsiasi …
+
+## Numeri giganti e minuscoli [lib-3-media-matematica-notazione-scientifica] · ATOMO
+concetti: Potenze di 10; Scrittura scientifica; Calcoli con la notazione; Ordini di grandezza
+- Quanto vale 3,7 · 10³?
+- Il numero 25 · 10⁴ è scritto in notazione scientifica.
+- La distanza media tra la Terra e il Sole è di circa 150 000 000 km. Come si scrive in notazione scientifica?
+- Il diametro di un capello è circa 0,00008 m. In notazione scientifica si scrive 8 · 10 elevato a ___.
+- Quanto fa (2 · 10⁵) · (3 · 10⁴)?
+- Quanto fa (5 · 10⁶) · (4 · 10³), scritto in notazione scientifica corretta?
+- Quante volte 10⁸ è più grande di 10⁵?
+- Un globulo rosso misura circa 7 · 10⁻⁶ m e una formica circa 7 · 10⁻³ m. Quante volte la formica è più lunga …
+
+## Oppure: sommare le probabilità [lib-3-media-matematica-probabilita-totale] · OPPURE
+concetti: Eventi incompatibili; Somma di probabilità; Eventi compatibili; Somma uguale a 1
+- Lanci un dado. Quali di questi eventi sono incompatibili?
+- Lanci un dado. Qual è la probabilità che esca 1 oppure 2?
+- In un'urna ci sono solo palline rosse, verdi e gialle. Se P(rossa) = 0,5 e P(verde) = 0,3, allora P(gialla) =…
+- Da un mazzo di 40 carte napoletane peschi una carta: la probabilità che sia un asso oppure un re è ___.
+- Lanci un dado. Qual è la probabilità che esca un numero pari oppure un numero maggiore di 3?
+- In una classe di 25 ragazzi, 12 fanno nuoto, 8 fanno calcio e 3 fanno entrambi gli sport. Scegliendo un ragaz…
+- Una ruota della fortuna ha settori rossi, blu e verdi. La probabilità di rosso è 1/4 e quella di blu è 1/3. Q…
+- Peschi una carta da un mazzo di 40 carte napoletane. Marta dice che la probabilità di pescare una carta di co…
+
+## Parentesi e segni in gioco [lib-3-media-matematica-espressioni-relativi] · ORDINE
+concetti: Togliere le parentesi; Regola dei segni; Ordine delle operazioni; Somma algebrica
+- Quanto fa (−24) : (+6)?
+- Se togli la parentesi, −(4 − 9 + 2) diventa −4 + 9 − 2.
+- La somma algebrica −7 + 12 − 3 + 5 − 10 vale ___.
+- Quanto vale −2 + 3 · (−4)?
+- Quanto fa (−36) : (−4) · (−2)?
+- Metti in ordine i passaggi per calcolare 18 : (−3) − (−2)² · 4.
+- Quanto vale 10 − [3 − (5 − 9)]?
+- Anna deve 15 € a suo fratello, quindi il suo 'saldo' è −15 €. Poi riceve 4 paghette da 12 € e spende 20 € per…
+
+## Pesi e dispersione dei dati [lib-3-media-matematica-media-ponderata-variazione] · SCARTO
+concetti: Campo di variazione; Scarto dalla media; Media ponderata; Stessa media, dati diversi
+- Le temperature massime di una settimana sono 12, 15, 9, 14, 18, 11 e 13 °C. Qual è il campo di variazione?
+- La somma degli scarti dalla media di un gruppo di dati è sempre zero.
+- La media dei dati 4, 7 e 10 è 7. Qual è lo scarto del dato 4?
+- In una tabella il voto 6 compare 3 volte e il voto 8 compare 1 volta: la media ponderata dei voti è ___.
+- Un negozio vende 10 magliette a 8 €, 5 a 12 € e 5 a 20 €. Qual è il prezzo medio di una maglietta venduta?
+- Due arcieri tirano 4 frecce. Anna fa 7, 8, 8, 9; Bruno fa 2, 10, 10, 10. Entrambi hanno la media di 8. Chi è …
+- Nella valutazione finale lo scritto conta il doppio dell'orale. Luisa prende 6 allo scritto e 9 all'orale. Qu…
+- Due città hanno la stessa temperatura media annuale di 15 °C. Nella prima le temperature medie mensili vanno …
+
+## Piramidi e apotema [lib-3-media-matematica-piramide-apotema] · CHEOPE
+concetti: Piramide retta e regolare; Apotema della piramide; Superficie laterale; Superficie totale
+- Quante facce laterali ha una piramide a base pentagonale?
+- In una piramide regolare tutte le facce laterali sono triangoli isosceli uguali tra loro.
+- Che cos'è l'apotema di una piramide regolare?
+- Una piramide regolare a base quadrata ha lo spigolo di base di 12 cm e l'altezza di 8 cm. Quanto misura l'apo…
+- Quella piramide ha il perimetro di base di 48 cm e l'apotema di 10 cm: la sua superficie laterale è ___ cm².
+- Quanto misura la superficie totale della stessa piramide (spigolo di base 12 cm, superficie laterale 240 cm²)?
+- Una piramide regolare a base quadrata ha l'apotema di 13 cm e lo spigolo di base di 10 cm. Quanto è alta?
+- Una tenda ha la forma di una piramide regolare a base quadrata con lo spigolo di base di 2 m e l'apotema di 2…
+
+## Poligoni dentro e fuori [lib-3-media-matematica-poligoni-inscritti-circoscritti] · ESAGONO
+concetti: Poligono inscritto; Poligono circoscritto; Quadrilateri inscrivibili; Poligoni regolari e apotema
+- Quando un triangolo si dice inscritto in una circonferenza?
+- Ogni triangolo si può inscrivere in una circonferenza.
+- Quale di questi quadrilateri si può sempre inscrivere in una circonferenza?
+- In un quadrilatero inscritto in una circonferenza un angolo misura 110°: l'angolo opposto misura ___.
+- Un quadrilatero ha i lati, in ordine, di 5 cm, 8 cm, 9 cm e 6 cm. Si può circoscrivere a una circonferenza?
+- Un esagono regolare è inscritto in una circonferenza con il raggio di 7 cm. Quanto misura il suo perimetro?
+- Un pentagono regolare ha il lato di 10 cm e l'apotema di circa 6,9 cm. Quanto misura circa la sua area?
+- Un quadrato ha il lato di 10 cm. Spiega quanto misura il raggio della circonferenza inscritta e quanto quello…
+
+## Polinomi in moltiplicazione [lib-3-media-matematica-polinomi-operazioni] · BINOMIO
+concetti: Polinomi e grado; Somma e differenza; Monomio per polinomio; Polinomio per polinomio
+- Qual è il grado del polinomio 3x⁴ − 2x² + 7x − 1?
+- (3x + 5) − (x − 2) è uguale a 2x + 3.
+- Quanto fa (2a² + 3a − 1) + (a² − 5a + 4)?
+- Quanto fa 4x(2x − 3)?
+- Moltiplicando (x + 2)(x + 5) si ottiene x² + ___x + 10.
+- Quanto fa (a − 3)(a + 4)?
+- Un'aiuola rettangolare ha i lati lunghi (x + 3) m e (2x + 1) m. Quale polinomio esprime la sua area?
+- Luca scrive: 2(x + 5) − x(3 − x) = 2x + 10 − 3x − x². Trova il suo errore, scrivi il risultato corretto e con…
+
+## Prismi retti da rivestire [lib-3-media-matematica-prisma-retto-superficie] · PRISMA
+concetti: Prisma retto; Superficie laterale; Superficie totale; Volume del prisma
+- Quante facce ha un prisma retto a base esagonale?
+- In un prisma retto le facce laterali sono rettangoli.
+- Un prisma retto a base triangolare ha i lati di base di 3 cm, 4 cm e 5 cm e l'altezza di 10 cm. Quanto misura…
+- Lo stesso prisma ha due basi triangolari rettangole di area 6 cm² ciascuna, quindi la sua superficie totale è…
+- Qual è il volume dello stesso prisma (base triangolare di 6 cm², altezza 10 cm)?
+- Lo sviluppo della superficie laterale di un prisma retto è un rettangolo. Che cosa rappresenta la sua base?
+- Una tenda da campeggio ha la forma di un prisma retto a base triangolare: il triangolo ha la base di 2 m e l'…
+- Una scatola di cioccolatini ha la forma di un prisma retto con la base a rombo: le diagonali del rombo misura…
+
+## Prismi, cubi e piramidi [lib-3-media-matematica-poliedri] · SPIGOLO
+concetti: Facce, spigoli e vertici; Superficie del parallelepipedo; Volume e capacità; La piramide
+- Quanti spigoli ha un cubo?
+- Il cilindro è un poliedro.
+- Qual è il volume di un cubo con lo spigolo di 3 cm?
+- Un acquario a forma di parallelepipedo misura 5 dm × 4 dm × 3 dm, quindi può contenere ___ litri d'acqua.
+- Devi incartare una scatola a forma di parallelepipedo che misura 10 cm, 5 cm e 4 cm. Quanta carta serve, come…
+- Una piramide e un prisma hanno la stessa base e la stessa altezza. Il volume della piramide è...
+- Un poliedro convesso ha 6 vertici e 12 spigoli. Quante facce ha, secondo la relazione di Eulero?
+- Una piramide a base quadrata ha lo spigolo di base di 6 cm e l'altezza di 10 cm. Calcola il suo volume e spie…
+
+## Prodotti davvero notevoli [lib-3-media-matematica-prodotti-notevoli] · CUBO
+concetti: Quadrato di un binomio; Somma per differenza; Cubo di un binomio; Calcoli veloci
+- (a + b)² è uguale a a² + b².
+- Quanto vale (x − 4)²?
+- Quanto fa (y + 6)(y − 6)?
+- Nel quadrato (3a + 2)² il doppio prodotto vale ___.
+- Calcola a mente 31 · 29 con un prodotto notevole.
+- Calcola a mente 51² usando il quadrato di un binomio.
+- Quanto vale (x + 2)³?
+- Immagina un quadrato di lato (a + b) diviso in quattro parti con due tagli. Usa le aree di queste parti per s…
+
+## Quanto pesa un solido? [lib-3-media-matematica-peso-specifico] · PESO
+concetti: Peso specifico; Peso, volume e materiale; Formule inverse; Galleggiare o affondare
+- Che cosa significa che il peso specifico del ferro è circa 7,8 g/cm³?
+- Un cubetto di ghiaccio galleggia nell'acqua perché il suo peso specifico, circa 0,92 g/cm³, è minore di quell…
+- Un cubo di alluminio ha lo spigolo di 2 cm. Quanto pesa, se il peso specifico dell'alluminio è 2,7 g/cm³?
+- Una lastra di vetro ha il volume di 500 cm³ e il vetro ha peso specifico 2,5 g/cm³: la lastra pesa ___ g.
+- Un oggetto d'oro pesa 386 g. Il peso specifico dell'oro è 19,3 g/cm³: qual è il volume dell'oggetto?
+- Un blocchetto di 50 cm³ pesa 35 g. Qual è il suo peso specifico, e che cosa succede se lo metti in acqua?
+- Una colonna di marmo cilindrica ha il raggio di 0,2 m e l'altezza di 3 m. Il marmo pesa circa 2,7 t per ogni …
+- Una sfera piena di sughero e una sfera piena di ferro hanno lo stesso raggio. Spiega quale pesa di più, quale…
+
+## Quanto è probabile? [lib-3-media-matematica-probabilita] · DADO
+concetti: Eventi certi e impossibili; Probabilità classica; Evento contrario; Frequenza e prove ripetute
+- Lanci un normale dado a sei facce. Quale di questi eventi è impossibile?
+- Una probabilità può valere 1,5.
+- Lanciando un dado, qual è la probabilità che esca un numero maggiore di 4?
+- In un sacchetto ci sono 3 palline rosse, 5 blu e 2 verdi. La probabilità di pescare una pallina blu è ___.
+- La probabilità che domani piova è del 30%. Qual è la probabilità che NON piova?
+- Da un mazzo di 40 carte napoletane (10 per ciascun seme: coppe, denari, spade e bastoni) peschi una carta. Qu…
+- Lanci una moneta 50 volte ed esce 'testa' 28 volte. Qual è la frequenza relativa di 'testa'?
+- Marco lancia un dado 6 volte e il 3 non esce mai. Allora esclama: 'Questo dado è truccato!'. Ha ragione? Spie…
+
+## Rette che toccano cerchi [lib-3-media-matematica-rette-tangenti-circonferenza] · SFIORA
+concetti: Posizioni di una retta; Distanza dal centro; Tangente e raggio; Due circonferenze
+- Quanti punti in comune ha una retta secante con una circonferenza?
+- La retta tangente a una circonferenza è perpendicolare al raggio nel punto di tangenza.
+- Una circonferenza ha il raggio di 5 cm e una retta dista 3 cm dal suo centro. Com'è la retta?
+- Se la distanza di una retta dal centro di una circonferenza è uguale al raggio, la retta è ___.
+- Da un punto P esterno a una circonferenza di centro O si traccia la tangente PT. Il raggio è 5 cm e OP misura…
+- Due circonferenze hanno i raggi di 4 cm e 3 cm e i centri distanti 7 cm. Come sono tra loro?
+- Due circonferenze con i raggi di 5 cm e 2 cm hanno i centri distanti 4 cm. Come sono tra loro?
+- La ruota di una bicicletta poggia sulla strada. Spiega che posizione ha la strada rispetto alla ruota e che a…
+
+## Rette e proporzionalità [lib-3-media-matematica-rette-proporzionalita] · RETTA
+concetti: Funzione matematica; Proporzionalità diretta; Proporzionalità inversa; Equazione della retta
+- Nella funzione y = 3x, quanto vale y quando x = 4?
+- Se 3 quaderni costano 6 €, allora 9 quaderni uguali costano 18 €.
+- Quale di queste formule rappresenta una proporzionalità diretta?
+- Con 2 pompe uguali una piscina si riempie in 12 ore. Quante ore servono con 6 pompe uguali?
+- Il grafico di una proporzionalità inversa è un ramo di ___.
+- In quale punto la retta y = 2x − 3 incontra l'asse y?
+- Quale di questi punti appartiene alla retta y = −x + 4?
+- Le rette y = 2x + 1 e y = −2x + 1 hanno qualcosa in comune e qualcosa di diverso. Spiega che cosa.
+
+## Ripasso: matematica in viaggio [lib-3-media-matematica-ripasso-matematica-viaggio] · VIAGGIO
+concetti: Velocità e tempi; Percentuali e spese; Volumi e capacità; Medie e probabilità
+- Un'auto viaggia a 90 km/h per 2 ore e 20 minuti. Quanti km percorre?
+- Una valigia di 50 cm × 35 cm × 20 cm ha un volume di 35 litri.
+- Il biglietto del treno costa 48 €, ma con la carta giovani c'è lo sconto del 25%. Quanto paghi?
+- In 5 giorni di vacanza spendi 32 €, 28 €, 40 €, 25 € e 35 €: la spesa media giornaliera è di ___ €.
+- Un ciclista percorre 45 km in 2 ore e 30 minuti. Qual è la sua velocità media?
+- Il bagagliaio di un'auto ha la capacità di 420 litri. Quante scatole cubiche con lo spigolo di 30 cm ci stann…
+- In un sacchetto di caramelle per il viaggio ce ne sono 5 alla fragola, 3 al limone e 12 alla menta. Ne prendi…
+- Per un viaggio di 450 km un'auto consuma in media 1 litro di benzina ogni 15 km e la benzina costa 1,80 € al …
+
+## Sconti, aumenti e percentuali [lib-3-media-matematica-percentuali-sconti] · SCONTO
+concetti: Calcolare una percentuale; Sconti; Aumenti; Percentuali successive
+- Quanto è il 15% di 80?
+- Con uno sconto del 30% su un paio di scarpe da 60 €, si pagano 42 €.
+- Un abbonamento costa 250 € e aumenta del 4%. Quanto costa ora?
+- In una scuola di 600 alunni, 210 vengono in bicicletta, cioè il ___ del totale.
+- Dopo uno sconto del 25% una giacca costa 90 €. Quanto costava prima dello sconto?
+- Gli iscritti a un club passano da 80 a 92. Di che percentuale sono aumentati?
+- Un videogioco costa 50 €. Prima aumenta del 20%, poi viene scontato del 20%. Quanto costa alla fine?
+- Un negozio fa lo sconto del 10% e poi, alla cassa, un altro 10% sul prezzo già scontato. Un cliente pensa di …
+
+## Smontare un polinomio [lib-3-media-matematica-scomposizione] · FATTORE
+concetti: Che cosa vuol dire scomporre; Raccoglimento a fattor comune; Differenza di quadrati; Trinomio quadrato
+- Scomporre un polinomio significa scriverlo come una somma di monomi.
+- Qual è il fattore comune da raccogliere in 5a + 15?
+- Come si scompone 4x³ − 8x²?
+- Il binomio x² − 49 si scompone nel prodotto (x + 7)(___).
+- Quale di questi binomi è una differenza di quadrati?
+- Quale quadrato di binomio è uguale a x² − 6x + 9?
+- Calcola nel modo più furbo 47² − 43².
+- Un orto rettangolare ha l'area di (x² + 5x) m² e un lato lungo x m. Trova l'altro lato scomponendo il polinom…
+
+## Solidi uno sull'altro [lib-3-media-matematica-solidi-composti] · TORRE
+concetti: Solidi composti; Solidi con cavità; Superficie dei composti; Capacità e misure
+- Il volume di un solido formato da un cilindro con sopra un cono è la somma dei volumi del cilindro e del cono.
+- Quanti litri contiene un recipiente di 3,5 dm³?
+- Una torre è formata da un cilindro con raggio 2 m e altezza 9 m e, sopra, da un cono con lo stesso raggio e a…
+- Un cubo di legno con lo spigolo di 10 cm è attraversato da un foro a forma di parallelepipedo con la sezione …
+- Un tubo di cemento è lungo 2 m, con il raggio esterno di 0,5 m e quello interno di 0,4 m. Quanto cemento serv…
+- Due cubi uguali con lo spigolo di 3 cm vengono incollati faccia contro faccia. Quanto misura la superficie es…
+- Un bicchiere cilindrico ha il raggio interno di 4 cm e l'altezza interna di 10 cm. Quanta acqua contiene al m…
+- Un silo per il grano è formato da un cilindro con raggio 2 m e altezza 6 m, sotto il quale c'è un cono rovesc…
+
+## Sopra e sotto lo zero [lib-3-media-matematica-numeri-relativi] · SEGNO
+concetti: Numeri relativi e valore assoluto; Confronto sulla retta; Addizione e sottrazione; Prodotti e potenze
+- Quale di questi numeri ha il valore assoluto più grande?
+- Il numero −8 è maggiore di −3.
+- Metti in ordine questi numeri dal più piccolo al più grande.
+- Di notte il termometro segna −4 °C; a mezzogiorno la temperatura è salita di 9 gradi. Quanti gradi segna ora?
+- In una mattina d'inverno la temperatura passa da −6 °C a +4 °C. Di quanti gradi è aumentata?
+- Il prodotto (−3) · (−5) · (−2) vale 30 in valore assoluto ed è un numero ___.
+- Quanto vale (−2)⁴, e perché?
+- Un sub si trova a 12 m sotto il livello del mare (−12 m). Risale di 5 m e poi scende di 8 m. A che quota si t…
+
+## Specchi nel piano cartesiano [lib-3-media-matematica-simmetrie-piano-cartesiano] · GEMELLO
+concetti: Simmetria rispetto all'asse x; Simmetria rispetto all'asse y; Simmetria centrale nell'origine; Traslazioni
+- Qual è il simmetrico di P(3; 5) rispetto all'asse x?
+- Qual è il simmetrico di Q(−4; 2) rispetto all'asse y?
+- Il simmetrico di A(2; −7) rispetto all'origine è A'(−2; 7).
+- Traslando il punto B(1; 4) con il vettore (5; −3) si ottiene il punto B'(6; ___).
+- Il punto medio tra un punto P e il suo simmetrico P' rispetto all'origine è sempre…
+- Un punto del II quadrante viene riflesso rispetto all'asse x. In quale quadrante finisce?
+- Il triangolo con vertici A(0; 0), B(3; 0) e C(0; 2) viene traslato con il vettore (−2; 4). Quali sono i nuovi…
+- Il segmento AB ha estremi A(1; 1) e B(4; 3). Trova il suo simmetrico A'B' rispetto all'asse y e spiega perché…
+
+## Tabelle di frequenza [lib-3-media-matematica-tabelle-frequenze] · TABELLA
+concetti: Frequenza assoluta; Frequenza relativa; Frequenza percentuale; Dati in classi
+- In un sondaggio su 20 ragazzi, 7 preferiscono il basket. Qual è la frequenza assoluta del basket?
+- Nello stesso sondaggio (7 ragazzi su 20), qual è la frequenza relativa del basket?
+- In una tabella, la somma di tutte le frequenze relative è sempre uguale a 1.
+- Una frequenza relativa di 0,35 corrisponde a una frequenza percentuale del ___.
+- Nella tabella dei voti di una verifica: voto 5 → 3 alunni, voto 6 → 8, voto 7 → 7, voto 8 → 4, voto 9 → 3. Qu…
+- Con la stessa tabella dei voti (25 alunni), quale percentuale di alunni ha preso almeno 7?
+- Le altezze di 30 ragazzi sono raggruppate in classi: 140-149 cm → 4 ragazzi, 150-159 cm → 11, 160-169 cm → 12…
+- In due classi si chiede chi va a scuola a piedi. Nella 3ª A rispondono sì 12 ragazzi su 24, nella 3ª B 13 su …
+
+## Tariffe, taxi e funzioni lineari [lib-3-media-matematica-funzioni-lineari-tariffe] · TARIFFA
+concetti: Quota fissa e quota variabile; Tabella e grafico; Confrontare due tariffe; Proporzionale o no
+- Un taxi costa 3 € alla partenza più 1,50 € per ogni km. Quanto paghi per 8 km?
+- Quale formula esprime il costo y, in euro, di quel taxi per x km?
+- Con la tariffa del taxi, 16 km costano esattamente il doppio di 8 km.
+- Il grafico della funzione y = 1,5x + 3 è una retta che taglia l'asse y nel punto (0; ___).
+- La palestra A costa 40 € di iscrizione più 20 € al mese; la palestra B non ha iscrizione e costa 30 € al mese…
+- Con le stesse due palestre, quale conviene a chi vuole iscriversi per un anno intero?
+- La tabella di una tariffa internet dice: 0 GB → 5 €, 2 GB → 9 €, 4 GB → 13 €. Quanto costa ogni GB?
+- Confronta la tariffa A (y = 0,20x: si paga solo ogni messaggio) e la tariffa B (y = 0,10x + 5). Quale delle d…
+
+## Torte e istogrammi [lib-3-media-matematica-aerogramma-istogramma] · TORTA
+concetti: Angoli dell'aerogramma; Istogramma; Barre e ideogrammi; Grafici corretti
+- In un aerogramma, quanti gradi corrispondono all'intero cerchio, cioè al 100% dei dati?
+- In un aerogramma un settore rappresenta il 25% dei dati. Quanto misura il suo angolo?
+- In un diagramma a barre, un asse verticale che non parte da zero può far sembrare grandi differenze che in re…
+- In una classe di 24 alunni, 8 vanno a scuola in autobus: nell'aerogramma il settore 'autobus' misura ___.
+- In un ideogramma ogni omino rappresenta 50 persone. Quante persone indicano 7 omini e mezzo?
+- Quale grafico è più adatto per rappresentare le altezze di 100 ragazzi raggruppate in classi di 10 cm?
+- Un aerogramma ha un settore di 72°. Se i dati sono in tutto 250, quanti dati rappresenta quel settore?
+- Un volantino mostra un grafico a barre in cui le vendite di un negozio passano da 980 a 1000 pezzi, ma la sec…
+
+## Vestire cilindri e coni [lib-3-media-matematica-superficie-cilindro-cono] · GELATO
+concetti: Superficie del cilindro; Apotema del cono; Superficie del cono; Sviluppi
+- Che figura ottieni srotolando la superficie laterale di un cono?
+- Un cilindro ha il raggio di 4 cm e l'altezza di 10 cm. Quanto misura la sua superficie laterale? (lascia π in…
+- La superficie totale di quel cilindro è 80π + 32π = 112π cm².
+- Un cono ha il raggio di base di 6 cm e l'altezza di 8 cm: il suo apotema misura ___ cm.
+- Quanto misura la superficie laterale di quel cono, con raggio 6 cm e apotema 10 cm? (lascia π indicato)
+- Quanto misura la superficie totale dello stesso cono? (lascia π indicato)
+- Un'etichetta avvolge esattamente il fianco di una lattina alta 12 cm, con il diametro di 7 cm. Quanto misura …
+- Vuoi costruire un cono di cartoncino con il raggio di base di 3 cm e l'apotema di 5 cm. Descrivi lo sviluppo …

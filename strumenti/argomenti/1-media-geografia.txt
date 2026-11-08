@@ -1,0 +1,553 @@
+# 1ª media · Geografia: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Appiattire la Terra non è facile [lib-1-media-geografia-mappamondo-planisfero-proiezioni] · GLOBO
+concetti: Il mappamondo; Il planisfero; Le proiezioni; Le carte equivalenti
+- Quale rappresentazione della Terra deforma meno le forme e le distanze?
+- Su un planisfero puoi vedere tutti i continenti nello stesso momento.
+- Perché ogni planisfero contiene qualche deformazione?
+- La proiezione ideata da ___ era molto usata dai naviganti, perché mantiene corretti gli angoli e le direzioni.
+- Sul planisfero di Mercatore la Groenlandia sembra grande quanto l'Africa. Com'è nella realtà?
+- Che cosa conserva correttamente la proiezione di Peters?
+- Il mappamondo è lo strumento più comodo da portare con sé durante un viaggio.
+- Un compagno dice: «L'Europa è grande quasi quanto il Sud America, l'ho visto sul planisfero». Che cosa gli ri…
+
+## Bussola e stella polare [lib-1-media-geografia-bussola-e-stella-polare] · POLARE
+concetti: La bussola; Nord magnetico e geografico; La stella polare; Strumenti moderni
+- Che cosa c'è dentro una bussola che le permette di indicare il Nord?
+- La stella polare è utile per orientarsi perché indica il Nord.
+- Quale gruppo di stelle aiuta a trovare la stella polare nel cielo?
+- L'ago della bussola punta verso il Nord ___, che è vicino al Polo Nord geografico ma non coincide con esso.
+- Perché non bisogna usare la bussola appoggiata su un grosso oggetto di ferro?
+- Che cosa usa il navigatore GPS per sapere dove ti trovi?
+- Un ragazzo che vive in Australia può trovare la stella polare nel cielo per orientarsi.
+- Durante un'escursione in montagna il telefono si scarica. Perché è utile avere nello zaino anche una bussola …
+
+## Come nasce una città [lib-1-media-geografia-nascita-e-struttura-della-citta] · BORGO
+concetti: Perché nasce una città; La pianta della città; Centro e periferia; Le funzioni della città
+- Quale luogo era il più favorevole per la nascita di una città?
+- Nelle città romane le due strade principali erano il cardo e il ___.
+- Il centro storico è di solito la parte più antica della città.
+- Che cosa si trova più spesso nella periferia di una grande città?
+- Roma è sede del Parlamento e del Governo italiano. Quale funzione svolge in modo particolare?
+- Metti in ordine le zone che attraversi andando dal centro di una grande città verso l'esterno.
+- Perché le vie dei centri medievali sono spesso strette e tortuose?
+- Pensa alla città più vicina a te: quali funzioni svolge? Indicane almeno due e spiega da che cosa le riconosc…
+
+## Coste alte e coste basse [lib-1-media-geografia-le-coste] · COSTA
+concetti: Coste alte e basse; Le forme della costa; Il mare modella le coste; Le coste italiane
+- Come si chiama una costa rocciosa che scende a picco sul mare?
+- Un tratto di mare che entra profondamente nella terraferma si chiama ___.
+- La costa della Romagna, sull'Adriatico, è soprattutto bassa e sabbiosa.
+- Il Gargano è chiamato lo «sperone» dello stivale. Dal punto di vista geografico è...
+- Che cos'è un istmo?
+- Perché molte spiagge italiane si stanno restringendo?
+- Perché le coste basse e sabbiose sono molto adatte al turismo balneare?
+- Perché alcune coste sono alte e rocciose e altre basse e sabbiose? Spiegalo con parole tue.
+
+## Da dove soffia il vento? [lib-1-media-geografia-i-venti] · BORA
+concetti: Perché soffia il vento; Le brezze; I venti del Mediterraneo; Misurare il vento
+- Il vento è aria che si sposta. Da dove a dove?
+- Il vento freddo e violento che soffia da nord-est su Trieste si chiama ___.
+- Di giorno, al mare, la brezza soffia dal mare verso la terra.
+- Perché di notte la brezza soffia dalla terra verso il mare?
+- Metti in ordine le fasi della nascita della brezza di mare in una giornata d'estate.
+- Come è di solito lo scirocco?
+- Quale strumento misura la velocità del vento?
+- A volte, dopo una pioggia con lo scirocco, le auto si coprono di una polvere rossastra. Spiega da dove arriva.
+
+## Dalla terra alla tavola [lib-1-media-geografia-settore-primario] · ARATRO
+concetti: Le attività del primario; Agricoltura intensiva ed estensiva; Allevamento e transumanza; Qualità e prodotti tipici
+- Quale di queste attività fa parte del settore primario?
+- La coltivazione e la cura dei boschi per ricavarne legname si chiama ___.
+- L'agricoltura intensiva usa macchine, irrigazione e fertilizzanti per ottenere molto prodotto da poca terra.
+- Che cosa garantisce il marchio DOP su un formaggio?
+- Che cos'è la transumanza?
+- Perché nella Pianura Padana l'agricoltura è molto produttiva?
+- Metti in ordine il percorso del grano, dal campo alla tavola.
+- Perché alcune famiglie scelgono prodotti biologici e perché questi di solito costano di più?
+
+## Dalla tundra alla steppa [lib-1-media-geografia-ambienti-naturali-europa] · TAIGA
+concetti: La tundra; La taiga; Le foreste di latifoglie; La steppa
+- Quali alberi formano soprattutto la taiga?
+- Nella tundra il sottosuolo resta gelato tutto l'anno: si chiama ___.
+- Le latifoglie decidue, come querce e faggi, perdono le foglie in autunno.
+- Metti in ordine gli ambienti che incontri viaggiando nella Russia europea, da nord a sud.
+- Perché nella tundra non crescono alberi?
+- Perché la steppa dell'Ucraina è chiamata «granaio d'Europa»?
+- Perché in gran parte dell'Europa centrale le antiche foreste di latifoglie sono quasi scomparse?
+- Quali caratteristiche permettono alle conifere di vivere nella taiga, dove gli inverni sono lunghi e gelidi?
+
+## Dentro un vulcano [lib-1-media-geografia-i-vulcani] · CRATERE
+concetti: Com'è fatto un vulcano; Magma e lava; Attivi, quiescenti, spenti; I vulcani italiani; Vivere vicino ai vulcani
+- Come si chiama l'apertura in cima al vulcano da cui escono lava e gas?
+- Quando il magma esce in superficie prende il nome di ___.
+- Metti in ordine il percorso del magma durante un'eruzione.
+- Quale vulcano seppellì le città di Pompei ed Ercolano nel 79 d.C.?
+- Un vulcano quiescente è sicuramente spento e non potrà mai più eruttare.
+- Qual è il vulcano attivo più alto d'Europa?
+- Perché tante persone coltivano vigne e frutteti sulle pendici dell'Etna, nonostante il pericolo?
+- Che cosa può fare una città vicina a un vulcano attivo per proteggere i suoi abitanti?
+
+## Dove finisce l'Europa? [lib-1-media-geografia-confini-e-penisole-europa] · URALI
+concetti: I confini dell'Europa; Le grandi penisole; Le catene montuose; Europa, parte dell'Eurasia
+- Quale catena montuosa segna il confine orientale tra Europa e Asia?
+- Quale catena montuosa separa la Francia dalla Spagna?
+- Europa e Asia formano un unico grande blocco di terre chiamato Eurasia.
+- Spagna e Portogallo occupano la penisola ___.
+- Perché si dice che il confine orientale dell'Europa è «convenzionale»?
+- Quale catena montuosa disegna un grande arco nell'Europa centro-orientale, attraversando soprattutto la Roman…
+- Qual è la penisola più estesa d'Europa?
+- Perché l'Europa viene considerata un continente anche se è attaccata all'Asia senza un mare che la separi?
+
+## Energia: finita o infinita? [lib-1-media-geografia-fonti-di-energia] · ENERGIA
+concetti: Fonti non rinnovabili; Fonti rinnovabili; Pro e contro; L'energia in Italia
+- Quale di queste è una fonte di energia non rinnovabile?
+- L'energia prodotta da pale mosse dal vento si chiama energia ___.
+- Le fonti non rinnovabili prima o poi si esauriranno, perché si sono formate in tempi lunghissimi.
+- In quale regione si trova la famosa zona geotermica di Larderello?
+- Qual è uno svantaggio dei pannelli solari?
+- Metti in ordine le fasi della produzione di energia in una centrale idroelettrica.
+- Perché l'Italia deve importare gran parte del petrolio e del gas che usa?
+- Perché è importante passare dalle fonti fossili alle fonti rinnovabili? Indica almeno due motivi.
+
+## Fabbriche e botteghe [lib-1-media-geografia-settore-secondario] · OPERAIO
+concetti: Trasformare le materie prime; Industria e artigianato; Dove nasce una fabbrica; L'industria italiana
+- Quale di questi è una materia prima?
+- Chi produce oggetti a mano o con poche macchine, in un piccolo laboratorio, è un ___.
+- La prima rivoluzione industriale iniziò in Inghilterra nel Settecento.
+- Metti in ordine le fasi per produrre una maglietta di cotone.
+- Perché molte fabbriche sorgono vicino a porti, ferrovie e autostrade?
+- Che cos'è un distretto industriale?
+- Quale di queste è un esempio di industria pesante?
+- Perché i prodotti «Made in Italy», come vestiti, mobili e cibo, sono apprezzati in tutto il mondo?
+
+## Fisica, politica o tematica? [lib-1-media-geografia-tipi-di-carte-geografiche] · MAPPA
+concetti: La carta fisica; La carta politica; La carta tematica; Dalla pianta alla carta geografica
+- Quale carta useresti per scoprire dove si trovano le catene montuose d'Italia?
+- Su una carta politica sono indicati i confini tra gli Stati.
+- Una carta d'Italia colora le regioni in base al numero di abitanti per km². Che tipo di carta è?
+- Sulla carta politica la città sede del governo di uno Stato è segnata come ___.
+- Quale di queste rappresentazioni mostra il maggior numero di dettagli?
+- Metti in ordine queste rappresentazioni, da quella con più dettagli a quella con meno dettagli.
+- Vuoi preparare una gita in bicicletta lungo il Po e sapere quali città attraverserai. Quale carta è più adatt…
+- Inventa una carta tematica utile per la tua città o la tua scuola: quale argomento rappresenterebbe e quali s…
+
+## Fiumi di ghiaccio [lib-1-media-geografia-i-ghiacciai] · MORENA
+concetti: Il limite delle nevi perenni; Come nasce un ghiacciaio; Le morene; Le valli a U; I ghiacciai in ritiro
+- Che cos'è il limite delle nevi perenni?
+- Le valli scavate da un ghiacciaio hanno la forma di una V.
+- Metti in ordine le fasi della vita di un ghiacciaio.
+- I detriti di roccia trasportati e depositati da un ghiacciaio si chiamano ___.
+- Perché vicino all'equatore il limite delle nevi perenni è molto più alto che sulle Alpi?
+- Quale osservazione mostra che un ghiacciaio alpino si sta ritirando?
+- Intorno a Ivrea, in Piemonte, le colline formano un enorme anfiteatro di sassi e detriti. Che cosa ci raccont…
+- Perché il ritiro dei ghiacciai alpini è un problema anche per chi vive in pianura, lontano dalle montagne?
+
+## Gli Appennini, spina dorsale [lib-1-media-geografia-gli-appennini] · DORSALE
+concetti: La spina dorsale d'Italia; Le parti dell'Appennino; La vetta più alta; Rocce fragili e terremoti; Lo spartiacque
+- Perché gli Appennini vengono chiamati la «spina dorsale» dell'Italia?
+- In quale regione si trova il Gran Sasso, con la vetta più alta degli Appennini?
+- In media gli Appennini sono più alti delle Alpi.
+- La linea di cresta che divide le acque dirette al Tirreno da quelle dirette all'Adriatico si chiama ___.
+- Metti in ordine questi tratti dell'Appennino, da nord a sud.
+- Perché sugli Appennini le frane sono frequenti?
+- Nell'Italia centrale i fiumi che scendono verso l'Adriatico sono di solito più corti di quelli verso il Tirre…
+- Un amico dice: «Alpi e Appennini sono montagne uguali, cambiano solo di posto». Che cosa gli rispondi? Confro…
+
+## Grandi fiumi e laghi d'Europa [lib-1-media-geografia-fiumi-e-laghi-europa] · VOLGA
+concetti: Volga e Danubio; Il Reno, fiume dei commerci; Fiumi e capitali; I laghi d'Europa
+- Qual è il lago più grande d'Europa?
+- Parigi è attraversata dalla ___.
+- Il Danubio sfocia nel mar Nero.
+- Metti in ordine questi fiumi europei, dal più lungo al più corto.
+- Perché il Reno è uno dei fiumi più importanti per i commerci europei?
+- Perché la Finlandia è chiamata «la terra dei mille laghi»?
+- Perché i fiumi della Russia europea, come il Volga, sono molto lunghi e scorrono lenti?
+- Il Danubio attraversa dieci Stati. Perché per un fiume come questo è necessario che i paesi collaborino tra l…
+
+## I climi dell'Italia [lib-1-media-geografia-climi-italia] · NEBBIA
+concetti: Il clima alpino; Il clima padano; Il clima appenninico; Il clima mediterraneo; Tirreno e Adriatico
+- Perché d'inverno nella Pianura Padana c'è spesso la nebbia?
+- Palermo e Cagliari hanno un clima ___, con estati calde e secche.
+- Nella Pianura Padana l'estate è calda e afosa.
+- Perché d'inverno la costa adriatica è più fredda di quella tirrenica, alla stessa latitudine?
+- Nel clima alpino le estati sono lunghe, calde e afose.
+- Perché un paese dell'Appennino abruzzese ha inverni molto più freddi di Pescara?
+- Perché in Liguria crescono olivi e piante mediterranee anche se è una regione del nord?
+- Confronta l'inverno a Milano e a Palermo: in che cosa è diverso e perché?
+
+## I colori segreti delle carte [lib-1-media-geografia-legenda-colori-e-curve-di-livello] · LEGENDA
+concetti: Legenda e simboli; Le tinte altimetriche; Il blu delle acque; Le curve di livello
+- In una carta fisica, quale colore indica di solito le pianure?
+- Su una carta fisica un blu molto scuro indica un mare poco profondo.
+- Su una carta trovi un simbolo a forma di aeroplano. Dove controlli che cosa significa?
+- Le linee che uniscono i punti che si trovano alla stessa altitudine si chiamano curve di ___.
+- Una zona della carta fisica è colorata di marrone molto scuro. Che cosa rappresenta probabilmente?
+- Su una carta topografica le curve di livello di una montagna sono molto fitte su un lato. Che cosa significa?
+- Due atlanti diversi possono usare simboli diversi per la stessa cosa: per questo conviene sempre leggere la l…
+- Due sentieri portano sulla stessa cima. Sulla carta, le curve di livello lungo il primo sono distanti tra lor…
+
+## I grandi fiumi italiani [lib-1-media-geografia-i-fiumi-italiani] · TEVERE
+concetti: Il Po; Gli affluenti del Po; Adige, Tevere e Arno; Fiumi e città
+- Qual è il fiume più lungo d'Italia?
+- Da quale monte nasce il Po?
+- Roma è attraversata dal fiume ___.
+- L'Arno sfocia nel mare Adriatico.
+- Metti in ordine questi fiumi, dal più lungo al più corto.
+- Quale di questi fiumi è un affluente alpino del Po?
+- Molti affluenti alpini del Po attraversano un grande lago prima di arrivare al fiume. Quale lago attraversa l…
+- Perché tante città importanti, in Italia e nel mondo, sono nate sulle rive di un fiume?
+
+## I mari intorno allo stivale [lib-1-media-geografia-i-mari-italiani] · TIRRENO
+concetti: Il Mediterraneo; I mari d'Italia; Stretti e canali; Mari profondi e mari bassi
+- Quale mare bagna Venezia, Ancona e Bari?
+- La Sicilia è separata dalla Calabria dallo stretto di ___.
+- Il Mediterraneo comunica con l'oceano Atlantico attraverso lo stretto di Gibilterra.
+- Navighi in barca da Genova a Venezia girando intorno alla penisola. Metti in ordine i mari che attraversi.
+- Quale mare italiano è il meno profondo, soprattutto nella sua parte settentrionale?
+- Quale passaggio di mare collega l'Adriatico allo Ionio, tra la Puglia e l'Albania?
+- Perché il Mediterraneo, fin dall'antichità, è stato una via di incontro tra popoli diversi?
+- Perché un mare quasi chiuso come il Mediterraneo è più delicato degli oceani di fronte all'inquinamento?
+
+## Il climogramma racconta [lib-1-media-geografia-leggere-un-climogramma] · PIOGGIA
+concetti: Com'è fatto un climogramma; La temperatura media annua; L'escursione termica annua; Riconoscere il clima
+- In un climogramma, che cosa rappresentano di solito le barre colorate?
+- La differenza tra la temperatura media del mese più caldo e quella del mese più freddo si chiama escursione t…
+- In una città gennaio ha una media di 4 °C e luglio di 26 °C. Qual è l'escursione termica annua?
+- Se gennaio ha una media di −5 °C e luglio di 20 °C, l'escursione termica annua è di 15 °C.
+- Sommando le temperature medie dei 12 mesi di una città si ottiene 180. Qual è la temperatura media annua?
+- Nel climogramma di una città con clima mediterraneo le barre delle precipitazioni sono più basse nei mesi est…
+- Un climogramma mostra una temperatura di circa 27 °C in tutti i mesi e piogge abbondanti ogni mese. Che clima…
+- Il climogramma della città A ha un'escursione termica annua di 8 °C, quello della città B di 30 °C. Quale del…
+
+## Il mare non sta fermo [lib-1-media-geografia-onde-maree-correnti] · MAREA
+concetti: Le onde; Le maree; Le correnti marine; La salinità
+- Che cosa produce le onde del mare?
+- Il periodico alzarsi e abbassarsi del livello del mare si chiama ___.
+- Quale corpo celeste causa soprattutto le maree?
+- Il mar Mediterraneo è più salato della media degli oceani.
+- Perché i porti della Norvegia restano liberi dal ghiaccio d'inverno, anche se sono molto a nord?
+- Perché il mar Baltico è poco salato?
+- Perché nel Mediterraneo le maree sono molto più deboli che sulle coste dell'Atlantico?
+- Che cosa succederebbe al clima dell'Europa nord-occidentale se la Corrente del Golfo diventasse molto più deb…
+
+## Il mestiere del geografo [lib-1-media-geografia-che-cosa-studia-la-geografia] · MONDO
+concetti: Descrivere la Terra; Geografia fisica e umana; Il paesaggio; Gli strumenti del geografo
+- Che cosa significa la parola «geografia», che viene dal greco?
+- Quale di questi argomenti studia la geografia umana?
+- Un paesaggio con campi coltivati, strade e paesi è un paesaggio antropizzato.
+- Le immagini scattate dallo spazio, utili per studiare territori molto grandi, sono le immagini ___.
+- Una studiosa misura come cambia la quantità d'acqua di un fiume durante l'anno. Di quale ramo della geografia…
+- Quale di questi paesaggi è il più vicino a un paesaggio naturale?
+- Per descrivere bene un territorio il geografo usa soltanto le carte geografiche.
+- Pensa al tuo quartiere o al tuo paese: indica un elemento che studierebbe la geografia fisica e uno che studi…
+
+## Il mondo dei servizi [lib-1-media-geografia-settore-terziario] · SERVIZI
+concetti: Che cosa sono i servizi; Il commercio; Trasporti e comunicazioni; Il turismo; Il terziario avanzato
+- Quale di questi lavoratori appartiene al settore terziario?
+- In Italia la maggior parte dei lavoratori è occupata nel settore terziario.
+- Vendere prodotti italiani all'estero si dice ___.
+- Che differenza c'è tra commercio all'ingrosso e commercio al dettaglio?
+- Il turismo fa parte del settore secondario.
+- Quale di questi lavori fa parte del terziario avanzato?
+- Perché i trasporti sono fondamentali anche per gli altri settori?
+- Perché nei paesi più sviluppati sempre più persone lavorano nel settore terziario?
+
+## Il mondo delle colline [lib-1-media-geografia-le-colline] · COLLE
+concetti: Che cos'è una collina; L'origine delle colline; L'Italia collinare; Vivere in collina
+- Fino a quale altezza, più o meno, si parla di collina?
+- Quale forma di rilievo occupa la parte più grande del territorio italiano?
+- Le colline moreniche sono formate dai detriti di roccia trasportati e lasciati da un antico ghiacciaio.
+- I Colli Albani, vicino a Roma, sono colline di origine ___.
+- Perché sulle colline delle Langhe e del Chianti si coltiva tanta vite?
+- Una collina nata da una montagna antichissima, consumata per milioni di anni, è una collina...
+- Perché tanti borghi medievali italiani sorgono in cima a una collina?
+- In Italia circa il 42% del territorio è collina, il 35% montagna e il 23% pianura. Che cosa significano quest…
+
+## Il profumo della macchia [lib-1-media-geografia-macchia-mediterranea] · ULIVO
+concetti: La macchia mediterranea; Piante contro la siccità; La trilogia mediterranea; Gli incendi
+- Dove si trova soprattutto la macchia mediterranea?
+- Le piante della macchia mediterranea sono soprattutto sempreverdi.
+- Il ___ è una quercia sempreverde tipica dell'ambiente mediterraneo.
+- Perché molte piante della macchia hanno foglie piccole, dure e lucide?
+- Quali tre coltivazioni formano la «trilogia mediterranea»?
+- Perché d'estate gli incendi sono così frequenti nella macchia?
+- Metti in ordine come si impoverisce la vegetazione mediterranea dopo incendi ripetuti.
+- Sei in vacanza in un luogo con la macchia mediterranea. Che cosa puoi fare tu per aiutare a prevenire gli inc…
+
+## Il Sole come bussola [lib-1-media-geografia-orientarsi-con-il-sole] · ORIENTE
+concetti: I quattro punti cardinali; Il cammino del Sole; La rosa dei venti; Orientarsi
+- Da quale parte dell'orizzonte vedi sorgere il Sole al mattino?
+- Il punto cardinale Ovest si chiama anche ___, perché è la direzione in cui il Sole tramonta.
+- Il meridione è un altro nome del Nord.
+- In Italia, a mezzogiorno, ti metti con il Sole davanti agli occhi. Verso quale punto cardinale stai guardando?
+- All'alba allunghi il braccio destro verso il Sole che sorge. Che cosa hai davanti a te?
+- Quale direzione si trova esattamente a metà tra il Sud e l'Ovest?
+- Metti in ordine le posizioni del Sole durante una giornata in Italia, dal mattino alla sera.
+- Ti sei perso in campagna, verso sera, senza telefono. Come potresti usare il Sole che tramonta per capire dov…
+
+## Il tuo indirizzo sulla Terra [lib-1-media-geografia-latitudine-longitudine-fusi-orari] · GRADI
+concetti: La latitudine; La longitudine; Le coordinate geografiche; I fusi orari
+- Qual è la latitudine di un punto che si trova sull'Equatore?
+- Due città che si trovano sullo stesso meridiano hanno la stessa longitudine.
+- Qual è la latitudine del Polo Nord?
+- La longitudine più grande che un luogo può avere è di ___ gradi, verso Est o verso Ovest.
+- Roma ha coordinate di circa 42° Nord e 12° Est. Che cosa ti dice il dato «42° Nord»?
+- Quanti gradi di longitudine misura un fuso orario?
+- A Roma sono le 12. Che ora è in un luogo che si trova tre fusi orari più a Est?
+- Perché per indicare la posizione di un punto sulla Terra non basta la latitudine, ma serve anche la longitudi…
+
+## Il viaggio di un fiume [lib-1-media-geografia-dalla-sorgente-alla-foce] · FOCE
+concetti: Sorgente e corso; Affluenti e bacino; La foce a estuario; La foce a delta; I meandri
+- Come si chiama il punto in cui nasce un fiume?
+- Metti in ordine le parti di un fiume, dall'inizio alla fine del suo viaggio.
+- Un corso d'acqua che versa le sue acque in un fiume più grande si chiama ___.
+- Il Po sfocia nel mare Adriatico con una foce a delta.
+- Perché il Tamigi, a Londra, ha una foce a estuario e non a delta?
+- Perché nell'alto corso l'acqua di un fiume scorre veloce e impetuosa?
+- Che cos'è un meandro?
+- Perché il delta del Po continua, lentamente, ad allungarsi nel mare?
+
+## Isole e arcipelaghi [lib-1-media-geografia-isole-e-arcipelaghi] · ISOLA
+concetti: Isole e arcipelaghi; L'origine delle isole; Le grandi isole italiane; Le isole minori
+- Qual è l'isola più grande del Mediterraneo?
+- Un gruppo di isole vicine tra loro si chiama ___.
+- Le isole Eolie, come Stromboli e Vulcano, sono di origine vulcanica.
+- A quale arcipelago appartiene l'isola d'Elba?
+- Come si è formata un'isola come la Gran Bretagna?
+- Quale grande isola italiana è separata dalla Corsica dalle Bocche di Bonifacio?
+- Perché sulle isole minori molti prodotti costano più che sulla terraferma?
+- Spiega la differenza tra un'isola vulcanica e un'isola continentale, con un esempio per ciascuna.
+
+## L'acqua che scava la roccia [lib-1-media-geografia-il-carsismo] · GROTTA
+concetti: Che cos'è il carsismo; Le forme in superficie; Le forme sotterranee; Il Carso e le grotte italiane
+- Quale roccia viene sciolta lentamente dall'acqua nel fenomeno carsico?
+- Le formazioni di calcare che pendono dal soffitto di una grotta si chiamano ___.
+- Quando una stalattite e una stalagmite si uniscono formano una colonna.
+- Che cos'è una dolina?
+- Da dove prende il nome il carsismo?
+- Metti in ordine le fasi della formazione di una stalattite.
+- Perché nelle zone carsiche ci sono pochi fiumi in superficie?
+- Durante la visita a una grotta la guida ti chiede di non toccare e non spezzare le stalattiti. Perché è così …
+
+## La rete di paralleli e meridiani [lib-1-media-geografia-paralleli-e-meridiani] · GRIGLIA
+concetti: Il reticolato geografico; I paralleli; I meridiani; Gli emisferi
+- Qual è il parallelo più lungo della Terra?
+- I meridiani sono tutti lunghi uguali.
+- Il meridiano fondamentale, detto meridiano zero, passa per l'osservatorio di ___.
+- In quali emisferi si trova l'Italia?
+- Che cosa succede ai paralleli man mano che ci si avvicina ai poli?
+- Paralleli e meridiani sono linee che si vedono davvero sul terreno, come le strisce sulle strade.
+- Perché il reticolato geografico è prezioso per chi naviga in mezzo all'oceano?
+- Spiega la differenza tra un parallelo e un meridiano: come sono fatti, in che direzione vanno e quanto sono l…
+
+## Laghi: specchi d'acqua dolce [lib-1-media-geografia-i-laghi] · LAGO
+concetti: Immissario ed emissario; I laghi glaciali; I laghi vulcanici; Laghi costieri e artificiali; Il lago e il clima
+- Qual è il lago più grande d'Italia?
+- Il fiume che esce da un lago si chiama ___.
+- Perché i laghi di Bolsena e di Bracciano hanno una forma quasi rotonda?
+- Un lago artificiale si forma quando l'uomo costruisce una diga che sbarra un fiume.
+- Come sono di solito i laghi glaciali delle Prealpi, come il lago di Como?
+- Perché sulle rive del lago di Garda crescono olivi e limoni, anche se ci troviamo nel nord Italia?
+- I laghi di Lesina e Varano, in Puglia, sono separati dal mare da una sottile striscia di sabbia. Di che tipo …
+- Come puoi capire l'origine di un lago guardando la sua forma e la sua posizione su una carta? Fai almeno due …
+
+## Le Alpi, corona d'Italia [lib-1-media-geografia-le-alpi] · ALPI
+concetti: L'arco alpino; Le vette più alte; Le Dolomiti; Valichi e trafori
+- In quale parte dell'Italia si trovano le Alpi?
+- Qual è la vetta più alta delle Alpi?
+- Le Dolomiti fanno parte delle Alpi occidentali.
+- Un passaggio naturale tra le montagne che permette di attraversare una catena si chiama ___.
+- Metti in ordine queste parti delle Alpi, partendo dalla Liguria e andando verso nord-est.
+- Perché i trafori sono così importanti per l'Italia?
+- Per quale motivo le Dolomiti sono famose in tutto il mondo?
+- Le Alpi sono state nella storia sia una barriera sia un luogo di passaggio per l'Italia. Spiega perché.
+
+## Le fasce climatiche della Terra [lib-1-media-geografia-fasce-climatiche] · FASCIA
+concetti: Le cinque fasce; La fascia torrida; Le fasce temperate; Le fasce polari
+- Quante sono le fasce climatiche della Terra?
+- In quale fascia climatica si trova l'Italia?
+- La fascia torrida si trova tra il Tropico del Cancro e il Tropico del ___.
+- Metti in ordine le fasce climatiche, dal Polo Nord al Polo Sud.
+- Nelle zone polari, d'estate, il Sole può restare sopra l'orizzonte per tutte le 24 ore.
+- Quale clima della fascia torrida ha piogge abbondanti tutto l'anno e foreste fittissime?
+- Perché nei deserti caldi di notte può fare freddo?
+- Perché nella fascia temperata ci sono quattro stagioni ben distinte?
+
+## Leggere numeri e grafici [lib-1-media-geografia-grafici-e-tabelle] · GRAFICO
+concetti: Tabelle e dati statistici; L'istogramma; L'aerogramma; Il grafico a linee
+- Quale grafico usi per mostrare come si dividono in percentuale i lavoratori tra agricoltura, industria e serv…
+- In un istogramma la barra più alta corrisponde al valore più grande.
+- Vuoi mostrare come è cambiata la popolazione di un comune dal 1950 a oggi. Quale grafico è più adatto?
+- In un aerogramma l'intero cerchio rappresenta il ___ dei dati, cioè il 100%.
+- In un aerogramma lo spicchio dei lavoratori dei servizi occupa metà del cerchio. Che percentuale rappresenta?
+- Una tabella dice: paese A 1.200 abitanti, paese B 3.600, paese C 2.400. Quante volte il paese B è più popolos…
+- In un grafico a linee della temperatura, se la linea scende da gennaio a luglio vuol dire che fa sempre più c…
+- Perché, per studiare la popolazione delle regioni italiane, è utile trasformare una lunga tabella di numeri i…
+
+## Meteo o clima? [lib-1-media-geografia-tempo-atmosferico-e-clima] · METEO
+concetti: Tempo e clima; Gli elementi del clima; Gli strumenti di misura; Le precipitazioni
+- La frase «Oggi a Napoli piove e fa freddo» descrive il clima di Napoli.
+- Quale strumento misura la quantità di pioggia caduta?
+- La pressione atmosferica si misura con il ___.
+- Per quanti anni, almeno, si raccolgono i dati per descrivere il clima di un luogo?
+- In quale unità di misura si esprimono le precipitazioni?
+- Quale di queste NON è un elemento del clima, ma un fattore che lo influenza?
+- Metti in ordine le fasi che portano alla pioggia.
+- Spiega con parole tue la differenza tra tempo atmosferico e clima, facendo un esempio per ciascuno.
+
+## Metropoli: luci e ombre [lib-1-media-geografia-metropoli-e-urbanizzazione] · SMOG
+concetti: L'urbanizzazione; Metropoli e area metropolitana; I problemi delle grandi città; Città più vivibili
+- Metti in ordine questi insediamenti, dal più piccolo al più grande.
+- Oggi più della metà della popolazione mondiale vive in città.
+- Chi ogni giorno si sposta dal proprio comune a un altro per andare al lavoro o a scuola è un ___.
+- Qual è la città più popolosa d'Italia?
+- Quale di queste è una causa importante dello smog nelle città?
+- Che cos'è un'area metropolitana?
+- Quale intervento rende una grande città più vivibile?
+- Se fossi il sindaco di una grande città, quali due interventi faresti per ridurre traffico e smog? Spiega per…
+
+## Montagne che crescono e invecchiano [lib-1-media-geografia-come-nascono-le-montagne] · PLACCA
+concetti: Le placche della crosta; L'orogenesi; Montagne giovani e vecchie; Gli agenti esogeni
+- Come si chiama il processo che porta alla formazione delle montagne?
+- Le placche della crosta terrestre si spostano di alcuni centimetri all'anno.
+- Le Alpi sono nate dallo scontro tra la placca africana e la placca ___.
+- Perché gli Urali sono più bassi e arrotondati delle Alpi?
+- Quale di queste catene è una catena giovane, con vette altissime e aguzze?
+- Metti in ordine le fasi della nascita di una catena di montagne come le Alpi.
+- In inverno l'acqua entra nelle fessure di una roccia e di notte gela. Che cosa succede alla roccia?
+- Perché tra moltissimi milioni di anni le Alpi potrebbero assomigliare agli Urali di oggi? Spiegalo con parole…
+
+## Nascite, morti e piramidi [lib-1-media-geografia-natalita-mortalita-piramide-eta] · CULLA
+concetti: Natalità e mortalità; Il saldo naturale; La piramide dell'età; L'Italia che invecchia
+- Che cosa indica il tasso di natalità?
+- In un paese in un anno nascono 40 bambini e muoiono 55 persone: il saldo naturale è di ___.
+- Un comune di 5.000 abitanti ha avuto 40 nati in un anno. Qual è il tasso di natalità?
+- In Italia da molti anni il saldo naturale è positivo, cioè nascono più persone di quante ne muoiano.
+- Una piramide dell'età con la base molto larga indica che...
+- L'aumento della speranza di vita è uno dei motivi per cui in Italia ci sono sempre più anziani.
+- Che forma ha la piramide dell'età di un paese con pochi nati e molti anziani, come l'Italia?
+- La popolazione di un paese può crescere anche se il saldo naturale è negativo? Spiega come.
+
+## Perché fa caldo o freddo? [lib-1-media-geografia-fattori-del-clima] · QUOTA
+concetti: La latitudine; L'altitudine; La vicinanza del mare; Rilievi ed esposizione
+- Perché vicino ai poli fa molto freddo?
+- La temperatura scende di circa 0,6 °C ogni 100 m di quota. Se a 500 m ci sono 20 °C, a 1.500 m ce ne saranno …
+- Le città sul mare hanno estati più calde e inverni più freddi delle città dell'interno.
+- Perché il mare rende il clima più mite?
+- Perché in montagna molti paesi sorgono sul versante esposto a sud?
+- Il versante di una montagna esposto ai venti umidi riceve più pioggia del versante opposto.
+- Perché in cima al Kilimangiaro, in Africa vicino all'equatore, si trovano ghiacci?
+- Due città si trovano alla stessa latitudine: una è sul mare, l'altra è in montagna, lontana dalla costa. Come…
+
+## Pianure: terre piatte e fertili [lib-1-media-geografia-le-pianure] · PIANURA
+concetti: Che cos'è una pianura; Tipi di pianura; La Pianura Padana; Le bonifiche
+- Qual è la pianura più grande d'Italia?
+- Una pianura alluvionale è formata dai detriti depositati dai fiumi.
+- Prosciugare una palude per renderla coltivabile si dice ___.
+- Il Tavoliere delle Puglie è nato dal sollevamento di un antico fondale marino. Che tipo di pianura è?
+- Metti in ordine le fasi della formazione della Pianura Padana.
+- Lungo il confine tra alta e bassa Pianura Padana l'acqua sgorga da sola dal terreno nei fontanili. Perché?
+- Perché le pianure sono spesso le zone più popolate di un paese?
+- Nel passato la Maremma e l'Agro Pontino erano zone quasi disabitate. Perché? E che cosa è cambiato con le bon…
+
+## Piene, magre e portata [lib-1-media-geografia-regime-e-portata-dei-fiumi] · PORTATA
+concetti: La portata; Il regime: piene e magre; I fiumi alpini; Fiumi appenninici e torrenti
+- Che cosa misura la portata di un fiume?
+- Il periodo in cui un fiume ha pochissima acqua si chiama ___.
+- Molti fiumi appenninici in estate hanno pochissima acqua perché sono alimentati soprattutto dalle piogge.
+- Perché i fiumi che nascono dalle Alpi hanno molta acqua anche in estate?
+- Che cosa sono le fiumare della Calabria?
+- In quale periodo dell'anno un fiume appenninico ha di solito le piene?
+- Il Ticino attraversa il Lago Maggiore prima di gettarsi nel Po. Che effetto ha il lago sulla sua portata?
+- Durante una lunga estate senza pioggia molti torrenti appenninici si prosciugano, mentre il Po continua a sco…
+
+## Popoli in cammino [lib-1-media-geografia-le-migrazioni] · VALIGIA
+concetti: Emigrare e immigrare; Le cause delle migrazioni; Gli italiani emigranti; Le migrazioni interne
+- Chi lascia il proprio paese per andare a vivere in un altro ___.
+- Verso quali paesi partirono molti italiani tra la fine dell'Ottocento e l'inizio del Novecento?
+- Negli anni Cinquanta e Sessanta molti italiani si spostarono dal Sud verso le città industriali del Nord.
+- Quale di questi è un fattore di attrazione che spinge a trasferirsi in un paese?
+- Metti in ordine queste fasi delle migrazioni nella storia italiana, dalla più antica alla più recente.
+- Chi è un rifugiato?
+- Si parla di «fuga dei cervelli» quando...
+- Indica due motivi che possono spingere una famiglia a lasciare il proprio paese e due motivi che possono atti…
+
+## Quando la terra trema [lib-1-media-geografia-i-terremoti] · SISMA
+concetti: Che cos'è un terremoto; Ipocentro ed epicentro; Misurare i terremoti; Come comportarsi; La prevenzione
+- Come si chiama il punto della superficie che si trova esattamente sopra l'origine del terremoto?
+- Il punto in profondità in cui ha origine un terremoto si chiama ___.
+- La scala Mercalli misura gli effetti del terremoto su persone, edifici e ambiente.
+- Quale strumento registra le onde sismiche?
+- Sei in classe e arriva una forte scossa. Che cosa fai subito?
+- Metti in ordine i comportamenti corretti durante e dopo una scossa a scuola.
+- Due paesi vengono colpiti da un terremoto della stessa forza. In uno crollano molte case, nell'altro quasi ne…
+- Perché l'Italia è uno dei paesi d'Europa con più terremoti? Spiegalo con parole tue.
+
+## Quanti siamo per chilometro? [lib-1-media-geografia-densita-di-popolazione] · FOLLA
+concetti: Che cos'è la densità; Calcolare la densità; Dove si vive di più; Italia ed Europa
+- Che cosa indica la densità di popolazione?
+- Un comune ha 12.000 abitanti e una superficie di 40 km²: la sua densità è di ___ abitanti per km².
+- Una regione ha 1.500.000 abitanti e una superficie di 10.000 km². Qual è la sua densità?
+- Se due comuni hanno lo stesso numero di abitanti, quello con la superficie più piccola ha la densità più alta.
+- Perché le zone di alta montagna sono poco popolate?
+- La Valle d'Aosta è la regione italiana con meno abitanti.
+- Quale di questi Stati europei ha la densità di popolazione più alta?
+- Perché la densità media di un paese non basta per capire come vivono davvero le persone sul suo territorio?
+
+## Rimpicciolire il mondo con la scala [lib-1-media-geografia-scala-di-riduzione] · SCALA
+concetti: Che cos'è la scala; Scala numerica e grafica; Grande e piccola scala; Calcolare le distanze
+- Su una carta in scala 1:10.000, a quanti metri reali corrisponde 1 cm?
+- La scala grafica resta corretta anche se la carta viene ingrandita con una fotocopiatrice.
+- Su una carta 1:50.000 due paesi distano 4 cm: nella realtà sono lontani ___.
+- Quale carta mostra più dettagli, per esempio le singole case?
+- Su una carta 1:200.000 un tratto di fiume misura 3 cm. Quanto è lungo nella realtà?
+- Per rappresentare l'intera Europa su una pagina dell'atlante quale scala useresti?
+- La scala 1:100.000 vuol dire che 1 cm sulla carta corrisponde a 100.000 km nella realtà.
+- Sulla carta 1:25.000 della tua gita il sentiero misura 6 cm. Spiega come calcoli la sua lunghezza reale e scr…
+
+## Ripasso: l'Italia fisica [lib-1-media-geografia-ripasso-italia-fisica] · STIVALE
+concetti: Forma e confini; I rilievi; Le acque; Le regioni naturali
+- Quale di questi Stati NON confina con l'Italia?
+- San Marino e la Città del Vaticano sono Stati indipendenti che si trovano all'interno del territorio italiano.
+- La grande pianura compresa tra le Alpi e l'Appennino settentrionale è la pianura ___.
+- Viaggi in treno da Bologna a Firenze. Quale catena montuosa attraversi?
+- Metti in ordine queste montagne italiane, dalla più alta alla più bassa.
+- Quale di queste coppie lago-origine è corretta?
+- Quale di queste regioni italiane NON ha sbocco sul mare?
+- Immagina un viaggio dal passo del Brennero fino alla Sicilia. Descrivi gli ambienti naturali che attraversi, …
+
+## Ripasso: un geografo in montagna [lib-1-media-geografia-ripasso-geografo-in-montagna] · ZAINO
+concetti: Gli strumenti del geografo; Ambienti e paesaggi di montagna; Popolazione di montagna; Lavori di montagna
+- Devi preparare un'escursione su un sentiero di montagna. Quale carta ti serve?
+- Sulla carta, accanto al rifugio, c'è scritto 1.850. Che cosa indica quel numero?
+- In Italia molti paesi di montagna perdono abitanti perché i giovani si trasferiscono in città.
+- Il paese che visiti ha 600 abitanti su 30 km²: la sua densità è di ___ abitanti per km².
+- In paese incontri un pastore, un falegname che costruisce mobili e una guida alpina. In quali settori lavoran…
+- Metti in ordine gli ambienti che incontri scendendo dalla vetta fino al fondovalle.
+- Perché i boschi sui versanti sono preziosi per il paese che sta a valle?
+- Hai visitato un paese di montagna con gli occhi del geografo. Scrivi tre cose che hai osservato o misurato e …
+
+## Un pianeta con la febbre [lib-1-media-geografia-cambiamento-climatico] · SERRA
+concetti: L'effetto serra naturale; L'azione dell'uomo; Le conseguenze; Che cosa si può fare
+- Quale gas, prodotto bruciando petrolio, carbone e gas, rafforza l'effetto serra?
+- Senza l'effetto serra naturale la Terra sarebbe molto più fredda e quasi invivibile.
+- Con il riscaldamento globale i ghiacci si sciolgono e il livello dei mari ___.
+- Perché abbattere le foreste peggiora l'effetto serra?
+- Quale di questi fenomeni è una conseguenza del riscaldamento globale?
+- Quale abitudine aiuta a ridurre le emissioni di anidride carbonica?
+- Metti in ordine questa catena di cause ed effetti.
+- Perché si dice che l'effetto serra di per sé non è un nemico, ma lo diventa quando è troppo forte?
+
+## Viaggio nei climi d'Europa [lib-1-media-geografia-climi-europa] · CLIMA
+concetti: Il clima oceanico; Il clima continentale; Il clima mediterraneo; I climi freddi
+- Quale clima ha estati calde e secche e inverni miti e piovosi?
+- A Londra e a Dublino piove spesso in tutte le stagioni.
+- Mosca, lontana dal mare, ha un clima ___, con inverni gelidi ed estati calde.
+- Che cosa porta le piogge frequenti sulle coste atlantiche dell'Europa?
+- Perché nell'Europa orientale la differenza di temperatura tra estate e inverno è molto forte?
+- Dove si trova, in Europa, il clima polare con la tundra?
+- Metti in ordine queste città, da quella con il clima più oceanico a quella con il clima più continentale.
+- Hai un amico a Lisbona e uno a Varsavia. Come sarà diverso il loro inverno e perché?

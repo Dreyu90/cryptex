@@ -1,0 +1,553 @@
+# 3ª media · Inglese: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Ago, last, since: segnali di tempo [lib-3-media-inglese-segnali-di-tempo] · TIME
+concetti: Segnali del past simple; Segnali del present perfect; La parola ago; For con due tempi
+- Come si dice 'tre anni fa'?
+- Quale espressione richiede il past simple?
+- 'Since' è un segnale tipico del present perfect.
+- Completa: 'My grandparents moved to Turin forty years ___.'
+- Qual è la differenza tra 'I lived in Paris for two years' e 'I've lived in Paris for two years'?
+- Quale gruppo contiene solo segnali del present perfect?
+- Quale frase è sbagliata?
+- Spiega perché 'ago' non si usa con il present perfect.
+
+## Already o yet? Scegli bene [lib-3-media-inglese-already-yet] · ALREADY
+concetti: Already; Yet nelle negative; Yet nelle domande; Cose fatte e da fare
+- Che cosa significa 'already' in 'I've already eaten'?
+- Quale frase è corretta?
+- In 'Have you done your homework yet?' la parola 'yet' significa 'già'.
+- Completa: 'Don't buy milk, I've ___ bought it.'
+- Dove si mette di solito 'yet' nelle frasi negative?
+- Lista per la festa: torta comprata, palloncini non ancora. Quale frase la descrive bene?
+- La mamma vuole sapere se hai già dato da mangiare al gatto. Che cosa chiede?
+- Scrivi due frasi su di te: una cosa che hai già fatto oggi (already) e una che non hai ancora fatto (yet).
+
+## Appuntamenti in agenda: present continuous [lib-3-media-inglese-present-continuous-futuro] · DIARY
+concetti: Impegni fissati; Domande sui programmi; Orari ufficiali
+- Hai già prenotato il dentista per domani alle 4. Come lo dici?
+- Come chiedi a un amico che programmi ha per sabato?
+- 'The film starts at 9 pm' usa il present simple perché è un orario stabilito.
+- Completa: 'Hurry up! Our plane ___ at 6:15.'
+- Quale frase descrive un impegno già preso con altre persone?
+- Un amico chiede: 'Are you doing anything tomorrow evening?'. Che cosa vuole sapere?
+- Ordina gli impegni di Luca per sabato, dal mattino alla sera.
+- Spiega perché si dice 'The museum opens at 10' ma 'I'm visiting the museum tomorrow'.
+
+## Been o gone? Andata e ritorno [lib-3-media-inglese-been-gone] · BEEN
+concetti: Been to; Gone to; Scegliere tra i due
+- 'She has been to Paris' significa che lei…
+- Quale frase puoi dire solo se la persona è ancora fuori casa?
+- 'I've gone to Rome three times' è la frase corretta per raccontare tre viaggi conclusi.
+- Completa: 'Where's Dad?' – 'He's ___ to work. He'll be back at six.'
+- Perché è strano dire 'I have gone to London' a un amico che è con te a Roma?
+- Quale domanda chiede un'esperienza di viaggio?
+- Un compagno è assente perché è in montagna con la famiglia. Che cosa dice l'insegnante?
+- Spiega con parole tue la differenza tra 'Anna has been to the gym' e 'Anna has gone to the gym'.
+
+## By: chi ha compiuto l'azione? [lib-3-media-inglese-passivo-complemento-agente] · AGENT
+concetti: Complemento d'agente; Quando omettere by; Da attiva a passiva; Pronomi dopo by
+- Quale preposizione introduce chi compie l'azione in una frase passiva?
+- Trasforma in passiva: 'My grandmother made this cake.'
+- In 'The thief was arrested by the police', 'by the police' si potrebbe omettere perché è ovvio chi arresta.
+- Completa: 'The posters were designed by ___.'
+- In quale frase 'by + agente' è inutile e andrebbe tolto?
+- In 'The match was won by the youngest team', chi ha vinto?
+- Ordina i passaggi per trasformare 'Tom painted the door' in passiva.
+- Spiega perché in 'My phone was stolen' non c'è 'by', mentre in 'Guernica was painted by Picasso' sì.
+
+## Can e could: saper fare [lib-3-media-inglese-can-could-abilita] · ABLE
+concetti: Can per abilità presenti; Could per abilità passate; Be able to; Forma dei modali
+- Quale frase è corretta?
+- Come dici 'Sapevo già leggere a quattro anni'?
+- Per dire 'potrò, sarò capace di' si usa 'I will be able to'.
+- Completa: '___ you play the guitar?' – 'Yes, I can.'
+- Perché non si può dire 'I will can swim'?
+- Quale frase parla di un'abilità passata che oggi non c'è più?
+- Come si forma la negativa di 'can'?
+- Scrivi una cosa che sai fare ora (can) e una che non sapevi fare da piccolo (couldn't), poi spiega la differe…
+
+## Can I? May I? Chiedere permesso [lib-3-media-inglese-chiedere-permesso] · PLEASE
+concetti: Can per il permesso informale; Could per richieste gentili; May per il permesso formale; Rispondere
+- Vuoi chiedere a un amico di usare la sua penna. Che cosa dici?
+- Quale richiesta è la più formale, adatta per entrare nell'ufficio del preside?
+- 'Could you open the window, please?' è un modo gentile di chiedere un favore.
+- Completa la risposta positiva: 'Could you help me?' – '___! What do you need?'
+- Al ristorante chiedi gentilmente il menù. Quale frase scegli?
+- Come rifiuti gentilmente la richiesta 'Can I borrow your bike?'
+- Che cosa chiede uno studente che dice 'May I leave the room?'
+- Spiega quando useresti 'Can you…?' e quando 'Could you…?' per chiedere un favore.
+
+## Cartelli e regole: ripasso modali [lib-3-media-inglese-ripasso-modali-cartelli] · SIGNS
+concetti: Obbligo e divieto; Permesso e abilità; Consiglio e possibilità; Scegliere il modale
+- Cartello in biblioteca: 'You ___ eat or drink here.' Quale modale esprime il divieto?
+- Cartello in un bar: 'Free Wi-Fi: you ___ connect for free.' Quale modale esprime il permesso?
+- 'You should wear sun cream' è un consiglio, non un obbligo di legge.
+- Completa: 'My sister is only 3, but she ___ already count to 20!'
+- Quale modale esprime una possibilità incerta?
+- Le regole della gita dicono che il pranzo al sacco è obbligatorio. Quale frase lo esprime?
+- Quale frase chiede il permesso in modo educato a un adulto?
+- Inventa tre regole per la tua classe ideale usando must, mustn't e can, e spiega che funzione ha ciascun moda…
+
+## Come si pronuncia -ed? [lib-3-media-inglese-pronuncia-ed] · SOUND
+concetti: Suono /ɪd/; Suono /t/; Suono /d/; Sillaba in più
+- In quale verbo la -ed si pronuncia come una sillaba in più, /ɪd/?
+- Come si pronuncia la -ed di 'watched'?
+- 'Looked' si pronuncia con due sillabe: look-ed.
+- Completa: in 'opened' la desinenza -ed si pronuncia ___.
+- Quale gruppo contiene solo verbi con -ed pronunciata /ɪd/?
+- Perché la -ed di 'kissed' si pronuncia /t/?
+- In quale verbo la -ed si pronuncia /d/?
+- Spiega perché 'wanted' ha due sillabe mentre 'walked' ne ha una sola.
+
+## Did e didn't: domande al passato [lib-3-media-inglese-past-simple-did-didnt] · ASKED
+concetti: Did nelle domande; Didn't nelle negative; Risposte brevi; Il verbo be al passato
+- Quale domanda è corretta?
+- Qual è la forma negativa di 'He bought a new phone'?
+- La domanda 'Did you be at home?' è corretta.
+- Completa: 'Did your team win?' – 'Yes, it ___.'
+- Come chiedi 'Eri stanco ieri sera?'
+- Perché 'She didn't went' è sbagliata?
+- Metti in ordine le parole per formare la domanda.
+- Un amico ti chiede 'Did you like the film?'. Rispondi con una risposta breve e aggiungi una frase al past sim…
+
+## Domande e negazioni al present perfect [lib-3-media-inglese-present-perfect-negative-domande] · QUERY
+concetti: Forma negativa; Forma interrogativa; Risposte brevi; Domande con Wh-
+- Qual è la forma negativa di 'She has called me'?
+- Come si trasforma in domanda 'They have arrived'?
+- Alla domanda 'Has Tom finished?' si può rispondere 'Yes, he has.'
+- Completa la risposta breve: 'Have you tidied your room?' – 'No, I ___.'
+- Quale domanda è corretta?
+- Perché 'He hasn't went home' è sbagliata?
+- Metti in ordine le parole per formare la domanda.
+- Un'amica ti chiede: 'Have you read this book?'. Rispondi con una risposta breve e spiega come l'hai costruita.
+
+## First conditional: se succede, allora… [lib-3-media-inglese-first-conditional-forma] · WILL
+concetti: Struttura; Situazioni possibili; Niente will dopo if; Won't nella conseguenza
+- Quale frase è un first conditional corretto?
+- Quale frase contiene l'errore tipico degli studenti italiani?
+- Il first conditional si usa per situazioni future che hanno buone probabilità di succedere.
+- Completa: 'If you don't hurry, you ___ miss the bus.'
+- Traduci: 'Se non mangi, non crescerai.'
+- Quale situazione è adatta al first conditional?
+- Metti in ordine le parole.
+- Spiega perché 'If I will see Marco, I will tell him' è sbagliata e correggila.
+
+## For o since? Questione di tempo [lib-3-media-inglese-for-since] · SINCE
+concetti: For + durata; Since + inizio; Azioni che continuano; Tradurre 'da'
+- In una frase al present perfect, quale espressione di tempo va con 'for'?
+- Quale espressione va con 'since'?
+- 'I have known Luca for five years' significa che conosci Luca ancora oggi.
+- Completa: 'She has played the piano ___ she was six.'
+- Come si traduce 'Abito a Milano da tre anni'?
+- Quale frase è sbagliata?
+- Ordina queste durate dalla più breve alla più lunga.
+- Perché la frase 'Studio inglese da quattro anni' in inglese non si traduce con il present simple?
+
+## Hai mai...? Ever e never [lib-3-media-inglese-ever-never] · NEVER
+concetti: Ever nelle domande; Never nelle frasi; Posizione degli avverbi; Esperienze di vita
+- Che cosa significa 'Have you ever eaten snails?'
+- Quale frase è corretta?
+- In inglese 'never' si usa con il verbo affermativo, quindi non serve 'not'.
+- Completa: 'Has your dad ___ been to Japan?'
+- Dove si mette 'never' in una frase al present perfect?
+- Quale frase racconta un'esperienza di vita senza indicare il momento?
+- Metti in ordine il mini-dialogo.
+- Perché 'I haven't never been to Paris' è sbagliata in inglese, mentre in italiano diciamo 'non sono mai stato…
+
+## Have o has? Il present perfect [lib-3-media-inglese-present-perfect-forma] · HAVE
+concetti: Struttura del present perfect; Have o has; Forme contratte; Passato collegato al presente
+- Da quali elementi è formato il present perfect?
+- Quale frase è corretta?
+- Con il soggetto 'my parents' si usa 'has': My parents has bought a car.
+- Completa con la forma contratta giusta (soggetto: io): '___ lost my pen!'
+- Nella frase 'He's visited Rome', che cosa sostituisce 's?
+- Marco dice: 'I've lost my keys.' Che cosa capisci?
+- Metti in ordine le parole per formare una frase al present perfect.
+- Spiega perché nella frase 'I've finished my homework, can I go out?' si usa il present perfect.
+
+## How long? Chiedere la durata [lib-3-media-inglese-how-long-durata] · CLOCK
+concetti: La domanda How long; Rispondere con for e since; How long al past simple; Verbi di stato
+- Come chiedi 'Da quanto tempo hai questo cane?'
+- 'How long have you lived here?' Quale risposta è corretta?
+- 'How long did you stay in London?' si riferisce a un soggiorno già finito.
+- Completa: 'How long have you ___ your best friend?'
+- Sei tornato dalle vacanze e un amico vuole sapere quanto sei rimasto al mare. Quale domanda usa?
+- Perché per dire 'sono qui da un'ora' si dice 'I've been here for an hour' e non 'I'm here for an hour'?
+- Metti in ordine le parole per formare la domanda.
+- Rispondi in due modi alla domanda 'How long have you studied English?': una volta con for e una con since. Sp…
+
+## If all'inizio o alla fine? [lib-3-media-inglese-conditional-ordine-virgola] · COMMA
+concetti: If all'inizio; If a metà frase; Stesso significato
+- Quale frase ha la punteggiatura corretta?
+- Riscrivi 'If it's sunny, we'll go to the beach' mettendo 'if' a metà frase.
+- 'I'll help you if you ask me' e 'If you ask me, I'll help you' hanno lo stesso significato.
+- Completa la regola: quando la frase inizia con 'if', di solito si mette una ___ prima della conseguenza.
+- In 'You'll get wet if you don't take an umbrella', quale parte è la condizione?
+- Quale frase cambia il significato di 'If you call me, I'll come'?
+- Metti in ordine le parti per formare un first conditional che inizi con 'if'.
+- Scrivi la stessa frase al first conditional in due modi, con 'if' all'inizio e a metà, e spiega dove metti la…
+
+## Indovina la parola: definizioni in inglese [lib-3-media-inglese-definizioni-relative] · DEFINE
+concetti: A person who…; A thing which/that…; A place where…; Spiegare senza la parola
+- 'A person who looks after sick animals' è…
+- 'A place where you can borrow books' è…
+- 'A thing which you use to cut paper' descrive le forbici, in inglese 'scissors'.
+- Completa: 'A kitchen is a room ___ people cook.'
+- Quale definizione corrisponde a 'umbrella'?
+- In un negozio a Londra non ricordi la parola 'charger'. Che cosa puoi dire?
+- 'A place where planes take off and land' è…
+- Scegli una parola inglese che conosci (persona, cosa o luogo) e scrivi una definizione con who, which o where…
+
+## Inventato, scritto, scoperto: passivi famosi [lib-3-media-inglese-passivo-invenzioni-opere] · INVENT
+concetti: Scoperte; Opere d'arte e libri; Invenzioni; Domande al passivo
+- Completa correttamente: 'The Divine Comedy ___ by Dante Alighieri.'
+- Quale frase è corretta?
+- 'The World Wide Web was invented by Tim Berners-Lee' è una frase passiva corretta.
+- Completa: 'The ceiling of the Sistine Chapel was ___ by Michelangelo.'
+- Come chiedi chi ha scritto 'Harry Potter' usando il passivo?
+- Come rispondi alla domanda 'Who was The Last Supper painted by?'
+- Quale verbo completa: 'The theory of relativity ___ by Albert Einstein.'
+- Scegli un'invenzione o un'opera famosa e scrivi una frase passiva su di essa; poi spiega perché il passivo è …
+
+## Irregolari al passato: memoria allenata [lib-3-media-inglese-past-simple-irregolari] · WENT
+concetti: Verbi irregolari; Cambio di vocale; Forme molto diverse; Raccontare al passato
+- Qual è il past simple di 'think'?
+- Qual è il past simple di 'ride'?
+- Il past simple di 'be' ha due forme: was e were.
+- Completa: 'Yesterday my cousin ___ to visit us.'
+- Quale frase racconta correttamente una sequenza al passato?
+- Quale di questi verbi è regolare?
+- Metti in ordine il racconto di una gita.
+- Perché per i verbi irregolari non basta conoscere la regola dell'-ed? Fai due esempi.
+
+## Just: è appena successo! [lib-3-media-inglese-just-appena] · JUST
+concetti: Significato di just; Posizione di just; Notizie e situazioni fresche
+- Che cosa significa 'The train has just left'?
+- Quale frase ha 'just' al posto giusto?
+- 'Just' con il present perfect indica un'azione accaduta molto tempo fa.
+- Completa: 'Wow, Sara ___ just won the race!'
+- Entri in cucina e senti un profumo di torta appena sfornata. Che cosa dice la nonna?
+- Il tuo amico entra bagnato fradicio. Quale frase spiega meglio la situazione?
+- Metti in ordine le parole.
+- Qual è la differenza tra 'I've just eaten' e 'I've already eaten'?
+
+## May e might: forse sì [lib-3-media-inglese-may-might-possibilita] · MAYBE
+concetti: Possibilità; Forma negativa; Might o will
+- Che cosa significa 'It might rain this afternoon'?
+- Quale frase è corretta?
+- 'She may not come' significa 'Forse lei non verrà'.
+- Completa: 'I'm not sure, but I ___ visit my aunt this weekend.'
+- Quale frase esprime meno certezza?
+- Come dici 'Forse domani non avrò tempo'?
+- Ti chiedono 'Where's Luca?' e non lo sai di preciso. Che cosa rispondi?
+- Spiega la differenza tra 'I will go to London next summer' e 'I might go to London next summer'.
+
+## Must be: deduzioni da detective [lib-3-media-inglese-deduzioni-must-cant] · CLUE
+concetti: Must per deduzioni sicure; Can't per l'impossibilità; Might e could per ipotesi; Dagli indizi alla conclusione
+- Luca ha appena corso 10 km. Che cosa deduci?
+- Hai visto Anna in classe un minuto fa. Qualcuno dice che è al cinema. Che cosa rispondi?
+- In 'You must be hungry, you haven't eaten all day', 'must' esprime un obbligo.
+- Completa: 'I'm not sure who's at the door. It ___ be the postman.'
+- La casa dei vicini è buia da giorni e la posta si accumula. Quale deduzione è più logica?
+- Qual è il contrario di 'It must be true' in una deduzione?
+- Quale frase esprime solo un'ipotesi incerta?
+- Il tuo amico sbadiglia di continuo e ha gli occhi rossi. Scrivi una deduzione con must e una con can't, e spi…
+
+## Must e have to: obblighi [lib-3-media-inglese-must-have-to] · RULES
+concetti: Must; Have to; Had to; Forme di have to
+- Quale cartello esprime un obbligo?
+- Quale frase è corretta?
+- Il passato di 'must', quando esprime un obbligo, è 'had to'.
+- Completa: 'Yesterday I ___ get up at 6 to catch the train.'
+- Come chiedi 'Devi indossare l'uniforme a scuola?'
+- Tua sorella dice: 'I have to be home by 9, my parents say so.' Da chi viene l'obbligo?
+- Ti senti molto stanco e dici: 'I must go to bed early tonight.' Che cosa esprime 'must'?
+- Spiega la differenza tra 'I must study more' e 'I have to study more because the teacher says so'.
+
+## Mustn't o don't have to? [lib-3-media-inglese-mustnt-dont-have-to] · FORBID
+concetti: Mustn't; Don't have to; Regole quotidiane
+- Che cosa significa 'You mustn't use your phone in class'?
+- Che cosa significa 'You don't have to come to the party'?
+- 'Tomorrow is Sunday, so I don't have to get up early' significa che è vietato alzarsi presto.
+- Completa il cartello del museo, che vieta di toccare i quadri: 'Visitors ___ touch the paintings.'
+- In piscina, quale regola è un divieto?
+- La gita è gratuita. Che cosa dice l'insegnante?
+- Perché 'You mustn't eat the cake' e 'You don't have to eat the cake' sono molto diverse?
+- Scrivi una regola della tua scuola con 'mustn't' e una cosa che non sei obbligato a fare con 'don't have to'.
+
+## Need e needn't: serve davvero? [lib-3-media-inglese-need-neednt] · NEED
+concetti: Need to; Non è necessario; Need + nome
+- Che cosa significa 'I need to charge my phone'?
+- Quale frase è corretta?
+- 'You needn't bring food' significa che non è necessario portare cibo.
+- Completa: 'It's warm today. You ___ take your coat.'
+- Come chiedi 'Devo portare il dizionario?' nel senso di 'è necessario'?
+- Quale frase ha lo stesso significato di 'You don't have to hurry'?
+- Al supermercato, quale frase usa 'need' direttamente con un nome?
+- Spiega la differenza tra 'You needn't come' e 'You mustn't come'.
+
+## Oggi, questa settimana, finora [lib-3-media-inglese-periodo-non-concluso] · TODAY
+concetti: Periodo non concluso; So far e up to now; Periodo concluso; Contare le volte
+- Sono le 11 di mattina. Quale frase è corretta?
+- Che cosa significa 'So far I've read three chapters'?
+- 'I've seen Giulia yesterday' è corretta perché 'yesterday' è un periodo non concluso.
+- Completa: 'We ___ a test last Friday.'
+- Hai già fatto 6.000 passi oggi e la giornata non è finita. Come lo dici?
+- Oggi è mercoledì. Perché si dice 'It has rained a lot this week'?
+- Metti in ordine le parole per formare la domanda.
+- Spiega perché diciamo 'I've done two tests this month' ma 'I did two tests last month'.
+
+## Participi irregolari da campioni [lib-3-media-inglese-participi-irregolari] · GONE
+concetti: Tre forme del verbo; Participio uguale al past; Participi in -en o -n; Cambio di vocale
+- Qual è il participio passato di 'go'?
+- Quale participio passato è scritto correttamente?
+- 'Buy' ha il past simple e il participio passato uguali: bought, bought.
+- Completa: 'Have you ever ___ in the sea in winter?'
+- Quale serie di forme di 'drink' è corretta?
+- Quale frase contiene un errore nel participio?
+- Metti in ordine le tre forme del verbo 'see' come nei paradigmi: forma base, past simple, participio.
+- Perché è utile studiare insieme le tre forme dei verbi irregolari? Fai un esempio.
+
+## Passive: is made, are sold [lib-3-media-inglese-passivo-presente] · MADE
+concetti: Struttura; Chi subisce l'azione; Usi tipici; Is o are
+- Come si forma il passivo al present simple?
+- Quale frase è corretta?
+- In 'English is spoken in Canada' il soggetto grammaticale è 'English'.
+- Completa: 'These shoes ___ made in Italy.'
+- Quale frase descrive correttamente un processo di produzione?
+- Trasforma in passiva: 'People grow rice in China.'
+- Metti in ordine le parti per formare una frase passiva.
+- Perché diciamo 'Coffee is grown in Brazil' senza dire chi lo coltiva?
+
+## Past simple: verbi regolari in -ed [lib-3-media-inglese-past-simple-regolari-spelling] · WALKED
+concetti: Regola base -ed; Verbi che finiscono in -e; Verbi che finiscono in -y; Raddoppio della consonante
+- Qual è il past simple di 'clean'?
+- Come si scrive il past simple di 'dance'?
+- Il past simple di 'study' è 'studyed'.
+- Completa: 'The bus ___ in front of the school.'
+- Quale coppia è corretta?
+- Perché 'plan' al past simple diventa 'planned' con due n?
+- Metti in ordine i passaggi per scrivere il past simple di 'try'.
+- Scrivi il past simple di 'shop' e di 'open' e spiega perché solo uno dei due raddoppia la consonante.
+
+## Promesse e avvertimenti con if [lib-3-media-inglese-conditional-promesse-avvertimenti] · PROMISE
+concetti: Promesse; Avvertimenti; Accordi; Imperativo nella conseguenza
+- Quale frase è una promessa?
+- Tuo fratello sta per toccare la pentola bollente. Che cosa gli dici?
+- La frase 'If you see Marta, tell her to call me' è corretta.
+- Completa: 'If you lend me your bike, I ___ you my skateboard.'
+- Quale frase usa correttamente l'imperativo?
+- Al mercato dici: 'If you give me a discount, I'll buy three.' Che cosa stai facendo?
+- Quale cartello è un avvertimento al first conditional?
+- Scrivi una promessa e un avvertimento al first conditional rivolti a un amico.
+
+## Quando? Past simple o present perfect [lib-3-media-inglese-past-simple-present-perfect-quando] · WHEN
+concetti: Tempo definito; Tempo indefinito; Domande con When; Italiano e inglese
+- Quale frase è corretta?
+- Quale domanda è corretta?
+- L'italiano 'ho visto' si traduce sempre con 'I have seen'.
+- Completa: 'I ___ this film three times, I love it!'
+- Traduci: 'Sabato scorso ho giocato a calcio.'
+- Confronta 'I've lost my wallet' e 'I lost my wallet on the bus yesterday'. Che cosa cambia?
+- Metti in ordine il dialogo.
+- Traduci 'Ho mangiato la pizza' in due modi diversi in inglese e spiega quando useresti ciascuno.
+
+## Racconta un'esperienza in inglese [lib-3-media-inglese-raccontare-esperienze] · STORY
+concetti: Aprire con il present perfect; Passare al past simple; Domande di dettaglio; Reazioni
+- Vuoi chiedere a un compagno se ha mai provato lo snowboard. Come inizi?
+- Lui risponde 'Yes, I have!'. Quale domanda di dettaglio è corretta?
+- Dopo 'Have you ever been to Venice?' – 'Yes, I have', si può continuare con 'When did you go?'
+- Completa la reazione: 'I swam with dolphins!' – 'Wow, that ___ amazing!'
+- Quale domanda di dettaglio è scritta in modo sbagliato?
+- Perché in 'I've been to London. I went there in 2023.' cambiano i tempi?
+- Metti in ordine il dialogo.
+- Scrivi un mini-dialogo di tre battute su un'esperienza: una domanda con 'Have you ever', una risposta e una d…
+
+## Ripasso: quale tempo verbale? [lib-3-media-inglese-ripasso-tempi-verbali] · TENSES
+concetti: Present simple e continuous; Past simple e present perfect; Futuro; Segnali di tempo
+- Quale frase descrive un'abitudine?
+- Quale tempo richiede 'right now'?
+- 'We have finished the project two days ago' è corretta.
+- Completa: 'Next summer my family ___ visit Canada. We've already booked the flights.'
+- Quale coppia di frasi usa i tempi correttamente?
+- Quale espressione di tempo si usa con il present simple?
+- Ordina le frasi sulla linea del tempo, dal passato al futuro.
+- Racconta in due frasi una cosa che hai fatto quest'anno e una che hai fatto l'anno scorso, spiegando quale te…
+
+## Ripasso: tre condizionali a confronto [lib-3-media-inglese-ripasso-condizionali] · CHOICE
+concetti: Zero conditional; First conditional; Second conditional; Scegliere il tipo
+- Di che tipo è 'If you freeze water, it turns into ice'?
+- Di che tipo è 'If you study tonight, you'll feel ready'?
+- 'If I were the head teacher, I would cancel homework' parla di una situazione reale.
+- Completa: 'If I spoke Chinese, I ___ talk to my new classmate.'
+- Lo sciopero dei bus di domani è stato annunciato ed è molto probabile. Quale frase usi?
+- Perché 'If you heat chocolate, it melts' è uno zero conditional e non un first conditional?
+- Ordina le frasi dalla situazione più certa a quella più immaginaria.
+- Scegli una situazione, per esempio la neve, e scrivi una frase al first conditional e una al second condition…
+
+## Se fossi… il second conditional [lib-3-media-inglese-second-conditional] · DREAM
+concetti: Struttura; Situazioni immaginarie; If I were; First o second
+- Quale frase è un second conditional corretto?
+- Come dai un consiglio a un amico che ha litigato con la sorella?
+- 'If I met a dinosaur, I would run away' descrive una situazione immaginaria.
+- Completa: 'If we lived by the sea, we ___ swim every day.'
+- Quale frase indica una situazione probabile, non immaginaria?
+- Che cosa significa 'If I knew the answer, I would tell you'?
+- Quale frase con 'were' è corretta?
+- Spiega la differenza tra 'If I have time, I'll help you' e 'If I had time, I'd help you'.
+
+## Should: dare buoni consigli [lib-3-media-inglese-should-consigli] · ADVICE
+concetti: Should per consigliare; Shouldn't per sconsigliare; Chiedere consiglio; Should o must
+- Che cosa significa 'You should drink more water'?
+- Il tuo amico gioca ai videogiochi fino all'una di notte. Che cosa gli consigli?
+- 'Should' esprime un obbligo più forte di 'must'.
+- Completa: '___ I wear a jacket? It looks cold outside.'
+- Come chiedi un consiglio su quale libro leggere?
+- Quale frase è un consiglio e non un obbligo?
+- Hai mal di denti. Quale consiglio è corretto e sensato?
+- Una compagna è preoccupata per la verifica di domani. Scrivi due consigli, uno con should e uno con shouldn't.
+
+## That e pronome sottinteso [lib-3-media-inglese-relativi-that-sottinteso] · THAT
+concetti: That per persone e cose; Pronome soggetto; Pronome oggetto
+- In 'The cake that you made is delicious', a che cosa si riferisce 'that'?
+- Quale pronome può completare 'The people ___ live here are nice' al posto di who?
+- Nella frase 'The film I saw yesterday was scary' c'è un pronome relativo sottinteso.
+- Completa: 'I met a boy ___ plays in a band.'
+- In quale frase si può togliere il pronome relativo?
+- Perché non si può togliere 'that' in 'The train that leaves at 8 is fast'?
+- Quale frase è corretta, senza pronome relativo?
+- Spiega perché in 'The book that I bought' puoi omettere 'that', mentre in 'The book that won the prize' no.
+
+## Ultime notizie: risultati nel presente [lib-3-media-inglese-notizie-e-risultati] · NEWS
+concetti: Notizie recenti; Dettagli al past simple; Risultato visibile ora
+- Quale frase è adatta per annunciare una novità appena accaduta?
+- Tua cugina dice: 'My sister has passed her driving test!'. Quale domanda chiede un dettaglio?
+- Se dici 'I've cut my finger', probabilmente il dito ti fa ancora male ora.
+- Completa: 'I've lost my phone! I ___ it on the bus an hour ago.'
+- Vedi la mamma con il braccio ingessato. Che cosa ti dice?
+- Perché i notiziari spesso iniziano con il present perfect e poi passano al past simple?
+- Metti in ordine questa notizia.
+- La cucina è piena di fumo. Scrivi una frase al present perfect che spieghi che cosa è successo e perché scegl…
+
+## Unless: a meno che… [lib-3-media-inglese-unless] · UNLESS
+concetti: Significato di unless; Verbo affermativo; Avvertimenti e condizioni
+- Che cosa significa 'unless'?
+- Quale frase significa lo stesso di 'If you don't study, you'll fail'?
+- 'Unless you don't hurry, you'll miss the train' è corretta.
+- Completa l'avvertimento: 'You'll get sunburnt ___ you wear sun cream.'
+- Trasforma con 'unless': 'If it doesn't rain, we'll play outside.'
+- Un cartello dice: 'No entry unless you have a ticket.' Che cosa significa?
+- Quale frase con 'unless' ha senso?
+- Spiega perché dopo 'unless' il verbo è affermativo e fai un esempio.
+
+## Used to: abitudini di una volta [lib-3-media-inglese-used-to] · HABIT
+concetti: Significato di used to; Forma affermativa; Negativa e domanda; Used to o past simple
+- Che cosa significa 'I used to play with dolls'?
+- Quale frase è corretta?
+- La forma negativa corretta è 'I didn't use to like broccoli'.
+- Completa: 'When he was small, my brother ___ to cry a lot.'
+- Come chiedi 'Da piccolo avevi i capelli lunghi?'
+- In quale frase si usa il past simple e non 'used to'?
+- Il nonno dice: 'There used to be a cinema here.' Che cosa capisci?
+- Scrivi due cose che facevi da piccolo e che ora non fai più usando 'used to', e spiega perché non usi il pres…
+
+## Verso l'esame: grande ripasso finale [lib-3-media-inglese-ripasso-finale-esame] · EXAM
+concetti: Passivo; Pronomi relativi; Modali; Periodo ipotetico; Present perfect
+- Quale frase è corretta?
+- Trasforma in passiva: 'They clean the classrooms every evening.'
+- In 'The teacher whose car is red is Mrs Smith', 'whose' indica possesso.
+- Completa: 'I've got a terrible cold. I think I ___ see a doctor.'
+- Completa in modo corretto: 'If we recycle more, …'
+- Quale pronome relativo completa: 'The museum ___ we visited was huge.'
+- Quale frase passiva è corretta?
+- Scrivi una frase al first conditional su un tema di sostenibilità e una frase passiva al present simple, poi …
+
+## Was built: il passivo al passato [lib-3-media-inglese-passivo-passato] · BUILT
+concetti: Struttura; Was o were; Storia e monumenti; Domande e negative
+- Quale frase è al passivo del past simple?
+- Quale frase è corretta?
+- 'The Eiffel Tower was completed in 1889' è una frase passiva.
+- Completa: 'The first emails ___ sent in the 1970s.'
+- Come chiedi 'Quando è stato costruito questo castello?'
+- Qual è la forma negativa di 'The match was cancelled'?
+- Metti in ordine le parti della frase.
+- Trasforma 'Someone stole my bike last night' in forma passiva e spiega perché qui la passiva è più naturale.
+
+## When o if nel futuro? [lib-3-media-inglese-when-if-futuro] · HOME
+concetti: If per l'incertezza; When per la certezza; Presente dopo when; As soon as
+- Sei sicuro che tornerai a casa. Quale frase usi?
+- Quale frase esprime un evento incerto?
+- 'When I will be 18, I will learn to drive' è corretta.
+- Completa: 'I'll call you as soon as I ___ at the station.'
+- Traduci: 'Quando finirò i compiti, uscirò.'
+- Perché 'When it rains tomorrow, we'll stay in' suona strano?
+- Metti in ordine le parole.
+- Spiega la differenza tra 'If I see Anna, I'll tell her' e 'When I see Anna, I'll tell her'.
+
+## While e when: azioni interrotte [lib-3-media-inglese-past-continuous-while-when] · WHILE
+concetti: Past continuous; Azione interrotta; While e when; Azioni contemporanee
+- Come si forma il past continuous?
+- Quale frase è corretta?
+- In 'While I was walking home, it started to rain', 'while' introduce l'azione più lunga.
+- Completa: 'At 8 pm yesterday we ___ dinner.'
+- Quale frase descrive due azioni avvenute contemporaneamente?
+- Scegli la congiunzione giusta: 'I fell asleep ___ I was watching TV.'
+- Metti in ordine le parole.
+- Perché in 'I was reading when the lights went out' si usano due tempi diversi?
+
+## Who o which? Pronomi relativi [lib-3-media-inglese-relativi-who-which] · WHICH
+concetti: Who per le persone; Which per cose e animali; Unire due frasi
+- Completa con il pronome giusto: 'The girl ___ sits next to me is Irish.'
+- Quale frase è corretta?
+- 'Which' si usa per parlare di persone.
+- Completa: 'This is the bus ___ goes to the station.'
+- Unisci le frasi: 'I have a friend. He lives in Dublin.'
+- Perché 'The man who he called me was my uncle' è sbagliata?
+- Metti in ordine le parti della frase.
+- Scrivi una frase con 'who' su una persona della tua famiglia e una con 'which' su un oggetto a cui tieni.
+
+## Whose e where: possesso e luoghi [lib-3-media-inglese-relativi-whose-where] · WHOSE
+concetti: Whose; Where; Whose o who's
+- Completa: 'That's the boy ___ sister is in my class.'
+- Completa: 'This is the town ___ my mum was born.'
+- 'Who's' e 'whose' si pronunciano allo stesso modo ma hanno significati diversi.
+- Completa: 'Do you know ___ coming to the party?'
+- Quale frase è corretta?
+- Che cosa significa 'a writer whose books are famous'?
+- Quale frase usa 'where' in modo sbagliato?
+- Scrivi una frase con 'whose' e una con 'where' per descrivere la tua scuola o il tuo quartiere.
+
+## Will o going to? Decidi tu [lib-3-media-inglese-will-going-to] · PLAN
+concetti: Going to per i piani; Will per decisioni immediate; Previsioni; Promesse e offerte
+- Hai deciso da mesi di studiare spagnolo. Che cosa dici?
+- Suona il telefono e tu decidi all'istante di rispondere. Che cosa dici?
+- Guardando nuvole nerissime si dice 'It's going to rain', perché ci sono prove evidenti.
+- Completa la promessa: 'Don't worry, I ___ tell anyone your secret.'
+- Quale frase è una previsione basata su un'opinione personale?
+- La tua amica ha le mani piene di libri. Che cosa le offri?
+- Quale frase è corretta?
+- Spiega perché diresti 'I'm going to buy a new bike' ma 'Oh, it's cold! I'll close the window'.
+
+## Would you like? Offrire e invitare [lib-3-media-inglese-offrire-invitare] · OFFER
+concetti: Would you like…?; Shall I…?; Shall we e Let's; Accettare e rifiutare
+- Come offri un tè a un ospite?
+- Vedi la nonna con le borse pesanti e ti offri di aiutarla. Che cosa dici?
+- Per accettare con entusiasmo un invito si può dire 'I'd love to!'
+- Completa la proposta: '___ go to the park after school?'
+- Qual è la differenza tra 'Would you like…?' e 'Do you like…?'
+- Un amico ti invita: 'Would you like to come to my party?' Non puoi andare. Che cosa rispondi?
+- Quale proposta è scritta correttamente?
+- Sei a casa di un amico e sua madre sta apparecchiando. Offriti di aiutarla e scrivi come lei potrebbe accetta…
+
+## Zero conditional: sempre vero [lib-3-media-inglese-zero-conditional] · FACTS
+concetti: Struttura; Verità generali; If o when
+- Quale frase è uno zero conditional corretto?
+- Completa la regola dei colori: 'If you mix blue and yellow, you ___ green.'
+- In 'If water reaches 100 °C, it boils' puoi sostituire 'if' con 'when' senza cambiare il significato.
+- Completa: 'If plants don't get water, they ___.'
+- Quali tempi verbali usa lo zero conditional?
+- Quale frase esprime una verità generale?
+- Metti in ordine le parti della frase.
+- Scrivi uno zero conditional su un fatto della natura o della scienza e spiega perché non usi 'will'.

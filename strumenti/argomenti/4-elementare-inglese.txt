@@ -1,0 +1,553 @@
+# 4ª elementare · Inglese: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A bottle of milk, please! [lib-4-elementare-inglese-spesa-contenitori-quantita] · BOTTLE
+concetti: I contenitori; Contenitore + of; Pezzi e porzioni; Il plurale
+- Come si chiama in inglese il barattolo di vetro della marmellata?
+- Vuoi una fetta di torta. Che cosa chiedi?
+- Compro una bottiglia d'acqua: I buy a bottle ___ water.
+- A loaf of bread vuol dire una pagnotta di pane.
+- Ti servono tre tavolette di cioccolato. Come lo dici?
+- Al supermercato il latte si compra spesso nel cartone. Come si dice?
+- Per dire due bottiglie d'acqua si dice two bottle of waters.
+- Scrivi in inglese una lista della spesa con quattro cose, usando quattro contenitori diversi.
+
+## A pair of trousers! [lib-4-elementare-inglese-vestiti-a-pair-of] · PAIR
+concetti: Vestiti sempre plurali; A pair of; Paia di scarpe e calzini; Altre cose in coppia
+- Quale frase sui tuoi jeans è corretta?
+- Come si dice un paio di pantaloni?
+- Mi servono dei calzini puliti: I need a ___ of clean socks.
+- Glasses, quando vuol dire occhiali, vuole il verbo al plurale: My glasses are broken.
+- Hai tre paia di scarpe. Come lo dici?
+- Che cosa sono le scissors?
+- Si dice My pyjamas are on the bed, con are.
+- Spiega perché in inglese si dice a pair of trousers e non a trouser. Fai un altro esempio con a pair of.
+
+## Al parco: what are they doing? [lib-4-elementare-inglese-descrivere-immagine-parco] · PICTURE
+concetti: There is e there are; Azioni al parco; Chi fa che cosa; Dove si trova
+- Nell'immagine ci sono tre alberi. Come lo dici?
+- Una bambina tiene il filo di un aquilone che vola in alto. Che cosa sta facendo?
+- Un cane dorme sotto la panchina: A dog is sleeping ___ the bench.
+- Feeding the ducks vuol dire dare da mangiare alle anatre.
+- Due bambini giocano sull'altalena. Quale frase è corretta?
+- Leggi: The ball is next to the tree. Dove si trova la palla?
+- Metti in ordine le parole per dire: Un uomo sta correndo con il suo cane.
+- Immagina un parco la domenica pomeriggio e descrivilo in inglese con tre frasi: una con there is o there are …
+
+## Always, usually, sometimes, never [lib-4-elementare-inglese-avverbi-di-frequenza] · ALWAYS
+concetti: Dal sempre al mai; Il posto nella frase; Never è già negativo; How often?
+- Che cosa vuol dire never?
+- Sara mangia la frutta a colazione tutti i giorni, senza saltarne nemmeno uno. Quale avverbio usa?
+- Il pesce non mi piace e non lo mangio mai: I ___ eat fish.
+- La frase I get always up at seven è scritta correttamente.
+- Quale frase ha l'avverbio al posto giusto?
+- Un amico ti chiede How often do you watch TV? Che cosa vuole sapere?
+- Metti in ordine gli avverbi, da quello che indica più spesso a quello che indica mai.
+- Rispondi in inglese a How often do you read a book? usando un avverbio di frequenza. Poi spiega in italiano d…
+
+## Are you sleeping? No, I'm not! [lib-4-elementare-inglese-present-continuous-negativo-domande] · DOING
+concetti: La forma negativa; La domanda; Le risposte brevi; What are you doing?
+- Che cosa vuol dire What are you doing?
+- Come si dice: Lui non sta mangiando?
+- ___ your brother watching TV?
+- Alla domanda Are you listening? si risponde in breve Yes, I am.
+- Quale domanda è corretta?
+- Is Grandma sleeping? No, la nonna sta leggendo. Quale risposta è giusta?
+- Metti in ordine le parole per dire: Noi non stiamo guardando la TV.
+- Un amico ti telefona e chiede What are you doing? Rispondi in inglese con una frase, poi aggiungi una cosa ch…
+
+## At, on o in? [lib-4-elementare-inglese-preposizioni-tempo-at-on-in] · WHEN
+concetti: At con le ore; On con i giorni; In con mesi e stagioni; Scegliere la preposizione
+- Hai lezione di inglese alle quattro. Quale frase è corretta?
+- Quale preposizione metti davanti a un giorno della settimana, come Saturday?
+- Al mare andiamo d'estate: We go to the seaside ___ summer.
+- Si dice on December perché December è un mese.
+- Quale frase contiene un errore?
+- Halloween è il 31 ottobre. Quale frase è corretta?
+- Si dice in the morning, ma on Monday morning.
+- Scrivi tre frasi in inglese su di te: una con at, una con on e una con in. Spiega perché hai scelto ogni prep…
+
+## Baker's, butcher's, chemist's [lib-4-elementare-inglese-negozi-baker-butcher-chemist] · BAKER
+concetti: Negozi del cibo; Altri negozi; Il nome del negozio; Che cosa compri
+- Dove compri il pane?
+- Hai mal di gola e ti serve uno sciroppo. Dove vai?
+- Compro la carne in macelleria: I buy meat at the ___.
+- Al greengrocer's si comprano frutta e verdura.
+- Perché si dice the baker's con 's?
+- Dove compri un libro di avventure?
+- Il newsagent's è il negozio dove si comprano giornali e riviste.
+- La mamma ti dà questa lista: bread, apples, sausages, medicine. Scrivi in inglese in quale negozio compri ogn…
+
+## Breakfast, lunch o dinner? [lib-4-elementare-inglese-pasti-breakfast-lunch-dinner] · LUNCH
+concetti: I pasti della giornata; Have con i pasti; Cibi dei pasti; Pasti e orari
+- Come si chiama in inglese il pasto di mezzogiorno?
+- Quale di questi abbinamenti è tipico della colazione?
+- Snack vuol dire cena.
+- Alle otto di sera ceno con la mia famiglia: I ___ dinner at eight.
+- Paolo fa colazione alle sette e mezza. Quale frase lo dice?
+- Perché a un inglese la frase I have a breakfast suona strana?
+- Metti in ordine i pasti principali della giornata, dal mattino alla sera.
+- Scrivi in inglese a che ora fai colazione, pranzo e cena, con tre frasi. Poi spiega in italiano quale parola …
+
+## Can I help you? [lib-4-elementare-inglese-al-negozio-dialoghi] · SHOP
+concetti: Il negoziante; Il cliente; Chiedere il prezzo; Le parole gentili
+- Entri in un negozio e il commesso ti dice Can I help you? Che cosa vuol dire?
+- Vuoi sapere quanto costa un pallone. Che cosa chiedi?
+- Vorrei due mele, per favore: I'd ___ two apples, please.
+- Here you are vuol dire Ecco a te e si dice quando si porge qualcosa.
+- Vuoi sapere quanto costano delle scarpe. Quale domanda è giusta?
+- Il commesso ti dà il resto e il sacchetto. Che cosa gli dici?
+- Metti in ordine il dialogo al bar della scuola.
+- Scrivi un breve dialogo in inglese dal fruttivendolo: tu chiedi qualcosa e il prezzo, il negoziante risponde.
+
+## Can I try it on? [lib-4-elementare-inglese-negozio-vestiti-taglie] · SIZE
+concetti: Provare un vestito; Too big, too small; La taglia; Decidere
+- Che cosa vuol dire Can I try it on?
+- Le scarpe ti stringono e sono corte. Che cosa dici?
+- Il commesso vuole sapere che taglia porti: What ___ are you?
+- Too long vuol dire troppo lungo.
+- Il maglione ti sta benissimo e vuoi comprarlo. Che cosa dici al commesso?
+- La giacca è troppo grande. Che cosa chiedi?
+- Metti in ordine il dialogo nel negozio di vestiti.
+- Sei in un negozio di vestiti a Londra. Scrivi tre frasi in inglese: chiedi di provare un vestito, di' che è t…
+
+## Che cosa fa un pilot? [lib-4-elementare-inglese-mestieri-che-cosa-fanno] · PILOT
+concetti: Le azioni dei mestieri; La s del lavoro; Mezzi e verbi giusti; Indovinelli dei mestieri
+- Chi fa il pane?
+- Che cosa fa volare un pilot?
+- Il contadino coltiva le verdure: A farmer ___ vegetables.
+- Un vet si prende cura degli animali malati.
+- Indovina: I work in a hospital. I help doctors. I look after sick people. Who am I?
+- Quale frase descrive bene il lavoro di un dentist?
+- La frase A pilot drives a plane è il modo giusto per dire che un pilota guida un aereo.
+- Inventa un indovinello in inglese su un mestiere, con tre frasi che cominciano con I. Alla fine scrivi la sol…
+
+## Coat o shorts? Dipende dal tempo! [lib-4-elementare-inglese-vestiti-e-tempo-atmosferico] · SCARF
+concetti: Vestiti per il freddo; Vestiti per il caldo; Che tempo fa; Quando piove
+- Fuori nevica. Che cosa metti sulle mani?
+- Che cosa vuol dire It's raining?
+- Al mare c'è un sole fortissimo: I'm wearing ___.
+- Umbrella vuol dire ombrello.
+- It's hot and sunny. Che cosa metti?
+- Che differenza c'è tra scarf e skirt?
+- Una cap è un berretto con la visiera, utile contro il sole.
+- Scegli due tipi di tempo diversi e scrivi in inglese che cosa ti metti, con frasi come When it's cold, I wear…
+
+## Do you like spaghetti? [lib-4-elementare-inglese-do-you-like-domande-gusti] · TASTE
+concetti: Chiedere i gusti; I gusti degli altri; Likes con la s; Il preferito
+- Che cosa vuol dire What's your favourite food?
+- A Kate piacciono moltissimo i cavalli. Ti chiedono Does Kate like horses? Che cosa rispondi?
+- A mio fratello piacciono i fumetti: My brother ___ comics.
+- Se ti chiedono Do you like carrots? e le carote non ti piacciono, rispondi No, I don't.
+- Leggi: Tom likes pizza, but he doesn't like fish. Anna likes fish, but she doesn't like pizza. Quale frase è …
+- Un amico ti chiede What's your favourite animal? Quale risposta va bene?
+- Metti in ordine il dialogo tra Sam e Lily.
+- Fai un'intervista: scrivi in inglese due domande per scoprire i gusti di un compagno, con le sue risposte. Po…
+
+## Do you...? Does she...? [lib-4-elementare-inglese-present-simple-domande-do-does] · QUIZ
+concetti: Domande con do; Domande con does; L'ordine della domanda; Capire le domande
+- Come chiedi a un amico se gli piace il gelato?
+- Vuoi sapere se tuo cugino Sam gioca a calcio. Che cosa chiedi?
+- Nella domanda Does she speak English? il verbo speak non ha la s perché la s c'è già in does.
+- Chiedi a due gemelli: ___ you live near the school?
+- Che cosa vuol dire Do you walk to school?
+- Quale domanda ha le parole nell'ordine giusto?
+- Metti in ordine le parole per chiedere: Tuo fratello mangia la verdura?
+- Scrivi due domande in inglese: una per chiedere a un amico se gli piace il calcio e una per chiedere se sua s…
+
+## Doctor, teacher, farmer: chi è? [lib-4-elementare-inglese-mestieri-nomi] · DOCTOR
+concetti: Mestieri della salute; Mestieri del cibo e della terra; Mestieri della città; Mestieri in -er
+- Il tuo gatto sta male. Da chi lo porti?
+- Chi lavora in un ristorante e porta i piatti ai tavoli?
+- Chi insegna è un insegnante: to teach, a ___.
+- Firefighter vuol dire pompiere.
+- Chi ti porta le lettere a casa?
+- Chi guida un autobus si chiama driver. Da quale verbo viene questa parola?
+- Un farmer lavora di solito in ospedale.
+- Scrivi i nomi in inglese di tre persone che lavorano nella tua scuola o nel tuo quartiere, e per ognuna scriv…
+
+## Every day o right now? [lib-4-elementare-inglese-present-simple-o-continuous] · TODAY
+concetti: Abitudini: present simple; Adesso: present continuous; Le parole spia; Insieme in una frase
+- Quale espressione va con il present simple?
+- Guardi dalla finestra: il vicino sta lavando la macchina proprio adesso. Che cosa dici?
+- Di solito il sabato vado in piscina: I usually ___ swimming on Saturdays.
+- Nella frase Listen! The baby is crying si usa il present continuous perché il bambino piange proprio adesso.
+- Che cosa vuol dire My dad works in a bank?
+- Quale frase usa i due tempi nel modo giusto?
+- La frase I am usually reading in bed è il modo giusto per raccontare un'abitudine.
+- Scrivi due frasi in inglese su di te: una su una cosa che fai ogni giorno e una su quello che stai facendo ad…
+
+## Fatti veri con il present simple [lib-4-elementare-inglese-present-simple-fatti-veri] · FACT
+concetti: Fatti sempre veri; Abitudini; Animali e natura; Orari fissi
+- Quale frase descrive un fatto sempre vero?
+- Come completi il fatto sugli uccelli: Birds ___.
+- L'acqua bolle a 100 gradi: Water ___ at 100 degrees.
+- La frase Cows eat grass vuol dire Le mucche mangiano l'erba.
+- Il treno per Londra parte ogni giorno alle nove. Quale frase usi?
+- Quale frase racconta un'abitudine?
+- Metti in ordine le fasi della vita di una farfalla. Caterpillar è il bruco, chrysalis la crisalide.
+- Scrivi due fatti sempre veri in inglese, uno sulla natura e uno su un animale, usando il present simple. Spie…
+
+## Five past, twenty to [lib-4-elementare-inglese-ore-minuti-past-to] · MINUTE
+concetti: Minuti con past; Minuti con to; I numeri dei minuti; Calcolare quanto manca
+- Sono le 3:10. Come lo dici?
+- Come si scrive in lettere il numero 25?
+- Twenty to four vuol dire le quattro e venti.
+- Sono le 7:50: mancano dieci minuti alle otto. It's ___ to eight.
+- Che ora è five to twelve?
+- La lezione di nuoto comincia alle 4:35. Come lo dici?
+- Metti in ordine gli orari della domenica di Leo, dal più presto al più tardi.
+- Spiega con parole tue come trasformi le 9:40 in inglese usando to, e scrivi il risultato.
+
+## Half past e quarter to [lib-4-elementare-inglese-ore-half-past-quarter] · QUARTER
+concetti: Half past; Quarter past; Quarter to; Past o to?
+- Sono le 7:30. Come lo dici in inglese?
+- Quarter past three vuol dire le tre e un quarto.
+- Sono le 9:45, cioè le dieci meno un quarto: It's quarter ___ ten.
+- Che ora è quarter to six?
+- Il treno parte alle 10:15. Come lo annuncia lo speaker?
+- Quando si usa to invece di past?
+- Metti in ordine questi orari, dal più presto al più tardi.
+- Il tuo amico dice che le 6:45 si dicono quarter past seven. Spiegagli l'errore e scrivi la forma corretta.
+
+## Have a shower, have fun! [lib-4-elementare-inglese-verbo-have-espressioni] · SHOWER
+concetti: Have per lezioni e pause; Have per lavarsi; Have per divertirsi; Have e has
+- Che cosa fai quando dici I have a shower?
+- Alla festa del tuo amico ti diverti tantissimo. Come lo dici?
+- La mamma si fa la doccia ogni mattina: Mum ___ a shower every morning.
+- A scuola, quando arriva la ricreazione, si può dire We have a break.
+- Che cosa vuol dire We have English on Monday?
+- Tuo cugino parte per le vacanze. Che cosa gli auguri?
+- Metti in ordine le parole per dire: Lei fa il bagno la sera.
+- In italiano diciamo fare la doccia e fare una festa. Quale verbo usa l'inglese in queste espressioni? Scrivi …
+
+## He plays, she reads [lib-4-elementare-inglese-present-simple-terza-persona-s] · PLAYS
+concetti: Il present simple; La s della terza persona; Nomi al posto di he e she; I, you, we, they senza s
+- La tua amica gioca a tennis. Quale frase è corretta?
+- Quale soggetto va bene nella frase ___ read comics, con il verbo senza s?
+- Nella frase My dad cook pasta on Sunday il verbo è corretto.
+- Il mio gatto dorme sul divano: My cat ___ on the sofa.
+- In quale frase manca la s del verbo?
+- Quando si usa il present simple?
+- Metti in ordine le parole per dire: Lucy va a scuola a piedi ogni giorno.
+- Spiega perché si dice I play ma he plays. Poi scrivi una frase su di te e una su un tuo amico con lo stesso v…
+
+## Homework, dinner e poi nanna [lib-4-elementare-inglese-routine-pomeriggio-sera] · SLEEP
+concetti: Dopo la scuola; Tempo libero; La sera; Andare a dormire
+- Torni da scuola e apri il quaderno per fare gli esercizi. Che cosa stai facendo?
+- Quale frase dice che guardi la televisione?
+- After school vuol dire prima della scuola.
+- Alle quattro torno a casa da scuola: I come ___ at four o'clock.
+- Ogni sera alle otto Ben mangia con la sua famiglia. Quale frase usa per raccontarlo?
+- Dopo il bagno ti metti il pigiama. Quale verbo inglese significa 'mettersi' un vestito?
+- Metti in ordine la sera di Mia.
+- Qual è la differenza tra go to bed e go to sleep? Spiegalo con parole tue e fai un esempio in inglese sulla t…
+
+## I don't, she doesn't [lib-4-elementare-inglese-present-simple-negativo-dont-doesnt] · NOTHING
+concetti: Don't; Doesn't; Il verbo senza s; Forme brevi e lunghe
+- Come si dice: Io non mangio la carne?
+- Quale frase negativa su Tom è corretta?
+- Doesn't è la forma breve di does not.
+- Mia sorella non guarda la TV la mattina: My sister doesn't ___ TV in the morning.
+- Completa la frase sui tuoi amici: My friends ___ go to school on Sunday.
+- Perché la frase He doesn't plays football è sbagliata?
+- Metti in ordine le parole per dire: Il mio cane non mangia la frutta.
+- Trasforma in negativa la frase Anna likes spinach e spiega che cosa cambia nel verbo.
+
+## I like, I don't like [lib-4-elementare-inglese-like-dont-like] · LIKE
+concetti: I like; I don't like; Like + -ing; Il plurale per le categorie
+- Come dici che ti piacciono le mele?
+- Come dici che non ti piacciono i ragni?
+- Mi piace andare in bicicletta: I like ___ my bike.
+- Per dire che ti piacciono i cani in generale si dice I like dogs, al plurale.
+- Che cosa vuol dire I like dancing?
+- Perché in inglese non si dice Pizza likes me per dire mi piace la pizza?
+- Metti in ordine le parole per dire: Non mi piace alzarmi presto.
+- Scrivi due cose che ti piacciono e una che non ti piace, in inglese. Usa almeno una volta like con un verbo i…
+
+## I wake up at seven! [lib-4-elementare-inglese-routine-mattina-wake-up] · WAKE
+concetti: Svegliarsi e alzarsi; Lavarsi e vestirsi; Colazione e scuola; Raccontare la mattina
+- Suona la sveglia e apri gli occhi. Quale frase inglese descrive questo momento?
+- Che cosa fai quando dici I brush my teeth?
+- Wake up e get up vogliono dire esattamente la stessa cosa.
+- Ti metti la maglietta e i pantaloni: I get ___.
+- Ogni mattina, in cucina, bevi il latte e mangi i biscotti. Come lo dici in inglese?
+- Racconti la tua mattina: I get up. ___ I have breakfast. Quale parola usi per dire 'poi'?
+- Metti in ordine la mattina di Lucy, dalla prima all'ultima azione.
+- Racconta in inglese la tua mattina con tre frasi, usando first, then e after that. Poi scrivi in italiano che…
+
+## I want to be a vet! [lib-4-elementare-inglese-mestieri-da-grande-want-to-be] · DREAM
+concetti: I want to be; Il motivo con because; Chiedere a un amico; Qualità e mestieri
+- Come dici: Da grande voglio fare il pilota?
+- Che cosa vuol dire What do you want to be?
+- Voglio fare il veterinario perché amo gli animali: I want to be a vet ___ I love animals.
+- Brave vuol dire coraggioso.
+- Quale qualità serve di più a un firefighter?
+- Leggi: Sophie wants to be a teacher because she likes helping children. Perché Sophie vuole fare la maestra?
+- Metti in ordine le parole per dire: Voglio fare il cuoco.
+- Rispondi in inglese alla domanda What do you want to be? e spiega il motivo con because.
+
+## I'm reading right now! [lib-4-elementare-inglese-present-continuous-affermativo] · MOMENT
+concetti: A cosa serve; Am, is, are + -ing; Le forme brevi; Le parole di adesso
+- Che cosa vuol dire I am drawing?
+- Quale forma di be va con they? They ___ playing.
+- Mio papà sta cucinando: My dad ___ cooking.
+- He's running è la forma breve di He is running.
+- Quale espressione ti fa capire che un'azione succede adesso?
+- Qual è la forma breve di We are swimming?
+- Metti in ordine le parole per dire: Le ragazze stanno cantando una canzone.
+- Pensa alla tua classe in questo momento: scrivi tre frasi in inglese su cosa stanno facendo le persone, usand…
+
+## I, you, he, she, it... [lib-4-elementare-inglese-pronomi-personali-soggetto] · PRONOUN
+concetti: I pronomi soggetto; He, she o it?; Pronome e verbo; I sempre maiuscolo
+- Quale pronome usi al posto di my mum and I?
+- Quale pronome usi per parlare di un tavolo?
+- In inglese il pronome I si scrive con la maiuscola solo all'inizio della frase.
+- Tu e tua sorella andate in piscina: You and your sister ___ to the swimming pool.
+- Quale pronome sostituisce Luca and Marco nella frase Luca and Marco play basketball?
+- Leggi: Grandpa lives in Naples. Come continui la frase parlando del nonno?
+- You può voler dire sia tu sia voi.
+- Riscrivi le frasi sostituendo i nomi con il pronome giusto: Sara likes cats. My dog is black. Tom and I play …
+
+## Il diario di Lily [lib-4-elementare-inglese-ripasso-routine-diario-orari] · DIARY
+concetti: Leggere gli orari; La routine al present simple; Calcolare il tempo; Raccontare di Lily
+- Lily scrive: I get up at quarter past seven. A che ora si alza?
+- Lily scrive: School starts at half past eight. A che ora comincia la scuola?
+- Racconti di Lily: She ___ breakfast at half past seven.
+- Nella frase School starts at half past eight il verbo ha la s perché school equivale a it.
+- Lily si alza alle 7:15 e fa colazione alle 7:30. Quanto tempo passa?
+- Lily entra a scuola alle 8:30 e pranza a one o'clock. Quanto tempo passa?
+- Metti in ordine il diario di Lily, dalla mattina alla sera.
+- Riscrivi in inglese due frasi del diario di Lily come se le raccontassi tu a un amico, cominciando con She.
+
+## La giornata di Tom [lib-4-elementare-inglese-ripasso-present-simple-giornata-tom] · STORY
+concetti: Capire un testo; Raccontare di un altro; Mi piace e non mi piace; Da io a lui o lei
+- Leggi: Tom gets up at seven. He has cereals for breakfast. A che ora si alza Tom?
+- Leggi: Tom goes to school by bike. Come va a scuola Tom?
+- Leggi: Tom doesn't like maths, but he loves art. A Tom piace la matematica.
+- Lucy scrive: I watch cartoons. Tu racconti di lei: Lucy ___ cartoons.
+- Quale frase racconta correttamente la sera di Tom?
+- Tom dice: I don't eat fish. Come lo racconti tu?
+- Metti in ordine la giornata di Tom, dalla mattina alla sera.
+- Scrivi tre frasi in inglese sulla giornata di un tuo familiare, usando he o she. Controlla che ogni verbo abb…
+
+## Library, bank o post office? [lib-4-elementare-inglese-luoghi-della-citta] · TOWN
+concetti: Luoghi pubblici; Luoghi del tempo libero; Il falso amico library; Che cosa ci fai
+- Dove spedisci una lettera?
+- Vuoi vedere un film sul grande schermo. Dove vai?
+- Prendo in prestito i libri in biblioteca: I borrow books at the ___.
+- Library vuol dire libreria, il negozio dove si comprano i libri.
+- Che cosa fai alla swimming pool?
+- A che cosa serve un museum?
+- Police station vuol dire stazione dei treni.
+- Scegli tre luoghi della tua città e scrivi in inglese che cosa ci fai, con frasi come I go to the park to pla…
+
+## Lo chef cucina o sta cucinando? [lib-4-elementare-inglese-ripasso-mestieri-simple-continuous] · CHEF
+concetti: Il lavoro di ogni giorno; Che cosa sta facendo adesso; Mestieri e azioni; Un'eccezione di oggi
+- Che cosa fa un firefighter?
+- Guarda! Lo chef sta tagliando le cipolle. Come lo dici?
+- Una veterinaria si prende cura degli animali: A vet ___ after animals.
+- La frase The doctor is visiting a child right now usa il present continuous perché parla di adesso.
+- Leggi: Mr Brown is a bus driver, but today he is at the beach. Quale frase è vera?
+- Quale frase descrive il lavoro di tutti i giorni di una maestra?
+- Nella frase My mum usually works in an office, but today she is working at home si usano due tempi diversi.
+- Scegli un mestiere e scrivi due frasi in inglese: una su che cosa fa di solito quella persona e una su che co…
+
+## Love, like, don't mind, hate [lib-4-elementare-inglese-love-hate-dont-mind] · LOVE
+concetti: Love; Hate; Don't mind; La scala dei gusti
+- Il gelato al cioccolato ti piace tantissimo. Che cosa dici?
+- Quale verbo è il contrario di love?
+- Fare i compiti non ti entusiasma, ma non ti dispiace: I don't ___ doing homework.
+- I hate è più forte di I don't like.
+- Che cosa vuol dire I don't mind?
+- Ecco cosa pensa Ben degli sport: football = love, tennis = don't mind, swimming = hate. Quale frase è vera?
+- Metti in ordine i verbi, dal gusto più forte al più debole.
+- Scrivi in inglese che cosa pensi di tre cibi, usando tre verbi diversi della scala dei gusti.
+
+## Morning, afternoon, evening, night [lib-4-elementare-inglese-parti-del-giorno-am-pm] · NIGHT
+concetti: Le parti del giorno; In the e at night; I saluti del giorno; a.m. e p.m.
+- Come si dice pomeriggio in inglese?
+- Arrivi a scuola alle otto e saluti la maestra. Che cosa dici?
+- In inglese si dice at night ma in the morning.
+- Il sabato gioco a calcio di pomeriggio: I play football in the ___.
+- Sul biglietto del cinema c'è scritto 3 p.m. A che ora comincia il film?
+- Ti svegli alle sette del mattino. Come lo scrivi?
+- Metti in ordine le parti del giorno, dall'alba a quando tutti dormono.
+- Perché è strano dire Good night quando entri in un negozio alle otto di sera? Che cosa diresti invece?
+
+## Orario scolastico in inglese [lib-4-elementare-inglese-orario-scolastico-materie] · SCHOOL
+concetti: Le materie scolastiche; I giorni della scuola; Leggere il timetable; La materia preferita
+- Nell'ora di PE corri, salti e giochi a pallavolo in palestra. Che materia è?
+- Studi i Sumeri e gli Egizi. In quale materia sei?
+- In inglese i giorni della settimana si scrivono con la lettera maiuscola, come Monday.
+- Ogni mercoledì disegno e dipingo: I have ___ on Wednesday.
+- Quale di questi giorni fa parte del weekend?
+- Leggi l'orario di Emma. Monday: maths, science. Tuesday: English, art. Wednesday: history, music. Quando ha a…
+- Metti in ordine i giorni di scuola, dal primo all'ultimo della settimana.
+- Rispondi in inglese alla domanda What's your favourite subject? e spiega in italiano perché ti piace.
+
+## Play, go o do? [lib-4-elementare-inglese-hobby-play-go-do] · HOBBY
+concetti: Play; Go + -ing; Do; The con gli strumenti
+- Come dici che giochi a basket?
+- Il sabato vai a nuotare in piscina. Come lo dici?
+- Mia sorella fa karate il martedì: My sister ___ karate on Tuesday.
+- Si dice I play the guitar, con the davanti allo strumento.
+- Suoni il pianoforte e giochi a calcio. Quale frase è corretta?
+- D'inverno vai a sciare in montagna. Che cosa scrivi?
+- Si dice I play gymnastics.
+- Racconta in inglese due tuoi hobby, usando due verbi diversi tra play, go e do. Spiega perché hai scelto quei…
+
+## Pounds, pence e prezzi [lib-4-elementare-inglese-soldi-prezzi-pounds-pence] · MONEY
+concetti: Pounds e pence; Leggere i prezzi; Euros e cents; Fare i conti
+- Quanti pence ci sono in una sterlina?
+- Come si legge £4.20?
+- Una matita costa 75p: The pencil costs seventy-five ___.
+- Il prezzo €5.50 si legge five euros fifty.
+- Compri un quaderno a £2 e una penna a £1.50. Quanto spendi in tutto?
+- Paghi con una banconota da £5 una cosa che costa £3.20. Quanto resto, change, ricevi?
+- Metti in ordine i prezzi, dal più basso al più alto.
+- Al negozio un gelato costa £1.40 e un succo 90p. Quanto spendi se compri tutti e due? Scrivi il totale in ing…
+
+## Running, swimming, writing: che spelling! [lib-4-elementare-inglese-present-continuous-spelling-ing] · RUNNING
+concetti: Aggiungere -ing; Via la e muta; Doppia consonante; Y, w e x restano
+- Qual è la forma -ing di read?
+- Come si scrive write con -ing?
+- Il pesce sta nuotando: The fish is ___.
+- Sit con -ing diventa sitting, con due t.
+- In quale gruppo tutte le forme in -ing sono scritte bene?
+- Quale di questi verbi perde la e prima di -ing?
+- Dance con -ing diventa danceing.
+- Spiega perché si scrive running con due n ma reading con una sola d.
+
+## Shopping al centro commerciale [lib-4-elementare-inglese-ripasso-shopping-centro-commerciale] · MALL
+concetti: Capire il racconto; Gusti e acquisti; Taglie e problemi; I conti della spesa
+- Leggi: On Saturday Ella goes to the shopping mall with her mum. Con chi va Ella?
+- Leggi: Ella loves clothes, but she doesn't like shoe shops. Quale frase è vera?
+- Il maglione a righe le sta troppo grande: The striped jumper is too ___.
+- Leggi: Ella buys a pair of red trainers. Ella compra un paio di scarpe da ginnastica rosse.
+- Ella compra le scarpe a £25 e una maglietta a £8. Quanto spende in tutto?
+- La mamma paga £33 con £40. Quanto resto ricevono?
+- Metti in ordine il racconto di Ella.
+- Racconta in inglese, con tre frasi, un pomeriggio di shopping immaginario: dove vai, che cosa ti piace e che …
+
+## Striped, spotted o checked? [lib-4-elementare-inglese-vestiti-colori-fantasie] · COLOUR
+concetti: I colori; Le fantasie; Prima del nome; Descrivere com'è vestito
+- Come si dice marrone in inglese?
+- Una maglietta con le righe è una T-shirt...
+- Il nonno ha una camicia a quadretti: Grandpa has got a ___ shirt.
+- Grey vuol dire verde.
+- Come si dice un cappello nero?
+- Leggi: Emma is wearing a yellow jumper and blue jeans. Che cosa indossa Emma?
+- Plain vuol dire a tinta unita, cioè senza disegni.
+- Descrivi in inglese come è vestito un tuo amico o un personaggio dei cartoni, usando almeno due colori e una …
+
+## Sweet, salty o sour? [lib-4-elementare-inglese-sapori-sweet-salty-sour] · SWEET
+concetti: Sweet e salty; Sour e bitter; Spicy; L'aggettivo prima del nome
+- Che sapore ha il miele?
+- Mordi un limone e fai una smorfia. Che sapore ha?
+- Il peperoncino brucia in bocca: Chilli is ___.
+- Bitter vuol dire dolce.
+- Come si dice delle patatine salate?
+- In Inghilterra un bambino ti offre dei sweets. Che cosa ti sta offrendo?
+- Si dice two sweets cakes, con la s anche sull'aggettivo.
+- Descrivi in inglese il sapore di tre cibi che conosci, usando sweet, salty, sour, bitter o spicy. Ricorda dov…
+
+## T-shirt, jumper e trousers [lib-4-elementare-inglese-vestiti-nomi-base] · JUMPER
+concetti: Vestiti per la parte di sopra; Vestiti per la parte di sotto; Ai piedi; Parole da non confondere
+- Come si chiama il maglione di lana in inglese britannico?
+- Che cosa vuol dire skirt?
+- Per la lezione di ginnastica metto le scarpe da ginnastica: I put on my ___.
+- Shirt e T-shirt sono la stessa cosa.
+- Fa caldo e vai al mare. Quali pantaloni metti?
+- Che cosa ti metti ai piedi prima delle scarpe?
+- Dress vuol dire vestito da donna, come quello che si mette per una festa.
+- Scrivi in inglese i nomi di quattro vestiti che metti di solito per andare a scuola e dividili in parte di so…
+
+## This, that, these, those [lib-4-elementare-inglese-this-that-these-those] · THESE
+concetti: This e these; That e those; Singolare o plurale; In negozio
+- Tieni in mano un cappello. Come dici questo cappello?
+- In vetrina, lontano da te, ci sono degli stivali. Come dici quegli stivali?
+- Queste scarpe sono nuove: ___ shoes are new.
+- Si dice this socks per indicare questi calzini.
+- Indichi un cappotto appeso lontano. Come chiedi quanto costa?
+- Hai in mano dei jeans. Quale domanda è corretta?
+- That vuol dire quello e si usa per una cosa lontana.
+- Sei in un negozio con un amico: scrivi in inglese una frase con this, una con these e una con those, parlando…
+
+## Watches, goes, flies: le regole [lib-4-elementare-inglese-present-simple-ortografia-es-ies] · SPELL
+concetti: Verbi in -es; Consonante + y; Vocale + y; Do, go e have
+- Qual è la forma giusta di watch con he?
+- Come diventa have con she?
+- Mio fratello studia inglese ogni giorno: My brother ___ English every day.
+- Play con he diventa plaies.
+- Quale di questi verbi prende -es con she?
+- Perché fly diventa flies ma play diventa plays?
+- Go con he diventa goes, con una e prima della s.
+- Spiega con parole tue perché si scrive she watches e non she watchs. Fai un altro esempio con un verbo simile.
+
+## What are you wearing today? [lib-4-elementare-inglese-vestiti-what-are-you-wearing] · WEAR
+concetti: I'm wearing; Wear o put on?; Chiedere che cosa indossa; Abitudine o oggi?
+- Che cosa vuol dire I'm wearing a hat?
+- Vuoi sapere che cosa indossa tua sorella adesso. Che cosa chiedi?
+- Oggi Tom indossa una felpa blu: Today Tom ___ wearing a blue sweatshirt.
+- Put on e wear vogliono dire esattamente la stessa cosa.
+- In molte scuole inglesi i bambini portano la divisa tutti i giorni. Come lo dicono?
+- Esci e fa freddo: prendi la giacca e te la metti. Quale frase descrive questa azione?
+- Metti in ordine le parole per chiedere: Che cosa indossi oggi?
+- Descrivi in inglese che cosa indossi oggi, con almeno tre vestiti e un colore.
+
+## What does she do? [lib-4-elementare-inglese-mestieri-a-an-what-does-she-do] · ARTIST
+concetti: Chiedere il mestiere; L'articolo a; An davanti a vocale; Al plurale
+- Che cosa vuol dire What does your dad do?
+- Come si dice: Mia zia fa la dottoressa?
+- Lui dipinge quadri, è un artista: He's ___ artist.
+- In inglese si può dire He is teacher, senza articolo, come in italiano lui è insegnante.
+- Quale mestiere vuole an davanti?
+- Le mie sorelle fanno le infermiere. Come lo dici?
+- Metti in ordine le parole per chiedere: Che lavoro fa tua mamma?
+- Spiega perché si dice a doctor ma an actor. Poi scrivi un'altra frase con an e un mestiere.
+
+## What time is it? [lib-4-elementare-inglese-ore-intere-o-clock] · CLOCK
+concetti: Chiedere l'ora; Le ore intere; Numeri delle ore; A che ora fai qualcosa
+- Vuoi sapere che ore sono. Che cosa chiedi?
+- L'orologio segna le cinque in punto. Come lo dici?
+- Le lancette segnano le undici in punto: It's ___ o'clock.
+- Alle 15:00 un bambino inglese di solito dice It's three o'clock, non It's fifteen o'clock.
+- Ti chiedono What time do you go to school? Quale risposta è giusta?
+- Il film comincia alle 21. Come lo dice un amico inglese?
+- Metti in ordine le parole per chiedere l'ora.
+- Spiega con parole tue quando si usa o'clock e scrivi due frasi in inglese con orari della tua giornata.
+
+## Where does a nurse work? [lib-4-elementare-inglese-mestieri-luoghi-di-lavoro] · WORK
+concetti: Luoghi di lavoro; Works in e works on; Mestiere e luogo; Chiedere dove lavora
+- Che cosa vuol dire hospital?
+- Dove lavora un cook?
+- Il contadino lavora in fattoria: The farmer works ___ a farm.
+- Una nurse lavora di solito in una scuola.
+- Vuoi sapere dove lavora la mamma di Tom. Che cosa chiedi?
+- Leggi: She works in a school and she teaches children. Che lavoro fa?
+- Office vuol dire ufficio.
+- Scrivi in inglese dove lavorano due persone della tua famiglia o che conosci, usando works in o works on.
+
+## Where, what, when: domande! [lib-4-elementare-inglese-domande-wh-present-simple] · WHERE
+concetti: Le parole delle domande; Wh + do; Wh + does; La risposta giusta
+- Quale parola usi per chiedere dove?
+- Ti chiedono Where do you live? Quale risposta va bene?
+- What time ___ your sister get up?
+- Alla domanda Who do you play with? si può rispondere With my cousins.
+- Quale domanda è costruita bene?
+- Vuoi sapere che cosa mangia a colazione tuo zio. Quale domanda fai?
+- Metti in ordine le parole per chiedere: Quando giocate a calcio?
+- Scrivi due domande in inglese per conoscere un nuovo compagno, una con where e una con what time. Poi rispond…
+
+## Yes, I do! No, she doesn't. [lib-4-elementare-inglese-present-simple-risposte-brevi] · ANSWER
+concetti: Risposte con do; Risposte con does; Il pronome giusto; Non ripetere il verbo
+- Ti chiedono Do you like chocolate? e a te piace. Che cosa rispondi?
+- Does your dad drive a car? Tuo papà non guida. Quale risposta è giusta?
+- A Do you play tennis? si può rispondere in breve Yes, I play.
+- Does Emma read comics? Yes, ___ does.
+- Do your grandparents live in the country? Sì, ci vivono. Quale risposta scegli?
+- Does the cat sleep in your room? No, il gatto dorme in cucina. Che cosa rispondi?
+- Alla domanda Do you and your sister play the piano? si può rispondere Yes, we do.
+- Un compagno risponde alla domanda Does Marco like football? dicendo Yes, he likes. Spiegagli come correggere …

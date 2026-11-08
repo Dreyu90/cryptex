@@ -1,0 +1,553 @@
+# 1ª media · Inglese: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A, an o the? [lib-1-media-inglese-articoli-a-an-the] · HOUR
+concetti: A e an; Conta il suono; The; Senza articolo
+- There's ___ egg in the fridge.
+- The si usa sia con i nomi singolari sia con quelli plurali.
+- Quale espressione è corretta?
+- Quale espressione è corretta?
+- Quale frase è corretta?
+- Come traduci «I gatti sono animali indipendenti», parlando dei gatti in generale?
+- Leggi: «I've got a dog and a cat. The dog is called Max.» Perché la seconda volta si usa the?
+- Perché si dice «an umbrella» ma «a uniform», anche se entrambe le parole iniziano con la u? Spiega.
+
+## Always, often o never? [lib-1-media-inglese-avverbi-di-frequenza] · OFTEN
+concetti: La scala della frequenza; Posizione con i verbi; Posizione con to be; How often?
+- Che cosa significa «never»?
+- Metti in ordine gli avverbi dal più frequente al meno frequente.
+- Nella frase «She is always happy» l'avverbio è nella posizione giusta.
+- Quale frase è corretta?
+- Paolo arriva sempre in anticipo: he is ___ late.
+- Come chiedi «Quante volte vai in piscina?»
+- Che cosa vuol dire «twice a week»?
+- Spiega dove si mette un avverbio di frequenza in una frase, con un esempio con to be e uno con un altro verbo.
+
+## Am, is, are: il verbo essere [lib-1-media-inglese-to-be-affermativo] · BEING
+concetti: Le tre forme del presente; Le forme contratte; Usi di to be
+- Quale forma di to be va con il pronome I?
+- My brother ___ twelve years old.
+- La forma contratta di «they are» è «they're».
+- Qual è la forma intera di «we're»?
+- Quale frase è corretta?
+- Come dici in inglese «Ho undici anni»?
+- Quale frase usa to be per dire da dove viene una persona?
+- Presentati in inglese con almeno tre frasi che usano to be (nome, età, provenienza) e indica quale forma del …
+
+## Attenti ai false friends! [lib-1-media-inglese-false-friends] · LIBRARY
+concetti: Che cosa sono; Luoghi e materiali; Oggetti; Altre parole ingannevoli
+- Che cos'è un «false friend»?
+- Vuoi prendere in prestito un libro gratis. Dove vai?
+- «Camera» in inglese significa «stanza».
+- My mum reads a ___ about cooking every month.
+- Il tuo amico riflette prima di agire e fa sempre scelte giuste. In inglese è…
+- Che cosa significa «fabric»?
+- Che cosa significa «Tom and Sam often have arguments»?
+- Perché bisogna fare attenzione ai false friends? Spiega con un esempio a tua scelta.
+
+## Be, do o can? Ripasso [lib-1-media-inglese-ripasso-be-do-can] · MISTAKE
+concetti: To be fa da solo; Can fa da solo; Gli altri verbi vogliono do; Scegliere l'ausiliare giusto
+- Quale domanda è corretta?
+- Quale domanda è corretta?
+- La domanda «Do you can play the piano?» è corretta.
+- ___ your sister at school today?
+- Quale frase negativa è corretta?
+- Trasforma in negativa: «They are from London».
+- In quale frase c'è un errore?
+- Il tuo amico scrive: «Do you can come to my party? My mum don't is at home.» Correggi le due frasi e spiega g…
+
+## Break, uniform e homework [lib-1-media-inglese-vita-scolastica] · BREAK
+concetti: La giornata scolastica; Homework; Le persone della scuola; La divisa scolastica
+- Chi è l'«headteacher»?
+- Si può dire «I've got three homeworks today».
+- We eat a snack and chat with our friends during the ___.
+- Che cosa significa «classmate»?
+- Che cos'è una «school uniform»?
+- Quale frase è corretta?
+- Che cos'è il «lunch break»?
+- Racconta in inglese la tua giornata a scuola in tre frasi, usando le parole lesson, break e homework.
+
+## Breakfast, lunch and dinner [lib-1-media-inglese-cibo-e-pasti] · LUNCH
+concetti: I pasti; Cibi e bevande; Ordinare in modo gentile; La colazione inglese
+- Qual è il pasto della sera?
+- Come si dice «verdure»?
+- «I'd like an orange juice, please» è un modo gentile per ordinare.
+- Vegetarians don't eat ___.
+- Al bar vuoi chiedere un panino in modo gentile. Che cosa dici?
+- Quale di questi cibi fa parte della tradizionale full English breakfast?
+- Quale parola NON indica una bevanda?
+- Racconta in inglese che cosa mangi di solito a colazione e a pranzo, con almeno due frasi.
+
+## Can I…? Chiedere il permesso [lib-1-media-inglese-can-permesso-richieste] · PLEASE
+concetti: Chiedere il permesso; Fare richieste; Rispondere; Can per possibilità e divieti
+- Vuoi andare in bagno durante la lezione. Che cosa chiedi all'insegnante?
+- Non riesci ad aprire lo zaino e chiedi aiuto a un compagno. Che cosa dici?
+- «Sure!» è un modo per rispondere di sì a una richiesta.
+- ___ I borrow your rubber, please?
+- Che cosa significa il cartello «You can't eat in the library»?
+- Un compagno ti chiede: «Can I use your pen?» Ma tu ne hai bisogno. Come rispondi gentilmente?
+- Nella frase «You can visit the castle on Sundays», can esprime un'abilità.
+- Qual è la differenza tra «Can I open the window?» e «Can you open the window?» Spiega con parole tue.
+
+## Can you swim? Le abilità [lib-1-media-inglese-can-abilita] · SKILL
+concetti: Can per le abilità; Uguale per tutti; Can't e cannot; Domande e risposte brevi
+- Che cosa significa «I can play the guitar»?
+- Alla terza persona si dice «she cans swim».
+- My little brother can ___ to ten in English.
+- Come dici «Il mio cane non sa nuotare»?
+- Quale domanda è corretta?
+- Metti in ordine le parole per formare la domanda.
+- «Can your parents speak English?» Sì, lo parlano. Che cosa rispondi?
+- Scrivi in inglese due cose che sai fare e una che non sai fare, poi spiega che forma ha il verbo che segue ca…
+
+## Chi parla? I pronomi soggetto [lib-1-media-inglese-pronomi-personali-soggetto] · THEY
+concetti: Pronomi singolari; Pronomi plurali; Il pronome it; Il soggetto è obbligatorio
+- Come si dice «lei», come soggetto della frase, in inglese?
+- In inglese il pronome I (io) si scrive sempre con la lettera maiuscola, anche a metà frase.
+- Quale pronome usi per parlare del tuo zaino?
+- Quale pronome sostituisce «my friends and I»?
+- Parli di Anna e Luca: «___ are in my class.»
+- Parli di Marco. Come traduci correttamente «È molto simpatico»?
+- In inglese esistono due parole diverse per dire «tu» e «voi».
+- In italiano diciamo «Piove» senza soggetto. Perché in inglese si dice «It is raining»?
+
+## Com'è? Descrivere l'aspetto [lib-1-media-inglese-descrizione-fisica] · HAIR
+concetti: Corporatura e altezza; Capelli e occhi; L'ordine degli aggettivi; What does he look like?
+- Qual è il contrario di «tall», riferito a una persona?
+- Per dire che una ragazza ha i capelli lunghi si dice «She has got long hairs».
+- Quale descrizione è corretta?
+- My grandma ___ got grey hair and glasses.
+- Vuoi sapere com'è fisicamente il nuovo insegnante. Che cosa chiedi?
+- Che differenza c'è tra «What is she like?» e «What does she look like?»
+- Nella frase «She has got blues eyes» l'aggettivo è scritto correttamente.
+- Descrivi in inglese l'aspetto di un tuo amico o di un personaggio famoso con almeno tre frasi, usando sia to …
+
+## Da Monday a Sunday [lib-1-media-inglese-giorni-della-settimana] · MONDAY
+concetti: I sette giorni; La maiuscola; Weekdays e weekend; On e every
+- Come si dice «mercoledì» in inglese?
+- In inglese si scrive «on monday» con la lettera minuscola.
+- Metti in ordine i giorni a partire da lunedì.
+- Quali giorni formano il weekend?
+- We play basketball every ___.
+- Oggi è Tuesday. Che giorno era ieri?
+- Che cosa significa «I go swimming on Fridays»?
+- Racconta in inglese che cosa fai in due giorni diversi della settimana e spiega la differenza tra weekdays e …
+
+## Di chi è? Il genitivo sassone [lib-1-media-inglese-genitivo-sassone] · OWNER
+concetti: Nome + 's; Plurali in -s; Plurali irregolari; 's di possesso o di is?
+- Come si dice «il cane di Luca»?
+- Nel genitivo sassone l'oggetto posseduto viene prima del possessore.
+- La casa dei miei nonni: my ___ house.
+- Come si dice «i giochi dei bambini»?
+- In quale frase 's indica possesso?
+- Che differenza c'è tra «my sister's friends» e «my sisters' friends»?
+- Come traduci «la bici del fratello di Anna»?
+- Spiega con parole tue quando si scrive 's e quando solo l'apostrofo nel genitivo sassone, con un esempio per …
+
+## Do you…? Does she…? [lib-1-media-inglese-present-simple-domande] · QUIZ
+concetti: Do + soggetto + verbo; Does + soggetto + verbo; Le risposte brevi; Domande con parole interrogative
+- Come chiedi a un amico se gli piace il calcio?
+- ___ your brother speak French?
+- «Do your parents work on Saturdays?» Sì, lavorano. Che cosa rispondi?
+- La domanda «Does she likes chocolate?» è corretta.
+- «Does your dog sleep in your room?» No. Che cosa rispondi?
+- Metti in ordine le parole per formare la domanda.
+- Quale domanda è corretta?
+- Spiega con parole tue come si forma una domanda al present simple e che differenza c'è tra do e does. Fai un …
+
+## Don't e doesn't: dire di no [lib-1-media-inglese-present-simple-negativo] · DOES
+concetti: Don't; Doesn't; Niente -s dopo doesn't; To be e can non usano do
+- Come dici «Non mi piacciono i ragni»?
+- My cat ___ eat vegetables.
+- La frase «He doesn't plays chess» è corretta.
+- Quale frase è corretta?
+- Come dici «Lui non è a scuola»?
+- Trasforma in negativa: «We go to the gym on Fridays».
+- La forma negativa di «She can swim» è «She doesn't can swim».
+- Spiega perché si dice «She doesn't watch TV» e non «She doesn't watches TV».
+
+## Dov'è? Le preposizioni di luogo [lib-1-media-inglese-preposizioni-di-luogo] · BETWEEN
+concetti: In, on, under; Next to, behind, in front of; Between e opposite; Where is…?
+- Il libro è appoggiato sul tavolo. Quale preposizione usi?
+- «Behind» significa «davanti a».
+- My socks are ___ the drawer.
+- Marco è seduto con Anna alla sua destra e Luca alla sua sinistra. Marco è…
+- Il negozio è dall'altra parte della strada rispetto al parco. Come lo dici?
+- Quale coppia di domanda e risposta è corretta?
+- Che cosa significa «The dog is next to the sofa»?
+- Descrivi in inglese dove si trovano tre oggetti della tua camera, usando tre preposizioni diverse.
+
+## Essere o avere? Occhio! [lib-1-media-inglese-ripasso-essere-o-avere] · HUNGRY
+concetti: Sensazioni con to be; Avere ragione e torto; Have got per il possesso; Have per le azioni
+- Come dici «Ho sete» in inglese?
+- Per dire «Hai ragione!» in inglese si dice «You're right!».
+- Fuori nevica e tu hai dimenticato la giacca. Che cosa dici?
+- Every morning I ___ breakfast at seven o'clock.
+- Quale frase indica un possesso?
+- Che cosa significa «Have fun at the party!»?
+- Il tuo amico guarda un film dell'orrore. Come dice «Ho paura»?
+- Spiega perché si dice «I've got a sister» ma «I have lunch at one», e non «I've got lunch at one».
+
+## First, second, third: le date [lib-1-media-inglese-numeri-ordinali-e-date] · FIRST
+concetti: Gli ordinali; Le abbreviazioni; Scrivere e dire le date; Ordinali nella vita quotidiana
+- Come si dice «terzo»?
+- Qual è l'abbreviazione corretta di «twenty-second»?
+- L'ordinale di «five» è «fiveth».
+- My birthday is on the ___ of July (14/7).
+- Metti in ordine gli ordinali dal più piccolo al più grande.
+- Che cosa significa «My flat is on the second floor»?
+- Come si legge la data «3rd March»?
+- Scrivi in inglese la data del tuo compleanno in cifre e in lettere, e spiega perché si usano gli ordinali.
+
+## Have got: che cosa possiedi? [lib-1-media-inglese-have-got-affermativo] · HAVE
+concetti: Have got e has got; Le forme brevi; Usi di have got
+- Quale forma di have got va con «my dad»?
+- My friends ___ got a new ball.
+- La forma breve di «I have got» è «I've got».
+- In quale frase 's sta per has?
+- Come dici «Ho il raffreddore»?
+- Luca ha gli occhi verdi. Quale frase lo descrive correttamente?
+- Nella frase «We has got a dog» il verbo è usato correttamente.
+- Descrivi in inglese la tua famiglia o il tuo animale usando have got in almeno due frasi, una con have e una …
+
+## Have you got a pet? [lib-1-media-inglese-have-got-negativo-domande] · PETS
+concetti: La forma negativa; La forma interrogativa; Le risposte brevi; Any nelle domande e negazioni
+- Come si dice «Lei non ha una bici»?
+- Alla domanda «Have you got a brother?» si può rispondere «Yes, I have got.»
+- Quale domanda è corretta?
+- I haven't got ___ sisters, but I've got a brother.
+- «Has your grandpa got a car?» Tuo nonno non ha la macchina. Che cosa rispondi?
+- Metti in ordine le parole per formare la domanda.
+- Quale domanda useresti per sapere se una nuova amica ha animali domestici?
+- Spiega con parole tue come si trasforma una frase con have got nella forma negativa e in quella interrogativa…
+
+## How do you spell it? [lib-1-media-inglese-alfabeto-e-spelling] · SPELL
+concetti: Vocali che ingannano; G e J, Y e W; Le doppie; Chiedere lo spelling
+- Come si pronuncia la lettera I in inglese?
+- Quale lettera inglese si pronuncia «i», come la nostra i?
+- In inglese la lettera J si pronuncia «gei».
+- Il cognome «Russo» si fa lo spelling così: R, U, ___ S, O.
+- Quale lettera si pronuncia «dabliu»?
+- Vuoi sapere come si scrive il nome di un nuovo compagno. Che cosa chiedi?
+- Un amico ti fa lo spelling: «ei – ar – ti». Quale parola ha scritto?
+- Fai lo spelling del tuo nome scrivendo come si pronuncia ogni lettera in inglese, e indica quali lettere suon…
+
+## How old? How many? How much? [lib-1-media-inglese-domande-con-how] · PRICE
+concetti: How old; How many; How much; Altre domande con how
+- Che cosa chiede la domanda «How old is your sister?»
+- How ___ pencils have you got in your pencil case?
+- Sei in un negozio e vuoi sapere quanto costa una maglietta. Che cosa chiedi?
+- «How much milk?» è corretto perché milk non si conta.
+- Che cosa significa «How tall are you?»
+- Quale domanda è corretta?
+- Quale domanda useresti per sapere quanto dista la stazione?
+- Spiega la differenza tra how many e how much, con un esempio per ciascuno.
+
+## I love dancing! Gusti e -ing [lib-1-media-inglese-like-love-hate-ing] · LOVE
+concetti: Verbi di gusto; Verbo + -ing; Ortografia della -ing; Terza persona e domande
+- Qual è il verbo più forte per dire che qualcosa non ti piace per niente?
+- My brother loves ___ videogames.
+- «I don't mind» significa «Non mi dispiace», cioè per me va bene.
+- Qual è la forma in -ing di «swim»?
+- Qual è la forma in -ing di «write»?
+- Quale frase è corretta?
+- Metti in ordine queste espressioni dalla più positiva alla più negativa.
+- Scrivi in inglese tre frasi su una cosa che ami fare, una che non ti dispiace e una che odi, poi spiega che f…
+
+## In, on, at: quando? [lib-1-media-inglese-preposizioni-di-tempo] · NOON
+concetti: At; On; In
+- School starts ___ eight o'clock.
+- Quale preposizione usi con i giorni della settimana?
+- Quale espressione è corretta?
+- Si dice «in the morning» ma «at night».
+- Il tuo compleanno è il 12 marzo. Quale frase è corretta?
+- In quale frase la preposizione è sbagliata?
+- Quale frase è corretta?
+- Spiega quando si usano in, on e at con le espressioni di tempo, con un esempio per ciascuna.
+
+## Is there? Are there? [lib-1-media-inglese-there-is-are-domande-negazioni] · EMPTY
+concetti: Le domande; La forma negativa; Some e any; How many…?
+- Come si dice «Non c'è una piscina nella mia città»?
+- Come chiedi «Ci sono dei negozi vicino a casa tua?»
+- There aren't ___ chairs in the garden.
+- Alla domanda «Is there a cinema in your town?» si può rispondere «Yes, there is.»
+- Vuoi sapere quante finestre ci sono nell'aula. Che cosa chiedi?
+- «Are there any cats in your garden?» Non ce n'è nessuno. Che cosa rispondi?
+- Nella frase «There are some biscuits on the plate» si potrebbe usare any al posto di some.
+- Il frigo è vuoto. Scrivi in inglese due frasi negative su che cosa manca, una con there isn't e una con there…
+
+## Italy, Italian: paesi e nazionalità [lib-1-media-inglese-paesi-e-nazionalita] · BRITISH
+concetti: Paesi e nazionalità; La maiuscola; Lingua e nazionalità; UK e Great Britain
+- Qual è la nazionalità di chi viene dalla Spagna?
+- In inglese si scrive «I'm italian» con la minuscola.
+- Paris is in France. The people there are ___.
+- Quale lingua si parla in Brasile?
+- Quale di questi paesi NON fa parte del Regno Unito?
+- Come si dice «tedesco», come nazionalità e come lingua?
+- Una ragazza viene da Pechino. Quale frase è corretta?
+- Spiega la differenza tra «I'm from Italy» e «I'm Italian» e scrivi due frasi simili per un altro paese.
+
+## Kitchen, bedroom: la casa [lib-1-media-inglese-casa-stanze-mobili] · KITCHEN
+concetti: Le stanze; I mobili; Upstairs, downstairs e flat; Descrivere la casa
+- In quale stanza dormi?
+- Che cos'è un «wardrobe»?
+- «Downstairs» significa «al piano di sopra».
+- Put the milk in the ___, please.
+- In quale stanza trovi la vasca e il lavandino?
+- Che cosa significa «I live in a flat»?
+- Quale frase descrive correttamente una casa?
+- Descrivi in inglese la tua casa con almeno tre frasi, nominando le stanze e qualche mobile.
+
+## La mia famiglia: family words [lib-1-media-inglese-famiglia-parole] · FAMILY
+concetti: Genitori e figli; Nonni e nipoti; Zii e cugini; Parole utili
+- Come si dice «figlia» in inglese?
+- Il fratello di tua mamma è tuo…
+- In inglese «cousin» si usa sia per il cugino sia per la cugina.
+- My mum's mother is my ___.
+- Marta non ha né fratelli né sorelle. In inglese è…
+- Sei la figlia di mia sorella. Per me sei…
+- La parola inglese «parents» significa «parenti».
+- Descrivi in inglese la tua famiglia, o una famiglia inventata, con almeno tre frasi e almeno tre parole diver…
+
+## La mia giornata: daily routine [lib-1-media-inglese-daily-routine] · ROUTINE
+concetti: Le azioni del mattino; Pomeriggio e sera; Verbi con particella; Raccontare la routine
+- Che cosa significa «get dressed»?
+- After school I go home and I ___ my homework.
+- Metti in ordine le azioni di una normale mattina.
+- «Wake up» e «get up» significano esattamente la stessa cosa.
+- Che cosa significa «have dinner»?
+- Quale parola usi per introdurre l'ultima azione di un racconto?
+- Quale frase racconta correttamente la routine di Sara?
+- Racconta in inglese la tua mattina con almeno quattro azioni, usando first, then e finally.
+
+## Maths, Art e PE: le materie [lib-1-media-inglese-materie-scolastiche] · MATHS
+concetti: Le materie; La maiuscola; Parlare delle materie; Il timetable
+- Che materia è «PE»?
+- Come si dice «storia» come materia scolastica?
+- In inglese la parola «english», quando indica la lingua, si può scrivere con la minuscola.
+- I love numbers: my favourite ___ is Maths.
+- Come dici «Sono bravo in Geografia»?
+- Che cos'è il «timetable» a scuola?
+- Quale frase è corretta per dire che il lunedì hai musica?
+- Qual è la tua materia preferita e in quale sei meno bravo? Rispondi in inglese con due frasi e spiega quale p…
+
+## Me, him, her, them [lib-1-media-inglese-pronomi-complemento] · THEM
+concetti: Le forme; Dopo il verbo; Dopo le preposizioni; Soggetto o complemento?
+- Qual è il pronome complemento di «we»?
+- I don't know Maria very well. Do you know ___?
+- La frase «Come with I!» è corretta.
+- Parli dei tuoi amici. Come traduci «Li vedo ogni giorno»?
+- Quale frase è corretta?
+- In quale frase il pronome è sbagliato?
+- «Where's my phone? I can't find ___.» Quale pronome completa la frase?
+- Spiega la differenza tra «She loves him» e «He loves her»: chi ama chi?
+
+## Mesi e stagioni dell'anno [lib-1-media-inglese-mesi-e-stagioni] · AUGUST
+concetti: I dodici mesi; Le quattro stagioni; In con mesi e stagioni; Le origini latine
+- Come si dice «luglio» in inglese?
+- Come si dice «autunno» in inglese britannico?
+- In inglese le stagioni, come i mesi, si scrivono sempre con la maiuscola.
+- Metti in ordine questi mesi, dal primo all'ultimo dell'anno.
+- In Italy it often snows in the mountains ___ January.
+- In Italia, in quale stagione cade il mese di April?
+- Il nome September viene dal latino «septem», sette. Perché, se oggi è il nono mese?
+- Scrivi in inglese in quale mese e in quale stagione è il tuo compleanno e spiega quale preposizione usi e per…
+
+## My, your, his, her… [lib-1-media-inglese-aggettivi-possessivi] · THEIR
+concetti: Gli aggettivi possessivi; His o her?; Niente articolo, niente plurale; Its e it's
+- Come si dice «nostro»?
+- Anna loves ___ brother.
+- L'espressione «the my friends» è corretta in inglese.
+- Come traduci «Marco e sua sorella»?
+- Quale frase è corretta?
+- I tuoi cugini hanno un cane. Come dici «il loro cane»?
+- «Your» può voler dire sia «tuo» sia «vostro».
+- Perché in inglese si dice «Luca and his mother» e non «Luca and her mother»? Spiega con parole tue.
+
+## Play, go o do? Gli sport [lib-1-media-inglese-sport-play-go-do] · PLAY
+concetti: Play; Go + -ing; Do; Il tempo libero
+- Quale verbo usi con «football»?
+- Come si dice «andare a nuotare»?
+- My sister ___ karate twice a week.
+- Per gli strumenti musicali si dice «play the piano», con l'articolo the.
+- Quale frase è corretta?
+- Quale abbinamento è sbagliato?
+- Che cosa significa «In my free time I play the drums»?
+- Spiega quando si usano play, go e do con gli sport, con un esempio per ciascuno.
+
+## Please, thank you, sorry [lib-1-media-inglese-saluti-e-cortesia] · THANKS
+concetti: Salutare; Come stai?; Ringraziare e rispondere; Sorry ed excuse me
+- Quale saluto è il più informale?
+- Un compagno ti dice «Thank you!». Come rispondi?
+- «Nice to meet you» si dice a un amico che vedi tutti i giorni.
+- «How are you?» «I'm ___, thanks. And you?»
+- Sull'autobus vuoi passare tra due persone per scendere. Che cosa dici?
+- Come si dice «Ci vediamo domani!»?
+- Metti in ordine il breve dialogo tra due ragazzi che si incontrano.
+- Spiega quando si usa «sorry» e quando «excuse me», con un esempio per ciascuno.
+
+## Present simple: le abitudini [lib-1-media-inglese-present-simple-affermativo] · HABIT
+concetti: A che cosa serve; La forma base; La -s della terza persona; Espressioni di tempo
+- Quale forma è corretta?
+- Nella frase «We lives in Rome» il verbo è corretto.
+- My dad ___ the bus to work every day.
+- In quale situazione si usa il present simple?
+- Quale espressione di tempo si abbina meglio al present simple?
+- Quale frase esprime correttamente una verità sempre valida?
+- In «Tom and Lucy play football», play non prende la -s perché il soggetto è plurale.
+- Scrivi tre frasi in inglese sulle abitudini di una persona della tua famiglia e spiega perché il verbo cambia.
+
+## Presentarsi: nome, età, città [lib-1-media-inglese-presentarsi-dati-personali] · YEARS
+concetti: Nome e cognome; Età e compleanno; Provenienza e residenza; Il numero di telefono
+- Che cosa significa «surname»?
+- Come rispondi alla domanda «Where are you from?»
+- La frase «I'm twelve» è corretta anche senza «years old».
+- I'm from Italy and I ___ in Florence.
+- Come legge un inglese il numero di telefono «305 …»?
+- Quale domanda chiede quando è il compleanno?
+- Metti in ordine le parole per formare la domanda.
+- Presentati in inglese a un nuovo amico di penna con almeno quattro informazioni: nome, età, provenienza e cit…
+
+## Rubber, ruler e pencil case [lib-1-media-inglese-oggetti-di-scuola] · RUBBER
+concetti: L'astuccio; In classe; Nomi sempre plurali; Parole composte
+- Che cos'è un «ruler»?
+- Ti si è spezzata la punta della matita. Che cosa ti serve?
+- La frase «This scissors is new» è corretta.
+- L'insegnante dice: «Write the date on the ___, please.»
+- Come si dice «astuccio»?
+- Che differenza c'è tra «exercise book» e «textbook»?
+- Che cos'è una «school bag»?
+- Elenca in inglese almeno cinque oggetti del tuo astuccio o del tuo zaino e scrivi una frase con there is o th…
+
+## Si conta o no? Some, any [lib-1-media-inglese-numerabili-some-any] · SOME
+concetti: Numerabili e non numerabili; A/an o some; Some nelle offerte; Contare i non numerabili
+- Quale di questi nomi è non numerabile?
+- Can you buy ___ bread, please?
+- Si può dire «I've got two moneys».
+- Come chiedi un bicchiere d'acqua?
+- Offri della torta a un ospite. Quale domanda è corretta?
+- Quale gruppo è corretto?
+- Che cosa significa «a slice of pizza»?
+- Spiega con parole tue perché si dice «some rice» ma «a banana».
+
+## Simpatico o timido? Il carattere [lib-1-media-inglese-aggettivi-del-carattere] · KIND
+concetti: Aggettivi positivi; Aggettivi negativi; I contrari; Rafforzare gli aggettivi
+- Che cosa significa «funny» riferito a una persona?
+- Tom non vuole mai aiutare in casa e sta sempre sul divano. È…
+- Il contrario di «polite» (educato) è «rude».
+- My cousin is not friendly at all: he's very ___.
+- Giulia studia tantissimo e finisce sempre i compiti. È…
+- Che cosa significa «bossy»?
+- Quale frase significa «Mia sorella è piuttosto timida»?
+- Descrivi il carattere del tuo migliore amico o della tua migliore amica in inglese con almeno tre aggettivi, …
+
+## Sit down! L'imperativo [lib-1-media-inglese-imperativo] · STOP
+concetti: L'imperativo affermativo; L'imperativo negativo; Let's; Usi dell'imperativo
+- Come dici «Ascolta!» in inglese?
+- ___ eat in the classroom, please!
+- «Let's go to the park!» significa «Andiamo al parco!».
+- Quale cartello significa «Non toccare»?
+- Come rendi più gentile l'ordine «Close the door»?
+- Metti in ordine le istruzioni per preparare un toast.
+- Fa caldo e vuoi proporre ai tuoi amici di andare a nuotare. Che cosa dici?
+- Scrivi in inglese tre regole della tua classe usando l'imperativo, di cui almeno una negativa.
+
+## Sorry, can you repeat? [lib-1-media-inglese-classroom-language] · REPEAT
+concetti: Chiedere aiuto; Chiedere parole; Le istruzioni dell'insegnante; Entrare in classe
+- L'insegnante dice «Work in pairs». Che cosa devi fare?
+- How do you ___ «quaderno» in English?
+- «Can you speak more slowly, please?» si usa per chiedere di parlare più lentamente.
+- Non hai capito la spiegazione. Che cosa dici?
+- Hai letto la parola «sharpener» e non sai che cosa significa. Che cosa chiedi?
+- Arrivi in ritardo e la porta dell'aula è chiusa. Che cosa dici bussando?
+- Metti in ordine le parole per formare la domanda.
+- Scrivi tre istruzioni che l'insegnante di inglese usa spesso in classe e spiega che forma ha il verbo.
+
+## There is o there are? [lib-1-media-inglese-there-is-there-are] · THERE
+concetti: There is; There are; Descrivere luoghi
+- Come si dice «C'è un libro sul tavolo»?
+- «There are» si usa con i nomi plurali.
+- In my classroom there ___ twenty-two desks.
+- Qual è la forma breve di «there is»?
+- Quale frase è corretta?
+- Che cosa significa «There are two cats under the table»?
+- Le frasi «There is a dog» e «It is a dog» hanno lo stesso significato.
+- Descrivi in inglese la tua aula con almeno tre frasi usando there is e there are.
+
+## This, that, these, those [lib-1-media-inglese-this-that-these-those] · THESE
+concetti: Vicino: this e these; Lontano: that e those; Singolare e plurale; Presentare e telefonare
+- Tieni in mano una mela. Come dici «questa mela»?
+- Indichi delle montagne lontane. Come dici «quelle montagne»?
+- «These shoe» è corretto, perché these significa «questo».
+- Look at ___ birds in the sky!
+- Presenti la tua amica Giulia a tua nonna. Che cosa dici?
+- Quale frase è corretta?
+- Rispondi al telefono e dici chi sei. Quale frase è tipica in inglese?
+- Spiega quando si usano this, that, these e those, con un esempio per ciascuno.
+
+## To be: domande e negazioni [lib-1-media-inglese-to-be-domande-e-negazioni] · ANSWER
+concetti: La forma negativa; La forma interrogativa; Le risposte brevi
+- Come si dice «Non sono stanco» in inglese?
+- «Isn't» è la forma breve di «is not».
+- Come trasformi in domanda la frase «They are at home»?
+- «Is your sister eleven?» Tua sorella ha dodici anni. Che cosa rispondi?
+- «Are you Italian?» «Yes, I ___.»
+- Metti in ordine le parole per formare la domanda.
+- Alla domanda «Is it your pencil?» si può rispondere «Yes, it's.»
+- Il tuo amico scrive: «You is in my team?». Spiega quali errori ha fatto e scrivi la domanda corretta.
+
+## Un mouse, due mice: i plurali [lib-1-media-inglese-plurale-dei-nomi] · MICE
+concetti: Plurale regolare; -es e -ies; Plurali in -ves; Plurali irregolari
+- Qual è il plurale di «pencil»?
+- Qual è il plurale di «child»?
+- There are three ___ in the cupboard.
+- Il plurale di «toy» è «toies».
+- Qual è il plurale di «knife» (coltello)?
+- Quale frase è corretta?
+- In quale coppia singolare – plurale c'è un errore?
+- Spiega le regole per formare il plurale di «city» e di «day» e perché sono diverse.
+
+## Watches, studies, goes: la -s [lib-1-media-inglese-present-simple-terza-persona-ortografia] · WATCHES
+concetti: -es dopo s, sh, ch, x, o; Consonante + y; Il verbo have; La pronuncia di -es
+- Qual è la terza persona singolare di «go»?
+- My sister ___ English at university.
+- La terza persona singolare di «play» è «plaies».
+- Qual è la forma di have alla terza persona singolare?
+- In quale gruppo tutte le forme sono corrette?
+- Quale verbo cambia la y in -ies alla terza persona?
+- Nella parola «washes» la desinenza -es si pronuncia come una sillaba in più.
+- Il tuo amico ha scritto: «She gos to school and studys a lot.» Spiega gli errori e scrivi la frase corretta.
+
+## What time is it? [lib-1-media-inglese-what-time-is-it] · CLOCK
+concetti: Le ore esatte; Past e to; Quarter e half; a.m. e p.m.
+- Sono le 7:00. Come lo dici?
+- Come si dice 8:30?
+- «Ten to five» corrisponde alle 5:10.
+- Sono le 6:45. It's ___ to seven.
+- Sono le 3:20. Come lo dici?
+- Il treno parte alle «9 p.m.». A che ora parte?
+- Quale orario corrisponde a «twenty-five to eleven»?
+- Spiega la differenza tra past e to quando dici l'ora in inglese, con un esempio per ciascuno.
+
+## Who, what, where, when? [lib-1-media-inglese-wh-questions] · WHERE
+concetti: Le parole interrogative; Why e because; What o which?; L'ordine nella domanda
+- Che cosa significa «when»?
+- Quale parola interrogativa completa la domanda «___ is your English teacher? – Mrs Brown.»?
+- In inglese il «perché» della domanda e il «perché» della risposta si dicono con due parole diverse.
+- ___ colour do you prefer, red or green?
+- Quale domanda è corretta?
+- La risposta è «Because I'm tired». Qual era la domanda?
+- Metti in ordine le parole per formare la domanda.
+- Scrivi tre domande in inglese da fare a un nuovo compagno, usando tre parole interrogative diverse.
+
+## Whose is it? It's mine! [lib-1-media-inglese-pronomi-possessivi-whose] · WHOSE
+concetti: I pronomi possessivi; Aggettivo o pronome?; Whose; Whose e who's
+- Parli di un libro. Come si dice «È mio»?
+- Che cosa chiede la domanda «Whose shoes are these?»
+- This isn't my umbrella. Mine is red. Is it ___?
+- Il pronome possessivo di «she» è «hers», senza apostrofo.
+- Quale frase è corretta?
+- In quale frase serve «who's» e non «whose»?
+- «Whose is this phone?» È di Sara. Che cosa rispondi?
+- Spiega la differenza tra «my» e «mine» con due esempi tuoi.

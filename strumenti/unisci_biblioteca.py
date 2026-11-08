@@ -214,6 +214,8 @@ def main():
     print(f"Totale: {totale} missioni valide, {len(scartate)} scartate, {len(doppioni)} titoli doppi")
 
     if not solo_controllo:
+        import subprocess  # refresh the topic index used by mission writers
+        subprocess.run([sys.executable, str(Path(__file__).with_name("indice_argomenti.py"))], check=False)
         (LIB / "indice.json").write_text(json.dumps(indice, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         if pulisci:
             for path in list(BOZZE.glob("*.json")) + [p for p in vecchi if p.exists()]:

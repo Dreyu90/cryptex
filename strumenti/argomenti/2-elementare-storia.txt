@@ -1,0 +1,553 @@
+# 2ª elementare · Storia: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A scuola con il calamaio [lib-2-elementare-storia-scuola-di-una-volta] · PENNINO
+concetti: Il materiale per scrivere; L'aula di una volta; Vestiti e regole
+- Che cos'era il calamaio?
+- Nelle aule di tanto tempo fa c'erano le lavagne interattive.
+- Per asciugare l'inchiostro e non fare macchie si usava la carta ___.
+- Che cosa indossavano spesso gli alunni di una volta sopra i vestiti?
+- Metti in ordine i gesti per scrivere con il pennino.
+- A che cosa serviva il buco sul banco di legno?
+- Perché scrivere con il pennino era più difficile che con la penna di oggi?
+- Quali sono le differenze più grandi tra la tua aula e un'aula di una volta? Scrivine almeno due.
+
+## Cose che tornano sempre [lib-2-elementare-storia-cicli-temporali] · CICLO
+concetti: Che cos'è un ciclo; Cicli brevi e lunghi; Il tempo che non torna
+- Che cos'è un ciclo?
+- Diventare grandi è un ciclo: a un certo punto si torna di nuovo neonati.
+- Tra giorno, mese e anno, il ciclo più breve è il ___.
+- Quale di questi è un ciclo che si ripete ogni anno?
+- Metti in ordine questi cicli, dal più breve al più lungo.
+- Quale di questi fatti NON si ripete mai?
+- Le foglie di un albero cadono in autunno e rispuntano in primavera. Perché è un ciclo?
+- Fai un esempio di un fatto che si ripete come un ciclo e di un fatto che invece non si ripete più. Spiega la …
+
+## Dal secondo all'anno [lib-2-elementare-storia-unita-di-tempo] · SECONDO
+concetti: Le unità di misura del tempo; Le equivalenze; La misura giusta
+- Quanti secondi ci sono in un minuto?
+- Tre giorni durano più di una settimana.
+- Tre settimane sono ___ giorni.
+- Metti in ordine queste durate, dalla più breve alla più lunga.
+- Quale unità useresti per dire l'età della nonna?
+- Quale unità useresti per misurare quanto dura una corsa di 20 metri?
+- Quante ore ci sono in due giorni?
+- Perché non conviene misurare in secondi quanto durano le vacanze estive? Spiega.
+
+## Detective del passato [lib-2-elementare-storia-lavoro-storico] · STORICO
+concetti: Chi è lo storico; Il metodo; Fatti e fantasia
+- Che cosa studia lo storico?
+- Lo storico può inventare i fatti che non trova nelle fonti.
+- Per prima cosa lo storico si fa una ___ sul passato.
+- Metti in ordine il lavoro dello storico.
+- Quale di questi racconti è storia e non fantasia?
+- Uno storico vuole sapere com'era la tua scuola cinquant'anni fa. Dove può trovare una fonte utile?
+- Perché si dice che lo storico è come un detective?
+- Vuoi scoprire come ha festeggiato la mamma il suo decimo compleanno. Racconta come lavoreresti da storico.
+
+## Documenti che parlano di me [lib-2-elementare-storia-documenti-personali] · PAGELLA
+concetti: I documenti personali; Che cosa dicono; Conservarli con cura
+- Quale di questi è un documento personale?
+- Nel certificato di nascita sono scritti il nome, la data e il luogo di nascita.
+- Il documento con i giudizi della scuola alla fine dell'anno è la ___.
+- Su un documento c'è scritto: «nato a Torino il 2 marzo 2018». Dove è nato questo bambino?
+- Sullo stesso documento, qual è la data di nascita del bambino?
+- Perché i genitori conservano con cura i documenti dei figli?
+- Quale documento aiuta il dottore a sapere quali vaccini hai fatto?
+- Perché un documento come il certificato di nascita è una fonte molto affidabile per la tua storia personale?
+
+## Dodici mesi in un anno [lib-2-elementare-storia-mesi-anno] · GENNAIO
+concetti: Dodici mesi; L'ordine dei mesi; Mesi e momenti speciali
+- Quanti mesi ci sono in un anno?
+- Il primo mese dell'anno è gennaio.
+- Dopo marzo viene ___.
+- Metti in ordine questi mesi, come vengono nell'anno.
+- In quale mese si festeggia il Natale?
+- Quale mese viene subito dopo dicembre?
+- Siamo a ottobre. In che mese saremo fra quattro mesi?
+- Qual è il tuo mese preferito? Spiega perché e di' quale mese viene prima e quale dopo.
+
+## Due tempi diversi [lib-2-elementare-storia-tempo-meteo-cronologico] · METEO
+concetti: Il tempo che passa; Il tempo che fa; Capire dalla frase
+- Nella frase «Oggi fa bel tempo», di quale tempo si parla?
+- Nella frase «Quanto tempo ci vuole per arrivare al mare?» si parla del tempo che passa.
+- Il cielo è pieno di nuvole nere: forse arriverà la ___.
+- Quale di queste parole riguarda il tempo che passa?
+- Dove puoi scoprire che tempo farà domani?
+- In quale frase la parola «tempo» indica il tempo che passa?
+- Leggi: «Con il bel tempo, il tempo della ricreazione sembra volare». Quante volte si parla del tempo che pass…
+- Scrivi due frasi con la parola «tempo»: in una deve indicare il meteo, nell'altra il tempo che passa.
+
+## Feste e tradizioni di famiglia [lib-2-elementare-storia-feste-tradizioni] · FESTA
+concetti: Le feste dell'anno; Le tradizioni; Feste di famiglia
+- In che giorno si festeggia il Capodanno?
+- Una tradizione è un'usanza che passa dai nonni ai genitori e poi ai figli.
+- Feste come Natale e Capodanno tornano ogni ___.
+- Metti in ordine queste feste come arrivano nell'anno, da gennaio a dicembre.
+- La nonna prepara ogni anno lo stesso dolce di Natale che le insegnò la sua mamma. Questo è un esempio di...
+- Quale festa riguarda una sola persona della famiglia?
+- Perché le tradizioni sono importanti per una famiglia?
+- Racconta una tradizione della tua famiglia: quando si fa e chi te l'ha insegnata?
+
+## Giocavano così i nonni [lib-2-elementare-storia-giochi-di-una-volta] · BIGLIE
+concetti: Giochi semplici; Giochi all'aperto; Fatti in casa
+- Quale di questi è un gioco di una volta?
+- Una volta molti giocattoli si costruivano in casa con legno, stoffa e carta.
+- Per giocare a ___ si disegnavano per terra delle caselle con il gesso.
+- Con che cosa si faceva di solito una bambola di pezza?
+- Dove giocavano spesso i bambini di una volta?
+- Perché una volta i bambini avevano pochi giocattoli?
+- Che cosa serve per giocare a mosca cieca?
+- Confronta un gioco di una volta con un tuo gioco di oggi: in che cosa sono diversi e in che cosa simili?
+
+## Gli aiutanti dello storico [lib-2-elementare-storia-aiutanti-storico] · SCAVO
+concetti: L'archeologo; Il paleontologo; Il geologo; Lavorare insieme
+- Chi studia le ossa dei dinosauri?
+- L'archeologo studia i resti lasciati dagli esseri umani del passato.
+- Il ___ studia le rocce e gli strati del terreno.
+- Durante uno scavo si trova un vaso di terracotta antico. Chi lo studierà?
+- Che cos'è un fossile?
+- Perché lo storico ha bisogno dell'aiuto di altri esperti?
+- Metti in ordine il lavoro dell'archeologo in uno scavo.
+- Immagina di trovare in giardino un osso molto strano e antichissimo. Chi chiameresti e perché?
+
+## Gli indizi del passato [lib-2-elementare-storia-fonti-storiche] · FONTE
+concetti: Che cosa sono le fonti; Quattro tipi di fonti; Fare domande alle fonti
+- Che cos'è una fonte storica?
+- Una vecchia fotografia è una fonte storica.
+- Il diario della bisnonna è una fonte ___.
+- Il racconto del nonno su quando era bambino è una fonte...
+- Quale di queste è una fonte materiale?
+- Trovi in soffitta una pagella del 1965. Che cosa puoi scoprire osservandola?
+- Perché lo storico ha bisogno di tante fonti diverse?
+- Immagina di trovare in cantina una vecchia bicicletta arrugginita. Quali domande le faresti per scoprire la s…
+
+## Guarda come sono cresciuto [lib-2-elementare-storia-tappe-della-crescita] · CRESCO
+concetti: Il corpo cambia; Nuove capacità; Cambiano gusti e oggetti
+- Che cosa sa fare un bambino di 7 anni che un neonato non sa fare?
+- Verso i 6 anni, di solito, cominciano a cadere i denti da latte.
+- Da neonato dormivo nella culla, adesso dormo nel ___.
+- Metti in ordine queste conquiste, dalla prima all'ultima.
+- Confronti le tue scarpe di quando avevi 2 anni con quelle di oggi. Che cosa noti?
+- Ogni anno il papà segna la tua altezza sul muro della cameretta. Che cosa vedi confrontando i segni?
+- Da piccolo Leo giocava con il sonaglino, ora gioca a calcio. Che cosa ci dice questo cambiamento?
+- Racconta una cosa che oggi sai fare e che due anni fa non sapevi fare. Come l'hai imparata?
+
+## Ieri, oggi e domani [lib-2-elementare-storia-ieri-oggi-domani] · DOMANI
+concetti: Ieri: il passato vicino; Oggi: il presente; Domani: il futuro vicino; Passato, presente, futuro
+- Oggi è martedì. Che giorno era ieri?
+- Quale frase parla di oggi, cioè del presente?
+- La frase «Ieri ho giocato a calcio» racconta un fatto del passato.
+- ___ andrò al parco con la nonna.
+- Metti in ordine questi giorni, dal più lontano nel passato al più lontano nel futuro.
+- Il tuo amico dice: «Domani è il mio compleanno». Quando arriverà il giorno della festa, come lo chiamerà?
+- Oggi è mercoledì. Fra quanti giorni sarà sabato?
+- Spiega con parole tue la differenza tra passato e futuro e fai un esempio per ciascuno.
+
+## Il giorno e la notte [lib-2-elementare-storia-giorno-notte] · NOTTE
+concetti: Luce e buio; La Terra gira; Ventiquattro ore; Un ciclo che si ripete
+- Che cosa vediamo di solito nel cielo di notte?
+- Dopo la notte torna sempre la luce del dì.
+- Un giorno intero, dì e notte insieme, dura ___ ore.
+- Perché arriva la notte?
+- Metti in ordine i momenti di un giorno intero, partendo dall'alba.
+- Che cosa fa la Terra in un giorno intero?
+- Perché la sera si accendono i lampioni nelle strade?
+- Spiega con parole tue perché il giorno e la notte sono un ciclo.
+
+## Il giro delle quattro stagioni [lib-2-elementare-storia-stagioni] · AUTUNNO
+concetti: Quattro stagioni; Un ciclo che ritorna; I segni delle stagioni
+- Quante sono le stagioni?
+- In autunno molti alberi perdono le foglie.
+- Dopo l'estate arriva l'___.
+- Metti in ordine le stagioni, partendo dalla primavera.
+- In quale stagione sbocciano molti fiori e gli alberi mettono foglie nuove?
+- Più o meno quanto dura ogni stagione?
+- Marco indossa sciarpa, guanti e cappotto e costruisce un pupazzo di neve. In quale stagione siamo, probabilme…
+- Descrivi la tua stagione preferita: che tempo fa, come ti vesti e che cosa ti piace fare?
+
+## Il tempo trasforma tutto [lib-2-elementare-storia-il-tempo-trasforma] · BRUCO
+concetti: Tutto cambia con il tempo; Cambiamenti veloci e lenti; Prima e dopo
+- Un cucciolo di cane, dopo qualche anno, diventa...
+- Un albero ha bisogno di molti anni per diventare alto e grande.
+- Un gelato lasciato al sole si scioglie in pochi minuti: è un cambiamento ___.
+- Quale di questi cambiamenti è il più lento?
+- In un prato costruiscono una casa. Metti in ordine i cambiamenti, dal primo all'ultimo.
+- Guardi due foto del nonno: in una ha i capelli neri, nell'altra bianchi. Quale foto è stata scattata prima?
+- Un quaderno nuovo, dopo un anno di scuola, come sarà diventato?
+- Scegli una cosa che è cambiata con il tempo: una persona, un animale, una pianta o un oggetto. Racconta com'e…
+
+## Il tempo vola o si ferma? [lib-2-elementare-storia-durata-percepita] · ATTESA
+concetti: Durata reale; Durata percepita; Noia e divertimento
+- Quando giochi con gli amici, di solito il tempo ti sembra...
+- Se ti annoi, un minuto dura davvero più di sessanta secondi.
+- Quando ci annoiamo, il tempo sembra passare più ___.
+- Che cos'è la durata percepita?
+- In quale situazione il tempo di solito sembra non passare mai?
+- Due bambini vedono lo stesso film di un'ora: può succedere che a uno sembri corto e all'altro lunghissimo.
+- La ricreazione dura 15 minuti, ma a Sara sembra che duri un attimo. Quanto è durata davvero?
+- Racconta un momento in cui il tempo ti è sembrato lunghissimo e uno in cui è volato. Secondo te, perché?
+
+## Immagini che raccontano [lib-2-elementare-storia-fonti-visive] · FOTO
+concetti: Fonti visive; Osservare i dettagli; Foto di una volta
+- Quale di queste è una fonte visiva?
+- Le foto dei bisnonni da bambini sono spesso in bianco e nero.
+- Anche un ___ girato oggi con il telefono potrà diventare una fonte visiva per il futuro.
+- In una foto vedi persone su una carrozza tirata da cavalli e nessuna automobile. Che cosa capisci?
+- Quale dettaglio ti fa capire che una foto è recente?
+- Trovi due foto della stessa piazza: una in bianco e nero e una a colori. Quale è probabilmente più antica?
+- Hai quattro foto del tuo papà. Mettile in ordine, dalla più vecchia alla più recente.
+- Pensa a una tua foto di quando eri piccolo. Quali indizi ti fanno capire che è stata scattata qualche anno fa?
+
+## L'albero della mia famiglia [lib-2-elementare-storia-albero-genealogico] · RADICI
+concetti: Che cos'è; Come si legge; Contare gli antenati
+- Che cosa mostra l'albero genealogico?
+- Ognuno di noi ha 4 nonni: 2 da parte della mamma e 2 da parte del papà.
+- I genitori dei miei nonni sono i miei ___.
+- Metti in ordine dalla generazione più giovane alla più anziana.
+- Quanti bisnonni ha ogni persona?
+- Nell'albero di Emma, Lucia e Paolo sono i genitori della sua mamma. Chi sono per Emma?
+- Perché per la famiglia si usa proprio il disegno di un albero?
+- Spiega come costruiresti il tuo albero genealogico: chi metteresti e dove?
+
+## La casa di tanto tempo fa [lib-2-elementare-storia-casa-di-una-volta] · STUFA
+concetti: Scaldarsi e cucinare; Acqua e bucato; Senza elettrodomestici
+- Con che cosa si scaldavano le case di tanto tempo fa?
+- Nelle case di tanto tempo fa c'era sempre la lavatrice.
+- I panni si lavavano a mano al ___ del paese.
+- Dove si andava a prendere l'acqua quando in casa non arrivava?
+- Come si conservavano i cibi senza il frigorifero?
+- Metti in ordine le fasi del bucato fatto a mano.
+- Che cosa usavano la sera per fare luce le famiglie senza corrente elettrica?
+- Se vivessi in una casa di tanto tempo fa, quale lavoro di casa ti sembrerebbe più faticoso? Perché?
+
+## La mia giornata tipo [lib-2-elementare-storia-la-mia-giornata] · ROUTINE
+concetti: Le azioni di ogni giorno; Gli orari; Giorni diversi
+- Quale di queste azioni fai ogni giorno?
+- Di solito la domenica la giornata è uguale a quella di un giorno di scuola.
+- La campanella suona sempre alla stessa ___ per l'inizio delle lezioni.
+- Metti in ordine la giornata di Sofia, che va a scuola.
+- Perché è utile avere orari fissi per mangiare e dormire?
+- Che cosa cambia nella tua giornata durante le vacanze estive?
+- Perché si può dire che la giornata è un ciclo?
+- Descrivi in che cosa è diversa la tua domenica da un giorno di scuola.
+
+## La mia linea del tempo [lib-2-elementare-storia-linea-tempo-personale] · NASCITA
+concetti: I fatti della mia vita; Un anno alla volta; Leggere la linea
+- Qual è il primo fatto della tua linea del tempo personale?
+- Sulla tua linea del tempo, la seconda elementare viene prima dei primi passi.
+- Se ogni tratto è un anno, a 7 anni la mia linea avrà ___ tratti dalla nascita.
+- Metti in ordine i fatti della vita di Tommaso.
+- Sulla linea di Sara: nascita nel 2018, ingresso in prima elementare nel 2024. Quanti anni sono passati tra i …
+- Sulla linea di Omar, il primo dente perso è subito dopo l'inizio della prima elementare. Che cosa è successo …
+- Lucia è nata nel 2019. In quale anno compie 5 anni?
+- Quali tre fatti della tua vita metteresti sulla tua linea del tempo? Scrivili in ordine, dal più lontano al p…
+
+## La mia storia comincia [lib-2-elementare-storia-storia-personale] · CULLA
+concetti: La storia personale; Chi mi aiuta a ricordare; La mia storia continua
+- Che cosa racconta la tua storia personale?
+- Di solito ricordiamo bene tutto quello che ci è successo quando avevamo pochi mesi.
+- Per sapere com'ero da neonato posso chiedere ai miei ___.
+- Quale oggetto conservato in famiglia racconta qualcosa di quando eri neonato?
+- Perché si dice che la tua storia personale continua ancora?
+- Quale di queste domande ti aiuta a ricostruire la tua storia?
+- Quale fonte ti mostra com'eri il giorno del tuo primo compleanno?
+- Racconta un fatto importante della tua storia personale successo quest'anno e spiega perché è importante per …
+
+## La storia del mio paese [lib-2-elementare-storia-storia-del-paese] · PIAZZA
+concetti: Fonti intorno a noi; I nomi delle vie; Il paese cambia
+- Quale di questi elementi del tuo paese è una fonte storica?
+- Il nome di una via può ricordare un fatto o una persona del passato.
+- Sulla facciata di una vecchia casa è inciso il numero 1750: probabilmente indica l'___ in cui fu costruita.
+- Confronti due foto della piazza: in quella vecchia c'è una fontana dove la gente riempie i secchi, in quella …
+- In molte città italiane c'è una «Piazza Garibaldi». Perché?
+- Chi può raccontarti com'era il tuo quartiere tanti anni fa?
+- Un tempo nella tua via c'era la bottega del fabbro, oggi c'è un negozio di telefoni. Questo è un esempio di...
+- Pensa a un luogo del tuo paese o della tua città che conosci bene. Quali fonti potresti usare per scoprire co…
+
+## Le età della vita [lib-2-elementare-storia-eta-della-vita] · NEONATO
+concetti: Le età; Ogni età ha le sue attività; Tante età in una famiglia
+- Tu hai 7 o 8 anni: in quale di queste età della vita ti trovi?
+- L'adolescenza viene prima dell'infanzia.
+- Molti nonni non lavorano più: sono in ___.
+- Metti in ordine le età della vita.
+- Un ragazzo di 14 anni in quale età della vita si trova?
+- Quale attività è tipica dell'età adulta?
+- A casa di Ada vivono Ada (7 anni), la mamma (38 anni) e la nonna (70 anni). Quante età della vita diverse ci …
+- Che cosa possono imparare i bambini dai nonni e che cosa possono insegnare i bambini ai nonni?
+
+## Le lancette dell'orologio [lib-2-elementare-storia-orologio] · MINUTO
+concetti: Lancette e ore; Ore e minuti; Leggere l'ora
+- Quale lancetta indica le ore?
+- Un'ora dura 60 minuti.
+- Mezz'ora dura ___ minuti.
+- La lancetta lunga è sul 12 e quella corta sul 4. Che ore sono?
+- La lancetta lunga è sul 6. Quanti minuti sono passati dall'ora esatta?
+- Metti in ordine queste misure di tempo, dalla più breve alla più lunga.
+- Il cartone animato inizia alle 5 e finisce alle 5 e mezza. Quanto dura?
+- Spiega a un bambino più piccolo come si capisce che sono le 8 in punto guardando le lancette.
+
+## Leggere il calendario [lib-2-elementare-storia-calendario] · DATA
+concetti: A che cosa serve; La data; Feste nel calendario
+- A che cosa serve il calendario?
+- Nella data «12 marzo 2026», il numero 12 indica il giorno.
+- Nella data 3 giugno 2027, la parola «giugno» indica il ___.
+- Di che colore sono spesso le domeniche sul calendario?
+- Metti in ordine queste date dello stesso anno, dalla prima all'ultima.
+- Come si scrive in cifre la data «5 novembre 2026»?
+- Oggi è lunedì 7. Che numero avrà il lunedì successivo dello stesso mese?
+- Perché la maestra scrive la data sulla lavagna ogni mattina? Spiega a che cosa può servire.
+
+## Mattina, pomeriggio, sera e notte [lib-2-elementare-storia-parti-del-giorno] · MATTINA
+concetti: Le parti del giorno; Il sole ci aiuta; Ogni parte ha le sue attività
+- In quale parte del giorno di solito si dorme?
+- Il sole sorge la sera e tramonta la mattina.
+- Dopo il pranzo di mezzogiorno comincia il ___.
+- Metti in ordine le parti del giorno, partendo da quando ti svegli.
+- A quale parte del giorno appartiene la cena?
+- Il sole è alto nel cielo e le ombre sono le più corte della giornata. Che momento del giorno è?
+- Il tuo amico dice: «Ci vediamo dopo pranzo, quando sono finite le lezioni». In quale parte del giorno vi vedr…
+- Racconta una cosa che fai la mattina, una che fai il pomeriggio e una che fai la sera.
+
+## Mestieri di una volta [lib-2-elementare-storia-mestieri-di-una-volta] · BOTTEGA
+concetti: Mestieri quasi scomparsi; Che cosa facevano; Perché sono cambiati
+- Che cosa faceva l'arrotino?
+- Molti mestieri cambiano o diventano rari quando arrivano nuove macchine.
+- Il mestiere di chi puliva i camini dalla fuliggine si chiamava ___.
+- Chi metteva i ferri agli zoccoli dei cavalli?
+- Perché oggi non passa più il lattaio a portare il latte a casa?
+- Quale di questi è un mestiere di una volta, oggi quasi scomparso?
+- Perché oggi ci sono meno spazzacamini di una volta?
+- Pensa a un mestiere di oggi che fra tanti anni potrebbe cambiare o scomparire. Perché?
+
+## Musei e archivi [lib-2-elementare-storia-musei-archivi] · MUSEO
+concetti: Il museo; L'archivio; La biblioteca; Proteggere le fonti
+- Dove puoi vedere esposti gli attrezzi agricoli di cent'anni fa?
+- In un museo, di solito, gli oggetti antichi non si devono toccare.
+- Per prendere in prestito un libro vado in ___.
+- Dove si conservano i vecchi registri e i documenti di un paese?
+- Perché nei musei gli oggetti antichi stanno spesso dentro teche di vetro?
+- Che cosa trovi in un museo della scuola?
+- Che differenza c'è tra un museo e un archivio?
+- Se la tua classe preparasse un piccolo museo della scuola di oggi, quali tre oggetti esporresti? Perché?
+
+## Nonni, genitori e figli [lib-2-elementare-storia-generazioni] · NONNI
+concetti: Che cos'è una generazione; Generazioni in famiglia; Ogni generazione ha il suo tempo
+- In famiglia, a quale generazione appartieni insieme ai tuoi fratelli e cugini?
+- I bambini della tua classe appartengono più o meno alla stessa generazione.
+- Per i nonni, i figli dei loro figli sono i ___.
+- Quando i tuoi nonni erano bambini, quale di questi oggetti NON esisteva ancora?
+- Quale di queste persone appartiene alla tua stessa generazione?
+- Perché i giochi del papà da bambino erano diversi dai tuoi?
+- In una casa abitano la nonna, la mamma e due bambini. Quante generazioni ci sono?
+- Che cosa faceva un tuo nonno o una tua nonna nel tempo libero da bambino? In che cosa era diverso da te?
+
+## Oggetti che cambiano nel tempo [lib-2-elementare-storia-oggetti-che-cambiano] · RADIO
+concetti: Oggetti che cambiano; Comunicare; Cose che restano
+- Prima del cellulare, come si telefonava da casa?
+- La radio è arrivata nelle case prima della televisione.
+- Da giovani i bisnonni scrivevano ___ e aspettavano giorni per la risposta.
+- Metti in ordine questi modi di comunicare, dal più antico al più recente.
+- Il telefono di oggi e quello del bisnonno servono entrambi a...
+- Quale di questi oggetti esisteva già ai tempi dei bisnonni e si usa ancora oggi?
+- Una volta le foto si facevano con il rullino, da far sviluppare. Che cosa è cambiato oggi?
+- Scegli un oggetto di casa, per esempio il telefono o la tv, e racconta come è cambiato dal tempo dei nonni a …
+
+## Oggetti che raccontano [lib-2-elementare-storia-fonti-materiali] · OGGETTO
+concetti: Che cosa sono; Che cosa ci dicono; I segni del tempo
+- Quale di questi NON è una fonte materiale?
+- Anche un edificio antico, come un castello, è una fonte materiale.
+- Un chiodo di ferro lasciato a lungo sotto la pioggia si copre di ___.
+- Trovi un vecchio ferro da stiro tutto di ferro e senza filo. Che cosa capisci?
+- Come puoi capire che un orsacchiotto di peluche è molto vecchio?
+- In soffitta trovi una scarpa di cuoio piccolissima. Che cosa ti fa capire?
+- Perché lo storico osserva di che materiale è fatto un oggetto antico?
+- Scegli un oggetto di casa tua che fra cinquant'anni potrebbe diventare una fonte materiale. Che cosa racconte…
+
+## Orologi di una volta [lib-2-elementare-storia-orologi-antichi] · SABBIA
+concetti: La meridiana; La clessidra; Altri modi antichi; Dall'antico al moderno
+- Che cosa scorre dentro una clessidra?
+- La meridiana funziona anche di notte.
+- La meridiana segna l'ora con l'___ di un'asta.
+- Come si poteva usare una candela per misurare il tempo?
+- Quando la sabbia della clessidra è tutta scesa, che cosa fai per misurare di nuovo lo stesso tempo?
+- Metti in ordine gli strumenti per misurare il tempo, dal più antico al più recente.
+- Nei paesi di una volta molte persone non avevano un orologio. Come capivano che ora era?
+- Secondo te, perché oggi usiamo l'orologio e non più la meridiana? Spiega.
+
+## Parole scritte dal passato [lib-2-elementare-storia-fonti-scritte] · LETTERA
+concetti: Che cosa sono; Leggere una fonte scritta; I documenti ufficiali
+- Quale di queste è una fonte scritta?
+- Un giornale di tanti anni fa è una fonte scritta.
+- In una lettera, la ___ in alto ci dice quando è stata scritta.
+- Leggi l'inizio di una lettera: «Milano, 3 maggio 1960. Cara sorella...». Dove è stata scritta?
+- In che anno è stata scritta la lettera che comincia con «Milano, 3 maggio 1960»?
+- Dove si conserva il documento che dice quando e dove sei nato?
+- Perché il diario di una bambina di tanti anni fa è utile allo storico?
+- Se scrivessi una lettera per un bambino che la leggerà fra cento anni, quali informazioni metteresti per farg…
+
+## Perché è successo? [lib-2-elementare-storia-causa-effetto] · CAUSA
+concetti: La causa; L'effetto; Prima la causa, poi l'effetto
+- Tiri un sasso in uno stagno. Che cosa succede?
+- L'effetto avviene sempre prima della sua causa.
+- Ha piovuto tutta la notte, ___ le strade sono bagnate.
+- Luca è caduto e si è sbucciato il ginocchio. Qual è la causa?
+- Giulia è partita per un mese e nessuno ha innaffiato la sua pianta. Al ritorno la pianta è secca. Qual è la c…
+- Metti in ordine i fatti, dalla causa all'ultimo effetto.
+- Lasci un cubetto di ghiaccio sul tavolo per un'ora. Che cosa trovi?
+- Racconta un fatto che ti è successo: qual è stata la causa e quale l'effetto? Usa la parola perché o perciò.
+
+## Prima, adesso, dopo [lib-2-elementare-storia-successione] · PRIMA
+concetti: La successione dei fatti; Prima, adesso, dopo; L'ordine conta
+- Paolo si lava le mani e poi mangia la merenda. Che cosa fa Paolo per prima cosa?
+- Mettere in successione dei fatti vuol dire ordinarli dal primo all'ultimo che è successo.
+- Adesso sono a scuola, ___ tornerò a casa.
+- Stai preparando un panino. Quale azione deve venire per ultima?
+- Metti in ordine le azioni per piantare un seme nel vaso.
+- Marta dice: «Prima ero all'asilo, adesso sono in seconda, dopo andrò in terza». Quale fatto deve ancora succe…
+- Perché non puoi infilare le scarpe prima dei calzini?
+- Racconta in successione tre cose che fai prima di andare a dormire. Usa le parole prima, poi, infine.
+
+## Quanti anni hai? [lib-2-elementare-storia-calcolare-eta] · CANDELE
+concetti: L'età; Calcolare l'età; Più grande, più piccolo
+- Sulla torta di Marta ci sono 8 candeline, una per ogni anno. Quanti anni compie?
+- Chi è nato nel 2017 è più grande di chi è nato nel 2019.
+- Pietro è nato nel 2020. Nel 2026 compie ___ anni.
+- Metti in ordine queste persone, dalla più grande alla più piccola.
+- Mia sorella è nata nel 2016. Quanti anni compie nel 2026?
+- Luca ha 7 anni. Suo fratello ha 3 anni più di lui. Quanti anni ha il fratello?
+- La nonna compie 70 anni nel 2026. In che anno è nata?
+- Spiega come fai a calcolare quanti anni compie quest'anno un tuo amico, se sai in che anno è nato.
+
+## Quanto tempo dura? [lib-2-elementare-storia-durata] · DURATA
+concetti: Che cos'è la durata; Durate brevi e lunghe; Misurare la durata
+- Quale di queste azioni dura meno tempo?
+- La durata è il tempo che passa dall'inizio alla fine di un'azione.
+- Per misurare quanto dura la ricreazione uso un ___.
+- Quale di queste azioni dura più a lungo?
+- Metti in ordine dalla durata più breve alla più lunga.
+- Quale strumento si usa in piscina per misurare in quanti secondi un nuotatore fa una vasca?
+- Anna e Luca iniziano i compiti alle 3 del pomeriggio. Anna finisce alle 4, Luca alle 5. Chi ci ha messo più t…
+- Due bambini partono insieme per una corsa. Come fai a capire chi ha impiegato meno tempo ad arrivare? Spiegal…
+
+## Racconta i fatti in ordine [lib-2-elementare-storia-racconto-in-ordine] · ORDINE
+concetti: Inizio, svolgimento, fine; Le sequenze; Indizi per riordinare
+- In quale parte del racconto succedono i fatti principali?
+- Una sequenza è una piccola parte di un racconto.
+- «C'era una volta» di solito si trova ___ di una fiaba.
+- Guardi alcuni disegni della stessa candela. In quale disegno la candela sta bruciando da più tempo?
+- Metti in ordine le sequenze della fiaba di Cappuccetto Rosso.
+- Hai quattro foto della torta del tuo compleanno. Quale è stata scattata per ultima?
+- Che cosa succede a una storia se metti le sequenze in disordine?
+- Pensa all'ultima gita o festa che hai fatto. Raccontala in tre frasi: una per l'inizio, una per lo svolgiment…
+
+## Racconta, nonno! [lib-2-elementare-storia-fonti-orali] · RICORDO
+concetti: Che cosa sono; L'intervista; Ricordi da confrontare
+- Quale di queste è una fonte orale?
+- Una filastrocca che in famiglia si canta da tanti anni può essere una fonte orale.
+- Prima di intervistare il nonno prepari le ___.
+- Che cosa puoi usare per non dimenticare le risposte di un'intervista?
+- Quale domanda è adatta per scoprire com'era l'infanzia della nonna?
+- Il nonno ricorda che la sua scuola aveva tre piani, la zia dice che ne aveva due. Che cosa puoi fare?
+- Metti in ordine le fasi di un'intervista.
+- Perché è importante ascoltare i racconti dei nonni prima che i ricordi vadano perduti? Spiega.
+
+## Ripasso: che fonte è? [lib-2-elementare-storia-ripasso-fonti] · INDIZIO
+concetti: Fonti materiali; Fonti scritte; Fonti orali; Fonti visive
+- Le scarpe da ginnastica che usava il papà da bambino sono una fonte...
+- Una ninna nanna che la bisnonna cantava alla nonna è una fonte orale.
+- Il vecchio mulino di pietra del paese è una fonte ___.
+- Un disegno fatto dalla mamma quando andava all'asilo è una fonte...
+- Quale di queste NON è una fonte scritta?
+- Che cosa rende una fonte orale diversa da una fonte scritta?
+- La ricetta della torta, scritta a mano dalla bisnonna, è una fonte...
+- Scegli una persona della tua famiglia e scrivi una fonte materiale, una scritta e una visiva che potresti usa…
+
+## Ripasso: i cicli del tempo [lib-2-elementare-storia-ripasso-cicli] · RUOTA
+concetti: Il dì e la notte; Settimane e mesi; Le stagioni; Ciclo o non ciclo
+- Quale ciclo si ripete ogni giorno?
+- L'inverno viene subito dopo l'autunno.
+- Un mese dura più o meno ___ settimane.
+- Verso la fine di dicembre comincia l'inverno. Quale stagione arriverà dopo?
+- Metti in ordine questi mesi come in un anno scolastico, partendo da settembre.
+- Oggi è giovedì. Che giorno era sei giorni fa?
+- Quale di queste frasi descrive un ciclo?
+- Il tuo compleanno torna ogni anno, ma tu non torni mai indietro. Spiega perché nel compleanno ci sono sia un …
+
+## Ripasso: il tempo che scorre [lib-2-elementare-storia-ripasso-tempo-che-scorre] · TEMPO
+concetti: Successione; Contemporaneità; Durata; Causa ed effetto
+- Ludovica dice: «Prima ho fatto la doccia, poi mi sono messa il pigiama». Che cosa ha fatto per seconda?
+- Un'azione che comincia prima di un'altra dura sempre di più.
+- Il tempo che passa dall'inizio alla fine della partita è la sua ___.
+- Il vento forte ha fatto cadere un ramo. Qual è l'effetto?
+- Metti in ordine la storia del pulcino.
+- Quale di queste azioni dura più di un giorno?
+- Quale frase racconta due fatti contemporanei?
+- Che cosa potrebbe succedere se una mattina dimenticassi lo zaino a casa? Spiega la causa e l'effetto.
+
+## Ripasso: io e la mia famiglia [lib-2-elementare-storia-ripasso-storia-famiglia] · MEMORIA
+concetti: Storia personale; Famiglia e generazioni; Ieri e oggi; La linea del tempo
+- Il papà del tuo papà è tuo...
+- Il racconto della mamma sul giorno in cui sei nato è una fonte orale.
+- Sulla linea del tempo, la mia nascita va a ___ del mio primo giorno di scuola.
+- Quale di queste cose c'era sia al tempo dei nonni sia oggi?
+- Metti in ordine questi fatti della famiglia di Nina, dal più vecchio al più recente.
+- Vuoi sapere quanto pesavi alla nascita. Quale fonte è più precisa?
+- Il nonno andava a scuola con la cartella di cuoio, tu ci vai con lo zaino. Che cosa è rimasto uguale?
+- Scegli un nonno o una nonna e racconta tre cose che sai della sua storia. Da quali fonti le hai scoperte?
+
+## Sette giorni in fila [lib-2-elementare-storia-settimana] · LUNEDI
+concetti: Sette giorni; L'ordine dei giorni; Giorni di scuola e di festa; Da dove vengono i nomi
+- Quanti giorni ci sono in una settimana?
+- Dopo la domenica viene il lunedì.
+- Il giorno che viene subito dopo il mercoledì è il ___.
+- Metti in ordine i giorni della settimana, dal lunedì al sabato.
+- Da quale astro prende il nome il venerdì?
+- Se vai a scuola dal lunedì al venerdì, quanti giorni di scuola fai in una settimana?
+- Oggi è sabato. Che giorno sarà fra tre giorni?
+- Racconta che cosa fai di speciale in due giorni diversi della settimana.
+
+## Sulla linea del tempo [lib-2-elementare-storia-linea-del-tempo] · LINEA
+concetti: Che cos'è; Da sinistra a destra; Spazi uguali
+- A che cosa serve la linea del tempo?
+- Sulla linea del tempo, di solito, il fatto più vecchio si mette a sinistra.
+- La freccia alla fine della linea del tempo indica il ___.
+- Perché sulla linea del tempo gli spazi tra un anno e l'altro devono essere uguali?
+- Metti in ordine questi anni come sulla linea del tempo, da sinistra a destra.
+- Sulla linea di Lia ci sono: nascita (2019), inizio dell'asilo (2022), prima elementare (2025). Quale fatto st…
+- Su una linea del tempo, tra il 2020 e il 2022 ci sono 2 quadretti. Quanti quadretti metterai tra il 2022 e il…
+- Che cosa succederebbe se sulla linea del tempo mettessi gli anni a distanze diverse tra loro? Spiega.
+
+## Trenta dì conta novembre [lib-2-elementare-storia-giorni-dei-mesi] · TRENTA
+concetti: Mesi lunghi e corti; La filastrocca; Febbraio e l'anno bisestile
+- Quanti giorni ha il mese di agosto?
+- Secondo la filastrocca, novembre ha 30 giorni.
+- Il mese più corto dell'anno è ___.
+- Quale di questi mesi ha 30 giorni?
+- Quanti giorni ha un anno bisestile?
+- Il 31 aprile non esiste. Perché?
+- Ogni quanti anni febbraio ha 29 giorni?
+- Il tuo amico dice che tutti i mesi durano 30 giorni. Spiegagli perché sbaglia.
+
+## Tutto nello stesso momento [lib-2-elementare-storia-contemporaneita] · MENTRE
+concetti: Fatti contemporanei; Le parole della contemporaneità; Luoghi diversi, stesso tempo
+- Che cosa vuol dire che due fatti sono contemporanei?
+- Nella frase «Mentre io disegno, Luca colora», le due azioni avvengono nello stesso momento.
+- ___ la maestra spiega, noi ascoltiamo in silenzio.
+- Alle dieci di mattina tu sei a scuola. Che cosa può fare nello stesso momento il papà?
+- In quale coppia le due azioni possono avvenire nello stesso momento?
+- Mentre in Italia è giorno, in alcuni Paesi lontani è notte. Come sono questi due fatti?
+- Quale di queste parole NON indica contemporaneità?
+- Guarda la tua classe in questo momento: descrivi due cose che stanno succedendo contemporaneamente.
+
+## Zii, cugini e parenti [lib-2-elementare-storia-parentele] · CUGINO
+concetti: Gli zii; I cugini; I nipoti
+- La sorella della tua mamma è tua...
+- Il figlio di tuo zio è tuo cugino.
+- Il marito di tua zia è anche lui tuo ___.
+- Per tua zia, tu sei...
+- La parola «nipote» può indicare due parenti diversi. Quali?
+- Giulia e Matteo sono cugini: la mamma di Giulia e il papà di Matteo sono fratelli. Che cosa hanno di sicuro i…
+- La mamma ha due sorelle e il papà ha un fratello. Quanti zii hai, senza contare mariti e mogli?
+- Spiega perché un bambino può essere nello stesso momento figlio, nipote e cugino.

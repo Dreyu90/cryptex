@@ -1,0 +1,553 @@
+# 4ª elementare · Geografia: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Adige, Tevere e Arno [lib-4-elementare-geografia-altri-fiumi-italiani] · TEVERE
+concetti: L'Adige; Il Tevere; L'Arno; Città nate sui fiumi
+- Quale fiume attraversa Roma?
+- Quali città attraversa l'Arno?
+- Il secondo fiume italiano per lunghezza, che attraversa Trento e Verona, è ___.
+- Il Tevere sfocia nel mar Tirreno.
+- In quale mare sfocia l'Adige?
+- Metti in ordine questi fiumi dal più lungo al più corto.
+- Perché molte città antiche, come Roma e Firenze, sono nate vicino a un fiume?
+- Il Tevere e l'Arno sfociano nel mar Tirreno, mentre l'Adige sfocia nell'Adriatico. Pensando a dove nascono e …
+
+## Arcipelaghi in mezzo al blu [lib-4-elementare-geografia-arcipelaghi-e-isole-minori] · EOLIE
+concetti: L'arcipelago; Isole vulcaniche; L'Arcipelago Toscano; Isole di Sicilia e Sardegna
+- Che cos'è un arcipelago?
+- Di quale origine sono le isole Eolie?
+- L'isola più grande dell'Arcipelago Toscano è l'isola d'___.
+- Lampedusa fa parte delle isole Pelagie, le più meridionali d'Italia.
+- Dove si trova l'arcipelago della Maddalena?
+- Le isole Egadi, come Favignana, si trovano...
+- Metti in ordine questi arcipelaghi da nord a sud.
+- Perché sulle isole Eolie si trovano spiagge di sabbia scura e rocce nere?
+
+## Clima, territorio e lavoro [lib-4-elementare-geografia-ripasso-clima-e-lavoro] · RISORSA
+concetti: Clima e coltivazioni; Ambienti e attività; Settori insieme; L'uomo e l'ambiente
+- In quale regione climatica italiana crescono meglio gli agrumi?
+- Quale coppia ambiente–attività è corretta?
+- Un pescatore che vende il suo pesce al mercato svolge due attività: la pesca appartiene al primario, la vendi…
+- Nelle zone alpine, dove l'erba dei pascoli cresce bene ma fa troppo freddo per molte coltivazioni, si pratica…
+- Perché costruire case troppo vicino al letto di un fiume è pericoloso?
+- Un'azienda del Trentino coltiva mele, ne fa succo e lo vende online in tutta Europa. Quali settori sono coinv…
+- Usare l'auto anche per pochi metri aiuta a ridurre l'inquinamento dell'aria.
+- Scegli un ambiente italiano (montagna, collina, pianura o costa) e spiega come il suo clima e il suo territor…
+
+## Colline nate in tre modi [lib-4-elementare-geografia-origine-delle-colline] · COLLE
+concetti: Che cos'è una collina; Colline moreniche; Colline vulcaniche; Colline di sollevamento
+- Quale forma del territorio è la più diffusa in Italia?
+- Di solito si chiama collina un rilievo alto non più di ___ metri circa.
+- Come si sono formate le colline moreniche intorno al lago di Garda?
+- I Colli Euganei, in Veneto, sono colline di origine vulcanica.
+- Quali colline, vicino a Roma, sono di origine vulcanica?
+- Le Langhe e il Monferrato, in Piemonte, sono colline nate da...
+- Metti in ordine le fasi di formazione di una collina morenica.
+- Osservando un paesaggio, come fai a capire se hai davanti una collina o una montagna? Indica almeno due diffe…
+
+## Come nasce un lago [lib-4-elementare-geografia-origine-dei-laghi] · BACINO
+concetti: Laghi glaciali; Laghi vulcanici; Laghi costieri; Laghi artificiali
+- Perché il lago di Bracciano ha una forma quasi rotonda?
+- I grandi laghi del Nord, come il Garda e il Maggiore, sono di origine ___.
+- I laghi di origine glaciale hanno spesso una forma lunga e stretta.
+- Come si forma un lago costiero, come quello di Lesina in Puglia?
+- Perché si costruiscono i laghi artificiali?
+- Quale di questi laghi è di origine vulcanica?
+- Metti in ordine le fasi di formazione di un lago glaciale.
+- Un lago artificiale in montagna può portare vantaggi ma anche problemi. Indica almeno un vantaggio e un probl…
+
+## Come nasce una montagna [lib-4-elementare-geografia-origine-delle-montagne] · ROCCIA
+concetti: Lo scontro delle placche; Il corrugamento; I fossili marini; L'erosione
+- Come si sono formate le Alpi e gli Appennini?
+- Le Alpi si sono formate in poche centinaia di anni.
+- Quando due placche si scontrano, gli strati di roccia si piegano e si sollevano: questo fenomeno si chiama __…
+- Sulle Dolomiti si trovano fossili di conchiglie e coralli. Che cosa ci dicono?
+- Che cos'è l'erosione?
+- Metti in ordine le fasi della nascita di una catena montuosa.
+- Perché gli Appennini hanno in genere cime più basse e arrotondate delle Alpi?
+- Perché si dice che le montagne cambiano continuamente, anche se noi non ce ne accorgiamo?
+
+## Dai campi alla tavola [lib-4-elementare-geografia-agricoltura-italiana] · SEMINA
+concetti: I cereali; Le colture mediterranee; Frutta e ortaggi; L'agricoltura moderna
+- Quale regione produce più olio d'oliva in Italia?
+- Quale regione è famosa per le mele, per esempio quelle della Val di Non?
+- Arance e limoni, chiamati ___, si coltivano soprattutto in Sicilia e in Calabria.
+- Il mais si coltiva soprattutto nella Pianura Padana.
+- A che cosa servono le serre?
+- Che cosa caratterizza l'agricoltura biologica?
+- Perché il grano duro si coltiva soprattutto al Sud e nelle isole?
+- Rispetto a cento anni fa, oggi in agricoltura lavorano molte meno persone, ma si produce di più. Come è possi…
+
+## Dal caldo torrido al gelo [lib-4-elementare-geografia-fasce-climatiche-della-terra] · TROPICO
+concetti: La zona torrida; Le zone temperate; Le zone polari; Tropici e circoli polari
+- In quale fascia climatica si trova l'Italia?
+- La zona torrida si trova tra il Tropico del Cancro e il Tropico del Capricorno.
+- Oltre i circoli polari si trovano le zone ___, dove fa freddo quasi tutto l'anno.
+- Che cosa caratterizza le zone temperate?
+- Parti dal Polo Nord e scendi verso l'Equatore: metti in ordine i luoghi e le linee che incontri.
+- Quale di questi animali vive in una zona polare?
+- Dove si trova il Tropico del Capricorno?
+- Un bambino che vive nella zona polare e uno che vive nella zona torrida si scambiano i vestiti. Perché nessun…
+
+## Dalla palude ai campi [lib-4-elementare-geografia-le-bonifiche] · PALUDE
+concetti: Le paludi; La bonifica; Grandi bonifiche italiane; Zone umide da proteggere
+- Che cos'è una palude?
+- In passato nelle paludi era diffusa la malaria, una malattia trasmessa da una zanzara.
+- Prosciugare una palude per rendere il terreno coltivabile e abitabile si chiama ___.
+- Come si prosciuga una palude?
+- Quale zona del Lazio fu bonificata negli anni Trenta del Novecento?
+- Metti in ordine le fasi di una bonifica.
+- Perché oggi alcune zone umide, come le valli del delta del Po, vengono protette?
+- Quali vantaggi ha portato la bonifica alle persone? E che cosa si è perso?
+
+## Dalla sorgente alla foce [lib-4-elementare-geografia-le-parti-del-fiume] · FOCE
+concetti: La sorgente; Il corso del fiume; Affluenti e argini; Delta ed estuario
+- Come si chiama il punto in cui nasce un fiume?
+- Metti in ordine le parti di un fiume, dall'inizio alla fine del suo viaggio.
+- Com'è l'acqua di un fiume nel suo alto corso, in montagna?
+- Un fiume che versa le sue acque in un altro fiume più grande si chiama ___.
+- Nel basso corso il fiume scorre lento e forma spesso ampie curve chiamate meandri.
+- Che cos'è una foce a delta?
+- Quale fiume italiano sfocia con un grande delta nel mar Adriatico?
+- Che cosa sono gli argini e perché si costruiscono lungo i fiumi?
+
+## Detective del territorio [lib-4-elementare-geografia-strumenti-del-geografo] · MAPPA
+concetti: Che cosa studia il geografo; Fonti dirette e indirette; Foto aeree e satellitari; Dati e grafici
+- Quale di questi argomenti è studiato dal geografo?
+- Durante un'uscita osservi il torrente vicino alla scuola e prendi appunti. Che cosa stai facendo?
+- Le immagini da satellite permettono di osservare anche zone molto vaste, come un'intera regione.
+- Per confrontare il numero di abitanti di quattro città, il geografo può disegnare un ___.
+- Quale di queste è una fonte indiretta?
+- A che cosa servono i dati statistici al geografo?
+- Il geografo studia soltanto gli elementi naturali, come monti e fiumi, e non si occupa delle persone.
+- Perché le immagini da satellite di anni diversi possono essere utili per studiare un ghiacciaio che si sta ri…
+
+## Fabbriche e Made in Italy [lib-4-elementare-geografia-l-industria] · OPERAIO
+concetti: Che cosa fa l'industria; Le materie prime; L'industria al Nord; Il Made in Italy
+- Che cosa fa un'industria?
+- Le sostanze naturali, come legno, cotone o petrolio, che le industrie trasformano si chiamano materie ___.
+- L'Italia ha poche materie prime e deve comprarne molte da altri paesi.
+- Quali città formavano il cosiddetto «triangolo industriale» del Nord?
+- Per quale industria è famosa la città di Torino?
+- Un'industria che produce pasta, conserve e biscotti è un'industria...
+- Che cosa si intende con «Made in Italy»?
+- L'Italia ha poche materie prime, ma vende in tutto il mondo prodotti finiti. Come è possibile che abbia indus…
+
+## Fiumi di ghiaccio [lib-4-elementare-geografia-i-ghiacciai] · GELO
+concetti: Come nasce un ghiacciaio; Il ghiacciaio si muove; Morene e valli a U; Ghiacciai in ritiro
+- Come si forma un ghiacciaio?
+- Il ghiacciaio si forma sopra il limite delle nevi ___, dove la neve non si scioglie mai del tutto.
+- Un ghiacciaio è fermo: il suo ghiaccio non si muove mai.
+- Che cosa sono i crepacci?
+- Metti in ordine le fasi di formazione di un ghiacciaio.
+- Che forma ha una valle scavata da un ghiacciaio?
+- Che cosa sono le morene?
+- Molti ghiacciai alpini si stanno ritirando. Perché succede e quali conseguenze può avere per i fiumi e per le…
+
+## Fiumi in piena, fiumi in magra [lib-4-elementare-geografia-il-regime-dei-fiumi] · PIENA
+concetti: La portata; Piena e magra; I fiumi alpini; Fiumi appenninici e fiumare
+- Che cos'è la portata di un fiume?
+- Quando un fiume ha pochissima acqua, si dice che è in ___.
+- Durante una piena il fiume ha molta più acqua del solito e può uscire dagli argini.
+- Perché i fiumi alpini hanno acqua anche d'estate?
+- Com'è di solito un fiume appenninico d'estate?
+- Che cosa sono le fiumare della Calabria e della Sicilia?
+- In quali stagioni i fiumi appenninici hanno di solito le piene?
+- Devi far funzionare tutto l'anno un mulino ad acqua. Sceglieresti un fiume alpino o una fiumara calabrese? Pe…
+
+## Giganti di fuoco [lib-4-elementare-geografia-vulcani-italiani] · LAVA
+concetti: Com'è fatto un vulcano; L'Etna; Il Vesuvio; Isole vulcaniche e terreni fertili
+- Come si chiama il magma quando esce dal vulcano e scorre sui suoi fianchi?
+- Metti in ordine il percorso del magma durante un'eruzione.
+- Dove si trova l'Etna?
+- L'Etna è il vulcano attivo più alto d'Europa.
+- Nel 79 d.C. un'eruzione del ___ seppellì le città di Pompei ed Ercolano.
+- Quale vulcano delle isole Eolie è famoso perché erutta quasi continuamente con piccole esplosioni?
+- Perché molte persone coltivano i terreni sulle pendici dei vulcani, nonostante il pericolo?
+- Intorno al Vesuvio vivono moltissime persone. Perché gli scienziati lo tengono sotto controllo giorno e notte?
+
+## Gli strumenti del meteo [lib-4-elementare-geografia-elementi-del-clima] · PIOGGIA
+concetti: Temperatura e termometro; Precipitazioni e pluviometro; Umidità e igrometro; Venti e pressione
+- Con quale strumento si misura la temperatura dell'aria?
+- Pioggia, neve e grandine sono tutte ___.
+- A che cosa serve il pluviometro?
+- L'umidità indica quanto vapore acqueo c'è nell'aria.
+- Che cos'è il vento?
+- Quale strumento misura la velocità del vento?
+- Con il barometro si misura la quantità di pioggia caduta.
+- Una stazione meteorologica raccoglie ogni giorno, per molti anni, temperatura, pioggia, umidità e vento. A ch…
+
+## I grandi laghi del Nord [lib-4-elementare-geografia-i-laghi-prealpini] · GARDA
+concetti: Il lago di Garda; Maggiore e Como; Immissari ed emissari; Un clima più mite
+- Qual è il lago più grande d'Italia?
+- Il fiume che entra in un lago si chiama ___, quello che ne esce si chiama emissario.
+- Qual è l'emissario del lago di Garda?
+- Il lago di Como ha una forma che ricorda una Y rovesciata.
+- Quale lago è condiviso tra Italia e Svizzera?
+- Perché sulle rive del Garda crescono ulivi e perfino limoni, anche se siamo al Nord?
+- Il Ticino entra nel lago Maggiore e poi ne esce. Dopo il lago, dove porta le sue acque?
+- Perché i grandi laghi prealpini attirano tanti turisti? Collega il clima, il paesaggio e le attività.
+
+## Il cuore verde del Nord [lib-4-elementare-geografia-pianura-padana] · RISAIA
+concetti: La pianura più grande; Alta e bassa pianura; Una grande agricoltura; Città e industrie
+- Tra quali catene montuose si trova la Pianura Padana?
+- La Pianura Padana si estende su diverse regioni, tra cui Piemonte, Lombardia, Emilia-Romagna e Veneto.
+- Nella bassa pianura l'acqua che scorre sotto terra riaffiora in superficie formando le ___.
+- Com'è il terreno dell'alta pianura, vicino ai monti?
+- In quali zone della Pianura Padana si coltiva molto riso?
+- Perché il riso ha bisogno di zone pianeggianti con molta acqua?
+- La Pianura Padana è una delle zone meno abitate d'Italia.
+- Spiega perché la Pianura Padana è diventata una delle zone più ricche e popolate d'Italia.
+
+## Il grande arco di pietra [lib-4-elementare-geografia-le-alpi] · VETTA
+concetti: Posizione e forma; Tre settori; Le vette più alte; Le Dolomiti
+- Che forma hanno le Alpi sulla carta d'Italia?
+- Qual è la montagna più alta delle Alpi?
+- Le Alpi segnano il confine dell'Italia con Francia, Svizzera, Austria e Slovenia.
+- Le Alpi si dividono in occidentali, centrali e ___.
+- Metti in ordine queste vette dalla più alta alla più bassa.
+- Che cosa rende famose le Dolomiti?
+- In quale settore delle Alpi si trovano le Alpi Marittime, vicino alla Liguria?
+- Perché si dice che le Alpi sono un «confine naturale» dell'Italia?
+
+## Il grande Po [lib-4-elementare-geografia-il-fiume-po] · MONVISO
+concetti: Il fiume più lungo; Il percorso; Gli affluenti; Risorsa e rischio
+- Qual è il fiume più lungo d'Italia?
+- Il Po nasce dal ___, in Piemonte.
+- Il Po sfocia nel mar Tirreno.
+- Quali affluenti del Po scendono dalle Alpi, alla sua sinistra?
+- Quale grande città è attraversata dal Po?
+- In che modo l'acqua del Po aiuta l'agricoltura della pianura?
+- Metti in ordine questi luoghi bagnati dal Po, dalla sorgente verso la foce.
+- Nel 1951 il Po allagò il Polesine. Perché un fiume così utile può diventare anche pericoloso? Che cosa si fa …
+
+## Il mondo rimpicciolito [lib-4-elementare-geografia-scala-di-riduzione] · SCALA
+concetti: La carta è ridotta; La scala numerica; Scala grande e scala piccola; La scala grafica
+- Da quale punto di vista è disegnata una carta geografica?
+- Nella scala 1:100.000, 1 cm sulla carta corrisponde a 100.000 cm, cioè a 1 ___ nella realtà.
+- Su una carta in scala 1:50.000 due paesi distano 4 cm. Quanto distano nella realtà?
+- La pianta della tua classe è disegnata in una scala più grande di quella di una carta dell'Italia.
+- Quale rappresentazione useresti per vedere le vie del tuo quartiere?
+- Metti in ordine queste scale dalla più grande (più dettagli) alla più piccola (meno dettagli).
+- Che cos'è la scala grafica?
+- Perché sulle carte geografiche è necessario usare una scala di riduzione?
+
+## In vacanza in Italia [lib-4-elementare-geografia-il-turismo] · VIAGGIO
+concetti: Tipi di turismo; Le città d'arte; Turismo e lavoro; Turismo sostenibile
+- Una famiglia che va in vacanza a Rimini per fare il bagno fa turismo...
+- Il turismo di chi va alle terme per fare bagni in acque calde e curative si chiama turismo ___.
+- Quale città d'arte è famosa per i canali e le gondole?
+- Il turismo fa parte del settore terziario, perché offre servizi alle persone.
+- In quale città puoi visitare il Colosseo?
+- Quale di questi lavori dipende di più dal turismo?
+- Un numero enorme di turisti nello stesso luogo non crea mai problemi agli abitanti.
+- Che cosa può fare un turista per rispettare i luoghi che visita? Indica almeno due comportamenti.
+
+## Inverni bianchi sulle Alpi [lib-4-elementare-geografia-clima-alpino] · NEVE
+concetti: Inverni lunghi e nevosi; Freddo e quota; Fasce di vegetazione; Vivere in montagna
+- Com'è l'inverno nella regione climatica alpina?
+- Nella regione alpina l'estate è breve e fresca.
+- Salendo in montagna, dopo i boschi di latifoglie si incontrano i boschi di ___, come abeti e larici.
+- Metti in ordine gli ambienti che incontri salendo da una valle alpina verso la cima.
+- Perché sulle cime più alte delle Alpi c'è neve anche d'estate?
+- Quale attività economica è favorita dal clima alpino d'inverno?
+- In primavera la neve delle Alpi comincia a sciogliersi. Che cosa succede ai torrenti alpini?
+- Perché molti paesi alpini si trovano nel fondovalle o sui versanti esposti al Sole, e non sulle cime?
+
+## L'energia che ci muove [lib-4-elementare-geografia-fonti-di-energia] · TURBINA
+concetti: Fonti non rinnovabili; Sole e vento; Acqua e calore della Terra; Risparmiare energia
+- Quale di queste è una fonte di energia non rinnovabile?
+- I pannelli ___ trasformano la luce del Sole in energia elettrica.
+- Le fonti non rinnovabili, come carbone e gas, prima o poi si esauriscono.
+- In quale regione si trova Larderello, dove si produce energia dal calore della Terra?
+- Perché sulle Alpi si trovano molte centrali idroelettriche?
+- Dove conviene installare le pale eoliche?
+- Quale comportamento aiuta a risparmiare energia a casa?
+- Perché molti paesi, compresa l'Italia, cercano di usare sempre più fonti rinnovabili? Indica almeno due motiv…
+
+## La bussola nel taschino [lib-4-elementare-geografia-punti-cardinali] · NORD
+concetti: I punti cardinali; La rosa dei venti; La bussola; Orientarsi con Sole e stelle
+- Da quale parte sorge il Sole?
+- Il Sud si chiama anche ___, perché a mezzogiorno il Sole si trova da quella parte.
+- Quale direzione si trova a metà tra Nord ed Est?
+- L'ago della bussola è una piccola calamita che si orienta verso il Nord.
+- Di notte, quale stella aiuta a trovare il Nord?
+- Parti dal Nord e gira in senso orario, come le lancette dell'orologio: metti in ordine i punti cardinali che …
+- A mezzogiorno sei in giardino, in Italia, con le spalle rivolte al Sole. Verso quale punto cardinale guardi?
+- Perché marinai ed escursionisti portano la bussola anche se sanno orientarsi con il Sole e con le stelle?
+
+## La rete invisibile della Terra [lib-4-elementare-geografia-paralleli-e-meridiani] · GLOBO
+concetti: Equatore ed emisferi; Paralleli e latitudine; Meridiani e longitudine; Le coordinate geografiche
+- Che cos'è l'Equatore?
+- L'Italia si trova nell'emisfero boreale, cioè a nord dell'Equatore.
+- Il meridiano zero passa per l'osservatorio di ___, in Inghilterra.
+- Che cosa sono i paralleli?
+- Che cosa misura la latitudine di un luogo?
+- Che forma hanno i meridiani?
+- Per trovare la posizione esatta di un luogo basta conoscere la sua latitudine.
+- Una nave in mezzo al mare comunica la sua posizione con due numeri. Perché ne servono proprio due?
+
+## La spina dorsale d'Italia [lib-4-elementare-geografia-gli-appennini] · DORSALE
+concetti: La spina dorsale; Tre parti; La vetta più alta; Lo spartiacque
+- Perché gli Appennini vengono chiamati la «spina dorsale» d'Italia?
+- La vetta più alta degli Appennini è il Corno Grande, nel massiccio del ___.
+- Gli Appennini iniziano in Liguria, arrivano fino alla Calabria e proseguono poi in Sicilia.
+- In quale parte degli Appennini si trova il Gran Sasso?
+- Metti in ordine da nord a sud questi tratti degli Appennini.
+- In quale regione si trova il massiccio del Gran Sasso?
+- Sugli Appennini nascono molti fiumi. Verso quali mari scorrono soprattutto?
+- Che cos'è uno spartiacque? Spiega perché la cresta degli Appennini funziona come uno spartiacque.
+
+## Lavorare tra i monti [lib-4-elementare-geografia-economia-della-montagna] · MALGA
+concetti: Allevamento e alpeggio; Boschi e legname; Il turismo; Acqua ed energia; Lo spopolamento
+- Che cosa succede durante l'alpeggio?
+- La ___ è la costruzione di montagna dove d'estate i pastori allevano le mucche e producono burro e formaggi.
+- Tagliare tutti gli alberi di un versante di montagna non crea alcun problema.
+- Perché il turismo è importante per molti paesi di montagna?
+- A che cosa servono molte dighe costruite nelle valli alpine?
+- Perché molti abitanti, nel Novecento, hanno lasciato i paesi di montagna?
+- Il turismo in montagna si fa soltanto d'inverno, quando c'è la neve.
+- Che cosa si potrebbe fare per convincere le famiglie a restare a vivere in un paese di montagna? Proponi alme…
+
+## Le due isole maggiori [lib-4-elementare-geografia-sicilia-e-sardegna] · ISOLA
+concetti: Le isole maggiori; La Sicilia; La Sardegna; Vivere su un'isola
+- Qual è l'isola più grande del mar Mediterraneo?
+- Per la sua forma triangolare, gli antichi chiamavano la Sicilia ___.
+- La Sardegna è la seconda isola più grande d'Italia.
+- Qual è il massiccio montuoso più alto della Sardegna?
+- Quale mare bagna la costa settentrionale della Sicilia?
+- Metti in ordine queste isole dalla più grande alla più piccola.
+- Perché chi vive su un'isola dipende molto da navi e aerei?
+- Da molti anni si discute di un ponte sullo stretto di Messina. Quali vantaggi porterebbe a chi vive in Sicili…
+
+## Merci in viaggio [lib-4-elementare-geografia-commercio-e-trasporti] · MERCI
+concetti: Il commercio; I trasporti; I servizi pubblici; Il commercio online
+- Che differenza c'è tra commercio all'ingrosso e al dettaglio?
+- Quando l'Italia vende prodotti a un altro paese si parla di ___.
+- Quale autostrada collega Milano a Napoli ed è chiamata «Autostrada del Sole»?
+- La scuola e gli ospedali pubblici fanno parte del settore terziario.
+- Quale mezzo di trasporto conviene per spostare migliaia di container da un continente all'altro?
+- Perché porti come Genova e Trieste sono importanti per l'economia italiana?
+- Quale novità ha cambiato il modo di fare acquisti negli ultimi anni?
+- Chi paga i servizi pubblici come la scuola, le strade e gli ospedali? Perché sono importanti per tutti?
+
+## Natura da proteggere [lib-4-elementare-geografia-parchi-nazionali] · PARCO
+concetti: Il parco nazionale; Il Gran Paradiso; Il Parco d'Abruzzo; Comportarsi bene
+- Perché si istituisce un parco nazionale?
+- Il Parco Nazionale del Gran Paradiso è nato per proteggere lo ___, che rischiava di scomparire.
+- Il Gran Paradiso è stato il primo parco nazionale italiano.
+- Quale animale è il simbolo del Parco Nazionale d'Abruzzo, Lazio e Molise?
+- Quale comportamento è corretto quando visiti un parco nazionale?
+- Che cos'è un'area marina protetta?
+- In un parco nazionale è permesso cacciare liberamente.
+- Il lupo, un tempo molto cacciato, oggi è tornato a vivere su gran parte degli Appennini. In che modo i parchi…
+
+## Nebbia sulla grande pianura [lib-4-elementare-geografia-clima-padano] · NEBBIA
+concetti: Un clima continentale; La nebbia; Una pianura chiusa; Le piogge
+- Come sono di solito le estati nella Pianura Padana?
+- D'inverno nella Pianura Padana si forma spesso una fitta ___, che riduce molto la visibilità e resta a lungo …
+- Perché l'aria nella Pianura Padana ristagna spesso?
+- Nella Pianura Padana la differenza di temperatura tra inverno ed estate è forte.
+- Quali condizioni favoriscono la formazione della nebbia?
+- In quali stagioni piove di più, di solito, nella Pianura Padana?
+- La Pianura Padana ha inverni miti perché è aperta ai venti caldi del mare.
+- Perché d'inverno, nelle città della Pianura Padana, l'aria inquinata può restare a lungo senza disperdersi?
+
+## Neve e boschi dell'Appennino [lib-4-elementare-geografia-clima-appenninico] · FAGGIO
+concetti: Inverni freddi in quota; Due versanti; Boschi appenninici; Meno rigido delle Alpi
+- Com'è l'inverno nelle zone più alte degli Appennini?
+- Il clima di montagna degli Appennini è in genere meno rigido di quello delle Alpi, perché gli Appennini sono …
+- Sui monti dell'Appennino sono molto diffusi i boschi di ___, alberi dal tronco liscio e grigio.
+- Gli Appennini dividono la penisola in due versanti. Quali?
+- Perché il versante tirrenico dell'Appennino riceve in genere più piogge?
+- Perché gli alberi sono importanti sui pendii appenninici?
+- In inverno, in una località appenninica a 1.500 metri nevica, mentre sulla costa vicina piove. Perché?
+- Un escursionista attraversa l'Appennino in inverno, dalla costa tirrenica fino alla costa adriatica. Quali di…
+
+## Oggi piove, ma il clima? [lib-4-elementare-geografia-tempo-e-clima] · METEO
+concetti: Il tempo atmosferico; Il clima; Le previsioni del tempo; Clima e vita quotidiana
+- Quale frase descrive il tempo atmosferico?
+- Per conoscere il clima di un luogo basta osservare il tempo atmosferico per una settimana.
+- Il ___ è l'insieme delle condizioni atmosferiche che si ripetono di solito in un luogo per molti anni.
+- Chi studia il tempo atmosferico e prepara le previsioni?
+- Perché si dice che il tempo atmosferico è variabile?
+- Dove è più facile trovare case con tetti molto spioventi, che fanno scivolare la neve?
+- Le previsioni del tempo indicano che tempo farà nei prossimi giorni.
+- Un amico dice: «Ieri a Palermo faceva freddo, quindi Palermo ha un clima freddo». Ha ragione? Spiega la diffe…
+
+## Passaggi tra le montagne [lib-4-elementare-geografia-valichi-e-trafori] · PASSO
+concetti: Il valico; I trafori; Valichi e trafori famosi; Vie di scambio
+- Che cos'è un valico?
+- Il passo del Brennero collega l'Italia con l'Austria.
+- Una lunga galleria che passa sotto una montagna si chiama ___.
+- Quali paesi collega il traforo del Monte Bianco?
+- Perché si costruiscono trafori invece di usare solo le strade dei valichi?
+- Il passo del Gran San Bernardo collega la Valle d'Aosta con...
+- Perché i valichi alpini sono stati importanti fin dall'antichità?
+- Se una frana chiudesse per mesi il traforo più importante tra due paesi, quali problemi ci sarebbero per i ca…
+
+## Perché qui fa più freddo? [lib-4-elementare-geografia-fattori-del-clima] · QUOTA
+concetti: La latitudine; L'altitudine; La vicinanza del mare; I rilievi come barriera
+- Perché vicino all'Equatore fa più caldo che vicino ai poli?
+- Più si sale di ___, più la temperatura dell'aria si abbassa.
+- Ai piedi di un monte, a 500 metri, ci sono 20 gradi. Più o meno quanti gradi ci saranno a 1.500 metri?
+- Il mare si scalda e si raffredda più lentamente della terraferma, perciò rende il clima più mite.
+- Due città sono alla stessa latitudine e alla stessa altezza: una è sulla costa, l'altra nell'entroterra lonta…
+- Quale catena montuosa protegge l'Italia dai venti freddi che arrivano dal Nord Europa?
+- Metti in ordine queste città dalla più vicina all'Equatore alla più lontana.
+- Bolzano e Napoli sono entrambe in Italia, ma d'inverno Bolzano è molto più fredda. Quali fattori del clima sp…
+
+## Pianure da fiumi e vulcani [lib-4-elementare-geografia-origine-delle-pianure] · PIANA
+concetti: Che cos'è una pianura; Pianure alluvionali; Pianure vulcaniche; Pianure di sollevamento
+- Quanta parte del territorio italiano è occupata dalle pianure, più o meno?
+- Le pianure formate dai detriti portati e depositati dai fiumi si chiamano pianure ___.
+- Qual è la più grande pianura alluvionale d'Italia?
+- Le pianure vulcaniche, come quella intorno a Napoli, sono molto fertili.
+- Come si forma una pianura di sollevamento?
+- Metti in ordine le fasi di formazione di una pianura alluvionale.
+- Perché i terreni vulcanici sono così fertili?
+- Perché, secondo te, nelle pianure si trovano molte città, strade e fabbriche?
+
+## Pianure del Centro-Sud [lib-4-elementare-geografia-altre-pianure-italiane] · GRANO
+concetti: Il Tavoliere delle Puglie; La pianura campana; Le pianure delle isole; Pianure costiere strette
+- Qual è la seconda pianura d'Italia per estensione?
+- Il Tavoliere delle Puglie è famoso per la coltivazione del grano ___, usato per fare la pasta.
+- Qual è la pianura più grande della Sicilia?
+- Il Campidano è una pianura della Sardegna che si trova tra il golfo di Cagliari e quello di Oristano.
+- Quale vulcano ha contribuito a rendere fertile la pianura intorno a Napoli?
+- Perché nell'Italia meridionale molte pianure sono piccole e strette lungo le coste?
+- Quali coltivazioni sono diffuse nella fertile pianura campana?
+- Perché il Tavoliere delle Puglie è chiamato «granaio d'Italia»? Quale problema può avere l'agricoltura in una…
+
+## Quando la terra trema [lib-4-elementare-geografia-i-terremoti] · SISMA
+concetti: Che cos'è un terremoto; Ipocentro ed epicentro; L'Italia, terra sismica; Prevenzione e sicurezza
+- Che cos'è un terremoto?
+- Il punto della superficie che si trova proprio sopra il punto di origine del terremoto si chiama ___.
+- Che cos'è l'ipocentro?
+- L'Italia ha molti terremoti perché si trova dove si scontrano due grandi placche.
+- Durante una scossa di terremoto a scuola, che cosa è meglio fare?
+- Con quale strumento si registrano le scosse di terremoto?
+- Oggi gli scienziati sanno prevedere con precisione il giorno e l'ora di un terremoto.
+- Perché nelle zone sismiche è importante costruire case e scuole antisismiche? E che cosa può fare una famigli…
+
+## Quando soffia la bora [lib-4-elementare-geografia-clima-adriatico] · BORA
+concetti: Inverni più freddi; La bora; Un mare poco profondo; Estati e spiagge
+- Quale vento freddo soffia con forza su Trieste, soprattutto d'inverno?
+- D'inverno la costa adriatica è più ___ della costa tirrenica, perché è esposta ai venti dell'Est Europa.
+- Il mare Adriatico è poco profondo, soprattutto nella parte settentrionale.
+- Perché l'Adriatico mitiga il clima meno del Tirreno?
+- Da quale direzione soffia la bora?
+- Perché la costa romagnola è molto adatta al turismo balneare d'estate?
+- La costa adriatica è riparata dai venti freddi di nord-est grazie agli Appennini.
+- Ancona e Livorno sono quasi alla stessa latitudine, ma d'inverno Ancona è spesso più fredda. Perché?
+
+## Riviera, inverni dolci [lib-4-elementare-geografia-clima-ligure-tirrenico] · RIVIERA
+concetti: Inverni miti; Estati ventilate; Piogge d'autunno; Coltivazioni del clima mite
+- Com'è di solito l'inverno sulla costa ligure e tirrenica?
+- Perché la Liguria ha inverni particolarmente miti?
+- D'estate sulla costa tirrenica il caldo è attenuato dalle brezze che arrivano dal mare.
+- Nella Riviera di Ponente, grazie al clima mite, si coltivano molti ___, venduti in tutta Europa.
+- In quale stagione la Liguria è più esposta a piogge molto forti e improvvise?
+- Perché in Liguria le piogge forti possono causare alluvioni rapide?
+- Oltre ai fiori, quale pianta tipica del clima mite si coltiva molto sulle colline liguri?
+- Genova e Torino non sono lontane, ma d'inverno Torino è più fredda. Perché?
+
+## Scogliere, spiagge e lagune [lib-4-elementare-geografia-le-coste] · SCOGLIO
+concetti: Coste alte; Coste basse; Golfi e promontori; Le lagune
+- Com'è una costa alta?
+- Quale tratto di costa è tipicamente basso e sabbioso?
+- Un tratto di mare che entra profondamente nella terra si chiama ___.
+- Il Gargano, in Puglia, è chiamato lo «sperone» d'Italia. Che cos'è?
+- Una laguna è uno specchio d'acqua salata o salmastra separato dal mare da strisce di sabbia.
+- Quale famosa città sorge in una laguna?
+- Le coste alte sono le più adatte per lunghe spiagge piene di ombrelloni.
+- Perché le coste basse e sabbiose rischiano di perdere la spiaggia? Che cosa si fa per proteggerle?
+
+## Sole lungo al Sud [lib-4-elementare-geografia-clima-mediterraneo] · ULIVO
+concetti: Estati lunghe e secche; Inverni miti e piogge; La scarsità d'acqua; La macchia mediterranea
+- Dove si trova la regione climatica mediterranea?
+- Com'è l'estate nella regione mediterranea?
+- Nella regione mediterranea piove soprattutto d'estate.
+- Mirto, lentisco e corbezzolo sono arbusti sempreverdi che formano la ___ mediterranea.
+- Perché molte piante della macchia mediterranea hanno foglie piccole, dure e lucide?
+- Quale problema può colpire la Sicilia nelle estati più secche?
+- Quali coltivazioni sono tipiche del clima mediterraneo?
+- In molte case del Sud e delle isole ci sono serbatoi d'acqua sul tetto. Perché, secondo te? Collega la rispos…
+
+## Stalle, greggi e reti [lib-4-elementare-geografia-allevamento-e-pesca] · PESCE
+concetti: I bovini della pianura; Pecore e maiali; La pesca; L'acquacoltura
+- In quale zona d'Italia si allevano più mucche da latte?
+- La Sardegna è la regione con più ___, dal cui latte si fa il pecorino.
+- Quale formaggio famoso si produce in Emilia con il latte delle mucche?
+- La transumanza è lo spostamento stagionale delle greggi tra pianura e montagna.
+- Che cos'è il fermo pesca?
+- Che cos'è l'acquacoltura?
+- Perché pescare troppo diventa un problema anche per i pescatori?
+- Il prosciutto di Parma, il pecorino sardo, il Parmigiano: perché alcuni prodotti dell'allevamento sono legati…
+
+## Tramontana, scirocco e brezze [lib-4-elementare-geografia-i-venti-d-italia] · BREZZA
+concetti: I nomi dei venti; Lo scirocco; Tramontana e maestrale; Le brezze
+- Da quale direzione soffia la tramontana?
+- Lo scirocco è un vento caldo che arriva in Italia dall'Africa.
+- Il ___ è un vento forte che soffia da nord-ovest ed è molto frequente in Sardegna.
+- Quale vento soffia da sud-ovest?
+- Di giorno, d'estate, sei in spiaggia e senti un venticello fresco che arriva dal mare. Come si chiama?
+- Perché di notte, sulla costa, la brezza soffia dalla terra verso il mare?
+- Quando soffia lo scirocco, a volte sulle auto si trova una polvere rossiccia. Da dove arriva?
+- Un pescatore dice: «Oggi soffia lo scirocco, domani arriverà la tramontana». Come cambierà, secondo te, il te…
+
+## Tre lati bagnati dal mare [lib-4-elementare-geografia-i-mari-italiani] · MARE
+concetti: Una penisola; I mari d'Italia; Mari diversi; Stretti e canali
+- Che cos'è una penisola?
+- Quale mare bagna Genova?
+- Il mare italiano più profondo è il mar ___.
+- Venezia, Ancona e Bari si affacciano sul mar Adriatico.
+- Parti da Genova e naviga intorno alla penisola fino a Trieste: in che ordine incontri i mari?
+- Quale stretto separa la Sicilia dalla Calabria?
+- Che cosa separano le Bocche di Bonifacio?
+- Perché in Italia ci sono da sempre tanti porti, pescatori e commerci sul mare?
+
+## Tre settori, mille mestieri [lib-4-elementare-geografia-i-tre-settori-economici] · LAVORO
+concetti: Il settore primario; Il settore secondario; Il settore terziario; La catena dei settori
+- Quale lavoro appartiene al settore primario?
+- Il settore ___ trasforma le materie prime in prodotti, per esempio nelle fabbriche.
+- Quale lavoro fa parte del settore terziario?
+- Oggi in Italia la maggior parte delle persone lavora nel settore terziario.
+- Metti in ordine il viaggio del latte fino alla tua tavola.
+- Nella «catena» del legno, quale lavoratore appartiene al settore secondario?
+- Perché il settore primario si chiama così?
+- Pensa a un panino al prosciutto. Quali lavoratori dei tre settori hanno contribuito a farlo arrivare nelle tu…
+
+## Una carta per ogni domanda [lib-4-elementare-geografia-tipi-di-carte] · ATLANTE
+concetti: Le carte fisiche; Le carte politiche; Le carte tematiche; Legenda e simboli
+- Su una carta fisica, quale colore indica di solito le pianure?
+- Vuoi sapere quali regioni confinano con la Toscana. Quale carta consulti?
+- Su una carta fisica, più il marrone è scuro, più il territorio è alto.
+- La ___ è il riquadro che spiega il significato dei simboli e dei colori di una carta.
+- Una carta che mostra dove si coltivano gli agrumi in Italia è una carta...
+- Su una carta fisica vedi un piccolo triangolo nero con accanto un numero, per esempio 2912. Che cosa indica?
+- Le carte politiche servono soprattutto a mostrare l'altezza dei monti e la profondità dei mari.
+- Prepari una gita in montagna e vuoi sapere quanta pioggia cade di solito in quella zona. Quale tipo di carta …
+
+## Viaggio nell'Italia fisica [lib-4-elementare-geografia-ripasso-italia-fisica] · ITALIA
+concetti: Le montagne; Pianure e colline; Fiumi e laghi; Coste, mari e isole
+- Viaggi in treno da Milano a Firenze. Quale catena montuosa devi attraversare?
+- Il lago Trasimeno, in Umbria, è il lago più grande dell'Italia peninsulare.
+- La Calabria forma la «punta» dello stivale, mentre la penisola salentina ne forma il ___.
+- Scendi da una vetta alpina fino al delta del Po: metti in ordine i paesaggi che attraversi.
+- Quale di questi fiumi NON sfocia nel mar Adriatico?
+- Quale di queste isole si trova nel mar Tirreno?
+- Quale coppia è formata da una montagna e dalla catena giusta?
+- Descrivi in poche frasi l'Italia fisica a un amico straniero: quali sono le forme del territorio principali e…
+
+## Vigne e uliveti in collina [lib-4-elementare-geografia-economia-della-collina] · VIGNA
+concetti: Coltivazioni collinari; Un clima favorevole; I terrazzamenti; Prodotti tipici e agriturismo
+- Quali coltivazioni sono tipiche delle colline italiane?
+- Perché la vite cresce bene sui versanti collinari esposti a sud?
+- Per coltivare su pendii ripidi i contadini costruiscono i ___, gradini di terra sostenuti da muretti.
+- I terrazzamenti aiutano anche a frenare l'acqua piovana e a ridurre le frane.
+- Le Langhe, in Piemonte, sono famose per la coltivazione di...
+- Che cos'è un agriturismo?
+- In collina il clima è in genere più rigido che in alta montagna.
+- Perché il vino o l'olio di una certa collina può diventare famoso e attirare turisti? Collega clima, lavoro d…

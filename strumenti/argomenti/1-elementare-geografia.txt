@@ -1,0 +1,553 @@
+# 1ª elementare · Geografia: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A pranzo in mensa [lib-1-elementare-geografia-mensa] · PIATTO
+concetti: A che cosa serve la mensa; Stare a tavola; Prima e dopo il pasto; Non sprecare
+- Che cosa fai in mensa?
+- In mensa si può urlare per farsi sentire dagli amici lontani.
+- Nel piatto avanza spesso tanto cibo che poi si butta. Che cosa puoi fare?
+- La minestra si mangia con il ___.
+- Metti in ordine il pranzo in mensa.
+- Il tuo compagno non ha mai provato i piselli. Che cosa gli consigli?
+- Perché la mensa ha tanti tavoli e tante sedie?
+- Perché è sbagliato sprecare il cibo?
+
+## Abito al primo piano [lib-1-elementare-geografia-case-e-piani] · PIANO
+concetti: Tanti tipi di casa; I piani; Scale e ascensore
+- In un grande palazzo di solito abitano...
+- Quale piano è allo stesso livello della strada?
+- Il terzo piano è più in alto del primo piano.
+- Per salire al quinto piano senza fare le scale prendo l'___.
+- Metti in ordine i piani di un palazzo, dal più basso al più alto.
+- Marco abita al secondo piano, Lisa al quarto. Chi abita più in alto?
+- Lisa abita al piano terra. Per arrivare a casa sua, deve salire con l'ascensore?
+- In che tipo di casa abiti? A che piano?
+
+## Al parco giochi [lib-1-elementare-geografia-parco-giochi] · SCIVOLO
+concetti: Il parco giochi; Su, giù, avanti, indietro; Le regole del parco
+- Sull'altalena come ti muovi?
+- Per scendere dallo scivolo, prima devi...
+- Al parco giochi si aspetta il proprio turno per lo scivolo.
+- Sulla giostra si gira in ___.
+- Metti in ordine: come usi lo scivolo?
+- Un bambino dondola sull'altalena. Perché non devi passarci davanti?
+- Il parco giochi del quartiere di chi è?
+- Perché al parco bisogna buttare le cartacce nel cestino?
+
+## Attraversa sulle strisce [lib-1-elementare-geografia-strada-sicura] · STRISCE
+concetti: Marciapiede e strada; Le strisce pedonali; Il semaforo
+- Dove camminano i pedoni?
+- L'omino del semaforo pedonale è rosso. Che cosa fai?
+- Prima di attraversare si guarda a sinistra e a destra.
+- Per attraversare la strada uso le strisce ___.
+- Metti in ordine: come attraversi la strada?
+- Il semaforo per le auto diventa giallo. Che cosa annuncia?
+- Perché non si gioca a palla vicino alla strada?
+- Spiega a un bambino più piccolo come si attraversa la strada.
+
+## Balcone, giardino e cantina [lib-1-elementare-geografia-spazi-esterni-della-casa] · BALCONE
+concetti: Il balcone; Giardino e cortile; Cantina, garage e soffitta
+- Dove si mette l'auto di famiglia al chiuso?
+- Abiti in un appartamento. Dove stendi i panni all'aperto?
+- La soffitta si trova sotto il tetto della casa.
+- La ___ si trova in basso, spesso sotto il livello della strada.
+- Che cosa trovi di solito in un giardino?
+- Perché il balcone ha la ringhiera?
+- Nel cortile del palazzo giocano i bambini di tante famiglie. Perché?
+- Perché le cose vecchie spesso si mettono in cantina o in soffitta?
+
+## Caccia al tesoro in giardino [lib-1-elementare-geografia-caccia-al-tesoro] · TESORO
+concetti: Leggere la mappa; Seguire le indicazioni; Dov'è il tesoro
+- Il biglietto dice: «Il tesoro è sotto la panchina». Che cosa fai?
+- Sulla mappa, una X rossa segna il tesoro. Che cos'è la X?
+- Se la mappa dice «tre passi», puoi farne dieci e arrivare nello stesso posto.
+- Il tesoro è nel vaso con il coperchio: per prenderlo devi guardare ___.
+- Metti in ordine le tappe della caccia al tesoro.
+- Nella legenda, il cerchio azzurro è la fontana. Il tesoro è accanto al cerchio azzurro. Dove cerchi?
+- Un amico gira a destra invece che a sinistra. Che cosa succede?
+- Nascondi un tesoro in classe. Scrivi un indizio per trovarlo.
+
+## Case diverse nel mondo [lib-1-elementare-geografia-case-nel-mondo] · CASA
+concetti: Case adatte all'ambiente; Case per il freddo; La palafitta; La tenda
+- L'igloo è una casa che si costruisce dove fa freddissimo. Con che cosa è fatto?
+- La tenda è una casa che si può smontare e portare con sé.
+- Che cos'è una palafitta?
+- In montagna molti tetti sono a punta, così la ___ scivola giù.
+- Una famiglia del deserto si sposta spesso con i cammelli per cercare acqua e pascoli. Quale casa le serve?
+- Vicino a un fiume che a volte esce dagli argini e allaga il terreno, quale casa è più adatta?
+- Perché nel mondo le case non sono tutte uguali?
+- Scegli una casa del mondo, come l'igloo, la palafitta o la tenda. Perché è adatta al suo ambiente?
+
+## Caselle, righe e colonne [lib-1-elementare-geografia-righe-e-colonne] · CASELLA
+concetti: Righe e colonne; L'incrocio; Scrivere la posizione
+- Una riga del quaderno va...
+- Le colonne di una tabella vanno...
+- Per trovare una casella basta sapere solo la riga.
+- La casella B2 sta all'incrocio tra la colonna B e la ___ 2.
+- Il tesoro è nella colonna C e nella riga 1. Come si scrive la sua casella?
+- La colonna A è la prima a sinistra e la riga 1 è quella in alto. Dov'è la casella A1?
+- Le colonne sono A, B, C da sinistra. La nave in B2 va di una colonna a destra. Dove arriva?
+- Perché per trovare una casella servono una lettera e un numero?
+
+## Chi lavora a scuola? [lib-1-elementare-geografia-chi-lavora-a-scuola] · MAESTRA
+concetti: Le insegnanti; I collaboratori scolastici; Dirigente e segreteria; Chi prepara il pranzo
+- Chi ti insegna a leggere e a scrivere?
+- Chi apre il portone della scuola la mattina e tiene puliti gli spazi?
+- Il dirigente scolastico è la persona che guida tutta la scuola.
+- Il pranzo della mensa lo preparano i ___.
+- La mamma deve iscrivere tuo fratello a scuola. A chi si rivolge?
+- Nel corridoio appena lavato c'è un cartello giallo. Che cosa vuol dire?
+- Perché è bello salutare e ringraziare chi lavora a scuola?
+- Scegli una persona che lavora nella tua scuola. Che cosa fa?
+
+## Chi sta davanti, chi dietro? [lib-1-elementare-geografia-davanti-dietro] · DIETRO
+concetti: Davanti; Dietro; Dipende dal punto di vista
+- Sei seduto al banco e guardi la lavagna. Dove si trova la lavagna?
+- Puoi vedere quello che hai dietro senza girarti.
+- Giochi a nascondino. Dove ti metti per non farti vedere?
+- Anna è davanti a Marco. Allora Marco è ___ ad Anna.
+- In macchina, dove si siede chi guida?
+- Sei in fila. Davanti hai Giulia, dietro hai Tommaso. Ti giri. Chi hai davanti ora?
+- Perché è pericoloso camminare all'indietro nel corridoio?
+- Pensa alla tua classe. Chi è seduto davanti a te? E chi dietro?
+
+## Come un uccellino dall'alto [lib-1-elementare-geografia-pianta-vista-dall-alto] · PIANTA
+concetti: La vista dall'alto; La pianta; Leggere la pianta
+- Un uccellino vola sopra un tavolo rotondo. Quale forma vede?
+- La pianta di una stanza è grande quanto la stanza vera.
+- Visto dall'alto, un banco rettangolare sembra...
+- Il disegno di un luogo visto dall'alto si chiama ___.
+- Sulla pianta dell'aula vedi tanti rettangoli uguali messi in file. Che cosa sono?
+- Perché dall'alto non vedi le gambe del tavolo?
+- Metti in ordine: come disegni la pianta della tua cameretta?
+- Sulla pianta della cameretta, come disegneresti il letto? Perché?
+
+## Come vai a scuola? [lib-1-elementare-geografia-come-vado-a-scuola] · BICI
+concetti: Il percorso casa-scuola; I mezzi per andare a scuola; Mezzi che non inquinano
+- Nel percorso casa-scuola del mattino, qual è il punto di arrivo?
+- Quale mezzo passa a prendere tanti bambini e li porta a scuola insieme?
+- Andare a scuola a piedi non inquina l'aria.
+- Chi abita molto vicino alla scuola può andarci a ___.
+- Metti in ordine il percorso di Anna da casa a scuola.
+- In molti paesi c'è il «piedibus». Che cos'è?
+- Marco abita lontano, in campagna, e lì non passa l'autobus. Come può arrivare a scuola?
+- Come vai tu a scuola? Che cosa vedi lungo la strada?
+
+## Dentro e fuori [lib-1-elementare-geografia-dentro-fuori] · DENTRO
+concetti: Dentro; Fuori; Entrare e uscire
+- Chiudi l'astuccio con le matite. Dove sono le matite?
+- Durante la ricreazione in cortile, i bambini sono fuori dall'aula.
+- Piove forte. Dove è meglio stendere i panni bagnati?
+- Per entrare in casa passi dalla ___.
+- Il cane è nel giardino con il recinto. Il cancello è aperto. Che cosa può succedere?
+- Metti in ordine: come prendi il quaderno dallo zaino?
+- Perché d'inverno teniamo chiuse le finestre?
+- Nomina una cosa che metti dentro lo zaino e una che lasci fuori.
+
+## Destra e sinistra di fronte [lib-1-elementare-geografia-destra-sinistra-di-fronte] · FRONTE
+concetti: Stessa direzione; Uno di fronte all'altro; Lo specchio
+- Tu e Leo guardate la lavagna, uno accanto all'altro. La tua destra e la sua sono dalla stessa parte.
+- Se tu e un amico guardate nella stessa ___, la vostra destra è dalla stessa parte.
+- Tutti guardano la lavagna. La maestra dice: «Alzate la mano destra». Come sono le mani alzate?
+- Sara è di fronte a te e alza la mano destra. Da che parte la vedi?
+- Alzi la mano destra davanti allo specchio. Che cosa fa il bambino nello specchio?
+- Perché a volte non capiamo la destra di chi ci sta di fronte?
+- Il nonno è di fronte a te e ha l'orologio al polso sinistro. Da che parte lo vedi?
+- Un amico è di fronte a te e non trova la sua destra. Come lo aiuti?
+
+## Di tutti o di qualcuno? [lib-1-elementare-geografia-spazi-pubblici-e-privati] · PIAZZA
+concetti: Spazi pubblici; Spazi privati; Rispettare gli spazi
+- Quale di questi è uno spazio pubblico?
+- Quale di questi è uno spazio privato?
+- Puoi entrare quando vuoi nel giardino privato di una persona che non conosci.
+- Strade, piazze e parchi sono spazi ___.
+- Perché nel parco pubblico non si rovinano le panchine?
+- Vuoi giocare nel giardino della tua amica. Che cosa fai?
+- Chi si occupa dei giardini pubblici della città?
+- Fai un esempio di spazio pubblico e uno di spazio privato.
+
+## Fatto dalla natura o dall'uomo? [lib-1-elementare-geografia-naturale-e-artificiale] · NATURA
+concetti: Elementi naturali; Elementi artificiali; L'uomo cambia il paesaggio
+- Quale di questi è un elemento naturale?
+- Quale di questi è un elemento artificiale?
+- Un ponte sul fiume è un elemento naturale.
+- Il mare, le montagne e i boschi sono elementi ___.
+- In montagna l'uomo ha scavato una galleria. A che cosa serve?
+- Prima qui c'era un prato. Ora c'è un parcheggio. Che cosa è successo?
+- In un paesaggio vedi un albero, una casa, un sasso e una panchina. Quanti elementi naturali ci sono?
+- Guardi fuori dalla finestra: che cosa vedi di naturale e di artificiale?
+
+## Frecce e quadretti [lib-1-elementare-geografia-frecce-e-quadretti] · FRECCIA
+concetti: Le frecce; Muoversi sui quadretti; Contare i passi; Tornare indietro
+- Quale freccia vuol dire «vai a destra»?
+- Sul reticolo, la freccia ↑ vuol dire...
+- Le frecce → → vogliono dire: due caselle a destra.
+- Sul reticolo il robot si sposta di una ___ per ogni freccia.
+- Il robot segue il codice → → → ↓. Quanti passi fa in tutto?
+- Il robot ha fatto → →. Quali frecce servono per tornare alla partenza?
+- Il coniglio è 2 caselle a sinistra della carota, sulla stessa riga. Quale codice lo porta alla carota?
+- Il robot ha fatto ↑ e poi →. Spiega come torna alla partenza.
+
+## Gli spazi della scuola [lib-1-elementare-geografia-spazi-della-scuola] · SCUOLA
+concetti: Tanti spazi; Spazi per passare; Spazi di tutti
+- Quale di questi è uno spazio della scuola?
+- Come si chiama il grande spazio dove entri appena arrivi a scuola?
+- La palestra della scuola la usa una sola classe.
+- Per andare dall'aula al bagno cammini nel ___.
+- Perché in palestra e in mensa le classi vanno a turno?
+- Una scuola ha 5 aule al piano terra e 5 aule al primo piano. Quante aule ci sono in tutto?
+- La tua aula è al primo piano e la mensa al piano terra. Come ci arrivi?
+- Qual è lo spazio della scuola che ti piace di più? Perché?
+
+## I simboli della mappa [lib-1-elementare-geografia-simboli-legenda] · SIMBOLO
+concetti: Che cos'è un simbolo; Simboli intorno a noi; La legenda; I colori della mappa
+- Per strada vedi una croce verde luminosa. Che cosa c'è lì?
+- Che cosa indica una grande P bianca su un cartello blu?
+- Un simbolo deve essere semplice, così tutti lo capiscono subito.
+- Il riquadro che spiega i simboli di una mappa si chiama ___.
+- Su una mappa vedi una macchia azzurra. Che cosa sarà, di solito?
+- Nella legenda, l'alberello vuol dire «bosco». Sulla mappa vedi tanti alberelli. Che cosa c'è lì?
+- Perché sulle mappe si usano simboli e non disegni grandi e pieni di dettagli?
+- Inventa un simbolo per la tua scuola. Come lo disegni?
+
+## Il bagno e l'igiene [lib-1-elementare-geografia-bagno] · SAPONE
+concetti: A che cosa serve il bagno; Gli oggetti del bagno; Buone abitudini
+- Dove ti lavi tutto il corpo?
+- A che cosa serve l'asciugamano?
+- Mentre ti lavi i denti, è meglio lasciare il rubinetto sempre aperto.
+- Prima di mangiare ci si lava le ___.
+- Metti in ordine: come ti lavi le mani?
+- Perché in bagno spesso c'è una finestra o un aspiratore?
+- Dopo la doccia il pavimento del bagno è bagnato. Che cosa è meglio fare?
+- Perché il bagno è una stanza importante per la salute?
+
+## Il gioco delle posizioni [lib-1-elementare-geografia-ripasso-posizioni] · POSTO
+concetti: Parole per dire dove; Rispetto a che cosa; Le coppie di contrari
+- La parola «sotto» ci dice...
+- Quale coppia è fatta di due contrari?
+- Esci dall'aula. Prima eri dentro, ora sei...
+- La palla è sotto il tavolo. Allora la palla è anche sopra il pavimento.
+- Il gatto si nasconde ___ al divano e nessuno lo vede.
+- La mamma dice: «Le chiavi sono dentro la borsa, accanto al portafoglio». Dove cerchi?
+- Lo zaino è sotto il banco. Il banco è vicino alla finestra. Dov'è lo zaino?
+- Descrivi dov'è la tua cartella usando due parole di posizione.
+
+## Il mio banco in ordine [lib-1-elementare-geografia-banco-e-zaino] · ZAINO
+concetti: Il mio spazio; Che cosa c'è sul banco; Lo zaino
+- Durante il dettato, che cosa serve sul banco?
+- Posso prendere le cose dal banco del compagno senza chiedere.
+- Quando conviene preparare lo zaino?
+- Sul banco, matite e gomma stanno in ordine nell'___.
+- Metti in ordine: come prepari lo zaino?
+- Il tuo banco è pieno di fogli e giochi. Che cosa succede?
+- Perché lo zaino troppo pesante non fa bene?
+- Che cosa fai a fine lezione per lasciare il banco in ordine?
+
+## In alto a destra del foglio [lib-1-elementare-geografia-spazio-del-foglio] · FOGLIO
+concetti: Le parti del foglio; Gli angoli; Come si scrive
+- Da dove cominci a scrivere sulla pagina del quaderno?
+- Quanti angoli ha un foglio del quaderno?
+- In italiano si scrive da destra verso sinistra.
+- La maestra dice: «Scrivi la data in ___, sopra il disegno».
+- Disegni il sole vicino all'angolo in alto, dalla parte della mano destra. Come si chiama quell'angolo?
+- Vuoi disegnare un prato con un fiore. Dove disegni il prato?
+- Metti in ordine: come scrivi su una pagina?
+- Perché il cielo si disegna nella parte alta del foglio?
+
+## In campagna tra i campi [lib-1-elementare-geografia-paesaggio-di-campagna] · CAMPO
+concetti: La campagna; La collina; Il lavoro in campagna
+- Che cosa trovi di solito in campagna?
+- Rispetto alla montagna, la collina è...
+- In fattoria si allevano animali come mucche e galline.
+- Il contadino usa il ___ per lavorare la terra.
+- Metti in ordine il lavoro del contadino con il grano.
+- Sulle colline italiane si coltivano spesso...
+- Perché in campagna le case sono spesso lontane una dall'altra?
+- Quale cibo che mangi viene dalla campagna? Spiega.
+
+## In cucina si prepara [lib-1-elementare-geografia-cucina] · FORNO
+concetti: A che cosa serve la cucina; Gli oggetti della cucina; Attenzione in cucina
+- Dove si tengono al fresco il latte e lo yogurt?
+- I bambini possono accendere i fornelli da soli.
+- Dove si lavano a mano i piatti sporchi?
+- La torta si cuoce nel ___.
+- Metti in ordine: come si cuoce la pasta?
+- Quale di queste cose fai di solito in cucina?
+- Sul fuoco c'è una pentola con il manico che sporge. Che cosa fai?
+- Perché in cucina bisogna stare attenti?
+
+## In giro per il quartiere [lib-1-elementare-geografia-quartiere] · NEGOZIO
+concetti: Che cos'è il quartiere; I negozi; I servizi
+- Dove compri il pane fresco?
+- Dove si comprano le medicine?
+- Il quartiere è la zona intorno alla casa dove abiti.
+- Le mele e le banane si comprano dal ___.
+- La nonna deve spedire una lettera. Dove va?
+- Hai la febbre da tre giorni. Da chi ti porta la mamma?
+- Perché è comodo avere negozi e servizi nel quartiere?
+- Che cosa c'è nel tuo quartiere?
+
+## In mezzo e accanto [lib-1-elementare-geografia-in-mezzo-accanto] · MEZZO
+concetti: Accanto; In mezzo, cioè tra; Il centro
+- Al banco, il compagno che sta di fianco a te è...
+- Nel panino, dove sta il formaggio?
+- Il calcio d'inizio di una partita di calcio si batte al centro del campo.
+- In fila, Marta è tra Ugo e Pia. Marta sta in ___.
+- Sei seduto tra Paolo e Lia. Quanti compagni hai accanto?
+- Vuoi mettere il vaso al centro del tavolo. Dove lo metti?
+- Due amici vogliono leggere lo stesso libro. Come conviene sedersi?
+- Scrivi tre giochi in fila. Quale sta in mezzo?
+
+## In palestra si gioca [lib-1-elementare-geografia-palestra] · PALLA
+concetti: A che cosa serve la palestra; Gli attrezzi; Regole e sicurezza
+- Perché la palestra è una stanza molto grande?
+- Su che cosa fai le capriole in palestra?
+- In palestra si entra con le scarpe da ginnastica pulite.
+- Per saltare dentro e fuori si usano i ___ colorati appoggiati a terra.
+- Metti in ordine una lezione di ginnastica.
+- Perché si fa il riscaldamento prima di correre?
+- Quali attrezzi usi per fare uno slalom?
+- Perché in palestra bisogna ascoltare l'insegnante?
+
+## In vacanza al mare [lib-1-elementare-geografia-paesaggio-di-mare] · SABBIA
+concetti: Gli elementi del mare; La costa; Il mare e l'uomo
+- Com'è l'acqua del mare?
+- Le onde sono acqua del mare che si muove.
+- Dove si fermano le barche quando tornano a riva?
+- Le grandi rocce in riva al mare si chiamano ___.
+- Una spiaggia di sabbia fine si trova di solito su una costa...
+- Quale di questi elementi del mare è costruito dall'uomo?
+- Perché d'estate al mare arrivano tanti turisti?
+- Descrivi il mare con una frase: che cosa vedi?
+
+## La mia aula [lib-1-elementare-geografia-aula] · LAVAGNA
+concetti: Che cos'è l'aula; Gli arredi dell'aula; Come sono messi i banchi
+- Dove si siede di solito la maestra, in aula?
+- Dove butti la carta che non serve più?
+- I banchi sono spesso girati verso la lavagna, così tutti la vedono.
+- La stanza dove la classe fa lezione si chiama ___.
+- Perché chi vede poco spesso si siede nei primi banchi?
+- Dove si tengono in ordine i libri e i quaderni della classe?
+- Perché l'aula ha finestre grandi?
+- Scrivi tre oggetti che ci sono nella tua aula.
+
+## La mia cameretta [lib-1-elementare-geografia-camera-da-letto] · CUSCINO
+concetti: Una stanza per riposare; I mobili della camera; Tenere in ordine
+- Dove metti i vestiti puliti in camera?
+- Quale mobile sta accanto al letto e regge la lampada per leggere?
+- La camera da letto serve soprattutto per cucinare.
+- A fine giornata i giochi vanno messi nella ___.
+- Metti in ordine: che cosa fai la sera, in camera?
+- Perché è utile avere la camera in ordine?
+- Perché la sera in camera si chiudono le tende o si abbassano le tapparelle?
+- Descrivi la tua cameretta: quali mobili ci sono?
+
+## La mia destra, la mia sinistra [lib-1-elementare-geografia-destra-sinistra] · DESTRA
+concetti: Due lati del corpo; Un trucco per ricordare; Destra e sinistra intorno a te
+- Alcune parti del corpo sono due: una a destra e una a sinistra. Quale?
+- Chi scrive con la mano sinistra si chiama mancino.
+- Giochi a campana. Hai saltato sul piede destro, ora cambi piede. Quale usi?
+- Abbiamo due occhi: uno destro e uno ___.
+- Per non confondere la mano destra, che cosa puoi fare?
+- Hai la matita nella mano destra e la gomma nella sinistra. Le scambi. Dov'è la gomma?
+- Al banco hai la finestra a destra. Ti giri verso il fondo dell'aula. Dove sarà la finestra?
+- Guardati intorno: che cosa c'è alla tua destra? E alla tua sinistra?
+
+## La pianta della mia casa [lib-1-elementare-geografia-pianta-della-casa] · PORTA
+concetti: La pianta della casa; Muri e porte; Muoversi sulla pianta
+- Per disegnare la pianta, immagini la casa vista...
+- Sulla pianta, per passare da una stanza all'altra devi trovare una porta.
+- Sulla pianta, il soggiorno è la stanza disegnata più grande. Che cosa vuol dire?
+- Con il dito vai dalla camera al bagno passando per il ___.
+- Sulla pianta vedi un lavandino, una doccia e un water. Che stanza è?
+- Sulla pianta, tra la cucina e il soggiorno c'è una porta. Che cosa vuol dire?
+- Sulla pianta segui il percorso dalla porta di casa alla tua camera.
+- A che cosa può servire la pianta di una casa?
+
+## La prova di evacuazione [lib-1-elementare-geografia-prova-di-evacuazione] · USCITA
+concetti: A che cosa serve la prova; L'allarme e la fila; Uscite e punto di raccolta
+- Di che colore è il cartello dell'uscita di emergenza?
+- Quando suona l'allarme, prima di uscire si prende lo zaino.
+- Durante la prova, come si esce dall'aula?
+- Fuori, la classe si ritrova nel punto di ___.
+- Metti in ordine che cosa succede durante la prova di evacuazione.
+- Come si chiama il bambino che sta in fondo alla fila ed esce per ultimo?
+- Perché al punto di raccolta la maestra fa l'appello?
+- Perché la scuola fa la prova di evacuazione anche quando non c'è pericolo?
+
+## Le strade della città [lib-1-elementare-geografia-paesaggio-di-citta] · PALAZZO
+concetti: Com'è la città; Muoversi in città; Vivere meglio in città
+- Che cosa vedi soprattutto in una grande città?
+- Quale mezzo corre sui binari lungo le strade della città?
+- Quando ci sono tante auto in coda si dice che c'è traffico.
+- Il treno che corre sotto terra in città si chiama ___.
+- Perché in città si costruiscono le piste ciclabili?
+- Che cosa aiuta ad avere aria più pulita in città?
+- Rispetto a un piccolo paese, una grande città ha...
+- Perché in città è utile prendere l'autobus invece dell'auto?
+
+## Linee, confini e regioni [lib-1-elementare-geografia-confini-regioni] · CONFINE
+concetti: Linea aperta e linea chiusa; Il confine; Regione interna ed esterna
+- Quale di queste è una linea chiusa?
+- Una linea aperta ha un inizio e una fine.
+- Intorno al prato c'è un recinto chiuso. A che cosa serve?
+- La parte di foglio dentro il confine è la regione ___.
+- Una pecora è fuori dal recinto. In quale regione si trova?
+- Disegni un cerchio ma lasci un buco nella linea. Che linea è?
+- In un campo da calcio, a che cosa servono le righe bianche intorno?
+- Disegni un cerchio e metti dentro una stella. Dove si trova la stella?
+
+## Lo vedo da qui [lib-1-elementare-geografia-punti-di-vista] · VISTA
+concetti: Il punto di vista; Di fronte, di lato, di dietro; Cose nascoste
+- Che cos'è il punto di vista?
+- Se cambi posto, vedi le cose sempre nello stesso modo.
+- Guardi una tazza con il manico a destra. Vai dalla parte opposta del tavolo. Dove vedi il manico?
+- Vuoi guardare una casetta, ma un grande albero te la copre. Che cosa puoi fare?
+- Guardo la mia casa di fronte: vedo il portone e le ___.
+- Al cinema, un signore alto si siede davanti a te. Che cosa succede?
+- Tu guardi Lisa di fronte e vedi la sua faccia. Che cosa vede chi sta dietro di lei?
+- Un bambino è sul balcone e uno è in strada. Perché vedono il cortile in modo diverso?
+
+## Mobili e oggetti di casa [lib-1-elementare-geografia-arredi-della-casa] · ARMADIO
+concetti: Gli arredi; Ogni mobile ha una funzione; Fissi e spostabili
+- A che cosa serve la sedia?
+- Su quale mobile appoggi il piatto quando pranzi?
+- Il lavandino si può spostare facilmente da una stanza all'altra.
+- I mobili e gli oggetti che arredano una stanza si chiamano ___.
+- Quale di questi oggetti puoi spostare senza fatica?
+- Se togli tutti i mobili dalla cameretta, che cosa succede?
+- Perché il tavolo ha il piano liscio e dritto?
+- Scegli un mobile di casa tua e spiega a che cosa serve.
+
+## Ogni spazio ha le sue regole [lib-1-elementare-geografia-regole-degli-spazi] · REGOLA
+concetti: Perché servono le regole; Regole in classe; Corridoi e scale
+- In classe vuoi dire qualcosa. Che cosa fai?
+- Sulle scale della scuola si può correre se si è in ritardo.
+- Perché le regole sono utili?
+- Nel corridoio si ___ con calma, senza correre.
+- Durante la lezione devi andare in bagno. Che cosa fai?
+- Sulle scale si tiene la destra. Perché?
+- In quale di questi spazi della scuola puoi correre?
+- Scrivi una regola della tua classe e spiega a che cosa serve.
+
+## Racconta un percorso [lib-1-elementare-geografia-descrivere-un-percorso] · PASSI
+concetti: Che cos'è un percorso; Partenza e arrivo; Parole per guidare
+- Che cos'è un percorso?
+- Vai dalla cucina al bagno. Qual è il punto di partenza?
+- In un percorso, l'arrivo è il posto dove finisci.
+- Per spiegare un percorso dici: «Vai avanti e poi ___ a destra».
+- Luca va dal suo banco al cortile. Metti in ordine il suo percorso.
+- Sei davanti alla porta e la guardi. Fai due passi indietro. Che cosa succede?
+- Due bambini vanno dal cancello allo scivolo passando da strade diverse. È possibile?
+- Spiega a un amico come andare dal tuo banco alla lavagna.
+
+## Ricreazione in cortile [lib-1-elementare-geografia-cortile] · CORTILE
+concetti: Il cortile della scuola; La ricreazione; Giocare in sicurezza
+- Il cortile della scuola è uno spazio...
+- Che cosa si fa di solito durante la ricreazione?
+- Durante la ricreazione puoi uscire dal cancello da solo.
+- La ricreazione è una ___ tra una lezione e l'altra.
+- Un compagno cade e si sbuccia il ginocchio. Che cosa fai?
+- Piove forte. Dove si fa la ricreazione?
+- Perché in cortile non si lanciano sassi?
+- Qual è il tuo gioco preferito in cortile? Come si gioca?
+
+## Segui i punti di riferimento [lib-1-elementare-geografia-punti-di-riferimento] · FARO
+concetti: Che cos'è un punto di riferimento; Deve restare fermo; Usarli nei percorsi
+- In piazza, quale di questi è un buon punto di riferimento?
+- Un'auto parcheggiata è un buon punto di riferimento.
+- Perché il campanile è un ottimo punto di riferimento?
+- «Arrivato al semaforo, gira a sinistra.» Il semaforo è un punto di ___.
+- La mamma dice: «Passa il parco e gira dopo la farmacia». Quali sono i punti di riferimento?
+- In classe, quale oggetto è un buon punto di riferimento?
+- Ugo dice: «Gira dove c'è il cane che dorme». Perché non è un buon consiglio?
+- Qual è un punto di riferimento sulla strada tra casa tua e la scuola?
+
+## Silenzio, si legge! [lib-1-elementare-geografia-biblioteca] · LIBRO
+concetti: Che cos'è la biblioteca; Il prestito; Le regole della biblioteca
+- Che cosa trovi soprattutto in una biblioteca?
+- In biblioteca si parla a voce alta per farsi sentire.
+- Hai preso un libro in prestito. Che cosa fai dopo averlo letto?
+- In biblioteca i libri stanno in ordine sugli ___.
+- Hai finito di sfogliare un libro preso dallo scaffale. Che cosa fai?
+- Perché i libri si sfogliano con le mani pulite?
+- Perché si dice che i libri della biblioteca sono di tutti?
+- Spiega a un amico come ci si comporta in biblioteca.
+
+## Sopra o sotto? [lib-1-elementare-geografia-sopra-sotto] · SOTTO
+concetti: Che cosa vuol dire sopra; Che cosa vuol dire sotto; Dipende da cosa guardi
+- Il gatto dorme sul letto. Dove si trova il gatto?
+- La palla è rotolata sotto il letto. Dove devi guardare?
+- Se metti un piatto sul tavolo, il piatto è sopra il tavolo.
+- Il tappeto è steso sul pavimento. Il pavimento è ___ il tappeto.
+- Il libro è sopra il quaderno. Allora il quaderno è...
+- Una pila: in alto il libro, poi il quaderno, in basso l'astuccio. Dov'è il quaderno?
+- Nel cono, la fragola è sopra il cioccolato e il cioccolato è sopra la crema. Metti in ordine dall'alto al bas…
+- Guarda sotto il tuo banco o sotto il tavolo. Che cosa c'è? Scrivi una frase.
+
+## Su in alto, giù in basso [lib-1-elementare-geografia-in-alto-in-basso] · ALTO
+concetti: In alto; In basso; Più in alto, più in basso
+- Dove si trovano le nuvole?
+- In un albero, quale parte sta più in basso?
+- Il soffitto è la parte più in alto di una stanza.
+- Il fratellino non arriva ai biscotti: sono troppo in ___.
+- Sei in piedi. Metti in ordine le parti del corpo, dalla più in alto alla più in basso.
+- Lo scaffale ha tre ripiani. Dove metti i giochi del fratellino piccolo?
+- Un gatto è salito sulla cima di un albero. Perché i pompieri usano una scala lunga?
+- Che cosa c'è in alto nella tua cameretta? E in basso?
+
+## Su in montagna [lib-1-elementare-geografia-paesaggio-di-montagna] · VETTA
+concetti: Le parti della montagna; Il freddo e la neve; Vivere in montagna
+- Come si chiama il punto più alto di una montagna?
+- Sulle cime alte delle montagne spesso c'è la neve.
+- Come si chiama lo spazio basso tra due montagne?
+- D'inverno in montagna si va a ___ sulla neve.
+- Metti in ordine le parti della montagna, dal basso all'alto.
+- Vai in gita sulla cima di una montagna. Che cosa metti nello zaino?
+- Dove si possono riposare e mangiare gli escursionisti in alta montagna?
+- Perché in montagna ci si veste più pesante che al mare?
+
+## Tutti in fila! [lib-1-elementare-geografia-in-fila] · FILA
+concetti: Primo e ultimo; Prima di te e dopo di te; Contare i posti
+- In una fila, chi arriva per primo alla porta?
+- L'ultimo della fila è quello in testa.
+- In fila ci sono Ada, Bea, Ciro e Dino, in questo ordine. In che posto è Ciro?
+- Nella fila, chi viene subito dopo di te sta ___ di te.
+- Metti in ordine i posti della fila, dall'inizio alla fine.
+- Sei il terzo della fila. Quanti bambini ci sono prima di te?
+- In una fila ci sono 6 bambini. L'ultimo va via. Chi è adesso l'ultimo?
+- Perché è utile mettersi in fila per uscire dall'aula?
+
+## Tutti insieme in soggiorno [lib-1-elementare-geografia-soggiorno] · DIVANO
+concetti: A che cosa serve il soggiorno; I mobili del soggiorno; Accogliere gli ospiti
+- Su quale mobile del soggiorno ci si siede in tanti insieme?
+- Il soggiorno è la stanza dove la famiglia sta insieme.
+- In soggiorno, dove metti in ordine i libri?
+- Il soggiorno si chiama anche ___.
+- Arrivano i nonni per la festa. Dove li fai accomodare?
+- Quale di queste attività si fa di solito in soggiorno?
+- Il tavolino del soggiorno è basso. Perché è comodo?
+- Che cosa fai in soggiorno con la tua famiglia?
+
+## Una casa, tante stanze [lib-1-elementare-geografia-stanze-della-casa] · STANZA
+concetti: Le stanze; A che cosa serve ogni stanza; Ingresso e corridoio
+- In quale stanza dormi la notte?
+- In quale stanza fai la doccia?
+- Il corridoio è un passaggio che collega le stanze.
+- Quando entri in casa, il primo spazio che trovi è l'___.
+- Quale di questi NON è una stanza della casa?
+- Perché in cucina c'è il lavello e in camera no?
+- Torni a casa con le scarpe sporche di fango. Dove le togli?
+- Qual è la tua stanza preferita della casa? Che cosa ci fai?
+
+## Vicino o lontano? [lib-1-elementare-geografia-vicino-lontano] · LONTANO
+concetti: Vicino; Lontano; Più vicino, più lontano; Da lontano sembra piccolo
+- Quale cosa puoi prendere senza alzarti dal banco?
+- Un aereo alto nel cielo sembra piccolo perché è lontano.
+- I nonni abitano in un'altra città. Che cosa ti serve per andare da loro?
+- La palla è a 3 passi da me, la bici a 10 passi. La palla è più ___.
+- Leo fa 5 passi per arrivare alla porta e 8 per arrivare alla finestra. Che cosa è più lontano?
+- Vedi una casa in cima a una collina lontana. Sembra piccolissima. Com'è davvero?
+- La mamma ti chiama dal fondo del giardino. Che cosa fa per farsi sentire?
+- Che cosa c'è vicino a casa tua? E che cosa è lontano?

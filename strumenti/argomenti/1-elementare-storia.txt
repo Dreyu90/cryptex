@@ -1,0 +1,553 @@
+# 1ª elementare · Storia: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A scuola con il pennino [lib-1-elementare-storia-scuola-di-una-volta] · PENNINO
+concetti: Pennino e calamaio; La classe di una volta; Ieri e oggi a scuola
+- Con cosa scrivevano a scuola i bambini di tanto tempo fa?
+- Tanto tempo fa a scuola c'erano i computer.
+- Che cos'era il calamaio?
+- Una volta i banchi avevano un buco per il ___.
+- Cosa poteva succedere scrivendo con il pennino?
+- Quale oggetto c'era a scuola una volta e c'è ancora oggi?
+- Metti in ordine: scrivi con il pennino.
+- Perché oggi scrivere è più facile che con il pennino?
+
+## Arriva la sera: buonanotte! [lib-1-elementare-storia-la-sera] · PIGIAMA
+concetti: Quando è sera; La cena; Prepararsi a dormire; Il sonno
+- Papà dice: «Stasera mangiamo la pizza». Quando la mangerete?
+- Perché la sera è più facile cenare tutti insieme?
+- Il pigiama si mette la mattina per andare a scuola.
+- Prima di andare a letto mi lavo i ___.
+- Perché di notte dormiamo?
+- Metti in ordine la tua sera.
+- Domani hai scuola. Cosa è meglio fare stasera?
+- Cosa succede se la sera vai a letto molto tardi?
+
+## Buon compleanno, un anno in più [lib-1-elementare-storia-compleanno] · TORTA
+concetti: Il giorno della nascita; Un anno in più; Una volta all'anno; Le candeline contano gli anni
+- Cosa festeggi il giorno del compleanno?
+- Il compleanno arriva una volta al mese.
+- Sara compie 7 anni. Quante candeline ci sono sulla torta?
+- Ho 6 anni. Al prossimo compleanno ne avrò ___.
+- Leo compie gli anni il 3 maggio. E l'anno prossimo?
+- Tom ha 6 anni e sua sorella 8. La sorella è nata prima.
+- Metti in ordine la festa di compleanno.
+- Perché ogni anno sulla torta c'è una candelina in più?
+
+## Buongiorno! La mia mattina [lib-1-elementare-storia-il-mattino] · SVEGLIA
+concetti: Il risveglio; Prepararsi per uscire; In tempo per la scuola
+- Qual è la prima cosa che fai la mattina?
+- La colazione dà energia per cominciare la giornata.
+- Dopo colazione, cosa è meglio fare?
+- La ___ suona e mi dice che è ora di alzarmi.
+- Sei in ritardo per la scuola. Cosa NON fai?
+- Metti in ordine la tua mattina.
+- Perché è utile preparare lo zaino la sera prima?
+- Perché non conviene spegnere la sveglia e dormire ancora?
+
+## Chiedo ai grandi: racconta! [lib-1-elementare-storia-racconti-dei-grandi] · VOCE
+concetti: Chi ricorda; Fare domande; Racconti diversi
+- Chi può raccontarti com'era la scuola tanti anni fa?
+- Chi ha visto un fatto può raccontarlo.
+- Vuoi sapere a cosa giocava il nonno da piccolo. Cosa fai?
+- Per intervistare la nonna preparo delle ___.
+- Quale domanda è adatta a un'intervista al nonno?
+- Nonno e nonna raccontano la stessa gita in modo un po' diverso. Perché?
+- Metti in ordine: fai un'intervista alla nonna.
+- Perché è utile chiedere a più persone com'era una festa?
+
+## Cosa farò? Il futuro [lib-1-elementare-storia-futuro-e-progetti] · FUTURO
+concetti: Il futuro; Futuro vicino e lontano; I progetti; Le parole del futuro
+- Luca dice: «Sabato prossimo andrò al mare». Quando ci andrà?
+- Il futuro è il tempo delle cose già successe.
+- Quale momento è un futuro lontano?
+- Il mese ___ andremo in gita al lago.
+- Vuoi fare una festa sabato. Cosa fai prima?
+- Metti in ordine dal futuro più vicino al più lontano.
+- Che cos'è un progetto?
+- Cosa vorresti fare da grande? Rispondi usando «farò».
+
+## Cose che tornano sempre [lib-1-elementare-storia-ciclicita] · GIRO
+concetti: Cosa vuol dire ciclico; I cicli del tempo; Cose che non tornano
+- Cosa vuol dire che una cosa è ciclica?
+- Fare colazione è un fatto ciclico: torna ogni mattina.
+- Quale di questi fatti si ripete ogni giorno?
+- Il giorno e la notte si ___ sempre.
+- Quale di queste cose NON si ripete come un ciclo?
+- Quale fatto torna una volta all'anno?
+- Quale di queste cose succede una volta sola?
+- Perché crescere non è come le stagioni?
+
+## Cresco e cambio [lib-1-elementare-storia-cresco-e-cambio] · DENTI
+concetti: Divento più alto; Vestiti e scarpe; I denti da latte; Imparo cose nuove
+- Cosa succede al tuo corpo quando cresci?
+- Verso i 6 anni cominciano a cadere i denti da latte.
+- Le scarpe di due anni fa non ti entrano più. Perché?
+- Al posto del dente da latte caduto cresce un dente ___.
+- Prima Giulia andava in bici con le rotelle. Ora va senza. Cosa è cambiato?
+- Come puoi vedere quanto sei cresciuto?
+- Crescendo cambia solo il corpo, non quello che sai fare.
+- Perché a molti bambini di 6 anni manca qualche dente?
+
+## Dal grano al pane [lib-1-elementare-storia-dal-grano-al-pane] · GRANO
+concetti: Il grano cresce; Dalla spiga alla farina; Dalla farina al pane; Ci vuole tempo
+- Da dove viene la farina del pane?
+- Il grano cresce nei campi.
+- Dove si macinano i chicchi per fare la farina?
+- Il fornaio cuoce il pane nel ___.
+- Metti in ordine la storia del pane.
+- Il contadino semina il grano oggi. Quando potrà raccoglierlo?
+- Cosa mette il fornaio nell'impasto per farlo gonfiare?
+- Perché si dice che il pane ha una lunga storia?
+
+## Dal seme al fiore [lib-1-elementare-storia-dal-seme-al-fiore] · SEME
+concetti: Il seme; Le fasi della crescita; Cosa serve; Ci vuole tempo
+- Da cosa nasce una pianta di girasole?
+- Un seme diventa un fiore in un solo giorno.
+- Cosa serve alla piantina per crescere?
+- Dal seme spunta prima un piccolo ___.
+- Metti in ordine la crescita della pianta di fagiolo.
+- Lasci un vasetto al buio e senza acqua. Cosa succede?
+- Semini un fagiolo oggi. Quando vedrai il germoglio?
+- Perché bisogna avere pazienza quando si pianta un seme?
+
+## Dall'uovo al pulcino [lib-1-elementare-storia-dall-uovo-al-pulcino] · PULCINO
+concetti: L'uovo; La cova; Il pulcino cresce
+- Da dove nasce un pulcino?
+- La gallina cova le uova per tenerle al caldo.
+- Come esce il pulcino dall'uovo?
+- La gallina cova le uova per circa tre ___.
+- Metti in ordine la storia del pulcino.
+- Com'è un pulcino appena nato?
+- Tutte le uova diventano pulcini.
+- Cosa succede al pulcino con il passare del tempo?
+
+## Dodici mesi in un anno [lib-1-elementare-storia-mesi-dell-anno] · DODICI
+concetti: Dodici mesi; L'ordine dei mesi; I giorni dei mesi; L'anno ricomincia
+- Quanti mesi ha un anno?
+- Qual è il primo mese dell'anno?
+- Maggio viene dopo aprile.
+- Più o meno quanti giorni ha un mese?
+- Dopo dicembre arriva ___ e comincia un anno nuovo.
+- Metti in ordine questi mesi.
+- Quale mese viene subito prima di ottobre?
+- Qual è il mese più corto e quanti giorni ha?
+
+## Evviva, è il fine settimana! [lib-1-elementare-storia-fine-settimana] · SABATO
+concetti: Sabato e domenica; Giorni di scuola; Contare i giorni
+- Quali giorni formano il fine settimana?
+- La domenica è l'ultimo giorno della settimana.
+- Marco va a scuola dal lunedì al venerdì. Quanti giorni sono?
+- Oggi è giovedì. Quanti giorni mancano a sabato?
+- Il fine settimana comincia con il ___.
+- Metti in ordine: dalla fine della scuola alla nuova settimana.
+- Perché la domenica molte famiglie stanno insieme?
+- Oggi è venerdì. Perché tanti bambini sono contenti?
+
+## I giochi dei nonni [lib-1-elementare-storia-giochi-di-una-volta] · BIGLIE
+concetti: Giochi semplici; Materiali di una volta; Giochi di ieri e oggi; Giocare all'aperto
+- Quale gioco NON c'era quando i bisnonni erano bambini?
+- Il nascondino si gioca ancora oggi.
+- Di cosa è fatta una bambola di pezza?
+- La ___ gira veloce sulla sua punta.
+- Cosa serve per giocare a campana?
+- Dove giocavano spesso i bambini di una volta?
+- I giocattoli dei bisnonni erano tutti di plastica.
+- Perché i bambini di una volta non giocavano ai videogiochi?
+
+## Ieri, oggi e domani [lib-1-elementare-storia-ieri-oggi-domani] · DOMANI
+concetti: Oggi è adesso; Ieri è passato; Domani deve arrivare; Le parole del tempo
+- Come si chiama il giorno che stai vivendo adesso?
+- Ieri è un giorno già passato.
+- Oggi è martedì. Che giorno sarà domani?
+- Oggi è venerdì. Che giorno era ieri?
+- Domani ___ al parco con la nonna.
+- Quale frase parla di una cosa già successa?
+- Metti in ordine le frasi: dalla cosa già successa a quella che deve ancora succedere.
+- Oggi fai una gita. Domani come la racconterai?
+
+## Il calendario segna i giorni [lib-1-elementare-storia-calendario] · DATA
+concetti: A cosa serve il calendario; La data; Segnare gli impegni; Una pagina per mese
+- Cosa guardi per sapere che giorno è?
+- Un calendario da muro ha spesso una pagina per ogni mese.
+- Quale di queste è una data?
+- Nella data 25 dicembre, il mese è ___.
+- Perché la mamma scrive «dentista» sul calendario?
+- Oggi è il 4 giugno. Che data sarà domani?
+- Metti in ordine queste date di marzo.
+- Perché è utile segnare i compleanni sul calendario?
+
+## Il diario di ieri [lib-1-elementare-storia-diario-della-giornata] · DIARIO
+concetti: Che cos'è un diario; Ricostruire la giornata; Usare gli orari
+- Cosa si scrive in un diario?
+- Per scrivere il diario di ieri devo ricordare cosa ho fatto.
+- Racconti la tua giornata di ieri. Da dove cominci?
+- Nel diario scrivo: «Alle 8 di ___ sono entrato a scuola».
+- Nel diario: «alle 7 colazione, alle 8 scuola». Cosa viene prima?
+- Metti in ordine il diario di Mia.
+- Perché tante persone scrivono un diario?
+- Racconta in una frase cosa hai fatto ieri pomeriggio.
+
+## Il pomeriggio dopo la scuola [lib-1-elementare-storia-il-pomeriggio] · MERENDA
+concetti: Quando è pomeriggio; La merenda; Compiti e gioco
+- Sono le 3 e hai pranzato da un po'. Che parte della giornata è?
+- Tra quali pasti si fa la merenda del pomeriggio?
+- Dopo il pomeriggio viene la sera.
+- Alle quattro del pomeriggio mangio la ___.
+- Cosa fai di solito di pomeriggio, dopo la scuola?
+- Dopo la merenda e i compiti arriva l'ora di cena. Quale parte della giornata comincia?
+- Metti in ordine i pasti, da mezzogiorno alla sera.
+- Perché la merenda deve essere piccola?
+
+## Il sole sorge e tramonta [lib-1-elementare-storia-alba-e-tramonto] · NOTTE
+concetti: Dì e notte; Alba e tramonto; Giornate lunghe e corte; Chi vive di notte
+- Fuori è buio, si vedono le stelle e tutti dormono. Che momento è?
+- Come si chiama il momento in cui il sole sorge?
+- Al tramonto il sole scende e il cielo si fa scuro.
+- D'inverno il sole tramonta ___ e fa buio prima.
+- Quale animale è sveglio di notte?
+- Metti in ordine cosa succede in un giorno.
+- D'estate, dopo cena, fuori c'è ancora luce. Perché?
+- Perché il gufo dorme di giorno?
+
+## Il tempo cambia le cose [lib-1-elementare-storia-il-tempo-trasforma] · GELATO
+concetti: Le cose cambiano; Cambiamenti veloci e lenti; Cambiamenti che restano
+- Lasci il pane fuori per tre giorni. Come diventa?
+- Un uovo cotto può tornare crudo.
+- Quale cambiamento è velocissimo?
+- Una mela tagliata, lasciata sul tavolo, diventa ___.
+- Quale cambiamento è lentissimo?
+- Metti in ordine: una banana resta sul tavolo per tanti giorni.
+- Quale cambiamento NON può tornare indietro?
+- Perché una torta cotta non può tornare impasto?
+
+## In anticipo, in orario, in ritardo [lib-1-elementare-storia-puntualita] · RITARDO
+concetti: In orario; In anticipo e in ritardo; Perché essere puntuali
+- La scuola comincia alle 8. Arrivi alle 9. Come sei arrivato?
+- La festa comincia alle 4. Arrivi alle 3. Come sei arrivato?
+- Puntuale vuol dire arrivare all'ora giusta.
+- Il treno doveva arrivare alle 10. È arrivato alle 10: è in ___.
+- Cosa succede se arrivi in ritardo al cinema?
+- Perché il pullman della gita non può aspettare chi è in ritardo?
+- Metti in ordine dal primo all'ultimo ad arrivare.
+- Perché è importante arrivare puntuali a scuola?
+
+## L'altro ieri e dopodomani [lib-1-elementare-storia-altro-ieri-e-dopodomani] · ATTESA
+concetti: L'altro ieri; Il giorno dopodomani; Cinque giorni in fila
+- Cosa vuol dire dopodomani?
+- Che cosa vuol dire l'altro ieri?
+- Dopodomani è tra due giorni.
+- Oggi è mercoledì. Che giorno era l'altro ieri?
+- Oggi è giovedì: dopodomani sarà ___.
+- Metti in ordine i giorni.
+- Oggi è sabato. Che giorno sarà dopodomani?
+- Che differenza c'è tra l'altro ieri e dopodomani?
+
+## L'orario della mia settimana [lib-1-elementare-storia-orario-settimanale] · ORARIO
+concetti: Che cos'è l'orario; Giorni e materie; Prepararsi con l'orario
+- A cosa serve l'orario scolastico?
+- Ogni giorno di scuola si fanno sempre le stesse materie.
+- Domani c'è motoria in palestra. Cosa metti nello zaino stasera?
+- L'orario è scritto in una ___ con righe e colonne.
+- Nell'orario, lunedì alla prima ora c'è Inglese. Cosa farai lunedì alla prima ora?
+- Se non guardi l'orario, cosa può succedere?
+- Metti in ordine: prepari lo zaino per domani.
+- Perché la maestra appende l'orario in classe?
+
+## La casa di tanto tempo fa [lib-1-elementare-storia-casa-di-una-volta] · CANDELA
+concetti: La luce; Il calore e la cucina; Il bucato; Ieri e oggi
+- Senza luce elettrica, cosa si accendeva la sera?
+- Tanto tempo fa i panni si lavavano a mano.
+- Con cosa si scaldava la casa tanto tempo fa?
+- I panni si lavavano a mano al ___.
+- Quale oggetto di casa NON c'era tanto tempo fa?
+- Senza frigorifero, dove si teneva il cibo al fresco?
+- Metti in ordine il bucato di una volta.
+- Perché oggi lavare i panni è più veloce di una volta?
+
+## La clessidra misura il tempo [lib-1-elementare-storia-clessidra-e-timer] · SABBIA
+concetti: Misurare il tempo; La clessidra; Il timer; Strumenti antichi
+- Cosa scende dentro la clessidra?
+- Quando la sabbia è tutta giù, il tempo della clessidra è finito.
+- Metti in ordine: usi la clessidra.
+- La mamma mette il ___ per sapere quando la torta è cotta.
+- Ti lavi i denti per due minuti. Cosa usi per misurarli?
+- Cosa usa l'allenatore per misurare una corsa?
+- Cosa usavano gli antichi per sapere l'ora con il sole?
+- Perché la clessidra misura sempre lo stesso tempo?
+
+## La fiaba in fila [lib-1-elementare-storia-fiaba-in-ordine] · FIABA
+concetti: Inizio, svolgimento, fine; C'era una volta; Le sequenze
+- Come cominciano molte fiabe?
+- Quali sono le parti di una storia?
+- «E vissero felici e contenti» si trova all'inizio delle fiabe.
+- Nei tre porcellini, il lupo non abbatte la casa di ___.
+- Metti in ordine la fiaba di Cappuccetto Rosso.
+- Se racconti la fine all'inizio, cosa succede?
+- Cosa succede nello svolgimento di una storia?
+- Un gattino si perde nel bosco. Inventa tu la fine.
+
+## La mia storia da neonato [lib-1-elementare-storia-storia-personale] · NASCITA
+concetti: La mia nascita; Le tappe della crescita; Prima e adesso; Chi mi aiuta a ricordare
+- Quando comincia la tua storia?
+- Un neonato sa già camminare.
+- Cosa impara di solito un bambino prima di camminare?
+- Da neonato andavo a passeggio in ___.
+- Come puoi scoprire com'eri da neonato?
+- Metti in ordine le tappe della crescita.
+- Cosa sai fare adesso che da neonato non sapevi?
+- Chi puoi intervistare per sapere qual è stata la tua prima parola?
+
+## La scatola dei ricordi [lib-1-elementare-storia-ricordi-e-memoria] · RICORDO
+concetti: Cos'è un ricordo; Quando ero piccolissimo; Conservare i ricordi
+- Che cos'è un ricordo?
+- Ti ricordi bene il giorno in cui sei nato.
+- Cosa metteresti in una scatola dei ricordi?
+- I ricordi parlano di fatti ___.
+- Perché non ricordi quando avevi un anno?
+- Le foto aiutano a ricordare momenti passati.
+- Quale di questi è un ricordo?
+- Racconta un bel ricordo di quando eri più piccolo.
+
+## Le feste nel calendario [lib-1-elementare-storia-feste-dell-anno] · FESTA
+concetti: Feste che tornano; Natale e Capodanno; Epifania e Pasqua; Feste di famiglia
+- In che giorno è Natale?
+- Quale festa apre l'anno nuovo?
+- Natale torna ogni anno.
+- L'Epifania è il 6 ___.
+- Quale di queste feste cambia giorno ogni anno?
+- Metti in ordine le feste d'inverno.
+- Quale festa cambia da bambino a bambino?
+- Quale festa aspetti di più? In che mese arriva?
+
+## Mattina, pomeriggio, sera, notte [lib-1-elementare-storia-parti-della-giornata] · GIORNO
+concetti: Le quattro parti; Cosa faccio e quando; Il mezzogiorno
+- Mattina, pomeriggio, sera e notte: cosa formano tutte insieme?
+- Quando fai colazione?
+- Di solito la cena si mangia di mattina.
+- Il pranzo si mangia di solito verso ___.
+- Quale parte della giornata viene subito prima del pomeriggio?
+- Metti in ordine le parti della giornata.
+- Cosa comincia subito dopo mezzogiorno?
+- Dimmi una cosa che fai la mattina e una che fai la sera.
+
+## Nello stesso momento: mentre! [lib-1-elementare-storia-mentre-contemporaneita] · MENTRE
+concetti: Nello stesso momento; La parola mentre; Persone diverse, stesso momento
+- Quali azioni puoi fare nello stesso momento?
+- La parola «mentre» dice che due cose succedono insieme.
+- Quale frase dice due cose che succedono insieme?
+- Il gatto dorme ___ io gioco.
+- Il semaforo è rosso. Cosa fanno intanto le macchine?
+- Tu sei in classe. Nello stesso momento, cosa può fare la mamma?
+- Mentre tu dormi, tutte le persone del mondo dormono.
+- Dimmi due cose che fai nello stesso momento.
+
+## Neonato, bambino, adulto, anziano [lib-1-elementare-storia-eta-della-vita] · ANZIANO
+concetti: Le età della vita; Attività di ogni età; Tutti crescono
+- Come si chiama un bambino appena nato?
+- Anche i nonni sono stati bambini.
+- Chi di solito va al lavoro?
+- Il nonno ha 80 anni: è un ___.
+- In quale età si va alla scuola elementare?
+- Metti in ordine le età della vita.
+- Cosa fa un neonato quasi tutto il giorno?
+- Perché un giorno anche tu sarai adulto?
+
+## Nonni, genitori e figli [lib-1-elementare-storia-generazioni] · NONNI
+concetti: Chi viene prima; I genitori dei genitori; I bisnonni; Età diverse
+- Chi sono i nonni?
+- Il papà è nato prima di suo figlio.
+- Chi è nato per primo?
+- I genitori dei nonni si chiamano ___.
+- La mamma della tua mamma, per te, chi è?
+- Metti in ordine dalla più vecchia alla più giovane.
+- Chi è più giovane, la nonna o la mamma?
+- Perché i nonni sanno cose di tanto tempo fa che tu non sai?
+
+## Passato vicino e lontano [lib-1-elementare-storia-passato-vicino-lontano] · PASSATO
+concetti: Il passato; Passato vicino; Passato lontano; Molto, molto lontano
+- Cosa vuol dire passato?
+- Quale fatto è del passato vicino?
+- Il tempo in cui i nonni erano bambini è un passato lontano.
+- Stamattina ho fatto colazione: è un passato ___.
+- Quando vivevano i dinosauri?
+- Metti in ordine dal più lontano al più vicino.
+- Come puoi sapere cose del passato lontano?
+- Perché nessuno ha mai visto un dinosauro vivo?
+
+## Perché succede? Causa ed effetto [lib-1-elementare-storia-causa-ed-effetto] · CAUSA
+concetti: Causa ed effetto; Prima la causa; La parola perché
+- Ha piovuto tanto. Cosa si forma per strada?
+- Luca piange perché è caduto. Qual è la causa?
+- L'effetto succede prima della causa.
+- Il gelato si scioglie ___ fa caldo.
+- Mangi tanti dolci e non ti lavi i denti. Cosa può succedere?
+- Il vetro della finestra si rompe. Quale può essere la causa?
+- Metti in ordine: dalla causa agli effetti.
+- Finisci la frase: «Prendo l'ombrello perché...»
+
+## Prepariamo una spremuta! [lib-1-elementare-storia-ricetta-in-ordine] · RICETTA
+concetti: Istruzioni in ordine; Prima gli ingredienti; Se salto un passo
+- Vuoi fare una spremuta. Cosa prepari prima?
+- In una ricetta l'ordine dei passi non conta.
+- Hai tagliato l'arancia a metà. Cosa fai dopo?
+- Prima di cominciare, preparo tutti gli ___.
+- Metti in ordine: prepari la spremuta.
+- Prepari una torta ma non accendi il forno. Cosa succede?
+- Perché conviene leggere tutta la ricetta prima di cominciare?
+- Perché non puoi versare il succo prima di spremere l'arancia?
+
+## Prima o dopo? Scoprilo! [lib-1-elementare-storia-prima-e-dopo] · PRIMA
+concetti: Prima e dopo; L'ordine delle azioni; Se cambio l'ordine
+- Prima ti metti le calze. Dopo cosa metti?
+- Prima mangi la banana, poi togli la buccia.
+- Fuori piove. Cosa fai prima di uscire?
+- Prima apro lo zaino, ___ prendo il quaderno.
+- Vuoi disegnare un sole. Cosa fai per prima cosa?
+- Metti in ordine: ti vesti per uscire in inverno.
+- Luca mette le scarpe e poi le calze. Cosa succede?
+- Perché apri il rubinetto prima di lavarti le mani?
+
+## Prima, poi, infine: racconto! [lib-1-elementare-storia-prima-poi-infine] · INFINE
+concetti: Le parole dell'ordine; Infine è l'ultima; Raccontare in ordine
+- Quale parola usi per dire la prima azione?
+- Quale parola usi per dire l'ultima azione?
+- La parola «poi» indica una cosa che succede dopo un'altra.
+- Pianto il seme, poi lo annaffio, ___ nasce la piantina.
+- Quale frase racconta le azioni nell'ordine giusto?
+- Metti in ordine: Anna fa un pupazzo di neve.
+- Perché è utile raccontare le cose in ordine?
+- Racconta come fai merenda usando prima, poi e infine.
+
+## Quanto dura? Tanto o poco [lib-1-elementare-storia-durata] · DURATA
+concetti: Che cos'è la durata; Lungo e breve; Confrontare le durate; Il tempo che sembra
+- Quale azione dura pochissimo?
+- Quale azione dura di più?
+- La durata è il tempo che passa dall'inizio alla fine.
+- Una notte di sonno dura più di una ___.
+- Ale, Bea, Ciro e Dina fanno un disegno. Iniziano insieme. Ciro finisce per ultimo. Chi ci ha messo più tempo?
+- Metti in ordine dalla più breve alla più lunga.
+- Perché una bella festa sembra finire subito?
+- Perché un'attesa noiosa sembra lunghissima?
+
+## Quattro stagioni in girotondo [lib-1-elementare-storia-stagioni-in-ordine] · AUTUNNO
+concetti: Quattro stagioni; L'ordine delle stagioni; I mesi di ogni stagione; I segni delle stagioni
+- Quante sono le stagioni?
+- In quale stagione cadono le foglie dagli alberi?
+- Luglio è un mese d'estate.
+- Dopo l'inverno arriva la ___.
+- Quale di questi mesi è d'inverno?
+- Metti in ordine le stagioni, partendo dalla primavera.
+- Vedi alberi in fiore e tornano le rondini. Che stagione è?
+- Perché diciamo che le stagioni fanno un girotondo?
+
+## Ripasso: giornata e settimana [lib-1-elementare-storia-ripasso-giornata-settimana] · RIPASSO
+concetti: Le parti della giornata; I giorni della settimana; Giorni e momenti insieme
+- Ti svegli e fuori c'è la prima luce. Che parte della giornata è?
+- Quale giorno sta tra giovedì e sabato?
+- La notte viene subito dopo il pomeriggio.
+- Oggi è venerdì sera: domani mattina sarà ___ mattina.
+- Elsa fa danza il martedì e il giovedì. Quante volte alla settimana?
+- È lunedì mattina. Cosa arriva dopo il pomeriggio?
+- Metti in ordine questi momenti.
+- Quante notti ci sono da lunedì sera a mercoledì mattina?
+
+## Ripasso: la mia storia [lib-1-elementare-storia-ripasso-la-mia-storia] · ALBUM
+concetti: La mia storia; Le tracce; In ordine nel tempo
+- Quale di queste tracce è un racconto?
+- La tua storia personale racconta i fatti della tua vita, dalla nascita a oggi.
+- Trovi un ciuccio in un cassetto. Di quale periodo racconta?
+- Foto, oggetti e racconti sono ___ del passato.
+- Metti in ordine le foto di Leo.
+- Quale fatto è successo prima nella tua vita?
+- Perché la tua storia continua ogni giorno?
+- Quali tracce useresti per raccontare il tuo primo compleanno?
+
+## Ripasso: mesi e stagioni [lib-1-elementare-storia-ripasso-mesi-stagioni] · ANNO
+concetti: Mesi e anno; Stagioni e mesi; Il ciclo dell'anno
+- Quale mese viene subito dopo marzo?
+- Agosto è in quale stagione?
+- Novembre è un mese di primavera.
+- Un anno ha dodici mesi e quattro ___.
+- Più o meno quanti mesi dura una stagione?
+- Metti in ordine i mesi, partendo da ottobre.
+- Oggi è marzo. Che mese sarà tra dodici mesi?
+- Perché a luglio fa caldo e a gennaio fa freddo?
+
+## Ripasso: prima, dopo, domani [lib-1-elementare-storia-ripasso-prima-dopo-domani] · TEMPO
+concetti: Prima e dopo; Ieri, oggi, domani; Insieme con mentre
+- Prima ti metti il casco, poi cosa fai?
+- Oggi è il giorno che viene subito dopo ieri.
+- Ieri era domenica. Che giorno è oggi?
+- Il nonno legge il giornale ___ la nonna annaffia i fiori.
+- Hai finito di leggere una pagina. Cosa fai dopo?
+- Quale frase usa «mentre» nel modo giusto?
+- Metti in ordine le azioni di Pino.
+- Perché non puoi asciugarti prima di fare la doccia?
+
+## Sette giorni in fila [lib-1-elementare-storia-giorni-della-settimana] · SETTE
+concetti: Sette giorni; L'ordine dei giorni; La settimana ricomincia
+- Quanti giorni ha una settimana?
+- Quale giorno viene dopo mercoledì?
+- Sabato viene prima di venerdì.
+- Dopo domenica arriva di nuovo ___.
+- Quale giorno viene subito prima di martedì?
+- Metti in ordine questi giorni.
+- Giulia va a nuoto ogni lunedì. Dopo un lunedì di nuoto, tra quanto ci torna?
+- Perché diciamo che la settimana ricomincia?
+
+## Sulla linea del tempo [lib-1-elementare-storia-linea-del-tempo] · LINEA
+concetti: Che cos'è; Da sinistra a destra; Prima e dopo sulla linea
+- A cosa serve la linea del tempo?
+- Sulla linea del tempo i fatti più vecchi stanno a sinistra.
+- Dove metti la tua nascita sulla linea della tua vita?
+- Sulla linea del tempo, il fatto a destra è successo ___ quello a sinistra.
+- Sulla linea, l'asilo sta a sinistra e la scuola a destra. Cosa è successo prima?
+- Ugo disegna la linea del tempo della sua settimana. Metti in ordine i fatti, da sinistra a destra.
+- Il fatto successo per ultimo dove si trova sulla linea?
+- Perché sulla linea la nascita sta prima del primo giorno di scuola?
+
+## Tic tac: leggo l'orologio [lib-1-elementare-storia-orologio] · TICTAC
+concetti: A cosa serve l'orologio; Le lancette; Le ore intere; Un giorno, 24 ore
+- A cosa serve l'orologio?
+- Quale lancetta indica le ore?
+- La lancetta lunga gira più in fretta di quella corta.
+- La corta è sul 3 e la lunga sul 12. Che ore sono?
+- Alle 8 in punto la lancetta lunga è sul ___.
+- Un giorno intero dura 24 ore.
+- Perché è utile guardare l'orologio prima di uscire per andare a scuola?
+- Come capisci che sono le 5 in punto?
+
+## Tracce del mio passato [lib-1-elementare-storia-tracce-del-passato] · FOTO
+concetti: Che cos'è una traccia; Foto e disegni; Oggetti che raccontano; Fogli scritti
+- Quale di questi oggetti è una traccia del tuo passato?
+- Una traccia del passato ci aiuta a capire com'era prima.
+- In una foto il nonno è giovane, con i capelli neri. Cosa capisci?
+- Il biglietto «Auguri per i tuoi 3 anni» è una traccia ___.
+- Il braccialetto dell'ospedale con il tuo nome cosa racconta?
+- Perché la mamma conserva il tuo primo disegno?
+- Un detective cerca indizi. Chi studia la storia cosa cerca?
+- Pensa a un oggetto di quando eri piccolo. Cosa racconta di te?
+
+## Un anno di scuola [lib-1-elementare-storia-anno-scolastico] · VACANZA
+concetti: Inizio e fine; Le vacanze; Una classe in più
+- In quale mese comincia la scuola?
+- L'anno scolastico finisce a giugno.
+- Quali sono le vacanze più lunghe?
+- Le vacanze di ___ sono in primavera.
+- In quale stagione ci sono le vacanze di Natale?
+- Metti in ordine l'anno scolastico.
+- A cosa servono le vacanze?
+- Cosa cambierà per te a settembre del prossimo anno?
+
+## Una giornata in classe [lib-1-elementare-storia-giornata-a-scuola] · ZAINO
+concetti: L'ingresso; Lezioni e pause; L'uscita; L'orario
+- Cosa fai appena entri in classe?
+- Quando suona l'ultima campanella si torna a casa.
+- Come si chiama la pausa a metà mattina?
+- Durante la ___ ascolto la maestra e lavoro sul quaderno.
+- Perché la scuola ha un orario?
+- Metti in ordine la mattina a scuola.
+- All'uscita, cosa prendi prima di andare via?
+- Cosa succederebbe se ognuno entrasse a scuola quando vuole?

@@ -1,0 +1,553 @@
+# 2ª media · Scienze: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Accelerare, frenare e leggere grafici [lib-2-media-scienze-accelerazione-grafici] · GRAFICO
+concetti: L'accelerazione; Accelerare e frenare; Il grafico spazio-tempo; La caduta libera
+- Un'auto parte dal semaforo e la sua velocità aumenta. Che moto ha?
+- In un grafico spazio-tempo, una linea orizzontale indica che il corpo è fermo.
+- L'accelerazione si misura in ___.
+- Un motorino passa da 0 a 10 m/s in 5 s. Qual è la sua accelerazione media?
+- Nel grafico spazio-tempo la retta di Anna è più inclinata di quella di Luca. Che cosa significa?
+- Una bici va a 6 m/s e frena fino a fermarsi in 3 s. Qual è la sua accelerazione?
+- Lasci cadere un sasso da un ponte. Trascurando l'aria, che velocità ha dopo 2 secondi?
+- Una piuma e una biglia lasciate cadere insieme: la biglia arriva prima. Sulla Luna, senza aria, arriverebbero…
+
+## Acidi, basi e scala del pH [lib-2-media-scienze-acidi-basi-ph] · LIMONE
+concetti: Gli acidi; Le basi; La scala del pH; Indicatori e neutralizzazione
+- Quale pH ha l'acqua pura?
+- L'aceto è una sostanza basica.
+- Una sostanza con pH 11 è ___.
+- La cartina al tornasole diventa rossa in un liquido. Che cosa ne deduci?
+- Quale di queste sostanze è più acida?
+- Il bruciore di stomaco è dovuto a un eccesso di acido. Perché aiuta un antiacido, che è leggermente basico?
+- Quale di questi prodotti di casa è basico?
+- Il succo di cavolo rosso cambia colore se ci versi aceto o bicarbonato. Perché si può usare come indicatore d…
+
+## Arterie, vene e capillari [lib-2-media-scienze-vasi-circolazione] · AORTA
+concetti: Le arterie; Le vene; I capillari; Piccola e grande circolazione
+- Qual è l'arteria più grande del corpo?
+- Tutte le arterie trasportano sangue ricco di ossigeno.
+- Gli scambi tra sangue e cellule avvengono attraverso le pareti sottilissime dei ___.
+- Perché le vene delle gambe hanno delle valvole?
+- Ti appoggi due dita sul polso e senti un battito. Che cosa stai percependo?
+- Perché si dice che la nostra circolazione è «doppia»?
+- Ti graffi leggermente un dito e escono poche gocce di sangue. Quali vasi hai rotto, molto probabilmente?
+- Che differenza c'è tra arterie e vene? Indica almeno due differenze.
+
+## Calorie: l'energia nel piatto [lib-2-media-scienze-calorie-energia] · CALORIA
+concetti: La chilocaloria; Energia dei nutrienti; Il metabolismo basale; Il bilancio energetico
+- In quale unità si misura di solito l'energia degli alimenti?
+- Un grammo di grassi fornisce più del doppio dell'energia di un grammo di zucchero.
+- L'energia che il corpo consuma a riposo, solo per restare in vita, si chiama metabolismo ___.
+- Una merendina contiene 20 g di carboidrati, 3 g di proteine e 5 g di grassi. Quante kcal fornisce, circa?
+- L'etichetta di uno yogurt indica 80 kcal per 100 g. Quante kcal ha un vasetto da 125 g?
+- Che cosa succede se per molti mesi mangi più energia di quella che consumi?
+- Quale di questi ragazzi ha bisogno, di solito, di più energia ogni giorno?
+- Perché anche mentre dormi il tuo corpo consuma energia?
+
+## Cambia forma o cambia sostanza? [lib-2-media-scienze-trasformazioni-fisiche-chimiche] · RUGGINE
+concetti: Trasformazioni fisiche; Trasformazioni chimiche; Indizi di una reazione; Reversibile o no
+- Quale di queste è una trasformazione fisica?
+- Quando il legno brucia si formano sostanze nuove, come cenere, fumo e anidride carbonica.
+- Le trasformazioni in cui si formano sostanze nuove si chiamano trasformazioni ___.
+- Versi aceto sul bicarbonato e si forma tanta schiuma frizzante. Quale indizio ti dice che c'è stata una reazi…
+- Quale di queste trasformazioni puoi far tornare indietro facilmente?
+- Sciogli lo zucchero nell'acqua e non lo vedi più. È una trasformazione chimica?
+- Una mela tagliata diventa scura dopo qualche minuto all'aria. Di che cosa si tratta?
+- Il ferro che arrugginisce subisce una trasformazione fisica o chimica? Spiega come lo capisci.
+
+## Carbonio, l'atomo della vita [lib-2-media-scienze-carbonio-chimica-organica] · GRAFITE
+concetti: Il carbonio e i suoi legami; Diamante e grafite; La chimica organica; Gli idrocarburi
+- Di che cosa è fatta la mina di una matita?
+- Un atomo di carbonio può formare quattro legami con altri atomi.
+- Il metano, CH4, è formato solo da carbonio e idrogeno: è un ___.
+- Quale di queste sostanze è studiata dalla chimica organica?
+- Diamante e grafite sono entrambi carbonio puro. Perché sono così diversi?
+- Perché esistono milioni di composti del carbonio, molti più che per altri elementi?
+- Il propano della bombola da campeggio brucia con abbastanza ossigeno. Quali prodotti si formano?
+- Perché si dice che il carbonio è «l'atomo della vita»?
+
+## Che cos'è una forza? [lib-2-media-scienze-forze-vettori] · NEWTON
+concetti: Gli effetti delle forze; Le forze sono vettori; Misurare le forze; Contatto e distanza; Sommare le forze
+- In quale unità di misura si esprime l'intensità di una forza?
+- Una calamita attira un chiodo anche senza toccarlo: è una forza a distanza.
+- Lo strumento con una molla che serve a misurare le forze si chiama ___.
+- Schiacci una pallina di pongo tra le dita. Quale effetto ha la tua forza?
+- Per descrivere bene una forza, oltre all'intensità, che cosa serve?
+- Due amici spingono un'auto in panne nello stesso verso, con 300 N e 250 N. Qual è la forza risultante?
+- Tiro alla fune: la squadra A tira con 800 N verso destra, la squadra B con 650 N verso sinistra. Che cosa suc…
+- Fai un esempio di forza di contatto e uno di forza a distanza che incontri nella tua giornata, e spiega la di…
+
+## Cibi sicuri: etichette e conservazione [lib-2-media-scienze-conservazione-etichette] · FRIGO
+concetti: Perché i cibi si guastano; Metodi di conservazione; Leggere l'etichetta; Le date di scadenza
+- Perché il latte fresco si conserva in frigorifero?
+- Negli ingredienti di un'etichetta, il primo è quello presente in quantità maggiore.
+- Scaldare il latte a circa 72 °C per pochi secondi, per uccidere i microbi pericolosi, si chiama ___.
+- Perché la marmellata, ricca di zucchero, si conserva a lungo?
+- Su un pacco di biscotti leggi: farina, zucchero, olio, uova, sale. Quale ingrediente è presente in quantità m…
+- Uno yogurt riporta «da consumarsi entro il 10 maggio». Oggi è il 15 maggio. Che cosa fai?
+- Perché il pane chiuso in un sacchetto umido fa la muffa più in fretta?
+- Perché un tempo carne e pesce si conservavano con il sale o facendoli seccare al sole?
+
+## Come si legano gli atomi [lib-2-media-scienze-legami-chimici] · LEGAME
+concetti: Perché gli atomi si legano; Il legame ionico; Il legame covalente; Ioni positivi e negativi
+- Nel legame covalente, che cosa fanno i due atomi?
+- Un atomo che perde un elettrone diventa uno ione positivo.
+- Nel sale da cucina il sodio cede un elettrone al cloro: tra i due si forma un legame ___.
+- Il cloro acquista un elettrone dal sodio. Quale carica prende lo ione cloruro?
+- Perché gli atomi formano legami chimici?
+- Perché il sale da cucina forma cristalli duri, a forma di cubetti?
+- Nella molecola d'acqua (H2O), quanti legami covalenti forma l'atomo di ossigeno?
+- Che differenza c'è tra legame ionico e legame covalente? Fai un esempio per ciascuno.
+
+## Dalla cellula agli apparati [lib-2-media-scienze-cellule-tessuti-organi] · TESSUTO
+concetti: La cellula; I tessuti; Gli organi; Apparati e sistemi
+- Qual è la più piccola unità vivente del corpo umano?
+- Il sangue è considerato un tessuto, anche se è liquido.
+- Il cuore, lo stomaco e i polmoni sono esempi di ___.
+- Metti in ordine dal livello più semplice al più complesso.
+- Le cellule nervose sono lunghe e ramificate, i globuli rossi piccoli e tondeggianti. Perché le cellule hanno …
+- Nello stomaco ci sono tessuto muscolare, tessuto epiteliale e tessuto nervoso. Che cosa dimostra?
+- Bocca, stomaco, intestino e fegato lavorano insieme per ricavare i nutrienti dal cibo. Che cosa formano?
+- Fai un esempio di come due apparati diversi collaborano per mantenere in vita il corpo.
+
+## Denti: forbici e macine [lib-2-media-scienze-denti-bocca] · SMALTO
+concetti: Tipi di denti; Da latte e permanenti; Com'è fatto un dente; Carie e igiene
+- Quali denti usi per tagliare un morso di mela?
+- Lo smalto dei denti è la sostanza più dura del corpo umano.
+- Un bambino piccolo ha in tutto ___ denti da latte.
+- I molari hanno una superficie larga e piena di rilievi. Che lavoro fanno?
+- Perché quando hai una carie profonda senti dolore?
+- Metti in ordine come si forma una carie.
+- Un adulto ha 32 denti: 8 incisivi, 4 canini e 8 premolari. Quanti molari ha?
+- Perché i dentisti dicono che è meglio non sgranocchiare dolci tutto il giorno, anche se sono piccoli?
+
+## Enzimi, bile e villi intestinali [lib-2-media-scienze-digestione-assorbimento] · VILLI
+concetti: Gli enzimi digestivi; Fegato e pancreas; L'intestino tenue e i villi; L'assorbimento
+- Quale organo produce la bile?
+- Gli enzimi digestivi scompongono le proteine in amminoacidi.
+- Le piccole sporgenze che rivestono l'intestino tenue e assorbono i nutrienti si chiamano ___.
+- A che cosa serve la bile?
+- Perché il cibo deve essere scomposto in molecole piccole?
+- Dove avviene la maggior parte dell'assorbimento dei nutrienti?
+- Se la parete dell'intestino tenue fosse liscia, senza villi, che cosa succederebbe?
+- Dopo che hai mangiato un panino, come arrivano gli zuccheri dell'amido fino ai muscoli delle gambe?
+
+## Formule: l'alfabeto della chimica [lib-2-media-scienze-elementi-composti-formule] · FORMULA
+concetti: Elementi e composti; Le molecole; Leggere una formula; Proprietà nuove nei composti
+- Nella formula H2O, che cosa indica il numero 2?
+- L'ossigeno che respiri (O2) è un composto, perché la sua molecola ha due atomi.
+- Un gruppo di atomi legati tra loro, che conserva le proprietà della sostanza, si chiama ___.
+- Quanti atomi in tutto formano una molecola di anidride carbonica, CO2?
+- Quale di queste sostanze è un composto?
+- L'idrogeno brucia e l'ossigeno alimenta il fuoco, eppure l'acqua (H2O) spegne le fiamme. Che cosa dimostra?
+- Che cosa ti dice la formula NH3 dell'ammoniaca? (N è l'azoto)
+- Che differenza c'è tra un elemento e un composto? Fai un esempio per ciascuno.
+
+## Galleggiare: la spinta di Archimede [lib-2-media-scienze-pressione-galleggiamento] · SPINTA
+concetti: La pressione; La spinta di Archimede; Galleggia o affonda?; La pressione nei liquidi
+- Che verso ha la spinta di Archimede su un corpo immerso nell'acqua?
+- Un pezzo di legno galleggia sull'acqua perché è meno denso dell'acqua.
+- Per camminare sulla neve fresca senza sprofondare si usano le ciaspole, che aumentano la ___ di appoggio.
+- Una cassa pesa 600 N e appoggia su una base di 2 m². Che pressione esercita sul pavimento?
+- Perché un coltello ben affilato taglia meglio di uno che non ha il filo?
+- Perché le dighe sono più spesse in basso che in alto?
+- Una nave d'acciaio galleggia, mentre un chiodo d'acciaio affonda. Perché?
+- Sollevi un amico in piscina e ti sembra molto più leggero che fuori dall'acqua. Perché?
+
+## I nutrienti e i loro compiti [lib-2-media-scienze-nutrienti] · AMIDO
+concetti: I carboidrati; Le proteine; I lipidi; Vitamine, sali e acqua
+- Quale di questi alimenti è ricco soprattutto di carboidrati?
+- L'acqua è il componente più abbondante del corpo umano.
+- Le proteine hanno soprattutto una funzione ___, perché servono a costruire e riparare i tessuti.
+- Quale di questi alimenti vegetali è una buona fonte di proteine?
+- Oltre a dare energia, a che cosa servono i lipidi nelle cellule?
+- Perché è importante bere acqua ogni giorno anche se non dà energia?
+- Perché un orso, prima del letargo, mangia moltissimo?
+- Perché una dieta fatta solo di pasta non sarebbe sana, anche se fornisce energia?
+
+## I tre principi di Newton [lib-2-media-scienze-principi-dinamica] · INERZIA
+concetti: Primo principio: inerzia; Secondo principio; Terzo principio; Inerzia e sicurezza
+- Un razzo spinge i gas verso il basso e sale verso l'alto. Quale principio spiega questo moto?
+- Secondo il principio di inerzia, un corpo in movimento si ferma da solo anche se nessuna forza agisce su di e…
+- Secondo il secondo principio, la forza è uguale alla massa per l'___.
+- L'autobus frena di colpo e i passeggeri in piedi vengono spinti in avanti. Perché?
+- Spingi un carrello di 30 kg con una forza risultante di 45 N. Quale accelerazione ha?
+- Con la stessa spinta, perché un pallone da calcio accelera più di una palla da bowling?
+- Quando nuoti, spingi l'acqua all'indietro con le braccia. Che cosa succede?
+- Perché in auto bisogna sempre allacciare la cintura, anche per tragitti brevi?
+
+## Il cuore, una pompa instancabile [lib-2-media-scienze-cuore] · VALVOLA
+concetti: Com'è fatto il cuore; Le valvole; Il battito; Destra e sinistra
+- Quante cavità ha il cuore umano?
+- Nel cuore il sangue della parte destra si mescola continuamente con quello della parte sinistra.
+- Le ___ del cuore impediscono al sangue di tornare indietro.
+- Quando il cuore si contrae e spinge fuori il sangue, la fase si chiama...
+- Il cuore di un adulto a riposo batte circa 70 volte al minuto. Quanti battiti fa in un'ora?
+- Perché la parete del ventricolo sinistro è più spessa di quella del destro?
+- Metti in ordine il percorso del sangue povero di ossigeno, dal ritorno al cuore fino ai polmoni.
+- Che cosa succederebbe se una valvola del cuore non si chiudesse bene?
+
+## Il percorso dell'aria [lib-2-media-scienze-vie-respiratorie] · ALVEOLI
+concetti: Le vie respiratorie; Il naso filtra e scalda; Laringe ed epiglottide; Polmoni e alveoli
+- La trachea si divide in due tubi, uno per ciascun polmone. Come si chiamano?
+- Respirare con il naso è meglio che con la bocca, perché il naso filtra e riscalda l'aria.
+- La voce è prodotta dalle corde vocali, che si trovano nella ___.
+- Metti in ordine il percorso dell'aria quando inspiri.
+- Un sorso d'acqua ti va «di traverso» e tossisci. Che cosa è successo?
+- Perché i polmoni contengono milioni di alveoli e non un unico grande sacco?
+- D'inverno respiri aria gelida con il naso. Che cosa le succede prima di arrivare ai polmoni?
+- Che cosa sono gli alveoli e perché sono avvolti da una fitta rete di capillari?
+
+## Il sangue e i suoi componenti [lib-2-media-scienze-sangue-componenti] · PLASMA
+concetti: Il plasma; I globuli rossi; Globuli bianchi e piastrine; I gruppi sanguigni
+- Quale proteina dei globuli rossi trasporta l'ossigeno?
+- Il plasma è la parte liquida del sangue ed è formato soprattutto da acqua.
+- Quando ti sbucci un ginocchio, le ___ aiutano a formare la crosta e fermano il sangue.
+- Durante un'infezione, quale componente del sangue aumenta per combattere i microbi?
+- Chi mangia poco ferro può diventare anemico, stanco e pallido. Perché?
+- Un adulto ha circa 5 litri di sangue e il plasma ne è circa il 55%. Quanti litri di plasma ha, circa?
+- Perché prima di una trasfusione si controlla il gruppo sanguigno?
+- Elenca i componenti del sangue e scrivi per ciascuno il suo compito principale.
+
+## Il triangolo del fuoco [lib-2-media-scienze-combustione-triangolo-fuoco] · FUOCO
+concetti: Il triangolo del fuoco; Prodotti della combustione; Spegnere un incendio; Combustione incompleta
+- Nel triangolo del fuoco, quale gas fa da comburente?
+- La combustione è una reazione che assorbe calore dall'ambiente.
+- Il legno, la carta e il gas metano, che bruciano, sono esempi di ___.
+- Se una padella con l'olio prende fuoco, si copre con un coperchio. Quale lato del triangolo togli?
+- Perché si getta acqua su un falò per spegnerlo?
+- Tieni un bicchiere di vetro freddo sopra la fiamma di una candela e compaiono goccioline. Da dove vengono?
+- Perché è pericoloso tenere un braciere acceso in una stanza chiusa?
+- Sotto un bicchiere capovolto, una candela accesa dopo poco si spegne. Spiega perché usando il triangolo del f…
+
+## Il viaggio di un boccone [lib-2-media-scienze-percorso-digerente] · ESOFAGO
+concetti: Le tappe del tubo digerente; Bocca ed esofago; Lo stomaco; L'intestino crasso
+- Come si chiama il cibo masticato e impastato con la saliva, pronto da inghiottire?
+- Il cibo scende nell'esofago solo per gravità: per questo non si può inghiottire a testa in giù.
+- Nello stomaco il bolo si mescola con il succo gastrico e diventa ___.
+- Metti in ordine le tappe del cibo nel tubo digerente.
+- Quale condotto porta il cibo dalla faringe allo stomaco?
+- Il succo gastrico è molto acido. Quale vantaggio ne deriva?
+- Che cosa succede se l'intestino crasso riassorbe troppo poca acqua?
+- Perché è importante masticare bene il cibo prima di inghiottirlo?
+
+## In moto rispetto a chi? [lib-2-media-scienze-moto-sistema-riferimento] · TRENO
+concetti: Il sistema di riferimento; La traiettoria; Spazio e tempo; Il moto relativo
+- Sei seduto su un treno in corsa. Rispetto al tuo sedile, tu sei...
+- Una casa è ferma rispetto alla Terra, ma si muove rispetto al Sole.
+- La linea immaginaria che un corpo disegna muovendosi si chiama ___.
+- Quale di questi moti ha una traiettoria circolare?
+- Per sapere quanto è veloce un corridore, quali due grandezze devi misurare?
+- Due auto viaggiano affiancate, nello stesso verso e alla stessa velocità. Come vede l'altra auto un passegger…
+- Sei su un treno fermo in stazione e il treno accanto parte. Ti sembra di muoverti tu. Perché?
+- Perché in fisica non basta dire «quella macchina è in movimento», ma bisogna dire «rispetto a che cosa»?
+
+## Inspira, espira: il diaframma [lib-2-media-scienze-respirazione-scambi-gas] · POLMONE
+concetti: Inspirazione ed espirazione; Gli scambi gassosi; La respirazione cellulare; Quanta aria respiri
+- Quale muscolo, a forma di cupola, è il protagonista della respirazione?
+- L'aria che espiri non contiene più ossigeno.
+- Nelle cellule l'ossigeno serve a ricavare ___ dagli zuccheri.
+- Quando inspiri, che cosa succede alla gabbia toracica?
+- Negli alveoli, quale gas passa dal sangue all'aria?
+- Fai 16 respiri al minuto e ogni volta inspiri circa 0,5 litri d'aria. Quanti litri respiri in un minuto?
+- Perché continui a respirare anche mentre dormi?
+- Segui una molecola di ossigeno dall'aria che inspiri fino a una cellula del tuo piede. Quali tappe attraversa?
+
+## L'acqua, una molecola speciale [lib-2-media-scienze-acqua-molecola-speciale] · GOCCIA
+concetti: La molecola d'acqua; Il ghiaccio galleggia; Un ottimo solvente; Elettrolisi dell'acqua
+- Da quali elementi è formata l'acqua?
+- Quando l'acqua gela, il suo volume diminuisce.
+- L'acqua scioglie moltissime sostanze: per questo è un ottimo ___.
+- Una bottiglia di vetro piena d'acqua, dimenticata nel congelatore, si rompe. Perché?
+- In inverno un lago gela in superficie, ma sotto i pesci sopravvivono. Perché?
+- Nell'elettrolisi dell'acqua raccogli 10 mL di ossigeno. Quanto idrogeno ottieni?
+- Quanti atomi ci sono in tutto in 3 molecole d'acqua?
+- Perché l'acqua è indispensabile per trasportare le sostanze negli esseri viventi?
+
+## L'aria: un miscuglio di gas [lib-2-media-scienze-aria-composizione] · AZOTO
+concetti: Composizione dell'aria; L'ossigeno; L'anidride carbonica; L'aria ha una massa
+- Qual è il gas più abbondante nell'aria?
+- Nell'aria c'è circa il 50% di ossigeno.
+- Le piante assorbono ___ dall'aria e la usano per la fotosintesi.
+- Quale processo degli esseri viventi consuma ossigeno?
+- In una stanza ci sono 50 m³ di aria. Circa quanti metri cubi sono di azoto?
+- Perché un pallone da calcio gonfio pesa un po' di più di quando è sgonfio?
+- Perché l'aumento di anidride carbonica nell'aria preoccupa gli scienziati?
+- Perché si dice che piante e animali si «scambiano» ossigeno e anidride carbonica?
+
+## L'attrito: freno e alleato [lib-2-media-scienze-attrito] · ATTRITO
+concetti: Che cos'è l'attrito; Tipi di attrito; Da che cosa dipende; Utile o dannoso
+- Perché è più facile spostare una valigia con le ruote che trascinarla senza?
+- Senza attrito non riusciremmo a camminare.
+- L'attrito è una forza che si ___ sempre al movimento.
+- Perché sul ghiaccio si scivola così facilmente?
+- Strofini forte le mani quando hai freddo e si scaldano. Perché?
+- Un paracadute rallenta la caduta di un paracadutista. Quale attrito sfrutta?
+- Spingi una cassa vuota e poi la stessa cassa piena di libri sullo stesso pavimento. Quale è più difficile da …
+- Perché sulla catena della bicicletta si mette l'olio, mentre i freni devono avere molto attrito?
+
+## La mappa degli elementi [lib-2-media-scienze-tavola-periodica] · TAVOLA
+concetti: Elementi e simboli; Mendeleev e l'ordine; Gruppi e periodi
+- Qual è il simbolo chimico del ferro?
+- Il simbolo Na indica il sodio. Perché non somiglia al nome italiano?
+- Nella tavola periodica moderna gli elementi sono disposti in ordine di numero atomico crescente.
+- Le colonne verticali della tavola periodica si chiamano ___.
+- Litio, sodio e potassio sono nello stesso gruppo. Che cosa ti aspetti?
+- Che cosa fece di geniale Mendeleev nella sua tavola?
+- Il carbonio ha numero atomico 6 e l'azoto 7. Quale elemento viene subito dopo l'azoto?
+- Perché la tavola periodica è utile a un chimico che studia un elemento poco conosciuto?
+
+## La pelle, un organo da record [lib-2-media-scienze-pelle] · PELLE
+concetti: Gli strati della pelle; Le funzioni della pelle; Sudore e temperatura; Melanina e sole
+- Qual è lo strato più esterno della pelle?
+- La pelle è l'organo più esteso del corpo umano.
+- Il pigmento che dà colore alla pelle e la protegge dal sole si chiama ___.
+- Perché sudare ti rinfresca?
+- In una giornata umida e afosa il sudore evapora poco. Che cosa senti?
+- Perché le foche hanno uno spesso strato di grasso sotto la pelle?
+- Perché anche chi è già abbronzato deve usare la crema solare?
+- La pelle non è solo un «involucro». Elenca almeno tre suoi compiti.
+
+## Le difese del corpo [lib-2-media-scienze-difese-immunitarie] · VACCINO
+concetti: Le barriere naturali; Globuli bianchi in azione; Anticorpi e memoria; I vaccini
+- Qual è la prima barriera del corpo contro i microbi?
+- Un vaccino contiene microbi pericolosi pronti a farti ammalare.
+- Le proteine prodotte dai linfociti per riconoscere e colpire un microbo preciso si chiamano ___.
+- Ti sei punto con una spina: la zona diventa rossa, gonfia e calda. Che cosa sta succedendo?
+- Perché di solito ci si ammala di varicella una volta sola?
+- Le lacrime e la saliva contengono sostanze che distruggono alcuni batteri. Di che cosa fanno parte?
+- Perché vaccinarsi protegge anche chi non può vaccinarsi, come i neonati?
+- Spiega come un vaccino «allena» il sistema immunitario.
+
+## Le leve: sollevare con astuzia [lib-2-media-scienze-leve] · FORBICI
+concetti: Com'è fatta una leva; Equilibrio della leva; Leve di primo genere; Leve di secondo e terzo genere
+- Come si chiama il punto attorno al quale ruota una leva?
+- Le forbici sono una leva di primo genere, perché il fulcro sta tra le due forze.
+- La distanza tra il fulcro e il punto in cui agisce una forza si chiama ___.
+- In una carriola, dove si trova il carico, cioè la resistenza?
+- Su un'altalena a bilico Luca (300 N) siede a 2 m dal fulcro. A che distanza deve sedersi Sara (400 N) per sta…
+- Perché le pinzette per le sopracciglia sono una leva svantaggiosa?
+- Con un piede di porco il braccio della tua forza è 1 m e quello della resistenza 0,2 m. Che forza ti serve pe…
+- Perché per svitare un bullone molto duro si usa una chiave con il manico lungo?
+
+## Lo scheletro: 206 ossa al lavoro [lib-2-media-scienze-scheletro-ossa] · FEMORE
+concetti: Funzioni dello scheletro; Quante ossa e di che tipo; Com'è fatto un osso; Ossa sane
+- Qual è l'osso più lungo del corpo umano?
+- Le ossa sono strutture morte, fatte solo di minerali.
+- Il midollo osseo ___ produce globuli rossi, globuli bianchi e piastrine.
+- Quali organi protegge la gabbia toracica?
+- Il cranio e la scapola sono ossa...
+- Quale di queste abitudini rinforza le ossa durante la crescita?
+- Un neonato ha circa 300 ossa, un adulto circa 206. Come mai?
+- Lo scheletro ha tre funzioni principali. Quali sono? Fai un esempio per ognuna.
+
+## Metalli, non metalli, gas nobili [lib-2-media-scienze-metalli-non-metalli] · NEON
+concetti: Proprietà dei metalli; I non metalli; I gas nobili; Posizione nella tavola
+- Quale di questi metalli è liquido a temperatura ambiente?
+- I fili elettrici sono fatti di rame perché il rame è un buon conduttore di elettricità.
+- Un metallo che si può ridurre in fogli sottili, come l'alluminio per alimenti, si dice ___.
+- Quale di questi elementi è un non metallo?
+- Perché nei palloncini che volano si usa l'elio e non l'idrogeno, che è ancora più leggero?
+- In quale zona della tavola periodica trovi la maggior parte dei metalli?
+- Il silicio dei chip conduce l'elettricità meglio dei non metalli ma peggio dei metalli. Come si classifica?
+- Una pentola ha il fondo di acciaio e il manico di plastica o di legno. Perché si costruisce così?
+
+## Miscugli omogenei ed eterogenei [lib-2-media-scienze-miscugli] · GRANITO
+concetti: Che cos'è un miscuglio; Miscugli eterogenei; Miscugli omogenei; Miscuglio o sostanza pura?
+- Quale di questi è un miscuglio eterogeneo?
+- L'aria che respiri è un miscuglio omogeneo di gas, soprattutto azoto e ossigeno.
+- In un miscuglio ogni componente ___ le proprie proprietà.
+- Mescoli limatura di ferro e sabbia. Come dimostri che il ferro ha conservato le sue proprietà?
+- Perché l'acqua di mare, anche filtrata e limpida, è un miscuglio?
+- Il latte a occhio nudo sembra uniforme, ma al microscopio mostra goccioline di grasso. Che cos'è?
+- Un liquido bolle sempre a 100 °C. Un altro inizia a bollire a 102 °C e la temperatura sale mentre bolle. Qual…
+- Che differenza c'è tra un miscuglio omogeneo e uno eterogeneo? Fai un esempio di ciascuno preso dalla tua cuc…
+
+## Muscoli: i motori del corpo [lib-2-media-scienze-muscoli] · TENDINE
+concetti: Tre tipi di muscoli; Muscoli e tendini; Contrazione e coppie; Energia e allenamento
+- Che cosa collega un muscolo a un osso?
+- Il cuore è un muscolo che possiamo controllare con la volontà.
+- Quando un muscolo si contrae, diventa più corto e ___ l'osso a cui è attaccato.
+- I muscoli dell'intestino spingono il cibo anche mentre dormi. Che tipo di muscoli sono?
+- Pieghi il braccio per portare una mela alla bocca. Quale muscolo si contrae?
+- Perché i muscoli scheletrici lavorano a coppie?
+- Durante una corsa respiri più in fretta. Perché?
+- Che differenza c'è tra un tendine e un legamento?
+
+## Nulla si crea, nulla si distrugge [lib-2-media-scienze-reazioni-lavoisier] · MASSA
+concetti: Reagenti e prodotti; Legge di Lavoisier; Sistemi aperti e chiusi; Esotermiche ed endotermiche
+- Nella reazione carbonio + ossigeno → anidride carbonica, quali sono i reagenti?
+- Secondo Lavoisier, in una reazione chimica gli atomi non spariscono ma si riorganizzano in sostanze nuove.
+- Le sostanze che si ottengono alla fine di una reazione chimica si chiamano ___.
+- In un barattolo chiuso fai reagire 12 g di una sostanza con 32 g di un'altra. Quanto pesano i prodotti?
+- Bruci un foglio di carta su un piatto: la cenere pesa molto meno del foglio. Lavoisier aveva torto?
+- Quale di queste trasformazioni è esotermica, cioè libera calore?
+- Metti una pastiglia effervescente in una bottiglia d'acqua e chiudi subito il tappo. Pesi tutto prima e dopo.…
+- Spiega con parole tue la legge di Lavoisier: «Nulla si crea, nulla si distrugge, tutto si trasforma».
+
+## Peso e massa non sono uguali [lib-2-media-scienze-peso-massa] · LUNA
+concetti: La massa; Il peso; Peso uguale massa per g; Il peso sugli altri astri
+- In quale unità si misura la massa?
+- Un astronauta sulla Luna ha meno massa che sulla Terra.
+- Il peso è una forza: per questo si misura in ___.
+- Qual è il peso sulla Terra di uno zaino con massa 5 kg? (g = 9,8 N/kg)
+- Un oggetto pesa 600 N sulla Terra. Quanto pesa circa sulla Luna, dove la gravità è un sesto?
+- Perché una mela, lasciata andare, cade verso terra?
+- Un dinamometro segna 19,6 N quando ci appendi un sacchetto. Qual è la massa del sacchetto?
+- Un amico dice: «Sulla Luna diventerei più magro, perché perderei chili». Ha ragione? Spiega usando massa e pe…
+
+## Piramide alimentare e dieta mediterranea [lib-2-media-scienze-piramide-dieta-mediterranea] · DIETA
+concetti: La piramide alimentare; La dieta mediterranea; Distribuire i pasti; Varietà
+- Che cosa trovi alla base della piramide alimentare, cioè da mangiare più spesso?
+- La dieta mediterranea usa come condimento principale l'olio extravergine d'oliva.
+- Il pasto che interrompe il digiuno della notte e dà energia per la mattina è la ___.
+- Quale di questi piatti è tipico della dieta mediterranea?
+- Secondo la piramide, quale di questi alimenti va consumato più raramente?
+- Perché i nutrizionisti consigliano frutta e verdura «di tutti i colori»?
+- Marco salta la colazione e a metà mattina è stanco e distratto. Perché?
+- Quali sono le caratteristiche della dieta mediterranea e perché è considerata sana?
+
+## Polmoni sani: no al fumo [lib-2-media-scienze-fumo-salute-polmoni] · CIGLIA
+concetti: Ciglia e muco; Le sostanze del fumo; I danni del fumo; Prevenzione
+- Quale sostanza del fumo di sigaretta crea dipendenza?
+- Chi sta vicino a un fumatore respira anche lui sostanze dannose.
+- Nella trachea e nei bronchi, minuscole ___ spingono il muco con la polvere verso la gola.
+- Il monossido di carbonio del fumo si lega ai globuli rossi. Qual è la conseguenza?
+- Perché i fumatori spesso tossiscono al mattino?
+- Un calciatore che fuma, rispetto a uno che non fuma, di solito...
+- Quale di queste abitudini aiuta di più i tuoi polmoni?
+- Perché si dice che il catrame «sporca» i polmoni? Che conseguenze può avere?
+
+## Quanto vai veloce? [lib-2-media-scienze-velocita-media] · VELOCE
+concetti: Calcolare la velocità; Le unità di misura; Spazio e tempo dalla velocità; Moto rettilineo uniforme
+- Un ciclista percorre 30 km in 2 ore. Qual è la sua velocità media?
+- Nel moto rettilineo uniforme un corpo percorre spazi uguali in tempi uguali.
+- Una velocità di 10 m/s corrisponde a ___ km/h.
+- Un treno viaggia a 120 km/h costanti. Quanti chilometri percorre in 30 minuti?
+- Un ghepardo corre 100 m in 4 s. Qual è la sua velocità media?
+- Quale velocità è maggiore: 20 m/s oppure 70 km/h?
+- La scuola dista 1,2 km e cammini a 4 km/h. Quanto tempo impieghi?
+- Un'auto percorre 100 km in un'ora, ma a volte va a 130 km/h e a volte si ferma al semaforo. Che cosa indica a…
+
+## Reazioni lente e reazioni veloci [lib-2-media-scienze-velocita-reazioni] · ENZIMA
+concetti: Velocità di reazione; La temperatura; La superficie di contatto; La concentrazione; Catalizzatori ed enzimi
+- Quale di queste trasformazioni chimiche è molto lenta?
+- In frigorifero il latte si guasta più lentamente perché il freddo rallenta le reazioni.
+- Una sostanza che accelera una reazione senza consumarsi si chiama ___.
+- Per accendere un fuoco si usano rametti sottili e non un grosso ceppo. Perché?
+- Metti una pastiglia effervescente in acqua calda e una uguale in acqua fredda. Quale smette prima di frizzare?
+- Il marmo fa bollicine con l'aceto. Se usi aceto diluito in molta acqua, la reazione è...
+- Nella saliva c'è un enzima che scompone l'amido. Se mastichi a lungo un pezzo di pane, diventa dolciastro. Pe…
+- Indica due modi per rendere più veloce una reazione chimica e spiega perché funzionano.
+
+## Reni: i filtri del sangue [lib-2-media-scienze-apparato-escretore] · NEFRONE
+concetti: I reni; I nefroni; Il percorso dell'urina; Altre vie di escrezione
+- Quale organo filtra il sangue e produce l'urina?
+- Bere poca acqua rende l'urina più scura e concentrata.
+- Le minuscole unità filtranti del rene si chiamano ___.
+- Metti in ordine il percorso dell'urina.
+- A che cosa serve la vescica?
+- Quando fa caldo e sudi molto, che cosa succede di solito all'urina?
+- Oltre ai reni, quale organo elimina dal corpo l'anidride carbonica?
+- Perché chi ha i reni malati deve fare la dialisi, cioè farsi filtrare il sangue da una macchina?
+
+## Ripasso: chi fa cosa nel corpo [lib-2-media-scienze-ripasso-apparati] · ORGANI
+concetti: Sostegno e movimento; Nutrirsi e respirare; Trasportare; Eliminare i rifiuti
+- Quando calci un pallone, quale coppia lavora insieme per muovere la gamba?
+- Il sangue trasporta solo ossigeno, non i nutrienti.
+- L'ossigeno passa nel sangue negli alveoli; i nutrienti invece passano nel sangue attraverso i ___ dell'intest…
+- Quale di questi organi NON fa parte dell'apparato digerente?
+- Dopo un pranzo abbondante, il sangue che esce dall'intestino si arricchisce di...
+- Che cosa hanno in comune reni, polmoni e pelle?
+- Quale coppia organo-apparato è corretta?
+- Spiega perché si dice che l'apparato circolatorio «collega» tutti gli altri apparati.
+
+## Ripasso: detective della chimica [lib-2-media-scienze-ripasso-chimica] · CHIMICA
+concetti: Atomi ed elementi; Miscugli e soluzioni; Reazioni chimiche; Acidi e basi
+- Quale di queste sostanze è un elemento chimico?
+- Il bronzo, una lega di rame e stagno, è un miscuglio omogeneo.
+- Il sapore aspro del limone è tipico delle sostanze ___.
+- Vuoi separare acqua e alcol, che si mescolano perfettamente. Quale metodo usi?
+- Che cosa hanno in comune la ruggine, la combustione della legna e la cottura di una torta?
+- Il simbolo O indica l'ossigeno. Che cosa rappresenta la formula O3 dell'ozono?
+- Mescoli un acido e una base nelle giuste quantità. Che cosa ottieni?
+- Come puoi capire se un liquido trasparente è acqua pura o acqua con sale disciolto, senza assaggiarlo?
+
+## Ripasso: forze e movimento [lib-2-media-scienze-ripasso-forze-moto] · FORZA
+concetti: Velocità e moto; Forze e risultante; Peso e attrito; I principi della dinamica
+- Uno scooter percorre 45 km in mezz'ora. Qual è la sua velocità media?
+- Un oggetto con massa 10 kg ha sulla Terra un peso di circa 98 N.
+- Quando su un corpo agiscono forze che si annullano a vicenda, la forza ___ è zero.
+- Tiri via di scatto la tovaglia da sotto un bicchiere e il bicchiere resta quasi fermo. Perché?
+- Un'auto frena sull'asfalto bagnato e percorre più strada prima di fermarsi. Perché?
+- Spingi una scatola con 70 N e l'attrito si oppone con 50 N. Qual è la forza risultante?
+- In quale di questi casi c'è un moto accelerato?
+- Sei sullo skateboard e lanci in avanti una palla pesante. Che cosa succede a te e perché?
+
+## Separare i miscugli come un chimico [lib-2-media-scienze-separare-miscugli] · FILTRO
+concetti: Filtrazione e decantazione; Evaporazione e distillazione; Centrifuga e imbuto separatore; Cromatografia
+- Vuoi separare la sabbia dall'acqua. Quale metodo è più adatto?
+- Per ottenere il sale dall'acqua di mare basta filtrarla con la carta da filtro.
+- Per separare l'acqua dall'olio si usa l'imbuto ___.
+- Nelle saline l'acqua di mare resta al sole per settimane. Quale metodo di separazione si usa?
+- In laboratorio una provetta di sangue gira velocissima in una macchina e i globuli finiscono sul fondo. Che m…
+- Metti in ordine le fasi della distillazione dell'acqua salata.
+- Fai un punto di pennarello nero su una striscia di carta e immergi il fondo in acqua. Compaiono macchie blu, …
+- Hai acqua torbida con terra e sassolini. Come la renderesti limpida? Descrivi i passaggi in ordine.
+
+## Snodi e colonna vertebrale [lib-2-media-scienze-articolazioni-colonna] · ROTULA
+concetti: Le articolazioni; Cartilagine e legamenti; La colonna vertebrale; Una postura corretta
+- Quale di queste è un'articolazione mobile?
+- Le ossa del cranio di un adulto sono unite da articolazioni fisse.
+- Le ossa di un'articolazione mobile sono tenute insieme da robuste fasce chiamate ___.
+- Che cosa protegge la colonna vertebrale al suo interno?
+- Metti in ordine i tratti della colonna vertebrale, dall'alto verso il basso.
+- Perché è importante la cartilagine che riveste le ossa del ginocchio?
+- Qual è il modo migliore di portare uno zaino pesante?
+- La colonna vertebrale non è dritta ma ha delle curve. A che cosa servono?
+
+## Soluto, solvente e soluzioni [lib-2-media-scienze-soluzioni] · SOLUTO
+concetti: Soluto e solvente; Solubilità e saturazione; Temperatura e velocità; Concentrazione
+- Nel tè zuccherato, qual è il solvente?
+- Mescolare con il cucchiaino fa sciogliere lo zucchero più velocemente.
+- Una soluzione che non riesce a sciogliere altro soluto si dice ___.
+- Sciogli 30 g di sale in acqua e ottieni 2 litri di soluzione. Qual è la concentrazione?
+- Perché lo zucchero si scioglie meglio nel latte caldo che in quello freddo?
+- Aggiungi sale a un bicchiere d'acqua, un cucchiaio alla volta. A un certo punto resta sul fondo anche se mesc…
+- Hai 1 litro di soluzione con 20 g di sale. Aggiungi un altro litro d'acqua. Che cosa succede alla concentrazi…
+- Nell'acqua gassata c'è anidride carbonica disciolta. Chi è il soluto e chi il solvente? Perché al caldo una b…
+
+## Un chimico ai fornelli [lib-2-media-scienze-chimica-in-cucina] · LIEVITO
+concetti: La lievitazione; Cottura e proteine; Il caramello; Fisico o chimico in cucina
+- Quale gas fa gonfiare l'impasto della pizza?
+- Quando cuoci una bistecca, le sue proteine cambiano forma e il colore della carne passa da rosso a bruno.
+- Il lievito di birra è formato da ___ microscopici che si nutrono di zuccheri.
+- Fai bollire l'acqua per la pasta e si formano tante bolle. È una reazione chimica?
+- Perché l'impasto della pizza si mette a lievitare in un posto tiepido e non in frigorifero?
+- Scaldi lo zucchero in un pentolino: diventa liquido, poi bruno e profumato. Che cosa è successo?
+- Metti in ordine le fasi per preparare il pane, dall'impasto alla tavola.
+- Perché la cottura di un uovo è una trasformazione chimica e non fisica?
+
+## Viaggio dentro l'atomo [lib-2-media-scienze-atomo-particelle] · ATOMO
+concetti: La materia è fatta di atomi; Nucleo: protoni e neutroni; Gli elettroni; Numero atomico e atomo neutro
+- Quale particella dell'atomo ha carica elettrica positiva?
+- Gli elettroni si trovano dentro il nucleo, insieme ai protoni.
+- Quasi tutta la massa di un atomo è concentrata nel ___.
+- Un atomo di carbonio ha numero atomico 6. Quanti protoni ha nel nucleo?
+- Un atomo di ossigeno neutro ha 8 protoni. Quanti elettroni ha?
+- Metti in ordine, dal più antico al più recente, questi studiosi dell'atomo.
+- Strofini un palloncino sui capelli e diventa carico negativamente. Che cosa è successo?
+- Perché diciamo che un atomo è elettricamente neutro, anche se contiene particelle cariche?
+
+## Vitamine e sali: piccoli aiutanti [lib-2-media-scienze-vitamine-sali-minerali] · IODIO
+concetti: Che cosa sono le vitamine; Vitamine importanti; I sali minerali; Conservare le vitamine
+- Quale vitamina è abbondante negli agrumi come arance e limoni?
+- Il calcio è importante soprattutto per ossa e denti.
+- Il sale ___ aiuta a prevenire problemi alla tiroide.
+- Nei lunghi viaggi in nave di un tempo, i marinai si ammalavano di scorbuto. Che cosa mancava nella loro dieta?
+- La pelle, esposta al sole, produce una vitamina utile alle ossa. Quale?
+- Quale di questi alimenti è una buona fonte di calcio?
+- Vuoi conservare più vitamina C possibile nei broccoli. Come li cucini?
+- Le vitamine non danno energia. Perché allora sono indispensabili?

@@ -1,0 +1,553 @@
+# 3ª media · Geografia: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Ai confini del ghiaccio [lib-3-media-geografia-antartide-poli] · GELO
+concetti: L'Antartide; L'Artide; Il Trattato Antartico; Luce e ghiaccio ai poli
+- Qual è il continente più freddo della Terra?
+- L'Artide, a differenza dell'Antartide, non è un continente ma un oceano ghiacciato circondato da terre.
+- Dove vivono gli orsi polari?
+- Il trattato del 1959 che riserva l'Antartide alla pace e alla ricerca si chiama Trattato ___.
+- Chi vive oggi in Antartide?
+- Che cosa succede ai poli durante il loro inverno?
+- Perché il ghiaccio dell'Antartide è così importante per il pianeta?
+- Spiega perché lo scioglimento dei ghiacci dell'Antartide preoccupa anche chi vive lontanissimo, per esempio a…
+
+## Ande, Amazzoni e Patagonia [lib-3-media-geografia-america-sud-territorio] · CONDOR
+concetti: Le Ande; Il Rio delle Amazzoni; Deserti e altopiani; Pampa e Patagonia
+- Qual è la catena montuosa più lunga del mondo?
+- Il Rio delle Amazzoni è il fiume con la portata d'acqua più grande del mondo.
+- La vetta più alta delle Americhe, nelle Ande argentine, si chiama ___.
+- Quale caratteristica rende famoso il deserto di Atacama, in Cile?
+- Dove si trova il lago Titicaca?
+- Immagina di attraversare il Sud America da ovest a est, all'altezza del Perù: metti in ordine ciò che incontr…
+- Come si chiama la grande pianura erbosa dell'Argentina, famosa per l'allevamento dei bovini?
+- Le Ande corrono lungo tutta la costa occidentale del Sud America. Spiega come influenzano il clima e la vita …
+
+## Australia e isole del Pacifico [lib-3-media-geografia-australia-oceania] · KOALA
+concetti: L'Oceania; Il territorio australiano; Una natura unica; Popoli ed economia
+- Qual è la capitale dell'Australia?
+- L'Oceania è il continente più piccolo della Terra.
+- Gli animali come il canguro e il koala, che portano i piccoli in una tasca, si chiamano ___.
+- Perché la Grande Barriera Corallina è in pericolo?
+- Chi sono gli aborigeni australiani?
+- Come si chiama il popolo originario della Nuova Zelanda?
+- Perché quasi tutti gli australiani vivono sulle coste, soprattutto a est e sud-est?
+- Molti animali dell'Australia non vivono in nessun'altra parte del mondo. Prova a spiegare perché.
+
+## Che ore sono nel mondo? [lib-3-media-geografia-fusi-orari] · ORARIO
+concetti: Perché esistono i fusi; Il meridiano di Greenwich; Calcolare l'ora; Linea del cambiamento di data
+- Di quanti gradi gira la Terra in un'ora?
+- Il meridiano fondamentale, da cui si contano i fusi orari, passa per l'osservatorio di ___, vicino a Londra.
+- Spostandosi verso est, l'ora locale aumenta.
+- D'inverno, quando a Roma (UTC+1) sono le 12:00, che ore sono a Tokyo (UTC+9)?
+- D'inverno, quando a Roma (UTC+1) sono le 15:00, che ore sono a New York (UTC−5)?
+- Che cosa succede attraversando la linea del cambiamento di data verso ovest?
+- La Cina è molto estesa da est a ovest, ma usa un solo fuso orario. Che conseguenza ha?
+- Spiega perché non può essere mezzogiorno nello stesso momento in tutto il mondo.
+
+## Chi lavora e dove [lib-3-media-geografia-settori-economici] · LAVORO
+concetti: I tre settori; Settori e sviluppo; Il terziario avanzato; Sussistenza e piantagioni
+- A quale settore economico appartiene un pescatore?
+- Quale di questi lavori appartiene al settore secondario?
+- Nei Paesi più sviluppati la maggior parte delle persone lavora nel settore terziario.
+- Un'agricoltura che produce solo il cibo necessario alla famiglia del contadino si chiama agricoltura di ___.
+- Che cos'è una piantagione?
+- In un Paese il 70% dei lavoratori è nell'agricoltura. Che cosa puoi ipotizzare?
+- Quale di questi lavori fa parte del terziario avanzato?
+- Spiega come cambia la distribuzione dei lavoratori nei tre settori quando un Paese si sviluppa.
+
+## Cibo per tutti? [lib-3-media-geografia-fame-sicurezza-alimentare] · GRANO
+concetti: Fame e malnutrizione; Le cause della fame; La FAO; Lo spreco alimentare
+- In quale città ha sede la FAO?
+- Nel mondo si produce abbastanza cibo per tutti, ma è distribuito in modo disuguale.
+- Una dieta squilibrata, con carenze o eccessi di nutrienti, si chiama ___.
+- Circa quanta parte del cibo prodotto nel mondo si perde o si spreca?
+- Perché una guerra può provocare una carestia?
+- Quale paradosso alimentare caratterizza il mondo di oggi?
+- Nei Paesi ricchi, dove avviene gran parte dello spreco di cibo?
+- Proponi tre azioni concrete che la tua famiglia o la tua scuola potrebbe fare per ridurre lo spreco di cibo.
+
+## Connessi e disconnessi [lib-3-media-geografia-internet-divario-digitale] · CAVO
+concetti: Internet nel mondo; Il divario digitale; Cavi e infrastrutture; Le opportunità digitali
+- La maggior parte dei dati di Internet tra i continenti viaggia via satellite, non nei cavi.
+- Circa quante persone nel mondo usano Internet?
+- Che cos'è il divario digitale?
+- I cavi sottomarini che trasportano Internet sono fatti di fibra ___.
+- In quale situazione il divario digitale è più forte?
+- Perché in molti Paesi africani il cellulare si è diffuso molto più del telefono fisso?
+- Quale opportunità offre Internet a chi vive in un villaggio isolato?
+- Perché ridurre il divario digitale è importante per lo sviluppo di un Paese? Spiega con parole tue.
+
+## Dall'equatore ai poli [lib-3-media-geografia-fasce-climatiche] · CLIMA
+concetti: I fattori del clima; I climi caldi; I climi temperati; I climi freddi
+- Perché vicino all'equatore fa più caldo che ai poli?
+- Salendo di altitudine, in genere la temperatura diminuisce.
+- La fascia tra il tropico del Cancro e il tropico del ___ è la zona più calda della Terra.
+- Viaggiando dall'Africa equatoriale verso il Polo Nord passando per l'Europa, in che ordine incontri questi am…
+- Quale clima ha estati calde e secche e inverni miti e piovosi?
+- Come si chiama la grande foresta di conifere che si estende in Siberia, Scandinavia e Canada?
+- Perché le città sulla costa hanno di solito inverni più miti di quelle dell'interno alla stessa latitudine?
+- Descrivi la tundra e spiega perché lì non crescono alberi.
+
+## Dalle colonie all'indipendenza [lib-3-media-geografia-africa-colonie-indipendenza] · CONFINE
+concetti: La spartizione dell'Africa; Confini artificiali; La decolonizzazione; L'eredità coloniale
+- Quali due Paesi europei controllavano la parte più grande dell'Africa coloniale?
+- Nel 1884-1885 le potenze europee si accordarono per spartirsi l'Africa alla Conferenza di ___.
+- Molti confini africani sono linee rette tracciate dagli europei senza tener conto dei popoli che vi abitavano.
+- Perché il 1960 è chiamato «l'anno dell'Africa»?
+- Quale problema hanno causato i confini tracciati a tavolino?
+- Perché in molti Paesi africani le lingue ufficiali sono il francese, l'inglese o il portoghese?
+- Dove ha sede l'Unione africana?
+- Spiega come il passato coloniale influenza ancora oggi l'economia di molti Paesi africani.
+
+## Dalle Rocciose ai Grandi Laghi [lib-3-media-geografia-america-nord-territorio] · BISONTE
+concetti: I rilievi; Le Grandi Pianure; I Grandi Laghi; I climi
+- Quale catena montuosa si trova nella parte occidentale dell'America del Nord?
+- I Grandi Laghi si trovano al confine tra Stati Uniti e Canada.
+- Le famose cascate tra il lago Erie e il lago Ontario sono le cascate del ___.
+- Perché gli Appalachi sono molto più bassi delle Montagne Rocciose?
+- Qual è il principale sistema fluviale dell'America del Nord, che sfocia nel Golfo del Messico?
+- Quale fenomeno colpisce spesso le Grandi Pianure degli Stati Uniti in primavera?
+- Che clima ha la Death Valley, in California?
+- Le Grandi Pianure sono chiamate il «granaio del mondo». Spiega perché quest'area è così adatta all'agricoltur…
+
+## Deserti e oro nero [lib-3-media-geografia-medio-oriente-petrolio] · GREGGIO
+concetti: Dove si trova; Il petrolio; L'acqua, risorsa preziosa; Religioni e luoghi sacri
+- Intorno a quale golfo si trovano alcuni dei più grandi giacimenti di petrolio del mondo?
+- Gerusalemme è considerata una città sacra da ebrei, cristiani e musulmani.
+- Nel deserto, un luogo dove l'acqua affiora e crescono palme e coltivazioni si chiama ___.
+- Quali due fiumi attraversano la Mesopotamia, nell'attuale Iraq?
+- Perché città come Dubai investono molto in turismo, finanza e commercio?
+- In quale Paese si trova La Mecca, la città più sacra dell'islam?
+- Che clima prevale in gran parte del Medio Oriente?
+- Il petrolio ha reso ricchi molti Paesi del Golfo Persico. Spiega perché dipendere quasi solo dal petrolio può…
+
+## Dove vive l'umanità [lib-3-media-geografia-distribuzione-densita] · DENSO
+concetti: La densità di popolazione; Le zone affollate; Le zone semivuote; I fattori umani
+- Un Paese ha 2 000 000 di abitanti e una superficie di 50 000 km². Qual è la sua densità?
+- Più della metà della popolazione mondiale vive in Asia.
+- Quale di queste regioni è quasi disabitata?
+- Le persone tendono a concentrarsi nelle pianure fertili e lungo le ___, dove è più facile commerciare.
+- Perché le regioni polari hanno pochissimi abitanti?
+- Quale fattore umano attira molti abitanti in una zona?
+- Il Bangladesh ha circa 170 milioni di abitanti su circa 148 000 km²; il Canada circa 40 milioni su quasi 10 m…
+- Il Sahara e la valle del Nilo sono vicini, ma il primo è quasi vuoto e la seconda è affollatissima. Spiega pe…
+
+## Energia dal sole e dal vento [lib-3-media-geografia-fonti-rinnovabili] · EOLICO
+concetti: Che cosa sono le rinnovabili; Solare ed eolico; Idroelettrico e geotermia; Le biomasse
+- Quale di queste fonti è rinnovabile?
+- I pannelli che trasformano la luce del sole in elettricità si chiamano pannelli ___.
+- In Toscana, a Larderello, si produce elettricità sfruttando il calore interno della Terra.
+- Qual è il principale limite del solare e dell'eolico?
+- In quale ambiente conviene costruire una centrale idroelettrica?
+- Che cosa sono le biomasse?
+- Quale Paese produce quasi tutta la sua elettricità con idroelettrico e geotermia?
+- Perché le fonti rinnovabili sono considerate fondamentali per lo sviluppo sostenibile?
+
+## Fabbriche senza confini [lib-3-media-geografia-multinazionali-delocalizzazione] · FILIALE
+concetti: Le multinazionali; La delocalizzazione; Effetti nei Paesi di arrivo; Effetti nei Paesi di partenza
+- Che cos'è una multinazionale?
+- Spostare la produzione in un altro Paese per ridurre i costi si chiama ___.
+- Qual è il motivo principale per cui un'azienda delocalizza?
+- Quando un'azienda delocalizza, nel Paese di partenza possono chiudere fabbriche e perdersi posti di lavoro.
+- Quale vantaggio può avere un Paese povero che accoglie fabbriche straniere?
+- Perché la delocalizzazione può danneggiare l'ambiente nei Paesi di arrivo?
+- Quale vantaggio della delocalizzazione hanno i consumatori dei Paesi ricchi?
+- Spiega perché molti vestiti che indossi sono prodotti in Paesi asiatici come il Bangladesh o il Vietnam.
+
+## Foreste che scompaiono [lib-3-media-geografia-deforestazione-amazzonia] · ALBERO
+concetti: Le foreste pluviali; Le cause della deforestazione; Le conseguenze; Le soluzioni
+- Qual è la foresta tropicale più grande del mondo?
+- Qual è una delle principali cause della deforestazione in Amazzonia?
+- In Indonesia e Malesia grandi foreste vengono abbattute per piantare la palma da ___.
+- La deforestazione può ridurre le piogge di una regione, perché gli alberi rilasciano nell'aria molto vapore a…
+- Perché abbattere una foresta pluviale riduce la biodiversità?
+- Che cosa garantisce il marchio FSC su un prodotto di legno o di carta?
+- Quale effetto ha la deforestazione sul suolo delle zone tropicali?
+- Vivi in Italia, lontano dall'Amazzonia: in che modo le tue scelte di consumo possono aiutare a proteggere le …
+
+## Giganti dell'Africa subsahariana [lib-3-media-geografia-nigeria-sudafrica] · MANDELA
+concetti: La Nigeria; Il Sudafrica; L'apartheid; Le sfide di oggi
+- Qual è il Paese più popoloso dell'Africa?
+- Nelson Mandela divenne nel 1994 il primo presidente nero del Sudafrica.
+- Il regime di separazione tra bianchi e neri in vigore in Sudafrica fino agli anni Novanta si chiamava ___.
+- Di quali risorse minerarie è particolarmente ricco il Sudafrica?
+- Qual è la principale risorsa che la Nigeria esporta?
+- Quale particolarità ha il Sudafrica riguardo alle sue capitali?
+- Perché il Sudafrica è stato chiamato «nazione arcobaleno» dopo la fine dell'apartheid?
+- Che cos'era l'apartheid e perché la sua fine è stata così importante?
+
+## I 17 obiettivi dell'ONU [lib-3-media-geografia-agenda-2030] · AGENDA
+concetti: Lo sviluppo sostenibile; L'Agenda 2030; Le tre dimensioni; Gli obiettivi
+- Quanti sono gli Obiettivi di sviluppo sostenibile dell'Agenda 2030?
+- L'Agenda 2030 è stata approvata nel 2015 dagli Stati membri dell'ONU.
+- Lo sviluppo sostenibile soddisfa i bisogni del presente senza compromettere quelli delle generazioni ___.
+- Quali sono le tre dimensioni dello sviluppo sostenibile?
+- Quale di questi è uno degli Obiettivi dell'Agenda 2030?
+- Una fabbrica guadagna molto ma inquina un fiume e sfrutta gli operai. Quali dimensioni della sostenibilità no…
+- In quale documento del 1987 è stata data la definizione più famosa di sviluppo sostenibile?
+- Scegli un obiettivo dell'Agenda 2030 e spiega che cosa potresti fare tu, nella vita di tutti i giorni, per co…
+
+## Il Cono Sud [lib-3-media-geografia-argentina-cile] · ANDE
+concetti: L'Argentina; Il Cile; Le risorse; La Terra del Fuoco
+- Qual è la capitale dell'Argentina?
+- In Argentina vivono milioni di discendenti di emigrati italiani.
+- Il Cile è il primo produttore mondiale di ___, un metallo usato per i cavi elettrici.
+- Quale forma ha il territorio del Cile?
+- Perché il Cile ha climi così diversi al suo interno?
+- Come si chiama l'arcipelago all'estremo sud del Sud America, diviso tra Argentina e Cile?
+- Perché per secoli i navigatori hanno temuto di doppiare Capo Horn?
+- Immagina di viaggiare in Cile dal deserto di Atacama fino a Capo Horn: descrivi come cambiano clima e paesagg…
+
+## Il continente dei record [lib-3-media-geografia-asia-territorio] · TIBET
+concetti: Il continente più grande; Le grandi montagne; Fiumi, laghi e record; Deserti e climi
+- Qual è il continente più esteso della Terra?
+- La montagna più alta del mondo, al confine tra Nepal e Cina, si chiama ___.
+- Il Mar Morto, tra Israele e Giordania, è il punto più basso delle terre emerse.
+- Come si è formata la catena dell'Himalaya?
+- Qual è il fiume più lungo dell'Asia?
+- Quale catena montuosa segna tradizionalmente il confine tra Europa e Asia?
+- Il deserto del Gobi, tra Cina e Mongolia, ha una caratteristica sorprendente. Quale?
+- L'Asia va dalle regioni artiche alle isole equatoriali. Spiega perché vi si trovano climi e ambienti così div…
+
+## Il diritto di andare a scuola [lib-3-media-geografia-infanzia-istruzione] · SCUOLA
+concetti: I diritti dell'infanzia; Il lavoro minorile; L'alfabetizzazione; L'istruzione come motore
+- In quale anno l'ONU ha approvato la Convenzione sui diritti dell'infanzia?
+- La maggior parte dei bambini che lavorano nel mondo è impiegata nell'agricoltura.
+- La percentuale di persone che sanno leggere e scrivere si chiama tasso di ___.
+- Qual è la causa principale del lavoro minorile?
+- Per quale motivo Malala Yousafzai ha ricevuto il Premio Nobel per la pace nel 2014?
+- In alcuni Paesi poveri le bambine vanno a scuola meno dei maschi. Quale può essere una causa?
+- Perché l'istruzione aiuta un Paese a uscire dalla povertà?
+- Scegli due diritti della Convenzione sui diritti dell'infanzia e spiega perché sono importanti per un bambino.
+
+## Il dono del Nilo [lib-3-media-geografia-egitto-nord-africa] · DELTA
+concetti: L'Egitto e il Nilo; La diga di Assuan; Il Canale di Suez; Il Maghreb
+- La maggior parte degli egiziani vive lungo la valle e il delta del Nilo.
+- Qual è la capitale dell'Egitto?
+- La grande diga costruita sul Nilo, che ha creato il lago Nasser, è la diga di ___.
+- Quale effetto negativo ha avuto la diga di Assuan?
+- Perché il Canale di Suez è importante per l'economia egiziana?
+- Quali Paesi formano il cuore del Maghreb?
+- Quale lingua è la più diffusa nei Paesi del Nord Africa?
+- Lo storico greco Erodoto scrisse che «l'Egitto è un dono del Nilo». Spiega che cosa voleva dire.
+
+## Il drago cinese [lib-3-media-geografia-cina-potenza] · DRAGO
+concetti: Territorio e popolazione; Dal 1949 alle riforme; La fabbrica del mondo; La politica del figlio unico
+- Qual è la capitale della Cina?
+- La Cina ha applicato per decenni la politica del figlio unico per frenare la crescita della popolazione.
+- In quale parte della Cina si concentra la maggior parte della popolazione?
+- La Repubblica popolare cinese fu proclamata nel 1949 dal leader comunista ___.
+- Che cosa cambiò in Cina con le riforme avviate da Deng Xiaoping dal 1978?
+- Perché la Cina è stata chiamata «la fabbrica del mondo»?
+- Quale conseguenza ha avuto la politica del figlio unico?
+- La Cina è diventata in pochi decenni una grande potenza economica. Indica almeno due fattori di questa cresci…
+
+## Il gigante verde-oro [lib-3-media-geografia-brasile] · SAMBA
+concetti: Un territorio enorme; Storia e popolazione; Le città; L'economia
+- Quale lingua si parla in Brasile?
+- La capitale del Brasile è Rio de Janeiro.
+- Per sviluppare l'interno del Paese, nel 1960 il Brasile inaugurò una nuova capitale: ___.
+- Che parte del Sud America occupa il Brasile?
+- Di quale bevanda il Brasile è da molto tempo il primo produttore mondiale?
+- Perché la popolazione brasiliana è così varia nelle sue origini?
+- Qual è la città più popolosa del Brasile?
+- Il Brasile esporta molta soia e carne, ma questo crea un problema per l'ambiente. Spiega quale, collegando ec…
+
+## Il grande Nord del Canada [lib-3-media-geografia-canada] · ACERO
+concetti: Un territorio immenso; Pochi abitanti al sud; Due lingue e molti popoli; Le risorse naturali
+- Qual è la capitale del Canada?
+- Il Canada è il secondo Paese più esteso del mondo, dopo la Russia.
+- Nella provincia canadese del Québec la lingua più parlata è il ___.
+- Dove vive la maggior parte dei canadesi?
+- Come si chiama il popolo nativo che abita le regioni artiche del Canada?
+- Quale risorsa naturale abbonda nelle immense foreste canadesi?
+- Perché il Canada, pur essendo enorme, ha una densità di popolazione molto bassa?
+- Il Canada ha due lingue ufficiali. Spiega da dove deriva questa situazione e che cosa comporta nella vita quo…
+
+## Il Paese del Sol Levante [lib-3-media-geografia-giappone-arcipelago] · FUJI
+concetti: Un arcipelago montuoso; Terremoti e vulcani; Un'economia senza materie prime; Una popolazione anziana
+- Qual è la capitale del Giappone?
+- Il Giappone si trova sulla «Cintura di fuoco» del Pacifico, ricca di vulcani e terremoti.
+- Un'enorme onda causata da un terremoto sottomarino si chiama ___.
+- Perché la popolazione giapponese si concentra sulle pianure costiere?
+- Il Giappone importa gran parte del petrolio e dei minerali che usa. Perché?
+- In quali settori è particolarmente forte l'industria giapponese?
+- Quale problema demografico ha il Giappone?
+- Il Giappone è uno dei Paesi più colpiti dai terremoti. Spiega perché e come si protegge.
+
+## Il pianeta delle città [lib-3-media-geografia-urbanizzazione-megalopoli] · URBE
+concetti: L'urbanizzazione; Metropoli e megalopoli; Le baraccopoli; Città sostenibili
+- Oggi più della metà della popolazione mondiale vive in città.
+- Quale motivo spinge tanta gente a lasciare le campagne per la città?
+- In Brasile i quartieri di baracche sulle colline di Rio de Janeiro si chiamano ___.
+- Che cos'è una megalopoli?
+- Quale problema è tipico delle baraccopoli?
+- Quale scelta rende una città più sostenibile?
+- Perché nelle grandi città dei Paesi poveri crescono le baraccopoli?
+- Immagina di essere sindaco di una grande città inquinata e trafficata: proponi due interventi e spiega perché…
+
+## Il ritmo dei monsoni [lib-3-media-geografia-monsoni-asia] · PIOGGIA
+concetti: Che cosa sono i monsoni; Perché cambiano direzione; Una risorsa per l'agricoltura; I rischi del monsone
+- Che cosa sono i monsoni?
+- Il monsone estivo porta piogge abbondanti sull'India.
+- Quale coltivazione, molto diffusa in Asia meridionale, ha bisogno delle grandi piogge monsoniche?
+- D'estate la terraferma si scalda ___ del mare e richiama aria umida dall'oceano.
+- Perché il Bangladesh è spesso colpito da alluvioni durante il monsone?
+- Che cosa succede se in India il monsone estivo arriva in ritardo o porta poca pioggia?
+- D'inverno il monsone soffia dalla terraferma verso il mare. Che tempo porta?
+- Spiega perché per milioni di contadini asiatici il monsone è insieme una benedizione e un pericolo.
+
+## India, mosaico di popoli [lib-3-media-geografia-india-subcontinente] · GANGE
+concetti: Il territorio; L'indipendenza; Società e religioni; Un'economia di contrasti
+- Da quale Paese l'India ottenne l'indipendenza nel 1947?
+- Il leader che guidò la lotta nonviolenta per l'indipendenza dell'India fu ___.
+- La religione praticata dalla maggioranza degli indiani è l'induismo.
+- Qual è la capitale dell'India?
+- Per quale settore è famosa la città di Bangalore (Bengaluru)?
+- Che cosa si può dire oggi del sistema delle caste in India?
+- Perché la pianura del Gange è una delle zone più popolate del mondo?
+- L'India è un Paese di forti contrasti. Descrivine almeno due.
+
+## L'energia che si esaurisce [lib-3-media-geografia-fonti-non-rinnovabili] · CARBONE
+concetti: I combustibili fossili; Petrolio e geopolitica; L'energia nucleare; L'impatto ambientale
+- Quale di queste è una fonte di energia non rinnovabile?
+- Il petrolio si è formato in pochi anni dai rifiuti delle città.
+- L'organizzazione che riunisce molti grandi Paesi esportatori di petrolio si chiama ___.
+- Qual è il principale problema dell'energia nucleare da fissione?
+- Che cos'è una «marea nera»?
+- Perché il prezzo del petrolio può salire molto quando c'è una guerra in Medio Oriente?
+- Perché carbone, petrolio e gas si chiamano combustibili «fossili»?
+- Perché, anche se il petrolio è ancora disponibile, è importante ridurne l'uso? Dai almeno due motivi.
+
+## L'oro blu del pianeta [lib-3-media-geografia-acqua-risorsa] · POZZO
+concetti: Quanta acqua dolce; Gli usi dell'acqua; Scarsità e accesso; Soluzioni e tensioni
+- Circa quanta parte dell'acqua della Terra è dolce?
+- Nel mondo l'attività che consuma più acqua dolce è l'agricoltura.
+- Per irrigare sprecando poca acqua si usa l'irrigazione a ___, che bagna solo vicino alle radici.
+- Dove si trova la maggior parte dell'acqua dolce del pianeta?
+- Che cosa fa un impianto di desalinizzazione?
+- Perché la mancanza d'acqua vicino a casa può impedire alle bambine di andare a scuola?
+- Perché una grande diga su un fiume che attraversa più Stati può creare tensioni?
+- Indica tre gesti quotidiani per risparmiare acqua e spiega perché è importante non sprecarla anche dove non m…
+
+## Le fasi della transizione [lib-3-media-geografia-transizione-demografica] · ANZIANI
+concetti: Che cos'è la transizione; Le quattro fasi; L'invecchiamento; La piramide delle età
+- Che cosa descrive la transizione demografica?
+- L'Italia è uno dei Paesi con la popolazione più anziana del mondo.
+- Metti in ordine le fasi della transizione demografica, dalla prima all'ultima.
+- In quale fase della transizione la popolazione cresce più velocemente?
+- Il grafico che mostra quanti abitanti ci sono per ogni fascia d'età si chiama piramide ___.
+- Una piramide delle età con la base molto larga e la cima stretta indica un Paese...
+- Quale problema crea l'invecchiamento della popolazione?
+- Perché, secondo te, quando un Paese diventa più ricco le famiglie tendono ad avere meno figli?
+
+## Le fedi del mondo [lib-3-media-geografia-religioni-mondo] · FEDE
+concetti: Le religioni monoteiste; La diffusione nel mondo; Le religioni dell'Asia; La libertà religiosa
+- Qual è la religione con il maggior numero di fedeli al mondo?
+- Ebraismo, cristianesimo e islam sono religioni ___, perché credono in un solo Dio.
+- Il buddismo è nato in India dagli insegnamenti di Siddharta Gautama, chiamato il Buddha.
+- In quale di queste aree l'islam è la religione più diffusa?
+- Quale idea è centrale sia nell'induismo sia nel buddismo?
+- In quale regione sono nate le tre grandi religioni monoteiste?
+- Che cosa significa libertà religiosa?
+- In una classe ci sono compagni di religioni diverse. Spiega perché conoscere le altre religioni può aiutare a…
+
+## Le lingue del pianeta [lib-3-media-geografia-lingue-mondo] · PAROLA
+concetti: Una grande varietà; Le lingue più parlate; L'eredità coloniale; Le lingue franche
+- Circa quante lingue si parlano oggi nel mondo?
+- Il cinese mandarino è la lingua con il maggior numero di madrelingua al mondo.
+- Una lingua usata per comunicare tra persone che parlano lingue diverse si chiama lingua ___.
+- Perché in Angola e in Mozambico si parla portoghese?
+- Perché oggi l'inglese è così usato in tutto il mondo?
+- In quale grande area del mondo la lingua più diffusa è lo spagnolo?
+- Perché molte lingue rischiano di scomparire?
+- Quando una lingua scompare, che cosa si perde? Spiega con parole tue.
+
+## Le Nazioni Unite [lib-3-media-geografia-onu-organizzazioni] · PACE
+concetti: La nascita dell'ONU; Gli organi principali; Le agenzie; Caschi blu e diritti
+- In quale anno è nata l'ONU?
+- La sede principale dell'ONU si trova a ___.
+- I «caschi blu» sono soldati inviati dall'ONU nelle missioni di pace.
+- Quali Paesi sono membri permanenti del Consiglio di sicurezza, con diritto di veto?
+- Quale agenzia dell'ONU si occupa dei diritti e della salute dei bambini?
+- Le Dolomiti e il centro storico di Firenze sono patrimonio dell'umanità. Quale agenzia dell'ONU li ha riconos…
+- Che cosa succede se un membro permanente del Consiglio di sicurezza vota contro una decisione?
+- Perché, secondo te, alla fine della Seconda guerra mondiale gli Stati sentirono il bisogno di creare l'ONU?
+
+## Le nuove potenze emergenti [lib-3-media-geografia-brics-paesi-emergenti] · POTENZA
+concetti: I Paesi emergenti; I BRICS; Le tigri asiatiche; I costi della crescita
+- Quali Paesi formavano i BRICS originari?
+- Nei cinque Paesi BRICS originari vive circa il 40% della popolazione mondiale.
+- Un Paese che cresce rapidamente e si sta industrializzando viene detto Paese ___.
+- Quali Paesi sono stati chiamati «tigri asiatiche»?
+- Su che cosa hanno puntato le tigri asiatiche per crescere così in fretta?
+- Quale problema accompagna spesso la crescita molto rapida dei Paesi emergenti?
+- Perché le multinazionali investono volentieri nei Paesi emergenti?
+- Perché la crescita dei Paesi emergenti sta cambiando gli equilibri del mondo? Spiega con parole tue.
+
+## Le rotte delle merci [lib-3-media-geografia-commercio-mondiale] · PORTO
+concetti: Importazioni ed esportazioni; Dazi e libero scambio; L'Organizzazione mondiale del commercio; Rotte e canali strategici
+- Se l'Italia vende vino al Giappone, per l'Italia questa è...
+- La tassa che uno Stato applica alle merci che arrivano dall'estero si chiama ___.
+- Perché un governo potrebbe alzare i dazi sulle auto straniere?
+- Quale organizzazione internazionale stabilisce le regole del commercio mondiale?
+- La maggior parte delle merci scambiate nel mondo viaggia via mare.
+- Perché il Canale di Suez è così importante per il commercio?
+- Un Paese esporta merci per 500 miliardi di euro e ne importa per 420 miliardi. La sua bilancia commerciale è.…
+- Spiega la differenza tra protezionismo e libero scambio, indicando un possibile effetto di ciascuno.
+
+## Misurare lo sviluppo [lib-3-media-geografia-indicatori-sviluppo] · INDICE
+concetti: PIL e PIL pro capite; L'Indice di sviluppo umano; Nord e Sud del mondo; Gli indicatori sociali
+- Un Paese ha un PIL di 60 miliardi di dollari e 3 milioni di abitanti. Qual è il suo PIL pro capite?
+- Il «Nord del mondo» comprende solo Paesi dell'emisfero settentrionale.
+- Quali tre aspetti combina l'Indice di sviluppo umano (ISU)?
+- Il numero di bambini che muoiono prima di compiere un anno, ogni 1000 nati, si chiama mortalità ___.
+- Perché il PIL pro capite da solo non basta a capire come vive la gente?
+- Quale di questi dati dice di più sulla qualità della sanità di un Paese?
+- Il Paese A ha un ISU di 0,95, il Paese B di 0,45. Che cosa puoi dedurre?
+- Perché l'ONU ha creato l'ISU invece di usare soltanto il PIL per misurare lo sviluppo?
+
+## Niente si butta via [lib-3-media-geografia-economia-circolare-rifiuti] · RICICLO
+concetti: Economia lineare e circolare; La gerarchia dei rifiuti; La plastica negli oceani; La raccolta differenziata
+- Quale sequenza descrive l'economia lineare?
+- Metti in ordine queste scelte, dalla migliore alla peggiore, secondo la gerarchia dei rifiuti.
+- Gli scarti di cucina raccolti con l'umido possono diventare ___, un fertilizzante naturale.
+- Le microplastiche possono entrare nella catena alimentare attraverso i pesci.
+- Perché ridurre i rifiuti è meglio che riciclarli?
+- Dove si trova la più nota grande chiazza di rifiuti di plastica?
+- Quale di questi è un esempio di economia circolare?
+- Scegli un oggetto di uso comune, come una bottiglia o una maglietta, e spiega come potrebbe rientrare in un'e…
+
+## Otto miliardi di persone [lib-3-media-geografia-popolazione-mondiale] · BOOM
+concetti: Otto miliardi di abitanti; L'esplosione demografica; Natalità e mortalità; I Paesi più popolosi
+- Circa quanti abitanti ha oggi la Terra?
+- Dal 2023 il Paese più popoloso del mondo è l'India, che ha superato la Cina.
+- Perché nel Novecento la popolazione mondiale è cresciuta così rapidamente?
+- Il numero di bambini nati ogni 1000 abitanti in un anno si chiama tasso di ___.
+- In un Paese il tasso di natalità è 30 per mille e quello di mortalità è 10 per mille. Qual è la crescita natu…
+- La Terra è passata da 7 a 8 miliardi di abitanti tra il 2011 e il 2022. Quanto tempo è servito?
+- In quale continente oggi la popolazione cresce più in fretta?
+- Spiega con parole tue perché, se la mortalità cala ma la natalità resta alta, la popolazione cresce molto in …
+
+## Patti per il pianeta [lib-3-media-geografia-accordi-clima] · PATTO
+concetti: Il Vertice della Terra; Il Protocollo di Kyoto; L'Accordo di Parigi; Le COP
+- Quale limite al riscaldamento globale fissa l'Accordo di Parigi?
+- Il Protocollo di Kyoto obbligava soprattutto i Paesi industrializzati a ridurre le loro emissioni.
+- Metti in ordine cronologico queste tappe della lotta al cambiamento climatico.
+- Le conferenze annuali dell'ONU sul clima sono indicate con la sigla ___.
+- In quale città si tenne nel 1992 il «Vertice della Terra»?
+- Che cosa rende l'Accordo di Parigi diverso dal Protocollo di Kyoto?
+- Perché per il clima servono accordi tra tutti i Paesi e non bastano le scelte di uno solo?
+- Un Paese dice: «Perché dovrei ridurre le mie emissioni se gli altri non lo fanno?». Rispondi spiegando perché…
+
+## Popoli in movimento [lib-3-media-geografia-migrazioni-internazionali] · VIAGGIO
+concetti: Le cause delle migrazioni; Migranti e rifugiati; L'Italia, da emigrazione a immigrazione; Gli effetti delle migrazioni
+- Quale di questi è un fattore di «spinta» che porta a lasciare il proprio Paese?
+- Il denaro che gli emigrati mandano alle famiglie rimaste in patria si chiama ___.
+- Tra la fine dell'Ottocento e l'inizio del Novecento milioni di italiani emigrarono verso le Americhe.
+- Chi è un rifugiato?
+- Quale accordo internazionale del 1951 definisce i diritti dei rifugiati?
+- Quale effetto negativo può avere l'emigrazione sul Paese di partenza?
+- Un giovane senegalese parte per la Francia perché lì gli è stato offerto un lavoro. Che tipo di migrazione è?
+- Spiega quali vantaggi e quali difficoltà può portare l'immigrazione nel Paese che accoglie.
+
+## Quando avanza il deserto [lib-3-media-geografia-desertificazione-sahel] · DUNA
+concetti: Che cos'è la desertificazione; Le cause; Il Sahel; La Grande Muraglia Verde
+- La desertificazione è il degrado di terre aride che diventano sterili, spesso per colpa dell'uomo.
+- Come si chiama la fascia semiarida che si estende a sud del Sahara?
+- Quale attività umana favorisce la desertificazione?
+- Il progetto africano per piantare alberi lungo tutto il Sahel si chiama Grande Muraglia ___.
+- Perché tagliare gli alberi per fare legna da ardere peggiora la desertificazione?
+- Quale differenza c'è tra deserto e desertificazione?
+- Quale conseguenza porta la desertificazione agli abitanti del Sahel?
+- Spiega come povertà e desertificazione possono alimentarsi a vicenda, creando un circolo vizioso.
+
+## Ripasso: giro dei continenti [lib-3-media-geografia-ripasso-continenti] · GLOBO
+concetti: L'estensione dei continenti; La popolazione; Fiumi e oceani; Stretti e passaggi
+- Metti in ordine questi continenti dal più esteso al meno esteso.
+- Quale continente è il secondo più popoloso, dopo l'Asia?
+- L'Europa è più estesa dell'America del Sud.
+- Qual è l'oceano più grande della Terra?
+- Lo stretto che separa la Spagna dal Marocco, cioè l'Europa dall'Africa, è lo stretto di ___.
+- Quale stretto separa l'Asia dall'America del Nord?
+- Quale di queste coppie fiume – continente è corretta?
+- Scegli due continenti molto diversi tra loro e confrontali per estensione, popolazione e un ambiente tipico.
+
+## Russia, gigante tra due continenti [lib-3-media-geografia-russia-siberia] · TRENO
+concetti: Lo Stato più esteso; La Siberia; La Transiberiana; Le risorse
+- Qual è lo Stato più esteso del mondo?
+- La maggior parte della popolazione russa vive nella parte europea del Paese.
+- La ferrovia che collega Mosca a Vladivostok, sul Pacifico, si chiama ___.
+- Che cos'è il permafrost?
+- Quali risorse energetiche la Russia esporta in grande quantità?
+- Quanti fusi orari attraversa la Russia?
+- Perché i grandi fiumi siberiani come l'Ob, l'Enisej e la Lena sono poco usati per la navigazione?
+- La Siberia è immensa e ricca di risorse, ma pochissimo abitata. Spiega perché.
+
+## Stelle e strisce [lib-3-media-geografia-stati-uniti] · DOLLARO
+concetti: Uno Stato federale; Una nazione di immigrati; Una grande economia; Le regioni
+- Qual è la capitale degli Stati Uniti?
+- Gli Stati Uniti sono una federazione formata da ___ Stati.
+- Gli Stati Uniti sono il terzo Paese più popoloso del mondo, dopo India e Cina.
+- Che cosa rappresentano le 13 strisce della bandiera statunitense?
+- Per che cosa è famosa la Silicon Valley, in California?
+- Perché gli Stati Uniti sono definiti una «nazione di immigrati»?
+- Quali due Stati degli USA non confinano con gli altri 48?
+- Indica almeno tre fattori che hanno reso gli Stati Uniti una grande potenza economica.
+
+## Tra deserti e savane [lib-3-media-geografia-africa-territorio] · SAVANA
+concetti: Il continente africano; Gli ambienti; Rilievi e Rift Valley; Fiumi e laghi
+- Qual è il deserto caldo più grande del mondo?
+- La montagna più alta dell'Africa, in Tanzania, si chiama ___.
+- L'equatore attraversa il continente africano.
+- Immagina di viaggiare dall'equatore verso il Sahara: metti in ordine gli ambienti che incontri.
+- In quale mare sfocia il Nilo?
+- Che cos'è la Rift Valley?
+- Qual è il lago più grande dell'Africa?
+- Spiega perché in Africa gli ambienti si dispongono quasi a fasce, simili a nord e a sud dell'equatore.
+
+## Tra due oceani [lib-3-media-geografia-messico-america-centrale] · MAYA
+concetti: Il Messico; L'America centrale; Il Canale di Panama; Economia e rischi
+- Quale lingua si parla principalmente in Messico?
+- Il canale che dal 1914 collega l'oceano Atlantico e l'oceano Pacifico è il canale di ___.
+- Gli Aztechi avevano la loro capitale, Tenochtitlán, dove oggi sorge Città del Messico.
+- Perché le navi preferiscono passare dal canale di Panama?
+- Perché l'America centrale è colpita spesso da terremoti ed eruzioni?
+- Quale fenomeno atmosferico minaccia spesso, tra estate e autunno, le isole dei Caraibi?
+- Che cosa sono le maquiladoras messicane?
+- Osserva la posizione dell'America centrale: spiega perché è insieme un ponte e una barriera.
+
+## Un mondo sempre connesso [lib-3-media-geografia-globalizzazione] · RETE
+concetti: Che cos'è la globalizzazione; I motori della globalizzazione; La globalizzazione culturale; Vantaggi e rischi
+- Che cosa si intende per globalizzazione?
+- Quale invenzione ha reso molto economico il trasporto delle merci via mare?
+- Con la globalizzazione culturale si possono trovare gli stessi marchi e film in città di continenti diversi.
+- Grazie a trasporti veloci e comunicazioni istantanee si dice che il mondo è diventato un «villaggio ___».
+- Perché una crisi economica negli Stati Uniti può colpire anche l'Europa e l'Asia?
+- Quale rischio culturale porta la globalizzazione?
+- Il tuo smartphone è progettato negli USA, montato in Cina con pezzi coreani e venduto in Italia. È un esempio…
+- Indica un vantaggio e uno svantaggio della globalizzazione, con un esempio concreto per ciascuno.
+
+## Una Terra più calda [lib-3-media-geografia-effetto-serra-clima] · SERRA
+concetti: L'effetto serra naturale; L'effetto serra potenziato; Le conseguenze; Mitigazione e adattamento
+- Quale gas serra è prodotto soprattutto bruciando petrolio, carbone e gas?
+- Senza l'effetto serra naturale la Terra sarebbe molto più fredda e quasi invivibile.
+- Lo scioglimento dei ghiacci sulla terraferma fa ___ il livello dei mari.
+- Perché la deforestazione contribuisce al riscaldamento globale?
+- Quale di queste è una conseguenza del riscaldamento globale?
+- Quale di queste azioni serve a ridurre le emissioni di gas serra?
+- Perché piccole isole del Pacifico come Tuvalu sono molto preoccupate per il riscaldamento globale?
+- Spiega la differenza tra effetto serra naturale ed effetto serra causato dall'uomo.
+
+## Viaggiare nel mondo globale [lib-3-media-geografia-turismo-globale] · VALIGIA
+concetti: La crescita del turismo; I benefici economici; Il troppo turismo; Il turismo sostenibile
+- Ogni anno nel mondo si contano più di un miliardo di arrivi di turisti internazionali.
+- Quale di questi fattori ha fatto crescere molto il turismo internazionale?
+- Quando una località è invasa da troppi turisti e ne subisce i danni si parla di ___.
+- Quale vantaggio porta il turismo a una regione?
+- Quale problema crea il troppo turismo nel centro di Venezia?
+- Che cos'è l'ecoturismo?
+- Perché per un Paese ricco di foreste come la Costa Rica proteggere la natura può essere anche un affare?
+- Organizzi un viaggio con la tua famiglia: indica tre comportamenti da turista responsabile e spiega perché so…

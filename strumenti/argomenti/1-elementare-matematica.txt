@@ -1,0 +1,564 @@
+# 1ª elementare · Matematica: 51 missioni valide
+# ultima bozza numerata: 05 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Al negozio con il portamonete [lib-1-elementare-matematica-negozio-resto] · CASSA
+concetti: Il prezzo; Quanto spendo; Mi bastano i soldi?; Il resto
+- Una palla costa 4 euro, un libro 9 euro. Quale costa di più?
+- Hai 5 euro. Una matita costa 2 euro. I soldi ti bastano.
+- Compri un quaderno da 3 euro e una gomma da 1 euro. Quanto spendi?
+- Paghi con 10 euro un gioco da 8 euro. Il resto è ___ euro.
+- Hai 6 euro. Quale gioco puoi comprare?
+- Un gelato costa 2 euro. Quanto costano 3 gelati?
+- Metti in ordine che cosa succede quando fai la spesa.
+- Hai 20 euro. Compri un libro da 12 euro. Quanto resto ricevi?
+
+## Caselle e incroci [lib-1-elementare-matematica-reticolo] · INCROCI
+concetti: Righe e colonne; Il nome della casella; Muoversi sul reticolo
+- Come sono le righe di una tabella?
+- Le colonne sono stese da sinistra a destra.
+- Nella casella B2, la B è la colonna. Che cos'è il 2?
+- La casella nella colonna C e nella riga 4 si chiama ___.
+- Le colonne sono A, B, C da sinistra. Sei in A1 e vai di una casella a destra. Dove sei?
+- Le righe sono numerate 1, 2, 3 dal basso. Il robot è in B1 e sale di 2 caselle. Dove arriva?
+- Una tabella con 3 colonne e 3 righe ha 9 caselle.
+- Spiega a un amico come trovare la casella C2.
+
+## Ce n'è uno per tutti? [lib-1-elementare-matematica-tanti-quanti] · TANTI
+concetti: Fare le coppie; Tanti quanti; Di più e di meno; Quanti mancano
+- Ci sono 5 bambini e 5 sedie. Che cosa succede?
+- Metti una tazza su ogni piattino. Restano 2 piattini vuoti: i piattini sono di più.
+- Ci sono 6 cani e 4 cucce. Ogni cane va in una cuccia. Che cosa succede?
+- Ci sono 7 bambini e 5 cappelli. Mancano ___ cappelli.
+- Come scopri se ci sono più forchette o più piatti, senza contare?
+- Ci sono 9 palloncini e 9 bambini. Ne scoppia uno. Che cosa è vero adesso?
+- Ogni bambino prende un palloncino e avanzano 3 palloncini: bambini e palloncini sono tanti quanti.
+- Alla festa ci sono 10 bambini e 7 fette di torta. Basta la torta?
+
+## Cerchi, quadrati e triangoli [lib-1-elementare-matematica-figure] · FORMA
+concetti: Le figure piane; Lati e angoli; Quadrato e rettangolo; Figure intorno a noi
+- Quale figura è tonda e senza punte?
+- Il triangolo ha tre lati.
+- Quale oggetto ricorda la forma di un cerchio?
+- Il quadrato ha 4 lati tutti ___.
+- Quanti angoli ha un rettangolo?
+- Qual è la differenza tra quadrato e rettangolo?
+- Quanti lati hanno, tutti insieme, 2 triangoli?
+- Guarda la tua aula. Quale oggetto ricorda la forma di un rettangolo?
+
+## Certo, possibile o impossibile? [lib-1-elementare-matematica-certo-possibile] · FORSE
+concetti: Certo; Possibile; Impossibile; Pescare dal sacchetto
+- Quale cosa è impossibile?
+- Dopo lunedì viene sempre martedì: è certo.
+- Nel sacchetto ci sono solo palline rosse. Ne peschi una. Com'è?
+- Lancio una moneta: che esca testa è ___.
+- Nel sacchetto ci sono palline rosse e gialle. Ne peschi una. Che cosa può succedere?
+- Quale cosa è possibile, ma non sicura?
+- Che domani sia domenica è certo, qualunque giorno sia oggi.
+- Nella scatola ci sono solo matite blu. Ada dice: «Prenderò una matita rossa». È possibile?
+
+## Chi contiene di più? [lib-1-elementare-matematica-capacita] · BROCCA
+concetti: Pieno, vuoto, a metà; Contiene di più o di meno; Misurare con i bicchieri; La forma inganna
+- Che cosa contiene più acqua?
+- Versi metà dell'acqua di una bottiglia piena: la bottiglia resta piena.
+- La brocca si riempie con 6 bicchieri, la bottiglia con 4. Chi contiene di più?
+- La pentola si riempie con 9 bicchieri, il vaso con 5. La pentola contiene ___ bicchieri in più.
+- Hai un vaso alto e stretto e una ciotola bassa e larga. Come scopri chi contiene di più?
+- Riempi lo stesso secchio con un bicchiere piccolo, poi con uno grande. Quando servono più versate?
+- Versi l'acqua da un bicchiere basso a uno alto e stretto: l'acqua diventa di più.
+- Ugo dice: «Il bicchiere più alto contiene sempre più acqua». Ha ragione?
+
+## Contare più veloce a gruppi [lib-1-elementare-matematica-contare-a-gruppi] · GRUPPO
+concetti: A due a due; A cinque a cinque; A dieci a dieci; Perché conviene
+- Ci sono 4 paia di scarpe. Quante scarpe sono?
+- Una mano ha 5 dita e due mani ne hanno 10.
+- Tre bambini alzano una mano ciascuno. Quante dita alzano?
+- Conto gli occhi di 6 gatti: 2, 4, 6, 8, 10, ___.
+- Conta all'indietro di 5 in 5, partendo da 20. Metti in ordine.
+- Hai 2 scatole da 10 pastelli. Quanti pastelli hai?
+- Devi contare 20 biscotti senza sbagliare. Qual è il modo più veloce?
+- Perché è più facile contare le dita della classe a cinque a cinque?
+
+## Conto alla rovescia: tre, due, uno! [lib-1-elementare-matematica-conto-alla-rovescia] · RAZZO
+concetti: Contare all'indietro; Uno in meno ogni volta; Contare indietro per togliere; Il conto alla rovescia nella vita
+- Conto alla rovescia: 5, 4, 3... Che numero viene dopo?
+- Prima di una corsa si può contare: tre, due, uno, via!
+- Contando indietro, che numero viene dopo il 15?
+- Fai il conto alla rovescia partendo da 12. Metti in ordine.
+- Per fare 8 − 2 conto indietro: 7, 6. Il risultato è ___.
+- Per fare 14 − 3 parti dal 14. Quali numeri dici?
+- Leo conta: 10, 9, 8, 6, 5. Quale numero ha saltato?
+- Devi fare 11 − 4. Come puoi farlo contando all'indietro?
+
+## Conto uno per uno [lib-1-elementare-matematica-contare-oggetti] · CONTA
+concetti: Un numero per ogni oggetto; L'ultimo numero dice quanti; L'ordine non cambia il totale; Trucchi per non sbagliare
+- Conta le stelline: ★ ★ ★ ★ ★ ★. Quante sono?
+- Conti le mele: uno, due, tre, quattro. Le mele sono 4.
+- Marco conta le palline e dice 6. Ma una l'ha contata due volte. Quante sono?
+- Conto i libri: uno, due, tre, quattro, cinque, sei, sette. I libri sono ___.
+- Conti 8 macchinine da sinistra. Poi le conti da destra. Che cosa trovi?
+- Devi contare tanti sassolini sparsi sul tavolo. Che cosa ti aiuta?
+- Se metti le stesse 5 biglie in cerchio, diventano di più.
+- Sara conta le sue bambole così: uno, due, quattro, cinque. Dice: «Sono 5». Ha ragione?
+
+## Detective dei problemi [lib-1-elementare-matematica-problemi] · INDIZIO
+concetti: I dati; La domanda; Scegliere l'operazione; La risposta
+- 'Ho 4 mele e 3 pere. Quanti frutti ho?' Qual è la domanda?
+- Nel problema 'Ho 4 mele e 3 pere', i dati sono 4 e 3.
+- 'Hai 9 biscotti e ne mangi 4.' Quale operazione fai?
+- Quando metto insieme due gruppi, uso il segno ___.
+- 'Al parco ci sono 6 bambini e 2 cani. Arrivano 3 bambini.' Quanti bambini ci sono?
+- Metti in ordine i passi per risolvere un problema.
+- 'Nel vaso ci sono 5 fiori rossi e 5 gialli. Quanti fiori ci sono?' Qual è la risposta giusta?
+- Nel pollaio ci sono 13 galline. 5 escono in giardino. Quante galline restano nel pollaio? Che operazione fai?
+
+## Dieci insieme: la decina [lib-1-elementare-matematica-decine-unita] · DECINA
+concetti: Raggruppare per dieci; Le unità; Leggere i numeri; Le decine sull'abaco
+- Quante unità formano una decina?
+- Sull'abaco, l'asta delle unità è quella a destra.
+- Nel numero 18, quante sono le unità?
+- Nel numero 12, la cifra 1 indica ___.
+- Quale numero ha 1 decina e 9 unità?
+- Hai 14 matite. Ne leghi 10 insieme. Quante restano sciolte?
+- Nel numero 15 ci sono 5 decine.
+- Sull'abaco ci sono 10 palline sull'asta delle unità. Cosa devi fare?
+
+## Doppi, che passione! [lib-1-elementare-matematica-doppi] · DOPPIO
+concetti: Che cos'è il doppio; I doppi da ricordare; I doppi sono pari; I quasi doppi
+- Qual è il doppio di 4?
+- 7 + 7 fa 14.
+- Hai 3 biglie in una mano e 3 nell'altra. Quante biglie hai?
+- 9 + 9 = ___
+- Sai che 5 + 5 = 10. Quanto fa 5 + 6?
+- Quale numero è il doppio di un altro numero?
+- Il doppio di un numero può essere 11.
+- Come puoi usare 8 + 8 per calcolare 8 + 9?
+
+## Due passi per risolvere [lib-1-elementare-matematica-problemi-due-passi] · TAPPA
+concetti: Due cose che succedono; Un passo alla volta; Arriva o va via?
+- «Sul bus ci sono 5 persone. Ne salgono 3. Poi ne scendono 2.» Quante cose succedono?
+- Se salgono 4 persone sul bus, uso il segno +.
+- Sul bus ci sono 5 persone. Ne salgono 3. Poi ne scendono 2. Quante sono ora?
+- Ho 6 perle e ne trovo 4: ora sono 10. Ne perdo 1: ora sono ___.
+- «Hai 10 euro, ne spendi 3, poi la nonna te ne dà 5.» Metti in ordine i passi.
+- Nell'acquario ci sono 8 pesci. Ne metti 5, poi ne togli 3. Quanti pesci ci sono?
+- Sullo scaffale ci sono 14 libri. Ne prendi 5 e poi ne rimetti 2. Quanti libri ci sono?
+- Al parco ci sono 7 bambini. Ne arrivano 6, poi 4 tornano a casa. Quanti bambini restano?
+
+## Gli amici del 10 [lib-1-elementare-matematica-amici-del-dieci] · AMICI
+concetti: Le coppie del 10; Con le dita; Quanto manca a 10; Sommare con gli amici
+- Quale numero, insieme a 8, fa 10?
+- 5 e 5 sono amici del 10.
+- Hai 10 dita alzate. Ne abbassi 4. Quante restano alzate?
+- Una scatola da 10 uova ne ha dentro 7. Mancano ___ uova.
+- In una fila da 10 posti, 9 sono occupati. Quanti posti sono liberi?
+- Per fare 4 + 5 + 6 in fretta, quali numeri sommi prima?
+- 3 e 6 sono amici del 10.
+- Hai tre carte: 2, 5 e 8. Quali due fanno 10?
+
+## Gruppi tutti uguali [lib-1-elementare-matematica-gruppi-uguali] · SQUADRA
+concetti: Gruppi uguali; Contare i gruppi; Fare i gruppi
+- Quali gruppi sono uguali?
+- 2 cestini con 4 mele ciascuno fanno 8 mele.
+- Ci sono 4 vasi con 3 fiori ciascuno. Quanti fiori ci sono?
+- 6 + 6 + 6 = ___
+- Hai 10 caramelle. Fai sacchetti da 2. Quanti sacchetti riempi?
+- Hai 12 biglie e le metti in scatole da 4. Quante scatole riempi?
+- Un gruppo da 4 e un gruppo da 3 sono gruppi uguali.
+- Un triciclo ha 3 ruote. Quante ruote hanno 3 tricicli?
+
+## Il dato in più [lib-1-elementare-matematica-dato-inutile] · DATO
+concetti: Dati utili; Il dato inutile; Il dato che manca
+- «Ho 5 pesci rossi e 3 gialli. Quanti pesci ho?» Quali numeri servono?
+- «Leo ha 7 anni e 4 matite. Ne compra 2.» Per sapere quante matite ha, serve il 7.
+- «Nel prato ci sono 7 mucche e 3 alberi. Arrivano 4 mucche.» Quale numero non serve per contare le mucche?
+- «Ho delle caramelle e ne mangio 3. Quante ne restano?» Non si può sapere, perché il problema non dice ___.
+- Quale problema si può risolvere?
+- «Mia ha 9 nastri. Ne usa 4. Mia ha 6 anni.» Quanti nastri restano?
+- «Nel cesto ci sono delle mele. Ne prendo 2.» Si può sapere quante mele restano.
+- «Sull'albero ci sono 8 scoiattoli e 4 nidi. Scappano 3 scoiattoli.» Quanti scoiattoli restano? Quale numero n…
+
+## Il grafico dei gusti [lib-1-elementare-matematica-grafici] · GRAFICO
+concetti: Raccogliere i dati; La tabella con i segni; Leggere il grafico; Confrontare i dati
+- Vuoi sapere il gioco preferito della classe. Che cosa fai?
+- Nella tabella: cioccolato ||||, fragola ||. Il cioccolato ha 4 voti.
+- Nel grafico: mela 5, pera 3, banana 7. Quale frutto piace di più?
+- La colonna più bassa è la risposta scelta dal numero ___ di bambini.
+- Cane: 8 voti. Gatto: 5 voti. Quanti voti in più ha il cane?
+- Votano 20 bambini. Rosso 9, blu 6, gli altri verde. Quanti votano verde?
+- La colonna più alta è quella con meno voti.
+- Vuoi sapere quale stagione preferiscono i tuoi compagni. Come fai?
+
+## Il grande viaggio fino a 20 [lib-1-elementare-numeri-20] · VENTI
+concetti: Contare fino a 20; Decine e unità; Più grande e più piccolo; Aggiungere e togliere
+- Quale numero viene subito dopo il 12?
+- Il numero 9 è più grande del numero 15.
+- Hai una scatola con 10 pennarelli e altri 7 pennarelli sciolti. Quanti pennarelli hai in tutto?
+- Il numero 16 è formato da 1 decina e ___ unità.
+- Hai 8 figurine e la nonna te ne regala altre 5. Quante figurine hai adesso?
+- Metti in ordine questi numeri, dal più piccolo al più grande.
+- Sul pulmino ci sono 15 bambini. Alla prima fermata ne scendono 6. Quanti bambini restano sul pulmino?
+- Luca dice: «19 è più grande di 20, perché 9 è più grande di 0». Ha ragione? Spiega perché.
+
+## Il numero nascosto [lib-1-elementare-matematica-numero-nascosto] · MISTERO
+concetti: Il buco nell'addizione; Il buco nella sottrazione; Controllare la risposta
+- 3 + ? = 5. Qual è il numero nascosto?
+- In 4 + ? = 10, il numero nascosto è 6.
+- ? + 7 = 12. Che numero manca?
+- 10 − ___ = 7
+- 15 − ? = 11. Che numero manca?
+- Avevi 6 biglie. Ora ne hai 13. Quante ne hai vinte?
+- In 14 − ? = 9, il numero nascosto è 4.
+- Nel cesto c'erano 16 uova. Ora ce ne sono 10. Quante uova sono state prese?
+
+## Il ponte del dieci [lib-1-elementare-matematica-addizioni-oltre-il-dieci] · PONTE
+concetti: Arrivare al 10; Spezzare il secondo numero; Il resto dopo il 10
+- Quanto manca al 9 per arrivare a 10?
+- 10 + 4 fa 14.
+- Devi fare 7 + 5. Come spezzi il 5 per passare dal 10?
+- 8 + 6 = 8 + 2 + ___
+- Quanto fa 9 + 4?
+- Metti in ordine i passi per fare 6 + 7.
+- Sara ha 8 perline e ne compra 7. Quante ne ha ora?
+- Spiega come fai 9 + 6 passando dal 10.
+
+## Il robot segue le frecce [lib-1-elementare-matematica-coding-frecce] · FRECCIA
+concetti: Le frecce sono comandi; Contare i passi; L'ordine dei comandi; Tornare indietro
+- Che cosa vuol dire la freccia →?
+- Il comando ↑ ↑ ↑ fa fare al robot 3 passi in giù.
+- Il robot è sul 3 della linea dei numeri. Fa → → →. Dove arriva?
+- Il robot fa → →. Per tornare indietro deve fare ___.
+- Quale comando fa andare il robot 2 passi a destra e poi 1 in su?
+- Il formaggio è nella casella sotto il topolino. Quale freccia usa il topolino?
+- Dopo → → ← ← il robot torna dove era partito.
+- Il robot ha fatto → → ↑. Quali frecce deve fare per tornare alla partenza?
+
+## Indovina chi viene dopo [lib-1-elementare-matematica-ritmi] · RITMO
+concetti: Ritmi di colori e figure; Trovare la regola; Ritmi di numeri
+- Rosso, blu, rosso, blu, rosso... Che colore viene dopo?
+- In un ritmo, un gruppo di elementi si ripete sempre uguale.
+- 11, 13, 15, 17... Quale numero viene dopo?
+- Cerchio, cerchio, quadrato, cerchio, cerchio, ___.
+- La regola è 'più 3', partendo da 3. Metti in ordine i numeri.
+- Sole, luna, stella, sole, luna, stella... Qual è il pezzo che si ripete?
+- 20, 18, 16, 14... Quale numero viene dopo?
+- Inventa un ritmo con due colori e scrivi la regola.
+
+## La bilancia dei numeri [lib-1-elementare-matematica-uguaglianze-bilancia] · PIATTO
+concetti: Il segno uguale; Due lati in equilibrio; Rimettere in equilibrio
+- Quale uguaglianza è vera?
+- La scrittura 7 = 3 + 4 è sbagliata, perché il 7 è a sinistra.
+- 5 + 5 = 6 + ? Quale numero manca?
+- 9 + 1 = 10 + ___
+- A sinistra ci sono 6 cubi, a destra 4. Quanti cubi aggiungi a destra per mettere la bilancia in equilibrio?
+- Quale numero va al posto del punto di domanda? ? = 3 + 8
+- La bilancia è in equilibrio. Metti 1 cubo su ogni piatto: resta in equilibrio.
+- È vera la scrittura 6 + 2 = 4 + 4? Spiega.
+
+## La macchina dei numeri [lib-1-elementare-matematica-macchina-dei-numeri] · ROBOT
+concetti: Entra ed esce; La regola della macchina; Scoprire la regola; Tornare indietro
+- La macchina fa +2. Entra 5. Che cosa esce?
+- La macchina fa −1. Entra 10, esce 9.
+- La macchina fa +5. Entra 8. Che cosa esce?
+- Entra 4, esce 7. Entra 6, esce 9. La regola è ___.
+- Entra 12, esce 10. Entra 15, esce 13. Qual è la regola?
+- Metti in ordine come funziona la macchina.
+- La macchina fa +4. È uscito 9. Che numero era entrato?
+- La macchina fa −3 ed è uscito 8. Che numero era entrato?
+
+## La mano e il cinque [lib-1-elementare-matematica-mano-e-cinque] · MANO
+concetti: Una mano fa cinque; Cinque più qualcosa; Il cinque sta in mezzo; Calcolare con il cinque
+- Mostri una mano aperta e 1 dito. Che numero è?
+- Con una mano sola puoi mostrare il numero 7.
+- Quale addizione è uguale a 8?
+- Il 9 è 5 + ___.
+- Sulla linea da 0 a 10, quale numero sta proprio in mezzo?
+- Il 5 è più vicino al 10 che allo 0.
+- Pensa il 7 come 5 + 2. Quanto fa 7 + 5?
+- Calcola 6 + 8 pensando il 6 come 5 + 1 e l'8 come 5 + 3.
+
+## Le case dei numeri [lib-1-elementare-matematica-scomporre-numeri] · PEZZI
+concetti: Tanti modi per un numero; La casa del numero; Il pezzo che manca
+- Quale coppia forma il numero 6?
+- Il numero 9 si può fare con 5 + 4.
+- Nella casa del 7 manca un piano. Quale coppia va bene?
+- L'8 è fatto da 5 e da ___.
+- Quale addizione fa 8?
+- Hai 9 caramelle nelle due mani. Nella destra ne hai 6. Quante nella sinistra?
+- Nella casa del 6 c'è il piano con 2 e 5.
+- Trova due modi diversi per fare il numero 12 con un'addizione.
+
+## Linee aperte, linee chiuse [lib-1-elementare-matematica-linee-regioni] · CONFINE
+concetti: Tanti tipi di linee; Linee aperte e chiuse; Dentro, fuori, confine
+- Una linea a zig-zag, come i denti di una sega, si chiama:
+- Un recinto tutto intorno ai cavalli è una linea chiusa.
+- Quale di queste lettere è una linea chiusa?
+- Il pallone è dentro il recinto: è nella regione ___.
+- Una pecora è fuori dal recinto. Dove si trova?
+- Che linea disegni con il righello?
+- Se il recinto ha un'apertura, la linea è chiusa.
+- Perché per tenere le galline nel recinto serve una linea chiusa?
+
+## Lo specchio della farfalla [lib-1-elementare-matematica-simmetria] · ASSE
+concetti: Due metà uguali; L'asse di simmetria; Piegare per controllare; Simmetrie intorno a noi
+- Quale di queste cose è simmetrica?
+- In una figura simmetrica le due metà sono diverse.
+- Come si chiama la linea che divide una figura in due metà uguali?
+- Se pieghi un cuore a metà, le due parti ___.
+- Quale lettera ha due metà uguali, a destra e a sinistra?
+- Dipingi metà farfalla e pieghi il foglio mentre il colore è bagnato. Che cosa succede?
+- Un quadrato si può piegare in due metà uguali in più di un modo.
+- Trova un oggetto simmetrico in classe o a casa. Perché lo è?
+
+## Maggiore, minore o uguale? [lib-1-elementare-matematica-confronto] · UGUALE
+concetti: Maggiore >; Minore <; Uguale =; Prima e dopo un numero
+- Quale numero è il più grande?
+- Il segno = si mette tra due quantità uguali.
+- 3 è più piccolo di 8. Quale segno va al posto dei puntini? 3 ... 8
+- Il numero che viene subito prima di 17 è ___.
+- Quale scrittura è giusta?
+- Metti i numeri in ordine, dal più grande al più piccolo.
+- Quale numero sta tra 12 e 14?
+- Tu hai 7 caramelle, il tuo amico 10. Chi ne ha di più? Scrivilo con un segno.
+
+## Meno, con una sosta al 10 [lib-1-elementare-matematica-sottrazioni-oltre-il-dieci] · SOSTA
+concetti: Scendere fino al 10; Spezzare il numero da togliere; Togliere dal 10
+- Dal 12, quanto devi togliere per arrivare a 10?
+- 10 − 3 fa 7.
+- Quanto fa 10 − 6?
+- Per fare 14 − 6, spezzo il 6 in 4 + ___.
+- Per fare 11 − 4 con la sosta al 10, come spezzi il 4?
+- Quanto fa 15 − 7?
+- Metti in ordine i passi per fare 16 − 8.
+- Hai 12 biglie e ne regali 5 a un amico. Quante restano? Spiega come fai.
+
+## Meno: tolgo e scopro [lib-1-elementare-matematica-sottrazione] · RESTO
+concetti: Togliere con il meno; Quanto manca; La prova con l'addizione; Togliere zero o tutto
+- Hai 5 palloncini e 2 volano via. Quanti ne restano?
+- 6 − 6 fa 0.
+- Quanto fa 10 − 3?
+- Hai 6 figurine e ne vuoi 9. Te ne mancano ___.
+- 12 − 5 = 7. Quale addizione lo conferma?
+- Anna ha 8 anni, Leo ne ha 5. Quanti anni ha Anna in più?
+- 9 − 0 fa 0.
+- Su un albero ci sono 15 uccellini. Ne volano via 4. Quanti ne restano? Come puoi controllare il risultato?
+
+## Misuro con mani e piedi [lib-1-elementare-matematica-misure] · SPANNA
+concetti: Lungo, corto, alto, basso; Pesante e leggero; Misurare con il corpo; Una misura per tutti
+- Quale animale è più alto?
+- Una piuma è più pesante di un sasso.
+- Sulla bilancia a due piatti, il piatto con la mela scende. Che cosa vuol dire?
+- Per misurare la stanza cammino e conto i ___.
+- Misuri con la tua spanna: il tavolo è lungo 8 spanne, la lavagna 12. Quale è più lunga?
+- Il corridoio è lungo 15 passi. Ne hai fatti 10. Quanti passi mancano?
+- Tu e la maestra misurate l'aula con i passi. Chi conta più passi?
+- Perché misurare con i passi può dare numeri diversi?
+
+## Monete e banconote [lib-1-elementare-matematica-euro-monete] · EURO
+concetti: Monete e banconote; Contare i soldi; Stesso valore, modi diversi; Conta il valore
+- Quale di questi soldi è una moneta?
+- La banconota più piccola vale 5 euro.
+- Hai 2 monete da 2 euro e 3 monete da 1 euro. Quanti euro hai?
+- Una banconota da 10 euro e una da 5 euro fanno ___ euro.
+- Quale gruppo vale come una banconota da 10 euro?
+- Ugo ha 3 monete da 1 euro. Lia ha 2 monete da 2 euro. Chi ha più soldi?
+- Una moneta da 2 euro vale meno di due monete da 1 euro.
+- Marco ha 4 monete da 1 euro. Tu hai una banconota da 5 euro. Marco dice di avere più soldi. Ha ragione?
+
+## Numeri dappertutto! [lib-1-elementare-matematica-numeri-intorno-a-noi] · NUMERO
+concetti: Numeri per contare; Numeri per mettere in ordine; Numeri per misurare; Numeri come nomi
+- Sulla torta di Leo ci sono 7 candeline. Quanti anni compie?
+- Il 10 sulla maglia dice che il giocatore ha fatto 10 gol.
+- Dal panettiere hai il biglietto 15. Chi è servito prima, tu o chi ha il 14?
+- Quale numero serve a misurare?
+- Il pane costa 2 euro. Il numero 2 serve a ___.
+- A che cosa serve il numero sulla porta di casa?
+- Se dico «ho 3 fratelli», il 3 dice quanti sono.
+- Pensa a un numero che vedi per strada. A che cosa serve?
+
+## Numeri scritti con le lettere [lib-1-elementare-matematica-numeri-in-lettere] · CIFRE
+concetti: Cifre o parole; Da uno a dieci; Da undici a venti; Le doppie nei numeri
+- Come si scrive con le lettere il numero 3?
+- Il numero 8 si scrive «otto».
+- Quale parola è il numero 9?
+- Il numero 4 si scrive ___.
+- Come si scrive il numero 16?
+- Quale numero si scrive «diciotto»?
+- Metti in ordine, dal numero più piccolo al più grande.
+- Come si scrive 17 con le lettere? Quali doppie trovi?
+
+## Palle, dadi e lattine [lib-1-elementare-matematica-solidi] · SFERA
+concetti: Figure piatte e solidi; Sfera, cubo, cilindro, cono; Rotola o non rotola; Le facce
+- Che forma ha un pallone?
+- Un dado è un solido: lo puoi prendere in mano.
+- Quale oggetto ha la forma di un cilindro?
+- Una scatola chiusa, come quella delle scarpe, ha ___ facce.
+- Quale solido rotola in tutte le direzioni?
+- Il cappello da festa a punta ha la forma di un...
+- Il cubo rotola bene come una palla.
+- Perché le ruote sono tonde e non a forma di cubo?
+
+## Pari o dispari? A coppie! [lib-1-elementare-matematica-pari-dispari] · COPPIA
+concetti: I numeri pari; I numeri dispari; Si danno il cambio; Guarda le unità
+- Quale numero è pari?
+- Il numero 5 è dispari.
+- Hai 7 calzini e li metti in coppia. Che cosa succede?
+- Dopo un numero pari viene sempre un numero ___.
+- Conta i numeri pari partendo da 4. Mettili in ordine.
+- Quale di questi numeri è dispari?
+- In classe ci sono 18 bambini. Possono mettersi tutti in coppia?
+- Unisci due numeri dispari: 3 + 5. Il risultato è pari o dispari? Perché?
+
+## Parti giuste per tutti [lib-1-elementare-matematica-parti-uguali] · FETTA
+concetti: Parti giuste; La metà; Distribuire uno a uno; Quando avanza
+- Dividi 6 biscotti tra te e un amico in parti uguali. Quanti a testa?
+- Ada ha 4 figurine e Bea 2. Le parti sono giuste.
+- Qual è la metà di 10?
+- Ho 10 carte. Do una carta a me, una a te... finché finiscono. Le parti sono ___.
+- Dividi 9 matite tra 3 bambini, una a testa a turno. Quante ne ha ciascuno?
+- Dividi 5 mele tra 2 bambini, in parti uguali. Che cosa succede?
+- La metà di 12 è 6.
+- Hai 11 caramelle da dividere in parti uguali tra 2 amici. Ci riesci?
+
+## Più o meno? Scegli il segno [lib-1-elementare-matematica-segno-giusto] · SEGNO
+concetti: Il segno più; Il segno meno; Guardare il risultato; Storie e operazioni
+- Quale segno manca? 4 ... 3 = 7
+- In 9 ... 4 = 5 il segno giusto è il −.
+- 12 ... 2 = 10. Quale segno manca?
+- Il risultato è più piccolo del primo numero: ho usato il segno ___.
+- Quale storia va bene con 8 − 3?
+- Sul ramo ci sono 5 uccellini. Ne arrivano 4. Quale operazione racconta la storia?
+- In 7 ... 7 = 14 ci va il segno −.
+- Leo scrive 11 + 3 = 8. Che errore ha fatto?
+
+## Più: aggiungo e conto [lib-1-elementare-matematica-addizione] · SOMMA
+concetti: Aggiungere e mettere insieme; Il risultato è la somma; Cambiare l'ordine; Aggiungere zero
+- Hai 3 caramelle e ne ricevi 2. Quante ne hai?
+- 8 + 0 fa 8.
+- Quanto fa 6 + 4?
+- Nel cestino ci sono 7 mele. Ne metto altre 2: ora sono ___.
+- Quale addizione dà lo stesso risultato di 3 + 8?
+- Luca ha 5 macchinine rosse e 5 blu. Quante ne ha in tutto?
+- 4 + 9 dà un risultato diverso da 9 + 4.
+- Devi fare 2 + 9. Ti conviene partire dal 2 o dal 9? Perché?
+
+## Primo, secondo, terzo: in fila! [lib-1-elementare-matematica-ordinali] · PRIMO
+concetti: Numeri per il posto; Dal primo al decimo; Contare dall'inizio; Quanti o quale?
+- Chi arriva primo in una corsa?
+- Dopo il terzo viene il quarto.
+- Metti in ordine i posti, dal primo all'ultimo.
+- Ieri era il primo giorno di scuola. Oggi è il ___ giorno.
+- In fila ci sono Ada, Bea, Ciro e Dino. Ada è la prima. Chi è il terzo?
+- Sei il quarto di una fila. Quanti bambini hai davanti?
+- «Cinque» e «quinto» vogliono dire la stessa cosa.
+- In una fila ci sono 5 bambini. Tu sei l'ultimo. Che posto hai?
+
+## Puntini sul dado e sul domino [lib-1-elementare-matematica-dado-e-domino] · DADO
+concetti: I puntini a colpo d'occhio; Il dado da 1 a 6; Sommare due dadi; Le tessere del domino
+- Quante facce ha un dado?
+- Con un dado solo puoi fare 9 in un lancio.
+- Lanci due dadi: escono 5 e 2. Quanto fai in tutto?
+- Sul dado vedi 4 puntini negli angoli e 1 al centro. Che numero è?
+- Una tessera del domino ha 3 puntini e 3 puntini. In tutto sono ___.
+- Con due dadi, qual è il numero più grande che puoi fare?
+- Una tessera con 6 e 0 puntini ne ha tanti quanti una con 3 e 3.
+- Lanci due dadi e fai 10. Quali numeri possono essere usciti?
+
+## Quanti in più? Quanti in meno? [lib-1-elementare-matematica-quanti-in-piu] · GARA
+concetti: Chi ha di più; Quanti in più; Quanti in meno
+- Ada ha 7 punti, Bea ne ha 4. Chi ha più punti?
+- Ugo ha 2 biglie in più di Ciro. Allora Ciro ne ha 2 in meno.
+- Ada ha 7 punti, Bea ne ha 4. Quanti punti in più ha Ada?
+- Tu hai 12 adesivi, io ne ho 8. Tu ne hai ___ in più.
+- La torre rossa ha 10 mattoncini, la blu 6. Quanti in meno ne ha la blu?
+- Leo fa 13 salti con la corda, Mia ne fa 18. Quanti salti in più fa Mia?
+- Tu hai 14 conchiglie e io 11. Ne ho di più io.
+- Nella squadra rossa ci sono 11 bambini, nella blu 7. Quanti bambini devono arrivare nella squadra blu per ave…
+
+## Ripasso: la festa di compleanno [lib-1-elementare-matematica-ripasso-festa] · FESTA
+concetti: Contare e confrontare; Aggiungere; Togliere; Ritmi e figure
+- Alla festa ci sono 8 bambini e 6 bambine. Chi sono di più?
+- Arrivano 4 invitati e poi altri 3: sono arrivati 7 invitati.
+- Ci sono 12 palloncini. Ne scoppiano 3. Quanti restano?
+- Il festone è: rosso, giallo, verde, rosso, giallo, ___.
+- Ci sono 9 bambini. Ne arrivano altri 5. Quanti sono ora?
+- I panini sono tagliati a triangolo. Quanti angoli ha ogni panino?
+- La torta ha 10 fette e i bambini sono 14: le fette bastano per tutti.
+- C'erano 15 caramelle. I bambini ne mangiano 6. Poi la mamma ne porta 4. Quante caramelle ci sono?
+
+## Salti sulla linea dei numeri [lib-1-elementare-matematica-linea-dei-numeri] · SALTO
+concetti: Numeri in fila sulla linea; Salti in avanti; Salti indietro; Quanti salti tra due numeri
+- Sulla linea dei numeri, dove trovi i numeri più grandi?
+- Sulla linea, il 5 sta tra il 4 e il 6.
+- La rana è sul 6. Fa 3 salti in avanti. Dove arriva?
+- Il canguro è sul 12. Fa 4 salti indietro. Dove arriva?
+- Dal 10 faccio 5 salti in avanti e arrivo al ___.
+- Quanti salti ci sono dal 7 all'11?
+- Se salti indietro, arrivi su un numero più grande.
+- Mia è sul 3 e vuole arrivare al 9. Quanti salti in avanti fa?
+
+## Sopra, sotto, destra e sinistra [lib-1-elementare-matematica-posizioni-spazio] · DESTRA
+concetti: Sopra e sotto; Davanti e dietro; Destra e sinistra; Vicino, lontano, in mezzo
+- Il lampadario è appeso al soffitto e il tappeto è sul pavimento. Che cosa sta sopra il tavolo?
+- Sul filo sono stesi, uno dopo l'altro, una maglia, un calzino e una gonna. Quale panno sta in mezzo?
+- Quando porti lo zaino sulla schiena, lo zaino sta ___ di te.
+- Sei in fila per lo scivolo: davanti a te c'è Marta, dietro di te c'è Leo. Chi scende dallo scivolo prima di t…
+- Nella pila di libri il verde è sopra il giallo, il rosso è sopra il blu e il blu è sopra il verde. Metti in o…
+- Sei in piedi e guardi la lavagna. La porta è alla tua destra. Ti giri e guardi il fondo dell'aula. Da che par…
+- Luca è in piedi di fronte a te e alza la sua mano destra. Quella mano è dalla stessa parte della tua mano des…
+- Descrivi dove si trova il tuo banco in classe usando almeno due di queste parole: vicino, lontano, davanti, d…
+
+## Tre numeri da sommare [lib-1-elementare-matematica-addizione-tre-numeri] · TRIO
+concetti: Un numero alla volta; Cercare la coppia facile; Il totale non cambia
+- Quanto fa 1 + 2 + 3?
+- 2 + 5 + 1 fa lo stesso di 5 + 1 + 2.
+- Hai 3 mele, 2 pere e 4 banane. Quanti frutti hai?
+- In 7 + 5 + 3 sommo prima 7 + 3 e ottengo ___.
+- In 3 + 6 + 7, quali due numeri fanno 10?
+- Ugo fa 4 + 3 + 6. Ada fa 6 + 4 + 3. Che cosa succede?
+- 5 + 5 + 5 fa 20.
+- Sulle altalene ci sono 8 bambini, sullo scivolo 7, sulla giostra 2. Quanti sono in tutto?
+
+## Tutti nel gruppo giusto [lib-1-elementare-matematica-insiemi] · INSIEME
+concetti: Che cos'è un insieme; Dentro o fuori; Trovare la regola; L'insieme vuoto
+- Chi entra nell'insieme dei frutti?
+- Il cane sta nell'insieme degli animali con le ali.
+- Gatto, cane, cavallo, mucca. Qual è la regola dell'insieme?
+- Rosa, giglio e margherita sono nell'insieme dei ___.
+- Palla, trottola, bambola, forchetta. Chi è l'intruso?
+- Tra cane, gatto e pesce scegli gli animali con 6 zampe. Quanti elementi ha l'insieme?
+- L'insieme vuoto non ha nessun elemento.
+- In un insieme ci sono: limone, pulcino, banana, girasole. Qual è la regola?
+
+## Tutti, alcuni o nessuno? [lib-1-elementare-matematica-tutti-alcuni-nessuno] · LOGICA
+concetti: Tutti; Alcuni; Nessuno; Frasi vere e false
+- Tutti i bambini della classe hanno lo zaino. Quanti sono senza zaino?
+- Tutti i triangoli hanno 3 lati.
+- Nel cesto ci sono 3 mele rosse e 2 verdi. Quale frase è vera?
+- Nel vaso non ci sono fiori gialli: ___ fiore è giallo.
+- Nella scatola ci sono 4 pastelli, tutti blu. Quale frase è vera?
+- Quale frase è falsa?
+- Se alcuni bambini portano gli occhiali, allora tutti li portano.
+- Luca dice: «Tutti gli uccelli volano». È vero?
+
+## Unità con unità [lib-1-elementare-matematica-unita-con-unita] · ABACO
+concetti: Dieci più qualcosa; Sommare le unità; Togliere le unità; La decina resta ferma
+- Quanto fa 10 + 7?
+- 10 + 9 fa 19.
+- Quanto fa 12 + 6?
+- 14 + 3 fa 1 decina e ___ unità.
+- Quanto fa 19 − 4?
+- Hai 17 figurine. Ne attacchi 5 sull'album. Quante restano da attaccare?
+- In 13 + 5 la decina cambia.
+- Perché 11 + 7 è facile come 1 + 7?
+
+## Zero: quando non c'è niente [lib-1-elementare-matematica-zero] · ZERO
+concetti: Zero vuol dire niente; Lo zero sulla linea; Lo zero dentro i numeri; Lo zero nella vita
+- Nel piatto non c'è nessun biscotto. Quanti biscotti ci sono?
+- Sulla linea dei numeri, lo 0 viene subito prima dell'1.
+- Quale numero è il più piccolo?
+- Il numero 20 è fatto da 2 decine e ___ unità.
+- La partita finisce 0 a 0. Che cosa vuol dire?
+- Tu hai 0 figurine, Ada ne ha 2. Chi ne ha di più?
+- Se una scatola ha 0 pastelli, puoi usarli per colorare.
+- Leo vuole scrivere il numero venti, ma dimentica lo 0 e scrive solo 2. Che cosa succede?

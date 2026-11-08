@@ -1,0 +1,553 @@
+# 3ª media · Scienze: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Anatomia di un vulcano [lib-3-media-scienze-struttura-vulcano] · CRATERE
+concetti: Magma e camera magmatica; Le parti del vulcano; I prodotti dell'eruzione; Attivi, quiescenti, spenti
+- Come si chiama l'apertura in cima al vulcano da cui escono i materiali?
+- Il magma, una volta uscito in superficie, prende il nome di lava.
+- Metti in ordine il percorso del magma durante un'eruzione, dalla profondità fino all'esterno del vulcano.
+- Come si chiamano i frammenti solidi lanciati in aria da un vulcano, come ceneri, lapilli e bombe?
+- Il magma si accumula in profondità in una ___ magmatica, da cui risale durante l'eruzione.
+- Come si dice un vulcano che non erutta da molto tempo ma potrebbe risvegliarsi?
+- Perché i gas disciolti nel magma sono importanti durante un'eruzione?
+- Le ceneri di un'eruzione possono creare problemi anche a centinaia di chilometri dal vulcano. Spiega perché.
+
+## Biotecnologie: la genetica al lavoro [lib-3-media-scienze-biotecnologie-ogm] · CLONE
+concetti: Le biotecnologie tradizionali; L'ingegneria genetica; Gli OGM; La clonazione
+- Quale di queste è una biotecnologia antichissima?
+- La pecora Dolly, nata nel 1996, fu il primo mammifero clonato da una cellula di un individuo adulto.
+- Come si produce oggi gran parte dell'insulina usata dalle persone diabetiche?
+- Un organismo il cui DNA è stato modificato in laboratorio, per esempio inserendo un gene di un'altra specie, …
+- Che cos'è un clone?
+- Un agricoltore sceglie ogni anno i semi delle piante migliori per riseminarli. Che cosa sta facendo?
+- Perché si chiedono regole precise sugli OGM?
+- Spiega che cosa fa l'ingegneria genetica, usando l'esempio dell'insulina prodotta dai batteri.
+
+## Calamite ed elettromagneti [lib-3-media-scienze-magnetismo-elettromagnetismo] · BUSSOLA
+concetti: I magneti; Il campo magnetico terrestre; Corrente e magnetismo; L'induzione elettromagnetica
+- Che cosa succede se avvicini il polo nord di una calamita al polo nord di un'altra?
+- Una calamita attira qualsiasi metallo, compresi alluminio e rame.
+- Perché l'ago di una bussola punta verso nord?
+- Se spezzi una calamita a metà ottieni due calamite, ognuna con un polo nord e un polo ___.
+- Che cosa scoprì Oersted nel 1820 avvicinando una bussola a un filo percorso da corrente?
+- Metti in ordine come una centrale trasforma il movimento in corrente elettrica.
+- Perché per sollevare rottami di ferro si usano elettromagneti e non calamite normali?
+- La dinamo di una bicicletta accende la luce solo quando pedali. Spiega perché, usando l'induzione elettromagn…
+
+## Cariche elettriche e scintille [lib-3-media-scienze-cariche-elettrizzazione] · AMBRA
+concetti: Le cariche elettriche; L'elettrizzazione per strofinio; Conduttori e isolanti; Scariche e fulmini
+- Che carica elettrica hanno gli elettroni?
+- Due corpi con cariche dello stesso segno si attraggono.
+- Strofini un palloncino sui capelli e lo avvicini: i capelli si sollevano verso di lui. Perché?
+- Il rame dei fili elettrici è un buon ___ perché lascia muovere facilmente gli elettroni.
+- Perché i fili elettrici sono rivestiti di plastica?
+- Quando strofini due oggetti e si elettrizzano, che cosa passa da uno all'altro?
+- A che cosa serve un parafulmine sul tetto di un edificio?
+- D'inverno, dopo aver camminato su un tappeto, a volte prendi la scossa toccando una maniglia di metallo. Spie…
+
+## Chi graffia chi? La durezza [lib-3-media-scienze-scala-di-mohs] · TALCO
+concetti: La durezza; La scala di Mohs; Le prove pratiche; Una scala relativa
+- Qual è il minerale più duro della scala di Mohs?
+- Se un minerale A riga un minerale B, allora A è più duro di B.
+- Riesci a scalfire un minerale con l'unghia. Che durezza ha, all'incirca?
+- Il gesso (durezza 2) si riga con l'unghia, ma la ___ (durezza 3) no: per rigarla serve una moneta di rame.
+- Metti in ordine questi minerali dal più tenero al più duro.
+- Un minerale riga il vetro (circa 5,5) ma viene rigato dal quarzo (7). Quale potrebbe essere?
+- Perché la scala di Mohs si dice «relativa»?
+- Per incidere il vetro si usano punte di diamante. Spiega perché funziona, usando la scala di Mohs.
+
+## Come funziona la vista [lib-3-media-scienze-occhio-e-vista] · RETINA
+concetti: La struttura dell'occhio; Iride e pupilla; La retina; I difetti della vista
+- Qual è la parte colorata dell'occhio?
+- Al buio la pupilla si allarga per far entrare più luce.
+- In quale parte dell'occhio si trovano coni e bastoncelli, le cellule sensibili alla luce?
+- Metti in ordine il percorso della luce nell'occhio fino al cervello.
+- Chi è ___ vede bene da vicino ma sfocato da lontano.
+- Perché di notte, con poca luce, è difficile distinguere i colori?
+- Sulla retina l'immagine si forma capovolta. Perché allora vediamo il mondo diritto?
+- Il cristallino cambia forma quando guardi un oggetto vicino o uno lontano. A che cosa serve?
+
+## Corrente, circuiti e legge di Ohm [lib-3-media-scienze-corrente-circuiti-ohm] · VOLT
+concetti: La corrente elettrica; Generatore e tensione; Il circuito elettrico; Serie e parallelo; La legge di Ohm
+- Che cos'è la corrente elettrica?
+- In un circuito aperto la corrente non passa.
+- Chi inventò la pila elettrica intorno al 1800?
+- Secondo la legge di Ohm, la tensione è uguale alla resistenza moltiplicata per l'___ di corrente.
+- Una pila da 9 V è collegata a una resistenza di 3 Ω. Quanta corrente passa?
+- Nelle luci dell'albero di Natale collegate in serie, se una lampadina si brucia...
+- Perché gli impianti elettrici delle case sono collegati in parallelo?
+- Un apparecchio collegato alla presa di casa (230 V) è attraversato da una corrente di 0,5 A. Calcola la sua r…
+
+## Crescere: pubertà e riproduzione [lib-3-media-scienze-apparato-riproduttore-puberta] · GAMETE
+concetti: La riproduzione sessuata; L'apparato maschile; L'apparato femminile; Il ciclo mestruale; La pubertà
+- Quali organi producono gli spermatozoi?
+- La pubertà inizia per tutti esattamente alla stessa età.
+- Dove si trovano e maturano le cellule uovo?
+- I cambiamenti della pubertà sono guidati da sostanze chiamate ___, come il testosterone e gli estrogeni.
+- Metti in ordine le fasi del ciclo mestruale, a partire dall'inizio della mestruazione.
+- Che cos'è l'ovulazione?
+- Perché i figli nati da riproduzione sessuata somigliano un po' a entrambi i genitori?
+- Durante la pubertà alcuni ragazzi crescono prima e altri dopo. Perché non c'è da preoccuparsi se un amico cam…
+
+## Cristalli, i mattoni della Terra [lib-3-media-scienze-minerali] · QUARZO
+concetti: Cos'è un minerale; Il reticolo cristallino; Riconoscere i minerali; I gruppi di minerali
+- Quale di questi materiali è un minerale?
+- In un minerale gli atomi sono disposti in modo disordinato, come nel vetro.
+- Prepari due soluzioni uguali di allume: una la fai raffreddare in frigorifero in un'ora, l'altra lentamente i…
+- Se fai evaporare lentamente acqua molto salata, sul fondo si formano cristalli di ___.
+- In mineralogia, che cos'è lo «striscio» di un minerale?
+- Perché il colore da solo non basta per riconoscere un minerale?
+- Quali sono i minerali più abbondanti nella crosta terrestre?
+- Lo zucchero forma cristalli, eppure non è un minerale. Spiega perché.
+
+## Cromosomi: dividersi per crescere [lib-3-media-scienze-cromosomi-mitosi-meiosi] · MITOSI
+concetti: I cromosomi; La mitosi; La meiosi; Il numero si ricompone
+- Quanti cromosomi ci sono in una normale cellula del corpo umano?
+- La mitosi produce due cellule figlie geneticamente identiche alla cellula madre.
+- Quanti cromosomi ha un gamete umano, come una cellula uovo o uno spermatozoo?
+- La ___ è la divisione cellulare che forma i gameti e dimezza il numero di cromosomi.
+- Ti sbucci un ginocchio: quale processo permette alla pelle di ripararsi?
+- Perché è importante che i gameti abbiano metà dei cromosomi?
+- Perché fratelli e sorelle, figli degli stessi genitori, sono diversi tra loro (tranne i gemelli identici)?
+- Spiega la differenza tra mitosi e meiosi indicando dove avvengono, quante cellule si formano e con quanti cro…
+
+## Da dove veniamo: l'evoluzione umana [lib-3-media-scienze-evoluzione-umana] · SAPIENS
+concetti: Un antenato comune; Il bipedismo; Il genere Homo; Homo sapiens
+- In quale continente è comparso Homo sapiens?
+- L'uomo discende dagli scimpanzé che vivono oggi.
+- Lucy, famoso fossile di circa 3,2 milioni di anni fa, era un australopiteco. Quale caratteristica importante …
+- Metti in ordine questi ominidi dal più antico al più recente.
+- Homo ___ è legato ai primi strumenti di pietra scheggiata: il suo nome significa «uomo abile».
+- Quale importante conquista è attribuita a Homo erectus?
+- Che cosa sappiamo dell'uomo di Neanderthal?
+- Perché camminare su due gambe è stato un vantaggio per i nostri antenati?
+
+## Dalla cellula al neonato [lib-3-media-scienze-fecondazione-sviluppo] · ZIGOTE
+concetti: La fecondazione; Embrione e feto; Placenta e cordone; Gravidanza e parto
+- Come si chiama la cellula che si forma dall'unione di spermatozoo e cellula uovo?
+- Una gravidanza dura in media circa 9 mesi.
+- Dove avviene di solito la fecondazione?
+- Metti in ordine le tappe dello sviluppo di un essere umano.
+- Il feto riceve ossigeno e nutrimento dalla madre attraverso la ___ e il cordone ombelicale.
+- Con quale tipo di divisione cellulare lo zigote si moltiplica e forma l'embrione?
+- Perché in gravidanza è importante non bere alcol e non fumare?
+- Perché le prime otto settimane di gravidanza sono un periodo particolarmente delicato per lo sviluppo?
+
+## Darwin e la selezione naturale [lib-3-media-scienze-darwin-selezione-naturale] · DARWIN
+concetti: Il viaggio del Beagle; Variabilità e lotta per la vita; La selezione naturale; L'origine delle specie; Lamarck e Darwin
+- Su quale nave Darwin compì il suo famoso viaggio intorno al mondo?
+- Secondo Darwin in natura nascono più individui di quanti riescano a sopravvivere e a riprodursi.
+- Che cosa notò Darwin nei fringuelli delle isole Galápagos?
+- Nel 1859 Darwin pubblicò il libro «L'origine delle ___», in cui spiegava la sua teoria.
+- Metti in ordine i passaggi della selezione naturale.
+- Secondo Lamarck la giraffa ha il collo lungo perché i suoi antenati lo allungavano per raggiungere le foglie.…
+- In un bosco dai tronchi scuri vivono falene chiare e falene scure. Quali saranno avvantaggiate?
+- Spiega con parole tue che cosa significa «sopravvivenza del più adatto». Il più adatto è sempre il più forte?
+
+## Eclissi e maree lunari [lib-3-media-scienze-eclissi-e-maree] · ECLISSI
+concetti: L'eclissi di Sole; L'eclissi di Luna; Perché sono rare; Le maree
+- Durante un'eclissi di Sole, quale corpo celeste si trova in mezzo?
+- Un'eclissi di Luna può avvenire solo quando c'è la luna piena.
+- Perché durante un'eclissi totale la Luna diventa rossastra?
+- Le maree sono causate soprattutto dall'attrazione ___ che la Luna esercita sulle acque della Terra.
+- Perché non c'è un'eclissi di Sole a ogni luna nuova?
+- Perché non devi mai guardare un'eclissi di Sole senza filtri adatti?
+- Quante alte maree ci sono, di solito, nell'arco di un giorno?
+- Spiega perché le eclissi di Sole avvengono con la luna nuova e quelle di Luna con la luna piena.
+
+## Eruzioni tranquille o esplosive? [lib-3-media-scienze-tipi-di-eruzione] · LAVA
+concetti: La viscosità del magma; Le eruzioni effusive; Le eruzioni esplosive; La forma del vulcano
+- Le eruzioni delle isole Hawaii sono famose per i lunghi fiumi di lava. Che tipo di eruzioni sono?
+- Un magma ricco di silice è più viscoso, cioè più denso e appiccicoso, di un magma povero di silice.
+- Perché un magma viscoso tende a provocare eruzioni esplosive?
+- I vulcani a ___ hanno pendii dolci e sono formati da colate di lava molto fluida.
+- Che cosa sono le nubi ardenti, o flussi piroclastici?
+- Il Vesuvio è un vulcano a strato. Che forma ha?
+- Con un'analogia: un magma fluido sta a un magma viscoso come...
+- Nel 79 d.C. un'eruzione del Vesuvio seppellì Pompei. Spiega perché un'eruzione esplosiva come quella è più pe…
+
+## Fossili, messaggi dal passato [lib-3-media-scienze-fossili] · FOSSILE
+concetti: Cos'è un fossile; La fossilizzazione; I fossili guida; Datare le rocce
+- Quale di questi è un fossile?
+- Ossa, denti e gusci si fossilizzano più facilmente delle parti molli.
+- Perché è importante che un organismo venga sepolto in fretta per fossilizzarsi?
+- Le ___, molluschi marini con il guscio a spirale, sono ottimi fossili guida dell'era Mesozoica.
+- Perché un buon fossile guida deve appartenere a una specie vissuta per poco tempo?
+- In una parete rocciosa trovi un trilobite in uno strato basso e un'ammonite in uno più alto. Che cosa deduci?
+- Che cosa permette la datazione «assoluta» di una roccia?
+- Insetti vissuti milioni di anni fa si sono conservati perfettamente nell'ambra. Spiega come è potuto succeder…
+
+## Geyser, fumarole e soffioni [lib-3-media-scienze-vulcanismo-secondario] · GEYSER
+concetti: Fumarole e solfatare; I geyser; Sorgenti termali e soffioni; Il bradisismo
+- Che cos'è un geyser?
+- Le fumarole sono emissioni di gas e vapore che escono da fessure del terreno nelle zone vulcaniche.
+- A Larderello, in Toscana, il vapore che esce dal sottosuolo è usato per...
+- Le solfatare sono fumarole ricche di ___, che si deposita formando croste gialle.
+- Perché un geyser erutta a intervalli e non in modo continuo?
+- Che cos'è il bradisismo, tipico dei Campi Flegrei?
+- Perché l'energia geotermica è considerata rinnovabile?
+- Le colonne di un antico edificio romano a Pozzuoli hanno fori di molluschi marini fino a diversi metri d'alte…
+
+## Gira la Terra, cambiano le stagioni [lib-3-media-scienze-moti-terra-stagioni] · ORBITA
+concetti: La rotazione; La rivoluzione; L'asse inclinato; Solstizi ed equinozi
+- Che cosa provoca l'alternarsi del dì e della notte?
+- In estate fa caldo perché la Terra è più vicina al Sole.
+- Perché ogni quattro anni c'è un anno bisestile con il 29 febbraio?
+- Nell'emisfero nord il giorno con il dì più lungo dell'anno è il solstizio d'___, intorno al 21 giugno.
+- Il Sole sembra sorgere a est e tramontare a ovest. Perché?
+- Perché quando in Italia è estate, in Australia è inverno?
+- Che cosa succede nei giorni di equinozio?
+- Spiega perché in estate le giornate sono più calde, usando l'inclinazione dei raggi solari e la durata del dì.
+
+## Il calendario della Terra [lib-3-media-scienze-ere-geologiche] · EPOCA
+concetti: L'età della Terra; Le grandi suddivisioni; La vita nel tempo; Le estinzioni di massa
+- Quanti anni ha, all'incirca, la Terra?
+- I dinosauri vissero nell'era Mesozoica.
+- Metti in ordine queste suddivisioni del tempo geologico dalla più antica alla più recente.
+- In quale era si sono diffusi i mammiferi ed è comparsa la specie umana?
+- Circa 66 milioni di anni fa la caduta di un grande ___ contribuì all'estinzione dei dinosauri.
+- Com'erano le prime forme di vita comparse sulla Terra?
+- Se tutta la storia della Terra fosse compressa in un solo giorno, gli esseri umani comparirebbero...
+- Che cos'è un'estinzione di massa e perché, dopo, altri gruppi di organismi hanno potuto diffondersi?
+
+## Il cervello, centro di comando [lib-3-media-scienze-encefalo-midollo-spinale] · MIDOLLO
+concetti: Il sistema nervoso centrale; Il cervello; Cervelletto e tronco encefalico; Il midollo spinale
+- Da quali organi è formato il sistema nervoso centrale?
+- L'emisfero sinistro del cervello controlla i movimenti della parte destra del corpo.
+- Quale parte dell'encefalo controlla l'equilibrio e la coordinazione dei movimenti?
+- L'encefalo è protetto dalle ossa del cranio e da tre membrane chiamate ___.
+- Quale parte dell'encefalo regola funzioni vitali automatiche come il respiro e il battito del cuore?
+- Dove si trova il midollo spinale?
+- Perché è importante indossare il casco in bicicletta o in monopattino?
+- Una grave lesione del midollo spinale può causare la paralisi delle gambe, anche se gambe e cervello sono san…
+
+## Il DNA, libretto di istruzioni [lib-3-media-scienze-dna-doppia-elica] · ELICA
+concetti: Dove si trova il DNA; La doppia elica; Le basi azotate; La duplicazione; Dal gene alla proteina
+- In quale parte della cellula si trova soprattutto il DNA?
+- Nel DNA l'adenina si appaia sempre con la timina e la citosina con la guanina.
+- Che forma ha la molecola di DNA?
+- Se un filamento di DNA ha la sequenza A-T-G-C, il filamento complementare avrà la sequenza T-A-C-___.
+- Quali scienziati proposero nel 1953 il modello a doppia elica, basandosi anche sulle immagini di Rosalind Fra…
+- Metti in ordine le fasi della duplicazione del DNA.
+- A che cosa serve la sequenza delle basi in un gene?
+- Perché è importante che il DNA si duplichi in modo preciso prima che una cellula si divida?
+
+## Il grande inizio: il Big Bang [lib-3-media-scienze-big-bang] · COSMO
+concetti: La teoria del Big Bang; L'universo in espansione; La radiazione di fondo; La nascita della materia
+- Quanti anni ha, all'incirca, l'universo secondo la teoria del Big Bang?
+- Osservando le galassie lontane, gli astronomi hanno scoperto che si stanno allontanando da noi.
+- Quale scienziato, nel 1929, mostrò che le galassie si allontanano tanto più velocemente quanto più sono lonta…
+- I primi elementi chimici formatisi dopo il Big Bang furono soprattutto l'idrogeno e l'___.
+- Metti in ordine queste tappe della storia dell'universo.
+- Che cos'è la radiazione cosmica di fondo?
+- Immagina un palloncino con dei puntini disegnati sopra, che viene gonfiato. Che cosa rappresenta bene?
+- Quali prove sostengono la teoria del Big Bang? Indicane almeno due.
+
+## Il grande riciclo delle rocce [lib-3-media-scienze-ciclo-delle-rocce] · CICLO
+concetti: Tre famiglie collegate; I processi in superficie; I processi in profondità; Il motore del ciclo
+- Quali sono le tre grandi famiglie di rocce?
+- Qualsiasi tipo di roccia, nel tempo, può trasformarsi in un altro tipo.
+- Una roccia magmatica viene a trovarsi in superficie. Che cosa le succede per prima cosa?
+- Se una roccia metamorfica scende in profondità e la temperatura diventa altissima, può ___ e tornare magma.
+- Segui un granello di granito nel ciclo: metti in ordine le tappe.
+- Quale energia alimenta i processi profondi del ciclo, come la fusione delle rocce?
+- Perché non vediamo il ciclo delle rocce svolgersi sotto i nostri occhi?
+- Spiega come una roccia sedimentaria può diventare, dopo moltissimo tempo, una roccia magmatica.
+
+## Il motore sotto i continenti [lib-3-media-scienze-dorsali-e-moti-convettivi] · DORSALE
+concetti: Le dorsali oceaniche; L'espansione dei fondali; Le prove magnetiche; I moti convettivi
+- Che cosa sono le dorsali oceaniche?
+- Le rocce del fondale oceanico diventano più antiche man mano che ci si allontana dalla dorsale.
+- Le rocce più antiche dei fondali oceanici hanno circa 200 milioni di anni, molto meno di quelle continentali.…
+- Nel mantello il materiale più caldo sale e quello più freddo scende, formando dei moti ___.
+- Segui la vita di un pezzo di crosta oceanica: metti in ordine le tappe.
+- Perché ai due lati di una dorsale le rocce mostrano bande magnetiche simmetriche?
+- Quale esperienza quotidiana assomiglia ai moti convettivi del mantello?
+- Spiega che cosa fa muovere le placche litosferiche.
+
+## Il neurone e i suoi messaggi [lib-3-media-scienze-neurone-impulso-nervoso] · NEURONE
+concetti: La struttura del neurone; L'impulso nervoso; La sinapsi; I tipi di neuroni
+- Quale parte del neurone riceve i segnali dalle altre cellule?
+- L'impulso nervoso è un segnale di natura elettrica che viaggia lungo il neurone.
+- Come passa il messaggio da un neurone all'altro, attraverso la sinapsi?
+- La guaina ___ avvolge l'assone di molti neuroni e rende più veloce l'impulso nervoso.
+- Metti in ordine il percorso di un impulso in un neurone e verso il neurone successivo.
+- Come si chiamano i neuroni che portano gli ordini dal sistema nervoso centrale ai muscoli?
+- Senti il profumo di una pizza appena sfornata. Quali neuroni portano l'informazione dal naso verso il cervell…
+- Perché i neuroni hanno una forma così diversa dalle altre cellule, con prolungamenti lunghi e ramificati?
+
+## Il quadrato di Punnett [lib-3-media-scienze-genotipo-fenotipo-punnett] · ALLELE
+concetti: Gene e allele; Omozigote ed eterozigote; Genotipo e fenotipo; Il quadrato di Punnett
+- Da chi ricevi i due alleli di ogni gene?
+- Un individuo Aa è eterozigote per quel gene.
+- Che differenza c'è tra genotipo e fenotipo?
+- Un individuo con due alleli uguali, come AA o aa, si dice ___ per quel gene.
+- Incroci una pianta AA con una pianta aa. Quale percentuale dei figli sarà Aa?
+- Incroci due piante Aa. Quale percentuale dei figli sarà, in media, eterozigote (Aa)?
+- Una pianta Aa a fiori viola (A dominante) si incrocia con una aa a fiori bianchi. Che fiori avranno, in media…
+- Due gemelli identici hanno lo stesso genotipo, ma uno, che fa molto sport all'aperto, è più muscoloso e abbro…
+
+## Il Sole, la nostra stella [lib-3-media-scienze-il-sole] · CORONA
+concetti: Una stella media; La struttura; L'attività solare; Il Sole e la vita
+- Quanto tempo impiega la luce del Sole a raggiungere la Terra?
+- Le macchie solari sono zone della superficie del Sole più fredde di quelle intorno.
+- In quale parte del Sole avviene la fusione nucleare?
+- Le particelle del vento ___, guidate dal campo magnetico terrestre, producono le aurore polari.
+- Metti in ordine queste parti del Sole dal centro verso l'esterno.
+- Il Sole contiene circa il 99,8% della massa del Sistema solare. Che cosa significa?
+- Perché senza il Sole quasi tutta la vita sulla Terra scomparirebbe?
+- Il Sole ci appare molto più grande e luminoso delle altre stelle. È davvero una stella speciale? Spiega.
+
+## Keplero, Newton e le orbite [lib-3-media-scienze-keplero-e-gravita] · ELLISSE
+concetti: La prima legge di Keplero; La seconda legge di Keplero; La terza legge di Keplero; La gravitazione universale; Massa e peso
+- Che forma hanno le orbite dei pianeti secondo Keplero?
+- Secondo Newton ogni corpo dotato di massa attrae qualsiasi altro corpo.
+- Quando un pianeta si muove più velocemente lungo la sua orbita?
+- Più un pianeta è lontano dal Sole, più è ___ il tempo che impiega a compiere un giro completo.
+- La forza di gravità tra due corpi diminuisce quando...
+- Un astronauta ha una massa di 72 kg. Sulla Luna, dove la gravità è circa 1/6 di quella terrestre, che cosa ca…
+- Perché la Luna non «cade» sulla Terra, pur essendo attratta dalla gravità?
+- Che cosa succederebbe alla Terra se all'improvviso la gravità del Sole sparisse? Spiega.
+
+## L'Italia, terra di vulcani [lib-3-media-scienze-vulcani-italiani] · ETNA
+concetti: L'Etna; Il Vesuvio; Stromboli e le Eolie; Campi Flegrei e sorveglianza
+- Qual è il vulcano attivo più alto d'Europa?
+- L'ultima eruzione del Vesuvio è avvenuta nel 1944.
+- Perché lo Stromboli è chiamato «il faro del Mediterraneo»?
+- Nel 79 d.C. l'eruzione del Vesuvio seppellì Pompei e un'altra città sul golfo di Napoli: ___.
+- In quale regione si trovano i Campi Flegrei?
+- Come sono, di solito, le eruzioni dell'Etna?
+- Perché le zone vulcaniche italiane sono sorvegliate di continuo e hanno piani di evacuazione?
+- Il Vesuvio oggi è quiescente, ma intorno vivono centinaia di migliaia di persone. Perché è considerato uno de…
+
+## La Luna e le sue fasi [lib-3-media-scienze-fasi-lunari] · LUNA
+concetti: La Luna; I moti della Luna; Le fasi lunari; L'uomo sulla Luna
+- Perché la Luna brilla di notte?
+- Dalla Terra vediamo sempre la stessa faccia della Luna.
+- Metti in ordine le fasi lunari a partire dalla luna nuova.
+- Il ciclo completo delle fasi lunari, da una luna nuova alla successiva, dura circa ___ giorni.
+- Perché vediamo sempre la stessa faccia della Luna?
+- Perché la Luna è piena di crateri, mentre sulla Terra se ne vedono pochi?
+- In che anno l'uomo mise piede per la prima volta sulla Luna?
+- Sulla Luna le impronte degli astronauti dell'Apollo sono probabilmente ancora intatte. Spiega perché.
+
+## La nostra casa: la Via Lattea [lib-3-media-scienze-galassie-via-lattea] · LATTEA
+concetti: Cos'è una galassia; I tipi di galassie; La Via Lattea; Le galassie vicine
+- Che cos'è una galassia?
+- Il Sole si trova al centro della Via Lattea.
+- Che forma ha la Via Lattea?
+- La grande galassia più vicina alla Via Lattea, visibile a occhio nudo in un cielo buio, si chiama ___.
+- Perché in una notte buia vediamo la Via Lattea come una striscia luminosa nel cielo?
+- Che cosa si trova al centro della Via Lattea?
+- Quante galassie si stima ci siano nell'universo osservabile?
+- Spiega dove si trova il Sistema solare nella Via Lattea e perché non possiamo fotografare la nostra galassia …
+
+## Le onde che svelano l'interno [lib-3-media-scienze-onde-sismiche-interno] · SISMA
+concetti: Le onde P; Le onde S; Le onde superficiali; Leggere l'interno
+- Quali onde sismiche arrivano per prime a una stazione di misura?
+- Le onde S non riescono ad attraversare i liquidi.
+- Come si chiama lo strumento che registra le onde sismiche?
+- Le onde ___ si propagano lungo la superficie terrestre e di solito causano i danni maggiori agli edifici.
+- Metti in ordine di arrivo a un sismografo lontano le onde prodotte da un terremoto.
+- Gli scienziati hanno capito che il nucleo esterno è liquido perché...
+- Come fanno vibrare le rocce le onde P?
+- Perché lo studio delle onde sismiche permette di «vedere» dentro la Terra, anche se nessuno ci è mai stato?
+
+## Le prove dell'evoluzione [lib-3-media-scienze-prove-evoluzione] · ORIGINE
+concetti: I fossili; Gli organi omologhi; Gli organi analoghi; Gli organi vestigiali; Le prove molecolari
+- Perché l'Archaeopteryx è un fossile così importante?
+- Il braccio umano, l'ala del pipistrello e la pinna della balena hanno ossa disposte in modo simile.
+- Che cosa suggeriscono gli organi omologhi?
+- L'ala di una farfalla e quella di un uccello hanno la stessa funzione ma origine diversa: sono organi ___.
+- Nelle balene si trovano piccole ossa del bacino, residui di arti che non usano più. Come si chiamano questi o…
+- Confronti il DNA di tre specie: uomo, scimpanzé e topo. Quale coppia avrà il DNA più simile?
+- Negli strati rocciosi più antichi si trovano organismi semplici, in quelli più recenti anche organismi più co…
+- Le balene vivono in mare ma respirano aria con i polmoni e hanno resti di ossa delle zampe posteriori. Che co…
+
+## Mendel e i piselli [lib-3-media-scienze-leggi-di-mendel] · PISELLO
+concetti: Gli esperimenti di Mendel; Dominante e recessivo; La prima legge; La seconda legge; La terza legge
+- Quale organismo usò Mendel per i suoi esperimenti sull'ereditarietà?
+- Un carattere recessivo si manifesta solo se l'individuo possiede due alleli recessivi.
+- Mendel incrociò piante di linea pura a semi gialli (dominante) con piante a semi verdi. Come erano i semi del…
+- Incrociando tra loro le piante della prima generazione, nella seconda il carattere recessivo ricompare in cir…
+- Nella seconda generazione Mendel contò 6022 semi gialli e 2001 verdi. Quale rapporto si avvicina di più a que…
+- Che cosa afferma la terza legge di Mendel?
+- Perché Mendel iniziò i suoi esperimenti con piante di «linea pura»?
+- Due piante di pisello a fiori viola hanno anche dei discendenti a fiori bianchi. Sapendo che il viola è domin…
+
+## Misurare lo spazio infinito [lib-3-media-scienze-distanze-e-esplorazione] · SONDA
+concetti: L'unità astronomica; L'anno luce; Guardare nel passato; Telescopi e sonde
+- Che cos'è un anno luce?
+- La luce viaggia nel vuoto a circa 300.000 km al secondo.
+- A che cosa corrisponde un'unità astronomica (UA)?
+- La stella Sirio dista circa 8,6 anni luce: la luce che vediamo stanotte è partita circa ___ anni fa.
+- Perché i telescopi spaziali, come Hubble, vedono più nitidamente di quelli a terra?
+- La Luna dista circa 384.000 km e la luce viaggia a circa 300.000 km al secondo. Quando guardi la Luna, la ved…
+- Perché gli astronomi usano l'anno luce invece del chilometro per le distanze tra le stelle?
+- Si dice che guardare il cielo stellato sia come guardare nel passato. Spiega perché.
+
+## Misurare un terremoto [lib-3-media-scienze-scale-sismiche] · RICHTER
+concetti: La magnitudo; L'intensità; Due misure diverse; Il sismogramma
+- Che cosa misura la scala Mercalli?
+- Uno stesso terremoto ha una sola magnitudo, ma può avere intensità diverse in luoghi diversi.
+- Quale grandezza indica l'energia liberata da un terremoto?
+- La scala Mercalli è divisa in ___ gradi.
+- Quanta energia in più libera, all'incirca, un terremoto di magnitudo 6 rispetto a uno di magnitudo 5?
+- Due paesi sono colpiti dallo stesso terremoto: in uno i danni sono gravi, nell'altro lievi. Quale può essere …
+- Che cosa mostra un sismogramma?
+- Perché, per descrivere un terremoto, servono sia la magnitudo sia l'intensità?
+
+## Mutazioni: errori nel codice [lib-3-media-scienze-mutazioni] · MUTANTE
+concetti: Cos'è una mutazione; Le cause; Gli effetti; Mutazioni ed eredità
+- Che cos'è una mutazione?
+- Tutte le mutazioni sono dannose.
+- Quale di questi è un agente mutageno da cui proteggersi?
+- Una mutazione si trasmette ai figli solo se avviene nelle cellule che formano i ___.
+- Perché il fumo di sigaretta aumenta il rischio di tumore ai polmoni?
+- Una mutazione rende alcuni batteri resistenti a un antibiotico. Che cosa succede se si usa spesso quell'antib…
+- Perché le mutazioni sono importanti per l'evoluzione?
+- Una persona che si scotta spesso al sole può trasmettere ai figli le mutazioni della sua pelle? Spiega.
+
+## Nascita e morte di una stella [lib-3-media-scienze-vita-delle-stelle] · STELLA
+concetti: La nascita; La fusione nucleare; Colore e temperatura; Stelle come il Sole; Stelle molto massicce
+- Dove nascono le stelle?
+- Le stelle di colore blu sono più calde di quelle di colore rosso.
+- Quale processo produce l'energia delle stelle?
+- Alla fine della sua vita il Sole diventerà una gigante rossa e poi una nana ___.
+- Metti in ordine le fasi della vita di una stella come il Sole.
+- Che cosa può restare dopo l'esplosione di una supernova?
+- Perché una stella stabile non collassa sotto il proprio peso?
+- Il ferro nel tuo sangue è stato prodotto dentro antiche stelle. Spiega come è possibile.
+
+## Orecchio, naso, lingua e pelle [lib-3-media-scienze-udito-e-altri-sensi] · TIMPANO
+concetti: L'orecchio; L'equilibrio; Gusto e olfatto; Il tatto; Proteggere l'udito
+- Quale membrana vibra quando le onde sonore arrivano nell'orecchio?
+- Quando hai il raffreddore il cibo sembra meno saporito perché l'olfatto funziona peggio.
+- Metti in ordine il percorso del suono nell'orecchio.
+- Quale parte dell'orecchio ci aiuta a mantenere l'equilibrio?
+- Martello, incudine e ___ sono i tre ossicini dell'orecchio medio.
+- Perché con i polpastrelli riconosci oggetti piccolissimi, mentre con la schiena no?
+- Perché ascoltare spesso musica ad alto volume con le cuffie è rischioso?
+- Spiega perché, tappandoti il naso, è difficile distinguere il sapore di una mela da quello di una patata crud…
+
+## Otto pianeti in famiglia [lib-3-media-scienze-pianeti-sistema-solare] · PIANETA
+concetti: Il Sistema solare; I pianeti rocciosi; I giganti gassosi; I corpi minori
+- Qual è il pianeta più grande del Sistema solare?
+- Il Sistema solare si è formato circa 4,6 miliardi di anni fa da una nube di gas e polveri.
+- Dove si trova la fascia principale degli asteroidi?
+- Venere è il pianeta più caldo del Sistema solare, anche se non è il più vicino al Sole, a causa del fortissim…
+- Metti in ordine i pianeti rocciosi dal più vicino al più lontano dal Sole.
+- Perché Giove, Saturno, Urano e Nettuno sono chiamati «giganti gassosi»?
+- Perché la coda di una cometa compare solo quando si avvicina al Sole?
+- Perché sulla Terra c'è la vita e su Mercurio no? Indica almeno due differenze.
+
+## Placche che si scontrano [lib-3-media-scienze-margini-di-placca] · PLACCA
+concetti: Le placche; Margini divergenti; Margini convergenti; Margini trasformi
+- A che velocità si muovono, all'incirca, le placche litosferiche?
+- Quando una placca oceanica si scontra con una continentale, di solito è quella oceanica a sprofondare sotto l…
+- Che cosa succede lungo un margine divergente sul fondo dell'oceano?
+- La ___ è il processo in cui una placca scende sotto un'altra e sprofonda nel mantello.
+- Come si è formata la catena dell'Himalaya?
+- La faglia di Sant'Andrea è un margine trasforme. Quale fenomeno è frequente lungo di essa?
+- L'Islanda è attraversata dalla dorsale medio-atlantica. Perché lì ci sono tanti vulcani?
+- Perché vulcani e terremoti sono concentrati soprattutto lungo i margini delle placche?
+
+## Quando la terra trema [lib-3-media-scienze-terremoti-ipocentro-epicentro] · FAGLIA
+concetti: L'origine dei terremoti; Ipocentro ed epicentro; Le faglie; Gli tsunami
+- Come si chiama il punto in profondità in cui si origina un terremoto?
+- L'epicentro è il punto della superficie che si trova esattamente sopra l'ipocentro.
+- Perché le rocce, a un certo punto, si rompono e generano un terremoto?
+- Una ___ è una frattura della crosta lungo la quale due blocchi di roccia si sono spostati.
+- La faglia di Sant'Andrea, in California, è trascorrente. Come si muovono i blocchi?
+- Perché un forte terremoto sotto il mare può generare uno tsunami?
+- Sei in spiaggia, senti una forte scossa e vedi il mare ritirarsi all'improvviso. Che cosa conviene fare?
+- Spiega con un esempio della vita quotidiana come si accumula e si libera l'energia di un terremoto.
+
+## Riflessi e pilota automatico [lib-3-media-scienze-riflessi-sistema-autonomo] · NERVO
+concetti: Il sistema nervoso periferico; L'arco riflesso; Volontario e autonomo; Simpatico e parasimpatico
+- Che cosa fanno i nervi del sistema nervoso periferico?
+- Un riflesso è una risposta rapida e involontaria a uno stimolo.
+- Metti in ordine le tappe dell'arco riflesso quando tocchi una pentola bollente.
+- Perché ritiri la mano dal fuoco prima ancora di sentire dolore?
+- Durante uno spavento il sistema ___ accelera il battito del cuore e prepara il corpo all'azione.
+- Quale di queste attività è controllata dal sistema nervoso autonomo?
+- Dopo un pranzo abbondante ti senti rilassato mentre il corpo digerisce. Quale sistema prevale?
+- Prima di un'interrogazione importante il cuore batte forte e le mani sudano. Spiega che cosa succede nel tuo …
+
+## Rocce che cambiano pelle [lib-3-media-scienze-rocce-metamorfiche] · MARMO
+concetti: Il metamorfismo; Rocce di partenza e d'arrivo; La scistosità; Contatto e regionale
+- Che cosa trasforma una roccia in roccia metamorfica?
+- Il famoso marmo di Carrara deriva dalla trasformazione del ___.
+- Durante il metamorfismo la roccia fonde completamente e diventa magma.
+- Perché l'ardesia si divide facilmente in lastre sottili, usate un tempo per le lavagne?
+- Da quale roccia di partenza si forma lo gneiss?
+- Il metamorfismo «di contatto» avviene...
+- Dove si trovano vaste aree di rocce metamorfiche «regionali»?
+- Un pezzo di marmo e uno di calcare hanno la stessa composizione chimica ma aspetto diverso. Spiega perché.
+
+## Rocce nate dal fuoco [lib-3-media-scienze-rocce-magmatiche] · GRANITO
+concetti: L'origine dal magma; Le rocce intrusive; Le rocce effusive; Gli usi
+- Da cosa si formano le rocce magmatiche?
+- Il granito si forma quando il magma si raffredda lentamente in profondità, dentro la crosta.
+- Quale di queste è una roccia magmatica effusiva?
+- La ___ è una roccia vulcanica piena di bollicine, così leggera che può galleggiare sull'acqua.
+- L'ossidiana sembra vetro scuro. Perché non ha cristalli visibili?
+- Confronti con una lente un granito e un basalto. Cosa noti?
+- Perché la pomice si usa per levigare la pelle dei piedi?
+- Dallo stesso magma si formano due rocce: una in profondità e una da una colata di lava. In che cosa saranno d…
+
+## Strato dopo strato [lib-3-media-scienze-rocce-sedimentarie] · STRATO
+concetti: Come si formano; Le rocce clastiche; Le rocce organogene; Le rocce chimiche; Strati e fossili
+- Da cosa è formata l'arenaria?
+- In una serie di strati non disturbati, quelli più in basso sono di solito i più antichi.
+- Il carbone è una roccia sedimentaria che deriva da...
+- Le stalattiti delle grotte si formano perché l'acqua deposita, goccia dopo goccia, il ___ che aveva sciolto.
+- Su una montagna trovi una roccia piena di conchiglie fossili. Che cosa ti dice?
+- Metti in ordine le fasi che portano alla formazione di una roccia sedimentaria.
+- Il conglomerato contiene ciottoli arrotondati. Che cosa li ha arrotondati?
+- Perché le rocce sedimentarie sono preziose per chi studia la storia della vita sulla Terra?
+
+## Terremoto: che cosa fare? [lib-3-media-scienze-prevenzione-sismica] · SCOSSA
+concetti: Il rischio sismico; Prevedere e prevenire; Durante la scossa; Dopo la scossa
+- Durante una scossa sei in classe. Qual è la cosa più sicura da fare?
+- Oggi gli scienziati sono in grado di prevedere il giorno e l'ora esatti di un terremoto.
+- Quale regione italiana ha la pericolosità sismica più bassa?
+- Dopo la scossa bisogna uscire con calma e raggiungere l'area di ___ indicata dal piano di emergenza.
+- Perché durante un terremoto non bisogna usare l'ascensore?
+- Metti in ordine i comportamenti corretti in caso di terremoto a scuola.
+- Il rischio sismico di una zona non dipende solo da quanto sono frequenti i terremoti. Da che cos'altro dipend…
+- Se non si possono prevedere i terremoti, come si possono ridurre i danni? Fai almeno due esempi.
+
+## Viaggio al centro della Terra [lib-3-media-scienze-struttura-interna-terra] · NUCLEO
+concetti: La crosta; Il mantello; Il nucleo; Litosfera e astenosfera
+- Di che cosa è fatto principalmente il nucleo terrestre?
+- La crosta oceanica è più spessa della crosta continentale.
+- Quale parte del nucleo è liquida?
+- La ___ è lo strato rigido formato dalla crosta e dalla parte più alta del mantello, divisa in placche.
+- Metti in ordine gli strati della Terra dalla superficie al centro.
+- Perché si dice che l'astenosfera è «plastica»?
+- Nessuno ha mai scavato fino al mantello. Perché?
+- Il nucleo interno è più caldo di quello esterno, eppure è solido. Prova a spiegare perché.
+
+## Wegener e la Pangea [lib-3-media-scienze-deriva-dei-continenti] · PANGEA
+concetti: La teoria di Wegener; Le prove geografiche; Le prove fossili e geologiche; Le prove climatiche; Una teoria contestata
+- Come si chiama il supercontinente che, secondo Wegener, un tempo riuniva tutte le terre emerse?
+- Le coste dell'America del Sud e dell'Africa sembrano combaciare come pezzi di un puzzle.
+- Fossili di Mesosauro, un piccolo rettile d'acqua dolce, si trovano sia in Brasile sia in Africa. Che cosa sug…
+- In Antartide sono stati trovati giacimenti di ___, che deriva da antiche foreste: segno che quel continente e…
+- Perché la teoria di Wegener non fu accettata dagli scienziati del suo tempo?
+- Metti in ordine queste tappe della storia della teoria.
+- Le montagne della Scozia e della Scandinavia hanno rocce simili a quelle degli Appalachi, in America. Come lo…
+- Sono state trovate tracce di antichi ghiacciai in India e in Africa, oggi regioni calde. Come le spiegava Weg…
+
+## XX o XY? Geni e sesso [lib-3-media-scienze-cromosomi-sessuali-malattie] · ROSSO
+concetti: I cromosomi sessuali; Caratteri legati all'X; Malattie genetiche; La consulenza genetica
+- Quali cromosomi sessuali ha, di solito, un maschio?
+- È lo spermatozoo del padre a determinare il sesso del figlio.
+- Perché il daltonismo è molto più frequente nei maschi?
+- La sindrome di Down è dovuta alla presenza di tre copie del cromosoma ___.
+- Qual è, all'incirca, la probabilità che un bambino che deve nascere sia maschio?
+- Una donna portatrice di emofilia (un X sano e uno con l'allele malato) ha un figlio maschio con un uomo sano.…
+- A che cosa serve la consulenza genetica?
+- Spiega perché una femmina può essere «portatrice sana» del daltonismo, mentre un maschio no.

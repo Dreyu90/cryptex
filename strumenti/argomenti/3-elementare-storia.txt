@@ -1,0 +1,564 @@
+# 3ª elementare · Storia: 51 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Animali amici: nasce l'allevamento [lib-3-elementare-storia-allevamento-animali] · GREGGE
+concetti: Addomesticare gli animali; Il cane, primo amico; Gli animali del Neolitico; Che cosa davano
+- Quale di questi animali veniva allevato nel Neolitico?
+- Il cane discende dal lupo.
+- Abituare un animale selvatico a vivere con l'uomo si dice ___.
+- Quale prodotto si ottiene dalle pecore senza ucciderle?
+- Come aiutava il cane gli uomini?
+- A che cosa servivano i buoi, oltre a dare carne e pelli?
+- Perché allevare animali era più sicuro che cacciarli?
+- Immagina di vivere in un villaggio del Neolitico con una capra, una pecora e un bue. Spiega che cosa ti dà og…
+
+## Arrivano i mammiferi [lib-3-elementare-storia-era-mammiferi] · LATTE
+concetti: Che cos'è un mammifero; Piccoli al tempo dei dinosauri; Il Cenozoico; Sangue caldo e pelo
+- Con che cosa nutrono i piccoli le mamme dei mammiferi?
+- Il pipistrello è un mammifero, anche se vola.
+- Di solito i mammiferi hanno il corpo coperto di ___, che li tiene al caldo.
+- Perché i primi mammiferi, al tempo dei dinosauri, uscivano soprattutto di notte?
+- Quale di questi mammiferi ha antenati che vivevano sulla terraferma ed è tornato a vivere nel mare?
+- Perché in una giornata fredda un topo resta attivo, mentre una lucertola diventa lentissima?
+- Metti in ordine questi fatti, dal più antico al più recente.
+- Anche l'essere umano è un mammifero. Spiega quali caratteristiche dei mammiferi hai anche tu.
+
+## Cacciatori e raccoglitori in cammino [lib-3-elementare-storia-cacciatori-raccoglitori] · CLAN
+concetti: Il clan; Seguire le stagioni; La caccia in gruppo; Niente si spreca
+- Perché i gruppi del Paleolitico cambiavano luogo con le stagioni?
+- Degli animali cacciati gli uomini del Paleolitico usavano solo la carne e buttavano via il resto.
+- Per catturare un grande animale, i cacciatori lo ___ insieme e lo spingevano verso una trappola.
+- Che cosa si ricavava dai tendini di un animale?
+- Perché cacciare in gruppo era più efficace che cacciare da soli?
+- Metti in ordine le fasi di una caccia del clan.
+- Perché un clan di poche decine di persone era meglio di un gruppo di mille, per chi viveva di caccia e raccol…
+- Immagina di vivere in un clan del Paleolitico. Racconta come il gruppo si divide i compiti durante una giorna…
+
+## Case e vestiti del Paleolitico [lib-3-elementare-storia-ripari-vestiti] · PELLI
+concetti: Ripari naturali; Tende e capanne; Vestiti di pelle; Case da trasportare
+- Dove si riparavano spesso gli uomini del Paleolitico durante l'inverno?
+- In alcune zone senza alberi, gli uomini costruivano capanne usando ossa e zanne di mammut.
+- Per cucire le pelli si usava un ___ fatto d'osso.
+- Perché le tende di pelli erano adatte a chi era nomade?
+- Prima di diventare un vestito, la pelle di un animale veniva...
+- Perché, dove non c'erano alberi, si usavano le ossa di mammut per costruire?
+- Che cosa trovano spesso gli archeologi vicino all'ingresso delle grotte abitate?
+- Immagina di dover preparare un vestito per l'inverno nel Paleolitico. Quali materiali e strumenti useresti e …
+
+## Case sull'acqua: le palafitte [lib-3-elementare-storia-palafitte] · PALO
+concetti: Che cos'è una palafitta; Perché sui pali; Palafitte in Italia; Che cosa ci raccontano
+- Dove venivano costruite le palafitte?
+- Le palafitte erano costruite su pali di pietra.
+- Un famoso villaggio di palafitte si trova sulle rive del lago di ___, in Trentino.
+- Perché costruire la casa sollevata sui pali?
+- Come si saliva in una palafitta?
+- Perché nei villaggi di palafitte il legno si è conservato per migliaia di anni?
+- Sul fondo di un lago gli archeologi trovano chicchi di grano bruciati vicino ai pali. Che cosa capiscono?
+- Perché, secondo te, gli abitanti delle palafitte sceglievano di vivere vicino a un lago? Indica almeno due va…
+
+## Chi erano i dinosauri? [lib-3-elementare-storia-chi-erano-dinosauri] · RETTILE
+concetti: Rettili del Mesozoico; Il nome dinosauro; Zampe dritte sotto il corpo; Grandi e piccoli
+- A quale gruppo di animali appartenevano i dinosauri?
+- Tutti i dinosauri erano giganteschi, più grandi di un elefante.
+- La parola dinosauro significa «lucertola ___».
+- Quando vissero i dinosauri?
+- Che cosa distingueva le zampe dei dinosauri da quelle delle lucertole?
+- Come nascevano i piccoli dinosauri?
+- Metti in ordine questi fatti, dal più antico al più recente.
+- Sei un paleontologo e trovi uno scheletro con le zampe dritte sotto il corpo, vicino a un grande uovo fossile…
+
+## Come nasce un fossile [lib-3-elementare-storia-come-nasce-fossile] · FOSSILE
+concetti: Che cos'è un fossile; Coperto in fretta; Le parti dure diventano pietra; Il ritrovamento
+- Che cos'è un fossile?
+- Le parti molli di un animale, come la pelle e i muscoli, diventano fossili più facilmente delle ossa.
+- Le ossa di un animale sepolto diventano pietra perché, lentamente, vengono sostituite dai ___.
+- Perché un fossile si forma più facilmente sul fondo di un lago o del mare?
+- Un animale muore in un prato e resta all'aperto. Perché difficilmente diventerà un fossile?
+- Metti in ordine le fasi della formazione di un fossile.
+- Come può un fossile formato in fondo al mare trovarsi oggi in cima a una montagna?
+- Perché i fossili sono così rari, anche se sulla Terra sono vissuti miliardi di animali?
+
+## Come si accendeva il fuoco [lib-3-elementare-storia-accendere-fuoco] · FIAMMA
+concetti: Il fuoco naturale; Lo sfregamento; La percussione; L'esca
+- Da dove prendevano il fuoco i primi uomini, prima di saperlo accendere?
+- Strofinando velocemente due pezzi di legno secco si produce calore.
+- Il materiale secco che prende fuoco facilmente, come erba secca o muschio, si chiama ___.
+- Che cosa si otteneva battendo la selce contro una pietra di pirite?
+- Perché l'esca doveva essere ben secca?
+- Metti in ordine le fasi per accendere il fuoco con il bastoncino.
+- Perché saper accendere il fuoco da soli fu un grande passo avanti rispetto a raccoglierlo dagli incendi?
+- Spiega perché, sfregando un bastoncino sul legno, si riesce ad accendere il fuoco. Che cosa succede se il leg…
+
+## Con l'archeologo sullo scavo [lib-3-elementare-storia-archeologo-scavo] · SCAVO
+concetti: Chi è l'archeologo; Gli attrezzi dello scavo; Documentare tutto; Dopo lo scavo
+- Che cosa studia l'archeologo?
+- Gli oggetti antichi trovati durante uno scavo si chiamano ___.
+- Vicino ai reperti l'archeologo scava con attrezzi piccoli, come la cazzuola e il pennello, per non rovinarli.
+- A che cosa serve il setaccio durante uno scavo?
+- Perché l'archeologo segna con precisione il punto in cui ha trovato ogni oggetto?
+- Metti in ordine le fasi del lavoro su un reperto.
+- Un bambino trova una moneta antica in un campo e se la porta a casa. Perché è un problema?
+- Immagina di essere un archeologo e di trovare una collana di conchiglie in una tomba antica. Che cosa fai, pa…
+
+## Dal campo al pane [lib-3-elementare-storia-pietra-levigata-pane] · MACINA
+concetti: La pietra levigata; Ascia e falcetto; La macina; Le prime focacce
+- A che cosa serviva la macina?
+- La pietra levigata si otteneva strofinando a lungo la pietra fino a renderla liscia.
+- Per mietere il grano si usava il ___, con piccole lame di selce.
+- Perché ai contadini del Neolitico serviva un'ascia robusta?
+- Metti in ordine le fasi: dal seme alla focaccia.
+- Perché questa epoca si chiama anche «età della pietra nuova»?
+- Gli archeologi trovano una grande pietra piatta consumata al centro e una pietra più piccola vicino. Che cosa…
+- Confronta un'amigdala del Paleolitico e un'ascia di pietra levigata del Neolitico: come venivano fatte e perc…
+
+## Dall'acqua alla terraferma [lib-3-elementare-storia-acqua-terraferma] · ANFIBIO
+concetti: Le piante conquistano la terra; I pesci; Gli anfibi; I rettili e l'uovo con il guscio
+- Quale di questi animali è un anfibio?
+- Le piante hanno colonizzato la terraferma prima che arrivassero gli anfibi.
+- I rettili poterono allontanarsi dall'acqua perché le loro uova avevano il ___.
+- Dove depongono le uova gli anfibi, come rane e rospi?
+- Che cosa avevano di nuovo i pesci rispetto agli animali venuti prima di loro, come meduse e vermi?
+- Metti in ordine questi animali, dal più antico al più recente.
+- Perché un uovo senza guscio non può essere deposto in un posto asciutto?
+- Quali problemi dovettero superare piante e animali per lasciare l'acqua e vivere sulla terraferma?
+
+## Darwin e l'evoluzione [lib-3-elementare-storia-evoluzione-darwin] · DARWIN
+concetti: Il viaggio di Darwin; I viventi cambiano; L'adattamento; I fringuelli delle Galápagos
+- Con quale mezzo Darwin fece il suo lungo viaggio intorno al mondo?
+- Secondo l'evoluzione, gli esseri viventi cambiano in pochi giorni.
+- Il lento cambiamento degli esseri viventi nel corso di tantissime generazioni si chiama ___.
+- Perché i fringuelli di isole diverse avevano becchi diversi?
+- In un bosco coperto di neve per gran parte dell'anno, quale lepre ha più probabilità di sfuggire alla volpe?
+- Che cosa succede, generazione dopo generazione, se gli animali più adatti all'ambiente hanno più figli?
+- Metti in ordine come avviene l'evoluzione.
+- Perché per vedere l'evoluzione non basta osservare un animale per tutta la vita? Dove trovano le prove gli sc…
+
+## Decenni, secoli e millenni [lib-3-elementare-storia-secoli-e-millenni] · SECOLO
+concetti: Il decennio; Il secolo; Il millennio; Dalla misura più breve alla più lunga
+- Un periodo di 10 anni si chiama ___.
+- Quanti anni ci sono in un secolo?
+- Un millennio è formato da 10 secoli.
+- Il nonno di Sara ha 70 anni. Quanti decenni ha vissuto?
+- Quanti anni fanno 3 secoli?
+- In quale secolo viviamo oggi?
+- Metti in ordine queste misure del tempo, dalla più breve alla più lunga.
+- Un castello è stato costruito circa 1000 anni fa. Quanti secoli e quanti decenni sono passati? Spiega come lo…
+
+## Detective della mia storia [lib-3-elementare-storia-storia-personale] · RICORDO
+concetti: La storia personale; Le fonti di casa; I testimoni; La linea della vita
+- Quale fonte ti dice con sicurezza il giorno e il luogo in cui sei nato?
+- Per sapere come eri da neonato puoi chiedere ai tuoi genitori: sono testimoni di quel periodo.
+- Per mettere in ordine gli eventi della tua vita, dalla nascita a oggi, puoi disegnare la ___ della vita.
+- Le scarpine che portavi a un anno sono una fonte...
+- Quale di questi fatti è importante da mettere nella tua storia personale?
+- Metti in ordine questi momenti della vita di Luca, dal più lontano al più vicino.
+- La mamma dice che hai cominciato a camminare a 11 mesi, il papà dice a 13 mesi. Come puoi scoprire chi ha rag…
+- Racconta tre fatti importanti della tua storia personale e, per ognuno, indica una fonte che lo dimostra.
+
+## Erbivori o carnivori? [lib-3-elementare-storia-erbivori-carnivori] · DENTI
+concetti: I dinosauri erbivori; I dinosauri carnivori; I denti raccontano; Difendersi
+- Che cosa mangiavano i dinosauri erbivori?
+- I dinosauri erbivori erano più numerosi di quelli carnivori.
+- I dinosauri carnivori avevano denti appuntiti e ___, come la lama di un coltello da pane.
+- Come si muovevano molti dinosauri carnivori, come il tirannosauro?
+- Quale di questi era un modo di difendersi dei dinosauri erbivori?
+- Un paleontologo trova un dente fossile largo, con una superficie fatta per triturare. Che cosa ne deduce?
+- Metti in ordine questa catena alimentare del Mesozoico: chi viene mangiato va prima di chi lo mangia.
+- Descrivi come il corpo di un dinosauro carnivoro era adatto alla caccia e come quello di un erbivoro era adat…
+
+## Fonti: le tracce del passato [lib-3-elementare-storia-fonti-storiche] · FONTE
+concetti: Fonti materiali; Fonti scritte; Fonti orali; Fonti visive o iconografiche
+- Quale di queste è una fonte materiale?
+- Il racconto della nonna su com'era la scuola quando era bambina è una fonte orale.
+- Un diario, un giornale e una pagella sono fonti ___.
+- Che cosa ti può far scoprire una vecchia fotografia della tua via?
+- Sotto terra si trova un vaso di 2000 anni fa, senza scritte. Che cosa si può scoprire osservandolo?
+- Le fonti scritte esistono da quando sono comparsi i primi esseri umani.
+- Perché le fonti orali sono utili soprattutto per il passato recente?
+- Scegli un oggetto che usi ogni giorno e che fra cento anni potrebbe diventare una fonte. Che tipo di fonte sa…
+
+## Fossili di ogni tipo [lib-3-elementare-storia-tipi-di-fossili] · AMBRA
+concetti: Resti pietrificati; Impronte e orme; Fossili nell'ambra; Fossili nel ghiaccio; I coproliti
+- Che cos'è l'ambra?
+- Un'orma di dinosauro impressa nella roccia è un fossile, anche se non contiene ossa.
+- In Siberia sono stati trovati mammut conservati nel terreno ___, a volte ancora con il pelo.
+- In alcuni luoghi si trovano tronchi antichissimi diventati di pietra, in cui si vedono ancora gli anelli. Che…
+- Perché un insetto chiuso nell'ambra è un fossile così prezioso?
+- Un paleontologo studia un coprolite, cioè cacca fossile. Che cosa può scoprire?
+- In una pista di orme fossili i passi sono molto distanti tra loro. Che cosa può dedurre lo scienziato?
+- In una cava trovi una pietra con l'impronta di una foglia di felce. Che tipo di fossile è e che cosa ti racco…
+
+## Fuso e telaio: nasce la stoffa [lib-3-elementare-storia-filare-tessere] · TELAIO
+concetti: Le fibre; Filare con il fuso; Tessere al telaio; Vestiti nuovi
+- Quale pianta veniva coltivata per ricavarne fibre da tessere?
+- Il fuso serviva a trasformare le fibre in un filo.
+- Lo strumento su cui si incrociano i fili per fare la stoffa si chiama ___.
+- Che vantaggio avevano i vestiti di stoffa rispetto a quelli di pelle?
+- Metti in ordine le fasi per ottenere un vestito di lana.
+- Che cosa serve, prima di tutto, per poter tessere una stoffa al telaio?
+- Perché la tessitura si diffuse proprio nel Neolitico e non prima?
+- Gli archeologi trovano in un villaggio del Neolitico dei piccoli pesi di argilla con un foro, tutti vicini tr…
+
+## Gli uccelli, dinosauri di oggi [lib-3-elementare-storia-uccelli-dinosauri] · PIUME
+concetti: Dinosauri con le piume; L'Archaeopteryx; Discendenti dei dinosauri; Somiglianze di oggi
+- Secondo gli scienziati, da quali animali discendono gli uccelli?
+- Alcuni dinosauri avevano il corpo coperto di piume.
+- L'animale fossile con ali e piume, ma anche denti e una lunga coda d'osso, si chiama ___.
+- Quale caratteristica dell'Archaeopteryx lo rendeva più simile a un dinosauro che a un uccello di oggi?
+- A che cosa servivano probabilmente le piume ai dinosauri che non volavano?
+- Quale di queste caratteristiche hanno in comune una gallina e un velociraptor?
+- Che cosa intendono gli scienziati quando dicono che «i dinosauri non sono del tutto scomparsi»?
+- Osserva una gallina o un piccione: quali indizi del suo corpo ti ricordano un dinosauro? Spiega.
+
+## Homo erectus, il grande viaggiatore [lib-3-elementare-storia-homo-erectus] · VIAGGIO
+concetti: L'uomo eretto; Fuori dall'Africa; L'amigdala; Il fuoco
+- Che cosa significa «Homo erectus»?
+- Homo erectus fu il primo ominide a lasciare l'Africa.
+- La pietra lavorata su due facce, a forma di mandorla, si chiama ___.
+- In che cosa l'amigdala era migliore del chopper?
+- Homo erectus arrivò in terre dove gli inverni erano molto freddi. Perché lì il fuoco gli fu così utile?
+- Perché gruppi di Homo erectus si spostarono così lontano dall'Africa?
+- Perché tenere sempre acceso il fuoco era un compito così importante?
+- Homo erectus arrivò in terre lontane, con climi diversi dall'Africa. Quali sue capacità lo aiutarono, secondo…
+
+## Homo habilis, l'uomo abile [lib-3-elementare-storia-homo-habilis] · CHOPPER
+concetti: L'uomo abile; I primi strumenti di pietra; Un cervello più grande; Il cibo
+- Homo habilis significa «uomo ___», perché sapeva costruire strumenti.
+- Homo habilis costruiva i suoi strumenti con il ferro.
+- Che cos'è un chopper?
+- Come otteneva Homo habilis un bordo tagliente su un ciottolo?
+- Perché Homo habilis spaccava le ossa degli animali con le pietre?
+- Perché costruire un chopper richiedeva un cervello sviluppato?
+- Metti in ordine i passaggi per costruire un chopper.
+- Immagina una giornata di Homo habilis nella savana: come si procurava il cibo e come usava i suoi strumenti?
+
+## Homo sapiens: siamo noi! [lib-3-elementare-storia-homo-sapiens] · SAPIENS
+concetti: La nostra specie; In tutto il mondo; Nuove invenzioni; Arte e linguaggio
+- A quale specie appartieni tu?
+- Tutti gli esseri umani che vivono oggi sulla Terra appartengono alla stessa specie.
+- Il ___ era un bastone con un gancio che permetteva di lanciare le lance più lontano e con più forza.
+- In quale di questi continenti Homo sapiens arrivò per ultimo?
+- Che cosa ci dicono le collane di conchiglie e denti trovate nelle tombe di Homo sapiens?
+- Metti in ordine queste specie, dalla più antica alla più recente.
+- Perché un linguaggio complesso fu così importante per Homo sapiens?
+- Homo sapiens riuscì a vivere in ambienti diversissimi: deserti, foreste, terre ghiacciate. Quali capacità gli…
+
+## Identikit di dinosauri famosi [lib-3-elementare-storia-dinosauri-famosi] · GIGANTE
+concetti: Il tirannosauro; Il triceratopo; Lo stegosauro; Il brachiosauro; Non tutti insieme
+- Quante corna aveva il triceratopo?
+- Il tirannosauro aveva braccia cortissime rispetto al resto del corpo.
+- Il brachiosauro poteva mangiare le foglie più alte degli alberi grazie al suo lunghissimo ___.
+- Quale dinosauro aveva grandi placche sulla schiena e aculei sulla coda?
+- Il tirannosauro era...
+- Perché un brachiosauro adulto aveva pochi nemici?
+- Il triceratopo e il tirannosauro vissero nello stesso periodo. A che cosa poteva servire al triceratopo il su…
+- Molti film mostrano tutti i dinosauri insieme nello stesso paesaggio. Perché non è corretto? Fai un esempio.
+
+## Il Big Bang: tutto comincia [lib-3-elementare-storia-big-bang] · COSMO
+concetti: Il Big Bang; L'universo si espande; Stelle e galassie; La Via Lattea
+- Come si chiama, secondo gli scienziati, l'inizio dell'universo?
+- Nella Via Lattea c'è una sola stella: il Sole.
+- La galassia in cui si trova il nostro Sistema solare si chiama ___.
+- Circa quanto tempo fa è nato l'universo, secondo gli scienziati?
+- Che cosa sta facendo l'universo ancora oggi, secondo gli scienziati?
+- Come sono nate le prime stelle?
+- Metti in ordine questi fatti, dal più antico al più recente.
+- Per spiegare l'universo che si espande, gli scienziati usano l'esempio di un palloncino a pois che si gonfia.…
+
+## Il giorno dell'asteroide [lib-3-elementare-storia-estinzione-dinosauri] · IMPATTO
+concetti: Un'estinzione di massa; L'asteroide; Il cielo si oscura; Chi sopravvisse
+- Che cosa significa che una specie si è estinta?
+- Secondo la maggior parte degli scienziati, la caduta di un enorme asteroide fu una delle cause principali del…
+- Il grande asteroide cadde nella zona dell'attuale ___, dove ancora oggi c'è il suo cratere sepolto.
+- Che cosa provocò la polvere sollevata dall'impatto?
+- Quali animali riuscirono più facilmente a sopravvivere?
+- Metti in ordine la catena di conseguenze dopo la caduta dell'asteroide.
+- Perché dopo l'impatto morirono anche i grandi carnivori che l'asteroide non aveva colpito?
+- Come fanno gli scienziati a sapere che cadde un asteroide 66 milioni di anni fa, se nessuno lo ha visto?
+
+## Il grande freddo delle glaciazioni [lib-3-elementare-storia-glaciazioni] · MAMMUT
+concetti: Le glaciazioni; Ghiacciai e mari; Animali del freddo; Passaggi di terra; La fine dell'ultima glaciazione
+- Quale animale, coperto da un lungo pelo, viveva durante le glaciazioni?
+- L'ultima glaciazione è finita circa 12.000 anni fa.
+- I lunghi periodi in cui gran parte della Terra era coperta dai ghiacci si chiamano ___.
+- Perché durante le glaciazioni il livello del mare si abbassò?
+- Quali caratteristiche aiutavano il mammut lanoso a sopportare il gelo?
+- Durante le glaciazioni tra l'Asia e l'America, dove oggi c'è il mare, emerse un passaggio di terra. A che cos…
+- Quando l'ultima glaciazione finì e il clima si riscaldò, che cosa accadde ai ghiacciai?
+- Il mammut lanoso era perfetto per il freddo. Perché, secondo te, quando il clima si riscaldò i mammut si trov…
+
+## Indietro nel tempo: la Preistoria [lib-3-elementare-preistoria] · FUOCO
+concetti: La linea del tempo; Il Paleolitico; La scoperta del fuoco; Il Neolitico; L'età dei metalli
+- Come si procuravano il cibo gli uomini del Paleolitico?
+- Gli uomini preistorici cacciavano i dinosauri.
+- Gli uomini del Paleolitico si spostavano continuamente per seguire gli animali da cacciare: erano ___.
+- Perché la scoperta del fuoco fu così importante?
+- Metti in ordine questi fatti della Preistoria, dal più antico al più recente.
+- Quale di questi oggetti è tipico del Neolitico?
+- Perché gli attrezzi di metallo presero piano piano il posto di quelli di pietra?
+- Immagina di vivere nel Neolitico. Racconta come è cambiata la tua vita rispetto a quella dei tuoi antenati de…
+
+## L'uomo di Neanderthal [lib-3-elementare-storia-neanderthal] · VALLE
+concetti: Chi era; Adatto al freddo; Un abile cacciatore; Seppellire i morti; Neanderthal in Italia
+- In quale clima viveva l'uomo di Neanderthal?
+- L'uomo di Neanderthal seppelliva i suoi morti.
+- L'uomo di Neanderthal aveva un corpo basso e ___, adatto a non disperdere il calore.
+- Con che cosa cacciava i grandi animali?
+- Che cosa ci fa capire il fatto che seppellisse i morti?
+- In quale di questi luoghi italiani sono stati trovati resti dell'uomo di Neanderthal?
+- Circa 40.000 anni fa l'uomo di Neanderthal scomparve. Quale altra specie umana viveva in Europa in quel perio…
+- Molti pensavano che l'uomo di Neanderthal fosse un «bruto» poco intelligente. Quali prove dimostrano il contr…
+
+## La grande invenzione dell'agricoltura [lib-3-elementare-storia-nascita-agricoltura] · SEME
+concetti: Che cos'è il Neolitico; La Mezzaluna fertile; Le prime piante coltivate; Da nomadi a sedentari
+- Circa quanto tempo fa iniziò il Neolitico?
+- Il grano e l'orzo furono tra le prime piante coltivate dall'uomo.
+- Chi vive sempre nello stesso luogo, senza spostarsi, si dice ___.
+- Dove nacque per prima l'agricoltura?
+- Perché le terre vicino ai grandi fiumi erano adatte all'agricoltura?
+- Perché chi coltivava i campi dovette smettere di essere nomade?
+- Perché i cereali erano un cibo così prezioso per gli uomini del Neolitico?
+- Confronta un cacciatore-raccoglitore del Paleolitico e un contadino del Neolitico: che cosa cambia nel modo d…
+
+## La squadra degli esperti [lib-3-elementare-storia-esperti-del-passato] · ESPERTO
+concetti: Il geologo; Il paleontologo; L'antropologo; Lavorare in squadra
+- Chi studia i fossili dei dinosauri?
+- Un esperto osserva gli strati di una parete rocciosa per capire come si sono formati. Chi è?
+- Il paleontologo studia anche i fossili di piante, non solo quelli di animali.
+- Lo studioso che analizza le ossa degli esseri umani per capire come vivevano è l'___.
+- Osservando lo scheletro di un uomo preistorico, l'antropologo può capire...
+- In una grotta si trovano ossa di orso, carbone e punte di selce. Perché è utile chiamare più esperti?
+- Il paleontologo trova fossili di mammut in uno strato; il geologo dice che lo strato ha 20.000 anni. Che cosa…
+- Perché lo storico ha bisogno dell'aiuto di altri esperti per studiare la Preistoria?
+
+## La Terra, una palla di fuoco [lib-3-elementare-storia-terra-primordiale] · CROSTA
+concetti: Una palla incandescente; Vulcani ovunque; La crosta si raffredda; Nessuna forma di vita
+- Com'era la Terra appena formata?
+- Sulla Terra appena formata vivevano già piante e animali.
+- Lo strato esterno e solido della Terra, formato quando la superficie si raffreddò, si chiama ___.
+- Che cosa usciva dai moltissimi vulcani della Terra primitiva?
+- Che cosa colpiva continuamente la Terra appena nata?
+- Perché ancora oggi alcuni vulcani eruttano lava?
+- Perché nessun essere vivente avrebbe potuto vivere sulla Terra appena nata?
+- Immagina di fare un viaggio nel tempo sulla Terra appena nata. Descrivi che cosa vedresti e perché non potres…
+
+## La vita nasce nell'acqua [lib-3-elementare-storia-prime-forme-di-vita] · CELLULA
+concetti: Vita nell'acqua; Esseri di una sola cellula; Le alghe azzurre e l'ossigeno; Esseri più complessi
+- Dove comparvero le prime forme di vita sulla Terra?
+- I primi esseri viventi erano così piccoli da non potersi vedere a occhio nudo.
+- I primi esseri viventi erano formati da una sola ___.
+- Perché l'acqua era un buon posto per i primi viventi?
+- Che cosa liberavano le alghe azzurre usando la luce del Sole?
+- Metti in ordine come è cambiata l'aria grazie alle alghe azzurre.
+- Che differenza c'è tra un batterio e una medusa?
+- Perché possiamo dire che dobbiamo «ringraziare» le minuscole alghe azzurre se oggi possiamo respirare?
+
+## Le ere della Terra [lib-3-elementare-storia-ere-geologiche] · EPOCA
+concetti: Che cosa sono le ere; Il Paleozoico; Il Mesozoico; Il Cenozoico
+- In quale era vissero i dinosauri?
+- Ogni era geologica dura pochi anni, più o meno come un decennio.
+- L'era che cominciò dopo la scomparsa dei dinosauri, chiamata era dei mammiferi, è il ___.
+- Quali di questi animali vivevano nei mari del Paleozoico?
+- Che cosa significa il nome «Mesozoico»?
+- Metti in ordine le ere geologiche, dalla più antica alla più recente.
+- Perché i mammiferi poterono diffondersi moltissimo nel Cenozoico?
+- In uno strato profondo si trovano fossili di dinosauri e in uno strato più in alto fossili di mammut. Spiega,…
+
+## Lo storico, detective del passato [lib-3-elementare-storia-lavoro-storico] · INDIZIO
+concetti: Che cos'è la storia; Il metodo dello storico; Le fonti come indizi; Confrontare le fonti
+- Di che cosa si occupa la storia?
+- Lo storico può ricostruire il passato anche senza nessuna fonte, usando solo la fantasia.
+- Le tracce lasciate dal passato, che lo storico studia come indizi, si chiamano ___.
+- Che cosa fa lo storico subito dopo essersi fatto una domanda sul passato?
+- Metti in ordine le fasi del lavoro dello storico.
+- Perché è utile studiare la storia?
+- Un diario di 80 anni fa racconta che in un paese c'era una grande festa ogni estate. Che cosa fa uno storico …
+- Perché lo storico non si fida di una sola fonte? Spiegalo con un esempio.
+
+## Lucy e i primi ominidi [lib-3-elementare-storia-primi-ominidi] · AFRICA
+concetti: Gli ominidi; L'Australopiteco; Lucy; Camminare in piedi
+- In quale continente comparvero i primi antenati dell'uomo?
+- L'Australopiteco camminava su due piedi.
+- Il famoso scheletro di Australopiteco scoperto in Etiopia nel 1974 è stato chiamato ___.
+- Quale vantaggio dava camminare su due piedi?
+- Circa quanto tempo fa visse Lucy?
+- Rispetto al nostro, il cervello dell'Australopiteco era...
+- Gli antenati dell'uomo vivevano nella savana, una grande prateria con erba alta. Perché stare in piedi era ut…
+- Come fanno gli scienziati a sapere che Lucy camminava su due piedi, anche se nessuno l'ha mai vista? Fai un'i…
+
+## Menhir, dolmen e cerchi di pietra [lib-3-elementare-storia-megaliti] · MENHIR
+concetti: Che cosa sono i megaliti; Menhir e dolmen; Stonehenge; A che cosa servivano
+- Che cosa significa la parola «megalito»?
+- Stonehenge si trova in Inghilterra.
+- Un'unica grande pietra piantata in verticale nel terreno si chiama ___.
+- Com'è fatto un dolmen?
+- Perché molti studiosi pensano che Stonehenge fosse collegato al Sole?
+- Senza gru né camion, come riuscivano gli uomini a spostare pietre enormi?
+- Che cosa ci fa capire il fatto che un villaggio riuscisse a innalzare un megalito?
+- Perché, secondo te, popoli che vivevano in capanne di legno faticarono tanto per costruire monumenti di pietr…
+
+## Miti e leggende delle origini [lib-3-elementare-storia-miti-delle-origini] · MITO
+concetti: Che cos'è un mito; Perché nascono i miti; Un mito greco; La spiegazione scientifica
+- Chi sono di solito i protagonisti di un mito?
+- I miti sono stati tramandati a voce per moltissimo tempo, prima di essere scritti.
+- Secondo un antico mito greco, all'inizio di tutto c'era il ___, un vuoto buio e confuso.
+- Perché gli antichi inventavano miti per spiegare il tuono o le stagioni?
+- Qual è la differenza principale tra un mito e una spiegazione scientifica?
+- Un antico popolo pensava che il tuono fosse la voce di un dio arrabbiato. Che cosa ci dice questo esempio?
+- Nel mito greco delle origini, chi era Gea?
+- Un mito e la scienza raccontano in modo diverso come è nato il mondo. Spiega una differenza e perché i miti s…
+
+## Nasce il Sistema solare [lib-3-elementare-storia-sistema-solare] · SOLE
+concetti: La nebulosa; Il Sole si accende; Nascono i pianeti; La Terra, terzo pianeta
+- Che cos'è il Sole?
+- I pianeti del Sistema solare girano intorno al Sole.
+- La grande nube di gas e polveri da cui è nato il Sistema solare si chiama ___.
+- In che posizione si trova la Terra, contando i pianeti a partire dal Sole?
+- Circa quando si è formato il Sistema solare?
+- Metti in ordine questi pianeti, dal più vicino al più lontano dal Sole.
+- Perché la posizione della Terra è stata così importante per la vita?
+- Che cosa succederebbe alla Terra se il Sole all'improvviso si spegnesse? Spiega perché il Sole è indispensabi…
+
+## Nascono i primi villaggi [lib-3-elementare-storia-primi-villaggi] · CAPANNA
+concetti: Le capanne; Il villaggio; Proteggere il villaggio; Nuovi mestieri
+- Con quali materiali si costruiva una capanna del Neolitico?
+- I villaggi del Neolitico nascevano spesso vicino all'acqua e ai campi coltivati.
+- Una recinzione fatta di pali di legno piantati uno accanto all'altro si chiama ___.
+- Chi era il vasaio in un villaggio del Neolitico?
+- Perché un villaggio aveva bisogno di difese, mentre un accampamento del Paleolitico no?
+- Perché nei villaggi nacquero tanti mestieri diversi?
+- Metti in ordine le fasi per costruire una capanna del Neolitico.
+- Nel villaggio un contadino ha tanto grano, ma i suoi vestiti sono rotti; un tessitore ha bisogno di cibo. Com…
+
+## Non tutti erano dinosauri [lib-3-elementare-storia-rettili-volanti-marini] · VOLO
+concetti: Gli pterosauri; I rettili marini; Parenti, ma non dinosauri; Respirare aria
+- Di che cosa erano fatte le ali degli pterosauri?
+- Lo pteranodonte era un dinosauro volante.
+- I rettili marini simili ai delfini, che vivevano nei mari del Mesozoico, si chiamavano ___.
+- Com'era fatto un plesiosauro?
+- Perché un ittiosauro doveva salire spesso in superficie?
+- Quale di queste frasi è corretta?
+- Gli ittiosauri somigliavano ai delfini, che però sono mammiferi comparsi molto dopo. Perché avevano una forma…
+- Immagina di nuotare in un mare del Mesozoico. Descrivi due rettili che potresti incontrare e spiega in che co…
+
+## Officina di pietra scheggiata [lib-3-elementare-storia-strumenti-pietra] · SELCE
+concetti: La selce; La scheggiatura; Uno strumento per ogni lavoro; Osso e corno
+- Perché la selce era la pietra preferita per fare strumenti?
+- Per scheggiare la selce si usava un martello di ferro.
+- Lo strumento usato per pulire la parte interna delle pelli si chiama ___.
+- A che cosa serviva un arpione d'osso con i dentini?
+- A che cosa serviva il bulino, una pietra con una punta sottile e robusta?
+- Perché lo scheggiatore doveva colpire la selce con precisione e non a caso?
+- In una grotta un archeologo trova molti raschiatoi e ossa di renna. Che lavoro si faceva probabilmente lì?
+- Oggi usiamo coltelli, aghi e raschietti di metallo. Scegli uno strumento del Paleolitico e spiega a quale ogg…
+
+## Piogge infinite e primi oceani [lib-3-elementare-storia-primi-oceani] · PIOGGIA
+concetti: Il vapore dei vulcani; Nuvole e piogge; Nascono gli oceani; L'atmosfera primitiva
+- Dove si raccolse l'acqua delle prime piogge?
+- Le piogge che riempirono i primi oceani durarono un solo giorno.
+- Raffreddandosi, il vapore acqueo si trasformò in goccioline e formò le ___.
+- Da dove arrivava gran parte del vapore acqueo nell'aria della Terra primitiva?
+- Perché le piogge poterono cadere sul terreno solo dopo che la Terra si era un po' raffreddata?
+- Metti in ordine come si sono formati i primi oceani.
+- Che cosa mancava nell'atmosfera della Terra primitiva, che oggi è indispensabile per respirare?
+- Racconta con parole tue il viaggio dell'acqua: dai vulcani fino ai primi oceani.
+
+## Pittori nelle grotte [lib-3-elementare-storia-arte-rupestre] · PITTURA
+concetti: L'arte rupestre; Che cosa dipingevano; I colori naturali; Luoghi famosi; Perché dipingevano
+- Quali soggetti compaiono più spesso nelle pitture delle grotte?
+- Gli uomini preistorici compravano i colori già pronti in tubetti.
+- La terra colorata, rossa o gialla, usata per dipingere nelle grotte si chiama ___.
+- Come si facevano le «mani in negativo», cioè il contorno di una mano sulla parete?
+- In quale regione italiana si trova la Val Camonica, famosa per le incisioni rupestri?
+- Perché, secondo molti studiosi, gli uomini dipingevano animali nelle grotte?
+- Molte pitture si trovano in fondo a grotte buie. Come facevano i pittori a vedere?
+- Perché le pitture nelle grotte sono fonti preziose per lo storico, anche se non sappiamo con certezza perché …
+
+## Prima e dopo Cristo [lib-3-elementare-storia-avanti-dopo-cristo] · DATA
+concetti: L'anno di riferimento; Avanti Cristo (a.C.); Dopo Cristo (d.C.); Calcolare le distanze
+- Qual è il punto di partenza per contare gli anni nel nostro calendario?
+- Gli anni prima della nascita di Cristo si indicano con la sigla ___.
+- L'anno 800 a.C. è più antico dell'anno 300 a.C.
+- Che cosa significa che un fatto è avvenuto nel 1492 d.C.?
+- Un vaso è del 300 a.C. e una moneta del 300 d.C. Quale dei due oggetti è più antico?
+- Metti in ordine queste date, dalla più antica alla più recente.
+- Quanti anni passano dal 900 a.C. al 400 a.C.?
+- Perché tutti hanno bisogno dello stesso punto di partenza per contare gli anni? Che cosa succederebbe senza?
+
+## Rame, bronzo e ferro [lib-3-elementare-storia-eta-dei-metalli] · BRONZO
+concetti: Il rame; Il bronzo; Il ferro; Fondere e colare
+- Quale fu il primo metallo che gli uomini impararono a lavorare?
+- Il bronzo si ottiene fondendo insieme rame e stagno.
+- Il metallo fuso veniva versato in una forma cava chiamata ___.
+- Metti in ordine i metalli, dal primo che fu lavorato all'ultimo.
+- Perché il bronzo sostituì il rame per armi e attrezzi?
+- Che cosa faceva il fabbro?
+- Perché il ferro fu lavorato per ultimo, anche se in natura se ne trova tanto?
+- Lo stagno si trovava solo in pochi luoghi, lontani da molti villaggi. Che cosa dovevano fare i popoli che vol…
+
+## Ripasso: la lunga storia della Terra [lib-3-elementare-storia-ripasso-storia-terra] · PIANETA
+concetti: Dall'universo alla Terra; Dalla Terra infuocata agli oceani; La vita cambia; Le prove degli scienziati
+- Quale di questi è nato per primo?
+- I dinosauri comparvero prima dei pesci.
+- I resti o le impronte di esseri viventi antichissimi, conservati nelle rocce, si chiamano ___.
+- Che cosa sarebbe successo se la Terra non si fosse mai raffreddata?
+- Quale fonte aiuta di più a capire com'era la vita 300 milioni di anni fa?
+- Metti in ordine la lunga storia della Terra, dal fatto più antico al più recente.
+- Quale di questi animali visse nello stesso periodo dei dinosauri?
+- Se tutta la storia della Terra fosse lunga un solo giorno, gli esseri umani comparirebbero solo nell'ultimo m…
+
+## Strato dopo strato [lib-3-elementare-storia-strati-terreno] · STRATO
+concetti: Come si formano gli strati; Sotto è più antico; Datare con gli strati; Strati e fossili
+- In una pila di giornali che nessuno ha mai spostato, dove trovi il giornale più vecchio?
+- Di solito, in uno scavo, gli strati più profondi sono più antichi di quelli in superficie.
+- Gli strati del terreno si formano perché fango e sabbia si ___ uno sopra l'altro nel tempo.
+- Che cosa forma, poco alla volta, gli strati sul fondo di un lago?
+- In uno scavo una punta di freccia si trova in uno strato più profondo di quello di un vaso. Che cosa puoi ded…
+- In uno scavo si trovano questi strati. Mettili in ordine dal più recente, in superficie, al più antico, in pr…
+- In uno strato profondo ci sono solo fossili di pesci e conchiglie; più in alto ci sono ossa di animali di ter…
+- Perché un archeologo che scava troppo in fretta, mescolando la terra di strati diversi, rovina il suo lavoro?
+
+## Sulla linea del tempo [lib-3-elementare-storia-linea-del-tempo] · LINEA
+concetti: La successione; La contemporaneità; La durata; Leggere la linea del tempo
+- Su una linea del tempo che si legge da sinistra a destra, dove si trovano i fatti più antichi?
+- Sulla linea del tempo, un fatto segnato più a destra è accaduto dopo un fatto segnato più a sinistra.
+- Mentre tu fai merenda a casa, il tuo amico fa merenda a casa sua: le due azioni sono ___.
+- Quale di questi periodi ha la durata più lunga?
+- Quale coppia di fatti è contemporanea?
+- Metti in ordine questi fatti, dal più antico al più recente.
+- Una linea del tempo è divisa in tratti uguali e ogni tratto vale 10 anni. Un periodo occupa 4 tratti. Quanto …
+- Perché per disegnare la Preistoria non puoi usare una linea del tempo in cui ogni tratto vale un anno, come p…
+
+## Una visita al museo [lib-3-elementare-storia-museo] · MUSEO
+concetti: A che cosa serve un museo; Musei diversi; La didascalia; Il restauratore; Rispettare i reperti
+- Qual è il compito principale di un museo?
+- In quale museo è più probabile vedere lo scheletro di un dinosauro?
+- Al museo si possono toccare i reperti antichi, purché si abbiano le mani pulite.
+- Il cartellino vicino a un reperto, che ne indica il nome, l'epoca e la provenienza, si chiama ___.
+- Leggi la didascalia: «Ascia di pietra levigata – Neolitico – trovata vicino al lago di Garda». Quale informaz…
+- Un vaso antico arriva al museo in tanti pezzi. Che cosa fa il restauratore?
+- Perché in alcune sale del museo la luce è bassa e non si può usare il flash?
+- Perché è importante che i reperti siano conservati in un museo e non a casa di chi li trova?
+
+## Vasi di argilla e terracotta [lib-3-elementare-storia-ceramica-neolitico] · ARGILLA
+concetti: L'argilla; La cottura; A che cosa servivano i vasi; Decorazioni e fonti
+- Che cosa succede all'argilla quando viene bagnata?
+- Un vaso di argilla cruda, non cotta, può contenere l'acqua per molto tempo senza rovinarsi.
+- L'argilla cotta nel fuoco si chiama ___.
+- A che cosa serviva un grande vaso con il coperchio in un villaggio del Neolitico?
+- Metti in ordine le fasi per fare un vaso di terracotta.
+- Perché la ceramica divenne così importante proprio quando nacque l'agricoltura?
+- Perché i cocci di ceramica sono molto utili agli archeologi?
+- Perché i nomadi del Paleolitico non usavano grandi vasi di terracotta, mentre i contadini del Neolitico sì? S…
+
+## Ötzi, l'uomo dei ghiacci [lib-3-elementare-storia-otzi-uomo-ghiacci] · OTZI
+concetti: Il ritrovamento; Un uomo antichissimo; Il suo equipaggiamento; Il museo di Bolzano
+- Dove fu ritrovato Ötzi?
+- Ötzi fu scoperto da due escursionisti nel 1991.
+- Oggi Ötzi si può vedere nel museo archeologico di ___.
+- Di che metallo era la lama dell'ascia di Ötzi?
+- Circa quanti anni fa visse Ötzi?
+- Perché Ötzi aveva le scarpe imbottite di fieno?
+- Perché il corpo di Ötzi si è conservato così bene per migliaia di anni?
+- Ötzi è una fonte storica preziosissima. Scegli due oggetti che portava con sé e spiega che cosa ci raccontano…

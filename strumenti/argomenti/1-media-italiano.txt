@@ -1,0 +1,553 @@
+# 1ª media · Italiano: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Aedi, epiteti e poemi epici [lib-1-media-italiano-caratteristiche-dell-epica] · AEDO
+concetti: Il poema epico; Aedi e rapsodi; Epiteti e formule; Proemio e invocazione
+- Che cosa racconta un poema epico?
+- L'Iliade e l'Odissea sono state tramandate a voce per molto tempo prima di essere scritte.
+- In «Achille piè veloce», l'espressione «piè veloce» è un ___.
+- Chi invoca il poeta all'inizio dei poemi omerici?
+- Che differenza c'era tra un aedo e un rapsodo?
+- Perché nei poemi epici ci sono tanti epiteti e versi ripetuti?
+- Quale di questi è un poema epico latino?
+- Che cos'è il proemio di un poema epico e a che cosa serve?
+
+## Aggettivi che descrivono [lib-1-media-italiano-aggettivo-qualificativo] · BELLO
+concetti: Che cosa fa l'aggettivo; Quattro uscite, due uscite; Attributivo e predicativo; La posizione cambia il senso
+- Nella frase «Il cane affamato mangia la pappa», qual è l'aggettivo qualificativo?
+- «Felice» è un aggettivo a quattro uscite.
+- «Blu», «rosa» e «pari» sono aggettivi ___: restano sempre uguali.
+- In quale frase l'aggettivo ha funzione predicativa?
+- Che cosa significa «È un grande uomo»?
+- Quale aggettivo concorda correttamente con «le scarpe»?
+- «Un povero ragazzo» e «un ragazzo povero» significano esattamente la stessa cosa.
+- Spiega la differenza tra funzione attributiva e predicativa dell'aggettivo, con un esempio per ciascuna.
+
+## Aggettivo o pronome? Scoprilo! [lib-1-media-italiano-aggettivo-o-pronome] · SOLO
+concetti: La regola del nome vicino; Pronomi possessivi; Pronomi dimostrativi; Pronomi indefiniti
+- In quale frase «questo» è un pronome?
+- In «Il tuo quaderno è nuovo, il mio è vecchio», «il mio» è un pronome possessivo.
+- Non riesco a capire ___ che mi stai dicendo.
+- Quale di queste parole può essere solo pronome, mai aggettivo?
+- In quale frase «nessuno» è un pronome?
+- In «Molti amici sono venuti, ma molti sono rimasti a casa», che cosa sono i due «molti»?
+- Quale frase contiene un pronome possessivo?
+- Spiega perché «quella» è aggettivo in «Quella casa è grande» e pronome in «Quella è casa mia».
+
+## Ahi! Oh! Le interiezioni [lib-1-media-italiano-interiezioni] · GRIDO
+concetti: Che cos'è l'interiezione; Interiezioni proprie; Interiezioni improprie; Locuzioni e onomatopee
+- Che cosa esprime «Ahi!» nella frase «Ahi! Mi sono punto con l'ago»?
+- L'interiezione cambia forma secondo il genere e il numero.
+- Quando chiedi soccorso gridi «___!»: è un nome usato come interiezione impropria.
+- Quale di queste è un'interiezione propria?
+- Che cosa vuol dire chi risponde «Boh!» a una domanda?
+- Quale di queste è una locuzione esclamativa?
+- In «Bravo! Hai fatto un ottimo lavoro», «bravo» è...
+- Le onomatopee come «drin», «bau» o «splash» imitano un suono. Perché sono utili nei fumetti e nei racconti? F…
+
+## Apostrofo o troncamento? [lib-1-media-italiano-elisione-troncamento] · QUALE
+concetti: L'elisione; Il troncamento; Un o un'?; Apostrofi speciali
+- Qual è la forma corretta?
+- Oggi viene a trovarmi ___ amica di mia madre.
+- «Qual è» si scrive senza apostrofo.
+- Quale di queste scritture è corretta?
+- In quale espressione c'è un troncamento?
+- Come si scrive la forma accorciata di «poco»?
+- L'elisione avviene anche davanti a parole che cominciano per consonante.
+- Spiega perché si scrive «un amico» ma «un'amica».
+
+## Attiva, passiva o riflessiva? [lib-1-media-italiano-forma-attiva-passiva-riflessiva] · LAVARSI
+concetti: Forma attiva; Forma passiva; Forma riflessiva; Apparenti e reciproci
+- Qual è la forma passiva di «Il cane morde l'osso»?
+- Solo i verbi transitivi possono avere la forma passiva.
+- Ogni mattina io ___ pettino davanti allo specchio.
+- In quale frase il verbo è in forma attiva?
+- In «Anna e Bea si abbracciano», che tipo di riflessivo c'è?
+- Nella frase «Il quadro fu dipinto da un grande artista», chi compie l'azione?
+- Perché «Mi lavo i denti» è un riflessivo apparente?
+- Trasforma «I pompieri hanno spento l'incendio» in forma passiva e spiega che cosa cambia.
+
+## Avverbi: come, dove, quando [lib-1-media-italiano-avverbio] · PRESTO
+concetti: Che cos'è l'avverbio; Avverbi di modo; Avverbi di luogo e di tempo; Quantità, giudizio, domanda
+- Nella frase «Domani andiamo in gita», che tipo di avverbio è «domani»?
+- Dall'aggettivo «dolce» si forma l'avverbio di modo ___.
+- L'avverbio può modificare anche un aggettivo, come in «molto stanco».
+- Quale avverbio esprime un dubbio?
+- Quale di questi è un avverbio di luogo?
+- In quale frase «molto» è un avverbio?
+- Come si forma l'avverbio di modo da «facile»?
+- Come cambia il significato di «Luca ha studiato» se aggiungi un avverbio? Fai due esempi con avverbi diversi.
+
+## C'era una volta: la fiaba [lib-1-media-italiano-fiaba] · MAGIA
+concetti: Caratteristiche della fiaba; Tempo, luogo e formule; Personaggi tipici; Autori e raccolte
+- Con quale formula comincia di solito una fiaba?
+- Nella fiaba, a differenza della favola, ci sono quasi sempre elementi magici.
+- I fratelli Jacob e Wilhelm ___ raccolsero in Germania molte fiabe popolari.
+- Qual è la principale differenza tra fiaba e favola?
+- Nella fiaba di Cenerentola, chi ha il ruolo dell'aiutante magico?
+- Quale scrittore italiano ha raccolto e riscritto le «Fiabe italiane» nel 1956?
+- Da dove vengono, in origine, le fiabe popolari?
+- Inventa la prima e l'ultima frase di una fiaba usando le formule tipiche, e spiega perché nelle fiabe il temp…
+
+## Che, cui, il quale [lib-1-media-italiano-pronomi-relativi] · PONTE
+concetti: Un doppio lavoro; Il pronome che; Il pronome cui; Il quale
+- Nella frase «Ho letto il libro che mi hai prestato», quale nome sostituisce «che»?
+- Il pronome relativo «che» cambia forma al plurale.
+- Questa è la casa in ___ sono nato.
+- Come unisci con un pronome relativo «Ho un'amica. L'amica suona il violino»?
+- Quale frase usa correttamente «il quale» o le sue forme?
+- In quale frase «cui» è usato correttamente?
+- In «Ho parlato con la sorella di Marco, la quale abita a Roma», perché è meglio «la quale» di «che»?
+- Spiega che cosa fa il pronome relativo nella frase «Il gatto che dorme sul divano è mio».
+
+## Chi racconta la storia? [lib-1-media-italiano-narratore] · VOCE
+concetti: Autore e narratore; Narratore esterno; Narratore interno; Onnisciente e punto di vista
+- «Quella mattina mi svegliai tardi e corsi a scuola.» Che narratore c'è?
+- L'autore e il narratore sono sempre la stessa persona.
+- Il narratore esterno racconta di solito in ___ persona.
+- Quale frase rivela un narratore onnisciente?
+- Chi è l'autore di un romanzo?
+- Un narratore interno può essere...
+- Perché un narratore interno non può sapere con certezza che cosa pensano gli altri personaggi?
+- Riscrivi «Io aprii la scatola e trovai un gattino» con un narratore esterno e spiega che cosa è cambiato.
+
+## Congiunzioni: parole che uniscono [lib-1-media-italiano-congiunzioni] · UNIRE
+concetti: A che cosa servono; Congiunzioni coordinanti; Congiunzioni subordinanti; Il tipo di legame
+- Nella frase «Mangio una mela e una pera», qual è la congiunzione?
+- «Ma» è una congiunzione coordinante che esprime un contrasto.
+- Ho studiato molto, ___ ho preso un bel voto.
+- Quale di queste congiunzioni è subordinante?
+- Quale congiunzione esprime una scelta tra due possibilità?
+- In «Resto a casa perché ho la febbre», che cosa indica «perché»?
+- Quale frase usa la congiunzione più logica?
+- Spiega la differenza tra «Esco e vado al parco» ed «Esco quando smette di piovere», pensando al tipo di congi…
+
+## Digrammi e trigrammi senza errori [lib-1-media-italiano-digrammi-trigrammi] · GNOMO
+concetti: I digrammi; I trigrammi; Sce o scie?; Gn senza i
+- Quale di questi gruppi di lettere è un digramma?
+- Nella parola «chiave» la lettera h ha un suono suo.
+- Il papà di Luca fa l'___ e progetta ponti.
+- Quale parola contiene un trigramma?
+- Quale parola è scritta correttamente?
+- In quale parola il gruppo gl si legge come in «figlio»?
+- «Sogniamo» si scrive con la i dopo gn perché è una forma del verbo che finisce in -iamo.
+- Perché diciamo che nella parola «gnocchi» ci sono più lettere che suoni?
+
+## Discorso diretto e indiretto [lib-1-media-italiano-discorso-diretto-indiretto] · DISSE
+concetti: Discorso diretto; Discorso indiretto; Verbi dichiarativi; Dal diretto all'indiretto
+- Quale frase contiene un discorso diretto?
+- Nel discorso indiretto non si usano le virgolette.
+- «Chi va là?» ___ la guardia con voce severa.
+- Come diventa nel discorso indiretto: Luca disse: «Io sono stanco»?
+- Passando al discorso indiretto, «qui» diventa di solito...
+- Quale verbo dichiarativo indica che il personaggio parla a bassa voce?
+- Quale frase trasforma correttamente in indiretto: La mamma disse: «Domani andiamo al mare»?
+- Perché un autore può preferire il discorso diretto a quello indiretto?
+
+## Dittonghi, trittonghi e iati [lib-1-media-italiano-dittonghi-trittonghi-iato] · PIEDE
+concetti: Il dittongo; Il trittongo; Lo iato; Come riconoscere lo iato
+- In quale parola c'è un dittongo?
+- Nella parola «leone» le vocali e ed o formano uno iato.
+- Tre vocali pronunciate in una sola sillaba, come in «miei», formano un ___.
+- Come si divide in sillabe la parola «paura»?
+- Perché in «mio» la i e la o stanno in sillabe diverse?
+- Quale di queste parole contiene un trittongo?
+- Quante sillabe ha la parola «aereo»?
+- Qual è la differenza tra dittongo e iato? Fai un esempio per ciascuno.
+
+## Enea, da Troia al Lazio [lib-1-media-italiano-eneide] · PIETAS
+concetti: Virgilio e l'Eneide; Il viaggio di Enea; Didone e Turno; Il pio Enea
+- Chi ha scritto l'Eneide?
+- Enea fugge da Troia portando sulle spalle il vecchio padre Anchise.
+- La regina di Cartagine che si innamora di Enea si chiama ___.
+- Perché Virgilio scrisse un poema sulle origini di Roma proprio al tempo di Augusto?
+- Quale virtù rappresenta soprattutto Enea?
+- Contro chi combatte Enea nel duello finale del poema?
+- Metti in ordine queste tappe della vicenda di Enea.
+- Enea lascia Didone, che ama, per obbedire agli dèi e raggiungere l'Italia. Che cosa dice questa scelta del su…
+
+## Eroi e dèi sotto Troia [lib-1-media-italiano-iliade-eroi-e-dei] · ETTORE
+concetti: Gli eroi greci; I Troiani; Gli dèi divisi; I valori dell'eroe
+- Chi è il re di Troia nell'Iliade?
+- Agamennone è il capo della spedizione dei Greci contro Troia.
+- Nel famoso addio prima della battaglia, Ettore saluta la moglie ___ e il figlioletto Astianatte.
+- Quale di queste divinità si schiera dalla parte dei Troiani?
+- Chi è la madre di Achille?
+- Che cosa conta più di tutto per un eroe dell'Iliade?
+- Perché Era e Atena sono nemiche dei Troiani?
+- Achille sa che, se combatte a Troia, morirà giovane ma sarà ricordato per sempre. Che cosa dice questa scelta…
+
+## Eroi, nemici e aiutanti [lib-1-media-italiano-personaggi] · EROE
+concetti: I ruoli; La caratterizzazione; Diretta e indiretta; Statici e dinamici
+- Come si chiama il personaggio che si oppone al protagonista?
+- In ogni racconto l'antagonista deve essere per forza una persona.
+- La frase «Era timido e generoso» descrive il personaggio dal punto di vista ___.
+- Quale frase descrive un personaggio dal punto di vista sociale?
+- «Marco lasciò il suo panino al compagno che non aveva merenda.» Che cosa capisci di Marco?
+- Che cosa vuol dire che un personaggio è presentato in modo indiretto?
+- Quale di questi personaggi è dinamico?
+- Pensa a una storia che conosci (libro, film o fiaba): indica protagonista, antagonista e un aiutante, e spieg…
+
+## Fabula, intreccio e flashback [lib-1-media-italiano-fabula-e-intreccio] · ORDINE
+concetti: La fabula; L'intreccio; Il flashback; L'anticipazione
+- Che cos'è la fabula di un racconto?
+- Quando il narratore torna indietro nel tempo per raccontare un fatto passato usa un ___.
+- Fabula e intreccio possono coincidere.
+- Quale frase contiene un'anticipazione?
+- «Luca è in ospedale con una gamba ingessata. Ripensa a quando, una settimana prima, era salito sul vecchio no…
+- Durante una gara di nuoto, Sara ripensa al giorno in cui, da bambina, il nonno le insegnò a nuotare. Questa t…
+- Perché un autore può decidere di cominciare un giallo dalla scoperta del delitto?
+- Spiega con parole tue la differenza tra fabula e intreccio.
+
+## I segni della punteggiatura [lib-1-media-italiano-punteggiatura] · VIRGOLA
+concetti: Punti che chiudono la frase; La virgola; Punto e virgola e due punti; Virgolette e maiuscole
+- Quale segno metti alla fine di «Che ore sono»?
+- Tra il soggetto e il verbo non si mette la virgola.
+- Per introdurre un elenco o una spiegazione si usano i ___.
+- In quale frase la virgola è usata bene?
+- Quale di queste parole, scritta qui in minuscolo, vuole invece l'iniziale maiuscola?
+- Quale segno indica una pausa più lunga della virgola ma più breve del punto?
+- Che differenza c'è tra «Mangiamo, nonna!» e «Mangiamo nonna!»?
+- A che cosa servono le virgolette in un racconto? Fai un esempio.
+
+## Il lungo ritorno di Ulisse [lib-1-media-italiano-odissea-trama] · ITACA
+concetti: Il poema del ritorno; La Telemachia; Il racconto ai Feaci; La vendetta a Itaca
+- Qual è il tema principale dell'Odissea?
+- Il viaggio di ritorno di Ulisse dura dieci anni.
+- I primi libri dell'Odissea raccontano il viaggio di ___, figlio di Ulisse.
+- Alla corte di quale re Ulisse racconta gran parte delle sue avventure?
+- Il racconto di Ulisse ai Feaci, che ripercorre avventure già avvenute, è un esempio di...
+- Chi sono i Proci?
+- Metti in ordine questi momenti del ritorno a Itaca.
+- Penelope mette alla prova Ulisse prima di credere che sia davvero lui. Perché, secondo te, è così prudente?
+
+## Il, lo, la: gli articoli [lib-1-media-italiano-articoli-determinativi-indeterminativi] · ARTO
+concetti: Articolo determinativo; Articolo indeterminativo; Quando si usa lo; Articolo e nomi geografici
+- Quale articolo determinativo va davanti a «zaino»?
+- I nomi di città, come Roma e Milano, di solito si usano senza articolo.
+- Davanti alla parola «psicologo» si usa l'articolo ___.
+- Perché diciamo «Ho visto un cane» ma poi «Il cane di Marta è nero»?
+- Quale di questi nomi geografici vuole l'articolo davanti?
+- In quale gruppo tutti i nomi vogliono l'articolo plurale «gli»?
+- «I» è il plurale dell'articolo «lo».
+- Spiega la differenza di significato tra «Cerco una penna» e «Cerco la penna».
+
+## Infinito, participio e gerundio [lib-1-media-italiano-modi-indefiniti] · ANDARE
+concetti: I modi indefiniti; L'infinito; Il participio; Il gerundio
+- Quale di queste forme è un gerundio?
+- I modi indefiniti indicano chiaramente chi compie l'azione.
+- Per formare il passato prossimo «ho letto» si usa il ___ passato.
+- In quale frase l'infinito ha la funzione di un nome?
+- Qual è il participio presente di «cantare»?
+- Quale gruppo contiene solo modi indefiniti?
+- Nel proverbio «Sbagliando si impara», che cosa esprime il gerundio?
+- Perché infinito, participio e gerundio si chiamano modi «indefiniti»? Fai un esempio.
+
+## Io, tu, lui: pronomi personali [lib-1-media-italiano-pronomi-personali] · PRONOME
+concetti: Al posto del nome; Pronomi soggetto; Pronomi complemento; Gli o le?
+- Nella frase «Ho visto Paolo e l'ho salutato», chi sostituisce «l'»?
+- In italiano il pronome soggetto si può spesso sottintendere, come in «Domani parto».
+- Ho incontrato la nonna e ___ ho regalato un fiore.
+- Quale di questi pronomi è atono, cioè si appoggia al verbo?
+- Quale frase usa il pronome giusto?
+- Quale pronome soggetto sostituisce «Marco e io»?
+- Nella frase «Vieni con me», «me» è...
+- Riscrivi «Sara ha un cane. Sara porta il cane al parco» usando i pronomi, e spiega a che cosa servono.
+
+## L'Iliade e l'ira di Achille [lib-1-media-italiano-iliade-trama] · ILIO
+concetti: Il poema di Troia; Le cause della guerra; L'ira di Achille; La svolta e la fine
+- Chi rapì Elena, dando origine alla guerra di Troia?
+- L'Iliade racconta tutti i dieci anni della guerra di Troia.
+- Il tema principale dell'Iliade, annunciato nel primo verso, è l'___ di Achille.
+- Perché Achille si ritira dalla battaglia?
+- Che cosa spinge Achille a tornare a combattere?
+- A quale poeta greco è tradizionalmente attribuita l'Iliade?
+- Metti in ordine questi fatti dell'Iliade.
+- Il poema si chiude con Priamo che va da Achille a chiedere il corpo del figlio. Perché questa scena è così fa…
+
+## La favola e la sua morale [lib-1-media-italiano-favola] · MORALE
+concetti: Caratteristiche della favola; La morale; Animali come simboli; I grandi favolisti
+- Nelle favole, quale qualità rappresenta di solito la volpe?
+- Le favole sono di solito racconti lunghi, con molti personaggi.
+- Il favolista greco vissuto nel VI secolo a.C. si chiamava ___.
+- Quale insegnamento ricavi dalla favola della cicala e della formica?
+- Perché nelle favole il tempo e il luogo sono spesso vaghi?
+- Quale favolista scriveva in latino, nell'antica Roma?
+- Nella favola «Il lupo e l'agnello» il lupo accusa l'agnello di sporcargli l'acqua, anche se l'agnello beve pi…
+- Scegli una favola che conosci, riassumila in due frasi e spiega qual è la sua morale.
+
+## La lettera muta: l'acca [lib-1-media-italiano-uso-della-h] · ACCA
+concetti: La h del verbo avere; La h nei digrammi; La h nelle esclamazioni; Il trucco della sostituzione
+- Quale frase è scritta correttamente?
+- Gli alunni ___ finito i compiti.
+- Nell'esclamazione «Ahi, che male!» la h è scritta correttamente.
+- Per capire se scrivere «a» o «ha», quale prova puoi fare?
+- Perché si scrive «ghiro» con la h?
+- In quale frase la parola «a» andrebbe scritta «ha»?
+- Nella frase «L'anno prossimo andrò in Francia» la parola «anno» vuole la h.
+- Spiega come fai a decidere se scrivere «o» oppure «ho».
+
+## Le nove parti del discorso [lib-1-media-italiano-parti-del-discorso] · NOVE
+concetti: Nove categorie di parole; Parti variabili; Parti invariabili; Una parola, più ruoli
+- Quante sono le parti del discorso nella grammatica italiana?
+- L'avverbio è una parte del discorso variabile.
+- Il nome, l'articolo e l'aggettivo cambiano forma secondo il genere e il ___.
+- Quale parte del discorso cambia forma secondo la persona, il tempo e il modo?
+- Quale di questi gruppi contiene solo parti del discorso invariabili?
+- In quale frase «forte» è un avverbio?
+- Nella frase «Ieri Anna e io siamo usciti», a quale parte del discorso appartiene «ieri»?
+- Spiega perché «studio» può essere un nome oppure un verbo. Fai due esempi.
+
+## Le tappe di un racconto [lib-1-media-italiano-struttura-testo-narrativo] · TRAMA
+concetti: Il testo narrativo; Inizio e rottura; Peripezie e spannung; Scioglimento e finale
+- Che cosa racconta un testo narrativo?
+- La rottura dell'equilibrio è l'evento che mette in moto la storia.
+- Il momento di massima tensione di un racconto si chiama ___.
+- «Tommaso viveva tranquillo con il suo cane Briciola. Una mattina il cane sparì.» Qual è la rottura dell'equil…
+- A che cosa serve lo scioglimento?
+- Perché nella fase delle peripezie l'autore mette ostacoli davanti al protagonista?
+- Metti in ordine le parti tipiche di un racconto.
+- La situazione finale di un racconto è sempre uguale a quella iniziale? Spiega con un esempio.
+
+## Maschile o femminile? [lib-1-media-italiano-genere-del-nome] · GENERE
+concetti: Il genere grammaticale; Nomi mobili; Indipendenti e di genere comune; Nomi promiscui
+- Qual è il femminile di «attore»?
+- Il genere dei nomi di oggetti, come «la sedia», dipende da caratteristiche reali dell'oggetto.
+- «Padre» e «madre» sono nomi ___, perché il femminile è una parola diversa.
+- Quale coppia contiene un nome di genere comune, che cambia solo l'articolo?
+- Come indichi correttamente il maschio della giraffa?
+- Quale coppia mostra un nome mobile con il suffisso -essa?
+- In quale frase capisci che si tratta di una donna solo grazie all'articolo?
+- Che cosa sono i nomi promiscui? Fai un esempio e spiega come si distingue il maschio dalla femmina.
+
+## Mio, questo, alcuni: i determinativi [lib-1-media-italiano-aggettivi-determinativi] · QUESTO
+concetti: Aggettivi possessivi; Aggettivi dimostrativi; Aggettivi indefiniti; Numerali ed esclamativi
+- Nella frase «Ho perso il mio ombrello», che tipo di aggettivo è «mio»?
+- Quale dimostrativo usi per un oggetto lontano sia da te sia da chi ti ascolta?
+- L'aggettivo «qualche» vuole sempre il nome al ___.
+- L'aggettivo possessivo «loro» non cambia mai forma.
+- In «Il terzo concorrente è caduto», «terzo» è un numerale...
+- Quale frase contiene un aggettivo indefinito?
+- In quale frase «che» è un aggettivo esclamativo?
+- Sei in giardino con un amico: indichi una palla ai tuoi piedi e un albero in fondo alla strada. Usa «questo» …
+
+## Miti: storie di dèi ed eroi [lib-1-media-italiano-mito] · MYTHOS
+concetti: Che cos'è il mito; Miti delle origini; Miti che spiegano la natura; Miti di eroi
+- Quali personaggi sono protagonisti dei miti?
+- Per gli antichi popoli i miti erano racconti veri, legati alla loro religione.
+- Secondo il mito greco, fu ___ a rubare il fuoco agli dèi per donarlo agli uomini.
+- Quale fenomeno spiega il mito di Demetra e Persefone?
+- Quale eroe affrontò il Minotauro nel labirinto di Creta?
+- A che cosa servivano i miti cosmogonici?
+- Perché dello stesso mito esistono spesso tante versioni diverse?
+- Perché, secondo te, gli antichi inventavano miti per spiegare fenomeni come il tuono o le stagioni?
+
+## Monosillabi: accento sì o no? [lib-1-media-italiano-monosillabi-accentati] · ACUTO
+concetti: Monosillabi senza accento; L'accento che distingue; Monosillabi con due vocali; Scegliere in base al significato
+- Quale di questi monosillabi si scrive SENZA accento?
+- Nella frase «Lo dico a te» la parola «te» dovrebbe avere l'accento.
+- Mi chiedi se vengo alla festa? Ti rispondo di ___!
+- In quale frase la e andrebbe scritta con l'accento?
+- Quale frase è scritta correttamente?
+- Come si scrive correttamente la terza persona del verbo potere?
+- Quale frase è corretta?
+- Spiega perché scriviamo «Lui è qui» con l'accento su è, ma «Io e te» senza.
+
+## Nomi che nascono da nomi [lib-1-media-italiano-nomi-primitivi-derivati-alterati-composti] · RADICE
+concetti: Primitivi e derivati; Nomi alterati; Falsi alterati; Nomi composti
+- Quale di questi nomi è derivato da «mare»?
+- «Ragazzaccio» è un nome alterato ___.
+- «Mattone» è l'accrescitivo di «matto».
+- Quale di questi nomi è composto?
+- Quale alterato indica una casa piccola e graziosa?
+- Quale di queste parole è un falso alterato?
+- Quale gruppo contiene un nome primitivo e due nomi derivati da esso?
+- Come fai a capire che «bottone» non è un alterato di «botte»?
+
+## Nomi comuni, propri, astratti [lib-1-media-italiano-nomi-comuni-propri-concreti-astratti] · ONOMA
+concetti: Nomi comuni e propri; Nomi concreti; Nomi astratti; Nomi collettivi
+- Quale di questi è un nome proprio?
+- Quale di questi nomi è collettivo?
+- La parola «amicizia» è un nome ___, perché indica un sentimento.
+- «Profumo» è un nome concreto, anche se non si può toccare.
+- In quale gruppo ci sono solo nomi astratti?
+- Perché «Italia» si scrive con la maiuscola e «nazione» no?
+- Con un nome collettivo singolare il verbo va al singolare: «La squadra ha vinto».
+- Classifica i nomi «coraggio», «Roma» e «branco»: comune o proprio? Concreto o astratto? Collettivo?
+
+## Più bello, bellissimo! [lib-1-media-italiano-gradi-dell-aggettivo] · OTTIMO
+concetti: Positivo e comparativo; Superlativo relativo; Superlativo assoluto; Forme speciali
+- Qual è il superlativo assoluto di «veloce»?
+- Nella frase «Luca è alto come Marco» c'è un comparativo di ___.
+- «Pessimo» è il superlativo assoluto di «cattivo».
+- In quale frase c'è un superlativo relativo?
+- Quale frase contiene un errore?
+- Quale frase contiene un comparativo di minoranza?
+- Quale di queste forme non è un superlativo assoluto?
+- Che differenza c'è tra «Marta è bravissima» e «Marta è la più brava della classe»?
+
+## Polifemo, Circe e le Sirene [lib-1-media-italiano-odissea-avventure] · NESSUNO
+concetti: Polifemo; Circe; Sirene, Scilla e Cariddi; Le doti di Ulisse
+- Quale nome falso dice Ulisse al ciclope Polifemo?
+- Per ascoltare il canto delle Sirene senza pericolo, Ulisse si fa legare all'albero della nave.
+- La maga ___ trasforma in porci i compagni di Ulisse.
+- Perché il nome «Nessuno» salva Ulisse?
+- Che cosa protegge Ulisse dalla magia di Circe?
+- Come fanno i compagni di Ulisse a non sentire le Sirene?
+- Metti in ordine i fatti dell'episodio di Polifemo.
+- In molti episodi Ulisse si salva più con l'intelligenza che con la forza. Scegli un episodio e spiega come.
+
+## Preposizioni: piccole ma importanti [lib-1-media-italiano-preposizioni] · DAVANTI
+concetti: Preposizioni semplici; Preposizioni articolate; Preposizioni improprie; Il significato cambia
+- Quale di queste è una preposizione semplice?
+- «In + le» forma la preposizione articolata ___.
+- In «Ci vediamo dopo cena», «dopo» è usato come preposizione.
+- Che differenza c'è tra «un bicchiere di vino» e «un bicchiere da vino»?
+- Quale preposizione articolata completa «Il gatto dorme ___ divano»?
+- In quale frase la preposizione indica la provenienza?
+- Quale di queste preposizioni è impropria?
+- Perché «sotto» è una preposizione in «Il cane dorme sotto il tavolo» e un avverbio in «Il cane dorme sotto»?
+
+## Propp e lo schema delle fiabe [lib-1-media-italiano-funzioni-di-propp] · PROPP
+concetti: Chi era Propp; Le funzioni; I sette ruoli; Usare lo schema
+- Di che nazionalità era lo studioso Vladimir Propp?
+- Secondo Propp, in ogni fiaba devono comparire tutte le 31 funzioni.
+- Propp chiamò ___ le azioni tipiche che i personaggi compiono nelle fiabe.
+- Nello schema di Propp, chi è il donatore?
+- Come si chiama, nello schema di Propp, chi si prende il merito dell'impresa dell'eroe?
+- In una fiaba la regina chiede a un giovane di trovare la rosa d'oro per guarire il re. Quale ruolo ha la regi…
+- Metti in ordine queste funzioni come avvengono in una fiaba.
+- A che cosa può servirti lo schema di Propp se devi inventare una fiaba?
+
+## Quattro modi per dirlo [lib-1-media-italiano-modi-finiti] · COMANDO
+concetti: Indicativo; Congiuntivo; Condizionale; Imperativo
+- In «Apri la finestra, per favore!» il verbo è al modo...
+- La frase «Domani andrò al mare» è all'indicativo, anche se parla del futuro.
+- Per chiedere una cosa con gentilezza al bar dici: «___ una spremuta, per favore».
+- Quale frase usa il congiuntivo?
+- Quanti sono i modi finiti del verbo italiano?
+- Quale frase esprime ciò che succederebbe a una condizione?
+- Quale frase usa il modo verbale giusto?
+- Spiega perché in «Spero che domani faccia bel tempo» si usa il congiuntivo e non l'indicativo.
+
+## Radice, desinenza e coniugazioni [lib-1-media-italiano-verbo-radice-coniugazioni] · VERBO
+concetti: Che cosa esprime il verbo; Radice e desinenza; Le tre coniugazioni; Gli ausiliari
+- A quale coniugazione appartiene il verbo «dormire»?
+- Nella voce verbale «cantiamo», «cant-» è la ___.
+- «Temere» e «leggere» appartengono alla seconda coniugazione.
+- Che cosa ti dice la desinenza «-ate» nella voce «parlate»?
+- Quale ausiliare usi con «partire» al passato prossimo?
+- Quale di questi verbi esprime uno stato e non un'azione?
+- In quale frase c'è un tempo composto?
+- Prendi il verbo «sentire»: indica radice e desinenza dell'infinito e spiega quale parte cambia quando lo coni…
+
+## Ripasso: analisi grammaticale completa [lib-1-media-italiano-ripasso-analisi-grammaticale] · ANALISI
+concetti: Che cos'è; Analisi del nome; Analisi del verbo; Parole a doppia faccia
+- Nella frase «La mia sorellina gioca spesso in giardino», quale parola è un avverbio?
+- Come si analizza «sorellina»?
+- «Avevamo mangiato»: verbo mangiare, prima coniugazione, indicativo ___, prima persona plurale.
+- In «Ho visto la maestra e la saluto», le due parole «la» sono entrambe articoli.
+- In quale frase «che» è una congiunzione?
+- Come si analizza «fu costruito» in «Il ponte fu costruito nel 1800»?
+- Nella frase «Ieri noi abbiamo comprato tre gelati», quale analisi è corretta?
+- Fai l'analisi grammaticale completa della parola «gattini» nella frase «I gattini dormono».
+
+## Sequenze: i mattoncini del testo [lib-1-media-italiano-sequenze-e-ambientazione] · SCENA
+concetti: Che cos'è una sequenza; Narrative e descrittive; Dialogiche e riflessive; Tempo e luogo
+- «Il castello era circondato da un fossato pieno d'acqua scura e da alte mura di pietra.» Che sequenza è?
+- Nelle sequenze descrittive la storia va avanti velocemente.
+- Una sequenza che riporta i pensieri e le emozioni di un personaggio si chiama ___.
+- Come riconosci a colpo d'occhio una sequenza dialogica?
+- Quando inizia, di solito, una nuova sequenza?
+- «C'era una volta, in un regno lontano...» Come sono indicati il tempo e il luogo?
+- «Luca afferrò lo zaino, scese le scale di corsa e saltò sull'autobus.» Che sequenza è?
+- Perché è importante scegliere bene il luogo e il tempo in cui ambientare una storia? Fai un esempio.
+
+## Singolare, plurale e casi strani [lib-1-media-italiano-numero-del-nome] · PLURALE
+concetti: Plurali regolari e irregolari; Nomi invariabili; Nomi difettivi; Nomi sovrabbondanti
+- Quale di questi nomi resta uguale al plurale?
+- «Occhiali» è un nome che si usa solo al plurale.
+- Le ___ della casa sono di cemento armato.
+- Quale frase usa il plurale giusto di «braccio»?
+- Perché «gru», «re» e «tè» non cambiano al plurale?
+- Quale di questi nomi non si usa al plurale?
+- Quale di questi plurali è scritto correttamente?
+- Spiega perché si dice «i muri della casa» ma «le mura della città». Come si chiamano questi nomi?
+
+## Suoni e lettere dell'alfabeto [lib-1-media-italiano-fonemi-e-grafemi] · FONEMA
+concetti: Fonemi e grafemi; L'alfabeto italiano; Vocali e consonanti; Suoni e lettere non coincidono
+- Quante sono le lettere dell'alfabeto italiano?
+- Le parole «pane» e «cane» si distinguono per un solo fonema.
+- Le consonanti si chiamano così perché «suonano insieme» a una ___.
+- Quale di queste parole contiene una lettera che non fa parte dell'alfabeto italiano?
+- In quale coppia di parole la lettera c rappresenta due suoni diversi?
+- In italiano ogni lettera corrisponde sempre a un solo suono.
+- La parola «chiesa» ha 6 lettere. Quanti fonemi (suoni) contiene?
+- Spiega con parole tue la differenza tra fonema e grafema, facendo un esempio.
+
+## Taglia le parole in sillabe [lib-1-media-italiano-divisione-in-sillabe] · SILLABA
+concetti: Che cos'è la sillaba; Doppie e consonanti che si dividono; Gruppi che restano uniti; Parole per numero di sillabe
+- Quale di queste parole è un trisillabo?
+- Ogni sillaba contiene almeno una vocale.
+- Qual è la divisione corretta di «cappello»?
+- Nella parola «finestra» il gruppo str resta unito: si divide fi-ne-___.
+- Come si divide la parola «acqua»?
+- Come si divide la parola «albero»?
+- Metti in ordine le sillabe per formare la parola «trasportare».
+- Perché «pasta» si divide pa-sta e non pas-ta?
+
+## Transitivi e intransitivi [lib-1-media-italiano-verbi-transitivi-intransitivi] · OGGETTO
+concetti: Verbi transitivi; Verbi intransitivi; Uso assoluto; Transitività e ausiliare
+- Quale di questi verbi è transitivo?
+- Nella frase «Il treno parte alle otto» il verbo è intransitivo.
+- Il complemento oggetto risponde alla domanda «chi? ___?».
+- In «Mio fratello scrive tutto il pomeriggio», il verbo «scrivere» è...
+- Quale frase usa l'ausiliare giusto?
+- In quale frase c'è un verbo intransitivo?
+- Quale frase è sbagliata, perché usa un intransitivo con un oggetto?
+- «Mangiare» è transitivo. Perché allora «Stasera mangio presto» è corretta anche senza complemento oggetto?
+
+## Trappole dell'ortografia [lib-1-media-italiano-trappole-ortografiche] · ACQUA
+concetti: Cu, qu e cqu; Plurali in -cia e -gia; Una sola z; Parole che raddoppiano
+- Quale parola è scritta correttamente?
+- La parola «scuola» si scrive con la q.
+- Al mercato ho comprato tre ___ succose.
+- Qual è il plurale di «camicia»?
+- Quale serie di parole è scritta tutta correttamente?
+- Quale parola è scritta correttamente?
+- Perché il plurale di «energia» è «energie», anche se prima della g c'è una consonante?
+- Come fai a ricordare quando si scrive «cu» e quando «qu» davanti a una vocale?
+
+## Tronche, piane e sdrucciole [lib-1-media-italiano-accento-tonico] · ACCENTO
+concetti: L'accento tonico; L'accento grafico; Parole tronche e piane; Sdrucciole e bisdrucciole
+- In quale parola l'accento cade sull'ultima sillaba?
+- La maggior parte delle parole italiane è piana.
+- Le parole tronche di più sillabe che finiscono con una vocale, come «città», vogliono sempre l'accento ___.
+- Che tipo di parola è «medico»?
+- Quale di queste parole è bisdrucciola?
+- Che cosa distingue «àncora» (della nave) da «ancóra» (di nuovo)?
+- Nella parola «casa» si deve scrivere l'accento grafico sulla prima a.
+- Che differenza c'è tra accento tonico e accento grafico?
+
+## Un po' di partitivo [lib-1-media-italiano-articolo-partitivo] · PARTE
+concetti: Le forme del partitivo; Partitivo singolare; Partitivo plurale; Partitivo o preposizione?
+- Nella frase «Bevo dell'acqua», che cosa significa «dell'»?
+- In «Ho comprato delle mele», «delle» significa «alcune».
+- Ieri a pranzo ho mangiato ___ spinaci.
+- In quale frase «della» è un articolo partitivo?
+- Quale prova ti aiuta a riconoscere un articolo partitivo?
+- Come diventa al plurale «Ho letto un libro», usando il partitivo?
+- In «Il profumo dei fiori è dolce», «dei» è un articolo partitivo.
+- Che differenza di significato c'è tra «Passami il pane» e «Passami del pane»?
+
+## Viaggio nei tempi dell'indicativo [lib-1-media-italiano-tempi-dell-indicativo] · TEMPO
+concetti: Tempi semplici e composti; L'imperfetto; Passato prossimo e remoto; Trapassato e futuro anteriore
+- In «Ieri sera ho guardato un film», il verbo è al...
+- Il futuro anteriore è un tempo composto.
+- Quando ero piccolo, ogni estate ___ al mare con i nonni.
+- Quale frase usa il passato remoto?
+- In «Quando arrivai alla stazione, il treno era già partito», quale azione avviene prima?
+- Quanti tempi ha il modo indicativo?
+- Quale forma completa bene la frase «Quando ___ i compiti, verrò a giocare»?
+- Che differenza c'è tra «Ieri ho letto un libro» e «Da bambino leggevo molti libri»?

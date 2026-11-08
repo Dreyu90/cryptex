@@ -1,0 +1,553 @@
+# 3ª elementare · Geografia: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Affluenti, torrenti e portata [lib-3-elementare-geografia-affluenti-torrenti-portata] · PIENA
+concetti: Affluenti e confluenza; Fiume o torrente; La portata; Letto e argini; Piena e magra
+- Un corso d'acqua più piccolo che porta la sua acqua in un fiume più grande si chiama ___.
+- Un torrente può restare quasi senza acqua durante l'estate.
+- Come si chiama il solco in cui scorre l'acqua del fiume?
+- Che cosa misura la portata di un fiume?
+- Dopo giorni di pioggia fortissima il fiume è pieno fino al bordo degli argini. Come si dice?
+- In quale periodo i fiumi che nascono dalle Alpi hanno di solito molta acqua?
+- Perché lungo i fiumi si costruiscono argini alti e robusti?
+- Che differenza c'è tra un fiume e un torrente? Perché in estate il torrente può restare quasi asciutto?
+
+## Alba, mezzogiorno e tramonto [lib-3-elementare-geografia-orientarsi-con-il-sole] · ALBA
+concetti: Il Sole sorge a Est; Il Sole tramonta a Ovest; A mezzogiorno verso Sud; Il metodo delle braccia
+- Da quale parte sorge il Sole?
+- Il Sole tramonta a Ovest.
+- In Italia, a mezzogiorno, il Sole si trova verso ___.
+- La finestra della cameretta di Giulia guarda verso il tramonto. Verso quale punto cardinale è rivolta?
+- Metti in ordine le posizioni del Sole durante una giornata in Italia.
+- Al mattino allunghi il braccio destro verso il Sole che sorge. Che cosa hai davanti a te?
+- Al mattino tieni il braccio destro verso il Sole che sorge. Dove si trova il Sud?
+- In Italia, a mezzogiorno, guardi la tua ombra per terra. Verso quale punto cardinale è rivolta? Spiega perché.
+
+## Alpi e Appennini d'Italia [lib-3-elementare-geografia-alpi-e-appennini] · MONTE
+concetti: Le Alpi; Le cime più alte; Gli Appennini; Le cime appenniniche
+- Dove si trovano le Alpi rispetto al resto dell'Italia?
+- La montagna più alta d'Italia è il Monte ___.
+- Gli Appennini attraversano la penisola italiana da Nord a Sud.
+- Come si chiama la cima più alta degli Appennini?
+- Che forma hanno le Alpi viste sulla carta?
+- Perché gli Appennini sono chiamati la «spina dorsale» d'Italia?
+- Il Monte Bianco supera i 4800 metri, il Corno Grande arriva quasi a 3000 metri. Quale frase è giusta?
+- Confronta Alpi e Appennini: dove si trovano e quale catena ha le montagne più alte?
+
+## Alto, medio e basso corso [lib-3-elementare-geografia-corso-del-fiume] · ACQUA
+concetti: Sorgente e foce; L'alto corso; Il medio corso; Il basso corso
+- Il punto dove nasce un fiume si chiama ___.
+- Nell'alto corso l'acqua del fiume scorre lenta e calma.
+- Come si chiamano le grandi curve che il fiume fa in pianura?
+- Dove è più facile trovare una cascata?
+- Metti in ordine le parti di un fiume, dalla sorgente al mare.
+- Nel medio corso il fiume si allarga e porta più acqua. Perché?
+- Perché nel basso corso il fiume deposita sabbia e limo?
+- Confronta il fiume vicino alla sorgente e vicino alla foce: com'è la velocità, com'è l'acqua e com'è il paesa…
+
+## Animali d'alta quota [lib-3-elementare-geografia-animali-di-montagna] · AQUILA
+concetti: Animali delle rocce; Il letargo; Cambiare colore; I rapaci
+- Quale animale di montagna si arrampica agilmente sulle rocce e ha lunghe corna ricurve?
+- La marmotta passa l'inverno dormendo nella tana: si dice che va in ___.
+- L'ermellino d'inverno diventa bianco per nascondersi meglio nella neve.
+- Quali caratteristiche aiutano l'aquila reale a cacciare?
+- Perché la marmotta mangia moltissimo durante l'estate?
+- Che cosa succederebbe a una lepre variabile tutta bianca se in un inverno non cadesse la neve?
+- Il camoscio vive solo in pianura, lontano dalle rocce.
+- Scegli un animale di montagna e spiega come riesce a superare il freddo dell'inverno.
+
+## Campi e stalle di pianura [lib-3-elementare-geografia-campi-e-stalle-di-pianura] · GRANO
+concetti: Coltivazioni di pianura; Le macchine agricole; Le serre; L'allevamento nelle stalle
+- Con la farina gialla di un cereale coltivato nei campi di pianura si prepara la polenta. Di quale cereale si …
+- In pianura è più facile usare i trattori che su un pendio ripido.
+- La macchina che taglia il grano e separa i chicchi dalla paglia è la ___.
+- Perché si coltivano pomodori nelle serre anche in inverno?
+- Metti in ordine le fasi della coltivazione del grano.
+- Che cosa si produce con il latte delle mucche allevate in pianura?
+- Perché i campi di pianura sono spesso molto grandi e regolari?
+- Perché in pianura ci sono tante coltivazioni e allevamenti, mentre in alta montagna sono pochi?
+
+## Canali, irrigazione e bonifiche [lib-3-elementare-geografia-canali-irrigazione-bonifica] · CANALE
+concetti: Irrigare i campi; I canali; La bonifica; Paludi e malaria
+- Dare acqua ai campi coltivati quando non piove abbastanza si dice ___.
+- I canali sono corsi d'acqua naturali, nati senza l'aiuto delle persone.
+- Che cosa vuol dire bonificare una palude?
+- Perché un tempo vivere vicino alle paludi era pericoloso?
+- Come si chiamano le grandi pompe che sollevano l'acqua dai terreni da bonificare?
+- Il riso cresce in campi allagati, le risaie. Che cosa serve per coltivarlo?
+- Metti in ordine le fasi di una bonifica.
+- In estate non piove da settimane e i campi di mais sono secchi. Come possono aiutare i canali? Perché bisogna…
+
+## Carte tematiche: un tema alla volta [lib-3-elementare-geografia-carte-tematiche] · TEMA
+concetti: Che cos'è una carta tematica; Esempi di carte tematiche; Simboli e colori speciali; Scegliere la carta giusta
+- Che cosa ha di speciale una carta tematica?
+- Una carta tematica mostra tutto insieme: monti, strade, clima, prodotti e abitanti.
+- Per sapere quali musei e monumenti visitare in vacanza usi la carta ___.
+- Su una carta dei prodotti agricoli vedi tanti grappoli d'uva in una regione. Che cosa significa?
+- La famiglia di Sara deve andare in auto da Milano a Bologna. Quale carta le serve?
+- Nella legenda di una carta della popolazione il rosso scuro significa «tante persone». Che cosa trovi nelle z…
+- Per sapere com'è di solito l'inverno in una regione è utile una carta del clima.
+- Il maestro vuole mostrare dove in Italia si coltivano arance e limoni. Che tipo di carta deve preparare e che…
+
+## Catene, valli e valichi [lib-3-elementare-geografia-catene-valli-valichi] · VALICO
+concetti: Le parti della montagna; Catene e gruppi; Valli a V e U; Passo o valico
+- La parte più alta di una montagna si chiama cima o ___.
+- Come si chiama una lunga fila di montagne unite tra loro?
+- Il valico è il punto più alto di una catena di montagne.
+- Una valle ha il fondo largo e i fianchi ripidi, a forma di U. Che cosa l'ha scavata?
+- Perché molte strade che attraversano le Alpi passano per i valichi?
+- Dove finisce il versante e comincia la valle o la pianura?
+- Un fiume che scorre per migliaia di anni può scavare una valle a forma di V.
+- Come fai a capire se una valle è stata scavata da un fiume o da un ghiacciaio? Spiega.
+
+## Come nasce un lago [lib-3-elementare-geografia-come-nasce-un-lago] · CONCA
+concetti: Che cos'è un lago; Laghi glaciali; Laghi vulcanici; Laghi artificiali
+- Che cos'è un lago?
+- Il lago più grande d'Italia è il lago di ___.
+- I laghi vulcanici si trovano dentro i crateri di vulcani spenti.
+- Chi ha scavato le conche dei grandi laghi del Nord, come il lago di Como?
+- Perché i laghi vulcanici hanno spesso una forma rotonda?
+- Come nasce un lago artificiale?
+- Metti in ordine come si è formato un lago glaciale.
+- Perché le persone costruiscono laghi artificiali in montagna? Indica almeno due motivi.
+
+## Come nasce una pianura [lib-3-elementare-geografia-come-nasce-una-pianura] · LIMO
+concetti: Che cos'è la pianura; La pianura alluvionale; Altri tipi di pianura; Esempi italiani
+- Come si presenta una pianura?
+- La Pianura Padana è stata formata dai detriti portati dal Po e dai suoi affluenti.
+- Una pianura formata dai detriti dei fiumi si chiama pianura ___.
+- Quali materiali depositano i fiumi formando la pianura alluvionale?
+- Metti in ordine come si forma una pianura alluvionale.
+- Una pianura si è formata con le ceneri e le lave di antichi vulcani. Di che tipo è?
+- Quale di queste pianure italiane è nata dal sollevamento di un antico fondale marino?
+- Perché nelle pianure alluvionali i terreni sono spesso molto fertili?
+
+## Come nascono le colline [lib-3-elementare-geografia-come-nascono-le-colline] · COLLE
+concetti: Che cos'è una collina; Colline di erosione; Colline moreniche; Vulcaniche o di sollevamento
+- Com'è di solito la cima di una collina?
+- In Italia la collina di solito non supera i ___ metri di altezza.
+- Le colline moreniche sono nate dalle eruzioni dei vulcani.
+- Dove si trovano famose colline moreniche?
+- I Colli Euganei, in Veneto, sono nati da antichi vulcani. Di che tipo di colline si tratta?
+- Come può una montagna diventare una collina?
+- In alcune colline nate dal sollevamento del fondo del mare si trovano conchiglie fossili.
+- Una collina nata da una montagna antica e una collina morenica sono tutte e due arrotondate, ma sono nate in …
+
+## Come nascono le montagne [lib-3-elementare-geografia-come-nascono-le-montagne] · SPINTA
+concetti: Lo scontro delle placche; Tempi lunghissimi; Il lavoro dell'erosione; Montagne giovani e antiche
+- Che cosa succede quando due placche della crosta terrestre si scontrano?
+- Una montagna può formarsi in una sola notte.
+- Il lento consumarsi delle rocce a causa di acqua, vento e ghiaccio si chiama ___.
+- Una montagna ha la cima aguzza e altissima. Che cosa puoi pensare?
+- Sulle Dolomiti si trovano fossili di conchiglie e coralli. Che cosa ci dicono?
+- Metti in ordine le fasi della nascita di una montagna.
+- Perché non vediamo le montagne crescere?
+- Due montagne: una ha la cima appuntita e rocciosa, l'altra è bassa e arrotondata. Quale potrebbe essere più a…
+
+## Coste alte e coste basse [lib-3-elementare-geografia-coste-alte-e-basse] · SCOGLIO
+concetti: Che cos'è la costa; La costa bassa; La costa alta; Il mare modella la costa
+- Che cos'è la costa?
+- La costa bassa e sabbiosa forma lunghe ___.
+- Una falesia è una parete di roccia che scende ripida sul mare.
+- Dove è più probabile trovare una costa alta e rocciosa?
+- Che cosa sono le dune?
+- Perché le pareti delle scogliere si consumano piano piano?
+- Le spiagge restano sempre uguali: le onde non spostano mai la sabbia.
+- In vacanza vuoi costruire castelli di sabbia e un altro giorno fare snorkeling tra gli scogli. Che tipo di co…
+
+## Dal pascolo agli impianti da sci [lib-3-elementare-geografia-lavoro-in-montagna] · MALGA
+concetti: L'alpeggio estivo; Formaggi e legno; Energia dall'acqua; Il turismo; Lo spopolamento
+- In quale stagione gli allevatori portano le mucche ai pascoli d'alta quota?
+- Le centrali che producono elettricità con l'acqua che scende dalle dighe si chiamano ___.
+- Nelle malghe si produce formaggio con il latte delle mucche al pascolo.
+- Quale lavoro è legato al turismo invernale in montagna?
+- Metti in ordine un anno di una mandria che fa l'alpeggio.
+- Perché le dighe si costruiscono spesso nelle valli di montagna?
+- Perché molti paesi di montagna oggi hanno pochi abitanti?
+- Il turismo porta lavoro in montagna, ma può anche creare problemi. Quali? Proponi una soluzione.
+
+## Di fronte, di lato, dall'alto [lib-3-elementare-geografia-punti-di-vista-rappresentare] · DRONE
+concetti: Visione di fronte; Visione di lato; Visione dall'alto; Visione obliqua
+- Da quale punto di vista sono disegnate le piante e le carte?
+- Se guardi una scatola di fronte, con gli occhi alla sua altezza, non vedi il coperchio.
+- Un bicchiere visto dall'alto ha la forma di un ___.
+- Guardi un'automobile di lato. Quali parti vedi bene?
+- Dalla cima di una collina guardi il paese sotto di te, un po' di sbieco. Che cosa vedi delle case?
+- Quale di questi strumenti scatta foto con lo stesso punto di vista di una carta?
+- Disegni un armadio visto di fronte. Quale forma disegni?
+- Perché per disegnare una carta si usa la visione dall'alto e non quella di fronte?
+
+## Di notte con la Stella Polare [lib-3-elementare-geografia-stella-polare] · STELLA
+concetti: Indica sempre il Nord; Orsa Minore e Grande Carro; Come si trova; I viaggiatori di un tempo
+- Quale punto cardinale indica la Stella Polare?
+- La Stella Polare è la stella più luminosa del cielo.
+- La Stella Polare si trova nella costellazione dell'Orsa ___.
+- Che cosa ti aiuta a trovare la Stella Polare nel cielo?
+- Metti in ordine i passaggi per trovare la Stella Polare.
+- Stai guardando la Stella Polare. Dove si trova il Sud?
+- Perché un tempo i marinai di notte guardavano le stelle?
+- Sei in campeggio di notte, senza bussola e senza telefono. Come fai a capire dov'è il Nord?
+
+## Foce a delta o a estuario? [lib-3-elementare-geografia-foce-delta-estuario] · DELTA
+concetti: La foce; La foce a delta; La foce a estuario; Gli ambienti della foce
+- Che cos'è la foce di un fiume?
+- Quando il fiume si divide in tanti rami prima di arrivare al mare, la foce è a ___.
+- Il Po si getta nel mare Adriatico con una foce a delta.
+- Com'è fatta una foce a estuario?
+- Perché in un estuario non si accumulano i detriti?
+- Perché il delta si forma più facilmente in un mare calmo, con maree deboli?
+- Nelle lagune del delta del Po vivono tanti uccelli acquatici. Quale di questi potresti vedere?
+- Un fiume arriva al mare con tanti rami e isolette di sabbia. Un altro arriva con un'unica bocca larga. Che ti…
+
+## Gli attrezzi del geografo [lib-3-elementare-geografia-strumenti-del-geografo] · MAPPA
+concetti: Carte e mappe; Fotografie dall'alto; Grafici e tabelle; Strumenti per orientarsi
+- Quale strumento usa il geografo per trovare il Nord?
+- Le immagini scattate dai satelliti mostrano la Terra vista dall'alto.
+- Per mostrare quanta pioggia cade ogni mese, il geografo disegna un ___.
+- Vuoi sapere dove si trova un paese che non hai mai visto. Che cosa consulti?
+- Una tabella dice: Paese A 800 abitanti, Paese B 1200 abitanti, Paese C 950 abitanti. Quale paese ha più abita…
+- Perché una foto aerea è utile al geografo?
+- Sulla carta il territorio è disegnato più grande di com'è nella realtà.
+- Il geografo deve studiare un fiume. Quali strumenti può usare e a che cosa gli servono? Scrivine almeno due.
+
+## Gli ingredienti del paesaggio [lib-3-elementare-geografia-elementi-del-paesaggio] · QUADRO
+concetti: Che cos'è il paesaggio; Elementi fisici; Elementi biologici; Elementi antropici
+- Quale di questi è un elemento fisico del paesaggio?
+- L'insieme delle piante di un territorio si chiama ___.
+- Un campo di grano coltivato è un elemento antropico.
+- Quale di questi fa parte della fauna di un bosco?
+- Perché una galleria scavata in una montagna è un elemento antropico?
+- Dalla finestra vedi colline, un fiume, case e mucche al pascolo. Tutto ciò che vedi insieme forma...
+- Le rocce e l'acqua di un torrente sono elementi biologici del paesaggio.
+- Descrivi un paesaggio che conosci e dividi i suoi elementi in fisici, biologici e antropici.
+
+## Golfi, capi e penisole [lib-3-elementare-geografia-golfi-capi-penisole] · GOLFO
+concetti: Golfo e baia; Promontorio e capo; Penisola e isola; Arcipelago e stretto
+- Come si chiama una terra circondata dal mare su tre lati?
+- La Sardegna è circondata dal mare da tutti i lati, quindi è chiamata ___.
+- Un arcipelago è un gruppo di isole vicine tra loro.
+- Come si chiama una grande insenatura dove il mare entra nella terra, come quella di Napoli?
+- Quale tratto di mare separa la Sicilia dalla Calabria?
+- Che differenza c'è tra golfo e promontorio?
+- Come si chiama la punta estrema di un promontorio?
+- Perché l'Italia viene chiamata penisola? Da quale lato è unita al resto dell'Europa?
+
+## GPS e mappe sullo schermo [lib-3-elementare-geografia-gps-e-mappe-digitali] · SEGNALE
+concetti: Che cos'è il GPS; Il navigatore; Le mappe digitali; Quando non funziona
+- Da dove arrivano i segnali che usa il GPS?
+- Una mappa digitale mostra sempre la stessa zona: non si può ingrandire né rimpicciolire.
+- In auto, per farsi indicare la strada, papà usa il ___ satellitare.
+- Perché in una lunga galleria il navigatore a volte smette di funzionare?
+- Che cosa succede quando rimpicciolisci la mappa sul telefono?
+- Il navigatore dice: «Tra 200 metri svolta a destra». Che cosa sta facendo?
+- Se il telefono si scarica durante un'escursione in montagna, una carta e una bussola possono ancora aiutarti.
+- Il GPS è comodissimo. Perché è comunque importante imparare a leggere una carta e a orientarsi con la bussola?
+
+## I quattro punti cardinali [lib-3-elementare-geografia-punti-cardinali] · NORD
+concetti: Nord, Sud, Est, Ovest; Gli altri nomi; Opposti a coppie; Il Nord sulle carte
+- Quanti sono i punti cardinali principali?
+- Il punto cardinale opposto al Nord è il ___.
+- Sulle carte geografiche, di solito, l'Est si trova a destra.
+- Quale altro nome ha l'Est?
+- Il Sud dell'Italia viene chiamato anche...
+- Sei rivolto verso Ovest. Che cosa hai alle tue spalle?
+- Sulla carta d'Italia Trento è in alto e Bari è in basso. Rispetto a Bari, dove si trova Trento?
+- Perché è più utile dire «la casa è a Nord della scuola» invece di «la casa è a destra della scuola»?
+
+## I segni convenzionali [lib-3-elementare-geografia-segni-convenzionali] · SIMBOLO
+concetti: Che cosa sono; La legenda; Linee e colori; Simboli condivisi
+- Il riquadro che spiega il significato dei simboli di una carta si chiama ___.
+- Perché sulle carte si usano i simboli invece di disegnare gli oggetti come sono?
+- Su molte carte i fiumi sono disegnati con linee azzurre.
+- Su una carta, una linea nera con tanti trattini di traverso di solito indica...
+- Su una carta trovi un simbolo che non conosci. Che cosa fai?
+- Su una carta una zona verde scuro piena di piccoli alberelli rappresenta...
+- Ogni carta usa simboli completamente diversi da tutte le altre, quindi non si possono mai confrontare.
+- Inventa un simbolo per il campo da calcio del tuo paese e spiega perché è una buona scelta. Dove lo scriveres…
+
+## I vulcani, montagne di fuoco [lib-3-elementare-geografia-vulcani] · LAVA
+concetti: Com'è fatto un vulcano; Magma e lava; Attivi e spenti; I vulcani italiani
+- Da quale parte del vulcano esce la lava?
+- Quando il magma esce dal vulcano prende il nome di ___.
+- L'Etna, in Sicilia, è un vulcano attivo.
+- Quale vulcano si trova vicino alla città di Napoli?
+- Metti in ordine il percorso del magma durante un'eruzione.
+- Un vulcano non erutta da moltissime migliaia di anni e non potrà più farlo. Come si chiama?
+- Perché molti contadini coltivano vigneti e frutteti sui fianchi dell'Etna, nonostante il pericolo?
+- Perché chi vive vicino a un vulcano attivo deve essere informato, e perché gli scienziati controllano il vulc…
+
+## Il geografo e la sua squadra [lib-3-elementare-geografia-geografo-e-collaboratori] · TERRA
+concetti: Che cosa studia il geografo; Il significato di geografia; Gli esperti che lo aiutano; Le persone e il territorio
+- Che cosa studia il geografo?
+- La parola geografia significa «descrizione della ___».
+- Il meteorologo è l'esperto che studia le rocce e i terreni.
+- Il geografo vuole sapere quali alberi crescono in un bosco. A quale esperto chiede aiuto?
+- Quale esperto disegna le carte geografiche?
+- Il geografo nota che in una valle quasi tutte le case sono vicino al fiume. Che cosa sta studiando?
+- Il territorio non cambia mai: oggi è uguale a com'era mille anni fa.
+- Perché il geografo ha bisogno dell'aiuto di altri esperti? Fai un esempio.
+
+## Il ghiacciaio, fiume di ghiaccio [lib-3-elementare-geografia-ghiacciai] · NEVE
+concetti: Come nasce; Il ghiacciaio si muove; Le morene; Riserva di acqua dolce; Ghiacciai che si ritirano
+- Da che cosa si forma un ghiacciaio?
+- Il ghiacciaio sta sempre fermo come una roccia.
+- I detriti e le rocce lasciati da un ghiacciaio formano le ___.
+- Perché i ghiacciai sono importanti per i fiumi?
+- Che cosa sta succedendo a molti ghiacciai delle Alpi?
+- Metti in ordine come nasce e si muove un ghiacciaio.
+- Perché il ghiacciaio scende verso valle?
+- Se i ghiacciai continuassero a ritirarsi, che cosa potrebbe succedere ai fiumi che in estate ricevono la loro…
+
+## Il mare in pericolo [lib-3-elementare-geografia-il-mare-in-pericolo] · RETE
+concetti: La plastica in mare; Scarichi e petrolio; La pesca eccessiva; Le aree marine protette; Che cosa posso fare io
+- Perché un sacchetto di plastica in mare è pericoloso per le tartarughe?
+- Una lattina lasciata in spiaggia non fa danni, perché il mare la porta via.
+- Una zona di mare con regole speciali per proteggere piante e animali si chiama area marina ___.
+- Perché è importante non pescare i pesci troppo piccoli?
+- Che cosa succede se una nave perde petrolio in mare?
+- Quale di queste azioni aiuta il mare?
+- Se si pesca troppo, i pesci nel mare possono diminuire molto.
+- Perché in un'area marina protetta non si può pescare dappertutto né gettare l'ancora dove si vuole? Che cosa …
+
+## Immissari, emissari e vita sul lago [lib-3-elementare-geografia-vita-sul-lago] · CIGNO
+concetti: Immissario ed emissario; Un clima più mite; Piante e animali; Le attività
+- Il fiume che porta l'acqua dentro un lago si chiama ___.
+- L'emissario è il fiume che esce dal lago.
+- Quale animale vive comunemente sui laghi italiani?
+- Perché sulle rive del lago di Garda crescono olivi e limoni, anche se è al Nord?
+- Il fiume Sarca entra nel lago di Garda e il fiume Mincio ne esce. Quale frase è giusta?
+- Quale di queste attività è tipica di un grande lago?
+- D'inverno vicino a un grande lago fa più freddo che lontano dal lago.
+- Che cosa succederebbe al livello del lago se per molti mesi l'immissario portasse molta meno acqua, mentre l'…
+
+## L'ago che punta a Nord [lib-3-elementare-geografia-bussola] · MAGNETE
+concetti: Com'è fatta la bussola; Perché l'ago punta a Nord; Come si usa; Attenti al metallo
+- Quale parte della bussola si muove e indica il Nord?
+- L'ago della bussola punta verso Nord perché la Terra si comporta come una grande calamita.
+- Per leggere bene la bussola devi tenerla ___ e ferma.
+- Perché la bussola può sbagliare se la appoggi su un tavolo di ferro?
+- Metti in ordine i passaggi per usare la bussola.
+- Sul quadrante della bussola, che cosa indica la lettera O?
+- Sei in mezzo a una nebbia fittissima e non vedi né il Sole né le stelle. Che cosa ti aiuta a trovare il Nord?
+- Andrea legge la bussola tenendola vicino alla fibbia di ferro della cintura e alla portiera dell'auto. Che co…
+
+## La carta politica e i confini [lib-3-elementare-geografia-carta-politica] · CONFINE
+concetti: Che cosa mostra; Colori e confini; I simboli delle città; Fisica o politica
+- Che cosa mostra la carta politica dell'Italia?
+- Sulla carta politica regioni vicine hanno colori diversi per distinguerle meglio.
+- La città più importante di uno Stato, dove si trovano il governo e il Parlamento, si chiama ___.
+- Sulla carta politica dell'Italia, Roma è segnata con un simbolo speciale. Perché?
+- Vuoi sapere in quale regione si trova la città di Napoli. Quale carta usi?
+- Quale di questi elementi è segnato sulla carta politica ma non lo vedresti dall'alto nella realtà?
+- La carta fisica e la carta politica mostrano esattamente le stesse informazioni.
+- Spiega la differenza tra carta fisica e carta politica e di' quando useresti ciascuna.
+
+## La grande Pianura Padana [lib-3-elementare-geografia-pianura-padana] · NEBBIA
+concetti: La pianura più grande; Il Po e gli affluenti; Il clima padano; Tante attività
+- In quale parte d'Italia si trova la Pianura Padana?
+- Il fiume più lungo d'Italia, che attraversa la Pianura Padana, è il ___.
+- D'inverno nella Pianura Padana è frequente la nebbia.
+- Tra quali catene di montagne si trova la Pianura Padana?
+- Perché nella Pianura Padana ci sono tante coltivazioni?
+- Quale grande città si trova nella Pianura Padana?
+- Che cosa significa dire che l'estate padana è «afosa»?
+- In una mattina di gennaio la mamma deve attraversare in auto la Pianura Padana. Quale fenomeno potrebbe trova…
+
+## La rosa dei venti [lib-3-elementare-geografia-rosa-dei-venti] · VENTO
+concetti: Otto direzioni; Le direzioni intermedie; I nomi dei venti; Usarla sulla carta
+- Quante direzioni indica una rosa dei venti con le direzioni intermedie?
+- La direzione a metà tra Sud e Ovest si chiama ___.
+- La Tramontana è il vento che soffia da Nord.
+- Lo Scirocco è un vento caldo. Da quale direzione soffia?
+- Qual è la direzione opposta al Nord-Est?
+- Partendo dal Nord e girando in senso orario, come le lancette, metti in ordine queste direzioni.
+- Sulla carta della Sicilia, Palermo è in alto a sinistra e Siracusa in basso a destra. Dove si trova Siracusa …
+- Un marinaio dice: «Oggi soffia il Ponente». Da dove arriva il vento? Perché secondo te si chiama così?
+
+## Leggere i colori della carta fisica [lib-3-elementare-geografia-carta-fisica-colori] · COLORE
+concetti: Che cosa mostra; I colori della terra; I colori dell'acqua; La legenda delle altezze
+- Che cosa rappresenta la carta fisica?
+- Sulla carta fisica la pianura è colorata di ___.
+- Sulla carta fisica un mare blu molto scuro è meno profondo di un mare azzurro chiaro.
+- Su una carta fisica vedi una zona marrone molto scuro. Che cosa c'è?
+- Che cosa indica il bianco sulle cime di una carta fisica?
+- Nella legenda delle altezze il giallo va da 200 a 500 metri. Un paese su una zona gialla si trova...
+- Metti in ordine i colori della carta fisica, dalla zona più bassa alla più alta.
+- Guardando una carta fisica, come fai a capire dove il mare è più profondo e dove ci sono le montagne più alte?
+
+## Leggere la scala 1:100 [lib-3-elementare-geografia-scala-numerica] · SCALA
+concetti: La scala numerica; Che cosa significa; Dalla carta alla realtà; Dalla realtà alla carta
+- La scala 1:100 si legge «uno ___ cento».
+- In scala 1:100, 1 centimetro sulla carta corrisponde a 100 metri nella realtà.
+- In scala 1:10, 1 centimetro sul disegno a quanto corrisponde nella realtà?
+- Nella pianta in scala 1:100 il salotto è lungo 5 cm. Quanto è lungo davvero?
+- Sulla mappa in scala 1:1000 la piazza è larga 6 cm. Quanto è larga nella realtà?
+- Un tavolo è lungo 200 cm. Quanto lo disegni lungo in scala 1:100?
+- In scala 1:50, un muro lungo 500 cm si disegna lungo 10 cm.
+- Sulla pianta della scuola in scala 1:100 la palestra è lunga 20 cm. Quanto è lunga la palestra vera? Spiega c…
+
+## Mappamondo o planisfero? [lib-3-elementare-geografia-mappamondo-planisfero] · GLOBO
+concetti: Il mappamondo; Il planisfero; Le deformazioni; Terre e mari
+- Che forma ha il mappamondo?
+- Con il planisfero puoi vedere tutta la Terra in una sola volta.
+- La maggior parte della superficie della Terra è coperta da ___.
+- Su molti planisferi la Groenlandia sembra grande quasi come l'Africa, ma in realtà è molto più piccola. Perch…
+- Perché il mappamondo rappresenta la forma della Terra meglio del planisfero?
+- Quale svantaggio ha il mappamondo rispetto al planisfero?
+- Sul planisfero tutte le terre hanno esattamente la stessa forma e grandezza che hanno sul mappamondo.
+- Devi preparare un cartellone con tutti i continenti da appendere al muro. Usi un mappamondo o un planisfero? …
+
+## Ogni spazio la sua carta [lib-3-elementare-geografia-dalla-pianta-alla-carta-geografica] · PIANTA
+concetti: La pianta; La mappa; La carta topografica; La carta geografica
+- Quale rappresentazione usi per disegnare la tua cameretta?
+- Per trovare una via della tua città usi una mappa.
+- Per un'escursione in montagna seguendo i sentieri è utile la carta ___.
+- Che cosa mostra una carta geografica dell'Italia?
+- Metti in ordine queste rappresentazioni, da quella che mostra lo spazio più piccolo a quella che mostra lo sp…
+- Perché sulla carta topografica di una valle non vedi i mobili delle case?
+- Sei turista a Firenze e vuoi andare a piedi da una piazza a un museo. Che cosa ti serve?
+- La tua classe deve fare tre cose: andare a piedi dalla stazione alla piazza di una città, seguire un sentiero…
+
+## Onde, maree e correnti [lib-3-elementare-geografia-onde-maree-correnti] · MAREA
+concetti: Le onde; Le maree; La Luna e le maree; Le correnti
+- Che cosa provoca soprattutto le onde del mare?
+- Con un vento fortissimo le onde diventano più basse.
+- Quando il livello del mare si alza e copre più spiaggia c'è l'alta ___.
+- Quale corpo celeste causa soprattutto le maree?
+- Con le maree, ogni quanto si alza il livello del mare?
+- Che cosa sono le correnti marine?
+- Durante la bassa marea su una spiaggia dell'oceano, che cosa può succedere?
+- Una bottiglia di plastica gettata in mare può arrivare su una spiaggia molto lontana. Come è possibile? Perch…
+
+## Orientarsi senza perdersi [lib-3-elementare-geografia-orientarsi-punti-di-riferimento] · TORRE
+concetti: Che cosa vuol dire orientarsi; Punti di riferimento fissi; Elementi che si spostano; Spiegare un percorso
+- Quale di questi è un buon punto di riferimento in un paese?
+- Un furgone parcheggiato davanti al negozio è un buon punto di riferimento per ritrovare la strada domani.
+- Orientarsi significa capire dove ti trovi e quale ___ prendere.
+- Per spiegare la strada a un amico, quale frase è più utile?
+- Perché la montagna che vedi dalla finestra è un ottimo punto di riferimento?
+- Luca racconta: «Esco di casa, cammino fino all'edicola, lì giro a sinistra, supero la fontana ed entro in bib…
+- Marta dice: «Ci vediamo vicino al gelataio con il carretto». Perché potreste non trovarvi?
+- Sei in gita in una città che non conosci. Quali punti di riferimento sceglieresti per ritrovare l'albergo, e …
+
+## Osservare da vicino e da lontano [lib-3-elementare-geografia-osservazione-diretta-indiretta] · OCCHI
+concetti: Osservazione diretta; Osservazione indiretta; L'uscita sul campo; Usare tutti i sensi
+- La tua classe va a visitare il fiume vicino alla scuola. Che tipo di osservazione fate?
+- Guardare un documentario sul deserto è un'osservazione diretta.
+- Al mercato senti il profumo del pane appena sfornato: stai usando l'___.
+- Durante l'uscita, perché il geografo prende appunti e fa schizzi?
+- Quale di questi è un modo indiretto di osservare le montagne?
+- Sei vicino a una cascata con gli occhi chiusi. Quale senso ti fa capire che lì c'è acqua che cade?
+- Durante un'uscita è utile fotografare il paesaggio per osservarlo di nuovo in classe.
+- Vuoi conoscere il parco del tuo quartiere e una foresta dell'Africa. Come puoi osservare ciascuno dei due luo…
+
+## Parchi nazionali e aree protette [lib-3-elementare-geografia-parchi-e-aree-protette] · PARCO
+concetti: Il parco nazionale; Le regole del parco; Animali da salvare; Chi lavora nel parco
+- Perché esistono i parchi nazionali?
+- Il Parco Nazionale del Gran Paradiso è nato per proteggere lo ___.
+- In un parco nazionale si possono raccogliere tutti i fiori che si vogliono.
+- Quale animale è il simbolo del Parco Nazionale d'Abruzzo, Lazio e Molise?
+- Chi controlla che i visitatori rispettino le regole del parco?
+- Perché nei parchi bisogna camminare sui sentieri segnati?
+- Grazie alla protezione del parco, gli stambecchi del Gran Paradiso non sono scomparsi.
+- Durante una gita in un parco nazionale vedi un cerbiatto vicino al sentiero. Come ti comporti e perché?
+
+## Rimpicciolire senza deformare [lib-3-elementare-geografia-riduzione-in-scala] · RIDURRE
+concetti: Perché rimpicciolire; Ridurre in scala; Forme deformate; Usare i quadretti
+- Per disegnare la tua scuola su un foglio devi rimpicciolirla.
+- Che cosa vuol dire ridurre in scala?
+- Ogni quadretto vale 1 metro. Un'aula lunga 8 metri nel disegno sarà lunga ___ quadretti.
+- Ogni quadretto vale 2 metri. Un corridoio lungo 10 metri quanti quadretti occupa nel disegno?
+- Paolo disegna il tavolo quadrato di casa: rimpicciolisce la lunghezza 10 volte e la larghezza solo 2 volte. C…
+- Un orto è lungo 400 centimetri e largo 200 centimetri. Nel disegno ogni misura è divisa per 100. Quali misure…
+- Se riduci in scala nel modo giusto un campo rettangolare, nel disegno diventa un quadrato.
+- Matteo vuole disegnare la sua cameretta, lunga 4 metri e larga 3 metri, su un foglio a quadretti. Come può fa…
+
+## Ripasso: bussola, scala e legenda [lib-3-elementare-geografia-ripasso-orientamento-e-carte] · ROTTA
+concetti: Orientarsi nello spazio; La scala; Legenda e simboli; Tipi di carte
+- Sei rivolto verso il Nord, come indica la bussola. Che cosa hai alla tua sinistra?
+- Senza legenda è difficile capire che cosa significano i simboli di una carta.
+- In scala 1:1000, 3 cm sulla carta corrispondono a ___ metri nella realtà.
+- Vuoi sapere quali regioni confinano con la Toscana. Quale carta consulti?
+- Di notte in montagna, senza bussola, che cosa ti aiuta a trovare il Nord?
+- Una carta mostra con colori diversi dove piove di più e dove piove di meno in Italia. Che tipo di carta è?
+- Metti in ordine queste scale, da quella che rimpicciolisce di meno a quella che rimpicciolisce di più.
+- Prepari una caccia al tesoro nel giardino della scuola. Che cosa deve avere la tua mappa perché i compagni tr…
+
+## Ripasso: dalla vetta al mare [lib-3-elementare-geografia-ripasso-dalla-vetta-al-mare] · VIAGGIO
+concetti: La montagna; La collina; La pianura; Fiumi, laghi e mare
+- Quale di questi elementi trovi in alta montagna?
+- Il fiume nasce alla foce e finisce alla sorgente.
+- I vigneti e gli uliveti si trovano soprattutto in ___.
+- Perché nella pianura ci sono molte città, strade e fabbriche?
+- Una goccia d'acqua parte da un ghiacciaio. Metti in ordine il suo viaggio.
+- Che cosa distingue un lago dal mare?
+- Una famiglia vuole sciare, vedere gli stambecchi e dormire in un rifugio. Dove va?
+- Scegli tra montagna, collina, pianura e mare il paesaggio dove ti piacerebbe vivere. Descrivi due sue caratte…
+
+## Salendo, la vegetazione cambia [lib-3-elementare-geografia-fasce-vegetazione-montagna] · ABETE
+concetti: Più in alto, più freddo; Bosco di latifoglie; Bosco di conifere; Pascoli e alta quota
+- Più si sale in montagna, più la temperatura...
+- Abeti e pini hanno foglie sottili ad ___.
+- Castagni e faggi crescono soprattutto nella parte più bassa dei boschi di montagna.
+- Che cosa trovi sopra il limite dei boschi?
+- Metti in ordine le fasce di vegetazione, dal piede della montagna alla vetta.
+- Perché le conifere riescono a vivere più in alto delle latifoglie?
+- Ai piedi di una montagna alpina crescono querce e castagni. Che cosa ti aspetti di trovare a 2500 metri?
+- Perché in alta montagna non crescono grandi alberi?
+
+## Scala grafica: misuro col righello [lib-3-elementare-geografia-scala-grafica-grande-piccola] · METRO
+concetti: La scala grafica; Misurare con la scala; Carte a grande scala; Carte a piccola scala
+- Com'è fatta una scala grafica?
+- La pianta di una casa è una carta a grande scala.
+- Nella scala grafica 1 cm vale 2 km. Due paesi distano 4 cm sulla carta, quindi nella realtà distano ___ km.
+- Nella scala grafica ogni centimetro vale 500 metri. Il sentiero sulla carta è lungo 3 cm. Quanto è lungo davv…
+- Quale di queste è una carta a piccola scala?
+- Vuoi vedere dove sono la panetteria e la fermata dell'autobus del tuo quartiere. Quale carta scegli?
+- Su una carta dell'Italia a piccola scala si vedono tutte le case del tuo paese.
+- Che differenza c'è tra una carta a grande scala e una a piccola scala? Fai un esempio per ciascuna.
+
+## Strade, ferrovie e aeroporti [lib-3-elementare-geografia-vie-di-comunicazione] · BINARIO
+concetti: Che cosa sono; Perché in pianura; Città e industrie; Traffico e inquinamento
+- Quale di queste è una via di comunicazione?
+- Costruire una ferrovia in pianura è più semplice che in montagna.
+- Il luogo da cui partono e dove arrivano gli aerei si chiama ___.
+- Per costruire una strada in montagna spesso servono...
+- Perché molte fabbriche vengono costruite vicino all'autostrada?
+- Abiti a un chilometro dalla scuola. Quale scelta inquina di meno?
+- Perché molte città sono nate dove si incrociavano strade importanti o vicino a fiumi navigabili?
+- Nella tua città c'è molto traffico. Proponi due modi per ridurre traffico e inquinamento e spiega perché funz…
+
+## Tempo atmosferico o clima? [lib-3-elementare-geografia-tempo-atmosferico-e-clima] · METEO
+concetti: Il tempo atmosferico; Il clima; Gli elementi del clima; Clima e paesaggio
+- «Oggi a Milano piove e c'è vento.» Di che cosa parla questa frase?
+- Il clima di un luogo si scopre osservando il tempo per un solo giorno.
+- Lo strumento che misura la temperatura dell'aria è il ___.
+- Pioggia, neve e grandine vengono chiamate...
+- Quale frase parla del clima?
+- Perché in Sicilia si coltivano arance e limoni, ma non sulle Alpi?
+- In montagna molte case hanno il tetto molto inclinato perché la neve scivoli giù più facilmente.
+- Spiega la differenza tra tempo atmosferico e clima con un esempio.
+
+## Terrazzamenti contro le frane [lib-3-elementare-geografia-terrazzamenti-e-frane] · RADICE
+concetti: Che cos'è una frana; I terrazzamenti; Il ruolo delle piante; Curare il territorio
+- Quando terra e rocce scivolano giù da un pendio si ha una ___.
+- Le radici degli alberi aiutano a tenere ferma la terra dei pendii.
+- Che cosa sono i terrazzamenti?
+- Quando è più facile che avvenga una frana?
+- Su una collina vengono tagliati tutti gli alberi. Che cosa può succedere con le piogge forti?
+- Nelle Cinque Terre, in Liguria, i pendii che scendono verso il mare sono pieni di terrazzamenti. Perché li ha…
+- Quale azione aiuta a prevenire le frane?
+- Perché, se i muretti dei terrazzamenti vengono abbandonati e crollano, il pendio diventa più pericoloso?
+
+## Vigneti, uliveti e borghi [lib-3-elementare-geografia-vivere-in-collina] · OLIVO
+concetti: Il clima mite; Vite e olivo; I borghi in cima; Agriturismi e prodotti tipici
+- Che cosa si ottiene dalle olive?
+- La vendemmia è la raccolta dell'___.
+- Il clima della collina è di solito più mite di quello dell'alta montagna.
+- Perché molti borghi antichi sono stati costruiti in cima alle colline?
+- Che cos'è un agriturismo?
+- Quali piante si coltivano bene su una collina soleggiata dal clima mite?
+- Metti in ordine come si ottiene l'olio.
+- Perché un agriturismo in collina può aiutare gli agricoltori a vivere meglio?

@@ -1,0 +1,553 @@
+# 2ª elementare · Geografia: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Acque dolci e acque salate [lib-2-elementare-geografia-acque-dolci-e-salate] · SALE
+concetti: Acque dolci; Acque salate; Acque che scorrono o ferme; Un bene prezioso
+- Quale di queste acque è salata?
+- I ghiacciai sono fatti di neve diventata ghiaccio: contengono acqua ___.
+- L'acqua dei fiumi si chiama «dolce» perché contiene zucchero.
+- In quale di questi luoghi l'acqua è quasi ferma?
+- Perché non dobbiamo sprecare l'acqua dolce?
+- Perché l'acqua del mare non si può bere?
+- L'acqua di un fiume scorre sempre dall'alto verso il basso.
+- Scrivi due cose che puoi fare ogni giorno per non sprecare acqua.
+
+## Al mare: spiagge e scogliere [lib-2-elementare-geografia-mare-spiagge-scogliere] · ONDA
+concetti: Il mare e la costa; Coste basse e alte; Golfo e promontorio; La forza delle onde
+- Quale di questi luoghi si trova proprio dove il mare incontra la terra?
+- La linea in cui il mare incontra la terra si chiama ___.
+- Una costa con scogli alti e ripidi è una costa bassa.
+- Come si chiama un tratto di mare che entra dentro la terra?
+- Quale tratto di costa è più adatto per far giocare i bambini piccoli in riva al mare?
+- Un tratto di terra che si allunga dentro il mare si chiama...
+- Che cosa forma le onde del mare?
+- Le onde, colpendo le scogliere per migliaia di anni, cambiano la forma della costa. Come succede, secondo te?
+
+## Al supermercato: spazi e reparti [lib-2-elementare-geografia-supermercato-reparti] · CASSA
+concetti: Uno spazio organizzato; I reparti; Cartelli e indicazioni; Entrata, corsie e casse
+- Perché al supermercato i prodotti sono divisi in reparti?
+- Mele, banane e carote si trovano nel reparto ___ e verdura.
+- Il gelato si trova nel reparto dei prodotti per la pulizia della casa.
+- Cerchi lo yogurt e non sai dove sia. Che cosa ti aiuta di più?
+- Metti in ordine il percorso di chi fa la spesa al supermercato.
+- In quale reparto metteresti il detersivo per i piatti?
+- Perché le casse si trovano di solito vicino all'uscita?
+- Immagina di organizzare un piccolo negozio di giocattoli. Come divideresti gli spazi perché i clienti trovino…
+
+## Caccia al tesoro sul reticolo [lib-2-elementare-geografia-reticolo-coordinate] · TESORO
+concetti: Il reticolo; Righe e colonne; Le coordinate; Usare le coordinate
+- Quale di questi oggetti assomiglia a un reticolo?
+- In un reticolo, le file di caselle che vanno dall'alto in basso si chiamano ___.
+- In un reticolo con le lettere sulle colonne e i numeri sulle righe, la casella C2 si trova nella colonna C e …
+- Il tesoro è nella colonna D e nella riga 4. Quali sono le sue coordinate?
+- Su un reticolo la mela è nella casella A1 e la pera nella casella A3. Che cosa hanno in comune?
+- In un reticolo le colonne si chiamano A, B, C, D da sinistra a destra. Sei in B2 e ti sposti di una casella a…
+- Le righe di un reticolo sono verticali, dritte come il tronco di un albero.
+- Perché su una mappa a reticolo è utile dire «la fontana è in C4» invece di «la fontana è lì in mezzo»?
+
+## Città o paese? [lib-2-elementare-geografia-citta-o-paese] · BORGO
+concetti: Il paese; La città; Servizi diversi; Vantaggi e svantaggi
+- Che cosa trovi più facilmente in una grande città?
+- In un paese piccolo, di solito, gli abitanti sono pochi e molti si conoscono.
+- Per spostarsi sotto terra, in alcune grandi città si usa la ___.
+- La famiglia di Anna vive in un piccolo paese e deve fare una visita in un grande ospedale. Che cosa deve fare…
+- Quale di questi è uno svantaggio della grande città?
+- Che cosa c'è spesso al centro di un paese, dove le persone si incontrano?
+- In città non c'è mai neanche un parco o un giardino.
+- Preferiresti vivere in una grande città o in un piccolo paese? Spiega un vantaggio e uno svantaggio della tua…
+
+## Com'era, com'è: il paesaggio cambia [lib-2-elementare-geografia-paesaggio-cambia-nel-tempo] · RUSPA
+concetti: Il paesaggio nel tempo; Cambiamenti fatti dall'uomo; Cambiamenti della natura; Cambiamenti utili o dannosi
+- Come puoi scoprire com'era il tuo paese tanti anni fa?
+- Costruire una strada nuova in mezzo a un prato è un cambiamento del paesaggio fatto dall'uomo.
+- Quando terra e rocce scivolano giù da un pendio, succede una ___.
+- In una vecchia foto c'era un campo di grano; oggi al suo posto c'è un supermercato. Chi ha cambiato il paesag…
+- Quale di questi cambiamenti è fatto dalla natura, molto lentamente?
+- Quale di questi cambiamenti rende il paesaggio più verde e sano?
+- Tutti i cambiamenti del paesaggio sono fatti dall'uomo.
+- Nel tuo paese vogliono abbattere un piccolo bosco per costruire un parcheggio. Sei d'accordo? Spiega che cosa…
+
+## Confini naturali e artificiali [lib-2-elementare-geografia-confini-naturali-artificiali] · CONFINE
+concetti: A che serve un confine; Confini naturali; Confini artificiali; Confini che non si vedono
+- A che cosa serve il recinto intorno a un orto?
+- Un fiume può fare da confine naturale tra due paesi.
+- Il muro del cortile è un confine ___, perché l'ha costruito l'uomo.
+- Quale di questi è un confine naturale?
+- Il signor Rossi vuole separare il suo orto da quello del vicino. Quale confine può costruire?
+- Passando in auto da un comune all'altro, come fai a sapere che hai superato il confine?
+- Tutti i confini si vedono sempre, perché c'è un muro o una recinzione.
+- Il giardino della scuola confina da una parte con un ruscello e dall'altra con una rete. Spiega quale dei due…
+
+## Davanti, dietro e di fianco [lib-2-elementare-geografia-davanti-dietro-di-fianco] · FILA
+concetti: Davanti e dietro; Di fianco, cioè accanto; Uno di fronte all'altro; Dipende da come sei girato
+- Sei in fila per entrare in classe. Il compagno che vedi di spalle, subito prima di te, dove si trova?
+- Il compagno seduto accanto a te nel banco si trova di fianco a te.
+- Luca e Giulia si guardano negli occhi mentre parlano: sono uno di ___ all'altra.
+- Nella foto di classe i bambini più alti stanno nell'ultima fila. Perché?
+- Guardi verso la finestra: è davanti a te. Ti giri del tutto, dalla parte opposta. Dove si trova ora la finest…
+- Al cinema Sara ha un posto libero alla sua destra e uno alla sua sinistra, nella stessa fila. Chi si siede lì…
+- Pietro e Ada stanno uno di fronte all'altra e tra loro c'è un pallone. Il pallone è davanti a tutti e due.
+- In un trenino di bambini Leo è il primo e Mia è l'ultima. Poi tutti si girano e camminano nella direzione opp…
+
+## Dentro, fuori e sul confine [lib-2-elementare-geografia-dentro-fuori-confine] · RECINTO
+concetti: Linee aperte e chiuse; Regione interna ed esterna; Il confine; Entrare e uscire
+- Quale di queste è una linea chiusa?
+- Una linea aperta divide il foglio in una regione interna e una regione esterna.
+- La linea che separa la regione interna dalla regione esterna si chiama ___.
+- Le pecore stanno dentro il recinto, il cane pastore sta fuori. In quale regione si trova il cane?
+- Un bambino sta in piedi proprio sopra la linea del cerchio disegnato col gesso. Dove si trova?
+- Perché il recinto delle galline ha un cancelletto?
+- Per andare da dentro un giardino recintato alla strada fuori bisogna attraversare il confine.
+- Nel cortile la maestra disegna un grande cerchio e dice: «Chi è dentro è salvo». Spiega come fai a sapere se …
+
+## Destra o sinistra? [lib-2-elementare-geografia-destra-sinistra] · LATO
+concetti: I due lati del corpo; Oggetti a destra e sinistra; Chi ci sta di fronte; Girarsi cambia i lati
+- Quale di queste parti del corpo abbiamo sia a destra sia a sinistra?
+- La mano destra e la mano sinistra stanno sullo stesso lato del corpo.
+- Guardi un gatto e un cane da dove sei: il gatto è a sinistra del cane. Allora il cane è a ___ del gatto.
+- In italiano, quando scrivi sul quaderno, da quale parte cominci la riga?
+- La maestra è di fronte alla classe e alza la sua mano destra. Da quale parte vedi la sua mano?
+- Cammini lungo il corridoio e la palestra è alla tua destra. Poi torni indietro per lo stesso corridoio. Dove …
+- Sei seduto al banco: la finestra è alla tua sinistra e la porta alla tua destra. Allora finestra e porta sono…
+- Un turista ti sta di fronte e ti chiede dov'è la stazione. Tu sai che, da come sei girato tu, la stazione è a…
+
+## Disegno il tragitto casa-scuola [lib-2-elementare-geografia-tragitto-casa-scuola] · STRADA
+concetti: Il tragitto; Osservare lungo la strada; Disegnare con ordine; Mezzi diversi, strade diverse
+- Che cos'è il tragitto casa-scuola?
+- Per disegnare bene il tragitto è utile notare incroci, curve e punti di riferimento.
+- Sulla mappa del tragitto prima segno il punto di ___ e il punto di arrivo.
+- Metti in ordine i passi per disegnare la mappa del tragitto casa-scuola.
+- Leo va a scuola in auto chiacchierando e non guarda mai fuori dal finestrino. Ora deve disegnare il suo tragi…
+- Matteo va a scuola a piedi attraversando il parco. Il suo papà, in auto, deve fare un'altra strada. Perché?
+- Sulla mappa del suo tragitto Nina ha disegnato la casa, la scuola e la strada, ma il papà non capisce dove gi…
+- Racconta il tuo tragitto da casa a scuola, oppure verso un altro luogo che conosci bene: da dove parti, che c…
+
+## Dolci colline [lib-2-elementare-geografia-dolci-colline] · VIGNA
+concetti: Che cos'è la collina; Le coltivazioni di collina; I terrazzamenti; Vivere in collina
+- In che cosa la collina è diversa dalla montagna?
+- Sulle colline si coltivano spesso viti e ulivi.
+- Dalle olive raccolte in collina si ottiene l'___.
+- Che cosa sono i terrazzamenti?
+- Perché sui pendii ripidi si costruiscono i terrazzamenti?
+- Perché molti antichi borghi di collina sono costruiti in cima?
+- In collina il clima è di solito più freddo che in alta montagna.
+- Un contadino ha un terreno in collina, ben esposto al sole. Che cosa gli consiglieresti di coltivare e perché?
+
+## Elementi fissi e mobili [lib-2-elementare-geografia-elementi-fissi-mobili] · PORTA
+concetti: Elementi fissi; Elementi mobili; Cambiare la disposizione; Fissi come riferimento
+- Quale di questi è un elemento fisso dell'aula?
+- Le sedie si possono spostare: sono elementi ___.
+- Il termosifone attaccato al muro è un elemento mobile.
+- Quale di questi elementi della cameretta è mobile?
+- La maestra sistema i banchi a ferro di cavallo. Che cosa resta sicuramente al suo posto?
+- Per spiegare dove hai lasciato il quaderno, quale indicazione è più sicura?
+- Spostando il letto e la scrivania, la cameretta può sembrare diversa anche se porte e finestre restano dove s…
+- Vuoi mettere la scrivania in un nuovo posto della cameretta. Quali elementi fissi devi tenere presenti e perc…
+
+## Frecce e passi: il codice [lib-2-elementare-geografia-codice-frecce-passi] · CODICE
+concetti: Le frecce come istruzioni; Contare i passi; L'ordine delle istruzioni; Tornare indietro
+- Che cosa vuol dire la freccia → in un percorso sul reticolo?
+- L'istruzione «4 ↑» vuol dire: vai in su di ___ caselle.
+- La freccia ↓ indica di spostarsi verso il basso.
+- Un robottino esegue «2 →» e poi «3 →». Di quante caselle si è spostato verso destra in tutto?
+- Il robottino ha fatto «3 →» e poi «2 ↑». Quali istruzioni deve eseguire per tornare alla partenza?
+- Metti in ordine i passaggi per scrivere il codice di un percorso.
+- Il codice giusto è «1 →» e poi «1 ↑». Sara invece fa prima «1 ↑» e poi «1 →», ma nella casella sopra la parte…
+- Perché, quando scrivi il codice di un percorso, l'ordine delle frecce è importante? Fai un esempio.
+
+## Gli spazi della scuola [lib-2-elementare-geografia-spazi-della-scuola] · MENSA
+concetti: Spazi e funzioni a scuola; Spazi interni ed esterni; Spazi di passaggio; Le persone della scuola
+- In quale spazio della scuola si fa ginnastica?
+- I libri da prendere in prestito si trovano in ___.
+- Il cortile della scuola è uno spazio interno.
+- Quale di questi spazi della scuola è esterno?
+- A che cosa servono soprattutto i corridoi della scuola?
+- Chi lavora soprattutto nella cucina della mensa?
+- All'ingresso della scuola i collaboratori scolastici accolgono gli alunni e controllano chi entra.
+- Se la tua scuola potesse avere un nuovo spazio, quale sceglieresti, per esempio un orto, un laboratorio o una…
+
+## I colori delle carte geografiche [lib-2-elementare-geografia-colori-delle-carte] · VERDE
+concetti: Il verde della pianura; Giallo, marrone e bianco; L'azzurro dell'acqua; Leggere i colori
+- Di che colore sono i fiumi e i laghi sulle carte geografiche?
+- Sulla carta fisica la pianura è colorata di ___.
+- Sulla carta fisica le montagne più alte hanno un marrone più scuro.
+- Che cosa indica il giallo sulla carta fisica dell'Italia?
+- Sulla carta un fiume è disegnato come...
+- Metti in ordine i colori della carta fisica, dalla zona più bassa alla più alta.
+- Su una carta vedi una grande zona verde attraversata da una linea azzurra. Che cosa rappresenta?
+- Su una carta fisica vedi tanto marrone scuro e poche macchie verdi. Com'è quel territorio? Ti sembra facile c…
+
+## I servizi del mio paese [lib-2-elementare-geografia-servizi-del-paese] · COMUNE
+concetti: Che cosa sono i servizi; Salute e sicurezza; Il municipio; Servizi per tutti
+- Dove vai per spedire un pacco alla nonna?
+- Se c'è un incendio, intervengono i vigili del ___.
+- Il sindaco lavora nell'ufficio postale.
+- Hai la febbre e il medico ti prescrive una medicina. Dove la compri?
+- Quale servizio usi per andare in un'altra città senza auto?
+- Con che cosa si pagano soprattutto i servizi pubblici, come l'illuminazione delle strade?
+- I servizi pubblici sono a disposizione di tutti i cittadini.
+- Immagina un paese senza ospedale e senza scuola. Quali problemi avrebbero le famiglie?
+
+## I simboli e la legenda [lib-2-elementare-geografia-simboli-e-legenda] · CHIAVE
+concetti: I simboli; La legenda; Simboli semplici e chiari; Usare la legenda
+- Che cos'è la legenda di una mappa?
+- Sulla mappa, i piccoli disegni che stanno al posto degli oggetti veri si chiamano ___.
+- Per indicare una fontana sulla mappa è meglio un simbolo semplice, come un cerchietto azzurro, che un disegno…
+- Quale simbolo è più adatto per indicare un parcheggio?
+- Sulla mappa del parco vedi un triangolino verde. Che cosa fai per sapere che cosa significa?
+- Nella legenda di una mappa: ▲ = montagna, ● = città, ~ = fiume. Sulla mappa vedi due ▲ vicini. Che cosa rappr…
+- Tutte le mappe usano sempre gli stessi identici simboli, quindi la legenda non serve.
+- Devi disegnare la mappa del tuo quartiere. Inventa un simbolo per la scuola e uno per il panificio e spiega p…
+
+## Il paesaggio nelle quattro stagioni [lib-2-elementare-geografia-paesaggio-e-stagioni] · AUTUNNO
+concetti: Il paesaggio cambia; Alberi e campi; Neve, ghiaccio e acqua; Attività e stagioni
+- In quale stagione molti alberi si riempiono di fiori?
+- Un paesaggio resta uguale in tutte le stagioni dell'anno.
+- In autunno nelle vigne si raccoglie l'uva: è la ___.
+- Metti in ordine come cambia un melo durante l'anno, partendo dalla primavera.
+- Perché in primavera molti fiumi di montagna hanno più acqua?
+- Una località di montagna ha piste da sci e sentieri nei boschi. Perché ci sono turisti sia d'inverno sia d'es…
+- D'inverno, quando fa molto freddo, l'acqua di un laghetto di montagna può ghiacciare.
+- Scegli un paesaggio che conosci, come un parco, un campo o una montagna, e descrivi come cambia dall'estate a…
+
+## Il sole ci indica la strada [lib-2-elementare-geografia-sole-e-punti-cardinali] · ALBA
+concetti: I quattro punti cardinali; Dove sorge e tramonta; Il Sud a mezzogiorno; Orientarsi con il sole
+- Quanti sono i punti cardinali?
+- La mattina il sole sorge a ___.
+- La sera il sole tramonta a Ovest.
+- In Italia, a mezzogiorno, verso quale punto cardinale si trova il sole?
+- Al mattino ti metti con il viso verso il sole che sorge. Che cosa hai alla tua sinistra?
+- Guardi il sole che sorge. Che cosa hai dietro le spalle?
+- Il Nord e l'Est sono punti cardinali opposti.
+- La finestra della camera di Pietro guarda verso Est. Secondo te il sole entra dalla finestra la mattina o la …
+
+## Il viaggio del fiume [lib-2-elementare-geografia-viaggio-del-fiume] · FOCE
+concetti: Sorgente e foce; Il corso del fiume; Affluenti e rive; Torrente e fiume
+- Come si chiama il punto in cui nasce un fiume?
+- I bordi di terra ai due lati del fiume si chiamano ___.
+- Metti in ordine il viaggio di un fiume.
+- In montagna l'acqua del fiume scorre più veloce che in pianura.
+- Che cos'è un affluente?
+- D'estate un corso d'acqua è quasi asciutto, ma in primavera è pieno. Che cos'è probabilmente?
+- Perché, scendendo verso il mare, un fiume diventa di solito più grande?
+- Il Po nasce dal Monviso, una montagna delle Alpi, e sfocia nel mare Adriatico. Racconta il suo viaggio usando…
+
+## In cammino su un percorso [lib-2-elementare-geografia-percorsi-partenza-arrivo] · TAPPA
+concetti: Partenza e arrivo; Le tappe; Percorsi diversi; Descrivere un percorso
+- Vai da casa alla scuola. Qual è il punto di partenza del tuo percorso?
+- Andando a scuola Lia si ferma all'edicola: l'edicola è una ___ del suo percorso.
+- Per andare da un posto a un altro esiste sempre un solo percorso possibile.
+- Marco esce di casa, compra il pane al panificio, attraversa il ponte e arriva in piscina. Metti in ordine il …
+- Due strade portano al parco: una è lunga 300 passi, l'altra 500 passi. Se hai fretta, quale scegli?
+- Quale frase descrive meglio un percorso?
+- Il pulmino parte dalla scuola, si ferma in piazza, poi al mulino e infine arriva alla fattoria. Quante tappe …
+- Per andare al parco puoi prendere una strada breve piena di traffico oppure una un po' più lunga in un viale …
+
+## In campagna, alla fattoria [lib-2-elementare-geografia-campagna-e-fattoria] · FIENILE
+concetti: Il paesaggio di campagna; La fattoria; Coltivare e allevare; Dalla campagna alla città
+- Che cosa vedi più spesso in un paesaggio di campagna?
+- Nella fattoria le mucche si riparano, mangiano e vengono munte nella ___.
+- In fattoria le galline vengono allevate anche per le uova.
+- Con quale pianta coltivata nei campi si fa la farina per il pane?
+- Metti in ordine il viaggio del latte dalla fattoria alla tua colazione.
+- Perché in campagna le case sono spesso lontane l'una dall'altra?
+- Quale di questi cibi arriva dalla campagna?
+- Se per molti mesi non piovesse e i campi restassero senz'acqua, che cosa succederebbe anche a chi vive in cit…
+
+## In pianura tra città e fabbriche [lib-2-elementare-geografia-pianura-citta-fabbriche] · TRENO
+concetti: Tante persone in pianura; Strade e ferrovie; Fabbriche e commercio; I problemi della pianura
+- Perché in pianura ci sono tante città e paesi?
+- Le strade larghe e veloci, a più corsie, dove in Italia spesso si paga il pedaggio, si chiamano ___.
+- Costruire una ferrovia in alta montagna è più facile che costruirla in pianura.
+- Perché molte fabbriche sono costruite in pianura?
+- Quale problema può nascere dove ci sono tante auto e tante fabbriche?
+- A che cosa servono le ferrovie e le autostrade della pianura?
+- Quando si costruiscono tante case e capannoni, diminuisce lo spazio per i campi e la natura.
+- In pianura ci sono molte città, strade e fabbriche. Proponi un'idea per avere un'aria più pulita.
+
+## Isole e penisole [lib-2-elementare-geografia-isole-e-penisole] · STIVALE
+concetti: L'isola e l'arcipelago; La penisola; L'Italia, uno stivale; Le isole italiane
+- Che cos'è un'isola?
+- Una terra circondata dal mare su tre lati si chiama ___.
+- L'Italia ha la forma di uno stivale.
+- Qual è l'isola più grande d'Italia?
+- Da quale parte l'Italia è unita al resto dell'Europa?
+- Come si chiama un gruppo di isole vicine tra loro?
+- La Sardegna è una penisola.
+- Spiega la differenza tra un'isola e una penisola. Fai un esempio per ciascuna.
+
+## La pianta della mia classe [lib-2-elementare-geografia-pianta-della-classe] · BANCO
+concetti: Che cosa mostra la pianta; Arredi come forme semplici; Porte e finestre; Leggere la pianta
+- Che cosa puoi vedere nella pianta della tua classe?
+- Nella pianta il cestino rotondo si disegna con un ___.
+- Nella pianta si disegnano anche le gambe delle sedie, una per una.
+- Perché nella pianta la porta e le finestre sono disegnate sul contorno delle pareti?
+- Nella pianta, il banco di Gaia è disegnato vicino alla finestra e lontano dalla porta. Dove siede Gaia nell'a…
+- Vuoi disegnare la pianta della tua classe. Metti in ordine i passaggi.
+- Nella pianta della classe, in mezzo all'aula, vedi tanti piccoli rettangoli tutti uguali, messi in file. Che …
+- Un compagno nuovo arriva in classe. Come può la pianta dell'aula aiutarlo nei primi giorni?
+
+## La pianura piatta e verde [lib-2-elementare-geografia-pianura-piatta-e-verde] · CAMPO
+concetti: Che cos'è la pianura; Come nasce una pianura; Pianura e agricoltura; La Pianura Padana
+- Com'è il terreno della pianura?
+- La pianura più grande d'Italia è la Pianura ___.
+- In pianura è più facile usare il trattore che su un pendio ripido.
+- Quale coltivazione ha bisogno di campi allagati e si fa in pianura?
+- Molte pianure sono state formate da...
+- La Pianura Padana si trova nel sud dell'Italia.
+- Perché in pianura lo sguardo arriva molto lontano?
+- Perché la pianura è il paesaggio più adatto all'agricoltura? Scrivi almeno due motivi.
+
+## Lassù in montagna [lib-2-elementare-geografia-parti-della-montagna] · VETTA
+concetti: Le parti della montagna; Catene e valli; Il freddo della montagna; Alpi e Appennini
+- Come si chiama il punto più alto di una montagna?
+- I fianchi della montagna, che scendono dalla cima verso il basso, si chiamano ___.
+- Metti in ordine le parti della montagna dal basso verso l'alto.
+- Salendo in montagna, di solito, la temperatura diventa più fredda.
+- Come si chiama la zona bassa tra due montagne, dove spesso scorre un fiume?
+- Quale catena di montagne attraversa l'Italia da nord a sud, come una spina dorsale?
+- Perché sulle vette più alte delle Alpi ci sono i ghiacciai anche d'estate?
+- Perché molti paesi di montagna sono costruiti nelle valli e non sulle vette?
+
+## Lavorare vicino al mare [lib-2-elementare-geografia-lavorare-vicino-al-mare] · PORTO
+concetti: Il porto; La pesca; Il turismo al mare; Proteggere il mare
+- Dove si fermano le navi per far scendere i passeggeri?
+- La barca che i pescatori usano per pescare in mare si chiama ___.
+- Il bagnino lavora in spiaggia per controllare che chi fa il bagno sia al sicuro.
+- Perché il porto ha lunghi muri di pietra verso il mare aperto?
+- In quale stagione lavorano di più gli stabilimenti balneari?
+- Metti in ordine il viaggio del pesce dal mare alla tavola.
+- Che cosa può succedere a una tartaruga marina se in mare c'è un sacchetto di plastica?
+- Sei in spiaggia con la tua famiglia. Che cosa puoi fare tu per proteggere il mare?
+
+## Le stanze della mia casa [lib-2-elementare-geografia-stanze-della-casa] · CUCINA
+concetti: Ogni stanza ha una funzione; Gli arredi giusti; Spazi per stare insieme; Ingresso e corridoio
+- In quale stanza si dorme di solito?
+- Il frigorifero e i fornelli si trovano in ___.
+- Il corridoio serve soprattutto a passare da una stanza all'altra.
+- Quale arredo è adatto al bagno?
+- Arrivano i nonni a trovarvi. In quale stanza è più comodo accoglierli per chiacchierare?
+- Nella casa di Leo si mangia e si guarda la TV nella stessa stanza. Che cosa vuol dire?
+- In una camera da letto è normale trovare il forno per cucinare.
+- Se in una casa mancasse la cucina, che cosa sarebbe difficile fare? Spiega.
+
+## Naturale o costruito dall'uomo? [lib-2-elementare-geografia-naturale-o-antropico] · PONTE
+concetti: Elementi naturali; Elementi antropici; Insieme nel paesaggio; Paesaggi più o meno trasformati
+- Quale di questi è un elemento naturale?
+- Gli elementi costruiti o trasformati dall'uomo si chiamano ___.
+- Un campo di grano coltivato è un elemento antropico.
+- In una foto vedi un lago circondato da montagne, con un piccolo porto e alcune barche. Quali sono gli element…
+- Quale di questi paesaggi è stato trasformato di più dall'uomo?
+- Un bosco cresciuto da solo, senza che nessuno l'abbia piantato, è un elemento...
+- In un paesaggio ci sono solo elementi naturali oppure solo elementi antropici, mai tutti e due insieme.
+- Descrivi il paesaggio che vedi dalla finestra di casa o di scuola: elenca almeno due elementi naturali e due …
+
+## Pianta, mappa o carta? [lib-2-elementare-geografia-pianta-mappa-carta] · ATLANTE
+concetti: La pianta; La mappa; La carta geografica; Più spazio, meno particolari
+- La pianta si usa per rappresentare dall'alto...
+- Per trovare le strade e le piazze di un quartiere si usa una ___.
+- Per vedere tutta l'Italia con le sue regioni si usa una carta geografica.
+- Quale di questi spazi si rappresenta con una carta geografica?
+- Metti in ordine dallo spazio più piccolo al più grande.
+- Sulla carta geografica dell'Italia si vede il letto di casa tua?
+- Vuoi trovare le altalene in un grande parco. Che cosa ti serve?
+- Perché nella pianta della scuola si vedono i banchi, mentre nella mappa del paese la scuola è solo un piccolo…
+
+## Proteggiamo il nostro paesaggio [lib-2-elementare-geografia-proteggiamo-il-paesaggio] · RICICLO
+concetti: Non sporcare; La raccolta differenziata; Riciclare e riusare; Parchi e aree protette
+- Dopo un picnic sul prato, che cosa fai con le bottiglie e le cartacce?
+- Dividere i rifiuti per tipo si chiama raccolta ___.
+- La buccia di una banana va nel bidone della plastica.
+- In quale raccolta metti una bottiglia di vetro vuota?
+- Quale di queste azioni è un esempio di riuso?
+- Nel Parco Nazionale del Gran Paradiso si protegge lo stambecco.
+- A che cosa serve un parco nazionale?
+- Perché riciclare la carta aiuta anche i boschi?
+
+## Quartiere e indirizzo di casa [lib-2-elementare-geografia-quartiere-e-indirizzo] · CIVICO
+concetti: Il quartiere; L'indirizzo di casa; Il numero civico; Nomi di vie e piazze
+- Che cos'è un quartiere?
+- Il numero scritto accanto al portone di casa si chiama numero ___.
+- Nell'indirizzo di casa ci sono il nome della via, il numero civico e il nome del paese o della città.
+- In via Roma tutti i numeri civici pari sono sul lato destro della strada. Dove sarà il civico 14?
+- Dove trovi scritto il nome di una via?
+- Nel quartiere di Ivo ci sono case, una farmacia, un panificio e un piccolo parco. Perché è comodo per chi ci …
+- Se nell'indirizzo manca il numero civico, il postino trova più facilmente la casa giusta.
+- Perché è importante che un bambino conosca il proprio indirizzo?
+
+## Ripasso: dove mi trovo? [lib-2-elementare-geografia-ripasso-orientamento] · MAPPA
+concetti: Gli indicatori spaziali; I punti di riferimento; Percorsi e reticoli; Il punto di vista
+- La lampada è appesa sopra il tavolo e il gatto dorme sotto il tavolo. Dove si trova il tavolo?
+- La grande quercia al centro del prato può essere un buon punto di riferimento per ritrovarsi con gli amici.
+- Sul reticolo la riga 1 è in basso. Per andare dalla casella B2 alla casella B4 scrivi il codice «2 ___».
+- Sul reticolo la riga 1 è in basso. Parti da A1, fai «2 →» e poi «1 ↑». In quale casella arrivi?
+- In cortile una siepe ti nasconde lo scivolo. Il tuo amico guarda il cortile dalla finestra del secondo piano …
+- Dalla cima di una collina vuoi mostrare a un amico dov'è il tuo paese, giù nella valle. Che cosa gli indichi?
+- Se cambio posto in classe, la porta può passare dalla mia destra alla mia sinistra.
+- Descrivi dove si trova il tuo zaino in classe usando almeno tre parole tra: sopra, sotto, davanti, dietro, de…
+
+## Ripasso: indovina il paesaggio [lib-2-elementare-geografia-ripasso-paesaggi] · VIAGGIO
+concetti: Montagna e collina; La pianura; Fiumi, laghi e mare; Naturale e antropico
+- Indovina il paesaggio: vette innevate, boschi di abeti e baite di legno.
+- Indovina il paesaggio: campi piatti a perdita d'occhio, risaie e un grande fiume lento.
+- Spiaggia, onde, ombrelloni e acqua salata: sei al ___.
+- Vigneti e uliveti su dolci rilievi arrotondati fanno pensare a un paesaggio di collina.
+- Metti in ordine questi luoghi dal più alto al più basso.
+- In un paesaggio di montagna vedi una vetta, una funivia, un ghiacciaio e un rifugio. Quali sono gli elementi …
+- In quale paesaggio è più facile trovare una strada lunga e dritta per molti chilometri?
+- Scegli due paesaggi tra montagna, collina, pianura e mare. Per ognuno scrivi un elemento naturale e uno costr…
+
+## Ripasso: leggo la mappa [lib-2-elementare-geografia-ripasso-mappe] · SIMBOLO
+concetti: La vista dall'alto; Simboli e legenda; Pianta, mappa e carta; Colori e punti cardinali
+- Da quale punto di vista è disegnata la mappa di un quartiere?
+- Nella legenda c'è scritto che il quadratino rosso è la scuola. Allora ogni quadratino rosso sulla mappa indic…
+- La famiglia di Sara parte da Milano per andare in vacanza in Puglia. Che cosa le serve per vedere tutto il vi…
+- Su una carta fisica con il Nord in alto vedi, nella parte di sopra, una grande zona marrone e, più in basso, …
+- Sulla mappa del quartiere ogni casa è un piccolo rettangolo e non si vedono né porte né finestre. Perché?
+- Sulla carta il Nord è in alto. Il mare si trova a destra della città. In quale direzione è il mare rispetto a…
+- La pianta della tua cucina mostra anche le strade del quartiere.
+- Il tuo amico deve trovare un tesoro sulla mappa del giardino che hai disegnato. Che cosa deve avere la tua ma…
+
+## Sopra, sotto e in mezzo [lib-2-elementare-geografia-sopra-sotto-in-mezzo] · SCALA
+concetti: Sopra e sotto; In alto e in basso; In mezzo, cioè tra; Dipende dal confronto
+- Il libro è appoggiato sul tavolo. Dove si trova il libro rispetto al tavolo?
+- Le lampade attaccate al soffitto della classe sono in basso.
+- Nella fila, Anna sta tra Luca e Marta: Anna è in ___.
+- Il gatto dorme sotto il letto. Quale frase dice la stessa cosa?
+- Metti in ordine queste parti di un albero, dal basso verso l'alto.
+- In una libreria ci sono tre ripiani: in alto i libri, in mezzo i giochi, in basso le scarpe. Dove sono i gioc…
+- Nel panino il prosciutto sta tra due fette di pane. Dove si trova il prosciutto?
+- Marco abita al primo piano e dice: «Il secondo piano è sopra di me». Sara abita al terzo piano e dice: «Il se…
+
+## Spazi per tutti, senza barriere [lib-2-elementare-geografia-spazi-senza-barriere] · RAMPA
+concetti: Le barriere architettoniche; Soluzioni per tutti; Aiuti per chi non vede; Spazi utili a molti
+- Quale di questi è una barriera per chi usa la sedia a rotelle?
+- Per salire al secondo piano senza fare le scale si usa l'___.
+- Le righe in rilievo sul pavimento delle stazioni aiutano chi non vede a camminare nella direzione giusta.
+- Oltre a chi usa la sedia a rotelle, a chi è utile una rampa all'ingresso?
+- Che cos'è il Braille?
+- Per entrare nella scuola di Pietro c'è solo una scala. Che cosa si potrebbe costruire perché possa entrare an…
+- Gli spazi senza barriere servono solo alle persone con una disabilità.
+- Pensa alla tua scuola o al tuo quartiere: c'è una barriera architettonica? Come la elimineresti?
+
+## Spazi pubblici e spazi privati [lib-2-elementare-geografia-spazi-pubblici-privati] · PIAZZA
+concetti: Spazi privati; Spazi pubblici; Regole negli spazi pubblici; Chi se ne prende cura
+- Quale di questi è uno spazio pubblico?
+- Possiamo entrare nella casa di un'altra famiglia anche se nessuno ci ha invitato.
+- Il giardino della casa di Marta appartiene alla sua famiglia: è uno spazio ___.
+- Al parco giochi c'è la fila per lo scivolo. Che cosa è giusto fare?
+- Chi si occupa di riparare una panchina rotta nella piazza del paese?
+- Perché la biblioteca comunale è uno spazio pubblico?
+- Siccome il parco lo pulisce il Comune, possiamo buttare le cartacce per terra.
+- Perché è importante rispettare le cose negli spazi pubblici, come le panchine e le fontanelle?
+
+## Specchi d'acqua: i laghi [lib-2-elementare-geografia-i-laghi] · GARDA
+concetti: Che cos'è un lago; Fiumi che entrano ed escono; Laghi naturali e artificiali; Vivere vicino al lago
+- Che tipo di acqua c'è nei laghi italiani?
+- Il lago è una distesa d'acqua circondata tutto intorno da ___.
+- Alcuni laghi sono stati creati dall'uomo costruendo una diga.
+- Come si chiama il fiume che porta la sua acqua dentro un lago?
+- Quale attività si può fare su un lago?
+- Qual è il lago più grande d'Italia?
+- Sulle rive dei laghi non si costruiscono mai paesi.
+- Perché l'uomo costruisce dighe per creare laghi artificiali? Spiega a che cosa possono servire.
+
+## Strade, ponti e gallerie [lib-2-elementare-geografia-strade-ponti-gallerie] · TUNNEL
+concetti: Le vie di comunicazione; Ponti e gallerie; Per terra, acqua e aria; Stazioni, porti, aeroporti
+- A che cosa serve un ponte?
+- I treni partono e arrivano alla ___.
+- La nave è un mezzo di trasporto che viaggia per aria.
+- Perché sulle autostrade di montagna ci sono tante gallerie?
+- Dove vai per prendere un aereo?
+- Per andare in Sardegna dalla penisola, con quali mezzi puoi viaggiare?
+- Strade e ferrovie servono a trasportare sia persone sia merci.
+- Un paese di montagna è collegato alla città solo da una strada piena di curve che sale fino a un passo. Perch…
+
+## Sulla strada in sicurezza [lib-2-elementare-geografia-strada-in-sicurezza] · PEDONE
+concetti: Le parti della strada; Le strisce pedonali; Il semaforo; I segnali stradali
+- Dove devono camminare i pedoni in città?
+- Quando il semaforo è ___, bisogna fermarsi.
+- Prima di attraversare sulle strisce si guarda a sinistra e a destra.
+- Metti in ordine come si attraversa la strada in modo sicuro.
+- Che forma hanno i cartelli stradali che avvisano di un pericolo?
+- Perché il marciapiede è più alto della carreggiata?
+- Che cosa indica un cartello rotondo con il bordo rosso e una bicicletta nera al centro?
+- Perché è pericoloso attraversare quando il semaforo per i pedoni è rosso, anche se sembra che non arrivino au…
+
+## Trova il punto di riferimento [lib-2-elementare-geografia-punti-di-riferimento] · FARO
+concetti: Che cos'è un riferimento; Fissi, non mobili; Facili da vedere; Dare indicazioni chiare
+- A che cosa serve un punto di riferimento?
+- Una macchina parcheggiata è un buon punto di riferimento per ritrovare la strada domani.
+- Quale di questi è un punto di riferimento fisso?
+- Il campanile si vede da lontano perché è molto ___.
+- Quale indicazione aiuta di più un amico a trovare casa tua?
+- Devi dare appuntamento a un amico in una piazza piena di gente. Quale punto scegli?
+- I punti di riferimento si usano anche dentro la scuola, per esempio la palestra o la mensa.
+- Un bambino nuovo deve andare dalla scuola alla biblioteca del paese. Scrivi come gli spiegheresti la strada u…
+
+## Tutto dipende dal punto di vista [lib-2-elementare-geografia-punto-di-vista] · OCCHI
+concetti: Il punto di vista; Le posizioni cambiano; Vedere e non vedere; Dire da dove si guarda
+- Che cos'è il punto di vista?
+- Due bambini seduti in punti diversi della classe vedono la lavagna esattamente nello stesso modo.
+- Un vaso alto è davanti a una piccola tazza. Guardando dal lato del vaso, che cosa può succedere?
+- Se mi sposto di lato, posso vedere la tazza che prima era ___ dal vaso.
+- Guardi la casa dal davanti: l'albero del giardino è alla destra della casa. Poi fai il giro e guardi la casa …
+- La mamma dice: «Le chiavi sono alla mia sinistra, vicino al vaso». Tu sei dall'altra parte del tavolo, di fro…
+- Quando cambio posto in una stanza, gli oggetti restano fermi ma cambia la loro posizione rispetto a me.
+- Al telefono devi spiegare a un amico dove hai nascosto un regalo nella sua camera. Perché è importante dirgli…
+
+## Tutto più piccolo sulla carta [lib-2-elementare-geografia-rimpicciolire-sulla-carta] · FOGLIO
+concetti: Rimpicciolire per disegnare; Mantenere le grandezze; Il quadretto come misura; Spazi grandi, più riduzione
+- Perché nella pianta di una stanza i mobili sono molto più piccoli che nella realtà?
+- Nella pianta della cucina il tavolo grande si può disegnare più piccolo della sedia.
+- Decido che un quadretto del foglio vale un passo. Una parete lunga 8 passi la disegno lunga 8 ___.
+- Un quadretto vale un passo. Nel disegno il banco è lungo 2 quadretti e l'armadio 4 quadretti. Quanti passi è …
+- Nella realtà la casa è più alta dell'albero del giardino. Come devono essere nel disegno rimpicciolito?
+- Su due fogli uguali disegni la tua cameretta e tutto il tuo paese. In quale disegno devi rimpicciolire di più?
+- Sul mappamondo l'Italia è piccola perché la Terra è stata rimpicciolita moltissimo.
+- Luca disegna la pianta della sua camera: fa il letto piccolissimo e la scrivania enorme, anche se nella realt…
+
+## Una mappa per il parco giochi [lib-2-elementare-geografia-mappa-del-parco] · SCIVOLO
+concetti: Orientarsi con la mappa; Il pallino «Voi siete qui»; Scegliere il percorso; Servizi e legenda
+- A che cosa ti serve la mappa all'ingresso di un grande parco?
+- Il pallino rosso con la scritta «Voi siete qui» indica la tua ___ sulla mappa.
+- Sulle mappe dei parchi è inutile segnare bagni, fontanelle e uscite: bastano i giochi.
+- Sulla mappa la fontana è al centro, le altalene sono a destra della fontana e lo scivolo a sinistra. Che cosa…
+- Vuoi andare dal chiosco al laghetto, ma sulla mappa il viale più diretto è segnato chiuso per lavori. Che cos…
+- Sei al parco e ti serve il bagno. Come lo trovi sulla mappa?
+- In un parco con tre mappe in punti diversi, il pallino «Voi siete qui» è nello stesso punto su tutte e tre.
+- Ti sei perso in un grande parco e trovi una mappa. Spiega come la usi per tornare all'ingresso.
+
+## Vicino o lontano? [lib-2-elementare-geografia-vicino-lontano] · PASSI
+concetti: Vicino e lontano; Misurare la distanza; Si capisce confrontando; Da lontano sembra piccolo
+- Sei seduto al banco. Che cosa è più vicino a te?
+- Per misurare la distanza tra la porta e la lavagna, Tommaso conta i suoi ___.
+- Un aereo che vola alto nel cielo sembra piccolo perché è lontano.
+- Ada impiega 5 minuti a piedi per andare a scuola, Ivo ne impiega 20 camminando allo stesso modo. Chi abita pi…
+- La casa di Elena è a 10 passi dal parco e a 200 passi dalla stazione. Quale frase è giusta?
+- Sei seduto al tuo posto in classe. Metti in ordine dal più vicino al più lontano da te.
+- Da lontano una montagna sembra piccola come la tua mano. Mentre ti avvicini in macchina, che cosa succede?
+- Per te la scuola è vicina, ma per un compagno che abita in un altro paese è lontana. Come può la stessa scuol…
+
+## Visto dall'alto come un uccello [lib-2-elementare-geografia-visto-dall-alto] · DRONE
+concetti: Di fronte, di lato, dall'alto; La vista dall'alto; Forme viste dall'alto; La pianta
+- Guardi un'auto stando in piedi accanto alla portiera. Come la stai guardando?
+- Come appare un dado visto dall'alto?
+- Guardando un tavolo dall'alto si vedono bene anche le sue gambe.
+- Il disegno di una stanza vista dall'alto si chiama ___.
+- Che forma ha, visto dall'alto, un libro chiuso appoggiato sul banco?
+- Un uccello vola sopra il cortile della scuola. Che cosa vede degli alberi?
+- Perché per disegnare la pianta della classe si usa la vista dall'alto e non quella di fronte?
+- Come appare un pallone visto di fronte, di lato e dall'alto? Perché?
+
+## Vivere e lavorare in montagna [lib-2-elementare-geografia-vivere-in-montagna] · BAITA
+concetti: Boschi e pascoli; Animali della montagna; Il lavoro in montagna; Costruire in montagna
+- Quale di questi animali vive in montagna?
+- I prati di montagna dove le mucche mangiano l'erba d'estate si chiamano ___.
+- Nei boschi di montagna crescono soprattutto abeti, pini e larici.
+- Quale prodotto si ottiene in montagna grazie all'allevamento delle mucche?
+- Perché le case di montagna hanno spesso il tetto molto inclinato?
+- D'inverno molti turisti vanno in montagna. Quale lavoro aumenta in quella stagione?
+- Perché le strade di montagna fanno tante curve strette, a zig-zag?
+- Lo stambecco ha zoccoli adatti ad arrampicarsi sulle rocce. Perché è importante per un animale che vive in al…

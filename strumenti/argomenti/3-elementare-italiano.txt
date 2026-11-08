@@ -1,0 +1,564 @@
+# 3ª elementare · Italiano: 51 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Acqua, cuore e quaderno [lib-3-elementare-italiano-cu-qu-cqu] · ACQUA
+concetti: Quando si usa QU; Quando si usa CU; Le parole con CQU
+- Come si scrive il numero che viene dopo il quattordici?
+- La parola «cuore» si scrive con CU.
+- Nell'___ nuotano tanti pesci colorati.
+- Quale parola è scritta correttamente?
+- Quale gruppo di parole è scritto tutto correttamente?
+- Marco ha scritto: «L'acquila vola sopra l'acqua». Quale parola ha sbagliato?
+- Quale di queste parole si scrive con due Q?
+- Spiega quando si usa CU e quando si usa QU, con un esempio per ciascuno.
+
+## Animali che insegnano: la favola [lib-3-elementare-italiano-favola] · MORALE
+concetti: Che cos'è la favola; La morale; Animali e caratteri; Favola o fiaba?
+- Chi sono di solito i protagonisti delle favole?
+- Esopo è uno dei più famosi autori di favole dell'antica Grecia.
+- L'insegnamento che si ricava da una favola si chiama ___.
+- Nelle favole, quale carattere ha di solito la volpe?
+- Nella favola «La cicala e la formica», la formica lavora d'estate mentre la cicala canta. Qual è la morale?
+- Nella favola «La volpe e l'uva», la volpe non arriva all'uva e dice: «Tanto è acerba!». Che cosa insegna la f…
+- Quale caratteristica distingue la favola dalla fiaba?
+- Nella favola «La lepre e la tartaruga» vince la gara la tartaruga, che è più lenta. Spiega perché vince e qua…
+
+## Caccia alle doppie [lib-3-elementare-italiano-le-doppie] · DOPPIA
+concetti: Che cosa sono le doppie; Doppie che cambiano significato; Ascoltare per scrivere; Le parole in -zione
+- Quale di queste parole contiene una doppia?
+- Nella parola «cammello» ci sono due doppie.
+- Per scavare nella sabbia uso il secchiello e la ___.
+- Che differenza c'è tra «caro» e «carro»?
+- Quale frase è scritta correttamente?
+- Quale di queste parole è scritta correttamente?
+- Cosa succede se scrivi «Ho scritto con la pena» invece di «con la penna»?
+- Come puoi capire se una parola si scrive con la doppia? Spiegalo con un esempio.
+
+## Casette, gattoni e libracci [lib-3-elementare-italiano-nomi-alterati] · CASETTA
+concetti: Diminutivi; Accrescitivi; Vezzeggiativi; Dispregiativi; Falsi alterati
+- Come si chiama un piccolo tavolo?
+- «Librone» indica un libro molto grande.
+- Oggi piove e tira vento: che ___!
+- Qual è l'accrescitivo di «gatto»?
+- Quale nome esprime affetto e tenerezza?
+- Che cosa indica la parola «ragazzaccio»?
+- Quale di queste parole NON è un nome alterato?
+- Spiega perché «bottone» non è l'accrescitivo di «botte».
+
+## Chi fa l'azione? [lib-3-elementare-italiano-persone-del-verbo] · PERSONA
+concetti: Le sei persone; Singolare e plurale; La desinenza svela la persona; Soggetto e verbo d'accordo
+- «Tu salti»: quale persona è?
+- «Lui corre» è una persona plurale.
+- I miei cugini ___ in montagna ogni estate.
+- Senza il pronome, chi fa l'azione in «leggete»?
+- Quale verbo è alla prima persona plurale?
+- Quale frase è scritta correttamente?
+- Metti in ordine le voci del verbo «cantare», dalla prima persona singolare alla terza plurale.
+- Leggi la frase «I bambini gioca in cortile». Spiega che cosa c'è di sbagliato e come si corregge.
+
+## Chi parla? Il dialogo [lib-3-elementare-italiano-discorso-diretto] · DIALOGO
+concetti: Il discorso diretto; Due punti e virgolette; I verbi del dire; Il discorso indiretto
+- Quali segni servono per aprire il discorso diretto?
+- Nel discorso diretto si scrivono le parole esatte dette dal personaggio.
+- «Dove hai messo le chiavi?» ___ la mamma.
+- Quale frase è scritta correttamente?
+- Quale verbo usi se il personaggio parla a voce molto bassa?
+- Quale di queste frasi è un discorso indiretto?
+- Luca disse: «Ho fame». Quale frase lo trasforma bene in discorso indiretto?
+- Scrivi una frase con un discorso diretto e spiega quali segni hai usato.
+
+## Ciliegie, valigie e camicie [lib-3-elementare-italiano-cie-e-gie] · VALIGIA
+concetti: La I che non si sente; Vocale prima: la I resta; Consonante prima: la I cade; Una I che cambia senso
+- In quale parola c'è una I che si scrive ma quasi non si sente?
+- Il plurale di «arancia» è «arance».
+- In vacanza ho portato due ___ piene di vestiti.
+- Qual è il plurale di «goccia»?
+- Perché il plurale di «camicia» si scrive «camicie», con la I?
+- Quale coppia singolare-plurale è scritta correttamente?
+- Che differenza c'è tra «camicie» e «camice»?
+- Spiega perché «valigia» al plurale fa «valigie», mentre «spiaggia» fa «spiagge».
+
+## Come, dove, quando: gli avverbi [lib-3-elementare-italiano-avverbi] · PIANO
+concetti: Che cos'è l'avverbio; Avverbi di modo; Avverbi di luogo; Avverbi di tempo
+- Nella frase «Il gatto mangia lentamente», qual è l'avverbio?
+- Gli avverbi cambiano se il nome è maschile o femminile.
+- Da «facile» si forma l'avverbio ___.
+- Quale di questi è un avverbio di luogo?
+- Quale avverbio di tempo dice che una cosa non succede in nessun momento?
+- Qual è l'avverbio che si forma da «dolce»?
+- Nella frase «Oggi giochiamo fuori», che cosa ci dicono le parole «oggi» e «fuori»?
+- Nella frase «La lepre veloce corre velocemente», spiega che differenza c'è tra «veloce» e «velocemente».
+
+## Descrivere con i cinque sensi [lib-3-elementare-italiano-testo-descrittivo-cinque-sensi] · SENSI
+concetti: Il testo descrittivo; I dati dei sensi; Descrivere con ordine; Gli aggettivi giusti
+- Qual è lo scopo di un testo descrittivo?
+- La frase «Il pane appena sfornato ha un profumo delizioso» usa il senso dell'olfatto.
+- «Il gatto ha il pelo morbido e caldo»: questa informazione arriva dal senso del ___.
+- Quale frase descrive il mare usando l'udito?
+- Quale descrizione della torta è la più precisa?
+- Stai descrivendo una persona dall'alto in basso. Metti in ordine le frasi.
+- Dopo aver descritto l'aspetto fisico di un amico, che cosa puoi descrivere per completare il ritratto?
+- Descrivi un limone in due o tre frasi usando almeno tre sensi diversi e indica quali hai usato.
+
+## Detective delle parole [lib-3-elementare-nomi-articoli-aggettivi] · NOME
+concetti: Il nome; Genere e numero; Gli articoli; Gli aggettivi qualificativi
+- Nella frase «Luca gioca con il cane», qual è il nome proprio?
+- I nomi propri si scrivono sempre con la lettera maiuscola.
+- Oggi sono venute a trovarmi ___ amiche di Sara.
+- Quale di questi articoli è indeterminativo?
+- Nella frase «Il gatto nero dorme sul divano morbido», quali sono gli aggettivi qualificativi?
+- Qual è il plurale di «la mela rossa»?
+- Sara dice: «Passami la matita rossa». Luca dice: «Passami una matita». Che differenza c'è?
+- Perché diciamo «le bambine allegre» e non «le bambine allegro»? Spiega con parole tue.
+
+## Due modi di raccontare il passato [lib-3-elementare-italiano-passato-prossimo-imperfetto] · IERI
+concetti: Il passato prossimo; L'imperfetto; Essere o avere; I due tempi insieme
+- Quale verbo è al passato prossimo?
+- Nella frase «Ieri ho letto un libro» il verbo è all'imperfetto.
+- Quando ero piccolo, ogni estate ___ al mare con i nonni.
+- Come si dice correttamente?
+- Quale frase è una descrizione al passato?
+- Quale ausiliare si usa con il verbo «partire»?
+- In «Dormivo tranquillo quando è suonata la sveglia», che cosa indica «dormivo»?
+- Perché nella frase «Mentre leggevo, è squillato il telefono» si usano due tempi diversi?
+
+## Due parole in una [lib-3-elementare-italiano-nomi-composti] · ARCO
+concetti: Il nome composto; Le parti che si uniscono; Un significato nuovo
+- Quale di questi è un nome composto?
+- «Capotreno» è formato da due parole: capo e treno.
+- Per aprire una scatoletta di tonno usi l'___.
+- Da quali parole è formato «portafoglio»?
+- Quale nome composto è formato da un nome e un aggettivo?
+- Il cavolfiore è...
+- Un edificio altissimo che sembra «grattare il cielo» si chiama...
+- Di quali parole è fatto «attaccapanni»? Spiega perché si chiama così.
+
+## E con l'accento o senza? [lib-3-elementare-italiano-e-accentata-e-congiunzione] · ESSERE
+concetti: È, il verbo essere; E che unisce; C'è e ci sono; C'era e c'erano
+- Nella frase «Il mare … calmo», che cosa manca?
+- Nella frase «Compro mele e pere» la E si scrive senza accento.
+- Nel cortile ___ tre biciclette.
+- Quale trucco ti aiuta a capire se serve «è» con l'accento?
+- Quale frase è scritta correttamente?
+- In quale frase al posto dei puntini va la E senza accento?
+- Marta ha scritto «Ci sono un cane in giardino». Come si corregge?
+- Nella frase «Anna è alta e Luca è basso» ci sono tre E. Spiega quali hanno l'accento e perché.
+
+## Foglie, conigli e olio [lib-3-elementare-italiano-gli-e-li] · FOGLIA
+concetti: Il suono GLI; Il gruppo LI; I plurali in -gli
+- In quale parola senti il suono GLI?
+- Nella parola «olio» senti la L e la I separate, quindi si scrive con LI.
+- In autunno l'albero perde ogni ___.
+- Qual è il plurale di «coniglio»?
+- Quale parola si scrive con LI e non con GLI?
+- Quale frase è scritta correttamente?
+- Marta ha scritto «Ho due ventaglii». Come si corregge?
+- Spiega la differenza di suono e di scrittura tra «foglio» e «olio».
+
+## Frasi che crescono [lib-3-elementare-italiano-espansioni-della-frase] · QUANDO
+concetti: Che cos'è un'espansione; Le domande giuste; Luogo, tempo e modo; Frasi più ricche
+- Quale frase è stata arricchita con un'espansione?
+- Se togli le espansioni da una frase, restano il soggetto e il predicato.
+- In «Ieri sera abbiamo mangiato la pizza», l'espansione «ieri sera» indica il ___.
+- Nella frase «Sara nuota in piscina», a quale domanda risponde «in piscina»?
+- Quale espansione indica il modo, cioè come si fa l'azione?
+- Nella frase «Il papà ripara la bici con il cacciavite», quale domanda porta all'espansione «con il cacciavite…
+- Parti da «Il cane dorme». Quale frase la arricchisce dicendo sia dove sia quando?
+- Arricchisci la frase minima «Marco corre» con due espansioni e spiega a quale domanda risponde ciascuna.
+
+## Gnomi, ragni e gerani [lib-3-elementare-italiano-gn-e-ni] · GNOMO
+concetti: Il suono GN; Dopo GN niente I; GN oppure NI
+- Quale di queste parole contiene il suono GN?
+- Nel gruppo GN le lettere sono due, ma il suono che si sente è uno solo.
+- In inverno sulla ___ cade tanta neve.
+- Quale di queste parole è scritta correttamente?
+- Quale parola si scrive con NI e non con GN?
+- Quale coppia di parole è scritta tutta correttamente?
+- Perché scriviamo «noi sogniamo» con la I dopo GN?
+- Come fai a capire se una parola si scrive con GN o con NI? Fai un esempio.
+
+## Ho, hai, ha, hanno [lib-3-elementare-italiano-h-del-verbo-avere] · HANNO
+concetti: La H del verbo avere; Le parole senza H; Il trucco del verbo avere
+- Quale frase è scritta correttamente?
+- Nella frase «Vuoi il succo o il latte?» la O si scrive senza H.
+- Le mie sorelle ___ una bicicletta rossa.
+- Nella frase «Vado … casa di Luca», che cosa va al posto dei puntini?
+- Come puoi capire se nella frase serve «ha» con la H?
+- Prova il trucco: in quale frase al posto dei puntini serve «ha»?
+- Che differenza c'è tra «hanno» e «anno»?
+- Nella frase «Mia nonna … ottant'anni» serve «ha» oppure «a»? Spiega come lo hai capito.
+
+## Ieri, oggi, domani [lib-3-elementare-italiano-passato-presente-futuro] · TEMPO
+concetti: Tre tempi; Le parole del tempo; Il presente; Tempi d'accordo
+- In quale tempo è il verbo nella frase «Domani visiterò il museo»?
+- Nella frase «Ogni mattina faccio colazione» il verbo è al presente.
+- ___ sono andato dal dentista.
+- Quale di queste voci del verbo è al passato?
+- Metti in ordine le frasi dal passato al futuro.
+- Quale frase ha il verbo nel tempo giusto?
+- Quale parola indica il futuro?
+- Correggi la frase «L'anno scorso Marta compra un cane» e spiega perché è sbagliata.
+
+## Il cappello dell'accento [lib-3-elementare-italiano-accento] · ACCENTO
+concetti: L'accento tonico; L'accento sull'ultima vocale; Accenti che cambiano significato; Le parole brevi
+- Quale di queste parole, scritta qui senza accento, ha bisogno dell'accento sull'ultima vocale?
+- La parola «tre» si scrive senza accento.
+- Il ___ di Marco lavora in banca.
+- Nella parola «pomodoro», su quale sillaba la voce batte più forte?
+- Quale frase è scritta correttamente?
+- Che differenza c'è tra «pero» e «però»?
+- Perché «perché» si scrive con l'accento?
+- Spiega perché è importante scrivere l'accento in «papà». Che cosa succede se lo dimentichi?
+
+## Il mondo al contrario [lib-3-elementare-italiano-contrari] · OPPOSTO
+concetti: Che cosa sono i contrari; Contrari di ogni tipo; Il contrario giusto
+- Qual è il contrario di «pieno»?
+- «Allegro» e «triste» sono contrari.
+- Il contrario di «aprire la porta» è ___ la porta.
+- Qual è il contrario del verbo «entrare»?
+- Qual è il contrario del nome «pace»?
+- Qual è il contrario di «duro» nella frase «Questo esercizio è duro»?
+- In quale frase il contrario di «vecchio» è «giovane»?
+- Riscrivi al contrario la frase «Il bagno è sporco e la luce è accesa» e spiega quali parole hai cambiato.
+
+## Il potere della lettera H [lib-3-elementare-italiano-che-chi-ghe-ghi] · CHIAVE
+concetti: Suono duro con la H; Suono dolce senza H; Plurali con CH e GH
+- In quale parola senti il suono duro di CHI?
+- Nella parola «gelato» la G ha un suono dolce.
+- Il piccolo animale che dorme tutto l'inverno è il ___.
+- Qual è il plurale di «fungo»?
+- Qual è il plurale di «barca»?
+- Se togli la H da «ghiro» leggi «giro». Che cosa è cambiato?
+- Perché si scrive «laghi» e non «lagi»?
+- Spiega a un compagno perché «amica» al plurale si scrive «amiche» con la H.
+
+## Il volo dell'apostrofo [lib-3-elementare-italiano-apostrofo] · AMICA
+concetti: A cosa serve l'apostrofo; Un oppure un'; Dov'è e com'è; Qual è
+- Come si scrive correttamente?
+- Si scrive «un'amico», con l'apostrofo.
+- Nel prato vola ___ ape.
+- Quale frase è scritta correttamente?
+- Quale vocale è caduta nella parola «l'isola»?
+- Come si scrive correttamente?
+- Quale coppia è scritta tutta correttamente?
+- Perché si scrive «un'amica» con l'apostrofo ma «un amico» senza?
+
+## In viaggio nel dizionario [lib-3-elementare-italiano-ordine-alfabetico-dizionario] · LEMMA
+concetti: L'ordine alfabetico; Le lettere dell'alfabeto; Come cercare una parola; Le parole guida
+- Quale parola viene prima in ordine alfabetico?
+- La lettera K fa parte delle 21 lettere dell'alfabeto italiano.
+- Per cercare «mangiavano» nel dizionario cerco il verbo all'infinito: ___.
+- Metti in ordine alfabetico queste parole.
+- Quale gruppo di parole è in ordine alfabetico?
+- In un racconto trovi la parola «bianche». Come la cerchi nel dizionario?
+- Le parole guida in cima a una pagina sono «gallo» e «gatto». Quale parola trovi in quella pagina?
+- Spiega come metti in ordine alfabetico «palla» e «pallone», che cominciano con le stesse lettere.
+
+## Io, tu, lui: i pronomi [lib-3-elementare-italiano-pronomi-personali] · LORO
+concetti: A cosa serve il pronome; I pronomi soggetto; Il soggetto sottinteso
+- Nella frase «Sara è brava. Lei vince sempre», a chi si riferisce «lei»?
+- «Noi» è il pronome che usi quando parli di te insieme ad altre persone.
+- Luca e Marco sono amici: ___ giocano sempre insieme.
+- Perché è utile usare i pronomi?
+- Nella frase «Andiamo al parco», qual è il soggetto sottinteso?
+- Stai parlando con due compagni. Quale pronome usi per rivolgerti a loro?
+- Come capisci chi fa l'azione nella frase «Disegni molto bene»?
+- Riscrivi le frasi «Il nonno legge il giornale. Il nonno beve il caffè.» senza ripetere il nome e spiega la tu…
+
+## Istruzioni per l'uso [lib-3-elementare-italiano-testo-regolativo] · RICETTA
+concetti: A che cosa serve; Le sue parti; L'ordine conta; Verbi che danno istruzioni
+- Quale di questi è un testo regolativo?
+- Nella frase «Mescola la farina con lo zucchero» il verbo dà un'istruzione.
+- In una ricetta, prima delle istruzioni, si trova l'elenco degli ___.
+- Quale frase è scritta come un'istruzione?
+- Metti in ordine le istruzioni per lavarsi bene le mani.
+- Perché nelle istruzioni di montaggio ci sono spesso numeri e disegni?
+- Che cosa succederebbe se, preparando una torta, mettessi l'impasto in forno prima di aggiungere le uova?
+- Perché nel regolamento della classe si scrive «Alza la mano per parlare» e non «Ieri Luca ha alzato la mano»?
+
+## Le preposizioni fanno da ponte [lib-3-elementare-italiano-preposizioni-semplici] · PONTE
+concetti: Che cosa sono; Le nove preposizioni; Cambiano il significato; Tra e fra
+- Quale di queste parole è una preposizione semplice?
+- Le preposizioni semplici cambiano al plurale, come i nomi.
+- Questo regalo è ___ te: buon compleanno!
+- Quale gruppo contiene solo preposizioni semplici?
+- Che differenza c'è tra «Vado con Luca» e «Vado da Luca»?
+- Quale frase è corretta?
+- Perché spesso si preferisce dire «fra tre giorni» invece di «tra tre giorni»?
+- Scrivi due frasi con il verbo «parto» usando due preposizioni diverse e spiega che cosa cambia.
+
+## Le tre parti del racconto [lib-3-elementare-italiano-testo-narrativo] · STORIA
+concetti: Il testo narrativo; Le tre parti; Personaggi, luogo e tempo; Le parole del tempo
+- Quale di questi testi è un testo narrativo?
+- Il protagonista è il personaggio principale della storia.
+- Prima Luca ha fatto colazione, ___ è uscito per andare a scuola.
+- In quale parte del racconto di solito si presentano i personaggi, il luogo e il tempo?
+- Leggi: «Una sera d'inverno, nel bosco, la piccola volpe Rosa cercava qualcosa da mangiare». Dove si svolge la…
+- Metti in ordine i momenti di questa storia.
+- Che cosa si racconta di solito nello svolgimento?
+- Che cosa succederebbe se un racconto avesse solo l'inizio? Spiega perché servono anche svolgimento e conclusi…
+
+## Leggere bene per capire [lib-3-elementare-italiano-leggere-e-capire] · INDIZIO
+concetti: Informazioni scritte; Capire ciò che non è scritto; Parole nuove dal contesto; Titolo e idea principale
+- Leggi: «Sofia ha nove anni e abita a Torino con il suo cane Briciola». Dove abita Sofia?
+- Leggi: «Marco entra in casa, si toglie il cappotto pieno di neve e si scalda le mani». Possiamo capire che fu…
+- Leggi: «Il cane era così affamato che divorò la pappa in un attimo». «Divorò» vuol dire che la ___ molto in f…
+- Leggi: «Anna guarda il cielo grigio e prende l'ombrello prima di uscire». Perché Anna prende l'ombrello?
+- Un testo spiega come le api fanno il miele, come vivono nell'alveare e come aiutano i fiori. Quale titolo è p…
+- Leggi: «Dopo la lunga camminata, i bambini erano esausti e si sedettero subito sull'erba». Che cosa vuol dire…
+- Leggi: «Quando Luca aprì la porta, tutti gridarono: "Sorpresa!". Sul tavolo c'era una torta con nove candelin…
+- Leggi: «Il piccolo riccio passò l'autunno a raccogliere foglie secche per la sua tana. Quando arrivò l'invern…
+
+## Lo, gli, uno: articoli speciali [lib-3-elementare-italiano-lo-gli-uno] · STIVALE
+concetti: Quando si usa lo; Il plurale gli; L'articolo uno
+- Quale articolo va davanti a «specchio»?
+- Il plurale di «lo zaino» è «gli zaini».
+- Nel bosco ho visto ___ scoiattolo.
+- Qual è il plurale di «l'albero»?
+- Quale coppia è scritta correttamente?
+- Quale articolo indeterminativo usi davanti a «psicologo»?
+- Marco ha scritto «I gnomi del bosco». Come si corregge?
+- Perché si dice «il sole» ma «lo stivale», anche se tutte e due le parole iniziano con la S?
+
+## M davanti a B e P [lib-3-elementare-italiano-m-prima-di-b-e-p] · CAMPO
+concetti: La regola della M; La N con le altre; Il trucco delle labbra; Rileggere con attenzione
+- In quale parola c'è il gruppo MP?
+- Davanti alla lettera B si può scrivere sia M sia N.
+- Quando piove apro l'___ per non bagnarmi.
+- In quale parola al posto dei puntini va la N e non la M?
+- Perché è facile ricordare che davanti a B e P va la M?
+- Quale frase è scritta tutta correttamente?
+- Luca ha scritto «Il canpanile è inportante per il paese». Quante parole deve correggere?
+- Spiega perché si scrive «imparare» con la M e «insieme» con la N.
+
+## Maschile e femminile speciali [lib-3-elementare-italiano-maschile-femminile-speciali] · GENERE
+concetti: Femminile regolare; Nomi indipendenti; Femminili in -essa e -trice; Nomi con una sola forma
+- Qual è il femminile di «maestro»?
+- Il femminile di «fratello» è «fratella».
+- Il femminile di «leone» è ___.
+- Qual è il femminile di «attore»?
+- Qual è il femminile di «marito»?
+- Qual è il femminile di «il cantante»?
+- Nella frase «Il nipote di Rosa è arrivato», come capisci che il nipote è un maschio?
+- Spiega che differenza c'è tra la coppia «gatto-gatta» e la coppia «padre-madre».
+
+## Mio, tuo, suo: di chi è? [lib-3-elementare-italiano-aggettivi-possessivi] · NOSTRO
+concetti: Che cosa indicano; L'accordo con il nome; Loro non cambia; Possessivi e parenti
+- Nella frase «Questo è il mio zaino», qual è l'aggettivo possessivo?
+- Si dice «le loro case» e non «le lore case».
+- Ho perso i ___ quaderni di matematica.
+- Un pallone appartiene a te e ai tuoi amici. Come lo chiami tu?
+- Quale frase è scritta correttamente?
+- Quale frase è scritta correttamente?
+- Marco dice a Sara: «Ho trovato ... penna». La penna è di Sara. Che cosa dice Marco?
+- Perché si dice «la sua bicicletta» sia se la bici è di Luca sia se è di Anna?
+
+## Nel regno delle fiabe [lib-3-elementare-italiano-fiaba] · FATA
+concetti: Che cos'è la fiaba; Le formule tipiche; I ruoli dei personaggi; Prove e lieto fine
+- Con quale formula comincia spesso una fiaba?
+- Nelle fiabe il luogo e il tempo di solito non sono precisi, come «in un regno lontano».
+- Nella fiaba di Cappuccetto Rosso il lupo è l'___ perché ostacola la protagonista.
+- Quale di questi elementi è tipico di una fiaba?
+- Nella fiaba di Cenerentola, che ruolo ha la fata madrina?
+- In una fiaba l'eroe riceve un mantello che lo rende invisibile. Che cos'è il mantello?
+- Metti in ordine i momenti tipici di una fiaba.
+- Spiega perché «Cappuccetto Rosso» è una fiaba: indica almeno due elementi tipici.
+
+## Parole che uniscono le frasi [lib-3-elementare-italiano-congiunzioni] · LEGAME
+concetti: A che cosa servono; E, o, ma; Perché e quindi; Se e quando
+- Nella frase «Ho una matita e una gomma», qual è la congiunzione?
+- Nella frase «Prendi l'autobus o vai a piedi?» la congiunzione «o» indica una scelta.
+- Luca è piccolo, ___ è molto forte.
+- Quale congiunzione completa bene «Mi metto il cappotto … fa freddo»?
+- In «Ho studiato tanto, quindi la verifica è andata bene», che cosa indica «quindi»?
+- Quale frase contiene una condizione?
+- Quale frase ha lo stesso significato di «Resto a casa perché ho la febbre»?
+- Unisci le frasi «Il sole splende» e «Fa freddo» con una congiunzione adatta e spiega perché l'hai scelta.
+
+## Parole gemelle: i sinonimi [lib-3-elementare-italiano-sinonimi] · GEMELLO
+concetti: Che cosa sono; Evitare le ripetizioni; Il sinonimo giusto; Verbi più precisi
+- Qual è un sinonimo di «felice»?
+- «Veloce» e «rapido» sono sinonimi.
+- Per non ripetere «bello» scrivo: «Che bel giardino! È proprio un posto ___».
+- Quale coppia NON è formata da sinonimi?
+- Quale parola puoi usare per non ripetere «casa» in «La casa del nonno è una casa antica»?
+- Nella frase «Il pane è fresco», quale parola può prendere il posto di «fresco»?
+- Quale verbo è più preciso di «fa» in «Il nonno fa una casetta di legno per gli uccellini»?
+- «Vecchio» e «anziano» sono sinonimi. Perché si dice «un signore anziano» ma non «una scarpa anziana»?
+
+## Parole mamme e parole figlie [lib-3-elementare-italiano-nomi-primitivi-derivati] · PANE
+concetti: Il nome primitivo; Il nome derivato; Mestieri e negozi; Derivato o alterato
+- Quale di questi nomi è primitivo?
+- «Marinaio» è un nome derivato da «mare».
+- Chi vende il latte è il ___.
+- Come si chiama il negozio dove si comprano i gelati?
+- Quale nome deriva da «libro»?
+- Quale parola NON appartiene alla famiglia di «pane»?
+- Che differenza c'è tra «libreria» e «libretto»?
+- Partendo dal nome primitivo «giardino», scrivi due nomi derivati e spiega che cosa significano.
+
+## Più alto, altissimo! [lib-3-elementare-italiano-gradi-aggettivo] · MASSIMO
+concetti: Grado positivo; Il comparativo; Il superlativo; Forme speciali
+- Quale aggettivo è al superlativo?
+- Nella frase «Luca è più alto di Marco» c'è un comparativo di maggioranza.
+- Il topo è ___ grande dell'elefante.
+- Come puoi dire «molto bello» con una sola parola?
+- Quale frase contiene un comparativo di uguaglianza?
+- In quale frase l'aggettivo è al grado positivo?
+- Quale parola ha lo stesso significato di «buonissimo»?
+- Nella frase «Il ghepardo è il più veloce degli animali di terra», che grado ha l'aggettivo «veloce»? Spiega.
+
+## Plurali che fanno i capricci [lib-3-elementare-italiano-plurali-particolari] · UOVA
+concetti: Il plurale regolare; Nomi invariabili; Plurali irregolari; Solo plurale o solo singolare
+- Qual è il plurale di «fiore»?
+- Il plurale di «la città» è «le città».
+- Al mercato la nonna compra sei ___.
+- Qual è il plurale di «il re»?
+- Qual è il plurale di «uomo»?
+- Quale di questi nomi si usa solo al plurale?
+- Perché si dice «un bar, due bar» e non «due bari»?
+- Un bambino ha scritto «Ho visto due buei nel campo». Spiega l'errore e correggi la frase.
+
+## Preposizione più articolo [lib-3-elementare-italiano-preposizioni-articolate] · INSIEME
+concetti: Come nascono; D'accordo con il nome; Con lo, gli e l'; Con, per, tra e fra
+- Da quali parole nasce «nel»?
+- La preposizione «con» e l'articolo «il» di solito si scrivono staccati: «con il».
+- Ho messo i biscotti ___ scatola rossa.
+- Quale preposizione articolata nasce da «su + i»?
+- Quale espressione è scritta correttamente?
+- Dove salta il gatto? Scegli la frase corretta.
+- Completa: «Lo scoiattolo sale … albero». Quale forma va bene?
+- Spiega da quali parole è formata «dallo» in «Esco dallo stadio» e perché non si dice «dal stadio».
+
+## Punti, virgole e pause [lib-3-elementare-italiano-punteggiatura] · PUNTO
+concetti: Il punto fermo; La virgola; Il punto interrogativo; Il punto esclamativo
+- Quale segno metti alla fine della frase «Quanti anni hai»?
+- In un elenco, prima della «e» finale di solito non si mette la virgola.
+- Per esprimere stupore alla fine di «Che bella sorpresa» metto il punto ___.
+- Dove mancano le virgole in «Nello zaino ho libri quaderni matite e gomma»?
+- Hai finito di raccontare una parte della storia e vuoi cominciarne un'altra su una riga nuova. Che cosa usi?
+- Quale di queste frasi ha bisogno del punto esclamativo?
+- Che cosa cambia tra «Luca è arrivato.» e «Luca è arrivato?»
+- Leggi «Mangiamo nonna!» e «Mangiamo, nonna!». Spiega che cosa cambia grazie alla virgola.
+
+## Quando serve la maiuscola? [lib-3-elementare-italiano-lettere-maiuscole] · GRANDE
+concetti: Inizio della frase; I nomi propri; Giorni e mesi; Dopo la virgola
+- Quale parola va scritta con la lettera maiuscola?
+- In italiano i mesi dell'anno si scrivono con la lettera maiuscola.
+- Dopo il punto esclamativo la parola che segue comincia con la lettera ___.
+- Nella frase «il mio cane fido abita a milano», quante parole vanno scritte con la maiuscola?
+- In quale frase c'è un errore nell'uso della maiuscola?
+- Luca ha scritto «Ho comprato pane, Latte e uova». Quale parola ha sbagliato?
+- Perché si scrive «il Po» con la maiuscola ma «il fiume» con la minuscola?
+- Correggi le maiuscole in «ieri sono andato al mare con luca. abbiamo visto un granchio.» e spiega le tue scel…
+
+## Questo qui, quello là [lib-3-elementare-italiano-aggettivi-dimostrativi] · QUESTO
+concetti: Questo; Quello; Codesto; Le forme di quello
+- Hai un libro in mano. Come lo indichi?
+- «Quella» indica una cosa lontana da chi parla.
+- Guarda ___ zaino rosso laggiù!
+- Quale frase è scritta correttamente?
+- Quale dimostrativo indica una cosa vicina a chi ascolta?
+- Come si dice correttamente?
+- Sei in cima alla collina e vedi un castello in lontananza. Che cosa dici?
+- Spiega la differenza tra «Prendi questa mela» e «Prendi quella mela».
+
+## Sciarpe, pesci e scheletri [lib-3-elementare-italiano-sci-sce-sch] · SCIA
+concetti: SCE e SCI dolci; SCIA, SCIO, SCIU; Il suono duro SCH
+- In quale parola senti il suono dolce di SCI?
+- Nella parola «scheletro» la H serve a dare alla SC un suono duro.
+- D'inverno metto la ___ di lana intorno al collo.
+- Qual è il plurale di «tasca»?
+- Quale parola è scritta correttamente?
+- Attenzione, «pesche» è un frutto! Qual è il plurale di «pesce»?
+- Perché «bosco» al plurale si scrive «boschi»?
+- Spiega perché nella parola «sciarpa» c'è la I, anche se quasi non si sente.
+
+## Si tocca o si sente? [lib-3-elementare-italiano-nomi-concreti-astratti] · GIOIA
+concetti: Nomi concreti; Nomi astratti; Astratti da aggettivi
+- Quale di questi nomi è concreto?
+- «Coraggio» è un nome astratto.
+- Chi è gentile mostra ___.
+- Quale di questi nomi è astratto?
+- Il profumo delle rose non si può toccare. È un nome concreto o astratto?
+- Quale nome astratto deriva dall'aggettivo «triste»?
+- In quale frase c'è un nome astratto?
+- Spiega perché «musica» è un nome concreto e «allegria» è un nome astratto.
+
+## Soggetto e predicato al lavoro [lib-3-elementare-italiano-frase-minima] · FRASE
+concetti: La frase ha senso; Il soggetto; Il predicato; La frase minima
+- Quale di questi gruppi di parole è una frase?
+- Nella frase «Il cane abbaia», il predicato è «abbaia».
+- Per trovare il soggetto mi chiedo: «___ compie l'azione?»
+- Nella frase «Il treno parte alle otto», qual è il soggetto?
+- Nella frase «La mamma prepara una torta per tutti», qual è il predicato?
+- Quale di queste è una frase minima?
+- Nella frase «Nel cielo brillano le stelle», chi compie l'azione?
+- Trasforma «Ogni sera il piccolo Luca dorme nel suo letto» in una frase minima e spiega come hai fatto.
+
+## Stessa parola, tanti significati [lib-3-elementare-italiano-parole-omonime] · RISO
+concetti: Che cosa sono gli omonimi; Capire dal contesto; Nomi o verbi?
+- Quale di queste parole ha due significati molto diversi?
+- La parola «calcio» indica solo uno sport.
+- Mio fratello ___ sull'albero per prendere il pallone.
+- Nella frase «La fiera del paese era piena di bancarelle», che cosa vuol dire «fiera»?
+- In quale frase «pianta» indica una carta che mostra un luogo visto dall'alto?
+- Nella frase «Luca porta il pane alla nonna», che cos'è «porta»?
+- Marta legge: «Ho visto le penne sul tavolo». Come può capire se sono penne per scrivere, piume o pasta?
+- Scrivi due frasi con la parola «riso» usando i suoi due significati e spiega la differenza.
+
+## Taglia le parole a pezzetti [lib-3-elementare-italiano-divisione-in-sillabe] · SILLABA
+concetti: Che cos'è la sillaba; Le doppie si dividono; Gruppi che restano uniti; L, M, N, R e consonante
+- In quante sillabe si divide la parola «telefono»?
+- La parola «palla» si divide così: pa-lla.
+- La parola «finestra» si divide così: fi-ne-___.
+- Qual è la divisione giusta della parola «acqua»?
+- Quale parola è divisa correttamente?
+- Qual è la divisione giusta della parola «albero»?
+- Sei a fine riga e «mattina» non ci sta tutta. Come la spezzi per andare a capo?
+- Dividi in sillabe la parola «cappello» e spiega quale regola hai usato.
+
+## Tanti in una parola [lib-3-elementare-italiano-nomi-collettivi] · STORMO
+concetti: Il nome collettivo; Gruppi di animali; Gruppi di persone e cose; Collettivo e verbo
+- Come si chiama un gruppo di pecore?
+- «Bambini» è un nome collettivo.
+- Le api vivono insieme e volano in uno ___.
+- Come si chiama un gruppo di navi?
+- Quale nome collettivo indica tanti musicisti che suonano insieme?
+- Quale frase è scritta correttamente?
+- Che differenza c'è tra «alberi» e «bosco»?
+- Perché si dice «Il gregge pascola» e non «Il gregge pascolano», anche se le pecore sono tante?
+
+## Tre famiglie di verbi [lib-3-elementare-italiano-verbi-e-coniugazioni] · VERBO
+concetti: Che cos'è il verbo; L'infinito; Le tre coniugazioni; Radice e desinenza
+- Nella frase «Il gatto salta sul muro», qual è il verbo?
+- «Mangiavo» è un verbo all'infinito.
+- I verbi che all'infinito finiscono in -ere appartengono alla ___ coniugazione.
+- Qual è l'infinito di «scriviamo»?
+- Metti in ordine i passaggi per scoprire la coniugazione di «dormivano».
+- Quale gruppo contiene solo verbi della prima coniugazione?
+- In «parlo, parli, parla», quale parte del verbo resta sempre uguale?
+- Luca dice che «andare» è un verbo della seconda coniugazione perché dentro c'è la lettera E. Ha ragione? Spie…
+
+## Un pezzetto davanti alla parola [lib-3-elementare-italiano-prefissi] · INIZIO
+concetti: Che cos'è un prefisso; Prefissi che dicono no; Ri-, pre- e super-; Falsi prefissi
+- Quale parola è formata con un prefisso?
+- «Ricominciare» vuol dire cominciare di nuovo.
+- Questo esercizio non si può proprio fare: è ___.
+- Qual è il contrario di «ordinato» formato con un prefisso?
+- Che cosa significa il prefisso «pre-» nella parola «preistoria»?
+- Che cosa significa «scontento»?
+- In quale parola «ri-» NON è un prefisso?
+- Aggiungi un prefisso a «felice» per ottenere il suo contrario e spiega come hai fatto.
+
+## Versi, strofe e rime [lib-3-elementare-italiano-poesia-versi-strofe-rime] · RIMA
+concetti: Versi e strofe; La rima; Rima baciata e alternata; La similitudine
+- Quale parola fa rima con «cuore»?
+- In una poesia un gruppo di versi si chiama strofa.
+- Completa in rima: «La luna brilla nel cielo / e il prato è coperto di ___».
+- Perché «sole» e «viole» fanno rima?
+- In una strofa il primo verso rima con il secondo e il terzo con il quarto. Che rima è?
+- Leggi: «Cade la neve bianca, / copre il prato e il sentiero, / la volpe è un po' stanca, / dorme sotto il pin…
+- Quale di queste frasi contiene una similitudine?
+- Inventa una similitudine per descrivere la neve e spiega che cosa hai confrontato.

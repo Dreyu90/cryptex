@@ -1,0 +1,553 @@
+# 5ª elementare · Geografia: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Abruzzo, la regione verde [lib-5-elementare-geografia-abruzzo] · SASSO
+concetti: Montagne; Parchi; Città; Tradizioni
+- Qual è il capoluogo dell'Abruzzo?
+- La vetta più alta dell'Appennino è il Corno Grande, nel massiccio del Gran ___.
+- L'Abruzzo è chiamato la regione verde d'Europa perché ha molti parchi e riserve naturali.
+- Qual è la città più popolosa dell'Abruzzo?
+- Quale altro grande massiccio montuoso si trova in Abruzzo?
+- Che cos'era la transumanza?
+- Perché i pastori abruzzesi d'inverno portavano le greggi in Puglia?
+- Quali attività economiche possono nascere in una regione con tanti parchi e montagne come l'Abruzzo, senza da…
+
+## Basilicata, la terra dei Sassi [lib-5-elementare-geografia-basilicata] · MATERA
+concetti: Il territorio; Città e province; I Sassi di Matera; Risorse
+- Qual è il capoluogo della Basilicata?
+- La Basilicata è chiamata anche ___.
+- La Basilicata si affaccia su due mari: il Tirreno e lo Ionio.
+- Che cosa sono i Sassi di Matera?
+- In quale anno Matera è stata Capitale europea della cultura?
+- Quale risorsa naturale si estrae nella Val d'Agri?
+- Qual è il parco nazionale più grande d'Italia, tra Basilicata e Calabria?
+- Un tempo i Sassi di Matera erano considerati un luogo povero, oggi sono visitati da turisti di tutto il mondo…
+
+## Calabria, la punta dello Stivale [lib-5-elementare-geografia-calabria] · SILA
+concetti: Il territorio; Città; Storia; Prodotti
+- Qual è il capoluogo della Calabria?
+- Quali mari bagnano la Calabria?
+- Il grande altopiano boscoso della Calabria si chiama ___.
+- I Bronzi di Riace sono due statue greche ritrovate in fondo al mare.
+- Quale popolo fondò colonie come Crotone, Locri e Sibari?
+- Quale agrume, usato per profumi e dolci, cresce quasi solo in Calabria?
+- Quale braccio di mare separa la Calabria dalla Sicilia?
+- Perché secondo te in una regione montuosa come la Calabria i paesi e le città più grandi si trovano soprattut…
+
+## Campania, tra vulcani e golfi [lib-5-elementare-geografia-campania] · VESUVIO
+concetti: Napoli e la popolazione; I vulcani; Coste e isole; Arte e prodotti
+- Qual è il capoluogo della Campania?
+- Nel 79 d.C. l'eruzione del ___ seppellì Pompei ed Ercolano.
+- La Campania è la regione italiana più densamente popolata.
+- Quale di queste isole si trova nel Golfo di Napoli?
+- Che cosa sono i Campi Flegrei?
+- Che cosa si può visitare a Paestum?
+- Perché la cenere del Vesuvio ha permesso di conoscere così bene la vita a Pompei?
+- Molte persone vivono ancora vicino al Vesuvio. Perché secondo te i terreni vicino ai vulcani sono stati sempr…
+
+## Chi governa l'Unione europea [lib-5-elementare-geografia-ue-istituzioni] · EUROPA
+concetti: Il Parlamento europeo; La Commissione europea; I Consigli; Altre istituzioni
+- Chi elegge il Parlamento europeo?
+- La sede principale del Parlamento europeo è a ___, in Francia.
+- La Commissione europea ha sede a Bruxelles, in Belgio.
+- Qual è uno dei compiti principali della Commissione europea?
+- Chi si riunisce nel Consiglio europeo?
+- Di che cosa si occupa la Banca centrale europea?
+- Due Paesi dell'Unione non sono d'accordo su come applicare una legge europea. Quale istituzione può risolvere…
+- Perché secondo te è importante che anche i cittadini, e non solo i governi, partecipino alle scelte dell'Unio…
+
+## Come nasce l'Unione europea [lib-5-elementare-geografia-ue-storia] · PACE
+concetti: Dopo la guerra; I primi passi; Il Trattato di Maastricht; L'Unione si allarga
+- Qual era l'obiettivo principale di chi pensò di unire i Paesi europei dopo la seconda guerra mondiale?
+- Nel 1957 i Trattati di ___ fondarono la Comunità economica europea.
+- Quanti erano i Paesi fondatori della Comunità economica europea?
+- Il Regno Unito fa ancora parte dell'Unione europea.
+- Metti in ordine questi fatti della storia europea, dal più antico al più recente.
+- Che cosa cambiò con il Trattato di Maastricht?
+- Quanti sono oggi gli Stati membri dell'Unione europea?
+- Perché secondo te unire i Paesi in un'organizzazione comune aiuta a mantenere la pace?
+
+## Come nasce una legge [lib-5-elementare-geografia-come-nasce-una-legge] · LEGGE
+concetti: La proposta; L'approvazione; La promulgazione; La pubblicazione
+- Quanti cittadini devono firmare, almeno, per proporre una legge?
+- Basta che una legge sia approvata dalla sola Camera dei deputati perché sia valida.
+- La firma del Presidente della Repubblica su una legge approvata si chiama ___.
+- Dove viene pubblicata una nuova legge?
+- Metti in ordine le tappe del cammino di una legge.
+- Il Senato modifica una proposta già approvata dalla Camera. Che cosa succede?
+- Perché una legge viene pubblicata prima di entrare in vigore?
+- Immagina che la tua classe voglia proporre una legge per avere più piste ciclabili. Che cosa dovreste fare pe…
+
+## Dentro il Parlamento italiano [lib-5-elementare-geografia-parlamento] · SENATO
+concetti: Due Camere; Le sedi; I parlamentari; Elezioni e compiti
+- Da quante Camere è formato il Parlamento italiano?
+- La Camera dei deputati si riunisce a Palazzo ___.
+- Quanti sono i deputati eletti alla Camera?
+- Il Parlamento italiano viene eletto ogni 5 anni.
+- Quale di questi è un compito del Parlamento?
+- Che cosa sono i senatori a vita?
+- Il telegiornale dice: «Oggi a Palazzo Madama si vota una nuova legge». Quale Camera sta votando?
+- Perché è importante che il Parlamento sia eletto dai cittadini?
+
+## Diritti e doveri del cittadino [lib-5-elementare-geografia-diritti-doveri] · DOVERE
+concetti: I diritti; Il diritto all'istruzione; I doveri; Diritti e doveri insieme
+- Quale di questi è un diritto garantito dalla Costituzione?
+- Secondo la Costituzione, l'istruzione dei primi anni di scuola è obbligatoria e gratuita.
+- Perché i cittadini devono pagare le tasse?
+- Ognuno deve contribuire alle spese pubbliche in base alle sue ___.
+- Scrivere un articolo su un giornale per esprimere la propria opinione è un esempio di...
+- Un ragazzo ascolta la musica ad altissimo volume di notte. Quale principio non sta rispettando?
+- Perché la scuola deve essere aperta a tutti, anche a chi non ha soldi?
+- Scegli un diritto e spiega quale dovere gli è collegato.
+
+## Due piccoli Stati in Italia [lib-5-elementare-geografia-san-marino-vaticano] · TITANO
+concetti: San Marino; Il governo di San Marino; Città del Vaticano; Tesori del Vaticano
+- Qual è lo Stato più piccolo del mondo?
+- Città del Vaticano è governata dal ___.
+- Tra quali regioni italiane si trova San Marino?
+- San Marino è una delle repubbliche più antiche del mondo.
+- Chi guida la Repubblica di San Marino?
+- Chi affrescò la volta della Cappella Sistina?
+- Metti in ordine questi avvenimenti legati a San Marino e al Vaticano, dal più antico al più recente.
+- San Marino e il Vaticano sono circondati dall'Italia, eppure sono Stati indipendenti. Che cosa significa esse…
+
+## Emilia-Romagna, lungo la via Emilia [lib-5-elementare-geografia-emilia-romagna] · PIANURA
+concetti: Il territorio; La via Emilia; Cibo ed economia; Arte e storia
+- Qual è il capoluogo dell'Emilia-Romagna?
+- L'Emilia-Romagna si affaccia sul Mar Tirreno.
+- La via Emilia è un'antica strada costruita dai ___.
+- Metti in ordine queste città che si incontrano percorrendo la via Emilia da Piacenza verso il mare.
+- Quale formaggio famoso nel mondo è prodotto in Emilia-Romagna?
+- Per che cosa è famosa la città di Ravenna?
+- In quale città nacque il tricolore italiano nel 1797?
+- Perché secondo te la pianura dell'Emilia-Romagna è adatta all'agricoltura e all'allevamento, e come questo ha…
+
+## Euro, stelle e Inno alla gioia [lib-5-elementare-geografia-euro-simboli-ue] · EURO
+concetti: L'euro; La bandiera europea; Inno e motto; Festa dell'Europa
+- Quale moneta usiamo in Italia?
+- Le banconote e le monete in euro sono entrate in circolazione nel ___.
+- Com'è fatta la bandiera dell'Unione europea?
+- Le stelle della bandiera europea sono tante quanti i Paesi dell'Unione.
+- Chi compose la musica dell'Inno alla gioia, inno dell'Unione europea?
+- Che cosa significa il motto Unita nella diversità?
+- Perché il 9 maggio si festeggia l'Europa?
+- Quali vantaggi ha una moneta comune per chi viaggia o fa acquisti in Europa?
+
+## Friuli-Venezia Giulia, terra di confine [lib-5-elementare-geografia-friuli-venezia-giulia] · CARSO
+concetti: Una regione di confine; Trieste e le città; Il Carso; Lingue e storia
+- Qual è il capoluogo del Friuli-Venezia Giulia?
+- Con quali Stati confina il Friuli-Venezia Giulia?
+- Il Friuli-Venezia Giulia è una regione a statuto speciale.
+- Il vento freddo e fortissimo che soffia spesso a Trieste si chiama ___.
+- Che cosa ha scavato l'acqua nella roccia calcarea del Carso?
+- Quale lingua, oltre all'italiano, è parlata da molti abitanti del Friuli?
+- Perché Aquileia è patrimonio dell'umanità UNESCO?
+- Perché secondo te in una regione di confine come il Friuli-Venezia Giulia si parlano più lingue?
+
+## Giudici e tribunali [lib-5-elementare-geografia-magistratura-giudici] · GIUDICE
+concetti: Il compito dei giudici; L'indipendenza; I gradi di giudizio; La Corte costituzionale
+- Due vicini litigano perché l'albero di uno ha rovinato il muro dell'altro e non riescono a mettersi d'accordo…
+- La decisione finale di un giudice al termine di un processo si chiama ___.
+- I giudici devono obbedire agli ordini del Governo quando decidono un processo.
+- Chi presiede il Consiglio superiore della magistratura?
+- Metti in ordine i gradi di giudizio, dal primo all'ultimo.
+- Di che cosa si occupa la Corte costituzionale?
+- Perché è utile che si possa ricorrere in appello contro una sentenza?
+- Che cosa significa la scritta La legge è uguale per tutti presente nei tribunali?
+
+## I parchi nazionali italiani [lib-5-elementare-geografia-parchi-nazionali] · PARCO
+concetti: A che cosa servono; Il Gran Paradiso; Il Parco d'Abruzzo; Le regole del parco
+- A che cosa serve un parco nazionale?
+- Il simbolo del Parco nazionale del Gran Paradiso è lo ___.
+- Il Parco nazionale del Gran Paradiso è il più antico d'Italia.
+- Quale animale raro è protetto nel Parco nazionale d'Abruzzo, Lazio e Molise?
+- Durante una gita nel parco vedi delle stelle alpine. Che cosa è giusto fare?
+- Tra quali regioni si trova il Parco nazionale del Gran Paradiso?
+- Perché nei parchi è vietato accendere fuochi?
+- Perché secondo te è importante proteggere animali come lo stambecco o l'orso marsicano?
+
+## I principi che ci uniscono [lib-5-elementare-geografia-principi-fondamentali] · LAVORO
+concetti: Articolo 1; Uguaglianza; Pace e ripudio della guerra; Cultura, ambiente e bandiera
+- Che cosa dice l'articolo 1 della Costituzione?
+- Secondo la Costituzione la sovranità, cioè il potere di decidere, appartiene al ___.
+- Secondo l'articolo 3, una persona può essere trattata diversamente dalla legge a causa della sua religione.
+- Che cosa significa che l'Italia ripudia la guerra?
+- Come è descritta la bandiera italiana nell'articolo 12?
+- In una classe un bambino viene escluso dal gioco perché parla un'altra lingua. Quale principio della Costituz…
+- Quale di queste azioni rispetta il principio di tutela del patrimonio storico e artistico?
+- Spiega con un esempio della vita di tutti i giorni che cosa significa che tutti sono uguali davanti alla legg…
+
+## Il Comune, casa di tutti [lib-5-elementare-geografia-comune-sindaco] · SINDACO
+concetti: Che cos'è il Comune; Gli organi del Comune; I servizi del Comune; Le spese del Comune
+- Chi è a capo del Comune?
+- Il sindaco e il consiglio comunale sono eletti dai cittadini ogni 5 anni.
+- Il marciapiede davanti alla tua scuola è rotto. A quale ente si rivolge di solito la tua famiglia?
+- Gli assessori, che aiutano il sindaco a governare il Comune, formano la ___ comunale.
+- Quale di questi servizi NON dipende dal Comune?
+- Che cosa sono le frazioni di un Comune?
+- Da dove arrivano i soldi che il Comune usa per i suoi servizi?
+- Se fossi sindaco del tuo Comune per un giorno, quale servizio miglioreresti e perché? Indica anche chi ti aiu…
+
+## Il Governo e i ministri [lib-5-elementare-geografia-governo-ministri] · GOVERNO
+concetti: Chi forma il Governo; I ministeri; La nascita del Governo; Sede e compiti
+- Chi guida il Governo italiano?
+- Il Governo ha sede a Palazzo ___, a Roma.
+- Di che cosa si occupa il ministro dell'Istruzione?
+- Il Presidente del Consiglio viene nominato dal Presidente della Repubblica.
+- Quale di questi è un compito del Governo?
+- Metti in ordine le tappe della nascita di un nuovo Governo.
+- Che cosa succede se il Governo non ottiene la fiducia del Parlamento?
+- Perché secondo te ogni ministro si occupa di un settore diverso?
+
+## Il Presidente della Repubblica [lib-5-elementare-geografia-presidente-repubblica] · COLLE
+concetti: Il Capo dello Stato; L'elezione; Durata e sede; I compiti
+- Quanto dura il mandato del Presidente della Repubblica?
+- La sede del Presidente della Repubblica è il Palazzo del ___.
+- Il Presidente della Repubblica viene eletto direttamente da tutti i cittadini.
+- Quanti anni deve avere almeno chi viene eletto Presidente della Repubblica?
+- Che cosa significa che il Presidente rappresenta l'unità nazionale?
+- Quale di questi compiti spetta al Presidente della Repubblica?
+- Perché si dice che il Presidente della Repubblica è un garante della Costituzione?
+- Perché secondo te è utile che il Capo dello Stato sia una figura al di sopra dei partiti politici?
+
+## Il voto, voce dei cittadini [lib-5-elementare-geografia-elezioni-voto] · SCHEDA
+concetti: Chi può votare; Come si vota; Le elezioni; Il referendum
+- A quale età si può votare in Italia?
+- Il voto è segreto: nessuno può sapere per chi ha votato una persona se lei non lo dice.
+- Il diritto di voto per tutti i cittadini maggiorenni, uomini e donne, si chiama suffragio ___.
+- Che cosa significa che il voto è uguale?
+- Che cosa decidono i cittadini con un referendum?
+- Quale di queste NON è un'elezione a cui partecipano i cittadini italiani?
+- Perché si dice che votare è un dovere civico?
+- Nella tua classe dovete scegliere la meta della gita. Come organizzeresti una votazione giusta, seguendo le r…
+
+## L'Italia sulla carta d'Europa [lib-5-elementare-geografia-italia-confini-mari] · CONFINE
+concetti: Posizione dell'Italia; Stati confinanti; I mari italiani; Confini naturali
+- In quale parte dell'Europa si trova l'Italia?
+- Quale di questi Stati NON confina con l'Italia?
+- San Marino e Città del Vaticano sono due Stati indipendenti che si trovano dentro il territorio italiano.
+- Il mare che bagna la costa orientale della penisola, tra l'Italia e i Balcani, si chiama Mar ___.
+- Una nave parte da Genova e vuole arrivare a Napoli restando vicino alla costa. In quali mari naviga?
+- Metti in ordine gli Stati che confinano con l'Italia lungo le Alpi, da ovest verso est.
+- Perché si dice che a nord l'Italia ha un confine naturale?
+- Secondo te, perché la posizione dell'Italia al centro del Mediterraneo è stata importante nella sua storia?
+
+## Lavori in tre settori [lib-5-elementare-geografia-settori-economici] · SETTORE
+concetti: Il settore primario; Il settore secondario; Il settore terziario; Le filiere
+- A quale settore appartiene un pescatore?
+- Un operaio che lavora in una fabbrica di automobili appartiene al settore...
+- Insegnanti, medici e commessi lavorano nel settore ___.
+- In Italia la maggior parte delle persone lavora nel settore terziario.
+- Quale di questi lavori appartiene al settore secondario?
+- Metti in ordine le tappe del percorso del latte, dalla stalla alla tua tavola.
+- Perché un panettiere può essere considerato un artigiano del settore secondario?
+- Scegli un oggetto che usi ogni giorno e racconta come i tre settori economici hanno contribuito a fartelo ave…
+
+## Lazio, la regione della capitale [lib-5-elementare-geografia-lazio] · ROMA
+concetti: Roma capitale; Il territorio; Le province; La bonifica
+- Qual è il capoluogo del Lazio?
+- Il fiume che attraversa Roma si chiama ___.
+- Roma è la capitale d'Italia dal 1861.
+- Come si sono formati i laghi di Bolsena e Bracciano?
+- Quale di queste città è capoluogo di provincia nel Lazio?
+- Che cosa era l'Agro Pontino prima della bonifica?
+- Metti in ordine le città che sono state capitali d'Italia, dalla prima all'ultima.
+- Perché secondo te bonificare una zona paludosa migliorava la vita delle persone?
+
+## Le Dolomiti del Trentino-Alto Adige [lib-5-elementare-geografia-trentino-alto-adige] · MELA
+concetti: Due province autonome; Lingue diverse; Montagne e fiumi; Economia e curiosità
+- Qual è il capoluogo del Trentino-Alto Adige?
+- Il fiume che attraversa la regione, secondo in Italia per lunghezza, è l'___.
+- In Alto Adige la maggior parte degli abitanti parla tedesco.
+- Perché le Dolomiti sono famose nel mondo?
+- Quale frutto è coltivato in grandi quantità in Val di Non?
+- Perché il Trentino-Alto Adige è una regione a statuto speciale?
+- Chi è Ötzi, conservato nel museo di Bolzano?
+- In questa regione l'acqua dei fiumi di montagna viene usata per produrre energia. Spiega perché le zone di mo…
+
+## Leggere la carta politica [lib-5-elementare-geografia-carta-politica-scala] · SCALA
+concetti: La carta politica; La legenda; La scala di riduzione; Carte diverse
+- Che cosa mostra soprattutto una carta politica?
+- La parte della carta che spiega il significato dei simboli si chiama ___.
+- Una carta che mostra solo dove si coltivano gli agrumi in Italia è una carta tematica.
+- Su una carta in scala 1:1.000.000 due città distano 5 cm. Quanti km le separano nella realtà?
+- Su una carta in scala 1:2.000.000 una strada è lunga 4 cm. Quanto è lunga nella realtà?
+- Vuoi sapere dove si trovano le catene montuose della Sardegna. Quale carta usi?
+- Sulla carta politica d'Italia, come si riconosce di solito un capoluogo di regione?
+- Perché per una carta dell'Italia intera si usa una scala più piccola, per esempio 1:5.000.000, rispetto alla …
+
+## Liguria, tra mare e monti [lib-5-elementare-geografia-liguria] · PORTO
+concetti: Il territorio; Le Riviere; Genova e il porto; Terrazzamenti e fiori
+- Qual è il capoluogo della Liguria?
+- Come si chiama la costa ligure a ovest di Genova?
+- La Liguria ha grandi pianure adatte all'agricoltura.
+- Per coltivare sui pendii ripidi i liguri hanno costruito i ___, ripiani sostenuti da muretti a secco.
+- Quale famoso navigatore nacque a Genova?
+- Per quale coltivazione è famosa la zona di Sanremo?
+- Perché in Liguria il clima è mite anche d'inverno?
+- Perché secondo te la Liguria ha sviluppato soprattutto attività legate al mare, come il porto, la pesca e il …
+
+## Lombardia, la regione più popolosa [lib-5-elementare-geografia-lombardia] · MILANO
+concetti: La regione più popolosa; I laghi; Fiumi e territorio; Economia e arte
+- Quanti abitanti ha circa la Lombardia?
+- Il capoluogo della Lombardia è ___.
+- Qual è il lago più grande d'Italia?
+- La Lombardia confina con la Svizzera.
+- Quale di questi fiumi è un affluente del Po che attraversa la Lombardia?
+- Quale celebre dipinto di Leonardo da Vinci si trova a Milano?
+- Perché in Lombardia si sono sviluppate tante industrie?
+- I laghi lombardi sono una grande risorsa. Spiega in quali modi possono essere utili alla popolazione.
+
+## Marche, tra Appennino e Adriatico [lib-5-elementare-geografia-marche] · URBINO
+concetti: Il territorio; Città e province; Personaggi famosi; Natura ed economia
+- Qual è il capoluogo delle Marche?
+- Su quale mare si affacciano le Marche?
+- Il poeta Giacomo Leopardi nacque a Recanati, nelle Marche.
+- Il grande pittore ___ nacque a Urbino nel 1483.
+- Perché si dice che le valli marchigiane formano un pettine?
+- Quale famosa grotta si trova nelle Marche?
+- Quale compositore, autore del Barbiere di Siviglia, nacque a Pesaro?
+- L'economia delle Marche si basa su molte piccole imprese, spesso di famiglia. Quali vantaggi può avere una pi…
+
+## Molise, la regione più giovane [lib-5-elementare-geografia-molise] · ISERNIA
+concetti: Una regione giovane; Piccola e poco popolata; Città e territorio; Tradizioni
+- Qual è il capoluogo del Molise?
+- Il Molise è diventato una regione separata dall'Abruzzo nel 1963.
+- Il Molise è la seconda regione più piccola d'Italia, dopo la ___.
+- Su quale mare si affaccia la breve costa del Molise?
+- Il Molise ha circa 290.000 abitanti, la Lombardia circa 10 milioni. Quante volte, più o meno, gli abitanti de…
+- Per quale prodotto artigianale è famosa la città di Agnone?
+- Che cosa sono i tratturi che attraversano il Molise?
+- Il Molise ha pochi abitanti e molti piccoli paesi. Quali vantaggi e quali difficoltà può avere vivere in un p…
+
+## Nasce la Costituzione italiana [lib-5-elementare-geografia-costituzione-nascita] · CARTA
+concetti: Il referendum del 1946; L'Assemblea Costituente; L'entrata in vigore; La legge più importante
+- Che cosa scelsero gli italiani con il referendum del 2 giugno 1946?
+- Nel referendum del 1946 votarono per la prima volta in un voto nazionale anche le donne.
+- La Costituzione italiana è entrata in vigore il 1° gennaio ___.
+- Chi scrisse la Costituzione?
+- Metti in ordine questi fatti, dal più antico al più recente.
+- Quanti articoli ha la Costituzione italiana?
+- Che cosa succede se il Parlamento approva una legge che va contro la Costituzione?
+- Perché è importante che uno Stato abbia una Costituzione scritta?
+
+## Piemonte, ai piedi dei monti [lib-5-elementare-geografia-piemonte] · TORINO
+concetti: Il territorio; Torino; Agricoltura; Industria
+- Qual è il capoluogo del Piemonte?
+- Il fiume più lungo d'Italia, il Po, nasce in Piemonte sul Monte ___.
+- Che cosa significa il nome Piemonte?
+- Torino fu la prima capitale del Regno d'Italia.
+- Che cosa si coltiva soprattutto nelle pianure di Vercelli e Novara?
+- Per quale prodotto pregiato sono famose le colline di Alba?
+- Quale settore industriale è legato da tempo a Torino?
+- Il Piemonte ha montagne, colline e pianure. Spiega come ogni ambiente offre attività economiche diverse.
+
+## Puglia, il tacco dello Stivale [lib-5-elementare-geografia-puglia] · TRULLO
+concetti: Il territorio; Gargano, Tavoliere e Salento; Monumenti; Agricoltura
+- Qual è il capoluogo della Puglia?
+- Il promontorio che forma lo sperone dello Stivale si chiama ___.
+- La Puglia è bagnata sia dal Mar Adriatico sia dal Mar Ionio.
+- Che cosa sono i trulli di Alberobello?
+- Come si chiama la grande pianura della Puglia settentrionale?
+- Per quale prodotto la Puglia è la prima regione italiana?
+- Che forma ha la pianta di Castel del Monte, fatto costruire da Federico II?
+- La Puglia è soprattutto pianeggiante e ha un clima caldo e asciutto. Perché secondo te queste caratteristiche…
+
+## Quanti siamo in Italia? [lib-5-elementare-geografia-popolazione-italiana] · POPOLO
+concetti: Gli abitanti; La densità; Le migrazioni; Una popolazione che invecchia
+- Quanti abitanti ha circa l'Italia?
+- Qual è la città più popolosa d'Italia?
+- Il numero medio di abitanti per ogni km² si chiama ___ di popolazione.
+- Un Comune ha 6.000 abitanti e una superficie di 30 km². Qual è la sua densità di popolazione?
+- In Italia le zone di montagna sono di solito più popolate delle pianure.
+- Dove si spostarono molti italiani del Sud negli anni Cinquanta e Sessanta?
+- Perché si dice che la popolazione italiana sta invecchiando?
+- Molti italiani in passato sono emigrati, oggi molte persone arrivano in Italia da altri Paesi. Quali motivi s…
+
+## Ripasso: cittadini d'Italia e d'Europa [lib-5-elementare-geografia-ripasso-stato-europa] · STATO
+concetti: Gli elementi dello Stato; I livelli di governo; La cittadinanza europea; Le date fondamentali
+- Quali sono i tre elementi che formano uno Stato?
+- Un cittadino italiano è anche cittadino dell'Unione europea.
+- La tua famiglia deve rinnovare la carta d'identità. A quale ente si rivolge?
+- Metti in ordine queste date, dalla più antica alla più recente.
+- Come cittadino europeo, potrai votare per eleggere il Parlamento ___.
+- Quale di questi temi viene deciso anche a livello di Unione europea?
+- Che cosa significa che lo Stato ha la sovranità?
+- Racconta una giornata qualsiasi e indica almeno tre momenti in cui usi qualcosa che dipende dal Comune, dalla…
+
+## Ripasso: i capoluoghi di regione [lib-5-elementare-geografia-ripasso-capoluoghi] · MAPPA
+concetti: Capoluoghi del Nord; Capoluoghi del Centro; Capoluoghi del Sud e delle isole; Capoluogo e città più grande
+- Di quale regione è capoluogo Trieste?
+- Ancona è il capoluogo di quale regione?
+- Napoli e Palermo sono due capoluoghi che si affacciano sul Mar ___.
+- In Calabria il capoluogo di regione è anche la città con più abitanti.
+- Metti in ordine questi capoluoghi da nord a sud.
+- Quale di questi capoluoghi di regione NON si affaccia sul mare?
+- Quale coppia regione-capoluogo è SBAGLIATA?
+- Secondo te, perché in alcune regioni il capoluogo non è la città più popolosa? Fai un esempio.
+
+## Ripasso: l'Italia centrale [lib-5-elementare-geografia-ripasso-italia-centro] · CENTRO
+concetti: Le regioni del Centro; L'Appennino; Fiumi e laghi; Storia e cultura
+- Quale di queste regioni fa parte dell'Italia centrale?
+- Quale catena montuosa attraversa l'Italia centrale?
+- Le Marche si trovano sul versante tirrenico dell'Appennino.
+- Il Tevere è il ___ fiume d'Italia per lunghezza.
+- Quale antico popolo viveva in gran parte della Toscana e del nord del Lazio prima dei Romani?
+- Quale di queste regioni dell'Italia centrale non ha accesso al mare?
+- Un turista vuole visitare in un solo viaggio il Ponte Vecchio, la Basilica di San Francesco e il Colosseo. In…
+- Scegli due regioni dell'Italia centrale e confrontale: in che cosa si somigliano e in che cosa sono diverse?
+
+## Ripasso: l'Italia del Nord [lib-5-elementare-geografia-ripasso-italia-nord] · NORD
+concetti: Le regioni del Nord; La Pianura Padana; Il clima; Lo sviluppo industriale
+- Quante sono le regioni dell'Italia settentrionale?
+- La Pianura Padana è la pianura più grande d'Italia.
+- Metti in ordine queste regioni del Nord da ovest a est.
+- Milano, Torino e Genova formavano il cosiddetto triangolo ___.
+- Perché d'inverno nella Pianura Padana c'è spesso la nebbia?
+- Quali regioni del Nord sono a statuto speciale?
+- Quale di queste caratteristiche ha favorito lo sviluppo delle industrie al Nord?
+- Spiega le differenze tra il clima della Pianura Padana e quello della Riviera ligure, e perché sono così dive…
+
+## Ripasso: Sud e isole [lib-5-elementare-geografia-ripasso-sud-isole] · ISOLA
+concetti: Le regioni del Sud e delle isole; Il clima mediterraneo; La Magna Grecia; Vulcani e terremoti
+- Quali sono le due regioni dell'Italia insulare?
+- Le coste del Sud hanno un clima ___, con estati calde e secche e inverni miti.
+- Vesuvio, Etna e Stromboli sono vulcani attivi del Sud Italia.
+- Come era chiamata l'area del Sud Italia dove i Greci fondarono le loro colonie?
+- Quale di queste coltivazioni è tipica del clima mediterraneo del Sud?
+- Percorri la costa dell'Adriatico verso sud, gira intorno al tacco e continua lungo lo Ionio. Metti in ordine …
+- Perché gli edifici costruiti in zone a rischio di terremoti devono seguire regole speciali?
+- Tra gli anni Cinquanta e Sessanta molti abitanti del Sud si trasferirono al Nord. Spiega perché e quali conse…
+
+## Sardegna, isola dei nuraghi [lib-5-elementare-geografia-sardegna] · NURAGHE
+concetti: L'isola; Il territorio; I nuraghi; Tradizioni ed economia
+- Qual è il capoluogo della Sardegna?
+- La Sardegna è l'isola più grande del Mediterraneo.
+- Le torri di pietra costruite in Sardegna nell'età del bronzo si chiamano ___.
+- Quale braccio di mare separa la Sardegna dalla Corsica?
+- Qual è il massiccio montuoso più alto della Sardegna?
+- Che cosa si ricava dalla corteccia della quercia da sughero?
+- Perché in Sardegna l'allevamento delle pecore è così diffuso?
+- I nuraghi sono patrimonio della Sardegna e dell'umanità. Perché secondo te è importante conservare costruzion…
+
+## Sicilia, la più grande isola [lib-5-elementare-geografia-sicilia] · ETNA
+concetti: La più grande; Forma e mari; Vulcani e isole; Storia e prodotti
+- Qual è il capoluogo della Sicilia?
+- Per la sua forma a tre punte, gli antichi chiamavano la Sicilia ___.
+- L'Etna è un vulcano spento da migliaia di anni.
+- Quale di queste isole fa parte delle isole Eolie?
+- Quali mari bagnano la Sicilia?
+- Che cosa si può ammirare nella Valle dei Templi di Agrigento?
+- Quale isola siciliana è la terra più a sud d'Italia?
+- Perché la Sicilia, pur essendo un'isola, ha avuto nella sua storia tanti popoli diversi, come Greci, Arabi e …
+
+## Strade, binari, porti e aeroporti [lib-5-elementare-geografia-trasporti-vie-comunicazione] · BINARIO
+concetti: Le autostrade; Le ferrovie; Porti e aeroporti; Attraverso le Alpi
+- Quali città collega l'Autostrada del Sole (A1)?
+- Genova e Trieste sono due importanti porti italiani.
+- Il traforo del Monte ___ collega la Valle d'Aosta alla Francia.
+- Qual è l'aeroporto più grande d'Italia?
+- Quale passo alpino collega l'Italia con l'Austria?
+- Un treno ad alta velocità va da Roma a Napoli, circa 220 km, a una media di 220 km all'ora. Quanto dura il vi…
+- Perché in Sicilia non si può arrivare in treno senza salire su un traghetto?
+- Perché le vie di comunicazione, come strade, ferrovie e porti, sono importanti per l'economia di una regione?
+
+## Toscana, arte e colline [lib-5-elementare-geografia-toscana] · ARNO
+concetti: Il territorio; Firenze e il Rinascimento; Altre città; Isole e prodotti
+- Qual è il capoluogo della Toscana?
+- Il fiume che attraversa Firenze e Pisa si chiama ___.
+- In quale città toscana si trova la famosa torre pendente?
+- L'isola d'Elba è la più grande dell'Arcipelago toscano.
+- Per quale materiale sono famose le cave di Carrara?
+- In quale città toscana si corre il Palio, la famosa corsa di cavalli tra le contrade?
+- Perché Firenze è chiamata la culla del Rinascimento?
+- Le colline toscane, con vigneti, uliveti e borghi antichi, attirano turisti da tutto il mondo. Come il paesag…
+
+## Tra Comune e Regione [lib-5-elementare-geografia-province-citta-metropolitane-regione] · ENTI
+concetti: Le province; Le città metropolitane; Gli organi della Regione; I compiti della Regione
+- Che cosa riunisce una provincia?
+- Roma, Milano e Napoli sono città metropolitane.
+- Le leggi regionali vengono approvate dal consiglio ___.
+- Di quale di questi servizi si occupa soprattutto la Regione?
+- Chi guida la Regione?
+- Metti in ordine questi enti dal più piccolo al più grande, secondo il territorio che amministrano.
+- L'edificio di una scuola superiore ha bisogno di riparazioni. Quale ente se ne occupa di solito?
+- Perché secondo te è utile che alcune decisioni, come quelle sulla sanità, siano prese dalla Regione invece ch…
+
+## Tre poteri in equilibrio [lib-5-elementare-geografia-tre-poteri] · POTERE
+concetti: Il potere legislativo; Il potere esecutivo; Il potere giudiziario; La separazione dei poteri
+- Quale organo dello Stato fa le leggi?
+- Il potere ___ fa applicare le leggi ed è affidato al Governo.
+- Chi esercita il potere giudiziario?
+- Nello Stato italiano una sola persona può fare le leggi, applicarle e giudicare chi le viola.
+- Che cosa potrebbe succedere se un solo uomo avesse tutti e tre i poteri?
+- Un giudice condanna una persona che ha rubato. Quale potere sta esercitando?
+- Il Governo decide come spendere i soldi per costruire nuove ferrovie. Quale potere esercita?
+- Spiega con parole tue perché è utile che i tre poteri dello Stato siano separati.
+
+## Tricolore, inno ed emblema [lib-5-elementare-geografia-simboli-repubblica] · INNO
+concetti: La bandiera; L'inno nazionale; L'emblema; La Festa della Repubblica
+- Quali sono i colori della bandiera italiana, partendo dall'asta?
+- Il testo dell'inno nazionale italiano fu scritto da Goffredo ___.
+- Il 2 giugno è la Festa della Repubblica.
+- Che cosa simboleggia la ruota dentata nell'emblema della Repubblica?
+- Quali rami di piante compaiono nell'emblema della Repubblica?
+- In quale periodo storico fu scritto il Canto degli Italiani?
+- Perché sugli edifici pubblici, come le scuole, viene esposta la bandiera italiana?
+- Perché secondo te uno Stato ha bisogno di simboli come la bandiera e l'inno?
+
+## Umbria, il cuore verde d'Italia [lib-5-elementare-geografia-umbria] · ASSISI
+concetti: Il cuore verde; Città e province; Acque; San Francesco
+- Qual è il capoluogo dell'Umbria?
+- L'Umbria è bagnata dal mare.
+- Che cosa rende l'Umbria unica tra le regioni della penisola?
+- Il lago più grande dell'Italia peninsulare, in Umbria, è il Lago ___.
+- Quale santo, patrono d'Italia, nacque ad Assisi?
+- Che cosa ha di particolare la Cascata delle Marmore, vicino a Terni?
+- Quale grande pittore dipinse gli affreschi con le storie di San Francesco nella basilica di Assisi?
+- Perché secondo te l'Umbria è chiamata il cuore verde d'Italia? Spiega entrambe le parole.
+
+## Valle d'Aosta, tetto d'Italia [lib-5-elementare-geografia-valle-aosta] · BIANCO
+concetti: La regione più piccola; Le montagne; Due lingue; Storia ed economia
+- Qual è il capoluogo della Valle d'Aosta?
+- La Valle d'Aosta è la regione più piccola d'Italia.
+- Qual è la montagna più alta delle Alpi, al confine con la Francia?
+- La Valle d'Aosta è attraversata dalla Dora ___, affluente del Po.
+- Quali sono le lingue ufficiali della Valle d'Aosta?
+- Quale monumento romano si trova ancora oggi ad Aosta?
+- Perché il turismo è così importante per l'economia della Valle d'Aosta?
+- La Valle d'Aosta confina con Francia e Svizzera. Come questa posizione ha influenzato la sua lingua e la sua …
+
+## Veneto, dalle Dolomiti alla laguna [lib-5-elementare-geografia-veneto] · LAGUNA
+concetti: Il territorio; Venezia; Città d'arte; Economia
+- Qual è il capoluogo del Veneto?
+- Venezia sorge in mezzo a una ___, separata dal mare aperto da strisce di terra.
+- In quale città veneta si trova una grande arena romana dove oggi si fanno concerti e opere liriche?
+- Sull'isola di Murano si lavora da secoli il vetro artistico.
+- Quale lago si trova al confine occidentale del Veneto?
+- Quale di questi fiumi NON attraversa il Veneto?
+- Perché Venezia, nel Medioevo, divenne così ricca e potente?
+- Venezia ha un problema chiamato acqua alta. Che cosa succede secondo te quando l'acqua del mare sale in una c…
+
+## Venti regioni, un solo Stato [lib-5-elementare-geografia-regioni-statuto-speciale] · REGIONE
+concetti: Le venti regioni; Regioni a statuto speciale; Perché più autonomia; Grandi e piccole
+- Quante sono le regioni italiane?
+- La città dove hanno sede il governo e gli uffici principali di una regione si chiama ___.
+- Quale di queste regioni è a statuto speciale?
+- Le regioni a statuto speciale sono cinque.
+- Qual è la regione più estesa d'Italia?
+- Perché la Valle d'Aosta ha ottenuto lo statuto speciale?
+- Che cosa hanno in comune Sicilia e Sardegna, oltre allo statuto speciale?
+- Spiega con parole tue che cosa significa che una regione ha uno statuto speciale.
+
+## Ventisette Paesi, una sola Unione [lib-5-elementare-geografia-paesi-ue] · NAZIONE
+concetti: Gli Stati membri; Paesi europei fuori dall'UE; Grandi e piccoli; La libera circolazione
+- Quale di questi Paesi fa parte dell'Unione europea?
+- La Norvegia, pur trovandosi in Europa, non fa parte dell'Unione europea.
+- Il Paese più piccolo dell'Unione europea è l'isola di ___.
+- Qual è il Paese più popoloso dell'Unione europea?
+- Quale di questi Paesi confinanti con l'Italia fa parte dell'Unione europea?
+- Che cosa significa libera circolazione delle persone nell'Unione?
+- Qual è il Paese più esteso dell'Unione europea?
+- Una studentessa italiana vuole frequentare un anno di università in Spagna. Perché essere cittadina europea l…

@@ -7,9 +7,14 @@ export const meta = {
   ],
 }
 
-// args: { classi: ['1-elementare', ...] } chooses which classes this run covers (several runs can go in parallel).
+// args: { classi: [...], target: 50, reviewFrom: 0, lanes: 0 }
+//   classi: classes this run covers (several runs can go in parallel)
+//   target: missions per class+subject; reviewFrom: if > 0, reviewers check only draft batches numbered >= this (older ones are already reviewed)
+//   lanes: if > 0, at most this many agents run at once in this run
 const ROOT = 'C:\\Users\\andre\\Documents\\GitHub\\cryptex'
-const TARGET = 50
+const TARGET = (args && args.target) || 50
+const REVIEW_FROM = (args && args.reviewFrom) || 0
+const LANES = (args && args.lanes) || 0
 
 const CLASSES = [
   { classe: '1ª elementare', slug: '1-elementare', age: '6-7 anni',
@@ -63,9 +68,10 @@ CLASS "${c.classe}" (${c.age}), SUBJECT "${s.nome}" (subject slug "${s.slug}", c
 Curriculum notes for this class: ${c.note}
 
 GOAL: this class+subject must reach AT LEAST ${TARGET} valid missions in total, all on different topics. Earlier runs may already have done part (or all) of the work.
+0. FIRST read the topic index ${ROOT}\strumenti\argomenti\${c.slug}-${s.slug}.txt (if it exists): it lists every mission already published or drafted for this class+subject (titles, ids, concepts, question texts) and the last draft number. Use it to avoid repeating topics and questions, and do NOT open the full mission files it describes; just run the validator on draft files to count them.
 1. Find every existing file for this class+subject: ${pub} (may not exist) and ALL files matching ${prefix}.json and ${prefix}-NN.json (two-digit NN). Run the validator on each draft file. If a draft file has problems, fix them in that file. Count the valid missions and note all ids, titles and topics. Do NOT modify ${pub}.
 2. If there are already ${TARGET} or more valid missions with unique ids and titles: stop here and report the count. Otherwise plan the missing number of NEW missions, each on a different topic or clearly distinct subtopic not yet covered. With ${TARGET} missions you must go granular: split big topics into precise subtopics, use practical situations, and a few cross-topic "ripasso" missions; never repeat a question already used.
-3. Write the new missions in batches of 10 into NEW files ${prefix}-NN.json, continuing the numbering after the highest existing NN (starting at 02 if none). Never overwrite an existing file of another batch, never touch files of other classes or subjects, never run git.
+3. Write the new missions in batches of 10 into NEW files ${prefix}-NN.json, continuing the numbering after the highest existing NN (starting at 02 if none)${REVIEW_FROM ? `, but never below ${String(REVIEW_FROM).padStart(2, '0')}: this round's new batches must be numbered ${String(REVIEW_FROM).padStart(2, '0')} or higher` : ''}. Never overwrite an existing file of another batch, never touch files of other classes or subjects, never run git.
 4. Validate each file right after writing it and fix until it reports 0 problems.
 5. Finally confirm with Python that all valid missions for this class+subject are at least ${TARGET} and that ids and titles are unique across all of them.
 
@@ -79,9 +85,12 @@ function reviewerPrompt(c, s) {
   const glob = `${ROOT}\\missioni\\bozze\\${c.slug}-${s.slug}*.json`
   return `You are the strict final reviewer of quiz missions for Italian children (${c.classe}, ${c.age}), subject "${s.nome}", in the study game "Cryptex Studio" (repository ${ROOT}). The goal is perfect content: children will learn from it.
 
-FILES TO REVIEW (only these; edit them in place, never touch other files, never run git):
+${REVIEW_FROM ? `FILES TO REVIEW AND EDIT (only these; never touch other files, never run git):
+- the files ${ROOT}\missioni\bozze\${c.slug}-${s.slug}-NN.json with NN >= ${String(REVIEW_FROM).padStart(2, '0')} (the new batch of this round)
+ALREADY REVIEWED, read-only (use them only to detect overlap; do NOT edit them): ${pub} and the draft files with a lower NN or no NN. To compare against them, read the topic index ${ROOT}\strumenti\argomenti\${c.slug}-${s.slug}.txt instead of opening those files.
+For point 6 below, compare the new missions against ALL missions of this class+subject, old ones included; when there is overlap, change the NEW mission.` : `FILES TO REVIEW (only these; edit them in place, never touch other files, never run git):
 - ${pub} (if it exists)
-- every file matching ${glob}
+- every file matching ${glob}`}
 
 For EVERY mission and EVERY question check, and fix whatever is wrong:
 1. Facts: correct according to standard Italian school textbooks (dates, names, definitions, rules, geography, science). Rewrite anything doubtful or contestable into something certain.
@@ -103,10 +112,16 @@ const PAIRS = []
 for (const c of CLASSES) if (wanted.includes(c.slug)) for (const s of SUBJECTS) PAIRS.push({ c, s })
 log(`Classi: ${wanted.join(', ')} · ${PAIRS.length} coppie classe/materia`)
 
-const results = await pipeline(
-  PAIRS,
-  p => agent(writerPrompt(p.c, p.s), { label: `scrive:${p.c.slug}/${p.s.slug}`, phase: 'Scrittura' }),
-  (written, p) => agent(reviewerPrompt(p.c, p.s), { label: `rivede:${p.c.slug}/${p.s.slug}`, phase: 'Revisione' })
-    .then(review => ({ coppia: `${p.c.classe} / ${p.s.nome}`, scrittura: written, revisione: review }))
-)
-return results
+const runPair = p => agent(writerPrompt(p.c, p.s), { label: `scrive:${p.c.slug}/${p.s.slug}`, phase: 'Scrittura' })
+  .then(written => agent(reviewerPrompt(p.c, p.s), { label: `rivede:${p.c.slug}/${p.s.slug}`, phase: 'Revisione' })
+    .then(review => ({ coppia: `${p.c.classe} / ${p.s.nome}`, scrittura: written, revisione: review })))
+
+if (!LANES) return await pipeline(PAIRS, runPair)
+// Lanes: each lane handles its pairs one after another, so at most LANES agents run at the same time.
+const lanes = Array.from({ length: LANES }, (_, k) => PAIRS.filter((_, i) => i % LANES === k)).filter(l => l.length)
+const out = await parallel(lanes.map(lane => async () => {
+  const done = []
+  for (const p of lane) done.push(await runPair(p).catch(() => null))
+  return done
+}))
+return out.filter(Boolean).flat()

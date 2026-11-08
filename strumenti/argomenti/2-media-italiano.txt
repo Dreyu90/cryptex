@@ -1,0 +1,553 @@
+# 2ª media · Italiano: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Alla ricerca del soggetto [lib-2-media-italiano-soggetto] · BASE
+concetti: Che cos'è il soggetto; Accordo con il verbo; Il soggetto sottinteso; Posizione e forme
+- Qual è il soggetto in «Domani la maestra di danza spiegherà un nuovo passo»?
+- Nella frase «Partiremo dopo pranzo» il soggetto è sottinteso.
+- Il soggetto e il verbo concordano nella persona e nel ___.
+- In quale frase il soggetto si trova dopo il verbo?
+- Qual è il soggetto sottinteso in «Avete finito i compiti?»
+- Nella frase «Nuotare in piscina mi rilassa», che cosa fa da soggetto?
+- Quale frase contiene un errore di concordanza tra soggetto e verbo?
+- Nella frase «Il ladro è stato fermato dalla polizia», il soggetto è «il ladro», anche se non compie l'azione.…
+
+## Analisi logica passo passo [lib-2-media-italiano-ripasso-analisi-logica] · ANALISI
+concetti: Il metodo; Elementi diretti e indiretti; Analisi grammaticale e logica; Analizzare una frase intera
+- Che cosa studia l'analisi logica?
+- Il complemento oggetto è un complemento diretto, perché non è introdotto da preposizione.
+- Metti in ordine i passaggi dell'analisi logica di una frase.
+- Dire che «casa» è un nome comune femminile singolare fa parte dell'analisi ___.
+- Nella frase «Stamattina il nostro allenatore ha spiegato le regole alla squadra», che funzione ha «alla squad…
+- Quale analisi è corretta per «Il cielo sembra grigio»?
+- In «Ho visto Laura al mercato», «Laura» è un complemento indiretto.
+- Fai l'analisi logica della frase «Domenica la mia amica Sofia ha portato una torta ai nonni».
+
+## Appunti, schemi e mappe [lib-2-media-italiano-appunti-schemi-mappe] · SCHEMA
+concetti: Prendere appunti; Le parole chiave; Lo schema; La mappa concettuale
+- Quando prendi appunti durante una spiegazione, che cosa conviene fare?
+- Negli appunti si possono usare abbreviazioni e simboli, come una freccia per dire «quindi».
+- Le parole che contengono le informazioni essenziali di un testo si chiamano parole ___.
+- Quali sono le parole chiave della frase «I Romani costruirono strade lunghissime per spostare rapidamente gli…
+- Che cosa distingue una mappa concettuale da un semplice elenco?
+- In uno schema gerarchico, dove si mette l'idea principale?
+- In una mappa concettuale i concetti si scrivono uno sotto l'altro senza collegamenti.
+- Spiega perché trasformare un capitolo di storia in uno schema ti aiuta a studiare meglio.
+
+## Ariosto e la follia di Orlando [lib-2-media-italiano-ariosto-orlando-furioso] · ORLANDO
+concetti: Ariosto e la corte; Il poema cavalleresco; La follia di Orlando; Intreccio e ironia
+- Di quale donna è innamorato Orlando nel poema di Ariosto?
+- Ariosto scrisse l'Orlando furioso mentre era al servizio della famiglia d'Este, a Ferrara.
+- L'Orlando furioso è scritto in ___, strofe di otto endecasillabi.
+- Secondo il poema, dove finisce tutto ciò che gli uomini perdono sulla Terra, compreso il senno di Orlando?
+- Perché Orlando diventa «furioso», cioè pazzo?
+- Metti in ordine questi momenti della storia di Orlando.
+- Ariosto interrompe spesso una vicenda per passare a un'altra e poi riprenderla. Che effetto ottiene?
+- Perché la storia di un eroe fortissimo che perde la testa per amore può essere raccontata con ironia? Che cos…
+
+## Attributo e apposizione [lib-2-media-italiano-attributo-apposizione] · TITOLO
+concetti: L'attributo; L'apposizione; Attributo o parte nominale?; Accordo e posizione
+- Trova l'attributo in «Ho trovato una conchiglia rosa sulla spiaggia».
+- Qual è l'apposizione in «Il capitano Rossi guidava la squadra»?
+- In «La torta è squisita» l'aggettivo «squisita» è un attributo.
+- Per formare un'apposizione serve un nome: «Marta, la mia ___ di banco, ride sempre».
+- In quale frase l'aggettivo «stanco» è un attributo?
+- Quale frase contiene un errore di accordo dell'attributo?
+- Nella frase «Ho visitato Parigi, la capitale della Francia», «capitale» è un'apposizione.
+- Spiega la differenza tra attributo e apposizione usando come esempio «il simpatico professor Neri».
+
+## Boccaccio e il Decameron [lib-2-media-italiano-boccaccio-decameron] · CORNICE
+concetti: La vita; La cornice; Cento novelle in dieci giorni; I temi
+- Quante novelle contiene il Decameron?
+- I giovani del Decameron lasciano Firenze per sfuggire alla peste del 1348.
+- Il titolo Decameron viene dal greco e significa «dieci ___».
+- Che cos'è la «cornice» del Decameron?
+- Quanti sono i giovani della brigata e come sono divisi?
+- Quale qualità viene spesso premiata nelle novelle del Decameron?
+- Boccaccio da giovane visse a Napoli, dove conobbe la vita della corte e dei mercanti.
+- Perché, secondo te, Boccaccio sceglie di ambientare la cornice durante la peste? Che cosa rappresentano i gio…
+
+## Caro diario, cara amica [lib-2-media-italiano-lettera-diario] · DIARIO
+concetti: Il diario; La lettera; Formale o informale; Un diario famoso
+- In quale persona è scritto di solito un diario?
+- Anna Frank scrisse il suo diario mentre era nascosta con la famiglia ad Amsterdam.
+- In una lettera, dopo il saluto finale si mette la ___ di chi scrive.
+- Metti in ordine le parti di una lettera.
+- Devi scrivere alla dirigente scolastica per chiedere di organizzare un torneo. Quale formula di apertura sceg…
+- Quale frase è più adatta a una pagina di diario?
+- In una lettera formale è corretto rivolgersi al destinatario dandogli del «tu».
+- Che differenza c'è tra scrivere una lettera e scrivere una pagina di diario? Indica almeno due differenze.
+
+## Con che cosa e come? [lib-2-media-italiano-mezzo-modo] · MEZZO
+concetti: Complemento di mezzo; Complemento di modo; Con: tanti complementi; I mezzi di trasporto
+- «Ho tagliato la carta con le forbici»: che complemento è «con le forbici»?
+- In «Il nonno guida con prudenza», «con prudenza» è complemento di modo.
+- In «Mia cugina arriva da Milano ___ aereo», manca la preposizione del complemento di mezzo.
+- In quale frase c'è un complemento di modo?
+- In «Luca è andato in montagna con il papà», «con il papà» è complemento di…
+- La preposizione «con» introduce sempre un complemento di mezzo.
+- Quale avverbio può sostituire il complemento di modo in «Ha fatto i compiti con attenzione»?
+- Inventa tre frasi con la preposizione «con»: una con un complemento di mezzo, una di modo e una di compagnia.…
+
+## Contare le sillabe del verso [lib-2-media-italiano-metrica-verso-sillabe] · SILLABA
+concetti: Il verso; La sinalefe; L'ultimo accento; I nomi dei versi
+- Quante sillabe metriche ha un endecasillabo?
+- Quando conti le sillabe di un verso, le sillabe metriche sono sempre uguali a quelle grammaticali.
+- La ___ unisce in una sola sillaba metrica la vocale finale di una parola e quella iniziale della parola segue…
+- Un verso che termina con una parola piana ha 7 sillabe metriche. Come si chiama?
+- Quante sillabe metriche ha il verso di Dante «mi ritrovai per una selva oscura»?
+- Un verso finisce con una parola tronca, come «città». Come cambia il conto delle sillabe?
+- Un verso finisce con la parola sdrucciola «tavola» e ha 9 sillabe grammaticali, senza sinalefi. Quante sillab…
+- Perché la poesia tradizionale usa versi con un numero preciso di sillabe? Che cosa cambierebbe se ogni riga a…
+
+## Da dove? Origine e allontanamento [lib-2-media-italiano-origine-allontanamento] · RADICE
+concetti: Origine o provenienza; Allontanamento o separazione; Diversi dal moto da luogo; Le preposizioni
+- «Il fiume Po nasce dal Monviso»: che complemento è «dal Monviso»?
+- In «Il cucciolo fu separato dalla mamma», «dalla mamma» è complemento di allontanamento.
+- Nella frase «Era un ragazzo ___ umili origini», la preposizione introduce un complemento di origine.
+- In quale frase c'è un complemento di allontanamento?
+- Qual è la differenza tra «Esco dalla palestra» e «Mi sono liberato dalla paura»?
+- Nella frase «Dante discendeva da una famiglia della piccola nobiltà fiorentina», «da una famiglia» è compleme…
+- Il complemento di origine indica sempre uno spostamento fisico da un luogo a un altro.
+- Spiega perché in «Il treno parte da Milano» e «Mia mamma discende da una famiglia di pescatori» la preposizio…
+
+## Dal Purgatorio al Paradiso [lib-2-media-italiano-purgatorio-paradiso] · STELLE
+concetti: La montagna del Purgatorio; Anime che sperano; Il Paradiso; Beatrice e la visione finale
+- Che forma ha il Purgatorio di Dante?
+- Le anime del Purgatorio sono destinate, prima o poi, a salire in Paradiso.
+- Nel Paradiso la guida di Dante diventa ___, la donna da lui amata.
+- Metti in ordine i luoghi che Dante attraversa salendo il Purgatorio.
+- Che cosa sono le sette P che l'angelo incide sulla fronte di Dante?
+- Da che cosa è formato il Paradiso dantesco?
+- Chi accompagna Dante nell'ultima parte del viaggio, pregando la Vergine Maria?
+- Che differenza c'è tra la sofferenza delle anime dell'Inferno e quella delle anime del Purgatorio?
+
+## Dalla Sicilia al Dolce stil novo [lib-2-media-italiano-scuola-siciliana-stilnovo] · ANGELO
+concetti: La Scuola siciliana; Il sonetto nasce in Sicilia; Il Dolce stil novo; La donna angelo
+- Alla corte di quale sovrano nacque la Scuola siciliana?
+- Il sonetto fu inventato da Dante Alighieri.
+- Gli stilnovisti descrivono la donna amata come un ___ sceso dal cielo.
+- Quale poeta NON faceva parte del Dolce stil novo?
+- Secondo gli stilnovisti, chi può provare il vero amore?
+- Di che cosa parlavano soprattutto le poesie della Scuola siciliana?
+- L'espressione «dolce stil novo» si trova in un verso della Divina Commedia.
+- In che cosa la donna dei poeti stilnovisti è diversa da una donna reale? Spiega perché era detta «donna angel…
+
+## Dante, poeta in esilio [lib-2-media-italiano-dante-vita] · ESILIO
+concetti: Le origini; Politica ed esilio; Le opere; La morte a Ravenna
+- In quale città nacque Dante Alighieri?
+- Dante morì in esilio a Ravenna nel 1321.
+- La donna amata da Dante, che compare nella Vita nova e nella Commedia, si chiama ___.
+- A quale fazione politica apparteneva Dante?
+- Perché Dante dovette lasciare Firenze nel 1302?
+- Quale opera di Dante, che alterna prosa e poesia, racconta il suo amore giovanile per Beatrice?
+- Il De vulgari eloquentia, in cui Dante difende la lingua volgare, è scritto in volgare.
+- Secondo te, come può aver influito l'esilio sulla scrittura della Divina Commedia? Fai riferimento alla vita …
+
+## Descrivere: oggettivo o soggettivo [lib-2-media-italiano-descrizione-oggettiva-soggettiva] · SGUARDO
+concetti: Il testo descrittivo; Descrizione oggettiva; Descrizione soggettiva; Lo scopo decide
+- Qual è lo scopo principale di un testo descrittivo?
+- Una descrizione oggettiva usa molti aggettivi che esprimono le emozioni di chi scrive.
+- La descrizione ___ esprime le impressioni e i sentimenti di chi descrive.
+- Quale frase appartiene a una descrizione oggettiva?
+- In «Il vecchio portone sembrava una bocca spalancata pronta a inghiottirci», che cosa rende soggettiva la des…
+- Devi scrivere un avviso per ritrovare lo zaino che hai perso. Che descrizione scegli?
+- In una pagina di diario è normale trovare descrizioni soggettive.
+- Descrivi la tua cartella in due modi: con una frase oggettiva e con una frase soggettiva. Poi spiega che cosa…
+
+## Di chi? A chi? [lib-2-media-italiano-specificazione-termine] · DONO
+concetti: Complemento di specificazione; Complemento di termine; Pronomi di termine; Non tutti i «di» e gli «a»
+- In «Il quaderno di Matteo è sul banco», «di Matteo» è complemento di…
+- Trova il complemento di termine: «Domani spedirò una cartolina alla zia Carla».
+- Nella frase «Le ho prestato la mia penna», «le» significa «a lei» ed è complemento di termine.
+- Il complemento di specificazione è introdotto dalla preposizione ___, semplice o articolata.
+- In quale frase «a» introduce un complemento di termine?
+- Che cosa sostituisce «gli» in «Ho incontrato Pietro e gli ho restituito il pallone»?
+- Nella frase «Il professore di storia parla di Napoleone», entrambi i «di» introducono un complemento di speci…
+- Inventa una frase che contenga sia un complemento di specificazione sia un complemento di termine, poi spiega…
+
+## Discorso diretto e indiretto [lib-2-media-italiano-discorso-diretto-indiretto] · DIALOGO
+concetti: Discorso diretto; Discorso indiretto; Le trasformazioni; I verbi dichiarativi
+- Quale frase contiene un discorso diretto?
+- Nel discorso indiretto le parole del personaggio si scrivono tra virgolette.
+- Nel discorso diretto, dopo il verbo «disse» si mettono i ___ e si aprono le virgolette.
+- Come diventa nel discorso indiretto la frase: Sara disse: «Ho perso il mio quaderno»?
+- Trasforma in indiretto: La maestra disse: «Domani faremo la verifica».
+- Quale verbo è più adatto nella frase: «Attento, c'è un'auto!» ___ il papà?
+- Passando dal discorso diretto all'indiretto, l'avverbio «qui» diventa di solito «lì».
+- Trasforma in discorso indiretto: Giulia chiese alla mamma: «Posso andare al parco con Sara?». Poi spiega qual…
+
+## Dove? I complementi di luogo [lib-2-media-italiano-complementi-di-luogo] · MAPPA
+concetti: Stato in luogo; Moto a luogo; Moto da luogo; Moto per luogo
+- «Il gatto dorme sotto il letto»: che complemento è «sotto il letto»?
+- In quale frase c'è un complemento di moto da luogo?
+- In «Domani partiamo per Londra», «per Londra» è un complemento di moto per luogo.
+- Quando dici «Esco ___ casa alle sette», usi un complemento di moto da luogo.
+- Qual è il complemento di moto per luogo in «Il ladro è fuggito dalla villa attraverso il giardino»?
+- In quale frase c'è un complemento di moto a luogo?
+- In «Vado dal medico», «dal medico» è un complemento di moto a luogo, anche se è introdotto da «da».
+- Perché in «Sono in cucina» e «Vado in cucina» la stessa espressione «in cucina» è un complemento diverso? Spi…
+
+## Figure che giocano con l'ordine [lib-2-media-italiano-figure-retoriche-ordine] · ANAFORA
+concetti: L'anafora; L'anastrofe; L'enjambement; Il climax
+- Come si chiama la ripetizione della stessa parola all'inizio di più versi?
+- Si ha un enjambement quando ogni frase finisce esattamente alla fine del verso.
+- Una serie di parole in ordine di intensità crescente forma un ___.
+- Nel verso di Leopardi «Sempre caro mi fu quest'ermo colle» quale figura riconosci?
+- Metti in ordine queste espressioni per creare un climax ascendente.
+- Perché Dante ripete «Per me si va» all'inizio di tre versi sulla porta dell'Inferno?
+- Che effetto produce un enjambement in una poesia?
+- Scrivi una frase con un climax e spiega perché l'ordine delle parole è importante.
+
+## Forma passiva e complemento d'agente [lib-2-media-italiano-agente-causa-efficiente] · AGENTE
+concetti: Dall'attiva alla passiva; Complemento d'agente; Causa efficiente; Solo verbi transitivi
+- «Il nuovo ponte è stato inaugurato ieri dal sindaco»: qual è il complemento d'agente?
+- In «Gli alberi sono stati piegati dal vento», «dal vento» è complemento d'agente.
+- La forma passiva si costruisce con il verbo essere e il ___ passato del verbo.
+- Qual è la forma passiva di «I pompieri spengono l'incendio»?
+- Quale frase NON si può volgere al passivo?
+- In quale frase c'è un complemento di causa efficiente?
+- Se trasformi in attiva la frase «Questo libro è letto da molti ragazzi», il soggetto diventa «molti ragazzi».
+- Spiega la differenza tra complemento d'agente e complemento di causa efficiente con due esempi tuoi.
+
+## Frase minima ed espansioni [lib-2-media-italiano-frase-minima-espansioni] · FRASE
+concetti: La frase semplice; La frase minima; Le espansioni; Frase semplice e periodo
+- Quale di queste è una frase minima?
+- Una frase semplice contiene un solo predicato.
+- Gli elementi che arricchiscono la frase minima con nuove informazioni si chiamano ___.
+- Quante proposizioni ci sono in «Marco mangia in fretta e poi esce con gli amici»?
+- Nella frase «La mia sorellina gioca in giardino», quali sono le espansioni?
+- La frase «Nevica» è una frase minima anche se non ha un soggetto.
+- Qual è la frase minima di «Ieri sera i miei cugini di Napoli sono arrivati in treno»?
+- Parti dalla frase minima «Il treno parte» e arricchiscila con almeno tre espansioni. Poi spiega che cosa aggi…
+
+## Goldoni e la riforma del teatro [lib-2-media-italiano-goldoni-riforma-teatro] · LOCANDA
+concetti: La commedia dell'arte; La riforma di Goldoni; La locandiera; Società e polemiche
+- Che cos'era il «canovaccio» nella commedia dell'arte?
+- Arlecchino e Pantalone sono maschere della commedia dell'arte.
+- Con la sua riforma Goldoni sostituì l'improvvisazione con un ___ scritto per intero, da imparare a memoria.
+- Chi è Mirandolina?
+- Metti in ordine i momenti principali della Locandiera.
+- Perché Goldoni abbandonò a poco a poco le maschere?
+- Quale ambiente sociale Goldoni rappresenta con più simpatia nelle sue commedie?
+- Immagina di vedere prima uno spettacolo della commedia dell'arte e poi una commedia di Goldoni. Quali differe…
+
+## Il complemento oggetto [lib-2-media-italiano-complemento-oggetto] · OGGETTO
+concetti: Che cos'è; Un complemento diretto; Solo con verbi transitivi; Pronomi e partitivo
+- Qual è il complemento oggetto in «Paolo ha regalato un fiore alla nonna»?
+- Il complemento oggetto è sempre introdotto da una preposizione.
+- Per trovare il complemento oggetto ti chiedi «chi? che ___?» subito dopo il verbo.
+- In quale frase il verbo NON può reggere un complemento oggetto?
+- In «Quando vedo i miei amici, li saluto sempre», che funzione ha «li»?
+- Nella frase «Al mercato ho comprato delle pere», «delle pere» è…
+- Nella frase «Mi hanno invitato alla festa», il pronome «mi» è complemento oggetto.
+- Perché la frase «Luisa dorme il letto» è sbagliata? Spiegalo usando l'idea di verbo transitivo e intransitivo.
+
+## Il complemento predicativo [lib-2-media-italiano-complemento-predicativo] · ELETTO
+concetti: Predicativo del soggetto; I verbi copulativi; Predicativo dell'oggetto; Predicativo o attributo?
+- In «Dopo la corsa Elena sembrava stanchissima», qual è il complemento predicativo del soggetto?
+- Il verbo «diventare» può reggere un complemento predicativo del soggetto.
+- Nella frase «La classe ha eletto Giorgio ___» manca il complemento predicativo dell'oggetto.
+- In «Tutti considerano Sara una brava cuoca», a chi si riferisce il predicativo «una brava cuoca»?
+- Quale di questi verbi NON è copulativo?
+- Nella frase «Il professore ha nominato Luca capitano della squadra», «capitano» è predicativo del soggetto.
+- In quale frase «allegro» è complemento predicativo?
+- Nella frase «Il giudice dichiarò l'imputato innocente», prova a togliere «innocente»: che cosa succede al sig…
+
+## Il folle volo di Ulisse [lib-2-media-italiano-ulisse-dante] · ULISSE
+concetti: Dove si trova Ulisse; Le colpe; L'ultimo viaggio; Virtute e canoscenza
+- Tra quali peccatori Dante incontra Ulisse?
+- Nell'Inferno Ulisse è avvolto in una fiamma insieme al compagno Diomede.
+- «Fatti non foste a viver come bruti, ma per seguir virtute e ___».
+- Quale inganno di Ulisse è ricordato tra le sue colpe?
+- Che cosa erano per gli antichi le Colonne d'Ercole?
+- Metti in ordine le tappe dell'ultimo viaggio di Ulisse raccontato da Dante.
+- Che cosa vuole dire Ulisse con «fatti non foste a viver come bruti»?
+- Perché, secondo te, il viaggio di Ulisse finisce in un naufragio? Prova a spiegare che cosa voleva dire Dante.
+
+## Il testo che spiega [lib-2-media-italiano-testo-espositivo] · SAPERE
+concetti: Lo scopo; La struttura; Il linguaggio; Le tecniche
+- Dove è più facile trovare un testo espositivo?
+- Il testo espositivo ha lo scopo di esprimere le emozioni dell'autore.
+- Nel testo espositivo i verbi sono usati spesso al tempo ___, perché le informazioni valgono in generale.
+- Metti in ordine le parti di un testo espositivo sui vulcani.
+- «Il cuore funziona come una pompa che spinge il sangue in tutto il corpo.» Quale tecnica espositiva usa quest…
+- Quale frase esprime un rapporto di causa ed effetto?
+- Quale caratteristica NON appartiene al linguaggio del testo espositivo?
+- Immagina di dover spiegare a un compagno più piccolo che cos'è la fotosintesi. Quali tecniche del testo espos…
+
+## Indagini nel racconto giallo [lib-2-media-italiano-racconto-giallo] · INDIZIO
+concetti: Gli elementi del giallo; La struttura; Investigatori famosi; Perché «giallo»
+- Chi è l'investigatore creato da Arthur Conan Doyle?
+- In Italia i romanzi polizieschi si chiamano «gialli» per il colore delle copertine di una famosa collana.
+- Un piccolo elemento che aiuta l'investigatore a scoprire il colpevole si chiama ___.
+- Metti in ordine le fasi tipiche di un racconto giallo.
+- Che cos'è il «movente» in un giallo?
+- Un sospettato dimostra che, all'ora del delitto, era a una festa con venti persone. Che cosa ha fornito?
+- Quale scrittrice inglese creò l'investigatore belga Hercule Poirot?
+- Perché in un buon giallo il lettore deve avere a disposizione gli stessi indizi dell'investigatore?
+
+## Insieme a chi? Compagnia e unione [lib-2-media-italiano-compagnia-unione] · AMICO
+concetti: Complemento di compagnia; Complemento di unione; Le preposizioni; Unione o mezzo?
+- «Sono andata al parco insieme a mia nonna»: che complemento è «insieme a mia nonna»?
+- In «Vorrei un tè con il limone», «con il limone» è complemento di unione.
+- Il complemento di compagnia si riferisce a persone e animali, mentre quello di ___ si riferisce a cose.
+- Quale preposizione o locuzione NON introduce un complemento di compagnia?
+- In quale frase «con» introduce un complemento di unione?
+- Nella frase «Il pastore guida il gregge con il suo cane», il complemento di compagnia è…
+- In «Taglio il pane con il coltello», «con il coltello» è un complemento di unione.
+- Nelle frasi «Sono uscito con l'ombrello» e «Mi sono riparato con l'ombrello» l'ombrello ha due funzioni diver…
+
+## Istruzioni per l'uso [lib-2-media-italiano-testo-regolativo] · REGOLA
+concetti: Lo scopo; La sequenza; Il linguaggio; Le parti
+- Quale di questi è un testo regolativo?
+- Nel testo regolativo si usano spesso verbi all'imperativo o all'infinito.
+- Nelle istruzioni, parole come «prima», «poi» e «___» segnalano l'ordine delle operazioni.
+- In una ricetta, che cosa si trova di solito prima del procedimento?
+- Metti in ordine le istruzioni per piantare un seme in un vasetto.
+- Quale frase è scritta nello stile di un testo regolativo?
+- Perché in un regolamento le frasi devono essere brevi e chiare?
+- Scrivi le istruzioni per preparare la cartella per il giorno dopo, con almeno quattro passaggi in ordine.
+
+## L'architettura della Commedia [lib-2-media-italiano-divina-commedia-struttura] · TERZINA
+concetti: Tre cantiche, cento canti; Terzine ed endecasillabi; Il viaggio; Le guide e il titolo
+- Quanti canti ha in tutto la Divina Commedia?
+- La Divina Commedia è scritta in terzine di endecasillabi.
+- Nell'Inferno e nel Purgatorio Dante è guidato dal poeta latino ___.
+- Metti in ordine le tappe del viaggio di Dante.
+- Come sono disposte le rime nella terzina dantesca?
+- Perché Dante intitolò il suo poema «Comedìa»?
+- Quanti anni aveva Dante, secondo il poema, quando si smarrì nella selva oscura?
+- Perché, secondo te, Dante sceglie come guida Virgilio e non un santo o un angelo per attraversare l'Inferno e…
+
+## L'arte del riassunto [lib-2-media-italiano-riassunto] · SINTESI
+concetti: Che cos'è; Le sequenze; Le regole di scrittura; Le fasi del lavoro
+- Che cosa deve contenere un buon riassunto?
+- In un riassunto si possono aggiungere commenti personali sui fatti.
+- Un blocco di un testo in prosa che ha un senso compiuto e sviluppa un'unica azione o idea si chiama ___.
+- Nel riassunto, come trasformi la frase «Ho paura del buio», disse Luca?
+- Metti in ordine le fasi per scrivere un riassunto.
+- Quale elemento di solito si elimina in un riassunto?
+- Un racconto di tre pagine va riassunto in dieci righe. Quale strategia funziona meglio?
+- Perché saper fare un riassunto è utile anche per studiare storia o scienze?
+
+## La musica delle parole [lib-2-media-italiano-figure-retoriche-suono] · SUONO
+concetti: L'allitterazione; L'onomatopea; Assonanza e consonanza; La paronomasia
+- Quale di queste parole è un'onomatopea?
+- L'allitterazione è la ripetizione di uno stesso suono in parole vicine.
+- Le parole «mare» e «pane» hanno le stesse vocali dopo l'accento ma consonanti diverse: è un'___.
+- In quale verso c'è un'allitterazione molto evidente?
+- Che cosa hanno in comune le parole «tetto» e «gatto»?
+- Nel detto «traduttore, traditore» quale figura retorica riconosci?
+- Perché un poeta scrive il «chiù» dell'assiolo invece di dire semplicemente «l'uccello cantava»?
+- Inventa una frase con un'allitterazione e spiega che effetto produce il suono che hai ripetuto.
+
+## Le origini e il Cantico [lib-2-media-italiano-origini-cantico-delle-creature] · SOLE
+concetti: Dal latino al volgare; Il Cantico delle creature; La lode del creato; Uno stile semplice
+- Chi scrisse il Cantico delle creature?
+- Nel Medioevo il volgare era la lingua parlata dal popolo, mentre la cultura scritta usava soprattutto il lati…
+- Nel Cantico la formula «Laudato si', mi' ___» si ripete all'inizio di molti versi.
+- Come chiama Francesco la luna nel Cantico?
+- Con quale creatura si chiude il Cantico?
+- Il Cantico delle creature fu scritto in latino, come le preghiere ufficiali del tempo.
+- Perché il Cantico delle creature è così importante per la storia della nostra lingua?
+- Perché secondo te Francesco chiama «fratelli» e «sorelle» il sole, il vento, l'acqua e il fuoco? Che idea del…
+
+## Limitazione, vocazione ed esclamazione [lib-2-media-italiano-limitazione-vocazione-esclamazione] · LIMITE
+concetti: Complemento di limitazione; Complemento di vocazione; Complemento di esclamazione; Vocazione o soggetto?
+- In «Ragazzi, fate silenzio!», «Ragazzi» è…
+- In «Mia sorella è bravissima nel disegno», «nel disegno» è complemento di limitazione.
+- Il complemento di vocazione è di solito separato dal resto della frase da una ___.
+- Quanti complementi di limitazione ci sono in «Quel giocatore è forte in attacco ma debole in difesa»?
+- Quale di queste espressioni è un complemento di esclamazione?
+- In «Luca, hai chiuso la porta?», «Luca» è il soggetto del verbo «hai chiuso».
+- In quale frase c'è un complemento di limitazione?
+- Inventa una frase in cui descrivi un tuo amico usando un complemento di limitazione, e spiega che cosa aggiun…
+
+## Materia, argomento e qualità [lib-2-media-italiano-materia-argomento-qualita] · LEGNO
+concetti: Complemento di materia; Complemento di argomento; Complemento di qualità; Tanti «di»
+- «Mi hanno regalato un braccialetto d'argento»: che complemento è «d'argento»?
+- In «Abbiamo discusso a lungo sulle regole del gioco», «sulle regole» è complemento di argomento.
+- Nella frase «Ho visto un gatto ___ occhi verdi», manca la preposizione del complemento di qualità.
+- Qual è il complemento di qualità in «Il nuovo vicino è un signore di grande gentilezza»?
+- In quale frase c'è un complemento di argomento?
+- In «un vaso di cristallo» e «il vaso di Marta», i due «di» introducono…
+- In «una casetta in legno» c'è un complemento di materia anche se la preposizione è «in».
+- Scrivi una breve descrizione di un oggetto a cui tieni usando un complemento di materia, uno di qualità e uno…
+
+## Nell'Inferno di Dante [lib-2-media-italiano-inferno] · CERCHIO
+concetti: La forma dell'Inferno; Peccati sempre più gravi; Il contrappasso; Lucifero e l'uscita
+- In quanti cerchi è diviso l'Inferno di Dante?
+- L'Inferno dantesco ha la forma di un imbuto che si restringe verso il centro della Terra.
+- La legge per cui la pena ricorda il peccato commesso si chiama ___.
+- Dove si trovano i peccatori più gravi dell'Inferno?
+- Gli indovini, che in vita pretesero di vedere il futuro, nell'Inferno camminano con la testa girata all'indie…
+- Chi si trova al centro dell'Inferno, imprigionato nel ghiaccio?
+- Nell'Inferno di Dante i peccati diventano meno gravi man mano che si scende.
+- L'Inferno si chiude con il verso «E quindi uscimmo a riveder le stelle». Perché secondo te Dante sceglie prop…
+
+## Paolo e Francesca [lib-2-media-italiano-paolo-e-francesca] · BUFERA
+concetti: Il cerchio dei lussuriosi; La storia; Il libro galeotto; La parola «Amor» e la pietà di Dante
+- In quale canto dell'Inferno si trova l'episodio di Paolo e Francesca?
+- Paolo era il cognato di Francesca, cioè il fratello di suo marito.
+- «___ fu 'l libro e chi lo scrisse», dice Francesca parlando del libro che lesse con Paolo.
+- Chi uccise Paolo e Francesca?
+- Quale storia stavano leggendo Paolo e Francesca quando si innamorarono?
+- Come reagisce Dante alla fine del racconto di Francesca?
+- I lussuriosi sono puniti nel nono cerchio, il più profondo dell'Inferno.
+- Nel suo racconto Francesca comincia tre terzine con la parola «Amor». Che effetto ottiene e che cosa vuole fa…
+
+## Parini e il giovin signore [lib-2-media-italiano-parini-il-giorno] · SATIRA
+concetti: Parini e l'Illuminismo; Il Giorno; L'ironia del precettore; La vergine cuccia
+- Chi è il protagonista del Giorno di Parini?
+- Il Giorno è scritto in endecasillabi sciolti, cioè senza rima.
+- Quando Parini loda il giovin signore ma vuole farci capire il contrario, usa l'___.
+- Metti in ordine le parti del Giorno, seguendo lo scorrere della giornata.
+- Secondo Parini e gli illuministi, a che cosa deve servire la poesia?
+- Nell'episodio della «vergine cuccia», che cosa succede al servo che ha allontanato la cagnolina?
+- Perché l'ironia di Parini è un'arma più efficace di un attacco diretto?
+- L'episodio della «vergine cuccia» mostra un'ingiustizia. Spiega quale e perché Parini lo racconta.
+
+## Parole che diventano immagini [lib-2-media-italiano-figure-retoriche-significato] · FIGURA
+concetti: La similitudine; La metafora; La personificazione; Iperbole e ossimoro; La sinestesia
+- Quale frase contiene una similitudine?
+- La frase «Quella ragazza è un vulcano di idee» contiene una metafora.
+- Nella frase «Il vecchio albero piangeva sotto la pioggia» c'è una ___, perché l'albero compie un'azione umana.
+- «Ho una fame che mangerei un elefante!» Quale figura usa chi parla?
+- Quale espressione è un ossimoro?
+- Perché l'espressione «un urlo nero» è una sinestesia?
+- Che cosa ottieni se trasformi la similitudine «I tuoi occhi sono come due stelle» in una metafora?
+- Che differenza c'è tra similitudine e metafora? Perché, secondo te, la metafora risulta spesso più forte?
+
+## Partitivo e paragone [lib-2-media-italiano-partitivo-paragone] · PARTE
+concetti: Complemento partitivo; Complemento di paragone; Comparativi e superlativi; Partitivo o paragone?
+- «Il ghepardo è più veloce del leone»: che complemento è «del leone»?
+- In «Alcuni dei miei compagni vanno in piscina», «dei miei compagni» è complemento partitivo.
+- Nella frase «Mio fratello è alto ___ mio padre», manca la parola che introduce il secondo termine di paragone.
+- Qual è il complemento partitivo in «Giulia è la più brava della squadra»?
+- In quale frase c'è un complemento di paragone?
+- Nel comparativo di uguaglianza il secondo termine di paragone può essere introdotto da «come» o «quanto».
+- In «Nessuno di voi è più paziente di Anna», quali complementi ci sono?
+- Spiega la differenza tra complemento partitivo e di paragone partendo da queste frasi: «Marco è il più veloce…
+
+## Perché? Causa e fine [lib-2-media-italiano-causa-fine] · MOTIVO
+concetti: Complemento di causa; Complemento di fine; Causa o fine?; Le preposizioni della causa
+- «La partita è stata rinviata per la pioggia»: che complemento è «per la pioggia»?
+- In «Studio per la verifica di domani», «per la verifica» è un complemento di fine.
+- Nella frase «Il bambino tremava ___ paura», la preposizione mancante introduce un complemento di causa.
+- In quale frase c'è un complemento di fine?
+- In «Molti animali morirono di sete durante la siccità», «di sete» è complemento di…
+- Quale frase contiene sia un complemento di causa sia un complemento di fine?
+- Il complemento di fine indica qualcosa che accade prima dell'azione e la provoca.
+- Le frasi «Corro per il freddo» e «Corro per la vittoria» usano entrambe «per». Spiega quale indica una causa …
+
+## Petrarca e il Canzoniere [lib-2-media-italiano-petrarca-canzoniere] · LAURA
+concetti: La vita; Il Canzoniere; Laura; L'inquietudine interiore
+- Come si chiama la raccolta di poesie d'amore di Petrarca?
+- La donna amata da Petrarca e cantata nelle sue poesie si chiama Beatrice.
+- Il Canzoniere di Petrarca raccoglie in tutto ___ componimenti.
+- In quale città, sede del papa nel Trecento, Petrarca visse a lungo?
+- Perché il nome di Laura si collega all'alloro, detto anche «lauro»?
+- Quale stato d'animo domina in molte poesie del Canzoniere?
+- Il titolo originale del Canzoniere è in latino, anche se le poesie sono in volgare.
+- Perché, secondo te, Petrarca chiamò le sue poesie «frammenti»? Collega la risposta alla sua inquietudine inte…
+
+## Predicato verbale o nominale? [lib-2-media-italiano-predicato-verbale-nominale] · VERBO
+concetti: Il predicato; Il predicato verbale; Il predicato nominale; Essere: copula o no?
+- Senza quale elemento una frase non può esistere?
+- In «Il mare è calmo», che tipo di predicato c'è?
+- In «Gli studenti corrono in palestra» il predicato è verbale.
+- Nel predicato nominale il verbo essere si chiama ___.
+- Qual è la parte nominale in «I gelati di quella gelateria sono buonissimi»?
+- In quale frase il verbo essere è predicato verbale?
+- Nella frase «Siamo arrivati tardi» c'è un predicato nominale perché compare il verbo essere.
+- Confronta «Il gatto è sul divano» e «Il gatto è pigro»: in quale c'è un predicato nominale? Spiega come l'hai…
+
+## Quando e per quanto tempo [lib-2-media-italiano-complementi-di-tempo] · TEMPO
+concetti: Tempo determinato; Tempo continuato; Senza preposizione; Stessa preposizione, tempo diverso
+- «Ci vediamo alle quattro davanti alla scuola»: qual è il complemento di tempo determinato?
+- Il complemento di tempo continuato risponde alla domanda «per quanto tempo?».
+- Nella frase «Abbiamo aspettato l'autobus ___ mezz'ora», la parola mancante introduce un complemento di tempo …
+- In «Ogni sabato mia zia fa la pizza», che complemento è «ogni sabato»?
+- In quale frase c'è un complemento di tempo continuato senza preposizione?
+- In «Ho letto il romanzo in una settimana», «in una settimana» indica quanto è durata l'azione.
+- Nelle frasi «In inverno nevica spesso» e «Ho costruito il modellino in due giorni», i complementi di tempo so…
+- Racconta con una frase che cosa hai fatto ieri pomeriggio, usando un complemento di tempo determinato e uno d…
+
+## Quanto costa? Quanto misura? [lib-2-media-italiano-eta-prezzo-stima-misura] · PREZZO
+concetti: Complemento di età; Prezzo e stima; Complemento di misura; Riconoscerli dal verbo
+- «Mozart compose le sue prime musiche a cinque anni»: che complemento è «a cinque anni»?
+- In «Ho comprato questo libro per dodici euro», «per dodici euro» è complemento di prezzo.
+- Nella frase «Il Monte Bianco è alto più di 4800 ___», manca l'unità del complemento di misura.
+- In quale frase c'è un complemento di stima?
+- Quale verbo ti fa pensare subito a un complemento di prezzo?
+- «La scuola dista due chilometri da casa mia»: che complemento è «due chilometri»?
+- In «Questa collana è stimata mille euro», «mille euro» è complemento di prezzo.
+- Che differenza c'è tra «Il mio vecchio peluche costa poco» e «Il mio vecchio peluche per me vale tantissimo»?…
+
+## Racconto la mia vita [lib-2-media-italiano-autobiografia] · MEMORIA
+concetti: L'autobiografia; La biografia; Narratore e ricordi; L'ordine dei fatti
+- In un'autobiografia, chi racconta la vita del protagonista?
+- In un'autobiografia autore, narratore e protagonista sono la stessa persona.
+- Quando il narratore interrompe la storia per tornare a un fatto del passato usa un ___.
+- Quale frase è tipica di un'autobiografia?
+- Perché in un'autobiografia si trovano spesso commenti come «Allora non lo capivo, ma oggi so che…»?
+- In quale persona è scritta di solito una biografia?
+- In un'autobiografia i fatti devono essere raccontati sempre in ordine cronologico.
+- Scegli un ricordo della tua infanzia e raccontalo in 3-4 frasi come in un'autobiografia, aggiungendo una rifl…
+
+## Rime, strofe e sonetti [lib-2-media-italiano-rime-strofe-sonetto] · STROFA
+concetti: La rima; Gli schemi di rima; Le strofe; Sonetto e versi sciolti
+- Le parole «cuore» e «amore» fanno rima tra loro.
+- Quale coppia di parole forma una rima?
+- Una strofa formata da quattro versi si chiama ___.
+- In una quartina il 1° verso rima con il 2° e il 3° con il 4°. Che schema è?
+- Metti in ordine queste strofe dalla più corta alla più lunga.
+- Come è formato un sonetto?
+- Leggi la quartina: «Il sole scende piano / dietro la collina, / la sera s'avvicina / e tace il mondo lontano»…
+- Che differenza c'è tra versi sciolti e versi liberi? Perché un poeta potrebbe scegliere di rinunciare alla ri…
+
+## Ritratti di persone e luoghi [lib-2-media-italiano-descrivere-persone-luoghi] · PROFILO
+concetti: Il ritratto fisico; Il ritratto caratteriale; L'ordine della descrizione; I cinque sensi
+- Quale di queste informazioni appartiene al ritratto fisico?
+- Per mostrare il carattere di un personaggio si possono raccontare le sue azioni, non solo usare aggettivi.
+- «Si sentiva il profumo del pane appena sfornato»: questo è un dato ___.
+- Una descrizione che parte dal panorama di un paese e arriva a una finestra fiorita segue l'ordine…
+- Metti in ordine le frasi di una descrizione che va dall'alto verso il basso.
+- Quale frase mostra il carattere del nonno attraverso un'azione?
+- Quale frase contiene un dato uditivo?
+- Scrivi un breve ritratto (3-4 frasi) di un personaggio inventato, con almeno un elemento fisico e un elemento…
+
+## Tasso e la Gerusalemme liberata [lib-2-media-italiano-tasso-gerusalemme-liberata] · ARMIDA
+concetti: Una vita tormentata; Il poema della crociata; Amori e incantesimi; Lo spirito della Controriforma
+- Quale evento storico racconta la Gerusalemme liberata?
+- Tasso trascorse sette anni rinchiuso nell'ospedale di Sant'Anna, a Ferrara.
+- Il capo dell'esercito cristiano nella Gerusalemme liberata è ___ di Buglione.
+- Che cosa accade nel duello tra Tancredi e Clorinda?
+- Metti in ordine questi momenti della vicenda di Rinaldo.
+- Perché Tasso scelse un argomento storico e religioso come la crociata?
+- Qual è una differenza importante tra il poema di Tasso e quello di Ariosto?
+- Nel poema di Tasso molti personaggi sono divisi tra dovere e sentimento. Scegli Tancredi o Rinaldo e spiega i…
+
+## Umanesimo e Rinascimento in letteratura [lib-2-media-italiano-umanesimo-rinascimento-letteratura] · LORENZO
+concetti: L'Umanesimo; La stampa; Lorenzo il Magnifico; Machiavelli e Il Principe; Bembo e la lingua
+- Che cosa studiavano con passione gli umanisti del Quattrocento?
+- L'invenzione della stampa a caratteri mobili rese i libri più rari e costosi.
+- «Quant'è bella giovinezza, / che si fugge tuttavia! / chi vuol esser lieto, sia: / di doman non c'è ___.»
+- Che cosa fa di nuovo Machiavelli nel Principe?
+- Metti in ordine cronologico questi fatti.
+- Quali autori indicò Pietro Bembo come modelli per l'italiano letterario?
+- Perché l'invenzione della stampa fu decisiva per la diffusione dell'Umanesimo?
+- Il «Trionfo di Bacco e Arianna» invita a godere della giovinezza perché il domani è incerto. Spiega il messag…
+
+## Una preposizione, tanti complementi [lib-2-media-italiano-ripasso-preposizioni-complementi] · CHIAVE
+concetti: La domanda giusta; I valori di «da»; I valori di «per»; I valori di «con» e «in»
+- In «Ho dormito da mia nonna», «da mia nonna» è complemento di…
+- In «Abbiamo camminato per i boschi per tre ore», i due «per» introducono lo stesso complemento.
+- Per riconoscere un complemento indiretto, oltre alla preposizione devi guardare il significato e farti la ___…
+- In «Ascoltavano la storia in silenzio», «in silenzio» è complemento di…
+- In quale frase «per» introduce un complemento di causa?
+- Quale frase contiene un complemento d'agente introdotto da «da»?
+- «Con il papà, Anna ha montato la tenda con il martello e con molta pazienza»: i tre «con» introducono, nell'o…
+- Perché non puoi riconoscere un complemento guardando solo la preposizione? Spiegalo con un esempio tuo.

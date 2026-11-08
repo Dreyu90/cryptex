@@ -1,0 +1,553 @@
+# 2ª elementare · Italiano: 50 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Acqua, acquario e CQU [lib-2-elementare-italiano-cqu] · ACQUA
+concetti: La famiglia di acqua; CQU nei verbi; Soqquadro, la parola strana
+- Come si scrive il liquido che bevi quando hai sete?
+- Nella parola SOQQUADRO ci sono due Q una dopo l'altra.
+- È arrivato un forte ___ e ci siamo bagnati tutti.
+- Quale di queste parole NON è della famiglia di acqua?
+- Metti in ordine le sillabe per formare la parola ACQUERELLO.
+- Quale di queste frasi, prese da una fiaba, è scritta senza errori?
+- Che cosa vuol dire 'mettere la camera a soqquadro'?
+- Perché ACQUARIO e ACQUERELLO si scrivono con CQU?
+
+## Bau, miao, din don! [lib-2-elementare-italiano-onomatopee-versi] · RUMORE
+concetti: Le onomatopee; I versi degli animali; Onomatopee nei fumetti
+- Quale onomatopea imita qualcuno che bussa alla porta?
+- Il verso dell'asino si chiama raglio: l'asino raglia.
+- Il cavallo ___ nella stalla.
+- Che verso fa il leone?
+- In un fumetto un bambino si tuffa in piscina. Quale onomatopea è più adatta?
+- Che cosa imita l'onomatopea ETCIÙ?
+- Quale coppia animale-verso è sbagliata?
+- Immagina un temporale: scrivi almeno due onomatopee per i rumori che senti e spiega che cosa imitano.
+
+## C'è, ci sono, c'era, c'erano [lib-2-elementare-italiano-c-e-ci-sono] · ESSERCI
+concetti: C'è e ci sono; C'era e c'erano; Come si scrive c'è
+- Completa: «Sul tavolo ___ una torta.»
+- È giusto dire 'Nel prato ci sono tre mucche'.
+- ___ una volta un re che viveva in un castello.
+- Nella frase «Nel prato ... un cane», come si scrive la parola che manca?
+- Quale frase parla del passato?
+- Quale frase è sbagliata?
+- Trasforma al passato: «Ci sono due gatti sul tetto.»
+- Pensa alla tua cartella. Scrivi una frase con C'È e una con CI SONO.
+
+## CIA, GIO, GIU: la I aiutante [lib-2-elementare-italiano-cia-cio-ciu-gia-gio-giu] · GIOCO
+concetti: CIA, CIO, CIU; GIA, GIO, GIU; La I che non si sente
+- Come si scrive il saluto che dici quando incontri un amico?
+- In GIALLO c'è una I che si scrive ma non si sente.
+- Quale mese comincia con GIU?
+- Prima di dormire la mamma mi dà un ___ sulla guancia.
+- Che cosa succederebbe se togliessi la I da GIOSTRA?
+- Metti in ordine le sillabe per formare la parola ARANCIATA.
+- Come si scrive il cibo che si grattugia sulla pasta?
+- Leggi GOLA e GIOIA. Perché in GIOIA c'è la I subito dopo la G?
+
+## Com'è? Le parole che descrivono [lib-2-elementare-italiano-aggettivi-qualificativi] · GENTILE
+concetti: Che cos'è l'aggettivo; L'aggettivo si accorda; Frasi più ricche
+- Nella frase 'Il pallone rosso rotola' qual è l'aggettivo?
+- La parola CORRERE è un aggettivo.
+- Le mie scarpe sono ___.
+- Quale aggettivo descrive il carattere di una persona?
+- Quale gruppo di parole è scritto bene?
+- Quale frase ti fa immaginare meglio il gatto?
+- Trasforma al plurale: 'il fiore profumato'.
+- Descrivi il tuo zaino con almeno tre aggettivi.
+
+## Descrivere con i cinque sensi [lib-2-elementare-italiano-descrivere-cinque-sensi] · SENSI
+concetti: I cinque sensi; Parole per ogni senso; Descrivere con ordine
+- Con quale senso senti il profumo di una torta?
+- La parola RUVIDO descrive qualcosa che senti con il tatto.
+- Il limone ha un sapore ___.
+- Quale parola descrive un suono?
+- Vuoi descrivere un gattino. Che cosa scopri con il tatto?
+- Metti in ordine le frasi della descrizione di una mela.
+- Quale frase è più adatta per cominciare la descrizione del tuo cane?
+- Descrivi il tuo frutto preferito usando almeno tre sensi diversi.
+
+## Dove? Quando? La frase cresce [lib-2-elementare-italiano-espansioni] · QUANDO
+concetti: Che cos'è un'espansione; Espansione di luogo; Espansione di tempo; Con chi? Come?
+- Nella frase 'Il pesce nuota nel lago' quale parte risponde a DOVE?
+- Senza le espansioni non può esistere una frase.
+- Quando comincia la scuola? La scuola comincia ___.
+- Quale espansione risponde alla domanda QUANDO?
+- Nella frase 'Vado al cinema con il papà', le parole 'con il papà' rispondono alla domanda...
+- Quale frase ha due espansioni?
+- Fai crescere la frase: metti in ordine dalla più corta alla più lunga.
+- Allunga la frase minima «Luca legge» con un'espansione di luogo e una di tempo.
+
+## Due parole in una [lib-2-elementare-italiano-parole-composte] · INSIEME
+concetti: Che cos'è; Come si formano; Un significato nuovo
+- Quale di queste è una parola composta?
+- ARCOBALENO è formato dalle parole ARCO e BALENO.
+- Per aprire la scatoletta di tonno uso l'___.
+- Da quali parole è formata FERROVIA?
+- Che cos'è un ASCIUGAMANO?
+- In CASSAFORTE quali tipi di parole si uniscono?
+- Unisci CAPO + STAZIONE. Chi è il capostazione?
+- Inventa una parola composta che non esiste, come MANGIACOMPITI, e spiega che cosa sarebbe.
+
+## Due punti e virgolette: chi parla? [lib-2-elementare-italiano-discorso-diretto] · DIALOGO
+concetti: Le parole dei personaggi; Due punti e virgolette; I verbi del dire
+- Quale segno annuncia che un personaggio sta per parlare?
+- Nella frase 'La mamma disse: «La cena è pronta!»' le parole tra le virgolette sono quelle dette dalla mamma.
+- Per sapere se poteva uscire, il bambino ___: «Posso andare a giocare?»
+- Quale frase con il discorso diretto è scritta bene?
+- Il pirata ___: «Tutti a bordo, presto!» Quale verbo mostra che parla a voce altissima?
+- Leggi: Tommaso disse: «Domani porto il pallone». Chi porterà il pallone?
+- Metti in ordine il dialogo.
+- Trasforma in discorso diretto: «Il nonno mi ha detto che ha preparato la torta.»
+
+## Fiabe: eroi, cattivi e magie [lib-2-elementare-italiano-fiaba-personaggi] · MAGIA
+concetti: Le formule della fiaba; Eroe, antagonista, aiutante; La magia
+- Con quali parole cominciano molte fiabe?
+- In 'Cappuccetto Rosso' il lupo è l'antagonista.
+- In 'Cenerentola' la fata trasforma una zucca in una ___.
+- Nella versione più conosciuta di 'Cappuccetto Rosso', chi salva Cappuccetto e la nonna alla fine?
+- Metti in ordine i fatti di 'Cappuccetto Rosso'.
+- In 'Cenerentola' chi è l'antagonista?
+- Come finiscono di solito le fiabe?
+- Inventa un oggetto magico per una fiaba e spiega come aiuterebbe l'eroe.
+
+## Frase o non frase? [lib-2-elementare-italiano-frase-ordine-parole] · ORDINE
+concetti: Una frase ha senso; L'ordine conta; Maiuscola e punto
+- Quale di questi gruppi di parole è una frase?
+- 'Il topo insegue il gatto' e 'Il gatto insegue il topo' vogliono dire la stessa cosa.
+- Una frase scritta comincia con la maiuscola e finisce con un segno di ___.
+- Quale gruppo di parole NON è una frase?
+- Leggi: «Luca regala un libro a Sara.» Quale frase ha le parole in un altro ordine, ma vuol dire la stessa cos…
+- Quale frase comincia e finisce nel modo giusto?
+- Metti in ordine i pezzi per formare una frase che abbia senso.
+- Usa le parole MANGIA, IL GATTO, IL PESCE per scrivere due frasi in ordine diverso. Che cosa cambia?
+
+## Gattino, gattone e gattaccio [lib-2-elementare-italiano-nomi-alterati] · GATTINO
+concetti: Nomi piccoli; Nomi grandi; Nomi brutti o cattivi; Falsi alterati
+- Come si chiama un piccolo libro?
+- NASONE vuol dire un naso molto grande.
+- Ho preso un brutto voto: è proprio un ___.
+- Quale di queste parole è un diminutivo?
+- Quale parola NON è un nome alterato?
+- Come si chiama un piede molto grande?
+- Metti in ordine dalla più piccola alla più grande.
+- Il MATTONE è un matto grande? Spiega perché sì o perché no.
+
+## GLI: foglie, conigli e tovaglie [lib-2-elementare-italiano-gli] · FOGLIA
+concetti: Il suono GLI; GLI con le vocali; LI o GLI?
+- In quale parola senti il suono GLI?
+- Nella parola FIGLIO il suono GLI è fatto da tre lettere: G, L e I.
+- Come si scrive il plurale di MAGLIA?
+- In autunno cadono le ___ dagli alberi.
+- In quale parola senti LI e non GLI?
+- Metti in ordine le sillabe per formare la parola CONIGLIETTO.
+- GIULIA ha il suono leggero LI. Quale di questi nomi ha invece il suono GLI?
+- Leggi OLIO e FOGLIO. Che differenza senti? Come fai a scegliere tra LI e GLI quando scrivi?
+
+## GN: il suono del ragno [lib-2-elementare-italiano-gn] · RAGNO
+concetti: Due lettere, un suono; GN con le vocali; Di solito niente I
+- In quale parola senti il suono GN?
+- Il digramma GN è formato da due lettere che fanno un solo suono.
+- In classe la maestra scrive con il gesso sulla ___.
+- In inverno andiamo a sciare in... Quale parola è scritta bene?
+- Il cigno nuota elegante sul lago. Quale sillaba con GN c'è in CIGNO?
+- Metti in ordine le sillabe per formare la parola INSEGNANTE.
+- Marco ha scritto: «Faccio il bagnio». Che cosa deve correggere?
+- Quando vai a capo, perché non puoi dividere la parola LEGNO in LEG-NO?
+
+## HA o A? Il verbo avere [lib-2-elementare-italiano-ha-a] · AVERE
+concetti: HA del verbo avere; A senza H; La prova dell'AVEVA
+- In quale frase c'è il verbo avere?
+- Nella frase 'Vado a scuola' la parola A va scritta con la H.
+- Il mio cane ___ il pelo morbido.
+- Fai la prova: in quale frase puoi mettere AVEVA al posto della a?
+- In quale frase la A senza H è scritta giusta?
+- Quante H mancano? «Pietro a un libro e lo porta a scuola.»
+- Nella frase 'Il papà ha la macchina rossa' la prova dell'AVEVA funziona.
+- Scrivi una frase con HA e una con A, poi spiega come hai scelto.
+
+## HO, HAI, HANNO: la H muta [lib-2-elementare-italiano-ho-hai-hanno] · HANNO
+concetti: HO e O; HAI e AI; HANNO e ANNO; La H non si sente
+- Vuoi dire che hai voglia di dormire. Quale frase è scritta bene?
+- Nella frase 'Il prossimo anno andrò in terza' la parola ANNO si scrive senza H.
+- Tu ___ uno zaino bellissimo!
+- In quale frase la O senza H è giusta?
+- Completa: «Porto le briciole ___ piccioni.»
+- In quale frase al posto dei puntini va HANNO, con la H?
+- Perché la H in HO, HAI, HA e HANNO è importante anche se non si sente?
+- Leggi: «Loro anno un anno di tempo.» Trova l'errore e spiega come lo correggi.
+
+## I verbi: le parole che agiscono [lib-2-elementare-italiano-verbi-azioni] · SALTARE
+concetti: Il verbo è un'azione; Le tre famiglie; Il verbo cambia
+- Quale parola è un verbo?
+- Il verbo DORMIRE finisce in -IRE.
+- Il gatto ___ il topo in giardino.
+- Quale verbo finisce in -ERE?
+- Completa: «Noi ___ una canzone.»
+- Nella frase 'La maestra legge una fiaba e i bambini ascoltano' quanti verbi ci sono?
+- Quale frase è scritta bene?
+- Scrivi tre verbi che dicono che cosa fai la mattina prima di andare a scuola.
+
+## Ieri, oggi, domani: i tempi [lib-2-elementare-italiano-passato-presente-futuro] · DOMANI
+concetti: Il passato; Il presente; Il futuro; Le parole del tempo
+- Quale frase è al presente?
+- 'Domani andrò al mare' è una frase al futuro.
+- Ieri ___ al parco con il nonno.
+- Quale parola ti fa capire che l'azione è nel passato?
+- Trasforma al futuro: «Leggo un libro.»
+- Metti in ordine dal più lontano nel passato al più lontano nel futuro.
+- In quale frase il verbo non va d'accordo con la parola del tempo?
+- Racconta in tre frasi una cosa che hai fatto ieri, una che fai oggi e una che farai domani.
+
+## Il contrario di tutto [lib-2-elementare-italiano-contrari] · OPPOSTO
+concetti: Aggettivi contrari; Azioni contrarie; Contrari con un pezzetto
+- Qual è il contrario di PIENO?
+- Il contrario di ENTRARE è USCIRE.
+- Il contrario di ordinato è ___.
+- Qual è il contrario di ACCENDERE la luce?
+- Quale parola è il contrario di FELICE?
+- In quale coppia le parole NON sono contrarie?
+- Completa con due contrari: «La tartaruga è ___, la lepre è ___.»
+- Scrivi il contrario di UTILE e di COMODO e spiega come li hai formati.
+
+## IL, LO, LA: articoli determinativi [lib-2-elementare-italiano-articoli-determinativi] · ZAINO
+concetti: Che cos'è l'articolo; Singolare e plurale; Quando si usa LO
+- Nella frase 'La bambina legge il libro' quali sono gli articoli?
+- Si dice 'il zaino'.
+- Sull'albero salta ___ scoiattolo.
+- Qual è il plurale di 'il pesce'?
+- Qual è il plurale di 'lo gnomo'?
+- Quale gruppo è scritto tutto giusto?
+- Che differenza c'è tra 'Ho visto il cane' e 'Ho visto un cane'?
+- Spiega perché si dice LO STRUZZO ma IL TRENO.
+
+## Inizio, svolgimento e conclusione [lib-2-elementare-italiano-inizio-svolgimento-conclusione] · FINALE
+concetti: L'inizio della storia; Lo svolgimento; La conclusione; Prima, poi, infine
+- In quale parte della storia di solito si presentano i personaggi?
+- La frase 'E da quel giorno vissero felici e contenti' si trova di solito alla fine della storia.
+- Prima mi sono lavato le mani, ___ mi sono seduto a tavola.
+- Leggi: «Il gattino Fiocco salì sull'albero, ma non riusciva più a scendere.» In quale parte della storia può …
+- Metti in ordine la storia.
+- Leggi: «Il pompiere salì con la scala e riportò a terra Fiocco, che fece le fusa.» Che parte della storia è?
+- Quale parola usi per raccontare l'ultimo fatto di una storia?
+- Inventa la parte centrale di questa storia. Inizio: «Bea va in gita in montagna con la classe.» Conclusione: …
+
+## Io sono, io ho [lib-2-elementare-italiano-essere-avere-presente] · VERBO
+concetti: Il verbo essere; Il verbo avere; Essere o avere?
+- Completa: «Noi ___ in classe.»
+- Al presente del verbo avere, solo HO, HAI, HA e HANNO si scrivono con la H.
+- Voi ___ una bella casa.
+- Quale voce del verbo essere va con TU?
+- In quale frase c'è il verbo essere?
+- Completa: «Il nonno ___ stanco e ___ sonno.»
+- Metti in ordine le voci del verbo avere, da io a loro.
+- Scrivi due frasi su di te: una con il verbo essere e una con il verbo avere.
+
+## Istruzioni passo dopo passo [lib-2-elementare-italiano-istruzioni-ricetta] · RICETTA
+concetti: A che cosa servono; Che cosa serve; I passaggi in ordine
+- Quale di questi è un testo che dà istruzioni?
+- Nelle istruzioni l'ordine dei passaggi non è importante.
+- Prima di cominciare leggo l'elenco degli ___ della torta.
+- Vuoi piantare un seme. Che cosa NON fa parte dell'occorrente?
+- Metti in ordine le istruzioni per piantare un seme.
+- Quale frase è scritta come un'istruzione?
+- Perché nei giochi da tavolo c'è un foglio di regole?
+- Scrivi le istruzioni per lavarti le mani, in almeno tre passaggi.
+
+## L'accento in fondo: città, perché [lib-2-elementare-italiano-accento] · ACCENTO
+concetti: Accento sull'ultima vocale; L'accento cambia parola; Parole brevi con accento
+- In quale parola la voce batte forte sull'ultima vocale?
+- La parola LUNEDÌ si scrive con l'accento sulla I finale.
+- Il mio ___ mi accompagna a scuola ogni mattina.
+- Metti in ordine i giorni della settimana, da lunedì a venerdì.
+- Quale parola ha l'accento scritto al posto giusto?
+- Quale di queste parole corte ha bisogno dell'accento?
+- Che cos'è un PERO, scritto senza accento?
+- Perché è importante scrivere l'accento in PAPÀ? Che cosa succede se lo dimentichi?
+
+## L'apostrofo: una vocale che vola [lib-2-elementare-italiano-apostrofo] · ALBERO
+concetti: A che cosa serve; L' davanti a vocale; Dov'è, com'è, quest'anno; Quando non serve
+- Com'è fatto l'apostrofo e dove si scrive?
+- Al posto di QUESTO ANNO si può scrivere QUEST'ANNO.
+- Guarda il mio disegno: ___ colorato!
+- Come si scrive l'articolo LO davanti a ORSO?
+- Quale vocale è caduta in L'ISOLA?
+- Quale gruppo di parole è scritto tutto giusto?
+- Perché si scrive LA MELA e non L'MELA?
+- Da quali due parole nasce DOV'È? Spiega perché ha l'apostrofo e anche l'accento.
+
+## La famiglia del pane [lib-2-elementare-italiano-famiglie-di-parole] · PANINO
+concetti: Parole parenti; Mestieri e luoghi; Falsi parenti
+- Quale parola è della famiglia di FIORE?
+- La LIBRERIA è il negozio dove si vendono i libri.
+- Il ___ prepara il gelato nella gelateria.
+- Quale parola NON fa parte della famiglia di NEVE?
+- Come si chiama chi scrive gli articoli dei giornali?
+- Quale coppia NON è formata da parole della stessa famiglia?
+- Che cosa hanno in comune PANE, PANINO, PANETTIERE e PANIFICIO?
+- Scegli la parola SCUOLA oppure LATTE e scrivi almeno due parole della sua famiglia.
+
+## La favola e la sua morale [lib-2-elementare-italiano-favola-morale] · MORALE
+concetti: Che cos'è la favola; La morale; Esopo e le favole famose
+- Chi sono di solito i protagonisti delle favole?
+- Esopo, l'autore di tante favole famose, visse nell'antica Grecia.
+- La ___ di una favola è l'insegnamento che ci lascia.
+- Nella favola 'La cicala e la formica', la cicala canta tutta l'estate e in inverno ha fame. Qual è la morale?
+- Metti in ordine i fatti della favola 'La lepre e la tartaruga'.
+- Nella favola 'La volpe e l'uva', che cosa dice la volpe quando non riesce a prendere l'uva?
+- Che differenza c'è tra una favola e una fiaba?
+- Secondo te qual è la morale della favola 'La lepre e la tartaruga'? Spiegala con parole tue.
+
+## La H che indurisce i suoni [lib-2-elementare-italiano-che-chi-ghe-ghi] · FUNGHI
+concetti: C e G dure; La H che indurisce; Plurali con la H
+- In quale parola la C ha un suono duro?
+- Per scrivere il suono duro CHI serve la lettera H.
+- Come si scrive il nome del felino velocissimo con le macchie?
+- Una barca, due ___.
+- In quale di queste parole la H è stata messa per sbaglio?
+- Metti in ordine le sillabe per formare la parola MACCHININA.
+- Qual è il plurale di ALBICOCCA?
+- Perché OCA si scrive senza H, mentre il suo plurale OCHE vuole la H?
+
+## La virgola: una piccola pausa [lib-2-elementare-italiano-virgola] · VIRGOLA
+concetti: Una piccola pausa; La virgola negli elenchi; Chiamare qualcuno
+- Che cosa fai con la voce quando leggi una virgola?
+- Nella frase 'Nel giardino ci sono rose, tulipani, margherite e viole' le virgole sono messe bene.
+- Nello zaino ho il diario___ l'astuccio e due quaderni.
+- Dove manca la virgola? «Mangio mele pere e banane.»
+- Stai chiamando la mamma: quale frase è scritta bene?
+- Che differenza c'è tra la virgola e il punto?
+- Perché è importante la virgola in «Andiamo a mangiare, nonno!»?
+- Scrivi un elenco di quattro cose che metti nello zaino, usando bene le virgole.
+
+## Leggo e capisco: chi, dove, quando [lib-2-elementare-italiano-chi-dove-quando] · STORIA
+concetti: I personaggi; Il luogo; Il tempo
+- Leggi: «Giada entrò in cucina e trovò la nonna che impastava la pizza.» Chi sono i personaggi?
+- Leggi: «Sotto l'ombrellone, Teo costruiva un castello di sabbia.» La storia si svolge in montagna.
+- «Era una fredda sera e fuori nevicava.» La storia si svolge, molto probabilmente, in ___.
+- Leggi: «Tra gli scaffali pieni di libri, Lia cercava una storia di pirati.» Dove si trova Lia?
+- Leggi: «Il riccio Spino aveva paura del buio. Una notte la civetta Lulù lo accompagnò a vedere le stelle.» Ch…
+- Quale inizio ti dice QUANDO succede una storia?
+- Leggi: «Marco sentì la campanella, prese lo zaino e salutò la maestra.» Dove si trova, molto probabilmente, M…
+- Leggi: «Una mattina d'estate, Nina e il fratello Leo partirono per il bosco con un cestino per raccogliere le…
+
+## M prima di B e P [lib-2-elementare-italiano-m-prima-di-b-p] · TROMBA
+concetti: La regola della M; N davanti alle altre; Labbra chiuse
+- Come si scrive la parola che vuol dire 'bimbo'?
+- La parola CAMPO si scrive con la N: canpo.
+- Sul fiume c'è un ___ di legno.
+- In quale di queste parole la N è al posto giusto?
+- Perché davanti a B e P si mette la M?
+- Metti in ordine le sillabe per formare la parola OMBRELLONE.
+- Quante parole sono sbagliate? «Il bambino gioca nel canpo con la tronba.»
+- Spiega perché si scrive TEMPO con la M e TENDA con la N.
+
+## Maiuscola sì, maiuscola no [lib-2-elementare-italiano-maiuscole] · ROMA
+concetti: Inizio della frase; I nomi propri; Giorni e mesi minuscoli
+- Leggi: «oggi andiamo al parco con la nonna.» Quale parola deve avere la maiuscola?
+- Il mese di settembre si scrive con la S maiuscola.
+- Fido, Napoli e Po sono nomi propri: si scrivono con la lettera ___.
+- Quale di queste parole deve avere la maiuscola?
+- In quale frase manca una maiuscola dopo il punto?
+- In quale frase c'è un errore di maiuscola?
+- Anna ha scritto: «Il mio amico marco abita a firenze.» Quante maiuscole mancano?
+- Perché in «Sabato vado al mare» SABATO ha la maiuscola, mentre in «Vado al mare sabato» ha la minuscola?
+
+## Maschile o femminile? [lib-2-elementare-italiano-maschile-femminile] · GENERE
+concetti: Maschile e femminile; Come cambia il nome; Nomi tutti diversi
+- Quale nome è femminile?
+- Anche le cose, come il tavolo e la sedia, hanno un genere.
+- Il maestro e la ___ portano la classe in gita.
+- Qual è il femminile di LEONE?
+- Qual è il femminile di FRATELLO?
+- Qual è il femminile di ATTORE?
+- Quale coppia maschile-femminile è sbagliata?
+- Perché diciamo LA CHIAVE ma IL FIORE, anche se tutte e due le parole finiscono con la E?
+
+## Nomi comuni e nomi propri [lib-2-elementare-italiano-nomi-comuni-propri] · FIDO
+concetti: Il nome comune; Il nome proprio; Coppie comune e proprio
+- Quale di questi è un nome proprio?
+- La parola MAESTRA è un nome comune.
+- Il Po è il ___ più lungo d'Italia.
+- In quale gruppo ci sono solo nomi comuni?
+- L'Etna è un nome proprio. Qual è il suo nome comune?
+- Perché BIRBA ha la maiuscola nella frase 'Il mio cane si chiama Birba'?
+- Quale coppia unisce bene nome proprio e nome comune?
+- Scrivi il nome comune e il nome proprio di una persona o di un animale che conosci, poi spiega la differenza.
+
+## Ordine alfabetico e dizionario [lib-2-elementare-italiano-ordine-alfabetico] · ELENCO
+concetti: L'alfabeto italiano; Ordine per prima lettera; Se la prima è uguale; Il dizionario
+- Quante lettere ha l'alfabeto italiano?
+- La lettera K fa parte delle 21 lettere dell'alfabeto italiano.
+- Quale parola viene prima in ordine alfabetico?
+- Metti questi animali in ordine alfabetico.
+- In ordine alfabetico, MARE viene prima di ___.
+- Quale coppia è già in ordine alfabetico?
+- Vuoi cercare la parola ZUCCA nel dizionario. Dove la trovi?
+- A che cosa ti serve il dizionario? Racconta una volta in cui potresti usarlo.
+
+## Pala o palla? Le doppie [lib-2-elementare-italiano-doppie] · PALLA
+concetti: Sentire la doppia; Doppie che cambiano parola; Doppie e sillabe
+- In quale parola c'è una doppia?
+- PALA e PALLA vogliono dire la stessa cosa.
+- Il ___ ha quattro ruote ed è tirato dal cavallo.
+- Come si scrive l'animale del pollaio che fa le uova?
+- In quale coppia le parole cambiano significato solo per una doppia?
+- Metti in ordine le sillabe per formare la parola BICICLETTA.
+- Come si divide in sillabe la parola MAMMA?
+- Inventa una frase con NONO e una con NONNO. Perché è importante scrivere bene la doppia?
+
+## Parole gemelle: i sinonimi [lib-2-elementare-italiano-sinonimi] · SIMILE
+concetti: Che cos'è un sinonimo; Per non ripetere; La parola giusta
+- Qual è un sinonimo di CONTENTO?
+- PAURA e SPAVENTO sono sinonimi.
+- Marco ha corso tanto: è stanco, anzi è proprio ___.
+- Qual è un sinonimo di VELOCE?
+- Leggi: «Ho visto un bel film e un bel cartone in una bella sala.» Come puoi migliorare la frase?
+- AMPIO è un sinonimo di GRANDE. In quale frase, però, AMPIO non va bene?
+- Quale coppia NON è formata da sinonimi?
+- Scrivi un sinonimo di ALLEGRO e uno di BUONO (per il cibo), poi inventa una frase con uno dei due.
+
+## Punto, domanda o esclamazione? [lib-2-elementare-italiano-punto-interrogativo-esclamativo] · DOMANDA
+concetti: Il punto fermo; Il punto interrogativo; Il punto esclamativo
+- Quale segno metti alla fine di «Dove vai»?
+- Alla fine della frase 'Il gatto dorme sul divano' va bene il punto fermo.
+- Aiuto, c'è un ragno gigante___
+- Quale frase ha bisogno del punto esclamativo?
+- Leggi la risposta: «Ho otto anni.» Quale poteva essere la domanda?
+- Quale frase ha il segno giusto alla fine?
+- Il punto esclamativo si usa anche per dare un ordine, come in 'Chiudi la porta!'.
+- Scrivi tre frasi sul tuo animale preferito: una con il punto, una con il punto interrogativo e una con il pun…
+
+## QU o CU? Quaderno e cuore [lib-2-elementare-italiano-qu-cu] · QUERCIA
+concetti: La Q vuole la U; CU davanti a consonante; Le parole da ricordare
+- Quale lettera viene sempre dopo la Q?
+- SCUOLA si scrive con CU, anche se dopo la U c'è una vocale.
+- Per i compiti scrivo sul mio ___.
+- Quale parola si scrive con CU perché dopo la U c'è una consonante?
+- Come si scrive il numero che viene dopo il quattordici?
+- Quale di queste parole è una delle 'speciali' con CU seguito da vocale?
+- Metti in ordine le sillabe per formare la parola QUADRIFOGLIO.
+- Luca ha scritto «qurva» e «quore». Spiega quali sono gli errori e come si correggono.
+
+## Rime, versi e strofe [lib-2-elementare-italiano-rime-versi-strofe] · RIMA
+concetti: Il verso; La strofa; La rima; La filastrocca
+- Quale parola fa rima con GATTO?
+- Ogni riga di una poesia si chiama verso.
+- Completa la rima: «Sopra il tetto c'è un uccellino, canta allegro ogni ___.»
+- Che cos'è una strofa?
+- Quale coppia NON fa rima?
+- Una poesia ha 3 strofe e ogni strofa ha 4 versi. Quanti versi ha in tutto?
+- Che cosa rende speciale una filastrocca?
+- Inventa due versi che fanno rima sulla tua stagione preferita.
+
+## Ripasso: caccia all'errore [lib-2-elementare-italiano-ripasso-ortografia] · ERRORE
+concetti: Digrammi e suoni; H, accento e apostrofo; Doppie e lettera M
+- Caccia all'errore: quale parola è scritta senza errori?
+- Nella frase 'Mio fratello ha un'auto rossa' non ci sono errori.
+- La ___ della scuola suona alle otto.
+- In quale frase c'è un errore?
+- Quanti errori ci sono? «Oggi e venerdi e o la merenda.»
+- Quale coppia ha le doppie giuste?
+- Sulla spiaggia ho trovato una bella ___. Come si scrive la parola che manca?
+- Correggi la frase e spiega gli errori: «Lalbero a le foglie verdi.»
+
+## Ripasso: nomi, articoli e verbi [lib-2-elementare-italiano-ripasso-grammatica] · RIPASSO
+concetti: Nomi e articoli; Gli aggettivi; I verbi; La frase
+- Nella frase 'La volpe corre nel bosco', che tipo di parola è VOLPE?
+- Nella frase 'Il cielo azzurro è bellissimo' ci sono due aggettivi.
+- Mentre la mamma cucina, i bambini ___ la tavola.
+- Quale articolo va davanti a SPECCHIO?
+- Nella frase 'Dopo pranzo il nonno dorme sul divano', qual è il soggetto?
+- Trasforma al femminile: «Il gattino bianco e curioso.»
+- Quale di questi gruppi di parole è una frase completa?
+- Scrivi una frase su un animale che contenga un articolo, un nome, un aggettivo e un verbo. Poi indica che cos…
+
+## SCE, SCI: scivolando sulla neve [lib-2-elementare-italiano-sce-sci] · SCIARPA
+concetti: Il suono SCE, SCI; SCIA, SCIO, SCIU; SCA, SCO, SCU
+- In quale parola senti il suono di 'sci'?
+- Per scrivere ASCIUGAMANO serve la I dopo SC.
+- Nell'acquario nuota un ___ rosso.
+- Come si scrive la parte dura che protegge l'uovo?
+- In quale parola SC ha un suono duro?
+- Metti in ordine le sillabe per formare la parola SCIVOLARE.
+- Se in SCARPA aggiungi una I subito dopo SC, che cosa ottieni?
+- Perché in SCIARPA c'è la I dopo SC, mentre in SCENA no?
+
+## SCHE e SCHI: suoni duri [lib-2-elementare-italiano-sche-schi] · SCHIUMA
+concetti: SCHE, SCHI duri; Una H cambia tutto; Plurali con SCHE, SCHI
+- In quale parola senti SCHI con il suono duro?
+- In SCHELETRO la H non si pronuncia, ma serve a rendere duro il suono.
+- Quale di questi frutti, al plurale, si scrive con SCHE?
+- Il vigile fa un ___ con il fischietto.
+- Qual è il plurale di BOSCO?
+- Metti in ordine le sillabe per formare la parola MASCHERINA.
+- Quale frase è scritta tutta giusta?
+- PESCE e PESCHE sono parole diverse, anche se cambia solo una lettera. Spiega perché.
+
+## Soggetto e predicato: frase minima [lib-2-elementare-italiano-soggetto-predicato] · FRASE
+concetti: La frase minima; Il soggetto; Il predicato
+- Nella frase 'Marta canta' chi compie l'azione?
+- 'Il sole splende' è una frase minima.
+- Il treno ___.
+- Nella frase 'I bambini giocano' qual è il predicato?
+- Quale di queste è una frase minima?
+- Nella frase 'Nel cielo vola un aquilone' qual è il soggetto?
+- Al gruppo di parole «La bambina bionda» manca qualcosa per diventare una frase. Che cosa?
+- Spiega come fai a trovare il soggetto in una frase. Fai un esempio.
+
+## Suoni dolci: CE, CI, GE, GI [lib-2-elementare-italiano-ce-ci-ge-gi] · GIRAFFA
+concetti: C dolce; G dolce; Dolce o duro?
+- In quale parola senti il suono dolce della C?
+- Nella parola GELATO la G ha un suono duro, come in GATTO.
+- Quale di queste parole contiene GI con il suono dolce?
+- Il contrario di 'salato' è ___.
+- In quale coppia la C ha due suoni diversi?
+- Metti in ordine le sillabe per formare la parola GENITORI.
+- Leggi CA, CO, CU, CE, CI. Quante di queste sillabe hanno il suono dolce?
+- Perché la C di CASA e la C di CENA suonano in modo diverso?
+
+## UN, UNO, UNA: articoli indeterminativi [lib-2-elementare-italiano-articoli-indeterminativi] · UOVO
+concetti: Una cosa qualsiasi; UN e UNO; UNA e UN'
+- Quale articolo va davanti a GELATO?
+- Nella frase 'In giardino c'è un uccellino' non sappiamo di quale uccellino si tratti.
+- Per il compleanno ho ricevuto ___ zainetto nuovo.
+- Davanti a quale nome si scrive UN' con l'apostrofo?
+- In quale frase si parla di una cosa precisa e conosciuta?
+- Quale coppia è scritta in modo sbagliato?
+- Quale frase usa bene UN e UN'?
+- La maestra dice: «Prendete un foglio.» Poi aggiunge: «Ora piegate il foglio a metà.» Perché la prima volta us…
+
+## Uno o tanti? Il plurale [lib-2-elementare-italiano-singolare-plurale] · PLURALE
+concetti: Singolare e plurale; Come cambia la vocale; Nomi che non cambiano
+- Quale nome è al plurale?
+- Il plurale di CITTÀ è CITTÀ.
+- Una casa, tante ___.
+- Qual è il plurale di FIORE?
+- In quale frase c'è un nome al singolare?
+- Quale di questi nomi resta uguale al plurale?
+- Trasforma al plurale: «Il bambino mangia la mela.»
+- LA CITTÀ e LE CITTÀ: la parola non cambia. Come fai a capire se si parla di una città sola o di tante?
+
+## Vado a capo con le sillabe [lib-2-elementare-italiano-sillabe-a-capo] · RIGA
+concetti: Che cos'è una sillaba; Andare a capo; Regole speciali
+- Quante sillabe ha la parola TAVOLO?
+- Ogni sillaba contiene almeno una vocale.
+- Qual è la divisione giusta di RAGNO?
+- La parola PASTA si divide così: PA-___.
+- Sei a fine riga e devi scrivere ELEFANTE. Come vai a capo?
+- Quale parola è divisa in modo sbagliato?
+- Metti in ordine le sillabe per formare la parola ASTRONAUTA.
+- Perché quando vai a capo non puoi spezzare una parola dove vuoi?
+
+## È o E? Scegli bene [lib-2-elementare-italiano-e-con-accento-o-senza] · ESSERE
+concetti: È del verbo essere; E che unisce; La prova dell'ERA
+- In quale frase la E unisce due parole?
+- Nella frase 'Il cielo è blu' la parola È è il verbo essere.
+- La mia maestra ___ molto simpatica.
+- Quale parola puoi mettere al posto di È per capire se ci vuole l'accento?
+- In quale frase la e senza accento è scritta giusta?
+- Quante volte manca l'accento? «Il prato e verde e il fiore e giallo.»
+- Che cosa succede se in 'Anna è felice' togli l'accento?
+- Spiega come fai a capire se scrivere È o E nella frase «Il gelato ... buono».

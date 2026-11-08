@@ -1,0 +1,564 @@
+# 1ª media · Scienze: 51 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Acqua dolce, un tesoro raro [lib-1-media-scienze-acqua-dolce-risorsa] · FALDA
+concetti: Acqua salata e dolce; Dove si trova l'acqua dolce; L'acqua potabile; Risparmiare l'acqua
+- Circa quanta parte dell'acqua della Terra è salata?
+- Dove si trova la maggior parte dell'acqua dolce del pianeta?
+- Fiumi e laghi contengono la maggior parte dell'acqua dolce della Terra.
+- L'acqua che si può bere senza pericoli per la salute si chiama acqua ___.
+- Perché non è sicuro bere l'acqua di un torrente di montagna, anche se è limpida?
+- Quale di queste abitudini fa risparmiare più acqua?
+- Un rubinetto che perde una goccia al secondo spreca circa 4 litri d'acqua al giorno. Quanti litri spreca in u…
+- Sulla Terra c'è tantissima acqua, eppure si dice che l'acqua dolce è una risorsa preziosa e limitata. Perché?
+
+## Amebe, parameci e alghe [lib-1-media-scienze-protisti] · AMEBA
+concetti: Chi sono i Protisti; I protozoi; Le alghe unicellulari; Protisti e salute
+- Dove vivono soprattutto i Protisti?
+- Come si muove un'ameba?
+- Le alghe unicellulari del mare producono una grande parte dell'ossigeno della Terra.
+- Il paramecio si muove grazie a migliaia di ___, piccoli peli che battono come remi.
+- Quale malattia è causata da un protozoo trasmesso dalle zanzare?
+- Che cosa distingue un'alga unicellulare da un'ameba?
+- Perché ameba e paramecio non fanno parte delle Monere, anche se hanno una sola cellula?
+- Perché, per combattere la malaria, in molti Paesi si cerca di ridurre le zanzare e si dorme sotto le zanzarie…
+
+## Anfibi, una doppia vita [lib-1-media-scienze-anfibi] · GIRINO
+concetti: Vita tra acqua e terra; La pelle che respira; La metamorfosi della rana; Anuri e urodeli
+- Che cosa significa la parola «anfibio»?
+- Le rane hanno la pelle coperta di squame per non seccarsi.
+- Con che cosa respira un girino appena nato?
+- Salamandra e tritone conservano la coda anche da adulti: sono anfibi ___.
+- Perché le rane vivono sempre vicino all'acqua o in luoghi umidi?
+- Che cosa fanno molte rane e molti rospi durante l'inverno?
+- Metti in ordine le fasi della metamorfosi della rana.
+- Gli scienziati dicono che gli anfibi segnalano bene l'inquinamento. Perché secondo te sono così sensibili all…
+
+## Aria calda e aria compressa [lib-1-media-scienze-aria-calda-aria-compressa] · PALLONE
+concetti: L'aria si comprime; L'aria compressa al lavoro; L'aria calda sale; L'aria fredda scende
+- Tappi con il dito il beccuccio di una siringa piena solo d'aria e spingi lo stantuffo. Che cosa succede?
+- Se nella siringa tappata ci fosse acqua invece di aria, lo stantuffo si spingerebbe con la stessa facilità.
+- Perché le gomme della bicicletta vengono gonfiate con aria compressa?
+- Una mongolfiera si alza in volo perché l'aria al suo interno, scaldata dal bruciatore, diventa meno ___ dell'…
+- Che cosa deve fare il pilota di una mongolfiera per scendere dolcemente?
+- Dove conviene montare il condizionatore che rinfresca una stanza?
+- Perché un sub può restare sott'acqua a lungo con una bombola piccola?
+- Perché quando apri il frigorifero senti l'aria fredda soprattutto sui piedi e non sul viso?
+
+## Atomi, elementi e composti [lib-1-media-scienze-atomi-elementi-composti] · ATOMO
+concetti: Gli atomi; Le molecole; Gli elementi; I composti
+- Quale affermazione sugli atomi è corretta?
+- Qual è il simbolo chimico dell'ossigeno?
+- Una molecola d'acqua è formata da due atomi di idrogeno e un atomo di ___.
+- L'oro puro è un elemento perché è formato da un solo tipo di atomo.
+- Quale di queste sostanze è un composto?
+- Idrogeno e ossigeno sono gas, eppure insieme formano l'acqua, che è liquida. Che cosa dimostra questo fatto?
+- La formula CO₂ indica una molecola formata da...
+- Qual è la differenza tra un elemento e un composto? Fai un esempio per ciascuno.
+
+## Batteri, piccoli ma potenti [lib-1-media-scienze-batteri] · YOGURT
+concetti: Procarioti ed eucarioti; Forme e riproduzione; Batteri utili; Batteri dannosi e antibiotici
+- Come si chiamano i batteri a forma di bastoncino?
+- Che cosa manca nella cellula di un batterio, rispetto a una cellula animale?
+- Tutti i batteri sono dannosi e causano malattie.
+- Le medicine che combattono le infezioni causate dai batteri si chiamano ___.
+- Hai il raffreddore, che è causato da un virus. Serve prendere un antibiotico?
+- Che cosa fanno i fermenti lattici quando si prepara lo yogurt?
+- Un batterio si divide in due ogni 20 minuti. Partendo da un solo batterio, quanti batteri ci saranno dopo un'…
+- Perché è importante lavarsi le mani prima di mangiare, anche quando non sembrano sporche?
+
+## Calore o temperatura? [lib-1-media-scienze-calore-e-temperatura] · CALORE
+concetti: La temperatura; Il calore; L'equilibrio termico; Calore e quantità di materia
+- Che cosa succede alle particelle di un corpo quando la sua temperatura aumenta?
+- Il calore passa spontaneamente dal corpo più caldo a quello più freddo.
+- Tieni in mano un cubetto di ghiaccio e senti freddo. Che cosa sta succedendo?
+- Quando due corpi a contatto raggiungono la stessa temperatura, si dice che sono in equilibrio ___.
+- Immergi una bottiglia d'acqua a 20 °C in una bacinella d'acqua a 40 °C. Dopo un po' di tempo, l'acqua della b…
+- Una vasca da bagno e una tazza sono piene d'acqua a 40 °C. Quale contiene più energia termica?
+- Metti in ordine questi liquidi, da quello con le particelle più lente a quello con le particelle più veloci.
+- Perché una pentola piena d'acqua impiega più tempo a bollire di un pentolino con poca acqua, sullo stesso for…
+
+## Che cosa rende vivo un essere? [lib-1-media-scienze-caratteristiche-dei-viventi] · VITA
+concetti: Le funzioni vitali; Reagire agli stimoli; Autotrofi ed eterotrofi; Fatti di cellule
+- Quale di questi NON è un essere vivente?
+- Come si chiamano gli esseri viventi che producono da soli il proprio nutrimento?
+- I funghi sono autotrofi perché, come le piante, fanno la fotosintesi.
+- I cambiamenti dell'ambiente che un essere vivente percepisce, come la luce o il calore, si chiamano ___.
+- Quale di questi è un esempio di risposta a uno stimolo?
+- Un'automobile si muove, consuma carburante ed emette gas di scarico. Perché non è un essere vivente?
+- Che cosa hanno in comune un batterio, una quercia e un elefante?
+- Perché si dice che tutti gli animali dipendono dalle piante per nutrirsi, anche i carnivori?
+
+## Chi vive sotto i nostri piedi [lib-1-media-scienze-vita-nel-suolo] · COMPOST
+concetti: Gli abitanti del suolo; I decompositori; Il lavoro dei lombrichi; Proteggere il suolo
+- Quali sono gli organismi più numerosi nel suolo?
+- Funghi e batteri che trasformano i resti di piante e animali in sali minerali si chiamano ___.
+- Perché i contadini sono contenti di trovare tanti lombrichi nel loro campo?
+- Senza decompositori, foglie e animali morti si accumulerebbero e il suolo perderebbe i sali minerali per le p…
+- Metti in ordine il viaggio di una foglia caduta in autunno.
+- Perché su un pendio senza alberi le piogge forti portano via più terra?
+- Che cosa significa «consumo di suolo»?
+- Perché il compost fatto con gli scarti di cucina è utile per l'orto e per l'ambiente?
+
+## Come nasce il suolo [lib-1-media-scienze-formazione-del-suolo] · HUMUS
+concetti: Che cos'è il suolo; La disgregazione delle rocce; Il contributo dei viventi; Tempi lunghissimi
+- Che cos'è il suolo?
+- Come fa il gelo a spaccare le rocce?
+- I ___ sono tra i primi organismi capaci di vivere sulla roccia nuda e di iniziare a sgretolarla.
+- Per formare pochi centimetri di suolo fertile bastano pochi anni.
+- Metti in ordine le tappe della nascita di un suolo.
+- In che modo le radici di un albero contribuiscono a formare il suolo?
+- Da quali componenti è formato un suolo?
+- Perché si dice che il suolo è una risorsa che, nei tempi di una vita umana, non si rinnova?
+
+## Come viaggia il calore [lib-1-media-scienze-propagazione-del-calore] · SOLE
+concetti: La conduzione; La convezione; L'irraggiamento; Colori e radiazioni
+- Lasci un cucchiaio di metallo in una pentola di minestra calda e dopo un po' anche il manico scotta. Come è a…
+- Come arriva fino a noi il calore del Sole, attraverso lo spazio vuoto?
+- Nei liquidi e nei gas il calore si propaga soprattutto per ___, con correnti di materia calda che sale e fred…
+- D'estate, sotto il sole, una maglietta nera si scalda più di una maglietta bianca.
+- Il termosifone è vicino al pavimento, eppure scalda tutta la stanza. Perché?
+- Seduto accanto a un falò senti caldo sul viso, anche se l'aria intorno è fresca. Come ti arriva il calore?
+- Metti in ordine che cosa succede in una pentola d'acqua messa sul fuoco.
+- Perché in molti paesi caldi del Mediterraneo le case sono dipinte di bianco?
+
+## Conchiglie, zampe e antenne [lib-1-media-scienze-molluschi-artropodi] · INSETTO
+concetti: I molluschi; Gli artropodi; Gli insetti; Aracnidi e crostacei; La metamorfosi
+- Quante zampe ha un insetto?
+- Il ragno è un insetto.
+- La cozza ha il corpo molle chiuso tra due valve. A quale gruppo di molluschi appartiene?
+- Lo scheletro esterno rigido degli artropodi si chiama ___.
+- Perché un granchio, per crescere, deve fare la muta?
+- Trovi un animaletto con otto zampe, senza antenne e con il corpo diviso in due parti. Che cos'è?
+- Metti in ordine le fasi della metamorfosi di una farfalla.
+- Il polpo è un mollusco, ma non ha la conchiglia esterna come la chiocciola. Che cosa hanno in comune polpo e …
+
+## Conduttori e isolanti termici [lib-1-media-scienze-conduttori-e-isolanti] · PIUMINO
+concetti: I conduttori termici; Gli isolanti termici; Caldo e freddo al tatto; Isolanti ogni giorno
+- Quale di questi materiali è il miglior conduttore di calore?
+- Il manico delle pentole è spesso di legno o plastica perché questi materiali sono ___ termici.
+- Al mattino, a piedi nudi, le piastrelle del bagno sembrano più fredde del tappeto, anche se sono alla stessa …
+- Quale materiale useresti per una scatola che tenga freddi i gelati il più a lungo possibile?
+- A che cosa serve lo strato d'aria tra le due lastre di una finestra con doppio vetro?
+- Come fa un thermos a mantenere calda una tisana per ore?
+- Un cubetto di ghiaccio avvolto in una sciarpa di lana fonde più in fretta di uno lasciato all'aria.
+- Perché d'inverno gli uccellini gonfiano le piume e sembrano delle palline?
+
+## Corpi che si allungano col caldo [lib-1-media-scienze-dilatazione-termica] · BINARIO
+concetti: Che cos'è la dilatazione; Perché avviene; Solidi, liquidi e gas; Dilatazione e costruzioni
+- Che cosa succede, di solito, a un corpo quando viene scaldato?
+- Quando un corpo si dilata, le sue particelle diventano più grandi.
+- Tra le parti di un ponte si lasciano piccoli spazi chiamati giunti di ___.
+- Metti un palloncino gonfio in frigorifero per un'ora. Che cosa succede?
+- Quale di questi si dilata di più se viene scaldato di 10 °C?
+- Il coperchio di metallo di un barattolo di vetro è bloccato e non si svita. Che cosa può aiutarti?
+- Perché d'estate i fili elettrici tra un palo e l'altro pendono più che d'inverno?
+- Spiega, pensando alle particelle, perché un binario si allunga d'estate e si accorcia d'inverno.
+
+## Dal frutto al seme che germoglia [lib-1-media-scienze-frutto-seme-germinazione] · SEME
+concetti: Il frutto; Com'è fatto il seme; La disseminazione; La germinazione
+- Da quale parte del fiore si forma il frutto?
+- Fagioli e piselli sono semi contenuti in un frutto secco chiamato baccello.
+- Quale parte del seme diventerà la nuova pianta?
+- Il rivestimento esterno che protegge il seme si chiama ___.
+- I semi del tarassaco, il «soffione», hanno una specie di piccolo paracadute. Come vengono dispersi?
+- Perché molte piante producono frutti dolci e colorati, come le ciliegie?
+- Metti in ordine le fasi della germinazione di un fagiolo.
+- Marco mette dei semi di fagiolo in un barattolo con cotone asciutto e li tiene al caldo. Dopo una settimana n…
+
+## Dalla sorgente al depuratore [lib-1-media-scienze-acquedotto-e-depurazione] · FONTE
+concetti: L'acquedotto; La potabilizzazione; Fognature e depuratori; L'inquinamento delle acque
+- Che cos'è un acquedotto?
+- Dove va l'acqua che scarichi dal lavandino?
+- Per eliminare i microbi, all'acqua dell'acquedotto si aggiungono piccolissime quantità di ___.
+- Il depuratore serve a rendere potabile l'acqua prima che arrivi nelle case.
+- Metti in ordine il percorso dell'acqua: dalla natura al tuo rubinetto, e ritorno.
+- In un lago vicino a campi molto concimati crescono troppe alghe e i pesci muoiono. Perché?
+- Perché non si deve buttare nel lavandino l'olio usato per friggere?
+- Che cosa succederebbe a un fiume se gli scarichi delle fognature di una città ci finissero direttamente, senz…
+
+## Di che cosa è fatta l'aria [lib-1-media-scienze-composizione-aria] · AZOTO
+concetti: Un miscuglio di gas; L'ossigeno; L'anidride carbonica; L'aria è materia
+- Qual è il gas più abbondante nell'aria che respiriamo?
+- Quale gas dell'aria è indispensabile perché un fuoco possa bruciare?
+- L'anidride carbonica forma circa un quinto dell'aria.
+- L'ossigeno dell'aria è prodotto soprattutto da piante e alghe con la ___.
+- Spingi un bicchiere capovolto dritto dentro una bacinella d'acqua: l'acqua non riempie il bicchiere. Perché?
+- Da dove viene l'anidride carbonica che si aggiunge continuamente all'aria?
+- Su una bilancia molto precisa pesi un pallone sgonfio e poi lo stesso pallone ben gonfiato. Che cosa scopri?
+- Perché si dice che i boschi e le alghe del mare sono importanti per l'aria che respiriamo?
+
+## Effetto serra e clima che cambia [lib-1-media-scienze-effetto-serra-clima] · SERRA
+concetti: L'effetto serra naturale; Gas serra in aumento; Il riscaldamento globale; Che cosa possiamo fare
+- Che cosa fanno i gas serra nell'atmosfera?
+- Senza l'effetto serra naturale la Terra sarebbe molto più fredda e quasi invivibile.
+- Quale attività umana aumenta di più l'anidride carbonica nell'aria?
+- L'aumento della temperatura media di tutta la Terra si chiama riscaldamento ___.
+- Quale di queste è una conseguenza del riscaldamento globale?
+- Perché tagliare e bruciare le foreste fa aumentare l'effetto serra?
+- Quale di queste scelte aiuta a ridurre l'emissione di gas serra?
+- Perché lo scioglimento dei ghiacci della Groenlandia e dell'Antartide è un problema per le città costiere?
+
+## Funghi, muffe e lieviti [lib-1-media-scienze-funghi-muffe-lieviti] · LIEVITO
+concetti: Com'è fatto un fungo; Come si nutrono; Muffe e lieviti; Funghi velenosi
+- Come si chiamano i filamenti sottilissimi che formano il corpo di un fungo?
+- Perché i funghi possono crescere anche al buio, per esempio in una cantina?
+- I funghi a cappello si riproducono grazie alle ___, minuscole cellule prodotte sotto il cappello.
+- Un fungo si può mangiare senza pericolo se ha un bell'aspetto e un buon profumo.
+- Quale importante medicina fu scoperta grazie a una muffa?
+- Perché un impasto di pane con il lievito, lasciato al caldo, si gonfia?
+- Nel bosco i funghi decompositori svolgono un compito importante. Quale?
+- Quando raccogli un fungo nel bosco, non hai preso «tutto» il fungo. Spiega perché e dove si trova la parte pr…
+
+## Gli strati dell'atmosfera [lib-1-media-scienze-strati-atmosfera] · OZONO
+concetti: Che cos'è l'atmosfera; La troposfera; Stratosfera e ozono; Gli strati più alti
+- Che cos'è l'atmosfera?
+- In quale strato dell'atmosfera si formano nuvole, pioggia e vento?
+- Lo strato di ___ nella stratosfera assorbe gran parte dei raggi ultravioletti del Sole.
+- Salendo in montagna, nella troposfera, la temperatura dell'aria di solito diminuisce.
+- Metti in ordine gli strati dell'atmosfera, dal più vicino al suolo al più lontano.
+- Le «stelle cadenti» sono piccoli frammenti che bruciano entrando nell'atmosfera. In quale strato succede sopr…
+- Perché un «buco» nello strato di ozono è un problema per la nostra salute?
+- La Luna non ha atmosfera: di giorno la sua superficie è caldissima e di notte gelida. Prova a spiegare perché.
+
+## Gocce, tubicini e vasi comunicanti [lib-1-media-scienze-acqua-tensione-capillarita] · GOCCIA
+concetti: Tensione superficiale; Capillarità; Vasi comunicanti; Pressione dell'acqua
+- Quale fenomeno permette a un insetto come il gerride di camminare sull'acqua senza affondare?
+- Se immergi l'angolo di un fazzoletto di carta nell'acqua, l'acqua sale lungo la carta per ___.
+- In due recipienti collegati alla base, uno largo e uno stretto, l'acqua raggiunge lo stesso livello.
+- Perché le dighe sono molto più spesse alla base che in cima?
+- Fai tre buchi a diverse altezze in una bottiglia di plastica piena d'acqua. Da quale buco esce il getto più l…
+- Che cosa aiuta l'acqua a salire dalle radici fino alle foglie di una pianta?
+- Perché i serbatoi degli acquedotti si costruiscono su colline o torri, più in alto delle case?
+- Un ago appoggiato con delicatezza sull'acqua resta a galla, ma se aggiungi una goccia di sapone affonda. Perc…
+
+## I cinque regni dei viventi [lib-1-media-scienze-cinque-regni] · REGNO
+concetti: Le Monere; I Protisti; I Funghi; Piante e Animali
+- A quale regno appartiene una quercia?
+- Quale di questi organismi appartiene al regno dei Protisti?
+- I funghi appartengono al regno delle Piante, perché sono immobili e crescono nel terreno.
+- Il lievito del pane ha una sola cellula, ma appartiene al regno dei ___.
+- Quale coppia di caratteristiche descrive gli Animali?
+- Al microscopio osservi un organismo formato da una sola cellula, senza nucleo. A quale regno appartiene?
+- Che cosa hanno in comune le Monere e la maggior parte dei Protisti?
+- Spiega le principali differenze tra una pianta e un animale, pensando soprattutto a come si nutrono.
+
+## Il fiore e i suoi segreti [lib-1-media-scienze-fiore-impollinazione] · POLLINE
+concetti: Le parti del fiore; Stami e pistillo; L'impollinazione; La fecondazione
+- Quale parte del fiore attira gli insetti con i suoi colori vivaci?
+- In quale parte del fiore viene prodotto il polline?
+- Il pistillo è la parte femminile del fiore e contiene gli ovuli dentro l'ovario.
+- Il trasporto del polline dalle antere allo stigma si chiama ___.
+- I fiori del mais sono piccoli, verdi e senza profumo, ma producono moltissimo polline leggero. Chi trasporta …
+- Perché molti fiori impollinati dagli insetti producono il nettare?
+- Metti in ordine le tappe che portano dal polline alla formazione del frutto.
+- In molte zone del mondo le api stanno diminuendo. Spiega perché questo può essere un problema anche per la fr…
+
+## Il grande viaggio dell'acqua [lib-1-media-scienze-ciclo-dell-acqua] · PIOGGIA
+concetti: Evaporazione e traspirazione; Condensazione e nuvole; Le precipitazioni; Il ritorno al mare; Il motore del ciclo
+- Quale fonte di energia mette in moto il ciclo dell'acqua?
+- Di che cosa sono fatte le nuvole?
+- Le piante liberano vapore acqueo dalle foglie: questo processo si chiama ___.
+- Metti in ordine le tappe del ciclo dell'acqua, partendo dal mare.
+- Grazie al ciclo dell'acqua, la quantità totale di acqua sulla Terra resta praticamente la stessa.
+- Quando le goccioline di una nuvola cadono a terra come pioggia?
+- Dopo un temporale, una parte della pioggia penetra nel terreno. Dove finisce quest'acqua?
+- Perché si dice che l'acqua che beviamo oggi potrebbe essere stata bevuta anche dai dinosauri?
+
+## Il termometro e le sue scale [lib-1-media-scienze-termometro-e-scale] · KELVIN
+concetti: Come funziona il termometro; La scala Celsius; La scala Kelvin; Termometri diversi
+- Perché il liquido di un termometro sale quando la temperatura aumenta?
+- Nella scala Celsius il ghiaccio fonde a ___ °C.
+- Quale di queste temperature corporee indica che una persona ha la febbre?
+- Nella scala Kelvin non esistono temperature negative.
+- Un giorno d'estate ci sono 27 °C. A quanti kelvin corrispondono?
+- Perché la scala di un termometro clinico va solo da circa 35 a 42 °C?
+- Metti in ordine queste temperature, dalla più bassa alla più alta.
+- Perché il tubicino del termometro è sottilissimo? Che cosa succederebbe se fosse largo come il bulbo?
+
+## Il vento, aria in movimento [lib-1-media-scienze-venti] · BREZZA
+concetti: Come nasce il vento; Le brezze; Misurare il vento; I venti d'Italia
+- Che cos'è il vento?
+- Con quale strumento si misura la velocità del vento?
+- Un vento che soffia da nord verso sud si chiama «vento di nord».
+- Il vento freddo che in Italia soffia da nord si chiama ___.
+- Perché di notte, sulla costa, la brezza soffia dalla terra verso il mare?
+- Perché si dice che il Sole è il «motore» dei venti?
+- Metti in ordine che cosa succede sulla costa in una mattina di sole.
+- Lo scirocco arriva in Italia da sud-est, dopo aver attraversato il mare. Perché è un vento caldo e umido?
+
+## In laboratorio senza rischi [lib-1-media-scienze-laboratorio-sicurezza] · BECHER
+concetti: La vetreria; Scaldare e prelevare; Regole di sicurezza; I simboli di pericolo
+- Quale recipiente di laboratorio ha la forma di un cono con il collo stretto, comodo per agitare i liquidi sen…
+- A che cosa serve il becco Bunsen?
+- In laboratorio si può assaggiare una sostanza, se si è sicuri che sia solo sale.
+- Su una bomboletta vedi un rombo rosso con una fiamma disegnata. Che cosa significa?
+- Per proteggere gli occhi dagli schizzi, in laboratorio bisogna indossare sempre ___ protettivi.
+- Durante un esperimento ti cade sulla mano un po' di liquido sconosciuto. Che cosa fai per prima cosa?
+- Perché una provetta si scalda tenendola con la pinza, inclinata e con l'apertura rivolta lontano dalle person…
+- Perché è importante leggere l'etichetta e i simboli di pericolo prima di usare un prodotto, anche a casa?
+
+## Indagini da scienziato [lib-1-media-scienze-metodo-scientifico] · IPOTESI
+concetti: Galileo e il metodo; Osservazione e problema; Ipotesi ed esperimento; Risultati e conclusioni
+- Quale scienziato italiano del Seicento è considerato il padre del metodo sperimentale?
+- Noti che il pane chiuso in un sacchetto fa la muffa prima di quello lasciato all'aria. Quale fase del metodo …
+- Un'ipotesi è una spiegazione già dimostrata, che non ha più bisogno di essere controllata.
+- In un esperimento corretto si cambia una sola ___ alla volta, lasciando uguali tutte le altre condizioni.
+- Vuoi scoprire se i semi di fagiolo hanno bisogno di luce per germogliare. Quale esperimento è corretto?
+- Metti in ordine le fasi del metodo scientifico.
+- I risultati del tuo esperimento smentiscono la tua ipotesi. Che cosa fa un buon scienziato?
+- Perché è importante che un esperimento possa essere ripetuto da altri scienziati, ottenendo gli stessi risult…
+
+## L'acqua, una sostanza speciale [lib-1-media-scienze-acqua-sostanza-speciale] · ACQUA
+concetti: Com'è l'acqua pura; Il solvente universale; Il ghiaccio galleggia; L'acqua e il clima
+- Come si presenta l'acqua pura?
+- L'acqua è chiamata solvente ___ perché scioglie moltissime sostanze.
+- Il ghiaccio galleggia sull'acqua perché è meno denso dell'acqua liquida.
+- Perché una bottiglia di vetro piena d'acqua, dimenticata nel congelatore, può rompersi?
+- D'inverno la superficie di un lago gela, ma i pesci sopravvivono. Perché?
+- Perché l'acqua è indispensabile per trasportare le sostanze nel corpo degli esseri viventi?
+- D'inverno in una città sul mare fa meno freddo che in una città di pianura lontana dal mare. Perché?
+- Che cosa succederebbe ai laghi e ai pesci se il ghiaccio fosse più denso dell'acqua e andasse a fondo?
+
+## La cucina verde delle foglie [lib-1-media-scienze-fotosintesi] · LUCE
+concetti: Gli ingredienti; Clorofilla e cloroplasti; I prodotti; Fotosintesi e respirazione
+- Quali ingredienti usa una pianta per fare la fotosintesi?
+- Il pigmento verde che cattura la luce si chiama ___.
+- Quali sostanze produce la fotosintesi?
+- Le piante respirano soltanto di notte, quando non fanno la fotosintesi.
+- In autunno le foglie di molti alberi diventano gialle e arancioni. Che cosa sta succedendo?
+- Metti una goccia di tintura di iodio su una fetta di patata e la macchia diventa blu scuro. Che cosa scopri?
+- Una piantina acquatica, sotto un imbuto capovolto in piena luce, libera tante bollicine. Quale gas contengono…
+- Perché una pianta tenuta a lungo al buio, anche se viene annaffiata, alla fine muore?
+
+## La grande famiglia dei vertebrati [lib-1-media-scienze-vertebrati] · CRANIO
+concetti: Lo scheletro interno; Le cinque classi; La temperatura del corpo; Come nascono
+- Che cosa protegge la colonna vertebrale?
+- La balena è un pesce, perché vive in mare e nuota.
+- Quale di questi gruppi NON è una classe di vertebrati?
+- Uccelli e mammiferi mantengono costante la temperatura del corpo: sono animali ___.
+- Perché in inverno le lucertole spariscono e restano immobili in un rifugio?
+- Un topo e una lucertola hanno più o meno la stessa massa. Chi deve mangiare di più ogni giorno?
+- Quale di questi animali è viviparo?
+- Una medusa fuori dall'acqua si affloscia, un elefante di tonnellate invece sta in piedi. Perché lo scheletro …
+
+## La pressione dell'aria [lib-1-media-scienze-pressione-atmosferica] · VUOTO
+concetti: L'aria preme; L'esperimento di Torricelli; Pressione e altitudine; Pressione e tempo
+- Con quale strumento si misura la pressione atmosferica?
+- Non sentiamo la pressione dell'aria perché l'aria non pesa niente.
+- Al livello del mare la pressione atmosferica sostiene una colonna di mercurio alta circa ___ mm.
+- Come cambia la pressione atmosferica salendo in cima a una montagna?
+- Porti in montagna un sacchetto di patatine chiuso in pianura. In cima lo trovi gonfio. Perché?
+- Il barometro indica che sta arrivando un'area di alta pressione. Che tempo è probabile?
+- Bevi con una cannuccia. Perché la bibita sale nella cannuccia?
+- Perché gli alpinisti che scalano le montagne più alte del mondo spesso portano bombole di ossigeno?
+
+## Mammiferi: latte, peli e cure [lib-1-media-scienze-mammiferi] · LATTE
+concetti: Le caratteristiche dei mammiferi; Come nascono; Denti e alimentazione; Mammiferi in ogni ambiente
+- Quale caratteristica hanno tutti i mammiferi?
+- L'ornitorinco è un mammifero che depone le uova.
+- Il canguro nasce piccolissimo e finisce di crescere in una tasca sulla pancia della madre. È un mammifero...
+- I denti che servono a triturare e macinare il cibo si chiamano ___.
+- Un animale ha canini lunghi e appuntiti e molari taglienti. Che cosa mangia?
+- Perché il delfino deve risalire spesso in superficie?
+- L'orso polare vive tra i ghiacci. Quale adattamento lo aiuta a non disperdere calore?
+- Pipistrello, balena e uomo sembrano diversissimi, eppure sono tutti mammiferi. Spiega quali caratteristiche l…
+
+## Massa e peso, due cose diverse [lib-1-media-scienze-massa-e-peso] · NEWTON
+concetti: La massa; Il peso; Peso sulla Terra e sulla Luna; Massa e peso ogni giorno
+- Che cos'è la massa di un corpo?
+- Con quale strumento si misura il peso, che è una forza?
+- Il peso si misura in ___, l'unità di misura delle forze.
+- Un astronauta che arriva sulla Luna ha la stessa massa che aveva sulla Terra.
+- Uno zaino pesa 60 N sulla Terra. Quanto pesa, circa, sulla Luna?
+- Quando dici «peso 45 kg», quale grandezza stai indicando davvero?
+- Sulla Terra un sacchetto con 2 kg di farina pesa circa...
+- Perché sulla Luna un astronauta riesce a fare salti molto più alti che sulla Terra, anche con la tuta pesante…
+
+## Miscugli e soluzioni [lib-1-media-scienze-miscugli-e-soluzioni] · FILTRO
+concetti: Sostanze pure e miscugli; Miscugli eterogenei; Le soluzioni; Separare i componenti
+- Quale di questi è un miscuglio eterogeneo?
+- Nell'acqua salata il sale è il ___ e l'acqua è il solvente.
+- In un miscuglio i componenti perdono le loro proprietà e diventano una sostanza nuova.
+- Come puoi separare la limatura di ferro mescolata alla sabbia?
+- Come recuperi il sale da un bicchiere di acqua salata?
+- Aggiungi zucchero al tè, cucchiaino dopo cucchiaino. A un certo punto lo zucchero resta sul fondo. Perché?
+- Metti in ordine i passaggi per ottenere acqua limpida da un secchio di acqua fangosa.
+- L'acqua del rubinetto è una sostanza pura o un miscuglio? Spiega perché.
+
+## Misurare il mondo [lib-1-media-scienze-misura-grandezze] · METRO
+concetti: Grandezze fisiche; Unità di misura; Multipli e sottomultipli; Strumenti ed errori
+- Quale di queste NON è una grandezza fisica?
+- Qual è l'unità di misura del tempo nel Sistema Internazionale?
+- Una pista di atletica lunga 400 m equivale a ___ km.
+- Un righello con le tacche ogni millimetro ha una sensibilità di 1 mm.
+- Devi misurare la lunghezza della tua aula, circa 8 metri. Quale strumento è più adatto?
+- Metti in ordine queste lunghezze, dalla più corta alla più lunga.
+- Misuri tre volte la lunghezza di un tavolo e ottieni 120 cm, 122 cm e 121 cm. Quale valore è meglio indicare?
+- Perché è importante che in tutto il mondo si usino le stesse unità di misura?
+
+## Muschi, felci e piante con fiori [lib-1-media-scienze-classificazione-piante] · FELCE
+concetti: I muschi; Le felci; Le gimnosperme; Le angiosperme
+- Perché i muschi crescono quasi sempre in luoghi umidi e ombrosi?
+- Con che cosa si riproducono le felci?
+- Pini e abeti sono gimnosperme: i loro semi non sono chiusi in un frutto, ma si trovano nelle ___.
+- Le piante con fiori sono le uniche che proteggono i semi dentro un frutto.
+- Metti in ordine questi gruppi di piante, dal più semplice al più complesso.
+- Quale di queste piante è una gimnosperma?
+- Apri un fagiolo lasciato in ammollo e vedi che si divide in due metà. Che cosa sono e che pianta è il fagiolo?
+- Perché le piante con fiori sono riuscite a diffondersi in quasi tutti gli ambienti della Terra?
+
+## Nuvole, nebbia e pioggia [lib-1-media-scienze-nuvole-e-precipitazioni] · NUVOLA
+concetti: L'umidità dell'aria; Come nasce una nuvola; Tipi di nuvole; Le precipitazioni
+- Con quale strumento si misura l'umidità dell'aria?
+- Come si chiamano le nuvole bianche a forma di grandi batuffoli di cotone, tipiche delle belle giornate?
+- La nebbia è una nuvola che si forma a contatto con il suolo.
+- La quantità di pioggia caduta si misura in millimetri con il ___.
+- Metti in ordine le fasi della formazione di una nuvola.
+- Perché d'estate l'aria può essere molto più carica di umidità che d'inverno?
+- Perché a volte cade la grandine anche in piena estate?
+- Perché le nuvole si formano spesso sul versante di una montagna da cui arriva il vento?
+
+## Occhio al microscopio [lib-1-media-scienze-microscopio] · LENTE
+concetti: La scoperta delle cellule; Le parti del microscopio; Calcolare l'ingrandimento; Preparare il vetrino
+- Chi usò per primo la parola «cellula», osservando al microscopio una fettina di sughero?
+- Come si chiama la lente del microscopio a cui avvicini l'occhio?
+- Con un oculare 10× e un obiettivo 40×, l'ingrandimento totale è di ___ volte.
+- Il campione da osservare al microscopio ottico deve essere sottilissimo, perché la luce lo deve attraversare.
+- Vuoi ingrandire un campione 100 volte e hai un oculare 10×. Quale obiettivo devi usare?
+- Metti in ordine i passaggi per osservare al microscopio la pellicina di una cipolla.
+- Che cosa vide per primo Antoni van Leeuwenhoek con i suoi microscopi?
+- Perché, quando osservi un campione al microscopio, conviene iniziare con l'obiettivo che ingrandisce meno?
+
+## Pesci: la vita sott'acqua [lib-1-media-scienze-pesci] · PINNA
+concetti: Fatti per l'acqua; Respirare con le branchie; Ossei e cartilaginei; Sensi e galleggiamento
+- Con quali organi respirano i pesci?
+- La forma affusolata del corpo aiuta il pesce a scivolare nell'acqua con meno fatica.
+- Lo squalo ha le fessure branchiali visibili ai lati della testa e non ha l'opercolo. A quale gruppo di pesci …
+- Nei pesci ossei le branchie sono protette da una lamina chiamata ___.
+- A che cosa serve la linea laterale che si vede sui fianchi di molti pesci?
+- Un pesce osseo riempie di gas la sua vescica natatoria. Che cosa succede?
+- Metti in ordine il percorso dell'acqua quando un pesce osseo respira.
+- Fuori dall'acqua un pesce muore soffocato, anche se l'aria contiene molto ossigeno. Perché?
+
+## Quando la materia cambia stato [lib-1-media-scienze-passaggi-di-stato] · FUSIONE
+concetti: Fusione e solidificazione; Evaporazione ed ebollizione; La condensazione; Sublimazione e brinamento; Temperatura costante
+- Come si chiama il passaggio da solido a liquido?
+- D'inverno, mentre bolle la pasta, i vetri della cucina si appannano. Quale passaggio di stato avviene sul vet…
+- L'acqua di una pozzanghera evapora solo quando raggiunge i 100 °C.
+- La naftalina negli armadi passa direttamente da solido a gas: questo passaggio si chiama ___.
+- Scaldi in una pentola un cubetto di ghiaccio finché non resta più nulla. Metti in ordine ciò che succede.
+- Metti sul fuoco una pentola d'acqua con un termometro. Mentre l'acqua bolle, che cosa segna il termometro?
+- Dopo una notte limpida d'inverno, l'erba al mattino è coperta di brina. Da dove viene?
+- Perché quando metti un cubetto di ghiaccio in una bibita, la bibita si raffredda?
+
+## Radice, fusto e foglia [lib-1-media-scienze-radice-fusto-foglia] · RADICE
+concetti: La radice; Il fusto; La foglia; Gli stomi
+- Quale di queste NON è una funzione della radice?
+- La foglia è collegata al fusto da un piccolo gambo chiamato ___.
+- Gli stomi, piccole aperture delle foglie, permettono alla pianta di scambiare gas con l'aria.
+- Quale di questi ortaggi è una radice piena di sostanze di riserva?
+- Che cosa trasportano i vasi legnosi del fusto?
+- Metti in ordine il percorso dell'acqua dentro una pianta.
+- In una giornata molto calda e secca molte piante chiudono gli stomi. Perché?
+- Perché, quando si trapianta una piantina, bisogna fare attenzione a non rovinare le radici più sottili?
+
+## Rettili: squame e uova col guscio [lib-1-media-scienze-rettili] · SQUAMA
+concetti: La pelle a squame; L'uovo con il guscio; Scaldarsi al sole; I gruppi dei rettili
+- Quale di questi animali è un rettile?
+- I rettili respirano con i polmoni, anche quelli che vivono in acqua come le tartarughe marine.
+- A che cosa serve soprattutto la pelle secca e squamosa dei rettili?
+- Al mattino la lucertola si mette al sole per scaldarsi, perché è un animale ___.
+- Che vantaggio ha dato ai rettili l'uovo con il guscio?
+- In un prato trovi la «pelle» di un serpente, vuota e intera. Che cosa è successo?
+- Che cosa distingue le tartarughe dagli altri rettili?
+- Gli anfibi devono tornare in acqua per deporre le uova, i rettili no. Spiega perché, confrontando le loro uov…
+
+## Solido, liquido o gassoso? [lib-1-media-scienze-stati-della-materia] · STATO
+concetti: Materia e particelle; Lo stato solido; Lo stato liquido; Lo stato gassoso
+- Quale di questi NON è materia?
+- Perché un sasso mantiene la sua forma anche se lo sposti da una scatola a un'altra?
+- Se versi un litro di succo da una bottiglia in una caraffa, cambiano sia la forma sia il volume del succo.
+- I gas si possono ___ perché tra le loro particelle c'è molto spazio vuoto.
+- Spruzzi un profumo in un angolo della stanza e dopo poco lo senti anche dall'altra parte. Perché?
+- Quale caratteristica hanno in comune liquidi e gas?
+- Metti in ordine gli stati della materia, da quello con le particelle più vicine e legate a quello con le part…
+- Perché i liquidi prendono la forma del recipiente, mentre i solidi no? Spiegalo pensando alle particelle.
+
+## Spugne, meduse e vermi [lib-1-media-scienze-invertebrati-semplici] · MEDUSA
+concetti: Chi sono gli invertebrati; Poriferi e celenterati; I vermi; Gli echinodermi
+- Che cosa manca a tutti gli invertebrati?
+- Gli invertebrati sono meno numerosi dei vertebrati: esistono solo poche specie.
+- Come si nutre una spugna di mare?
+- Perché toccare una medusa può provocare bruciore sulla pelle?
+- Lombrico e sanguisuga hanno il corpo diviso in tanti anelli: sono ___.
+- La tenia è un verme parassita dal corpo piatto che vive nell'intestino. A quale gruppo appartiene?
+- Una stella marina e un riccio di mare sembrano molto diversi. Che cosa hanno in comune?
+- I coralli sembrano piante o rocce, eppure sono animali. Spiega perché si classificano tra gli animali e non t…
+
+## Strati e tipi di suolo [lib-1-media-scienze-strati-e-tipi-di-suolo] · ARGILLA
+concetti: Gli orizzonti del suolo; Sabbia, limo e argilla; La permeabilità; Il suolo fertile
+- Quale componente del suolo ha i granelli più grossi?
+- Qual è lo strato più profondo, sotto il suolo, da cui il suolo ha avuto origine?
+- Un terreno sabbioso trattiene l'acqua più a lungo di un terreno argilloso.
+- Un suolo che si lascia attraversare facilmente dall'acqua si dice ___.
+- Scavi una buca in un bosco. Metti in ordine gli strati che incontri, dall'alto verso il basso.
+- In un vaso l'acqua ristagna e le radici marciscono. Il terriccio è probabilmente...
+- Quale terreno è il migliore per un orto?
+- Prendi due vasi bucati uguali, uno con sabbia e uno con argilla, e versi in ciascuno la stessa quantità d'acq…
+
+## Trasformazioni fisiche e chimiche [lib-1-media-scienze-trasformazioni-fisiche-chimiche] · RUGGINE
+concetti: Trasformazioni fisiche; Trasformazioni chimiche; Come riconoscerle; La combustione
+- Quale di queste è una trasformazione fisica?
+- Dopo aver cotto una torta, non puoi più riottenere separati le uova, la farina e lo zucchero.
+- Versi aceto sul bicarbonato e si forma una schiuma piena di bolle. Che cosa indicano le bolle?
+- Nelle reazioni chimiche le sostanze di partenza si chiamano reagenti, quelle che si formano si chiamano ___.
+- Quali sono i tre elementi del «triangolo del fuoco»?
+- Perché, se copri una candela accesa con un barattolo di vetro, dopo un po' la fiamma si spegne?
+- Quale di questi fenomeni è il segno di una trasformazione chimica?
+- Spiega perché bruciare un foglio di carta è una trasformazione chimica, mentre strapparlo è una trasformazion…
+
+## Uccelli, padroni del cielo [lib-1-media-scienze-uccelli] · PIUMA
+concetti: Penne e piume; Un corpo leggero; Omeotermi e uova; Becchi su misura
+- Quale caratteristica hanno SOLO gli uccelli, tra tutti gli animali che vivono oggi?
+- Le ossa di molti uccelli sono cave e piene d'aria, quindi più leggere.
+- Gli uccelli tengono le uova al caldo stando sopra di esse: questo comportamento si chiama ___.
+- L'aquila ha un becco robusto e ricurvo a uncino. Di che cosa si nutre?
+- Le ali di un uccello corrispondono a quale parte del corpo di un mammifero?
+- Perché il becco senza denti è utile a un uccello che vola?
+- Un colibrì batte le ali moltissime volte al secondo e mantiene costante la sua temperatura. Che cosa deve far…
+- Pensa a un uccello in volo. Spiega almeno due caratteristiche del suo corpo che lo rendono leggero o adatto a…
+
+## Un nome per ogni specie [lib-1-media-scienze-classificazione-linneo] · SPECIE
+concetti: Perché classificare; Linneo e il nome scientifico; Le categorie; Che cos'è una specie
+- Che cosa significa «classificare» gli esseri viventi?
+- Quale scienziato del Settecento inventò il sistema dei nomi scientifici in latino che si usa ancora oggi?
+- La categoria più ampia della classificazione dei viventi si chiama ___.
+- Nel nome scientifico del lupo, Canis lupus, che cosa indica la parola «Canis»?
+- Tutti i cani, dal piccolo chihuahua al grande alano, appartengono alla stessa specie.
+- Metti in ordine queste categorie della classificazione, dalla più ampia alla più ristretta.
+- Perché gli scienziati usano i nomi latini invece dei nomi comuni degli animali?
+- Cavallo e asino si somigliano e possono avere un figlio insieme, il mulo. Perché allora sono considerati due …
+
+## Viaggio dentro la cellula [lib-1-media-cellula] · NUCLEO
+concetti: La cellula, mattone della vita; Membrana, citoplasma e nucleo; Gli organuli al lavoro; Cellula animale e vegetale; Dalla cellula all'organismo
+- Quale di questi esseri viventi è formato da una sola cellula?
+- La membrana cellulare lascia entrare e uscire qualsiasi sostanza, senza fare alcuna selezione.
+- I ___ sono le «centrali energetiche» della cellula: ricavano energia dalle sostanze nutritive usando l'ossige…
+- Al microscopio osservi una cellula con una parete rigida e tanti piccoli corpi verdi. Da dove proviene, molto…
+- Metti in ordine i livelli di organizzazione di un essere vivente, dal più piccolo al più grande.
+- Se ti dimentichi di annaffiare una piantina, le sue foglie si afflosciano. Che cosa succede nelle sue cellule?
+- Il tuo corpo è formato da moltissime cellule, eppure anche una sola cellula è considerata viva. Perché?
+- La cellula si può paragonare a una piccola fabbrica. Spiega con parole tue quale parte fa da «direttore», qua…
+
+## Volume, densità e galleggiamento [lib-1-media-scienze-volume-densita] · DENSITA
+concetti: Il volume; Misurare il volume; La densità; Galleggiare o affondare
+- A quanti millilitri corrisponde 1 litro?
+- Con quale strumento misuri con precisione 50 mL di acqua in laboratorio?
+- In un cilindro graduato con 60 mL d'acqua immergi un sasso e il livello sale a 85 mL. Qual è il volume del sa…
+- La densità si calcola dividendo la ___ di un corpo per il suo volume.
+- Un cubetto di metallo ha massa 54 g e volume 20 cm³. Qual è la sua densità?
+- Gli oggetti con una massa grande affondano sempre nell'acqua, quelli con massa piccola galleggiano sempre.
+- La densità dell'olio è circa 0,9 g/cm³, quella dell'acqua 1 g/cm³. Che cosa succede se versi olio in un bicch…
+- Una nave d'acciaio pesa migliaia di tonnellate, eppure galleggia. Come è possibile, se un blocco d'acciaio af…

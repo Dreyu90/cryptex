@@ -1,0 +1,564 @@
+# 4ª elementare · Matematica: 51 missioni valide
+# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:38
+# Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Angoli acuti, retti e ottusi [lib-4-elementare-matematica-angoli-tipi-gradi] · GRADI
+concetti: Che cos'è un angolo; Retto, piatto e giro; Acuti e ottusi; Misurare con il goniometro
+- Quanti gradi misura un angolo retto?
+- Un angolo di 120° è acuto.
+- Il punto da cui partono i due lati di un angolo si chiama ___.
+- Le lancette di un orologio alle 6 in punto formano un angolo…
+- Quale di questi angoli è acuto?
+- Quanti angoli retti formano un angolo giro?
+- Metti in ordine i passaggi per misurare un angolo con il goniometro.
+- Un ventaglio si apre piano piano fino a formare mezzo cerchio. Spiega come cambia il tipo di angolo mentre si…
+
+## Cambi e prestiti in colonna [lib-4-elementare-matematica-colonna-cambi-prestiti] · CAMBIO
+concetti: Incolonnare bene; Il riporto nell'addizione; Il prestito nella sottrazione; Prestiti con lo zero
+- Per calcolare 4 528 + 371 in colonna, l'1 di 371 va scritto sotto l'8 di 4 528.
+- Quanto fa 3 675 + 2 548?
+- Nella sottrazione 52 − 17 non posso fare 2 − 7, quindi prendo in prestito una ___ dal 5.
+- Quanto fa 7 452 − 2 816?
+- Quanto fa 5 003 − 1 247?
+- Un museo ha avuto 18 465 visitatori a luglio e 23 789 ad agosto. Quanti visitatori in tutto?
+- Metti in ordine i passaggi per calcolare 400 − 156 in colonna.
+- Perché, quando prendi in prestito 1 dalle decine, alle unità aggiungi 10 e non 1?
+
+## Campioni di calcolo a mente [lib-4-elementare-matematica-calcolo-mentale-strategie] · MENTE
+concetti: Scomporre i numeri; Arrotondare e compensare; Doppi e metà; Amici del 100 e 1000
+- Qual è l'amico del 100 del numero 37?
+- Per calcolare 254 + 99 puoi fare 254 + 100 − 1.
+- Per moltiplicare un numero per 4 lo puoi ___ due volte.
+- Quanto fa 58 + 27 se aggiungi prima 20 e poi 7?
+- Quanto fa 732 − 198?
+- Quanto fa 48 × 5 con il trucco «per 10 e poi la metà»?
+- Quanto manca da 460 a 1 000?
+- Spiega come puoi calcolare 25 × 16 a mente usando doppi e metà.
+
+## Certo, possibile o impossibile? [lib-4-elementare-matematica-probabilita-eventi] · DADO
+concetti: Certo, possibile, impossibile; Più o meno probabile; La probabilità come frazione
+- Lanci un normale dado a 6 facce. Quale evento è impossibile?
+- Lanciando un normale dado a 6 facce, è certo che esca un numero minore di 7.
+- In un sacchetto ci sono 1 pallina rossa e 3 blu. La probabilità di pescare la rossa è ___.
+- In un sacchetto ci sono 5 caramelle alla fragola, 2 al limone e 1 alla menta. Pescando a occhi chiusi, quale …
+- Da un mazzo che contiene solo carte di cuori peschi una carta. Che evento è «pescare una carta di cuori»?
+- Qual è la probabilità di ottenere un numero pari lanciando un dado a 6 facce?
+- Una ruota della fortuna ha 8 spicchi uguali: 4 rossi, 3 gialli e 1 verde. Quale affermazione è vera?
+- Nel sacchetto A ci sono 2 palline vincenti su 10; nel sacchetto B ci sono 2 palline vincenti su 5. Da quale s…
+
+## Chi è il più grande? [lib-4-elementare-matematica-confronto-numeri-grandi] · ORDINE
+concetti: Contare le cifre; Confronto cifra per cifra; I simboli maggiore e minore; Ordine crescente e decrescente
+- Quale di questi numeri è il più grande?
+- Un numero intero di 5 cifre è sempre minore di un numero intero di 6 cifre.
+- Scegli il simbolo giusto: 58 300 ___ 58 030.
+- Quale di questi numeri è il più piccolo?
+- Luca dice: «Tra 72 908 e 72 980 è maggiore 72 908, perché finisce con 8». Perché sbaglia?
+- Metti questi numeri in ordine crescente.
+- Tre squadre hanno raccolto punti: Rossi 34 500, Verdi 35 400, Blu 34 050. Quale squadra arriva seconda?
+- Come fai a capire quale numero è maggiore tra 360 512 e 360 521 senza fare calcoli? Spiega.
+
+## Conti con la virgola [lib-4-elementare-matematica-addizioni-sottrazioni-decimali] · SPESA
+concetti: Virgola sotto virgola; Aggiungere gli zeri; Riporti e prestiti; Decimali nella vita quotidiana
+- Nell'addizione in colonna con i numeri decimali, le virgole vanno scritte una sotto l'altra.
+- Quanto fa 4,3 + 2,5?
+- Per calcolare 7,4 − 2,36 conviene scrivere 7,4 come ___.
+- Quanto fa 3,75 + 1,48?
+- Quanto fa 8,3 − 3,47?
+- Compri un succo da 1,35 € e un panino da 2,80 €. Quanto spendi?
+- Paghi 4,15 € con una banconota da 10 €. Quanto ricevi di resto?
+- Un'amica scrive 2,5 + 1,25 = 3,30, perché ha sommato 5 + 25 = 30. Spiega l'errore e trova il risultato giusto.
+
+## Dal millimetro al chilometro [lib-4-elementare-matematica-misure-lunghezza] · METRO
+concetti: Il metro e i multipli; I sottomultipli del metro; Ogni unità vale 10 volte; Le equivalenze
+- Quale unità di misura useresti per lo spessore di una moneta?
+- 1 chilometro è uguale a 1 000 metri.
+- 1 decimetro è uguale a 10 ___.
+- Quanti centimetri sono 3,5 m?
+- Quanti metri sono 2 400 mm?
+- Un sentiero è lungo 3 km e 250 m. Quanti metri sono in tutto?
+- Metti in ordine queste unità di misura dalla più grande alla più piccola.
+- Marco misura il suo banco e scrive 120 cm. Sara misura un banco uguale e scrive 1,2 m. Chi ha ragione? Spiega.
+
+## Decimi, centesimi, millesimi [lib-4-elementare-matematica-frazioni-decimali] · DECIMI
+concetti: Che cos'è una frazione decimale; Decimi, centesimi e millesimi; Dalla frazione al numero decimale; Decimi e centesimi a confronto
+- Quale di queste è una frazione decimale?
+- Un decimo è uguale a 10 centesimi.
+- Se divido l'unità in 100 parti uguali, ogni parte è un ___.
+- Come si scrive 9/100 con la virgola?
+- Quale frazione decimale corrisponde a 0,035?
+- Quanti millesimi ci sono in 4 centesimi?
+- Un metro è diviso in 100 centimetri. Quale frazione di metro è 1 cm?
+- Spiega come scrivi con la virgola la frazione 47/100 e perché.
+
+## Detective dei problemi [lib-4-elementare-matematica-problemi-dati] · INDIZI
+concetti: Dati utili e inutili; Dati mancanti; Dati nascosti nelle parole; La risposta completa
+- In un problema leggi «due dozzine di uova». Quante uova sono?
+- Il problema «Marta compra 4 libri tutti uguali. Quanto spende?» si può risolvere.
+- Problema: «Luca ha 9 anni e 35 biglie. Ne regala 12. Quante biglie gli restano?». Il dato «9 anni» è ___.
+- «Giulia legge 15 pagine al giorno per una settimana.» Quante pagine legge in tutto?
+- «Un pullman parte con alcuni passeggeri; alla fermata ne scendono 8. Quanti passeggeri restano?» Che cosa man…
+- «In una scuola ci sono 6 classi da 22 alunni. Quanti alunni ci sono in tutto?» Qual è la risposta completa e …
+- «Un fioraio ha 120 rose rosse e 45 gialle. Vende 30 rose rosse. Quante rose rosse gli restano?» Quali dati ti…
+- Scrivi una domanda per questo testo, in modo che si risolva con una moltiplicazione, e rispondi: «Una scatola…
+
+## Dividere con una cifra [lib-4-elementare-matematica-divisione-una-cifra] · RESTO
+concetti: I termini della divisione; La divisione in colonna; Il resto; Lo zero nel quoziente
+- Nella divisione 45 : 9 = 5, il numero 9 si chiama ___.
+- In una divisione per 6 il resto può essere 7.
+- Quanto fa 856 : 4?
+- Quanto fa 79 : 6?
+- Quanto fa 618 : 3?
+- Dividi 50 caramelle in parti uguali fra 8 amici. Quante caramelle avanzano?
+- Metti in ordine i passaggi che ripeti per ogni cifra nella divisione in colonna.
+- 23 bambini vanno in gita con auto che hanno 4 posti per i bambini. Fai 23 : 4 = 5 resto 3. Quante auto servon…
+
+## Divisibile o no? [lib-4-elementare-matematica-criteri-divisibilita] · REGOLA
+concetti: Divisibile per 2; Divisibile per 5 e 10; Divisibile per 3; Divisibile vuol dire resto zero
+- Quale di questi numeri è divisibile per 2?
+- Il numero 3 455 è divisibile per 5.
+- Un numero è divisibile per 10 quando termina con la cifra ___.
+- Quale di questi numeri è divisibile per 3?
+- Che cosa significa che 36 è divisibile per 4?
+- Nel numero 7□2 manca una cifra. Quale puoi mettere nel quadratino perché il numero sia divisibile per 3?
+- Quale numero è divisibile sia per 2 sia per 5?
+- Senza fare la divisione, come puoi capire se 2 019 è divisibile per 3? Spiega il ragionamento.
+
+## Divisori a due cifre [lib-4-elementare-matematica-divisione-due-cifre] · DIVIDI
+concetti: Prendere abbastanza cifre; Stimare il quoziente; Correggere la cifra provata; Dividere per 10, 20, 30…
+- Nella divisione 845 : 32, quante cifre del dividendo prendi per cominciare?
+- In 152 : 23 bisogna prendere tutte e tre le cifre del dividendo per cominciare.
+- Quanto fa 360 : 40?
+- Devi calcolare 85 : 21. Arrotondando 85 a 80 e 21 a 20, quale cifra provi come quoziente?
+- Calcolando 92 : 31 provi il quoziente 3, ma 31 × 3 = 93. Che cosa devi fare?
+- Quanto fa 768 : 24?
+- Un pasticcere ha 420 biscotti e li mette in sacchetti da 15. Quanti sacchetti riempie?
+- Calcolando 185 : 23 provi la cifra 7: 23 × 7 = 161 e 185 − 161 = 24. Come capisci che hai sbagliato e come co…
+
+## Doppio, metà, triplo e terzo [lib-4-elementare-matematica-doppio-meta-triplo] · DOPPIO
+concetti: Doppio, triplo, quadruplo; Metà, terzo e quarto; Operazioni che si annullano; Problemi con doppio e metà
+- Qual è il triplo di 15?
+- La quarta parte di 36 è 9.
+- Se prendo un numero, ne faccio il doppio e poi la metà, ottengo ___.
+- Qual è la terza parte di 270?
+- Sofia ha 24 figurine. Leo ne ha il doppio. Quante figurine hanno insieme?
+- Il quadruplo di un numero è 84. Qual è il numero?
+- Un nastro di 180 cm viene tagliato a metà; poi uno dei due pezzi viene tagliato ancora a metà. Quanto è lungo…
+- Penso un numero, lo moltiplico per 3 e ottengo 57. Spiega come scopri il numero che ho pensato.
+
+## Fai la prova! [lib-4-elementare-matematica-operazioni-inverse-prova] · PROVA
+concetti: Addizione e sottrazione inverse; Moltiplicazione e divisione inverse; La prova della sottrazione; La prova della divisione
+- L'operazione inversa dell'addizione è la ___.
+- Se 9 × 7 = 63, allora 63 : 7 = 9.
+- Hai calcolato 845 − 368 = 477. Quale operazione fai per la prova?
+- Hai calcolato 95 : 7 = 13 resto 4. Quale operazione è la prova giusta?
+- Quale numero manca? □ + 248 = 600
+- Quale numero manca? □ × 12 = 96
+- Marco ha scritto 130 : 8 = 16 resto 4. Facendo la prova ottiene 16 × 8 + 4 = 132. Che cosa significa?
+- Luca ha calcolato 1 000 − 457 = 643. Spiega come fai la prova e se il suo risultato è giusto.
+
+## Fette, pezzi e frazioni [lib-4-elementare-frazioni] · INTERO
+concetti: Parti uguali di un intero; Numeratore e denominatore; Confrontare le frazioni; La frazione di un numero
+- Una torta è divisa in 6 parti uguali e tu ne mangi 1. Quale frazione della torta hai mangiato?
+- Per parlare di frazioni, l'intero deve essere diviso in parti uguali.
+- Nella frazione 3/8, il numero 8 si chiama ___.
+- In un astuccio ci sono 10 pastelli e 3 sono rossi. Quale frazione dei pastelli è rossa?
+- Hai tanta fame! Quale parte della stessa torta ti conviene scegliere?
+- Metti in ordine i passaggi per calcolare i 3/4 di 20 figurine.
+- La mamma ha 30 euro e ne spende i 2/5 al mercato. Quanti euro spende?
+- Perché 1/8 di una torta è più piccolo di 1/4 della stessa torta, anche se 8 è più grande di 4?
+
+## Frazioni che valgono uguale [lib-4-elementare-matematica-frazioni-equivalenti] · GEMELLE
+concetti: Stessa parte, numeri diversi; Moltiplicare sopra e sotto; Semplificare; Riconoscere frazioni equivalenti
+- Quale frazione è equivalente a 1/2?
+- Mangiare 2/8 di una pizza o 1/4 della stessa pizza è la stessa cosa.
+- Se moltiplico per 3 il numeratore e il denominatore di 2/5, ottengo ___.
+- Semplifica la frazione 10/15.
+- Quale coppia NON è formata da frazioni equivalenti?
+- Quale numero manca? 3/4 = □/20
+- Un'aiuola è divisa in 12 parti uguali e Anna ne pianta 9 a tulipani. Quale frazione semplificata indica la pa…
+- Spiega con l'esempio di una barretta di cioccolato perché 1/2 e 4/8 indicano la stessa quantità.
+
+## Gara di numeri con la virgola [lib-4-elementare-matematica-confronto-decimali] · GARA
+concetti: Prima la parte intera; Poi decimi, centesimi, millesimi; Non conta il numero di cifre; Ordinare i decimali
+- Quale numero è il più grande?
+- 0,6 è maggiore di 0,59.
+- Scegli il simbolo giusto: 3,48 ___ 3,45.
+- Quale di questi numeri decimali è il più piccolo?
+- Nella corsa dei 60 metri: Ada 9,42 secondi, Bea 9,24 secondi, Cloe 9,4 secondi, Dora 9,3 secondi. Chi ha vint…
+- Se scrivi 0,7 con tre cifre dopo la virgola, come diventa?
+- Metti questi numeri decimali in ordine crescente, dal più piccolo al più grande.
+- Tommaso dice: «2,125 è maggiore di 2,3 perché ha più cifre». Spiega perché sbaglia.
+
+## Grammi, chili e quintali [lib-4-elementare-matematica-misure-peso] · GRAMMO
+concetti: Chilogrammo e grammo; La scala dei pesi; Quintale e tonnellata; Equivalenze di peso
+- Quanti grammi ci sono in 1 kg?
+- Un quintale è uguale a 100 kg.
+- 1 hg (ettogrammo) è uguale a ___ grammi.
+- Quanti grammi sono 2,5 kg?
+- Quanti kg sono 3 500 g?
+- Un camion trasporta 4 tonnellate di sabbia. Quanti kg sono?
+- Il salumiere pesa 3 hg di prosciutto e 250 g di formaggio. Quanti grammi pesano in tutto?
+- Spiega perché per indicare il peso di un camion si usano le tonnellate e non i grammi.
+
+## I segreti della divisione [lib-4-elementare-matematica-proprieta-divisione] · UGUALE
+concetti: Proprietà invariantiva; Proprietà distributiva; L'ordine conta; Dividere per 1 e per zero
+- Quanto fa 375 : 1?
+- 20 : 5 dà lo stesso risultato di 5 : 20.
+- Per calcolare 450 : 50 divido entrambi i numeri per 10 e ottengo 45 : 5. Uso la proprietà ___.
+- Quale divisione ha lo stesso quoziente di 96 : 12?
+- Quale scrittura usa la proprietà distributiva per calcolare 69 : 3?
+- La nonna divide 96 € in parti uguali tra 3 nipoti, pensando a 90 € + 6 €. Quanto riceve ciascuno?
+- Per calcolare 75 : 25 moltiplichi entrambi i numeri per 4. Quale divisione ottieni?
+- Perché non si può dividere un numero per zero? Prova a spiegarlo con la prova della divisione o con un esempi…
+
+## Il giro della figura [lib-4-elementare-matematica-perimetro-poligoni] · CORNICE
+concetti: Che cos'è il perimetro; Perimetro del quadrato; Perimetro del rettangolo; Dal perimetro ai lati
+- Un triangolo ha i lati di 6 cm, 8 cm e 10 cm. Qual è il perimetro?
+- Il perimetro di un quadrato con il lato di 9 cm è 36 cm.
+- Il perimetro si misura con le unità di misura di ___.
+- Un rettangolo ha la base di 12 cm e l'altezza di 5 cm. Qual è il perimetro?
+- Il perimetro di un quadrato è 52 cm. Quanto misura il lato?
+- Un orto rettangolare misura 8 m per 15 m. Quanti metri di rete servono per recintarlo tutto?
+- Un rettangolo ha perimetro 30 cm e base di 10 cm. Quanto misura l'altezza?
+- Un quadrato con il lato di 6 cm e un rettangolo di 8 cm per 4 cm hanno lo stesso perimetro? Spiega.
+
+## Il mondo dei poligoni [lib-4-elementare-matematica-poligoni-elementi] · VERTICE
+concetti: Che cos'è un poligono; Lati, vertici, angoli; Il nome dei poligoni; Le diagonali; Convessi e concavi
+- Come si chiama un poligono con 6 lati?
+- Il cerchio è un poligono.
+- Un ottagono ha 8 lati e quindi ha anche 8 ___.
+- Il cartello di STOP ha la forma di un ottagono. Quanti angoli ha?
+- Quante diagonali ha un quadrilatero?
+- Perché il triangolo non ha diagonali?
+- Un poligono a forma di stella a cinque punte è…
+- Spiega perché una figura formata da una linea spezzata aperta non è un poligono.
+
+## Il potere della virgola [lib-4-elementare-matematica-numeri-decimali-posizione] · VIRGOLA
+concetti: Parte intera e parte decimale; Il valore delle cifre decimali; Leggere e scrivere i decimali; Gli zeri nei decimali
+- Nel numero 37,6 qual è la parte intera?
+- 4,7 e 4,70 indicano la stessa quantità.
+- Nel numero 5,382 la cifra 8 occupa il posto dei ___.
+- Come si scrive in cifre «dodici unità e sette centesimi»?
+- Quanto vale la cifra 4 nel numero 0,45?
+- Quale di questi numeri NON è uguale a 3,2?
+- Un atleta salta 4,85 m. Quanti centimetri ha saltato oltre i 4 metri?
+- Spiega perché 2,5 e 2,05 sono numeri diversi, anche se sono scritti con le stesse cifre diverse da zero.
+
+## Il regno delle migliaia [lib-4-elementare-matematica-numeri-grandi-migliaia] · MILLE
+concetti: Le classi dei numeri; Il valore posizionale; Scomporre e comporre; Leggere e scrivere i numeri
+- Nel numero 472 815, quanto vale la cifra 7?
+- Per leggere bene un numero grande, le sue cifre si raggruppano a tre a tre partendo da destra.
+- Nel numero 608 000, la cifra 6 occupa il posto delle ___.
+- Quale numero si ottiene con 3 hk, 5 dak, 2 h e 4 u?
+- Come si scrive in cifre «duecentoseimilaquaranta»?
+- Metti in ordine i passaggi per leggere il numero 527 318.
+- Aggiungi 1 000 al numero 499 500. Che numero ottieni?
+- Nel numero 333 333 le cifre sono tutte uguali. Perché allora non valgono tutte lo stesso?
+
+## Il trucco degli zeri [lib-4-elementare-matematica-per-10-100-1000] · ZERI
+concetti: Moltiplicare per 10, 100, 1000; Dividere per 10, 100, 1000; Il valore delle cifre cambia; Calcoli veloci con gli zeri
+- Quanto fa 47 × 100?
+- 3 600 : 10 = 360.
+- Se moltiplico 8 per 1 000, la cifra 8 passa dal posto delle unità al posto delle ___.
+- Quanto fa 52 000 : 100?
+- Quanto fa 30 × 400?
+- Un rotolo di nastro è lungo 25 metri. Quanti metri di nastro ci sono in 100 rotoli uguali?
+- Una scatola contiene 1 000 graffette. Quante scatole servono per avere 45 000 graffette?
+- Perché moltiplicando 5 per 10 ottieni 50? Spiega che cosa succede alla cifra 5.
+
+## In viaggio verso il milione [lib-4-elementare-matematica-milioni] · MILIONE
+concetti: La classe dei milioni; Leggere i milioni; Mille volte mille; I milioni nella realtà
+- Quanti zeri ha il numero un milione scritto in cifre?
+- Un milione è uguale a mille migliaia.
+- Dopo la classe delle migliaia, andando verso sinistra, viene la classe dei ___.
+- Come si legge il numero 2 305 000?
+- Nel numero 47 260 000, quanto vale la cifra 4?
+- Metti in ordine questi numeri dal più piccolo al più grande.
+- Una città ha 1 250 000 abitanti. Negli anni ne arrivano altri 750 000. Quanti abitanti avrà?
+- Se al numero 999 999 aggiungi 1 ottieni 1 000 000. Spiega che cosa succede alle cifre.
+
+## Indagini, grafici e media [lib-4-elementare-matematica-indagini-moda-media] · MEDIA
+concetti: L'indagine statistica; I grafici; La moda; La media aritmetica
+- In un'indagine sul gusto di gelato preferito, il gusto scelto più volte si chiama ___.
+- In un istogramma la colonna più alta indica il dato con la frequenza maggiore.
+- Chiedi a 20 compagni lo sport preferito: 8 calcio, 5 nuoto, 4 danza e gli altri pallavolo. Quanti hanno scelt…
+- Ecco il numero di fratelli di 9 bambini: 0, 1, 1, 2, 1, 0, 3, 1, 2. Qual è la moda?
+- Nelle ultime 4 partite Lia ha segnato 2, 5, 3 e 6 punti. Qual è la media dei suoi punti?
+- In un ideogramma ogni disegno di un libro vale 2 libri letti. Accanto al nome di Marco ci sono 4 disegni e me…
+- Le temperature di 5 giorni sono state 12°, 15°, 14°, 13° e 16°. Qual è la temperatura media?
+- Tre amici hanno 4, 7 e 10 caramelle. Spiega che cosa significa dire che in media hanno 7 caramelle a testa.
+
+## La famiglia dei quadrilateri [lib-4-elementare-matematica-quadrilateri-famiglia] · ROMBO
+concetti: Il trapezio; I parallelogrammi; Rettangolo, rombo e quadrato; La somma degli angoli
+- Quale quadrilatero ha 4 lati uguali e 4 angoli retti?
+- Ogni quadrato è anche un rettangolo.
+- Il quadrilatero che ha solo due lati opposti paralleli si chiama ___.
+- Tre angoli di un quadrilatero misurano 90°, 90° e 110°. Quanto misura il quarto?
+- Quale caratteristica hanno TUTTI i parallelogrammi?
+- Un quadrilatero ha 4 lati uguali ma nessun angolo retto. Che cos'è?
+- Tagliando un quadrilatero lungo una diagonale ottieni due triangoli. Perché questo spiega che i suoi angoli s…
+- Spiega che cosa hanno in comune e in che cosa sono diversi un rettangolo e un rombo.
+
+## La parte che manca [lib-4-elementare-matematica-frazione-complementare] · TUTTO
+concetti: Frazioni complementari; Come si calcola; La parte che resta
+- Qual è la frazione complementare di 3/5?
+- 1/4 e 3/4 sono frazioni complementari.
+- La frazione complementare di 7/10 è ___.
+- In una classe 5/8 degli alunni sono femmine. Quale frazione della classe sono i maschi?
+- Una bottiglia d'acqua è piena per 2/9. Quale frazione della bottiglia è vuota?
+- Un libro ha 60 pagine e Paolo ne ha lette i 2/3. Quante pagine gli restano da leggere?
+- Quale coppia di frazioni NON forma l'intero?
+- Una torta è divisa in 12 fette e 7 sono già state mangiate. Spiega quale frazione di torta resta e come l'hai…
+
+## La virgola che scivola [lib-4-elementare-matematica-decimali-per-10-100-1000] · SCIVOLA
+concetti: Moltiplicare per 10, 100, 1000; Dividere per 10, 100, 1000; Quando mancano le cifre; A che cosa serve
+- Quanto fa 2,5 × 10?
+- 64,8 : 100 = 0,648.
+- Moltiplicando per 100, la virgola si sposta verso destra di ___ posti.
+- Quanto fa 0,375 × 1 000?
+- Quanto fa 7 : 100?
+- Quanto fa 0,4 × 100?
+- Una matita costa 0,35 €. Quanto costano 100 matite?
+- Un sacco di 10 kg di farina costa 12,50 €. Spiega come calcoli il prezzo di 1 kg.
+
+## Le proprietà della moltiplicazione [lib-4-elementare-matematica-proprieta-moltiplicazione] · FATTORE
+concetti: Proprietà commutativa; Proprietà associativa; Proprietà distributiva; L'uno e lo zero
+- Quanto fa 3 548 × 0?
+- 7 × 12 dà lo stesso risultato di 12 × 7.
+- Nella moltiplicazione il numero 1 è l'elemento ___, perché non cambia il risultato.
+- Qual è il modo più comodo per calcolare 25 × 7 × 4?
+- Quale scrittura usa bene la proprietà distributiva per calcolare 6 × 34?
+- Un pullman ha 52 posti. Quanti posti ci sono in 5 pullman? Aiutati con 5 × 50 + 5 × 2.
+- Metti in ordine i passaggi per calcolare 9 × 47 con la proprietà distributiva.
+- Hai 4 scatole e in ognuna ci sono 3 file da 5 cioccolatini. Spiega perché puoi calcolare 4 × 3 × 5 in ordini …
+
+## Leggere i numeri romani [lib-4-elementare-matematica-numeri-romani] · ROMANI
+concetti: I sette simboli; La regola dell'addizione; La regola della sottrazione; Niente zero e niente posizione
+- Quanto vale il simbolo romano L?
+- Nel sistema dei numeri romani esiste un simbolo per lo zero.
+- Nel numero romano IX la I è scritta a sinistra della X, quindi si ___.
+- Quanto vale il numero romano XXVII?
+- Come si scrive 49 in numeri romani?
+- Su un vecchio edificio c'è scritto MCMXC. Quale anno indica?
+- Metti questi numeri romani in ordine dal più piccolo al più grande.
+- Perché è più comodo fare un'addizione in colonna con i nostri numeri che con i numeri romani?
+
+## Litri, decilitri e bottiglie [lib-4-elementare-matematica-misure-capacita] · LITRO
+concetti: Il litro; Multipli e sottomultipli; Le equivalenze di capacità; Capacità nella vita reale
+- Quale capacità può avere una lattina di bibita?
+- 1 litro è uguale a 1 000 ml.
+- 100 litri formano un ___.
+- Quanti decilitri sono 2,5 l?
+- Quanti litri sono 750 cl?
+- Una caraffa contiene 1 l d'acqua. Quanti bicchieri da 2 dl puoi riempire?
+- Uno sciroppo si prende 5 ml alla volta, 3 volte al giorno. Quanti ml servono per una settimana?
+- Hai una bottiglia da 1,5 l e una bottiglietta da 75 cl. Spiega quante bottigliette servono per riempire la bo…
+
+## Lordo, netto e tara [lib-4-elementare-matematica-peso-lordo-netto-tara] · TARA
+concetti: Peso netto; Tara; Peso lordo; Trovare il dato mancante
+- Il peso del vasetto di vetro che contiene la marmellata si chiama ___.
+- Il peso lordo è uguale al peso netto più la tara.
+- Su un pacco di pasta c'è scritto «peso netto 500 g». Che cosa significa?
+- Un vasetto di miele ha peso netto 400 g e tara 150 g. Qual è il peso lordo?
+- Una cassetta di mele pesa in tutto 12 kg; la cassetta vuota pesa 1,5 kg. Quanto pesano le mele?
+- Un sacchetto di patatine ha peso lordo 160 g e peso netto 150 g. Quanto pesa il sacchetto vuoto?
+- Un fruttivendolo riceve 6 casse di arance: ogni cassa pesa 15 kg lordi e la tara è 2 kg. Quanti kg di arance …
+- Perché il salumiere, prima di pesare il prosciutto, mette la carta sulla bilancia e la azzera?
+
+## Meno, più o proprio interi [lib-4-elementare-matematica-frazioni-proprie-improprie-apparenti] · APPARE
+concetti: Frazioni proprie; Frazioni improprie; Frazioni apparenti; Dagli interi alle frazioni
+- Quale di queste frazioni è propria?
+- La frazione 5/5 indica un intero.
+- La frazione 9/4 indica più di un intero ma non un numero esatto di interi: è una frazione ___.
+- Quanti interi indica la frazione apparente 12/3?
+- Ci sono 3 pizze uguali, tagliate ciascuna in 6 fette. Quale frazione indica tutte e 3 le pizze?
+- Come si può scrivere la frazione 7/4 con interi e parti?
+- Metti queste frazioni in ordine dalla più piccola alla più grande.
+- Perché la frazione 10/5 si chiama «apparente»? Spiega che cosa indica.
+
+## Moltiplicare con la virgola [lib-4-elementare-matematica-moltiplicazione-decimali] · VOLTE
+concetti: Si moltiplica senza virgola; Rimettere la virgola; Stimare per controllare; Decimali nella vita quotidiana
+- Quanto fa 1,2 × 3?
+- Per calcolare 4,5 × 6 puoi moltiplicare 45 × 6 e mettere la virgola solo alla fine.
+- In 3,25 × 2 il fattore 3,25 ha due cifre dopo la virgola, quindi il prodotto 650 va scritto ___.
+- Quanto fa 0,8 × 7?
+- Senza fare il calcolo esatto, a quale numero si avvicina di più 4,9 × 6?
+- Il risultato 4,9 per la moltiplicazione 9,8 × 5 è sicuramente sbagliato, perché la stima è circa 50.
+- Una tavoletta di legno è lunga 0,35 m. Ne metti 6 in fila, una dopo l'altra. Quanto è lunga la fila?
+- Giulia calcola 3,4 × 5 e scrive 170. Spiega dove ha sbagliato e qual è il risultato giusto.
+
+## Moltiplicazioni a due cifre [lib-4-elementare-matematica-moltiplicazione-colonna] · COLONNA
+concetti: I termini della moltiplicazione; Moltiplicare per le unità; Moltiplicare per le decine; Sommare i prodotti parziali
+- In 24 × 13 = 312, il numero 312 si chiama ___.
+- Quanto fa 213 × 3?
+- In 46 × 25, quando moltiplico per la cifra 2 delle decine, scrivo prima uno 0 al posto delle unità.
+- Calcola 158 × 4.
+- Per 37 × 24 i prodotti parziali sono 148 e 740. Qual è il risultato?
+- In 52 × 31, quanto vale il prodotto parziale della riga delle decine?
+- Metti in ordine i passaggi per calcolare 43 × 12 in colonna.
+- Perché, quando moltiplichi per la cifra delle decine, nella seconda riga scrivi uno 0?
+
+## Monete, banconote e resto [lib-4-elementare-matematica-euro-centesimi] · EURO
+concetti: Euro e centesimi; Monete e banconote; Comporre una cifra; Calcolare il resto
+- Quanti centesimi sono 2,35 €?
+- Esiste una moneta da 25 centesimi di euro.
+- Con 5 monete da 20 centesimi formo ___.
+- Quale gruppo di monete forma esattamente 1,70 €?
+- Come si scrive il prezzo «tre euro e cinque centesimi»?
+- Compri un quaderno da 2,40 € e paghi con 5 €. Quanto resto ricevi?
+- Hai speso 6,70 € e paghi con 10 €. Metti in ordine i passaggi del cassiere che conta il resto in avanti.
+- Perché un prezzo come 4,9 € di solito si scrive 4,90 €? Il valore cambia?
+
+## Multipli, divisori e tabelline [lib-4-elementare-matematica-multipli-divisori] · SALTI
+concetti: I multipli di un numero; I divisori di un numero; Due facce dello stesso legame; Pari e dispari
+- Quale di questi numeri è un multiplo di 7?
+- I multipli di un numero sono infiniti.
+- Poiché 5 × 8 = 40, il numero 8 è un ___ di 40.
+- Quale elenco contiene TUTTI i divisori di 18?
+- Le uova si vendono in confezioni da 6. Quante uova puoi comprare usando solo confezioni intere?
+- Anna vuole mettere a coppie i suoi 23 bottoni. Che cosa succede?
+- Il numero 1 è divisore soltanto dei numeri dispari.
+- Giulia dice: «Dire che 12 è multiplo di 3 e dire che 3 è divisore di 12 è la stessa cosa». Ha ragione? Spiega.
+
+## Ordinare con i diagrammi [lib-4-elementare-matematica-classificazioni-diagrammi] · INSIEME
+concetti: Classificare con un criterio; Il diagramma di Venn; Il diagramma di Carroll; Il diagramma ad albero
+- Quale criterio divide questi numeri in due gruppi: 4, 10, 22 da una parte e 3, 9, 17 dall'altra?
+- Nel diagramma di Venn, la parte comune a due insiemi contiene gli elementi che hanno entrambe le caratteristi…
+- Insieme A: multipli di 2. Insieme B: multipli di 5. Il numero 30 va messo ___.
+- Con gli stessi insiemi A (multipli di 2) e B (multipli di 5), dove va il numero 21?
+- In un diagramma di Carroll le colonne sono «pari / dispari» e le righe «maggiore di 50 / non maggiore di 50».…
+- Un diagramma ad albero chiede prima «È pari?» e poi «È multiplo di 5?». Metti in ordine il percorso del numer…
+- Quale di queste caratteristiche NON è un criterio chiaro per classificare dei numeri?
+- In una classe 12 bambini hanno un cane e 8 hanno un gatto; 3 di loro hanno sia il cane sia il gatto. Spiega c…
+
+## Ore, minuti e secondi [lib-4-elementare-matematica-misure-tempo] · TEMPO
+concetti: Ore, minuti e secondi; Non è un sistema decimale; Calcolare una durata; Giorni, settimane, anni
+- Quanti minuti sono 2 ore e mezza?
+- 1,5 ore corrispondono a 1 ora e 50 minuti.
+- Un minuto è formato da ___ secondi.
+- Il film inizia alle 16:40 e finisce alle 18:15. Quanto dura?
+- Quanti secondi ci sono in 3 minuti?
+- Un anno non bisestile ha 365 giorni. Quante settimane intere contiene?
+- Luca si allena 45 minuti al giorno, dal lunedì al venerdì. Quanto tempo si allena in una settimana?
+- Perché 100 minuti non sono 1 ora, ma 1 ora e 40 minuti? Spiega.
+
+## Più o meno quanto fa? [lib-4-elementare-matematica-arrotondamento-stima] · CIRCA
+concetti: La regola del cinque; Per difetto e per eccesso; Stimare un risultato; Quando basta circa
+- Arrotonda 4 682 alle centinaia.
+- Arrotondato alle migliaia, il numero 7 349 diventa 7 000.
+- Se arrotondi 3 950 alle centinaia ottieni 4 000: è un arrotondamento per ___.
+- Quale numero, arrotondato alle migliaia, diventa 26 000?
+- Marta deve calcolare 398 + 503. Quale stima è la più vicina al risultato?
+- Un libro costa 19 € e ne compri 6. Senza fare il calcolo esatto, circa quanto spendi?
+- Metti in ordine i passaggi per arrotondare 58 470 alle migliaia.
+- Il giornale scrive: «Alla partita c'erano circa 40 000 spettatori», anche se erano 39 812. Perché si usa un n…
+
+## Prima le parentesi! [lib-4-elementare-matematica-espressioni-parentesi] · TONDE
+concetti: Che cos'è un'espressione; Prima moltiplicazioni e divisioni; Le parentesi tonde; Dal problema all'espressione
+- Nell'espressione 5 + 3 × 2 si calcola prima 3 × 2.
+- Quanto vale 20 − 12 : 4?
+- In (8 + 4) × 3 devo calcolare per primo ___.
+- Quanto vale (15 − 5) × 4?
+- Quale espressione ha come risultato 18?
+- Compri 3 quaderni da 2 € l'uno e un astuccio da 7 €. Quale espressione calcola la spesa?
+- Metti in ordine i passaggi per calcolare (20 − 4 × 3) × 2 + 1.
+- Perché 2 × (3 + 4) e 2 × 3 + 4 danno risultati diversi? Spiega con i calcoli.
+
+## Problemi passo dopo passo [lib-4-elementare-matematica-problemi-piu-passaggi] · PASSI
+concetti: Le domande nascoste; Scegliere le operazioni; Lo schema dei passaggi; Controllare la risposta
+- «Il papà ha 50 € e compra 3 libri da 12 € l'uno. Quanto gli resta?» Quale domanda nascosta risolvi per prima?
+- Se in un problema sull'età di un nonno ottieni 350 anni, probabilmente c'è un errore.
+- «Divido 48 figurine in parti uguali fra 4 amici»: l'operazione da fare è la ___.
+- Una classe di 24 alunni va in gita. Il pullman costa 360 € in tutto e l'ingresso al museo 5 € a testa. Quanto…
+- Giorgia ha 120 perline. Ne usa 35 per una collana e 48 per un braccialetto. Quante perline le restano?
+- «Un panettiere sforna 8 teglie da 15 biscotti, ne regala 20 e mette gli altri in sacchetti da 10.» Metti in o…
+- Leo risolve «Ho 3 confezioni da 12 pennarelli e ne perdo 5: quanti ne ho?» scrivendo 3 × 12 − 5 = 41. Che cos…
+- Qual è la domanda nascosta di questo problema? Scrivila e risolvi: «Una libreria riceve 5 pacchi da 24 libri …
+
+## Quanto costa uno solo? [lib-4-elementare-matematica-costo-unitario-totale] · PREZZO
+concetti: Costo unitario; Costo totale; Dal totale all'unitario; Confrontare le offerte
+- Un quaderno costa 3 €. Quanto costano 7 quaderni?
+- Per trovare il costo di una penna, conoscendo il costo di 6 penne uguali, si divide per 6.
+- Il prezzo di 1 kg di pane si chiama costo ___.
+- 5 biglietti del cinema costano 40 €. Quanto costa un biglietto?
+- Le mele costano 2,50 € al kg. Quanto spendi per 4 kg?
+- Quale confezione di biscotti conviene? A: 2 kg a 8 €. B: 3 kg a 10,50 €.
+- Hai pagato 18 € per 6 m di stoffa. Quanto pagherai per 10 m della stessa stoffa?
+- Una bottiglia d'olio da 1 l costa 9 € e una da mezzo litro costa 5 €. Ti serve 1 litro: spiega quale scelta c…
+
+## Quanto spazio occupa? [lib-4-elementare-matematica-superficie-area] · TAPPETO
+concetti: Superficie e area; Misurare con i quadretti; Il centimetro quadrato; Perimetro e area sono diversi
+- La misura della superficie di una figura si chiama ___.
+- Per sapere quanta stoffa serve per coprire il ripiano di un tavolo devi calcolare il perimetro del tavolo.
+- Un rettangolo disegnato sul quaderno è formato da 3 file di 5 quadretti. Quanti quadretti contiene?
+- Che area ha un quadrato con il lato di 1 cm?
+- Un rettangolo è lungo 6 cm e largo 4 cm. Quanti quadratini da 1 cm² servono per coprirlo?
+- Come si chiamano due figure che hanno la stessa area ma forma diversa?
+- Un rettangolo di 6 × 2 quadretti e un quadrato di 4 × 4 quadretti hanno lo stesso perimetro. Quale ha l'area …
+- Spiega la differenza tra perimetro e area con l'esempio di un campo da calcio.
+
+## Rette, semirette e segmenti [lib-4-elementare-matematica-rette-semirette-segmenti] · RETTA
+concetti: Retta, semiretta, segmento; Rette incidenti e perpendicolari; Rette parallele; Linee nella realtà
+- Come si chiama la parte di retta compresa tra due punti?
+- Due rette parallele, se le prolunghi abbastanza, prima o poi si incontrano.
+- Due rette che si incontrano formando quattro angoli retti si dicono ___.
+- Quale descrizione corrisponde alla semiretta?
+- Quale di questi è un esempio di rette parallele?
+- Due strade dritte si incrociano formando angoli che non sono retti. Come sono tra loro?
+- Quanti segmenti diversi puoi disegnare unendo a due a due tre punti A, B, C non allineati?
+- Spiega la differenza tra due rette parallele e due rette perpendicolari, con un esempio che trovi in classe.
+
+## Ritrovare l'intero [lib-4-elementare-matematica-dalla-frazione-all-intero] · RITORNO
+concetti: Dall'unità frazionaria all'intero; Da una frazione all'intero; Il ragionamento inverso; Controllare il risultato
+- 1/3 di un numero è 7. Qual è il numero?
+- Se 1/2 di una somma di denaro è 15 €, la somma intera è 30 €.
+- Per trovare l'intero partendo dal valore di 1/8, devo ___ per 8.
+- I 2/5 di un numero sono 16. Qual è il numero?
+- Marco ha speso i 3/4 dei suoi risparmi, cioè 45 €. Quanto aveva in tutto?
+- Metti in ordine i passaggi per trovare il numero di cui i 5/6 sono 30.
+- Sai che i 3/8 di un numero sono 18 e trovi che il numero è 48. Quale calcolo usi per controllare?
+- In gita 1/4 dei bambini, cioè 9 bambini, porta il panino al prosciutto. Spiega come trovi quanti bambini ci s…
+
+## Specchi, scivolate e giri [lib-4-elementare-matematica-simmetria-traslazione-rotazione] · ASSE
+concetti: La simmetria assiale; La traslazione; La rotazione; Forma e misure non cambiano
+- Quale di queste lettere maiuscole ha un asse di simmetria verticale?
+- Quando trasli una figura, le sue misure cambiano.
+- Le lancette di un orologio compiono una ___ intorno al centro del quadrante.
+- Quanti assi di simmetria ha un quadrato?
+- Quale movimento è una traslazione?
+- Ruoti una freccia che punta verso l'alto di un quarto di giro in senso orario. Dove punta adesso?
+- In una figura simmetrica, un punto si trova a 3 cm dall'asse. Dove si trova il punto corrispondente?
+- Una farfalla disegnata con le ali aperte è simmetrica. Spiega dove si trova l'asse e che cosa succede piegand…
+
+## Spesa, ricavo e guadagno [lib-4-elementare-matematica-compravendita] · RICAVO
+concetti: Spesa; Ricavo; Guadagno; Perdita
+- Il denaro che il negoziante incassa vendendo la merce si chiama ___.
+- Se un negoziante compra un oggetto a 30 € e lo vende a 25 €, ha una perdita.
+- Un libraio compra un libro a 8 € e lo vende a 14 €. Quanto guadagna?
+- Un fioraio vende 25 mazzi di fiori a 12 € l'uno. Quanto ricava?
+- Un negoziante ricava 520 € e guadagna 180 €. Quanto aveva speso?
+- Un fruttivendolo spende 90 € per la frutta, ma per il caldo ne vende solo una parte e ricava 65 €. Che cosa s…
+- Una cartoleria compra 40 zaini a 15 € l'uno e li vende tutti a 22 € l'uno. Quanto guadagna in tutto?
+- Un venditore compra 10 magliette a 6 € l'una e ne vende 8 a 9 € l'una. Spiega se guadagna o perde, e di quant…
+
+## Triangoli di tutti i tipi [lib-4-elementare-matematica-triangoli-classificazione] · SQUADRA
+concetti: Triangoli secondo i lati; Triangoli secondo gli angoli; La somma degli angoli; Il triangolo è rigido
+- Un triangolo ha i lati di 5 cm, 5 cm e 5 cm. Come si chiama?
+- La somma degli angoli interni di un triangolo è 180°.
+- Un triangolo con un angolo di 90° si chiama triangolo ___.
+- Un triangolo ha i lati di 4 cm, 7 cm e 7 cm. Che tipo di triangolo è rispetto ai lati?
+- Due angoli di un triangolo misurano 50° e 60°. Quanto misura il terzo?
+- Un triangolo ha angoli di 30°, 40° e 110°. Come si classifica secondo gli angoli?
+- Può esistere un triangolo con due angoli retti?
+- Perché nei ponti e nei tralicci della luce si vedono tantissimi triangoli?
+
+## Trucchi per somme e differenze [lib-4-elementare-matematica-proprieta-addizione-sottrazione] · TRUCCO
+concetti: Proprietà commutativa; Proprietà associativa; Proprietà invariantiva; Nella sottrazione l'ordine conta
+- Quale uguaglianza mostra la proprietà commutativa dell'addizione?
+- Nella sottrazione posso scambiare minuendo e sottraendo senza cambiare il risultato.
+- Per calcolare 503 − 199 aggiungo 1 a entrambi i numeri e ottengo 504 − 200. Uso la proprietà ___.
+- Devi calcolare 46 + 38 + 54. Quali addendi conviene sommare per primi?
+- Quale sottrazione dà lo stesso risultato di 85 − 37?
+- Metti in ordine i passaggi per calcolare a mente 27 + 45 + 73.
+- Sara ha calcolato 128 + 67 = 195. Come può controllare il risultato usando la proprietà commutativa?
+- Perché 400 − 165 è più facile da calcolare come 399 − 164? Spiega usando la proprietà invariantiva.

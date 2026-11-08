@@ -1,6 +1,39 @@
-# 2ª media · Matematica: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 2ª media · Matematica: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A caccia di quadrati perfetti [lib-2-media-matematica-quadrati-perfetti] · QUADRO
+concetti: Quadrato di un numero; Somma dei dispari; L'ultima cifra; Quadrati consecutivi
+- Quanto vale 13²?
+- Un numero che termina con la cifra 7 non può essere un quadrato perfetto.
+- Quanto fa 1 + 3 + 5 + 7 + 9 + 11?
+- Per passare da 7² = 49 a 8² = 64 aggiungi ___, cioè 7 + 8.
+- Sapendo che 30² = 900, quanto vale 31²?
+- Quale numero NON può essere un quadrato perfetto, anche senza fare calcoli?
+- Quanti quadrati perfetti ci sono tra 50 e 150?
+- Parti da un quadratino e allarga il quadrato di un quadretto per lato alla volta, aggiungendo ogni volta una …
+
+## A metà strada nel piano [lib-2-media-matematica-punto-medio-segmento] · TAPPA
+concetti: Coordinate del punto medio; Segmenti orizzontali e verticali; Trovare un estremo; Centro di un rettangolo
+- Qual è il punto medio del segmento da A(2; 4) a B(10; 4)?
+- Per trovare il punto medio si fa la media delle ascisse e la media delle ordinate degli estremi.
+- Qual è il punto medio del segmento da A(1; 3) a B(7; 9)?
+- Il punto medio M di AB ha ascissa uguale alla ___ delle ascisse di A e B divisa per 2.
+- Il punto medio di AB è M(5; 5) e A è (2; 1). Quali sono le coordinate di B?
+- Un rettangolo ha vertici opposti (0; 0) e (8; 6). Dove si trova il suo centro, punto d'incontro delle diagona…
+- Due amici abitano nei punti (3; 2) e (11; 8) di una mappa a quadretti. Dove si incontrano se si vedono a metà…
+- M(6; 4) è il punto medio di AB e A è (4; 1). Spiega come trovi B.
+
+## Acuto, retto o ottuso? [lib-2-media-matematica-classificare-triangoli-lati] · OTTUSO
+concetti: Triangolo rettangolo; Triangolo acutangolo; Triangolo ottusangolo; Il lato maggiore
+- Un triangolo ha lati di 12, 16 e 20 cm. Che triangolo è?
+- Per classificare un triangolo dai lati si confronta il quadrato del lato maggiore con la somma dei quadrati d…
+- Un triangolo ha lati di 4, 5 e 8 cm. Che triangolo è?
+- Se il quadrato del lato maggiore è minore della somma dei quadrati degli altri due lati, il triangolo è ___.
+- Un triangolo ha lati di 6, 7 e 8 cm. Che triangolo è?
+- Un triangolo ha lati di 10, 24 e 26 cm. Che triangolo è?
+- Un muratore segna 60 cm su un muro, 80 cm sull'altro e misura 1 m tra i due segni. L'angolo tra i muri è rett…
+- Spiega perché un triangolo con lati di 2, 3 e 4 cm è ottusangolo.
 
 ## Altezze di isosceli ed equilateri [lib-2-media-matematica-pitagora-triangolo-isoscele-equilatero] · ALTEZZA
 concetti: L'altezza divide l'isoscele; Calcolare l'altezza; Trovare il lato obliquo; Il triangolo equilatero; Dall'altezza all'area
@@ -12,6 +45,17 @@ concetti: L'altezza divide l'isoscele; Calcolare l'altezza; Trovare il lato obli
 - Un triangolo equilatero ha il lato di 20 cm. Quanto misura circa la sua altezza?
 - Metti in ordine i passaggi per calcolare l'area di un triangolo isoscele di cui conosci base e lato obliquo.
 - Spiega perché in un triangolo equilatero l'altezza è sempre più corta del lato.
+
+## Apotema scoperto con Pitagora [lib-2-media-matematica-pitagora-apotema-poligoni] · CENTRO
+concetti: Il triangolo rettangolo; Il raggio; Calcolo dell'apotema; Area del poligono
+- Nel triangolo rettangolo formato da apotema, metà lato e raggio, quale segmento è l'ipotenusa?
+- L'apotema di un poligono regolare è perpendicolare al lato e lo divide a metà.
+- Un quadrato ha lato 10 cm e raggio (distanza centro-vertice) di circa 7,07 cm. Quanto misura l'apotema calcol…
+- In un poligono regolare la distanza tra il centro e un vertice si chiama ___.
+- Un pentagono regolare ha lato 12 cm e raggio 10,2 cm. Quanto misura circa l'apotema?
+- Il pentagono regolare di lato 12 cm ha apotema di circa 8,25 cm. Qual è circa la sua area?
+- Un ottagono regolare ha lato 10 cm e raggio di circa 13,07 cm. Quanto misura circa l'apotema?
+- Spiega perché l'apotema di un poligono regolare è sempre più corta del raggio.
 
 ## Aree di figure composte [lib-2-media-matematica-aree-figure-composte] · PUZZLE
 concetti: Scomporre e sommare; Togliere una parte; Poligoni irregolari; Scegliere il metodo
@@ -35,6 +79,17 @@ concetti: Pavimenti e piastrelle; Costo per metro quadrato; Area o perimetro?; A
 - Metti in ordine i passaggi per calcolare quanto costa il parquet per una stanza di 5 m × 4 m, a 30 € al m².
 - Vuoi piastrellare un bagno di 2 m × 1,5 m con piastrelle di 20 cm × 20 cm. Spiega come trovi quante piastrell…
 
+## Aree sul piano cartesiano [lib-2-media-matematica-aree-piano-cartesiano] · GRIGLIA
+concetti: Segmenti paralleli agli assi; Rettangoli; Triangoli; Rettangolo circoscritto
+- Quanto è lungo il segmento da A(3; 5) a B(11; 5)?
+- Due punti con la stessa ordinata stanno su una retta parallela all'asse x.
+- Un rettangolo ha vertici (1; 1), (6; 1), (6; 4) e (1; 4). Qual è la sua area?
+- Un triangolo ha vertici A(1; 2), B(7; 2) e C(4; 6): la sua altezza relativa ad AB misura ___ unità.
+- Qual è l'area del triangolo con vertici A(1; 2), B(7; 2) e C(4; 6)?
+- Ordina i passaggi per trovare l'area di un triangolo con il metodo del rettangolo circoscritto.
+- Il triangolo con vertici (0; 0), (4; 1) e (1; 3) sta in un rettangolo 4 × 3. I tre triangoli rettangoli in pi…
+- Spiega come calcoli il perimetro del rettangolo con vertici (2; 1), (8; 1), (8; 5) e (2; 5).
+
 ## Arrotondare con giudizio [lib-2-media-matematica-approssimazione-arrotondamento] · STIMA
 concetti: Per difetto e per eccesso; La regola dell'arrotondamento; L'errore di approssimazione; Stimare un risultato
 - Come si approssima 7,82 ai decimi per difetto?
@@ -57,6 +112,28 @@ concetti: La formula del cateto; Differenza, non somma; Problemi della vita real
 - Marco deve trovare un cateto: ipotenusa 17 cm, altro cateto 8 cm. Ottiene circa 18,8 cm. Che errore ha fatto?
 - Luisa dice che un triangolo rettangolo ha l'ipotenusa di 26 cm e un cateto di 30 cm. Come capisci subito, sen…
 
+## Calcoli con i numeri periodici [lib-2-media-matematica-operazioni-numeri-periodici] · SBARRA
+concetti: Prima la frazione; Somme di periodici; Prodotti con periodici; Periodici e approssimazioni
+- Qual è la frazione generatrice di 0,(3)?
+- Il numero 0,(3) è maggiore di 0,33.
+- Quanto fa 0,(3) + 0,(6)?
+- Per calcolare 0,(6) × 3 conviene prima scrivere 0,(6) come la frazione ___.
+- Quanto fa 0,(6) × 3?
+- Quanto fa 1,(2) + 0,(7)?
+- Quanto fa 0,1(6) × 6?
+- Luca calcola 0,(6) + 0,(6) scrivendo 0,66 + 0,66 = 1,32. Spiega perché il risultato non è esatto e trova quel…
+
+## Capovolgi e moltiplica [lib-2-media-matematica-reciproco-divisione-frazioni] · RIBALTA
+concetti: Reciproco di una frazione; Divisione tra frazioni; Lo zero non ha reciproco; Quante volte ci sta
+- Qual è il reciproco di 3/8?
+- Il prodotto di una frazione diversa da zero per il suo reciproco è sempre 1.
+- Quanto fa 4/5 : 2/3?
+- Il reciproco del numero intero 5 è la frazione ___.
+- Quale di questi numeri NON ha reciproco?
+- Hai 3 litri di succo e riempi bicchieri da 1/4 di litro. Quanti bicchieri riempi?
+- Una corda lunga 15/2 m viene tagliata in pezzi da 3/4 m. Quanti pezzi ottieni?
+- Perché dividere un numero per 1/2 dà come risultato il doppio del numero?
+
 ## Che cos'è una percentuale [lib-2-media-matematica-percentuale-concetto] · CENTO
 concetti: Percentuale come frazione; Percentuale come decimale; Percentuali da ricordare; Dalla frazione alla percentuale
 - Quale frazione corrisponde a 9%?
@@ -67,6 +144,17 @@ concetti: Percentuale come frazione; Percentuale come decimale; Percentuali da r
 - Quale serie contiene tre modi diversi di scrivere lo stesso numero?
 - Metti in ordine questi numeri dal più piccolo al più grande.
 - Un amico dice: «Ho mangiato il 120% della torta». È possibile? Spiega perché, usando il significato di percen…
+
+## Chi è più grande? Le frazioni [lib-2-media-matematica-confronto-ordinamento-frazioni] · MINORE
+concetti: Stesso denominatore; Denominatore comune; Prodotto in croce; Confronto con l'unità
+- Quale frazione è la maggiore?
+- La frazione 8/7 è maggiore di 1.
+- Per confrontare 3/5 e 4/7 calcoli 3 × 7 e 4 × 5. Quale frazione è maggiore?
+- Per confrontare 5/6 e 7/8 li trasformi in frazioni con denominatore ___, il loro m.c.m.
+- Quale di queste frazioni è compresa tra 1/2 e 3/4?
+- Ordina le frazioni dalla più piccola alla più grande.
+- Luca mangia 3/8 di una pizza, Sara 5/12 di una pizza uguale. Chi ne mangia di più?
+- Senza calcolare il m.c.m., spiega quale frazione è maggiore tra 9/10 e 10/11 e perché.
 
 ## Dal decimale alla frazione [lib-2-media-matematica-frazione-generatrice-limitati] · DECIMO
 concetti: La frazione generatrice; Regola per i decimali limitati; Semplificare la frazione; Decimali nella vita quotidiana
@@ -79,6 +167,28 @@ concetti: La frazione generatrice; Regola per i decimali limitati; Semplificare 
 - Metti in ordine i passaggi per trovare la frazione generatrice di 3,6.
 - Giulia dice che 0,2, 2/10 e 1/5 sono tre numeri diversi. Ha ragione? Spiega.
 
+## Dal quadrato al suo lato [lib-2-media-matematica-radice-problemi-quadrato] · LATO
+concetti: Lato dall'area; Unità di misura; Quadrato equivalente; Perimetro dal lato
+- Un quadrato ha area 64 cm². Quanto misura il lato?
+- Se l'area si misura in m², il lato ricavato con la radice quadrata si misura in m.
+- Un quadrato ha area 121 m². Quanto misura il suo perimetro?
+- Un quadrato si dice ___ a un rettangolo se ha la stessa area.
+- Un rettangolo misura 18 cm per 8 cm. Quanto misura il lato del quadrato equivalente?
+- Metti in ordine i passaggi per trovare il lato del quadrato equivalente a un rettangolo.
+- Un cartoncino quadrato ha area 0,64 m². Quanto misura il lato?
+- Se l'area di un quadrato diventa 4 volte più grande, che cosa succede al lato? Spiega con un esempio.
+
+## Dall'area all'altezza [lib-2-media-matematica-formule-inverse-triangolo] · VERTICE
+concetti: Area del triangolo; Altezza dall'area; Base dall'area; Altezze diverse
+- Un triangolo ha base 10 cm e altezza 6 cm. Qual è la sua area?
+- Per trovare l'altezza di un triangolo conoscendo area e base, si raddoppia l'area e la si divide per la base.
+- Un triangolo ha area 42 cm² e base 12 cm. Quanto misura l'altezza?
+- La base di un triangolo si trova con la formula b = 2 × A : ___.
+- Un triangolo ha area 27 m² e altezza 6 m. Quanto misura la base?
+- In un triangolo il lato di 12 cm ha l'altezza relativa di 5 cm. Quanto è lungo il lato a cui corrisponde un'a…
+- Una vela triangolare ha area 3,6 m² e base 2,4 m. Quanto è alta?
+- Perché in uno stesso triangolo l'altezza relativa al lato più lungo è la più corta?
+
 ## Dalla frazione al numero decimale [lib-2-media-matematica-frazioni-decimali-limitati] · VIRGOLA
 concetti: Frazione come divisione; Numeri decimali limitati; La regola del denominatore; Frazioni decimali
 - Quale numero decimale corrisponde alla frazione 3/8?
@@ -89,6 +199,17 @@ concetti: Frazione come divisione; Numeri decimali limitati; La regola del denom
 - Marta divide 7 m di nastro in 4 pezzi uguali. Quanto è lungo ogni pezzo?
 - Metti in ordine queste frazioni dalla più piccola alla più grande.
 - Senza fare la divisione, come puoi capire se 11/40 darà un numero decimale limitato? Spiega il ragionamento.
+
+## Di quanto è cambiato? [lib-2-media-matematica-variazione-percentuale] · CALO
+concetti: Variazione assoluta; Variazione percentuale; Aumento o diminuzione; Il valore di riferimento
+- Un biglietto passa da 8 € a 10 €. Qual è la variazione assoluta?
+- Per calcolare una variazione percentuale si divide la differenza per il valore finale.
+- Un biglietto passa da 8 € a 10 €. Di quanto è aumentato in percentuale?
+- Se il valore finale è minore di quello iniziale, la variazione percentuale indica una ___.
+- Gli iscritti a un club passano da 250 a 200. Qual è la variazione percentuale?
+- Un prezzo passa da 40 € a 50 € e poi torna a 40 €. Di quanto è calato in percentuale nel secondo passaggio?
+- Una città aveva 80 000 abitanti e ora ne ha 86 000. Di quanto è cresciuta in percentuale?
+- Perché un aumento da 50 € a 100 € è del 100%, mentre la diminuzione da 100 € a 50 € è solo del 50%?
 
 ## Diagonali di rettangoli e quadrati [lib-2-media-matematica-pitagora-diagonale-rettangolo-quadrato] · POLLICE
 concetti: Due triangoli nel rettangolo; Diagonale del rettangolo; Diagonale del quadrato; Formule inverse
@@ -123,6 +244,28 @@ concetti: Che cos'è la ripartizione; Il metodo delle parti uguali; Il metodo co
 - Metti in ordine i passaggi per dividere 72 caramelle tra tre bambini, in parti proporzionali alle età: 5, 6 e…
 - Perché dividere un compenso in parti proporzionali alle ore lavorate è più giusto che dividerlo in parti ugua…
 
+## Doppio il lato, quadrupla l'area [lib-2-media-matematica-similitudine-perimetri-aree] · ZOOM
+concetti: Perimetri; Aree; Mappe e piante; Da aree a lati
+- Due triangoli simili hanno rapporto di similitudine 3. Il perimetro del piccolo è 12 cm. Quanto misura il per…
+- Se due triangoli simili hanno rapporto di similitudine 2, anche le loro aree stanno nel rapporto 2.
+- Due rettangoli simili hanno rapporto di similitudine 3. L'area del piccolo è 10 cm². Quanto è l'area del gran…
+- Il rapporto tra le aree di due figure simili è uguale al ___ del rapporto di similitudine.
+- Le aree di due quadrati stanno nel rapporto 25 : 4. Qual è il rapporto tra i loro lati?
+- Su una pianta in scala 1 : 100 una stanza ha area 20 cm². Qual è l'area reale?
+- Una foto di 10 cm × 15 cm viene ingrandita a 20 cm × 30 cm. Quante volte più lunga è la cornice, cioè il peri…
+- Una pizza tonda da 30 cm di diametro costa 8 €, una da 15 cm costa 3 €. Quale conviene di più? Spiega usando …
+
+## Due numeri, un rapporto [lib-2-media-matematica-problemi-somma-rapporto] · SOMMA
+concetti: Somma e rapporto; Differenza e rapporto; Parti uguali; Verifica
+- Due numeri stanno nel rapporto 2 : 3. In quante parti uguali dividi la loro somma?
+- Se due numeri stanno nel rapporto 5 : 2, la loro differenza corrisponde a 3 parti uguali.
+- La somma di due numeri è 45 e stanno nel rapporto 4 : 5. Quali sono?
+- La soluzione di un problema con somma e rapporto è giusta solo se rispetta sia la somma sia il ___.
+- La differenza tra due numeri è 24 e il loro rapporto è 7 : 3. Qual è il numero maggiore?
+- Un nastro lungo 72 cm va tagliato in due pezzi nel rapporto 5 : 3. Quanto è lungo il pezzo più lungo?
+- Un rettangolo ha perimetro 56 cm e base e altezza nel rapporto 4 : 3. Quanto misura la base?
+- Hai trovato che due numeri con somma 60 e rapporto 1 : 2 sono 20 e 40. Come controlli che la soluzione sia gi…
+
 ## Espressioni con le frazioni [lib-2-media-matematica-espressioni-frazioni] · ORDINE
 concetti: Addizione e sottrazione; Moltiplicazione e divisione; L'ordine delle operazioni; Semplificare in croce
 - Quanto fa 2/5 + 1/3?
@@ -133,6 +276,28 @@ concetti: Addizione e sottrazione; Moltiplicazione e divisione; L'ordine delle o
 - Calcola: (1/2 + 1/4) × 8/3.
 - Metti in ordine i passaggi per calcolare [2/3 + (1/2 − 1/3)] × 6/5.
 - Sara scrive 1/3 + 1/4 = 2/7. Spiega dove sbaglia e qual è il risultato corretto.
+
+## Espressioni con le radici [lib-2-media-matematica-espressioni-con-radici] · CALCOLO
+concetti: Prima le radici; Ordine delle operazioni; Radice di un'espressione; Radice e quadrato
+- Quanto fa √49 + √16?
+- (√7)² è uguale a 7.
+- Quanto fa √(4 × 6 + 1)?
+- In √81 − 2 × √9 prima calcoli le radici, poi la ___ e infine la sottrazione.
+- Quanto fa √81 − 2 × √9?
+- Quanto fa √(5² − 3²)?
+- Quanto vale (√144 : √4) + √25 × √4?
+- Spiega perché √(6²) e (√6)² danno entrambi 6, poi calcola √(13²) senza calcolare 13².
+
+## Euro, dollari e sterline [lib-2-media-matematica-cambio-valuta] · CAMBIO
+concetti: Tasso di cambio; Da euro a valuta estera; Da valuta estera a euro; Commissioni
+- Che cosa indica un tasso di cambio di 1 € = 1,10 dollari?
+- Con un tasso fisso, euro e dollari sono grandezze direttamente proporzionali: con il doppio degli euro ottien…
+- Con 1 € = 1,10 $, quanti dollari ottieni con 50 €?
+- Per trasformare dollari in euro, con il tasso 1 € = 1,10 $, devi ___ per 1,10.
+- Con 1 € = 0,85 sterline, quanti euro valgono 170 sterline?
+- Supponi che 1 € = 0,95 franchi svizzeri. Quanti franchi ottieni con 300 €?
+- Un ufficio cambi trattiene una commissione del 2% sui 200 € che vuoi cambiare. Quanti euro vengono davvero ca…
+- Prima di un viaggio il cambio passa da 1 € = 1,05 $ a 1 € = 1,15 $. Ti conviene cambiare gli euro dopo questo…
 
 ## Figure equivalenti ed equiscomponibili [lib-2-media-matematica-figure-equivalenti] · TANGRAM
 concetti: Figure equivalenti; Congruenti ed equivalenti; Figure equiscomponibili; Area e perimetro sono diversi
@@ -145,6 +310,17 @@ concetti: Figure equivalenti; Congruenti ed equivalenti; Figure equiscomponibili
 - Metti in ordine queste figure dall'area più piccola alla più grande.
 - Laura dice: «Due figure con lo stesso perimetro hanno sempre la stessa area». Spiega con un esempio perché sb…
 
+## Figure simili e rapporto [lib-2-media-matematica-figure-simili] · COPIA
+concetti: Figure simili; Lati proporzionali; Rapporto di similitudine; Congruenza
+- Due figure si dicono simili quando...
+- Due figure simili hanno gli angoli corrispondenti congruenti.
+- Un rettangolo 4 cm × 6 cm viene ingrandito e il lato di 4 cm diventa 10 cm. Qual è il rapporto di similitudin…
+- In due poligoni simili i lati corrispondenti sono ___.
+- Con il rapporto 2,5, quanto diventa il lato di 6 cm dello stesso rettangolo?
+- Due figure simili con rapporto di similitudine uguale a 1 sono...
+- Quale rettangolo è simile a un rettangolo di 3 cm × 5 cm?
+- Un quadrato e un rombo non quadrato con lo stesso lato sono figure simili? Spiega.
+
 ## Frazioni elevate a potenza [lib-2-media-matematica-potenze-frazioni] · BASE
 concetti: Potenza di una frazione; Esponente 0 e 1; Proprietà delle potenze; Potenze di frazioni proprie
 - Quanto vale (3/5)²?
@@ -155,6 +331,28 @@ concetti: Potenza di una frazione; Esponente 0 e 1; Proprietà delle potenze; Po
 - Quale di questi numeri è il più piccolo?
 - Metti in ordine i passaggi per calcolare (2/5)⁴ : (2/5)² + 1/25.
 - Perché (1/2)³ è più piccolo di 1/2, mentre 2³ è più grande di 2? Spiega con parole tue.
+
+## Frazioni sulla retta [lib-2-media-matematica-frazioni-retta-numerica] · TACCA
+concetti: Dividere l'unità; Frazioni improprie; Decimali e frazioni; Ordine sulla retta
+- Per segnare 3/5 sulla retta, in quante parti uguali dividi il segmento da 0 a 1?
+- Sulla retta numerica 1/4 e 0,25 corrispondono allo stesso punto.
+- Tra quali numeri interi si trova 11/4?
+- Sulla retta orientata, il numero più grande si trova sempre più a ___.
+- Il segmento da 0 a 1 è diviso in 6 parti uguali. Quale numero corrisponde alla quarta tacca dopo lo 0?
+- Ordina questi numeri come li incontri sulla retta, da sinistra a destra.
+- Il segmento da 0 a 1 è diviso in 10 parti uguali. A quale tacca dopo lo 0 corrisponde la frazione 3/5?
+- Spiega come segneresti 7/3 sulla retta numerica.
+
+## Frequenze e percentuali in statistica [lib-2-media-matematica-frequenze-statistiche] · DATI
+concetti: Frequenza assoluta; Frequenza relativa; Frequenza percentuale; Somma delle frequenze
+- In un'indagine 7 alunni su 25 hanno un gatto. Il numero 7 è la frequenza...
+- La somma di tutte le frequenze percentuali di un'indagine è 100%.
+- Qual è la frequenza relativa di chi ha un gatto, 7 alunni su 25?
+- Per ottenere la frequenza percentuale moltiplichi la frequenza relativa per ___.
+- In una classe di 20 alunni, 5 vanno a scuola in bici. Qual è la frequenza percentuale?
+- Le frequenze relative di tre risposte sono 0,45, 0,35 e un valore mancante. Quanto vale?
+- Su 40 ragazzi, il 15% suona uno strumento. Qual è la frequenza assoluta?
+- In una classe di 25 alunni, 8 vanno a scuola a piedi. Spiega come trovi la frequenza relativa e quella percen…
 
 ## Grandezze direttamente proporzionali [lib-2-media-matematica-proporzionalita-diretta] · RETTA
 concetti: Il rapporto costante; La costante di proporzionalità; Il grafico: una retta; Riconoscere la proporzionalità
@@ -178,6 +376,17 @@ concetti: Il prodotto costante; La legge della proporzionalità inversa; Il graf
 - Un percorso è lungo 120 km. Metti in ordine queste coppie dalla velocità più bassa alla più alta.
 - Spiega perché il numero di operai e i giorni necessari per costruire un muro sono inversamente proporzionali.…
 
+## I teoremi di Euclide [lib-2-media-matematica-teoremi-euclide] · EUCLIDE
+concetti: Proiezioni dei cateti; Primo teorema di Euclide; Secondo teorema di Euclide; Legame con Pitagora
+- In un triangolo rettangolo l'ipotenusa misura 25 cm e la proiezione di un cateto su di essa misura 9 cm. Quan…
+- Per il secondo teorema di Euclide, il quadrato dell'altezza relativa all'ipotenusa è uguale al prodotto delle…
+- Un triangolo rettangolo ha l'ipotenusa di 25 cm e la proiezione di un cateto di 9 cm. Quanto misura quel cate…
+- Per il primo teorema di Euclide, il quadrato di un cateto è uguale al prodotto dell'ipotenusa per la ___ di q…
+- Le proiezioni dei cateti sull'ipotenusa misurano 9 cm e 16 cm. Quanto misura l'altezza relativa all'ipotenusa?
+- Ordina i passaggi per trovare un cateto con il primo teorema di Euclide.
+- In un triangolo rettangolo le proiezioni dei cateti sull'ipotenusa misurano 3,6 cm e 6,4 cm. Quanto misura il…
+- Spiega come, applicando il primo teorema di Euclide a tutti e due i cateti, si arriva al teorema di Pitagora.
+
 ## Il lato nascosto del rombo [lib-2-media-matematica-pitagora-rombo] · CROCE
 concetti: Quattro triangoli rettangoli; Il lato dalle semidiagonali; Una diagonale dal lato; L'altezza del rombo
 - Le diagonali del rombo sono perpendicolari e si dividono a metà a vicenda.
@@ -200,6 +409,17 @@ concetti: Decimali illimitati periodici; Periodici semplici e misti; Da quali fr
 - Quante cifre può avere al massimo il periodo di una frazione con denominatore 7?
 - Perché dividendo 1 : 3 la cifra 3 continua a ripetersi senza fine? Spiega cosa succede ai resti.
 
+## Il problema del tre composto [lib-2-media-matematica-problemi-tre-composto] · FATICA
+concetti: Più grandezze; Diretta o inversa; Riduzione all'unità; Ragionevolezza
+- Che cosa distingue un problema del tre composto da uno del tre semplice?
+- Nel tre composto ogni grandezza va confrontata con l'incognita per capire se è direttamente o inversamente pr…
+- 5 operai, lavorando 8 ore al giorno, finiscono un muro in 6 giorni. Se gli operai aumentano, i giorni necessa…
+- Le ore di lavoro al giorno e i giorni necessari per finire un lavoro sono grandezze ___ proporzionali.
+- 3 rubinetti uguali riempiono una vasca da 600 litri in 4 ore. Quanti litri versa 1 rubinetto in 1 ora?
+- Ogni rubinetto versa 50 litri all'ora. Quanto tempo impiegano 5 rubinetti a riempire 1 000 litri?
+- 4 operai, lavorando 6 ore al giorno, finiscono un lavoro in 10 giorni. In quanti giorni lo finiscono 8 operai…
+- 4 operai che lavorano 6 ore al giorno finiscono un lavoro in 10 giorni; 8 operai che lavorano 5 ore al giorno…
+
 ## Il problema del tre semplice [lib-2-media-matematica-problemi-tre-semplice] · OPERAI
 concetti: Che cos'è il tre semplice; Tre semplice diretto; Tre semplice inverso; Riconoscere il tipo
 - Con più rubinetti uguali aperti, una vasca si riempie in meno tempo. Che legame c'è tra numero di rubinetti e…
@@ -210,6 +430,17 @@ concetti: Che cos'è il tre semplice; Tre semplice diretto; Tre semplice inverso
 - Una scorta di mangime basta per 20 giorni a 9 cavalli. Per quanti giorni basta a 12 cavalli?
 - Metti in ordine i passaggi per risolvere: «6 penne costano 4,50 €; quanto costano 10 penne?»
 - Giorgio risolve così: «3 pittori dipingono una casa in 8 giorni, quindi 6 pittori ci mettono 16 giorni». Spie…
+
+## Il segreto dell'esagono [lib-2-media-matematica-esagono-regolare] · ALVEARE
+concetti: Sei triangoli equilateri; Lato e raggio; Perimetro e area; Apotema
+- In quanti triangoli equilateri congruenti puoi dividere un esagono regolare unendo il centro con i vertici?
+- Nell'esagono regolare il lato è uguale al raggio della circonferenza circoscritta.
+- Un esagono regolare ha lato 7 cm. Quanto misura il perimetro?
+- L'apotema dell'esagono regolare coincide con l'___ di uno dei triangoli equilateri che lo compongono.
+- Un esagono regolare ha perimetro 48 cm. Quanto misura il raggio della circonferenza circoscritta?
+- Un triangolo equilatero ha area 15 cm². Quanto vale l'area dell'esagono regolare con lo stesso lato?
+- Con Pitagora l'apotema dell'esagono di lato 4 cm è √(4² − 2²). Quanto vale circa?
+- Perché le api costruiscono celle esagonali? Spiega una ragione geometrica.
 
 ## Il segreto della radice quadrata [lib-2-media-matematica-radice-quadrata] · RADICE
 concetti: Operazione inversa del quadrato; Quadrati perfetti; Radice e lato del quadrato; Radici di numeri con zeri
@@ -244,6 +475,28 @@ concetti: La formula del triangolo; Metà di un parallelogramma; Il triangolo re
 - Metti in ordine i passaggi che mostrano perché l'area del triangolo è b × h : 2.
 - Un compagno calcola l'area di un triangolo moltiplicando la base per un lato obliquo e dividendo per 2. Spieg…
 
+## Infiniti numeri tra due numeri [lib-2-media-matematica-numeri-razionali-densita] · DENSO
+concetti: Numeri razionali; Decimali razionali; Densità; Il numero in mezzo
+- Che cosa sono i numeri razionali?
+- Il numero 2,(45) è un numero razionale.
+- Quanti numeri razionali ci sono tra 0,1 e 0,2?
+- L'insieme dei numeri razionali si indica con la lettera ___.
+- Quale numero si trova esattamente a metà tra 2/5 e 3/5?
+- Quale frazione dimostra che 0,(45) è un numero razionale?
+- Quale numero è compreso tra 0,35 e 0,36?
+- Paolo dice: «Dopo 0,5 viene subito 0,6». Spiega perché ha torto.
+
+## Ingrandire con l'omotetia [lib-2-media-matematica-omotetia] · LENTE
+concetti: Centro e rapporto; Ingrandire o ridurre; Figure simili; Punti allineati
+- Che cosa serve per definire un'omotetia?
+- Una figura e la sua omotetica sono sempre simili.
+- In un'omotetia con rapporto 0,5 la figura...
+- Un punto, il suo omotetico e il centro dell'omotetia sono sempre ___.
+- Con centro O e rapporto 3, il punto A dista 4 cm da O. A che distanza da O si trova il suo omotetico A'?
+- Un triangolo di perimetro 18 cm subisce un'omotetia di rapporto 2/3. Qual è il nuovo perimetro?
+- Con centro nell'origine O(0; 0) e rapporto 2, qual è l'omotetico del punto P(3; 1)?
+- Un proiettore manda l'immagine di una diapositiva sul muro, molto più grande. Spiega perché si può parlare di…
+
 ## IVA, interessi e percentuali [lib-2-media-matematica-iva-interesse] · BANCA
 concetti: L'IVA sui prezzi; Il capitale e il tasso; Calcolare l'interesse semplice; Il montante
 - Un servizio costa 50 € più IVA al 22%. Quanto vale l'IVA?
@@ -254,6 +507,17 @@ concetti: L'IVA sui prezzi; Il capitale e il tasso; Calcolare l'interesse sempli
 - Presti 800 € al 5% annuo di interesse semplice per 3 anni. Quanto ricevi di interessi in tutto?
 - Metti in ordine i passaggi per calcolare il montante di 2400 € depositati per 2 anni al 3% annuo (interesse s…
 - Uno scontrino riporta: «122 €, IVA 22% inclusa». Un compagno dice che l'IVA è il 22% di 122 €. Ha ragione? Sp…
+
+## L'altezza relativa all'ipotenusa [lib-2-media-matematica-altezza-relativa-ipotenusa] · RETTO
+concetti: Area con i cateti; Altezza sull'ipotenusa; Ipotenusa; Altezza e cateti
+- Un triangolo rettangolo ha cateti di 6 cm e 8 cm. Qual è la sua area?
+- In un triangolo rettangolo, ciascun cateto è l'altezza relativa all'altro cateto.
+- Quanto misura l'ipotenusa del triangolo con cateti 6 cm e 8 cm?
+- L'altezza relativa all'ipotenusa si calcola dividendo il prodotto dei cateti per l'___.
+- Quanto misura l'altezza relativa all'ipotenusa nel triangolo con cateti 6 cm e 8 cm e ipotenusa 10 cm?
+- Ordina i passaggi per trovare l'altezza relativa all'ipotenusa usando l'area.
+- Un triangolo rettangolo ha cateti di 5 cm e 12 cm. Quanto misura circa l'altezza relativa all'ipotenusa?
+- Perché l'altezza relativa all'ipotenusa è sempre più corta di entrambi i cateti?
 
 ## L'area del parallelogramma [lib-2-media-matematica-area-parallelogramma] · TAGLIO
 concetti: Dal parallelogramma al rettangolo; La formula del parallelogramma; Formule inverse; Due basi, due altezze
@@ -287,6 +551,17 @@ concetti: Il rapporto tra due numeri; Che cos'è una proporzione; La proprietà 
 - Per una torta per 4 persone servono 300 g di farina. Quanta farina ti serve per una torta per 10 persone, con…
 - Su una cartina in scala 1 : 50 000 due paesi distano 6 cm. Quanto distano nella realtà?
 - Luca dice che 2 : 3 = 8 : 12 è una proporzione. Spiega con parole tue come puoi verificare se ha ragione.
+
+## La media dei voti [lib-2-media-matematica-media-aritmetica-ponderata] · MEDIA
+concetti: Media aritmetica; Media ponderata; Valori estremi; Valore mancante
+- Quanto vale la media aritmetica di 6, 7, 8 e 9?
+- Un solo valore molto alto può far aumentare molto la media aritmetica.
+- Lo scritto vale doppio rispetto all'orale. Prendi 8 allo scritto e 5 all'orale. Qual è la media ponderata?
+- Per calcolare la media aritmetica sommi tutti i valori e dividi per il loro ___.
+- Hai preso 6 e 7 in due verifiche. Quanto devi prendere nella terza per avere la media del 7?
+- Gli stipendi di 5 persone sono 1 000, 1 100, 1 200, 1 300 e 10 000 euro. Quanto vale la media?
+- Si vendono 3 kg di mele a 2 €/kg e 1 kg di pere a 4 €/kg. Qual è il prezzo medio al kg della frutta venduta?
+- Cinque stipendi sono 1 000, 1 100, 1 200, 1 300 e 10 000 euro e la loro media è 2 920 €. Perché questo numero…
 
 ## La percentuale di un numero [lib-2-media-matematica-percentuale-di-un-numero] · DIECI
 concetti: Il calcolo base; Con la proporzione; Calcolo mentale; Percentuali nei dati
@@ -332,6 +607,17 @@ concetti: Che cos'è una terna pitagorica; Terne famose; Terne derivate; Verific
 - Metti in ordine i passaggi per verificare se tre numeri formano una terna pitagorica.
 - I numeri 1,5; 2 e 2,5 sono i lati di un triangolo rettangolo, ma non formano una terna pitagorica. Perché?
 
+## Leggere l'etichetta del cibo [lib-2-media-matematica-etichette-alimentari] · SNACK
+concetti: Valori per 100 g; Valori per porzione; Assunzioni di riferimento; Confrontare prodotti
+- Sull'etichetta dei cereali leggi «zuccheri: 22 g per 100 g». Che percentuale del prodotto è fatta di zuccheri?
+- Se una porzione è di 30 g, i suoi zuccheri sono il 30% di quelli indicati per 100 g.
+- Cereali con 22 g di zuccheri per 100 g: quanti zuccheri ci sono in una porzione da 30 g?
+- Nella sigla «% AR» delle etichette, le lettere AR stanno per «assunzioni di ___».
+- Una merendina fornisce 200 kcal e il riferimento giornaliero per un adulto è 2 000 kcal. Quale % AR riporta l…
+- Yogurt A: 12 g di zuccheri per 100 g. Yogurt B: 18 g di zuccheri in un vasetto da 125 g. Quale ha la percentu…
+- Un succo ha 10 g di zuccheri per 100 ml. Quanti zuccheri ci sono in un brick da 200 ml?
+- Perché per confrontare due snack con confezioni di peso diverso conviene guardare i valori per 100 g e non qu…
+
 ## Mappe, plastici e ingrandimenti [lib-2-media-matematica-scala-riduzione-ingrandimento] · MAPPA
 concetti: La scala come rapporto; Scala di riduzione; Scala di ingrandimento; Dalla realtà al disegno
 - Quale di queste scale è una scala di riduzione?
@@ -354,6 +640,28 @@ concetti: Il metro quadrato; Le equivalenze; Misure agrarie; Il chilometro quadr
 - Metti in ordine queste superfici dalla più piccola alla più grande.
 - Perché per passare da m² a dm² si moltiplica per 100 e non per 10, come per le lunghezze? Spiegalo immaginand…
 
+## Molle, leve e densità [lib-2-media-matematica-proporzionalita-scienze] · MOLLA
+concetti: Densità di un materiale; L'allungamento della molla; La leva in equilibrio; I limiti della legge
+- Un blocchetto di alluminio di 10 cm³ ha massa 27 g. Quale massa ha un blocchetto di alluminio di 30 cm³?
+- Se a una molla appendi un peso doppio, restando entro il limite di elasticità, l'allungamento raddoppia.
+- Qual è la densità dell'alluminio, se 10 cm³ hanno massa 27 g?
+- Una molla si allunga di 3 cm con 200 g appesi: con 600 g, entro il limite di elasticità, si allunga di ___ cm.
+- Una molla senza pesi è lunga 20 cm e si allunga di 2 cm ogni 100 g appesi. Quanto è lunga con 350 g?
+- Su un'altalena a bilico Marco (40 kg) siede a 1,5 m dal fulcro. A che distanza dal fulcro deve sedersi la sor…
+- Una molla si allunga di 1 cm ogni 50 g, ma oltre 500 g si deforma per sempre. Che cosa puoi dire se le append…
+- Due oggetti pieni, senza cavità, hanno lo stesso volume ma masse diverse. Possono essere fatti dello stesso m…
+
+## Numeri giganti in poche cifre [lib-2-media-matematica-notazione-scientifica] · ZERI
+concetti: Potenze di 10; Notazione scientifica; Dalla notazione al numero; Prodotti in notazione
+- Quanto vale 10⁵?
+- La scrittura 34 × 10⁵ è in notazione scientifica.
+- Come si scrive 4 500 000 in notazione scientifica?
+- In notazione scientifica a × 10ⁿ, il numero a deve essere maggiore o uguale a 1 e minore di ___.
+- La distanza media tra la Terra e il Sole è di circa 1,5 × 10⁸ km. Come si scrive per esteso?
+- Ordina questi numeri dal più piccolo al più grande.
+- Quanto fa (2 × 10³) × (4 × 10⁵)?
+- La luce percorre circa 3 × 10⁵ km al secondo e impiega circa 500 secondi per arrivare dal Sole alla Terra. Sp…
+
 ## Numeri senza fine: gli irrazionali [lib-2-media-matematica-numeri-irrazionali] · PIGRECO
 concetti: Numeri razionali; Numeri irrazionali; Radici e pi greco; I numeri reali
 - Quale caratteristica ha un numero irrazionale?
@@ -364,6 +672,17 @@ concetti: Numeri razionali; Numeri irrazionali; Radici e pi greco; I numeri real
 - Un quadrato ha l'area di 2 m². Che tipo di numero è la misura del suo lato in metri?
 - Metti in ordine questi numeri dal più piccolo al più grande.
 - Qual è la differenza tra il numero 3,141414... e il numero π = 3,14159...? Spiega perché uno è razionale e l'…
+
+## Percentuali a mente [lib-2-media-matematica-calcolo-mentale-percentuali] · MENTE
+concetti: Il 10%; Il 50% e il 25%; Il 5%; Comporre percentuali
+- Qual è il 10% di 340?
+- Calcolare il 25% di un numero equivale a dividerlo per 4.
+- Quanto vale il 50% di 86?
+- Per calcolare a mente il 5% di un numero trovi il 10% e poi ne prendi la ___.
+- Il conto al ristorante è di 40 € e vuoi lasciare il 15% di mancia. Quanto lasci?
+- Quanto vale il 5% di 260?
+- Qual è il 75% di 48?
+- Spiega un modo veloce per calcolare a mente il 20% di 45.
 
 ## Percentuali nel grafico a torta [lib-2-media-matematica-aerogramma-percentuali] · TORTA
 concetti: Che cos'è l'aerogramma; Dalla percentuale all'angolo; Dall'angolo alla percentuale; Leggere i dati
@@ -387,6 +706,28 @@ concetti: La proiezione del lato obliquo; Il trapezio rettangolo; Il trapezio is
 - Un trapezio rettangolo ha le basi di 25 cm e 13 cm e il lato obliquo di 20 cm. Qual è il suo perimetro?
 - Perché nel trapezio isoscele dividi per 2 la differenza delle basi per trovare la proiezione, mentre nel trap…
 
+## Pitagora nel parallelogramma [lib-2-media-matematica-pitagora-parallelogramma] · OBLIQUO
+concetti: Altezza e proiezione; Calcolare l'altezza; La diagonale maggiore; Perimetro e area
+- In un parallelogramma tracci l'altezza da un vertice sulla base. Nel triangolo rettangolo che si forma, quale…
+- In un parallelogramma che non è un rettangolo il lato obliquo è sempre più lungo dell'altezza.
+- Un parallelogramma ha il lato obliquo di 10 cm, la cui proiezione sulla base misura 6 cm. Quanto misura l'alt…
+- Nel parallelogramma, l'altezza, la proiezione del lato obliquo sulla base e il lato obliquo formano un triang…
+- Un parallelogramma ha base 20 cm, lato obliquo 10 cm e altezza 8 cm. Quanto valgono perimetro e area?
+- Ordina i passaggi per calcolare l'area di un parallelogramma conoscendo base, lato obliquo e proiezione del l…
+- Un parallelogramma ha base 20 cm, altezza 8 cm e la proiezione del lato obliquo sulla base di 6 cm. Quanto mi…
+- Due parallelogrammi hanno base 12 cm e lato obliquo 5 cm; nel primo la proiezione del lato obliquo misura 3 c…
+
+## Più del 100%, meno dell'1% [lib-2-media-matematica-percentuali-insolite] · OLTRE
+concetti: Oltre il 100%; Sotto l'1%; Il 100% è l'intero; Calcoli insoliti
+- Quanto vale il 100% di 37?
+- Il 150% di un numero positivo è maggiore del numero stesso.
+- Quanto vale il 200% di 45?
+- Lo 0,5% corrisponde al numero decimale ___.
+- Quanto vale lo 0,5% di 2 000 €?
+- Quest'anno una squadra ha segnato il 120% dei gol dell'anno scorso, che erano 35. Quanti gol ha segnato?
+- Un raccolto passa da 800 kg a 1 200 kg. Il nuovo raccolto è quale percentuale del vecchio?
+- Un'azienda ha venduto quest'anno il 250% delle bici dell'anno scorso. Un giornale scrive: «Le vendite sono au…
+
 ## Poligoni regolari e apotema [lib-2-media-matematica-poligoni-regolari-apotema] · APOTEMA
 concetti: Che cos'è l'apotema; Area del poligono regolare; Il numero fisso; Scomporre in triangoli
 - In quanti triangoli congruenti si divide un ottagono regolare unendo il centro con i vertici?
@@ -409,6 +750,17 @@ concetti: Frazione di un numero; Risalire all'intero; Frazione complementare; Pr
 - Un negozio ha 120 magliette: vende i 3/8 lunedì e i 2/5 delle rimanenti martedì. Metti in ordine i passaggi p…
 - Hai percorso i 3/10 di un sentiero, cioè 4,5 km. Spiega come trovi la lunghezza dell'intero sentiero.
 
+## Proporzioni con frazioni e decimali [lib-2-media-matematica-proporzioni-frazioni-decimali] · QUOTA
+concetti: Termini frazionari; Termini decimali; Semplificare prima; Verifica
+- Risolvi x : 0,5 = 6 : 3.
+- La proporzione 1/2 : 1/4 = 6 : 3 è vera.
+- Risolvi 2/3 : x = 4 : 9.
+- Prima di moltiplicare due frazioni conviene ___, così i numeri restano piccoli.
+- Risolvi 3/4 : 1/2 = x : 2/3.
+- Risolvi 1,2 : 3 = 0,8 : x.
+- Quale di queste è una proporzione vera?
+- Per risolvere 2,5 : x = 5 : 4 Elena trasforma prima 2,5 in 5/2. Spiega se è una scelta utile e trova x.
+
 ## Proporzioni continue e medio proporzionale [lib-2-media-matematica-proporzioni-continue] · MEDIO
 concetti: Proporzione continua; Medio proporzionale; Terzo proporzionale; Proporzioni con frazioni e decimali
 - Quale di queste proporzioni è continua?
@@ -420,6 +772,17 @@ concetti: Proporzione continua; Medio proporzionale; Terzo proporzionale; Propor
 - Metti in ordine i passaggi per trovare x in 8 : x = x : 18.
 - Spiega perché per trovare il medio proporzionale serve la radice quadrata, mentre per un medio qualsiasi bast…
 
+## Proporzioni nascoste nelle figure [lib-2-media-matematica-proporzionalita-geometria] · FIGURA
+concetti: Lato e perimetro; Lato e area; Rettangoli equivalenti; Triangoli con la stessa base
+- In un quadrato il lato passa da 5 cm a 15 cm. Che cosa succede al perimetro?
+- Il lato e l'area di un quadrato sono grandezze direttamente proporzionali.
+- Un rettangolo di area 36 cm² ha base 9 cm e altezza 4 cm. Quanto misura l'altezza di un rettangolo con la ste…
+- Nei rettangoli che hanno tutti la stessa area, il ___ tra base e altezza resta sempre uguale.
+- Alcuni triangoli hanno tutti la base di 10 cm. L'area in cm² è l'altezza in cm moltiplicata per quale numero?
+- Con un filo lungo 60 cm formi il contorno di un quadrato. Quanto misura il lato del quadrato che formi con un…
+- Un triangolo ha base 8 cm e altezza 6 cm. Mantenendo la stessa base, quale altezza serve per avere un'area tr…
+- Spiega perché nei rettangoli con area 24 cm² base e altezza sono inversamente proporzionali, facendo almeno t…
+
 ## Punti e funzioni nel piano [lib-2-media-matematica-piano-cartesiano-funzioni] · ASCISSA
 concetti: Coordinate di un punto; Gli assi e l'origine; Che cos'è una funzione; Tabella e grafico
 - Nel punto P(5; 3), qual è l'ordinata?
@@ -430,6 +793,28 @@ concetti: Coordinate di un punto; Gli assi e l'origine; Che cos'è una funzione;
 - Quale di questi punti appartiene al grafico della funzione y = 2x − 1?
 - Metti in ordine i passaggi per segnare un punto nel piano cartesiano.
 - Un taxi costa 3 € fissi più 2 € per ogni km. Spiega perché questa è una funzione e scrivi la sua formula.
+
+## Quando due triangoli sono simili [lib-2-media-matematica-criteri-similitudine-triangoli] · OMBRA
+concetti: Primo criterio; Secondo criterio; Terzo criterio; Misurare con le ombre
+- Per il primo criterio di similitudine, due triangoli sono simili se hanno...
+- Se due triangoli hanno due angoli congruenti, anche il terzo angolo è congruente.
+- Un triangolo ha lati di 3, 4 e 5 cm. Quale di questi triangoli gli è simile?
+- Per il secondo criterio servono due lati proporzionali e l'angolo ___ congruente.
+- Un triangolo ha angoli di 50° e 60°; un altro ha angoli di 60° e 70°. Sono simili?
+- Un palo alto 2 m fa un'ombra di 3 m. Nello stesso momento un albero fa un'ombra di 12 m. Quanto è alto l'albe…
+- Due triangoli simili hanno rapporto di similitudine 3. Un lato del piccolo misura 7 cm: quanto misura il lato…
+- Spiega perché il metodo delle ombre funziona per misurare l'altezza di un albero.
+
+## Quanto zucchero c'è dentro? [lib-2-media-matematica-percentuali-concentrazione] · MISCELA
+concetti: Concentrazione percentuale; Quantità di sostanza; Diluire; Etichette
+- In 200 g di bibita ci sono 20 g di zucchero. Qual è la percentuale di zucchero?
+- Se aggiungi acqua a una soluzione di acqua e sale, la percentuale di sale diminuisce.
+- Una soluzione da 500 g contiene il 4% di sale. Quanti grammi di sale contiene?
+- La concentrazione percentuale indica quanti grammi di sostanza ci sono in ___ grammi di miscuglio.
+- A 100 g di acqua e zucchero al 10% aggiungi 100 g di acqua. Che percentuale di zucchero ottieni?
+- Un nettare contiene il 45% di frutta. Quanta frutta c'è in 1 kg di nettare?
+- L'acqua di mare contiene circa il 3,5% di sale. Quanta acqua di mare devi far evaporare per ottenere 70 g di …
+- Hai un succo concentrato al 40% di frutta e vuoi ottenere una bevanda al 20%. Che cosa devi fare? Spiega.
 
 ## Radici con i fattori primi [lib-2-media-matematica-radice-fattori-primi] · PRIMO
 concetti: Scomporre in fattori primi; Quando è un quadrato perfetto; Calcolare la radice; Rendere un numero quadrato
@@ -464,6 +849,17 @@ concetti: Radice di una frazione; Radice di un decimale; Passare per la frazione
 - Metti in ordine i passaggi per calcolare √0,0016.
 - La radice di 0,36 (cioè 0,6) è più grande di 0,36, mentre la radice di 36 (cioè 6) è più piccola di 36. Perch…
 
+## Rapporti capovolti ed equivalenti [lib-2-media-matematica-rapporto-inverso-equivalenti] · DIVISO
+concetti: Termini del rapporto; Rapporto inverso; Proprietà invariantiva; Grandezze omogenee
+- Nel rapporto 12 : 4, come si chiama il 12?
+- Il rapporto inverso di 3 : 5 è 5 : 3.
+- Quale rapporto è equivalente a 18 : 24?
+- Se moltiplichi o dividi i due termini di un rapporto per lo stesso numero diverso da zero, il valore non camb…
+- Il rapporto tra due numeri vale 0,25. Quanto vale il rapporto inverso?
+- Quanto vale il rapporto tra 1,5 kg e 300 g?
+- In un'aula ci sono 12 maschi e 16 femmine. Qual è il rapporto tra i maschi e il totale degli alunni?
+- Il rapporto tra la lunghezza di un campo da calcio, 105 m, e la sua larghezza, 68 m, è un numero puro? E il r…
+
 ## Rapporti tra grandezze [lib-2-media-matematica-rapporti-tra-grandezze] · VELOCE
 concetti: Grandezze omogenee; Grandezze non omogenee; Prezzo unitario; Densità di popolazione
 - Un'auto percorre 240 km in 3 ore. Qual è la sua velocità media?
@@ -486,6 +882,28 @@ concetti: Area del rettangolo; Area del quadrato; Formule inverse; Come cambia l
 - Una parete misura 5 m × 3 m e un barattolo di pittura copre 6 m². Metti in ordine i passaggi per capire quant…
 - Perché, se raddoppi il lato di un quadrato, l'area non raddoppia ma diventa 4 volte più grande? Spiega con un…
 
+## Rette parallele e segmenti proporzionali [lib-2-media-matematica-teorema-talete] · FASCIO
+concetti: Fascio di parallele; Segmenti proporzionali; Segmenti congruenti; Dividere un segmento
+- Di che cosa parla il teorema di Talete?
+- Se un fascio di rette parallele stacca segmenti congruenti su una trasversale, stacca segmenti congruenti anc…
+- Tre parallele tagliano una trasversale nei segmenti AB = 4 cm e BC = 6 cm, e un'altra trasversale in A'B' = 6…
+- Nel teorema di Talete, le rette che tagliano il fascio di parallele si chiamano ___.
+- Due parallele staccano 5 cm su una trasversale e 7,5 cm sull'altra. Un altro segmento della prima trasversale…
+- Metti in ordine i passaggi per dividere un segmento AB in 3 parti uguali con il teorema di Talete.
+- Due strade sono tagliate da vie parallele. Su una strada un tratto tra due vie misura 120 m e il corrisponden…
+- Perché il teorema di Talete permette di dividere un segmento in parti uguali anche senza un righello graduato?
+
+## Ricette per tutti gli ospiti [lib-2-media-matematica-ricette-dosi-proporzionali] · DOSE
+concetti: Dosi proporzionali; Coefficiente; Riduzione all'unità; Buon senso
+- Una ricetta per 4 persone richiede 200 g di riso. Quanto riso serve per 8 persone?
+- In una ricetta le dosi degli ingredienti sono direttamente proporzionali al numero di persone.
+- Per 6 persone servono 300 g di farina. Quanta farina serve per una persona?
+- Per passare da 8 a 12 persone moltiplichi ogni dose per ___.
+- Una torta per 8 persone richiede 240 g di zucchero. Quanto zucchero serve per 6 persone?
+- Ordina i passaggi per adattare una ricetta da 4 a 6 persone.
+- Una ricetta per 4 persone usa 3 uova. Per 6 persone ne servirebbero 4,5. Cosa è più sensato fare?
+- Una ricetta è per 4 persone ma a cena siete in 3. Spiega come calcoli le nuove dosi, con un esempio.
+
 ## Ripartizione inversamente proporzionale [lib-2-media-matematica-ripartizione-inversa] · INVERSO
 concetti: L'idea della ripartizione inversa; Passare agli inversi; Il trucco del denominatore comune; Esempi concreti
 - Un premio viene diviso in parti inversamente proporzionali agli errori fatti: Ada ha fatto 2 errori, Bice 6. …
@@ -497,6 +915,39 @@ concetti: L'idea della ripartizione inversa; Passare agli inversi; Il trucco del
 - Metti in ordine i passaggi per dividere 45 in parti inversamente proporzionali a 3 e 6.
 - Alcuni ragazzi si dividono dei punti premio in parti inversamente proporzionali al tempo impiegato in una gar…
 
+## Ripasso: caccia al tesoro matematica [lib-2-media-matematica-ripasso-caccia-tesoro] · TESORO
+concetti: Proporzioni e scala; Percentuali; Teorema di Pitagora; Radici e aree
+- Il primo indizio è sotto una piastrella quadrata di area 900 cm². Quanto misura il suo lato?
+- Se sono stati trovati 12 dei 48 indizi, è stato trovato il 25% degli indizi.
+- Sulla mappa in scala 1 : 500 il tesoro è a 8 cm dalla quercia. Quanto dista davvero?
+- Cammini 30 m verso nord e poi 40 m verso est: in linea d'aria sei a ___ metri dalla partenza.
+- La squadra ha 60 minuti e ne ha già usato il 35%. Quanti minuti restano?
+- Le squadre si dividono 84 caramelle in parti proporzionali ai punti: 3, 4 e 5. Quante caramelle ottiene la sq…
+- Una bandierina è legata in cima a un palo alto 12 m con un filo teso fissato a terra a 5 m dalla base del pal…
+- Il tesoro è sepolto in un'aiuola triangolare di area 24 m² con base 8 m. Quanto è alta l'aiuola? Spiega quale…
+
+## Ripasso: il giardino della scuola [lib-2-media-matematica-ripasso-aree-giardino] · AIUOLA
+concetti: Rettangoli e quadrati; Triangoli e trapezi; Figure composte; Costi e unità
+- Il prato rettangolare misura 25 m × 16 m. Qual è la sua area?
+- 1 m² equivale a 100 dm².
+- Un'aiuola triangolare ha base 6 m e altezza 3,5 m. Qual è la sua area?
+- Se nel prato di 400 m² c'è una vasca di 36 m², l'erba copre ___ m².
+- Un vialetto a forma di trapezio ha basi di 10 m e 6 m e altezza 1,5 m. Quanti metri quadrati di ghiaia servon…
+- Il prato in rotoli costa 4,50 € al m². Quanto costa coprire 364 m²?
+- Un'aiuola quadrata di lato 4 m ha al centro una fontana quadrata di lato 1 m. Quanta superficie resta per i f…
+- Il prato di 25 m × 16 m va recintato lasciando un cancello largo 2 m. Spiega quanti metri di rete servono e p…
+
+## Ripasso: il mercatino di classe [lib-2-media-matematica-ripasso-percentuali-mercatino] · BANCO
+concetti: Guadagno percentuale; Sconti; Parte dell'incasso; Prezzo iniziale
+- Al mercatino un libro costa 5 € e lo vendi con lo sconto del 20%. A quanto lo vendi?
+- Se incassi 150 € e 60 € vengono dai libri, i libri sono il 40% dell'incasso.
+- Comprate braccialetti a 2 € l'uno e li vendete a 3 €. Qual è la percentuale di guadagno sul costo?
+- Se dopo lo sconto del 20% un gioco costa 12 €, il prezzo prima dello sconto era ___ euro.
+- Dell'incasso di 240 €, il 35% va in beneficenza. Quanti euro sono?
+- Spendete 50 € per i materiali e incassate 80 €. Di che percentuale è il guadagno sulla spesa?
+- Un peluche è scontato del 40% e costa 6 €. Quanto costava prima?
+- Al mercatino vi propongono lo «sconto del 30%» oppure «prendi 3 e paghi 2». Quale offerta conviene se vuoi tr…
+
 ## Ripasso: la cameretta nuova [lib-2-media-matematica-ripasso-progetto-cameretta] · PIANTA
 concetti: La scala della pianta; Area, perimetro e costi; Sconti e prezzi iniziali; Pitagora in casa
 - In una pianta in scala 1:50 il disegno è ___ volte più piccolo della stanza reale.
@@ -507,6 +958,28 @@ concetti: La scala della pianta; Area, perimetro e costi; Sconti e prezzi inizia
 - Una tenda deve essere appesa in diagonale su una finestra rettangolare di 1,2 m per 0,9 m. Quanto è lunga la …
 - Dopo uno sconto del 25%, la scrivania costa 240 €. Quanto costava prima dello sconto?
 - Sulla pianta in scala 1:50 la stanza è un rettangolo di 8 cm per 7 cm. Spiega come trovi la distanza reale tr…
+
+## Ripasso: la gita scolastica [lib-2-media-matematica-ripasso-numeri-gita] · GITA
+concetti: Frazioni nei problemi; Decimali e arrotondamenti; Radici nei problemi; Percentuali e frazioni
+- Alla gita partecipano i 3/4 dei 28 alunni di una classe. Quanti partecipano?
+- 37,50 € divisi tra 4 amici fanno 9,375 €; arrotondati al centesimo diventano 9,38 €.
+- Il pullman costa 600 € e la scuola ne paga il 40%. Quanto resta da pagare alle famiglie?
+- Il cortile del museo è un quadrato di 196 m²: il suo lato misura ___ metri.
+- Nella camminata percorrete 2/5 del sentiero al mattino e 1/3 al pomeriggio. Quale frazione del sentiero resta?
+- Il biglietto del museo costa 7,80 € e siete in 25. Quanto spendete in tutto?
+- Il museo fa lo sconto del 15% sul totale di 195 €. Quanto pagate dopo lo sconto?
+- Per la merenda servono 2/3 di litro di succo a testa per 15 alunni. Il succo si vende in bottiglie da 1,5 lit…
+
+## Ripasso: viaggio tra le proporzioni [lib-2-media-matematica-ripasso-proporzioni-viaggio] · VIAGGIO
+concetti: Scala della cartina; Velocità, spazio e tempo; Spese proporzionali; Carburante
+- Su una cartina in scala 1 : 200 000 due città distano 12 cm. Qual è la distanza reale?
+- A velocità costante, spazio percorso e tempo impiegato sono direttamente proporzionali.
+- Un treno viaggia a 90 km/h costanti. Quanti km percorre in 2 ore e 20 minuti?
+- A parità di distanza, velocità e tempo di viaggio sono grandezze ___ proporzionali.
+- L'auto fa 16 km con un litro. Quanti litri servono per 400 km?
+- Se la benzina costa 1,80 € al litro, quanto si spende per 25 litri?
+- Tre amici dividono 90 € di spese in proporzione ai giorni di viaggio: 2, 3 e 4 giorni. Quanto paga chi ha via…
+- Per fare 120 km impieghi 1 ora e mezza. Se andassi a 100 km/h, quanto tempo risparmieresti? Spiega.
 
 ## Risalire al totale e al tasso [lib-2-media-matematica-percentuale-inversa] · TOTALE
 concetti: Le tre grandezze; Trovare il tasso percentuale; Trovare il totale; Risalire al prezzo iniziale
@@ -541,6 +1014,28 @@ concetti: Calcolare lo sconto; Prezzo scontato in un passo; Aumenti percentuali;
 - Metti in ordine i passaggi per calcolare il prezzo di un giubbotto da 120 € scontato del 10% e poi di un altr…
 - Un prezzo aumenta del 10% e poi diminuisce del 10%. Torna al prezzo di partenza? Spiegalo con un esempio.
 
+## Sconto su sconto [lib-2-media-matematica-percentuali-successive] · DOPPIO
+concetti: Due sconti successivi; Aumento e sconto; Fattore moltiplicativo; Sconto equivalente
+- Per applicare uno sconto del 20% a un prezzo puoi moltiplicarlo per...
+- Uno sconto del 10% seguito da un altro sconto del 10% equivale a uno sconto del 20%.
+- Una giacca costa 100 €. Viene scontata del 30% e poi il nuovo prezzo è scontato del 10%. Quanto costa alla fi…
+- Un aumento del 15% si ottiene moltiplicando il prezzo per ___.
+- Un prezzo di 150 € viene scontato del 20% e poi aumentato del 20%. Qual è il prezzo finale?
+- Due sconti successivi del 20% e del 25% equivalgono a un unico sconto del...
+- Un monopattino da 250 € è scontato del 20% e alla cassa c'è un ulteriore sconto del 10%. Quanto paghi?
+- Un negozio aumenta un prezzo del 25%. Di quale percentuale deve poi scontarlo per tornare al prezzo iniziale?…
+
+## Simmetrie allo specchio [lib-2-media-matematica-simmetria-assiale-centrale] · ASSE
+concetti: Simmetria assiale; Assi di simmetria; Simmetria centrale; Simmetrie e coordinate
+- Quanti assi di simmetria ha un quadrato?
+- Nella simmetria assiale un punto e il suo simmetrico sono alla stessa distanza dall'asse.
+- Quale figura ha un solo asse di simmetria?
+- Nella simmetria centrale, il centro è il ___ del segmento che unisce un punto al suo simmetrico.
+- Il punto P(1; 5) viene riflesso rispetto alla retta verticale x = 4. Quali sono le coordinate del simmetrico?
+- Quale di queste lettere maiuscole ha un centro di simmetria?
+- Nella simmetria di centro C(4; 4), qual è il simmetrico del punto A(2; 3)?
+- Spiega come costruiresti con riga e squadra il simmetrico di un punto P rispetto a una retta r.
+
 ## Smascherare i numeri periodici [lib-2-media-matematica-frazione-generatrice-periodici] · NOVE
 concetti: Periodici semplici in frazione; Periodici misti in frazione; Controllare il risultato; Il caso del periodo 9
 - Qual è la frazione generatrice di 0,555...?
@@ -552,6 +1047,50 @@ concetti: Periodici semplici in frazione; Periodici misti in frazione; Controlla
 - A quale numero è uguale 3,1999...?
 - Molti restano stupiti: 0,999... è proprio uguale a 1. Usa la regola della frazione generatrice per spiegare p…
 
+## Sondaggi ed elezioni di classe [lib-2-media-matematica-percentuali-sondaggi-voti] · VOTO
+concetti: Affluenza; Percentuale dei voti; Totale 100%; Base diversa
+- Su 25 alunni, 20 votano per il rappresentante di classe. Qual è stata l'affluenza?
+- In un'elezione con tre candidati, se uno prende il 45% e un altro il 30%, il terzo prende il 25% dei voti val…
+- Dei 20 voti espressi, Giulia ne prende 9. Che percentuale dei voti ha ottenuto?
+- 9 voti su 20 votanti sono il 45%, ma 9 voti su 25 alunni sono il 36%: la percentuale cambia perché cambia la …
+- In un sondaggio su 200 ragazzi il 46% preferisce il calcio, il 30% il basket e il resto la pallavolo. Quanti …
+- In un comune votano 6 000 persone e il sindaco ottiene il 55%. Quanti voti ha preso?
+- Gli aventi diritto sono 10 000 e votano in 6 000. Un candidato prende il 50% dei voti. Quale percentuale degl…
+- Un giornale scrive: «Il candidato ha il 60% dei voti, quindi la maggioranza dei cittadini lo sostiene». Perch…
+
+## Spostare figure senza deformarle [lib-2-media-matematica-isometrie-traslazione-rotazione] · GIOSTRA
+concetti: Isometria; Traslazione; Rotazione; Traslazioni con le coordinate
+- Che cosa conserva un'isometria?
+- Una rotazione di 360° riporta la figura nella posizione di partenza.
+- Che cosa serve per descrivere una traslazione?
+- Per descrivere una rotazione servono il centro, l'ampiezza dell'angolo e il ___ di rotazione.
+- Il punto A(2; 3) viene traslato di 4 unità a destra e 1 in basso. Dove arriva?
+- La lancetta delle ore passa dalle 12:00 alle 3:00. Di che angolo ruota?
+- Quale di queste trasformazioni NON è un'isometria?
+- Una scatola viene spinta in linea retta su un tavolo senza ruotarla. Che trasformazione è? Che cosa resta ugu…
+
+## Stesso perimetro, aree diverse [lib-2-media-matematica-perimetro-area-isoperimetrici] · RECINTO
+concetti: Figure isoperimetriche; Figure equivalenti; Il quadrato vince; Area e perimetro
+- Due figure si dicono isoperimetriche quando hanno...
+- Se un rettangolo ha area maggiore di un altro, ha sicuramente anche il perimetro maggiore.
+- Quale rettangolo ha perimetro 20 cm?
+- Tra tutti i rettangoli con lo stesso perimetro, quello con l'area maggiore è il ___.
+- Con 36 m di rete vuoi recintare l'orto rettangolare più grande possibile. Quali misure scegli?
+- Un rettangolo 9 cm × 4 cm e un quadrato di lato 6 cm hanno la stessa area. Quale ha il perimetro minore?
+- Un rettangolo 12 cm × 2 cm e un quadrato di lato 7 cm hanno lo stesso perimetro, 28 cm. Di quanto è più grand…
+- Un rettangolo di 16 cm × 1 cm e un quadrato di lato 4 cm sono equivalenti. Hanno anche lo stesso perimetro? C…
+
+## Trapezi al contrario [lib-2-media-matematica-formule-inverse-trapezio] · DIGA
+concetti: Area del trapezio; Somma delle basi; Altezza; Basi da somma e differenza
+- Un trapezio ha basi 12 cm e 8 cm e altezza 5 cm. Qual è l'area?
+- Per trovare l'altezza di un trapezio si divide il doppio dell'area per la somma delle basi.
+- Un trapezio ha area 60 cm² e altezza 6 cm. Quanto vale la somma delle basi?
+- Nella formula h = 2 × A : (B + b), il termine (B + b) è la ___ delle basi.
+- La sezione di una diga è un trapezio di area 84 m² con basi di 15 m e 9 m. Quanto è alta la diga?
+- In un trapezio la somma delle basi è 26 cm e la loro differenza è 6 cm. Quanto misura la base maggiore?
+- Un'aiuola a trapezio ha area 45 m² e altezza 5 m, e la base maggiore è il doppio della minore. Quanto misura …
+- Un trapezio ha area 40 cm² e altezza 4 cm. Puoi conoscere le due basi? Spiega che cosa ti servirebbe.
+
 ## Triangoli con angoli speciali [lib-2-media-matematica-triangoli-rettangoli-45-30-60] · SQUADRA
 concetti: Il triangolo a 45°; Il triangolo 30°-60°; Il cateto maggiore; Le squadre da disegno
 - Un triangolo rettangolo con un angolo di 45° ha i due cateti uguali.
@@ -562,3 +1101,14 @@ concetti: Il triangolo a 45°; Il triangolo 30°-60°; Il cateto maggiore; Le sq
 - Che figura ottieni accostando due squadre uguali con angoli di 30° e 60° lungo il cateto maggiore?
 - Un triangolo 30°-60° ha il cateto minore di 5 cm. Qual è circa la sua area?
 - Spiega perché in un triangolo rettangolo con angoli di 30° e 60° l'ipotenusa è il doppio del cateto minore.
+
+## Trova la x nella proporzione [lib-2-media-matematica-termine-incognito-proporzione] · MISTERO
+concetti: Proprietà fondamentale; Estremo incognito; Medio incognito; Verifica
+- Nella proporzione 8 : 12 = 10 : 15, quanto vale il prodotto dei medi?
+- La proporzione 3 : 8 = 9 : 24 è vera.
+- Risolvi x : 12 = 5 : 4.
+- In una proporzione, un medio incognito si trova moltiplicando gli ___ e dividendo per il medio noto.
+- Risolvi 7 : x = 21 : 9.
+- Metti in ordine i passaggi per risolvere 6 : 9 = x : 21.
+- Quale valore di x rende vera la proporzione 2,5 : x = 5 : 8?
+- Chiara risolve 4 : x = 6 : 9 calcolando x = 4 × 6 : 9. Spiega l'errore e trova il valore giusto di x.

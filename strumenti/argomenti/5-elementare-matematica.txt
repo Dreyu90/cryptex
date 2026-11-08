@@ -1,5 +1,5 @@
 # 5ª elementare · Matematica: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## A caccia di angoli [lib-5-elementare-matematica-angoli] · GRADI
@@ -17,7 +17,7 @@ concetti: Che cos'è un angolo; Misurare gli angoli; Acuti e ottusi; Complementa
 concetti: Il giro completo; Ogni ora vale 30°; Angoli tra le lancette; La lancetta dei minuti
 - Di quanti gradi si sposta la lancetta delle ore in un'ora?
 - Alle 6 in punto le lancette formano un angolo piatto.
-- Alle 3 in punto che angolo formano le lancette?
+- Alle 5 in punto, quanto misura l'angolo più piccolo tra le lancette?
 - In un giro completo la lancetta dei minuti descrive un angolo di ___ gradi.
 - Alle 2 in punto quanto misura l'angolo tra le lancette?
 - Di quanti gradi ruota la lancetta dei minuti in 15 minuti?
@@ -26,7 +26,7 @@ concetti: Il giro completo; Ogni ora vale 30°; Angoli tra le lancette; La lance
 
 ## Area dei solidi [lib-5-elementare-matematica-superficie-dei-solidi] · SCATOLA
 concetti: Lo sviluppo; Area laterale; Area totale; Il cubo
-- Lo sviluppo di un cubo è formato da...
+- Lo sviluppo di un parallelepipedo è formato da...
 - L'area laterale di un parallelepipedo si calcola moltiplicando il perimetro di base per l'altezza.
 - Qual è l'area totale di un cubo con lo spigolo di 3 cm?
 - Area totale = area laterale + area delle due ___.
@@ -98,7 +98,7 @@ concetti: Il volume; Il metro cubo; Le equivalenze; Contare i cubetti
 - Per passare da m³ a dm³ si moltiplica per ___.
 - Una scatola è piena di cubetti da 1 cm³: ci sono 4 strati e ogni strato ha 6 cubetti. Qual è il volume?
 - 2,5 dm³ equivalgono a...
-- Ordina le unità di volume dalla più piccola alla più grande.
+- Ordina i volumi dal più piccolo al più grande.
 - Perché nelle misure di volume ogni passaggio vale 1 000?
 
 ## Cerchio e pi greco [lib-5-elementare-matematica-cerchio-e-circonferenza] · RUOTA
@@ -114,14 +114,14 @@ concetti: Circonferenza e cerchio; Raggio e diametro; Il numero pi greco; Lunghe
 
 ## Che percentuale è? [lib-5-elementare-matematica-calcolare-la-percentuale] · QUOTA
 concetti: Dalla frazione alla percentuale; Parte su totale; Percentuali nei sondaggi; Il totale è 100%
-- A quale percentuale corrisponde la frazione 1/4?
+- Per trasformare 3/20 in percentuale, per quale numero moltiplichi numeratore e denominatore?
 - Se il 30% degli alunni va a scuola a piedi, gli altri sono il 70%.
 - In una classe di 20 alunni, 5 portano gli occhiali. Che percentuale è?
 - La frazione 3/10 corrisponde al ___ %.
 - Hai risposto bene a 18 domande su 20. Che percentuale di risposte giuste hai?
 - In un sondaggio su 50 bambini, 15 preferiscono il calcio. Che percentuale preferisce il calcio?
 - In un aerogramma, tre spicchi valgono 45%, 30% e 15%. Quanto vale il quarto spicchio?
-- In un giardino ci sono 40 fiori e 10 sono rossi. Spiega come trovi la percentuale di fiori rossi.
+- In un giardino ci sono 40 fiori e 14 sono rossi. Spiega come trovi la percentuale di fiori rossi.
 
 ## Chi è il più grande? [lib-5-elementare-matematica-confronto-numeri-grandi] · ORDINE
 concetti: Contare le cifre; Confrontare cifra per cifra; I simboli > e <; Precedente e successivo
@@ -245,15 +245,15 @@ concetti: Dividendo decimale; Continuare dopo il resto; Divisore decimale; Divid
 - Perché dividendo 10 per 0,5 ottieni 20, un numero più grande di 10? Spiegalo con un esempio.
 
 ## Escursione termica [lib-5-elementare-matematica-escursione-termica] · GRADO
-concetti: Temperature sotto zero; L'escursione termica; Salire e scendere; Confrontare temperature
-- Quale temperatura è la più fredda?
-- −5 °C è una temperatura più alta di −2 °C.
-- Al mattino ci sono −4 °C; a mezzogiorno la temperatura sale di 9 gradi. Quanti gradi ci sono?
+concetti: Massima e minima; L'escursione termica; Escursione sotto zero; Trovare il dato mancante
+- Il termometro segna 5 °C alle 7, 13 °C alle 15 e 8 °C alle 22. Tra queste misure, quali sono la minima e la m…
+- L'escursione termica si calcola sommando la temperatura massima e la minima.
 - La differenza tra la temperatura massima e la minima di un giorno si chiama escursione ___.
 - A Milano la minima è 3 °C e la massima 11 °C. Qual è l'escursione termica?
-- In montagna la minima è −6 °C e la massima 4 °C. Qual è l'escursione termica?
-- Ordina le temperature dalla più fredda alla più calda.
-- Di sera ci sono 2 °C e durante la notte la temperatura scende di 6 gradi. Quanti gradi ci sono di notte? Spie…
+- In montagna la minima è −7 °C e la massima 5 °C. Qual è l'escursione termica?
+- In un giorno di gennaio la massima è 3 °C e l'escursione termica è di 8 gradi. Qual è la minima?
+- Temperature di un giorno — Roma: min 8 °C, max 17 °C; Torino: min −2 °C, max 6 °C; Palermo: min 12 °C, max 19…
+- Lunedì la minima è −3 °C e la massima 5 °C; martedì la minima è 4 °C e la massima 12 °C. Luca dice che marted…
 
 ## Espressioni passo dopo passo [lib-5-elementare-matematica-espressioni] · GRAFFE
 concetti: Prima moltiplicazioni e divisioni; L'ordine delle parentesi; Da sinistra a destra; Dal problema all'espressione
@@ -286,7 +286,7 @@ concetti: Monete e banconote; Contare il resto; Euro e centesimi; Pagare con poc
 - Compri un libro da 12,45 € e un astuccio da 6,80 € e paghi con 20 €. Quanto resto ricevi?
 - Qual è il modo di pagare 3,85 € esatti con il minor numero di monete?
 - Ordina i passaggi per contare il resto «a salire» quando paghi 4,60 € con 10 €.
-- Hai 15 € e vuoi comprare 3 quaderni da 4,20 € l'uno. Ti bastano i soldi? Quanto ti avanza? Spiega.
+- Paghi una spesa di 13,65 € con una banconota da 20 €. Il cassiere ti dà 5 €, 1 €, 20 centesimi e 10 centesimi…
 
 ## Figure composte [lib-5-elementare-matematica-figure-composte] · PUZZLE
 concetti: Scomporre una figura; Area per somma; Area per differenza; Perimetro della figura composta
@@ -316,10 +316,10 @@ concetti: Dividere l'unità; Minori e maggiori di 1; Frazioni equivalenti; Frazi
 - La frazione 7/4 si trova sulla retta tra 1 e 2.
 - Tra quali numeri interi si trova 11/3?
 - Sulla retta, 1/2 e 3/6 cadono nello ___ punto.
-- Quale numero decimale cade nello stesso punto di 3/4?
+- Quale numero decimale cade nello stesso punto di 2/5?
 - Sulla retta l'unità è divisa in 8 parti. Quante parti devi contare da 0 per arrivare a 5/8?
 - Ordina le frazioni dalla più piccola alla più grande, come le trovi sulla retta.
-- Perché 2/4 e 1/2 occupano lo stesso punto sulla retta dei numeri?
+- Spiega dove si trova 9/4 sulla retta dei numeri e come fai a trovarlo.
 
 ## Gara di numeri decimali [lib-5-elementare-matematica-confronto-decimali] · PODIO
 concetti: Prima la parte intera; Poi le cifre decimali; Pareggiare le cifre; Più cifre non vuol dire più grande
@@ -333,15 +333,15 @@ concetti: Prima la parte intera; Poi le cifre decimali; Pareggiare le cifre; Pi�
 - Al mercato le mele costano 2,9 € al kg e le pere 2,85 € al kg. Quale frutto costa di più? Spiega come l'hai c…
 
 ## Gli angoli dei poligoni [lib-5-elementare-matematica-somma-angoli-poligoni] · ANGOLO
-concetti: Si parte dal triangolo; I quadrilateri; Dividere in triangoli; Poligoni regolari
-- Quanto misura la somma degli angoli interni di un quadrilatero?
+concetti: Si parte dal triangolo; La regola dei lati; Dividere in triangoli; Poligoni regolari
+- Tracciando le diagonali che partono da un solo vertice, in quanti triangoli si divide un esagono?
 - Un pentagono si può dividere in 3 triangoli tracciando le diagonali da un vertice.
 - Quanto misura la somma degli angoli interni di un pentagono?
-- In un rettangolo ogni angolo misura 90°, quindi la loro somma è ___ gradi.
-- Un quadrilatero ha tre angoli di 80°, 100° e 70°. Quanto misura il quarto?
-- Quanto misura la somma degli angoli interni di un esagono?
+- Ogni triangolo in cui dividi il poligono aggiunge ___ gradi alla somma degli angoli interni.
+- Quanto misura la somma degli angoli interni di un poligono con 10 lati?
+- Un pentagono ha quattro angoli di 100°, 110°, 120° e 90°. Quanto misura il quinto?
 - In un esagono regolare tutti gli angoli sono uguali. Quanto misura ciascuno?
-- Spiega perché la somma degli angoli interni di un quadrilatero è 360°.
+- Spiega come trovi la somma degli angoli interni di un ottagono senza misurarli con il goniometro.
 
 ## Grafici a linee [lib-5-elementare-matematica-grafici-a-linee] · CURVA
 concetti: Gli assi; Leggere un punto; Crescere e calare; Quando usarlo
@@ -369,12 +369,12 @@ concetti: Numeri interi e decimali; Le quattro operazioni; Calcolo veloce; Multi
 concetti: Perimetri; Aree dei quadrilateri; Area del triangolo; Il cerchio
 - Qual è il perimetro di un quadrato con il lato di 7 cm?
 - L'area del triangolo si calcola con base × altezza : 2.
-- Qual è l'area di un rombo con le diagonali di 10 cm e 6 cm?
-- Un parallelogramma con base 9 cm e altezza 4 cm ha un'area di ___ cm².
-- Un trapezio ha le basi di 12 cm e 8 cm e l'altezza di 5 cm. Qual è la sua area?
-- Qual è la lunghezza della circonferenza di un cerchio con raggio 5 cm? (usa 3,14)
+- Qual è l'area di un rombo con le diagonali di 12 cm e 5 cm?
+- Un parallelogramma con base 11 cm e altezza 5 cm ha un'area di ___ cm².
+- Un trapezio ha le basi di 9 cm e 7 cm e l'altezza di 6 cm. Qual è la sua area?
+- Qual è la lunghezza della circonferenza di un cerchio con raggio 6 cm? (usa 3,14)
 - Un rettangolo ha perimetro 30 cm e base 10 cm. Qual è la sua area?
-- Un triangolo ha area 24 cm² e base 8 cm. Come trovi l'altezza? Calcolala.
+- Un triangolo ha area 35 cm² e base 10 cm. Come trovi l'altezza? Calcolala.
 
 ## I segreti della divisibilità [lib-5-elementare-matematica-criteri-di-divisibilita] · TRUCCO
 concetti: Divisibili per 2; Divisibili per 5 e per 10; Divisibili per 3 e per 9; Usare più criteri
@@ -422,7 +422,7 @@ concetti: Divisori comuni; Il massimo comune divisore; Numeri primi tra loro; Di
 
 ## Il minimo comune multiplo [lib-5-elementare-matematica-minimo-comune-multiplo] · MINIMO
 concetti: Multipli comuni; Il minimo comune multiplo; Trovare il mcm; Eventi che si ripetono
-- Quale di questi numeri è un multiplo comune di 4 e di 6?
+- Quale di questi numeri è un multiplo comune di 3 e di 8?
 - Il minimo comune multiplo di 4 e 6 è 24.
 - Qual è il mcm di 6 e 9?
 - Il mcm di due numeri è il più ___ dei loro multipli comuni, escluso lo zero.
@@ -526,7 +526,7 @@ concetti: Insieme ed elementi; Il diagramma di Venn; L'intersezione; I sottoinsi
 - A = {2, 4, 6, 8} e B = {4, 8, 12}. Quali elementi formano l'intersezione?
 - L'insieme dei quadrati è un ___ dell'insieme dei rettangoli.
 - In un diagramma di Venn con gli insiemi «gioca a calcio» e «suona la chitarra», dove metti chi fa entrambe le…
-- In classe 12 alunni hanno un cane, 8 un gatto e 3 hanno sia il cane sia il gatto. Quanti alunni hanno almeno …
+- In classe 15 alunni fanno sport, 10 suonano uno strumento e 4 fanno tutte e due le cose. Quanti alunni fanno …
 - Disegni l'insieme dei multipli di 2 e quello dei multipli di 3, minori di 13. Quali numeri vanno nella parte …
 - In una classe 12 alunni hanno il cane, 8 il gatto e 3 li hanno entrambi. Perché per sapere quanti hanno almen…
 
@@ -539,7 +539,7 @@ concetti: Il numero misto; Da impropria a misto; Da misto a impropria; Numeri mi
 - Quale frazione impropria è uguale a 4 e 3/8?
 - Per una ricetta servono 2 litri e mezzo di latte. Quanti mezzi litri sono?
 - Ordina i passaggi per trasformare 3 e 2/7 in frazione impropria.
-- Hai 11 quarti di pizza. Quante pizze intere sono e quanto avanza? Spiega.
+- Hai 13 quarti di pizza. Quante pizze intere sono e quanto avanza? Spiega.
 
 ## La caccia ai numeri primi [lib-5-elementare-matematica-numeri-primi] · PRIMO
 concetti: Numeri primi; Numeri composti; Il crivello di Eratostene; Scomporre in fattori primi
@@ -622,7 +622,7 @@ concetti: Che cos'è la scala; Dalla carta alla realtà; Dalla realtà alla cart
 concetti: Spese e costi; Distanze e tempi; Percentuali in viaggio; Confrontare e scegliere
 - Il biglietto del treno costa 18 € a persona. Quanto spende una famiglia di 4 persone?
 - Se parti alle 9:30 e il viaggio dura 2 ore e 40 minuti, arrivi alle 12:10.
-- Mancano 210 km all'arrivo e l'auto viaggia in media a 70 km/h. Quanto manca all'arrivo?
+- Mancano 210 km all'arrivo e l'auto viaggia in media a 70 km/h. Quanto tempo ci vuole per arrivare?
 - Un museo fa il 50% di sconto ai bambini: un biglietto da 14 € costa a un bambino ___ €.
 - L'albergo costa 85 € a notte. Quanto costano 3 notti?
 - Le spese della vacanza sono 800 € e il 40% è per l'alloggio. Quanto si spende per l'alloggio?
@@ -659,7 +659,7 @@ concetti: Il metro quadrato; Multipli e sottomultipli; Le equivalenze; Scegliere
 - Ogni unità di superficie è ___ volte più grande di quella immediatamente più piccola.
 - 3,5 m² equivalgono a...
 - Quale unità useresti per misurare la superficie di un francobollo?
-- Ordina le unità di superficie dalla più grande alla più piccola.
+- Ordina le superfici dalla più piccola alla più grande.
 - Perché con le misure di superficie a ogni passaggio si moltiplica per 100 e non per 10?
 
 ## Milioni e miliardi [lib-5-elementare-matematica-classe-milioni-miliardi] · MILIONE
@@ -714,7 +714,7 @@ concetti: I prodotti parziali; Lo spostamento di posto; Stimare il prodotto; La 
 - Quanto fa 324 × 26?
 - Per stimare 49 × 31 arrotondi a 50 × 30, quindi il risultato è vicino a ___.
 - Marco calcola 412 × 19 e ottiene 78 280. Che cosa ti dice la stima 400 × 20?
-- Moltiplicare 235 × 14 è come calcolare...
+- Nel calcolo in colonna di 235 × 14, quali sono i due prodotti parziali?
 - In 152 × 34 un compagno ha scritto il secondo prodotto parziale (456) sotto il primo senza spostarlo. Che err…
 
 ## Multipli e divisori [lib-5-elementare-matematica-multipli-e-divisori] · COPPIE
@@ -741,7 +741,7 @@ concetti: Solidi e figure piane; Facce, spigoli e vertici; Poliedri e solidi di 
 
 ## Numeri grandi in lettere [lib-5-elementare-matematica-numeri-grandi-in-lettere] · LETTERE
 concetti: Leggere per classi; Scrivere in lettere; Dalle lettere alle cifre; Le classi vuote
-- Come si legge il numero 4 050 300?
+- Quale scrittura in lettere corrisponde a 9 040 700?
 - In lettere, il numero «duemilatrecento» si scrive tutto attaccato.
 - Quale numero corrisponde a «sette milioni duecentomila quindici»?
 - Nel numero 60 000 600 la classe delle migliaia è formata da tutti ___.
@@ -820,7 +820,7 @@ concetti: Poligoni regolari; L'apotema; Area con l'apotema; I nomi dei poligoni
 concetti: I prismi; Le piramidi; I solidi di rotazione; Solidi nella realtà
 - Che cosa caratterizza un prisma?
 - Le facce laterali di una piramide sono triangoli.
-- Quante facce ha in tutto una piramide a base triangolare?
+- Quanti spigoli ha una piramide a base quadrata?
 - Un prisma con le basi a forma di esagono si chiama prisma ___.
 - Quale solido ottieni facendo ruotare un rettangolo attorno a un suo lato?
 - Facendo ruotare un triangolo rettangolo attorno a un cateto ottieni...
@@ -829,9 +829,9 @@ concetti: I prismi; Le piramidi; I solidi di rotazione; Solidi nella realtà
 
 ## Problemi a fette [lib-5-elementare-matematica-problemi-con-le-frazioni] · TORTA
 concetti: Frazione di una quantità; La parte rimanente; Frazione del resto; Problemi a più passaggi
-- Una classe ha 24 alunni e 3/8 sono maschi. Quanti sono i maschi?
+- In un acquario ci sono 35 pesci e 2/7 sono rossi. Quanti sono i pesci rossi?
 - Se hai mangiato 2/5 di una torta, ne rimangono 3/5.
-- Un libro ha 120 pagine e Giulia ne ha lette 3/4. Quante pagine le mancano?
+- Un fumetto ha 96 pagine e Marco ne ha lette 5/8. Quante pagine gli mancano?
 - Per calcolare 2/3 di 45 divido 45 per ___ e poi moltiplico per 2.
 - Paolo ha 60 €. Spende 1/4 per un libro e 1/3 per una maglietta. Quanto gli resta?
 - Un orto è di 80 m². Metà è coltivata a pomodori; della parte restante 1/4 è a insalata. Quanti m² sono a insa…
@@ -896,7 +896,7 @@ concetti: Certo, possibile, impossibile; Casi favorevoli e possibili; La probabi
 ## Quarti d'ora e mezzi chili [lib-5-elementare-matematica-frazioni-di-ore-e-misure] · QUARTO
 concetti: Frazioni dell'ora; Frazioni di metro e chilometro; Frazioni di chilo e litro; Usare l'unità frazionaria
 - Quanti minuti sono un quarto d'ora?
-- Tre quarti d'ora corrispondono a 45 minuti.
+- Venti minuti corrispondono a 1/3 d'ora.
 - Quanti metri sono 3/4 di km?
 - Mezzo chilogrammo di farina corrisponde a ___ grammi.
 - Quanti millilitri sono 2/5 di litro?
@@ -911,7 +911,7 @@ concetti: Retta, semiretta e segmento; Rette parallele; Rette perpendicolari; Re
 - Due rette perpendicolari formano angoli di...
 - Un segmento è una parte di retta delimitata da due ___.
 - Quale esempio rappresenta due rette parallele nella vita reale?
-- Alle 3 in punto le lancette dell'orologio sono...
+- Due lati vicini di un rettangolo stanno su rette...
 - Quante rette perpendicolari a una retta data puoi tracciare passando per un punto del piano?
 - Perché i binari del treno devono essere paralleli?
 
@@ -920,22 +920,22 @@ concetti: Lunghezze; Masse; Capacità; Tempo
 - Quanti metri sono 4,7 km?
 - Un etto corrisponde a 100 grammi.
 - 3 decilitri equivalgono a...
-- Due ore e mezza corrispondono a ___ minuti.
-- Un'anguria pesa 4,25 kg. Quanti grammi sono?
+- Mezzo minuto corrisponde a ___ secondi.
+- Un melone pesa 2,08 kg. Quanti grammi sono?
 - Un giro del parco è lungo 750 m. Quanti km percorri con 4 giri?
-- Quanti secondi ci sono in 5 minuti?
-- Una brocca contiene 1,2 litri. Quanti bicchieri da 150 ml puoi riempire? Spiega.
+- Quanti secondi ci sono in un quarto d'ora?
+- Un annaffiatoio contiene 4,5 litri. Ogni piantina ha bisogno di 3 dl d'acqua. Quante piantine annaffi con l'a…
 
 ## Ripasso: frazioni e percentuali [lib-5-elementare-matematica-ripasso-frazioni-percentuali] · ALLENA
 concetti: Frazioni equivalenti; Tre scritture, un valore; Frazione di un numero; Percentuale di un numero
 - Quale terna indica sempre la stessa quantità?
-- Le frazioni 2/3 e 8/12 sono equivalenti.
+- Le frazioni 3/5 e 5/3 sono equivalenti.
 - Quanto vale 3/5 di 85?
-- Il numero 0,07 corrisponde al ___ %.
-- Qual è il 15% di 60?
+- Il numero decimale 0,6 corrisponde al ___ %.
+- Qual è il 15% di 80?
 - Quale frazione è ridotta ai minimi termini ed è equivalente a 18/24?
 - Ordina i valori dal più piccolo al più grande.
-- Un videogioco costa 48 €. Ti conviene uno sconto del 25% o uno sconto di 10 €? Spiega.
+- Nel tiro a canestro Ada fa centro 7 volte su 10, Bruno 16 volte su 25. Chi è più preciso? Spiega usando le pe…
 
 ## Risali all'intero [lib-5-elementare-matematica-dalla-frazione-all-intero] · TUTTO
 concetti: Dall'unità frazionaria all'intero; Da una frazione all'intero; Controllare il risultato; Problemi inversi
@@ -1042,7 +1042,7 @@ concetti: Figure isoperimetriche; Figure equiestese; Perimetro uguale, area dive
 - Un rettangolo di 8 cm × 2 cm e un quadrato di lato 4 cm sono equiestesi.
 - Quale rettangolo con perimetro 20 cm ha l'area maggiore?
 - Figure che hanno la stessa area si dicono ___.
-- Un rettangolo ha perimetro 24 cm e base 8 cm. Quanto misura l'altezza?
+- Quale rettangolo è isoperimetrico a un quadrato di lato 6 cm?
 - Quale rettangolo è equiesteso a un quadrato di lato 6 cm?
 - Che cosa hanno in comune un rettangolo di 6 cm × 4 cm e uno di 10 cm × 2 cm?
 - Hai 40 metri di rete per recintare un orto rettangolare. Quale forma scegli per avere l'orto più grande? Spie…

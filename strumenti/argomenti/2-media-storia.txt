@@ -1,6 +1,39 @@
-# 2ª media · Storia: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 2ª media · Storia: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Adam Smith e la mano invisibile [lib-2-media-storia-adam-smith-liberismo] · MANO
+concetti: La ricchezza delle nazioni; Il lavoro crea ricchezza; La divisione del lavoro; Mercato libero
+- Di quale Paese era Adam Smith?
+- Per Adam Smith la vera ricchezza di un Paese era l'oro accumulato nelle sue casse.
+- La teoria che vuole un mercato libero, senza dazi né monopoli, si chiama ___.
+- In una fabbrica di spilli ogni operaio fa una sola fase del lavoro. Che cosa succede alla produzione?
+- In quale anno uscì La ricchezza delle nazioni?
+- Che cosa intendeva Smith con «mano invisibile»?
+- Secondo Smith, che cosa NON dovrebbe fare lo Stato?
+- Pensa a come si prepara una pizza in una pizzeria affollata, con chi stende l'impasto, chi la condisce e chi …
+
+## Alla scoperta del Nord America [lib-2-media-storia-esplorazioni-nord-america] · CANADA
+concetti: Il passaggio a nord-ovest; Giovanni Caboto; Giovanni da Verrazzano; Jacques Cartier
+- Che cosa cercavano Inglesi e Francesi esplorando il Nord America?
+- Giovanni Caboto navigò al servizio del re d'Inghilterra.
+- Il ponte di New York dedicato a un navigatore fiorentino si chiama ponte ___.
+- Quale fiume esplorò Jacques Cartier?
+- Per quale re lavorava Giovanni da Verrazzano?
+- Perché Inghilterra e Francia cercarono rotte proprie?
+- Metti in ordine cronologico questi viaggi.
+- Perché secondo te ancora oggi in una parte del Canada si parla francese? Spiega con parole tue.
+
+## Bacone, Cartesio e il metodo [lib-2-media-storia-cartesio-bacone] · DUBBIO
+concetti: Bacone e l'esperienza; Dai casi alla regola; Cartesio e il dubbio; La matematica come modello
+- Da dove doveva partire la conoscenza secondo Bacone?
+- La frase «Penso, dunque sono» è di Cartesio.
+- Il sistema di assi che usi in matematica per disegnare i punti si chiama piano ___.
+- Che cos'è il metodo induttivo?
+- Osservi che il ferro, il rame e l'argento si dilatano col calore e concludi che i metalli si dilatano col cal…
+- Perché Cartesio decise di dubitare di tutto?
+- Che cosa voleva dire Bacone con «sapere è potere»?
+- Bacone e Cartesio proponevano metodi diversi. Che cosa avevano in comune? Spiega con parole tue.
 
 ## Beccaria contro la pena di morte [lib-2-media-storia-beccaria-delitti-pene] · DELITTO
 concetti: L'Illuminismo a Milano; Contro la tortura; Contro la pena di morte; Pene giuste e certe
@@ -13,6 +46,28 @@ concetti: L'Illuminismo a Milano; Contro la tortura; Contro la pena di morte; Pe
 - Quale di questi è un argomento di Beccaria contro la pena di morte?
 - La Costituzione italiana dice che le pene «devono tendere alla rieducazione del condannato» e vieta la pena d…
 
+## Bernini, Caravaggio e il Barocco [lib-2-media-storia-barocco-bernini-caravaggio] · STUPORE
+concetti: Che cos'è il Barocco; Un'arte per commuovere; Gian Lorenzo Bernini; Caravaggio
+- In quale secolo si diffuse l'arte barocca?
+- Bernini progettò il colonnato di piazza San Pietro a Roma.
+- Caravaggio è famoso per i forti contrasti di luce e ___ nei suoi quadri.
+- Quale di queste caratteristiche è tipica del Barocco?
+- Quale opera di Bernini si trova in piazza Navona?
+- Chi sceglieva spesso Caravaggio come modelli per i santi?
+- Perché la Chiesa della Controriforma apprezzava l'arte barocca?
+- Immagina di entrare in una chiesa barocca. Che cosa provi e perché gli artisti volevano proprio questo effett…
+
+## Bolívar libera l'America Latina [lib-2-media-storia-america-latina-bolivar] · ANDE
+concetti: L'occasione; I creoli; Bolívar e San Martín; Nuovi Stati
+- Quale evento indebolì la Spagna e favorì le rivolte nelle colonie?
+- La Bolivia prende il nome da Simón Bolívar.
+- I discendenti di Europei nati in America si chiamavano ___.
+- Con quale soprannome era conosciuto Bolívar?
+- Quale condottiero guidò l'indipendenza di Argentina e Cile?
+- Perché i creoli volevano l'indipendenza?
+- Metti in ordine cronologico questi eventi.
+- Quali somiglianze vedi tra l'indipendenza dell'America Latina e quella degli Stati Uniti? Spiega con parole t…
+
 ## Calvino e la Chiesa d'Inghilterra [lib-2-media-storia-calvino-chiesa-anglicana] · SCISMA
 concetti: Calvino a Ginevra; La predestinazione; Enrico VIII e lo scisma; La Chiesa anglicana; La diffusione del calvinismo
 - In quale città Calvino organizzò la sua comunità religiosa?
@@ -23,6 +78,17 @@ concetti: Calvino a Ginevra; La predestinazione; Enrico VIII e lo scisma; La Chi
 - Perché il calvinismo ebbe successo soprattutto tra mercanti, banchieri e artigiani?
 - Enrico VIII chiuse i monasteri e ne prese le terre. Quale vantaggio ottenne da questa scelta?
 - Come sarebbe stata la tua giornata nella Ginevra di Calvino? Descrivi con parole tue le regole di vita di que…
+
+## Carbonari e moti del 1820-21 [lib-2-media-storia-carboneria-moti-1820] · CARBONE
+concetti: Le società segrete; La Carboneria; I moti di Napoli e del Piemonte; La repressione
+- Che cosa chiedevano soprattutto i carbonari?
+- Dopo il Congresso di Vienna i liberali potevano chiedere apertamente una costituzione, senza correre rischi.
+- Silvio Pellico raccontò la sua prigionia nel libro Le mie ___.
+- In quale Stato italiano nacque la Carboneria?
+- Quale rivolta straniera ispirò i moti di Napoli del 1820?
+- Chi represse i moti del 1820-21 in Italia?
+- Metti in ordine cronologico questi eventi.
+- I moti del 1820-21 fallirono. Secondo te perché? Spiega con parole tue.
 
 ## Carlo V, signore di mezzo mondo [lib-2-media-storia-carlo-v] · IMPERO
 concetti: Un'eredità enorme; Imperatore nel 1519; Tanti nemici; L'abdicazione di Carlo
@@ -68,6 +134,17 @@ concetti: L'impero azteco; I conquistadores; Perché vinsero gli Spagnoli; La fi
 - Cortés aveva solo poche centinaia di uomini. Quale fu uno dei motivi decisivi della sua vittoria?
 - Come riuscirono pochi conquistadores a sconfiggere un impero di milioni di persone? Spiega con parole tue alm…
 
+## Costantinopoli cade nel 1453 [lib-2-media-storia-costantinopoli-ottomani] · SULTANO
+concetti: La conquista del 1453; Istanbul capitale; I dotti in Italia; Solimano il Magnifico
+- In quale anno cadde Costantinopoli?
+- Con la caduta di Costantinopoli finì l'impero bizantino.
+- Dopo la conquista, la basilica di Santa Sofia fu trasformata in ___.
+- Quale arma ebbe un ruolo importante nell'assedio del 1453?
+- Che effetto ebbe la caduta di Costantinopoli sulla cultura italiana?
+- Quale città assediò Solimano il Magnifico nel 1529, senza riuscire a conquistarla?
+- Metti in ordine cronologico questi eventi.
+- Perché il controllo ottomano del Mediterraneo orientale spinse gli Europei a cercare nuove rotte? Spiega con …
+
 ## Da Mosca a Sant'Elena [lib-2-media-storia-napoleone-caduta] · ELBA
 concetti: La campagna di Russia; Lipsia e l'Elba; I Cento giorni e Waterloo; L'esilio a Sant'Elena
 - In quale anno Napoleone invase la Russia?
@@ -111,6 +188,17 @@ concetti: La regina Elisabetta; I corsari della regina; Maria Stuart; La sconfit
 - Quale avvenimento convinse Filippo II a preparare l'invasione dell'Inghilterra?
 - Perché l'Invincibile Armada fu sconfitta nel 1588?
 - Perché la sconfitta dell'Invincibile Armada fu così importante per il futuro dell'Inghilterra? Spiega con par…
+
+## Erasmo e l'Elogio della follia [lib-2-media-storia-erasmo-umanesimo-cristiano] · FOLLIA
+concetti: Un umanista europeo; L'Elogio della follia; Tornare al Vangelo; Né con Lutero né contro la riforma
+- Di quale Paese era Erasmo?
+- L'Elogio della follia è un'opera satirica che prende in giro i vizi della società.
+- Erasmo pubblicò il Nuovo Testamento nella lingua originale, il ___.
+- In quale lingua scriveva Erasmo le sue opere?
+- Come voleva riformare la Chiesa Erasmo?
+- Perché Erasmo non seguì Lutero?
+- Il programma europeo di scambio per studenti universitari porta il nome di Erasmo. Perché è una scelta adatta?
+- Che differenza c'è tra il modo di criticare la Chiesa di Erasmo e quello di Lutero? Spiega con parole tue.
 
 ## Filippo II e Lepanto [lib-2-media-storia-filippo-ii-lepanto] · GALEA
 concetti: Filippo II, re cattolico; La minaccia ottomana; La battaglia di Lepanto; Una vittoria non decisiva; Un impero pieno di debiti
@@ -156,6 +244,17 @@ concetti: La Compagnia di Gesù; Scuole e missioni; L'Inquisizione romana; L'Ind
 - Il filosofo Giordano Bruno fu condannato a morte dall'Inquisizione nel 1600 per le sue idee.
 - Prova a immaginare: che cosa succederebbe oggi se ogni libro dovesse essere approvato prima di essere stampat…
 
+## Giordano Bruno e i mondi infiniti [lib-2-media-storia-giordano-bruno] · MONDI
+concetti: Un frate inquieto; L'universo infinito; Il processo; Il rogo di Campo de' Fiori
+- In quale città nacque Giordano Bruno?
+- Giordano Bruno pensava che l'universo fosse infinito e pieno di mondi.
+- Giordano Bruno fu bruciato nel 1600 a Roma, in Campo de' ___.
+- Di quale astronomo accettò e sviluppò le idee Bruno?
+- In quale città fu arrestato Giordano Bruno nel 1592?
+- Che cosa fece Bruno quando gli fu chiesto di rinnegare le sue idee?
+- Metti in ordine cronologico questi eventi.
+- Perché la statua di Giordano Bruno in Campo de' Fiori è diventata un simbolo della libertà di pensiero? Spieg…
+
 ## Gli Olandesi si ribellano [lib-2-media-storia-province-unite-olanda] · OLANDA
 concetti: La rivolta contro la Spagna; Nascono le Province Unite; Una potenza commerciale; Amsterdam, banche e tolleranza
 - Contro quale sovrano si ribellarono i Paesi Bassi nella seconda metà del Cinquecento?
@@ -166,6 +265,17 @@ concetti: La rivolta contro la Spagna; Nascono le Province Unite; Una potenza co
 - Perché nel Seicento molti perseguitati religiosi si trasferirono nelle Province Unite?
 - Le Province Unite erano un paese piccolo, con poca terra da coltivare. Come riuscirono a diventare così ricch…
 - Perché si può dire che nel Seicento le Province Unite erano un paese diverso dalle grandi monarchie come la S…
+
+## Gli Sforza signori di Milano [lib-2-media-storia-sforza-milano] · MORO
+concetti: Dai Visconti agli Sforza; Ludovico il Moro; Leonardo a Milano; La caduta
+- Quale famiglia governava Milano prima degli Sforza?
+- Francesco Sforza era un condottiero, cioè un capo di soldati mercenari.
+- Leonardo dipinse l'Ultima ___ nel convento di Santa Maria delle Grazie.
+- Con quale soprannome era conosciuto Ludovico Sforza?
+- Quale celebre architetto lavorò per Ludovico il Moro?
+- Perché favorire la discesa di Carlo VIII si rivelò un errore per il Moro?
+- Metti in ordine cronologico questi eventi milanesi.
+- Perché un signore come Ludovico il Moro chiamava a corte grandi artisti come Leonardo? Spiega con parole tue.
 
 ## Gli umanisti riscoprono i classici [lib-2-media-storia-umanesimo-classici] · LATINO
 concetti: Che cos'è l'Umanesimo; Il ritorno ai classici; La filologia; L'uomo artefice del destino
@@ -178,6 +288,17 @@ concetti: Che cos'è l'Umanesimo; Il ritorno ai classici; La filologia; L'uomo a
 - Lorenzo Valla dimostrò che la Donazione di Costantino, usata dai papi per giustificare il loro potere su Roma…
 - Perché si dice che l'Umanesimo ha messo «l'uomo al centro»? Spiega con parole tue facendo un confronto con il…
 
+## Granada 1492: finisce la Reconquista [lib-2-media-storia-reconquista-re-cattolici] · GRANADA
+concetti: Al-Andalus; La Reconquista; I Re Cattolici; Inquisizione ed espulsioni
+- Chi governò gran parte della penisola iberica dall'VIII secolo?
+- La Reconquista fu una guerra brevissima, durata pochi mesi.
+- L'ultimo regno musulmano in Spagna, conquistato nel 1492, era quello di ___.
+- Quale titolo diede il papa a Isabella e Ferdinando?
+- Che cosa accadde agli ebrei di Spagna nel 1492?
+- Da chi dipendeva l'Inquisizione spagnola, fondata nel 1478?
+- Metti in ordine cronologico questi eventi.
+- Perché i Re Cattolici volevano che tutti i sudditi avessero la stessa religione? Spiega con parole tue.
+
 ## Gutenberg e i caratteri mobili [lib-2-media-storia-stampa-gutenberg] · TORCHIO
 concetti: Libri prima della stampa; L'invenzione di Gutenberg; Le conseguenze della stampa; La stampa a Venezia
 - Prima della stampa, chi ricopiava a mano i libri, spesso nei monasteri?
@@ -189,6 +310,72 @@ concetti: Libri prima della stampa; L'invenzione di Gutenberg; Le conseguenze de
 - Perché i piccoli libri stampati da Aldo Manuzio a Venezia ebbero tanto successo?
 - Molti storici paragonano l'invenzione della stampa a quella di Internet. Secondo te perché? Spiega con parole…
 
+## Haiti, la rivolta degli schiavi [lib-2-media-storia-haiti-toussaint-louverture] · HAITI
+concetti: Saint-Domingue; La rivolta del 1791; Abolizione e ritorno dei Francesi; L'indipendenza di Haiti
+- Quale prodotto rendeva ricchissima la colonia di Saint-Domingue?
+- Toussaint Louverture, capo dei ribelli di Saint-Domingue, era stato uno schiavo.
+- Nel 1804 Saint-Domingue diventò indipendente con il nome di ___.
+- Quali idee incoraggiarono gli schiavi di Saint-Domingue a ribellarsi nel 1791?
+- Che cosa decise la Convenzione francese nel 1794?
+- Perché Napoleone mandò un esercito a Saint-Domingue nel 1802?
+- Metti in ordine cronologico questi eventi.
+- La Rivoluzione francese proclamava che tutti gli uomini nascono liberi e uguali. Perché la rivolta di Haiti m…
+
+## Hobbes e il mostro Leviatano [lib-2-media-storia-hobbes-leviatano] · LUPO
+concetti: Lo stato di natura; Il patto; Il Leviatano; Hobbes e Locke
+- Come sarebbe, secondo Hobbes, la vita degli uomini senza leggi?
+- Nel Leviatano Hobbes difende un potere del sovrano molto forte, cioè assoluto.
+- Secondo Hobbes, per vivere in pace gli uomini fanno un ___ e affidano il potere a un sovrano.
+- Che cos'è il Leviatano?
+- In quale periodo storico scrisse Hobbes?
+- In che cosa Locke non era d'accordo con Hobbes?
+- Che cosa ricevono i cittadini in cambio dell'obbedienza al sovrano, secondo Hobbes?
+- Pensa a un gioco in cortile senza regole né arbitro. Che cosa succederebbe? Collega la tua risposta all'idea …
+
+## I Borbone e la Reggia di Caserta [lib-2-media-storia-borbone-napoli] · REGGIA
+concetti: Un regno indipendente; Napoli capitale; Ercolano e Pompei; La Reggia di Caserta
+- Quale dinastia regnò a Napoli dal 1734?
+- Gli scavi di Pompei iniziarono sotto il regno di Carlo di Borbone.
+- La Reggia di Caserta fu progettata dall'architetto Luigi ___.
+- Quale teatro fece costruire Carlo di Borbone a Napoli nel 1737?
+- Perché l'arrivo di Carlo di Borbone fu importante per il Mezzogiorno?
+- Con quale reggia straniera voleva rivaleggiare la Reggia di Caserta?
+- Metti in ordine cronologico questi eventi del regno di Carlo.
+- Perché la scoperta di Ercolano e Pompei fu così importante per conoscere il mondo romano? Spiega con parole t…
+
+## I cardinali che governarono la Francia [lib-2-media-storia-richelieu-mazzarino] · PORPORA
+concetti: Richelieu primo ministro; Nobili e ugonotti; Contro gli Asburgo; Mazzarino e la Fronda
+- Di quale re fu primo ministro il cardinale Richelieu?
+- Mazzarino era di origine italiana.
+- Nel 1628 Richelieu conquistò ___, la principale piazzaforte degli ugonotti.
+- Perché Richelieu fece abbattere molti castelli dei nobili?
+- Richelieu, pur essendo cardinale, si alleò con i protestanti seguendo la «ragion di Stato». Che cosa signific…
+- Che cos'era la Fronda?
+- Metti in ordine cronologico questi eventi.
+- Luigi XIV visse da bambino la rivolta della Fronda. Come pensi che questa esperienza abbia influito sul suo m…
+
+## I Maya, maestri del calendario [lib-2-media-storia-maya-civilta] · MAYA
+concetti: Dove vivevano; Città-stato e templi; Scrittura e matematica; Il calendario
+- In quale zona vivevano i Maya?
+- I Maya erano uniti in un solo grande impero con un unico imperatore.
+- I Maya contavano in base 20 e conoscevano già lo ___.
+- Quale pianta era alla base dell'alimentazione dei Maya?
+- Che cosa si trovava di solito in cima alle piramidi maya?
+- Perché per i Maya era importante un calendario preciso?
+- Quale differenza c'è tra Maya e Aztechi?
+- I Maya calcolarono la durata dell'anno senza telescopi. Come pensi che ci siano riusciti? Spiega con parole t…
+
+## I Savoia, da duchi a re [lib-2-media-storia-savoia-piemonte] · TORINO
+concetti: Emanuele Filiberto; Torino capitale; L'assedio di Torino; Da duchi a re
+- Quale città divenne capitale dei Savoia nel 1563?
+- Emanuele Filiberto era soprannominato Testa di ferro.
+- Durante l'assedio di Torino del 1706 si sacrificò il minatore Pietro ___.
+- Quale basilica fu costruita a Torino per ringraziare della vittoria del 1706?
+- Quale isola ottenne Vittorio Amedeo II nel 1713, insieme al titolo di re?
+- Perché spostare la capitale a Torino fu una scelta importante?
+- Metti in ordine cronologico queste tappe della storia dei Savoia.
+- Il piccolo Stato dei Savoia si trovava tra potenze come Francia e Asburgo. Come riuscì a ingrandirsi? Spiega …
+
 ## I sovrani illuminati [lib-2-media-storia-dispotismo-illuminato] · RIFORMA
 concetti: Sovrani riformatori; Maria Teresa e Giuseppe II; Federico II e Caterina II; I limiti delle riforme
 - Che cosa si intende per «dispotismo illuminato»?
@@ -199,6 +386,17 @@ concetti: Sovrani riformatori; Maria Teresa e Giuseppe II; Federico II e Caterin
 - Perché i sovrani illuminati facevano riforme?
 - Qual era il limite principale del dispotismo illuminato?
 - Che differenza c'è tra un sovrano illuminato e uno Stato con la separazione dei poteri voluta da Montesquieu?…
+
+## Il Caffè dei fratelli Verri [lib-2-media-storia-caffe-verri-milano] · TAZZA
+concetti: Milano illuminista; L'Accademia dei Pugni; Il giornale «Il Caffè»; Idee per cambiare
+- Quale Stato governava Milano nella seconda metà del Settecento?
+- Il gruppo dei Verri si chiamava scherzosamente Accademia dei Pugni.
+- Gli autori del Caffè scrivevano in modo chiaro e vivace perché volevano raggiungere un ___ ampio, non solo i …
+- Di quali argomenti si occupava Il Caffè?
+- Quale celebre libro nacque dal gruppo del Caffè?
+- Perché il giornale prese il nome da un locale pubblico?
+- Che cosa intendevano gli illuministi milanesi con «pubblico bene»?
+- Oggi dove si discute di idee e di problemi della società, come nei caffè del Settecento? Spiega con parole tu…
 
 ## Il commercio triangolare [lib-2-media-storia-commercio-triangolare] · COTONE
 concetti: Le piantagioni; La tratta degli schiavi; Il triangolo atlantico; Il viaggio degli schiavi
@@ -221,6 +419,28 @@ concetti: Un concilio lunghissimo; La dottrina confermata; La disciplina del cle
 - Perché il Concilio obbligò i vescovi a vivere nella propria diocesi?
 - Con «Controriforma» si indica la reazione della Chiesa cattolica per fermare la diffusione delle idee protest…
 - Il Concilio di Trento voleva sia combattere i protestanti sia correggere i difetti della Chiesa. Spiega con p…
+
+## Il Mayflower e i Padri Pellegrini [lib-2-media-storia-padri-pellegrini-mayflower] · COLONIA
+concetti: Jamestown e il tabacco; I Padri Pellegrini; Il patto del Mayflower; Una terra di rifugio
+- Come si chiamava la nave che nel 1620 portò in America i Padri Pellegrini?
+- Negli Stati Uniti la festa del Ringraziamento ricorda il primo raccolto dei Padri Pellegrini.
+- La prima colonia inglese stabile in America del Nord fu ___, fondata nel 1607 in Virginia.
+- Quale pianta arricchì i coloni della Virginia?
+- Perché i puritani del Mayflower lasciarono l'Inghilterra?
+- Che cosa stabilirono i passeggeri del Mayflower con il loro patto?
+- Metti in ordine cronologico questi eventi della storia americana.
+- Molti coloni andarono in America per poter praticare liberamente la loro religione. Perché secondo te la libe…
+
+## Il Portogallo gira intorno all'Africa [lib-2-media-storia-portoghesi-vasco-da-gama] · SPEZIE
+concetti: Perché il Portogallo; Diaz e il Capo; Vasco da Gama in India; Un impero di porti
+- Che cosa cercavano soprattutto i Portoghesi in India?
+- Enrico il Navigatore fu un principe portoghese che promosse viaggi lungo le coste dell'Africa.
+- Nel 1488 Bartolomeo Diaz superò il Capo di ___, all'estremo sud dell'Africa.
+- In quale anno Vasco da Gama raggiunse l'India via mare?
+- Perché il Portogallo voleva una nuova via per le spezie?
+- Quale terra americana toccò il portoghese Cabral nel 1500?
+- Metti in ordine cronologico le tappe dell'espansione portoghese.
+- Che conseguenze ebbe la nuova rotta portoghese per città come Venezia? Spiega con parole tue.
 
 ## Il prezzo della conquista [lib-2-media-storia-conseguenze-conquista-america] · VAIOLO
 concetti: Il crollo della popolazione; Il sistema dell'encomienda; Las Casas difende gli indios; Lo scambio tra due mondi
@@ -288,6 +508,28 @@ concetti: I tre stati; Le casse vuote; Voto per ordine o per testa; Il giurament
 - Che cosa giurarono i deputati nella sala della Pallacorda?
 - L'abate Sieyès scrisse: «Che cos'è il terzo stato? Tutto. Che cosa è stato finora? Niente». Che cosa voleva d…
 
+## Jenner e il primo vaccino [lib-2-media-storia-jenner-vaccino] · VACCA
+concetti: Il vaiolo; La variolizzazione; L'esperimento di Jenner; Un successo mondiale
+- Quale malattia combatté Edward Jenner?
+- Il vaiolo è stato eliminato dal mondo grazie alle vaccinazioni.
+- Jenner protesse un bambino dal vaiolo umano usando il vaiolo delle ___, una forma della malattia lieve per l'…
+- Che cosa notò Jenner osservando le mungitrici?
+- Perché la variolizzazione era pericolosa?
+- Perché il vaccino di Jenner era più sicuro della variolizzazione?
+- Metti in ordine cronologico queste tappe della lotta al vaiolo.
+- In che senso l'esperimento di Jenner segue il metodo scientifico? Spiega con parole tue.
+
+## L'argento di Potosí e i prezzi [lib-2-media-storia-rivoluzione-prezzi-potosi] · ARGENTO
+concetti: La montagna d'argento; Il viaggio dell'argento; La rivoluzione dei prezzi; Dove finiva la ricchezza
+- Dove si trovava la grande miniera d'argento di Potosí?
+- Nelle miniere di Potosí lavoravano soprattutto indios costretti con la forza.
+- L'argento americano arrivava in Spagna al porto di ___.
+- Che cosa si intende per «rivoluzione dei prezzi»?
+- Perché l'arrivo di tanto argento fece salire i prezzi?
+- Chi fu più danneggiato dall'aumento dei prezzi?
+- Perché la Spagna, pur ricevendo tanto argento, finì piena di debiti?
+- La Spagna aveva tanto argento ma non diventò ricca a lungo. Che cosa ti insegna questo sulla vera ricchezza d…
+
 ## L'ascesa di Napoleone [lib-2-media-storia-napoleone-ascesa] · BRUMAIO
 concetti: Un giovane generale corso; La campagna d'Italia; La spedizione in Egitto; Il colpo di Stato
 - Dove nacque Napoleone Bonaparte?
@@ -309,6 +551,17 @@ concetti: Diderot e d'Alembert; Un sapere ordinato; Arti e mestieri; Censura e s
 - Metti in ordine cronologico queste tappe dell'Enciclopedia.
 - Quale idea illuminista stava alla base del progetto dell'Enciclopedia?
 - Oggi esistono enciclopedie online come Wikipedia. Quali somiglianze vedi con il progetto di Diderot e d'Alemb…
+
+## L'Italia ai tempi di Napoleone [lib-2-media-storia-regno-italia-murat] · MURAT
+concetti: Il Regno d'Italia; Il Regno di Napoli; Le terre annesse; Luci e ombre
+- Quale città fu capitale del Regno d'Italia napoleonico?
+- Durante l'età napoleonica la Sicilia fu governata dai Francesi.
+- Nel 1808 divenne re di Napoli Gioacchino ___, cognato di Napoleone.
+- Chi governava il Regno d'Italia come viceré?
+- Quale importante riforma fu fatta nel Regno di Napoli durante il periodo napoleonico?
+- Quale di questi fu un aspetto negativo del dominio napoleonico in Italia?
+- Metti in ordine cronologico questi eventi.
+- L'età napoleonica portò in Italia sia novità positive sia sofferenze. Spiega con parole tue un esempio per ci…
 
 ## L'Italia campo di battaglia [lib-2-media-storia-guerre-d-italia] · SACCO
 concetti: Carlo VIII scende in Italia; Francia contro Spagna; Il sacco di Roma; La pace di Cateau-Cambrésis
@@ -343,6 +596,39 @@ concetti: La presa della Bastiglia; La fine dei privilegi feudali; La Dichiarazi
 - Che cosa cambiava per un contadino francese con la Dichiarazione dei diritti?
 - Perché la Dichiarazione dei diritti dell'uomo e del cittadino del 1789 è considerata una base delle democrazi…
 
+## La caccia alle streghe [lib-2-media-storia-caccia-alle-streghe] · STREGA
+concetti: Una paura diffusa; Chi veniva accusato; Processi e torture; Capri espiatori
+- Di che cosa venivano accusate le streghe?
+- La caccia alle streghe avvenne solo nei Paesi cattolici.
+- Quando si dà la colpa di un problema a qualcuno che non c'entra, si dice che è un capro ___.
+- Chi erano soprattutto le persone accusate di stregoneria?
+- Perché nei processi per stregoneria quasi tutti gli accusati confessavano?
+- Perché anche le guaritrici che curavano con le erbe rischiavano di essere accusate?
+- In quali momenti la paura delle streghe cresceva di più?
+- Anche oggi a volte si dà la colpa dei problemi a un gruppo di persone solo perché sono diverse. Che cosa ti i…
+
+## La guerra dei Sette anni [lib-2-media-storia-guerra-dei-sette-anni] · GLOBALE
+concetti: Due alleanze; Una guerra su più continenti; La pace del 1763; Le conseguenze
+- Quanto durò la guerra dei Sette anni?
+- La guerra dei Sette anni si combatté solo in Europa.
+- Con la pace di Parigi del 1763 la Francia cedette all'Inghilterra il ___.
+- Quale Stato tedesco era alleato dell'Inghilterra?
+- Perché alcuni chiamano la guerra dei Sette anni «la prima guerra mondiale»?
+- Quale conseguenza ebbero i debiti di guerra inglesi?
+- Quale potenza europea diventò la prima potenza coloniale dopo il 1763?
+- Spiega con parole tue come una guerra vinta dall'Inghilterra contribuì a farle perdere le colonie americane.
+
+## La rivolta dei contadini tedeschi [lib-2-media-storia-guerra-contadini-tedeschi] · ZAPPA
+concetti: Le richieste dei contadini; Il Vangelo come giustizia; Lutero sta con i principi; La repressione
+- Che cosa chiedevano i contadini tedeschi in rivolta?
+- Lutero appoggiò la rivolta dei contadini contro i principi.
+- Il predicatore che guidò i contadini più radicali si chiamava Thomas ___.
+- Che cosa volevano poter usare liberamente i contadini?
+- Come finì la rivolta del 1525?
+- Perché molti contadini credevano che Lutero fosse dalla loro parte?
+- Perché Lutero condannò la rivolta?
+- Secondo te perché un'idea religiosa, come quella della libertà del cristiano, poté accendere una rivolta soci…
+
 ## La rivoluzione del vapore [lib-2-media-storia-rivoluzione-industriale] · VAPORE
 concetti: Perché in Inghilterra; La macchina a vapore; Nasce la fabbrica; Operai e città
 - In quale Paese iniziò la rivoluzione industriale?
@@ -353,6 +639,72 @@ concetti: Perché in Inghilterra; La macchina a vapore; Nasce la fabbrica; Opera
 - Com'erano le condizioni di lavoro degli operai nelle prime fabbriche?
 - Metti in ordine cronologico queste invenzioni della rivoluzione industriale.
 - Che differenza c'era tra il lavoro di un artigiano nella sua bottega e quello di un operaio in fabbrica? Spie…
+
+## La rivoluzione nei campi [lib-2-media-storia-rivoluzione-agricola] · RAPA
+concetti: Le recinzioni; La rotazione senza maggese; Più bestiame, più concime; Le conseguenze
+- Che cos'erano le terre comuni, prima delle recinzioni?
+- Con la rotazione quadriennale i campi non venivano più lasciati a riposo.
+- I grandi proprietari inglesi chiusero le terre comuni con le ___.
+- Perché coltivare rape e trifoglio aiutava anche l'allevamento?
+- Perché più animali significavano anche raccolti migliori?
+- Che cosa accadde a molti contadini poveri dopo le recinzioni?
+- Metti in ordine logico questa catena di cause ed effetti.
+- Perché si dice che la rivoluzione agricola preparò la rivoluzione industriale? Spiega con parole tue.
+
+## La Spagna contro Napoleone [lib-2-media-storia-spagna-guerriglia-napoleone] · GOYA
+concetti: Un re francese in Spagna; La rivolta di Madrid; La guerriglia; La Costituzione di Cadice
+- Chi mise Napoleone sul trono di Spagna nel 1808?
+- Il quadro di Goya Il 3 maggio 1808 mostra la fucilazione dei ribelli spagnoli.
+- La parola ___, che significa «piccola guerra», nacque proprio durante la resistenza spagnola.
+- Come combattevano i guerriglieri spagnoli?
+- Quale potenza aiutò gli Spagnoli contro Napoleone?
+- Che cosa fu la Costituzione di Cadice del 1812?
+- Perché la guerra di Spagna fu un problema grave per Napoleone?
+- Perché un esercito potentissimo come quello di Napoleone faticò tanto contro la guerriglia spagnola? Spiega c…
+
+## La Vandea contro la Rivoluzione [lib-2-media-storia-vandea-chiesa-rivoluzione] · VANDEA
+concetti: I beni della Chiesa; La Costituzione civile del clero; La rivolta della Vandea; La repressione
+- In quale Paese si trova la regione della Vandea?
+- Con la Costituzione civile del clero vescovi e parroci dovevano giurare fedeltà alla Costituzione.
+- I preti che rifiutarono di giurare fedeltà alla Costituzione furono chiamati ___.
+- Perché nel 1789 l'Assemblea nazionalizzò i beni della Chiesa?
+- Quale decisione della Repubblica fece scoppiare la rivolta della Vandea nel 1793?
+- Perché i contadini della Vandea difendevano i loro parroci refrattari?
+- Metti in ordine cronologico questi eventi.
+- La Repubblica rivoluzionaria parlava di libertà, ma represse con grande violenza i contadini della Vandea. Ch…
+
+## Le Compagnie delle Indie [lib-2-media-storia-compagnie-delle-indie] · AZIONI
+concetti: Compagnie per i commerci lontani; La società per azioni; Quasi degli Stati; Merci e Borse
+- Con quale parte del mondo commerciavano le Compagnie delle Indie Orientali?
+- In una società per azioni molti investitori dividono rischi e guadagni.
+- Le azioni delle compagnie si compravano e vendevano nella ___ di Amsterdam.
+- In quale anno nacque la Compagnia inglese delle Indie Orientali?
+- Quale città fondarono gli Olandesi in Indonesia?
+- Perché era utile dividere il costo di un viaggio tra molti investitori?
+- Perché si dice che le compagnie erano «quasi degli Stati»?
+- Oggi molte grandi aziende sono società per azioni. Che cosa hanno in comune con le Compagnie delle Indie? Spi…
+
+## Le corti di Urbino e Mantova [lib-2-media-storia-corti-rinascimento] · CORTE
+concetti: La corte; Urbino; Mantova e Ferrara; Il Cortegiano
+- Che cos'era una corte rinascimentale?
+- Federico da Montefeltro fu signore di Urbino e vi fece costruire un grande Palazzo Ducale.
+- A Mantova la famiglia dei ___ chiamò a corte il pittore Andrea Mantegna.
+- Quale poeta lavorò alla corte degli Este a Ferrara?
+- Chi scrisse il Cortegiano?
+- Secondo il Cortegiano, come doveva essere il perfetto uomo di corte?
+- Perché gli artisti cercavano lavoro presso le corti?
+- Perché pensi che a corte fossero così importanti le buone maniere e il saper conversare? Spiega con parole tu…
+
+## Le repubbliche giacobine in Italia [lib-2-media-storia-repubbliche-sorelle-italia] · REGGIO
+concetti: Napoleone in Italia; Le repubbliche sorelle; Il tricolore; Campoformio e il 1799
+- Chi guidò la campagna d'Italia del 1796?
+- Il tricolore italiano fu adottato per la prima volta a Reggio Emilia.
+- La repubblica sorella con capitale Milano si chiamava Repubblica ___.
+- Che cosa accadde alla Repubblica Napoletana nel 1799?
+- Quale repubblica sorella adottò per prima il tricolore verde, bianco e rosso?
+- Perché molti patrioti italiani furono delusi da Campoformio?
+- Metti in ordine cronologico questi eventi.
+- Perché il periodo delle repubbliche giacobine fu importante per la storia d'Italia, anche se durò poco? Spieg…
 
 ## Le tredici colonie si ribellano [lib-2-media-storia-tredici-colonie] · BOSTON
 concetti: Le tredici colonie; Le nuove tasse; Niente tasse senza rappresentanza; Dal tè alla guerra
@@ -365,6 +717,17 @@ concetti: Le tredici colonie; Le nuove tasse; Niente tasse senza rappresentanza;
 - Quale regola, legata al mercantilismo, pesava sul commercio delle colonie?
 - Perché i coloni consideravano ingiusto pagare tasse decise a Londra, anche quando erano piccole? Spiega con p…
 
+## Leonardo, ingegnere e scienziato [lib-2-media-storia-leonardo-scienziato] · VOLO
+concetti: Il metodo dell'osservazione; I taccuini; Anatomia; Macchine e progetti
+- Come scriveva spesso Leonardo nei suoi taccuini?
+- Leonardo imparava soprattutto osservando direttamente la natura.
+- Leonardo disegnò l'Uomo ___, una figura umana inscritta in un cerchio e in un quadrato per studiarne le propo…
+- Che cosa studiò Leonardo per progettare le sue macchine volanti?
+- Come si chiama una delle più grandi raccolte di disegni di Leonardo, conservata a Milano?
+- Perché molte macchine di Leonardo non furono costruite ai suoi tempi?
+- In quale Paese morì Leonardo, nel 1519?
+- Perché Leonardo è considerato un esempio perfetto di uomo del Rinascimento? Spiega con parole tue.
+
 ## Lorenzo e l'equilibrio italiano [lib-2-media-storia-medici-pace-di-lodi] · LODI
 concetti: I Medici a Firenze; La pace di Lodi; Lorenzo il Magnifico; La fine dell'equilibrio
 - Con quale attività si arricchì la famiglia dei Medici?
@@ -375,6 +738,17 @@ concetti: I Medici a Firenze; La pace di Lodi; Lorenzo il Magnifico; La fine del
 - Metti in ordine cronologico questi avvenimenti.
 - Perché Lorenzo il Magnifico era chiamato «l'ago della bilancia» della politica italiana?
 - Perché la morte di Lorenzo il Magnifico, nel 1492, fu un problema per tutta l'Italia? Spiega con parole tue.
+
+## Luddisti, bambini e primi sindacati [lib-2-media-storia-luddisti-lavoro-minorile] · TELAIO
+concetti: I luddisti; Il lavoro minorile; Le prime leggi; Associazioni operaie
+- Che cosa distruggevano i luddisti?
+- In fabbriche e miniere si impiegavano bambini anche perché, essendo piccoli, potevano muoversi tra le macchin…
+- Le associazioni dei lavoratori che difendono salari e diritti si chiamano ___.
+- Che cosa stabilì la legge inglese sulle fabbriche del 1833?
+- Perché i luddisti se la prendevano con le macchine?
+- A che cosa servivano le società di mutuo soccorso?
+- Metti in ordine cronologico questi eventi in Inghilterra.
+- Oggi in Italia i bambini non possono lavorare e devono andare a scuola. Perché è una conquista importante ris…
 
 ## Luigi XIV, il sovrano assoluto [lib-2-media-storia-luigi-xiv-assolutismo] · SOLE
 concetti: Il sovrano assoluto; Il diritto divino; La reggia di Versailles; Un re, una fede
@@ -409,6 +783,17 @@ concetti: Chi era Machiavelli; Il realismo politico; Virtù e fortuna; Astuzia, 
 - Per Machiavelli tutto ciò che accade dipende dalla fortuna e l'uomo non può farci nulla.
 - Secondo Machiavelli, un principe deve sempre comportarsi in modo buono e onesto? Spiega con parole tue il suo…
 
+## Magellano e il primo giro del mondo [lib-2-media-storia-magellano-giro-del-mondo] · STRETTO
+concetti: La spedizione; Lo stretto e il Pacifico; Morte e ritorno; Che cosa dimostrò
+- Per quale regno navigava Magellano?
+- Magellano chiamò Pacifico il nuovo oceano perché durante la traversata lo trovò calmo.
+- La sola nave che tornò in Spagna nel 1522 si chiamava ___.
+- Che cosa accadde a Magellano nel 1521?
+- Chi scrisse il diario che racconta il viaggio di Magellano?
+- Che cosa dimostrò per la prima volta questo viaggio?
+- Metti in ordine le tappe della spedizione.
+- Su circa 240 uomini partiti, ne tornarono 18. Secondo te quali pericoli affrontarono? Spiega con parole tue.
+
 ## Montesquieu divide i poteri [lib-2-media-storia-montesquieu-poteri] · POTERI
 concetti: Lo spirito delle leggi; I tre poteri; Il potere frena il potere; Un'idea ancora viva
 - Quale opera scrisse Montesquieu?
@@ -419,6 +804,17 @@ concetti: Lo spirito delle leggi; I tre poteri; Il potere frena il potere; Un'id
 - Che cosa potrebbe succedere se chi fa le leggi fosse anche il giudice nei processi?
 - Nella Repubblica italiana di oggi, chi esercita il potere legislativo?
 - Montesquieu ammirava il sistema politico inglese. Perché lo considerava migliore della monarchia assoluta fra…
+
+## Napoleone console e il Concordato [lib-2-media-storia-napoleone-console-concordato] · CONSOLE
+concetti: Il Consolato; Uno Stato ordinato; Il Concordato; Verso l'impero
+- Quale tipo di scuola, che esiste ancora oggi, fu creato da Napoleone in Francia?
+- Un plebiscito è un voto in cui il popolo risponde sì o no a una proposta.
+- Nel 1801 Napoleone firmò il Concordato con il papa ___.
+- Chi erano i prefetti creati da Napoleone?
+- Perché Napoleone volle fare pace con la Chiesa?
+- Che cosa ottenne Napoleone nel 1802 con un plebiscito?
+- Metti in ordine cronologico queste tappe.
+- Napoleone faceva votare i Francesi con i plebisciti, ma decideva tutto lui. Era una vera democrazia? Spiega c…
 
 ## Napoleone imperatore e legislatore [lib-2-media-storia-napoleone-impero-codice] · CODICE
 concetti: L'imperatore dei Francesi; Il Codice civile; Vittorie e sconfitte; Il blocco continentale
@@ -442,6 +838,17 @@ concetti: La Dichiarazione d'indipendenza; La guerra e gli alleati; La pace del 
 - Che cosa significa che gli Stati Uniti sono una repubblica federale?
 - La Dichiarazione d'indipendenza afferma che «tutti gli uomini sono creati uguali», ma negli Stati Uniti la sc…
 
+## Nascono le monarchie nazionali [lib-2-media-storia-monarchie-nazionali] · REGNO
+concetti: Che cos'è uno Stato nazionale; Gli strumenti del re; Francia e Inghilterra; Spagna, Italia e Germania
+- Quali Paesi diventarono monarchie nazionali alla fine del Quattrocento?
+- Alla fine del Quattrocento l'Italia era unita sotto un solo re.
+- Per non dipendere dai nobili, il re creò un esercito ___, pagato con le tasse.
+- Quale lunga guerra rafforzò la monarchia francese contro l'Inghilterra?
+- Come si unirono i regni di Castiglia e di Aragona?
+- Perché i funzionari pagati dal re erano importanti per il suo potere?
+- Metti in ordine cronologico questi eventi.
+- Perché un re che aveva esercito, funzionari e tasse proprie era più forte di un re medievale? Spiega con paro…
+
 ## Newton, la mela e le accademie [lib-2-media-storia-newton-accademie] · MELA
 concetti: Newton e la gravitazione; La luce e i colori; Le accademie scientifiche; Nuovi strumenti di misura
 - Secondo Newton, quale forza fa cadere una mela e tiene la Luna intorno alla Terra?
@@ -452,6 +859,39 @@ concetti: Newton e la gravitazione; La luce e i colori; Le accademie scientifich
 - In che senso la gravitazione di Newton è «universale»?
 - Metti in ordine cronologico queste tappe della rivoluzione scientifica.
 - Perché strumenti come il microscopio, il termometro e il barometro furono così importanti per la rivoluzione …
+
+## Olympe de Gouges e le donne [lib-2-media-storia-donne-rivoluzione-francese] · DONNA
+concetti: La marcia su Versailles; Diritti solo per gli uomini; Olympe de Gouges; Un passo indietro
+- Perché le donne di Parigi marciarono su Versailles nell'ottobre 1789?
+- La Dichiarazione dei diritti del 1789 diede alle donne il diritto di voto.
+- Nel 1791 Olympe de Gouges scrisse la Dichiarazione dei diritti della donna e della ___.
+- Che cosa ottennero le donne con la marcia su Versailles?
+- Che cosa chiedeva Olympe de Gouges?
+- Che cosa stabiliva il Codice civile di Napoleone per le donne sposate?
+- Metti in ordine cronologico questi eventi.
+- La Rivoluzione proclamava «uguaglianza», ma escluse le donne. Che cosa ne pensi? Spiega con parole tue, anche…
+
+## Pietro il Grande cambia la Russia [lib-2-media-storia-pietro-il-grande] · BARBA
+concetti: Il viaggio in Occidente; Le riforme; San Pietroburgo; La guerra contro la Svezia
+- Quale titolo aveva il sovrano della Russia?
+- Durante il suo viaggio in Olanda, Pietro il Grande lavorò anche in un cantiere navale.
+- Nel 1703 Pietro fondò la città di San ___, sul mar Baltico.
+- Che cosa dovevano fare i nobili che volevano tenere la barba?
+- Quale vittoria del 1709 rese la Russia una grande potenza?
+- Perché si dice che San Pietroburgo era una «finestra sull'Europa»?
+- Metti in ordine cronologico questi eventi del regno di Pietro.
+- Le riforme di Pietro modernizzarono la Russia, ma furono imposte con la forza e i contadini restarono servi. …
+
+## Pietro Leopoldo riforma la Toscana [lib-2-media-storia-pietro-leopoldo-toscana] · FIRENZE
+concetti: Dai Medici ai Lorena; Un sovrano illuminato; L'abolizione della pena di morte; Economia e territorio
+- Quale famiglia governò la Toscana dopo i Medici?
+- Insieme alla pena di morte, nel 1786 Pietro Leopoldo abolì anche la tortura.
+- Ancora oggi il 30 ___ si celebra la Festa della Toscana.
+- Di chi era figlio Pietro Leopoldo?
+- Che cosa fece Pietro Leopoldo in Val di Chiana?
+- A quale movimento di idee si ispiravano le riforme di Pietro Leopoldo?
+- Metti in ordine cronologico questi eventi toscani.
+- Pietro Leopoldo fece molte riforme, ma da sovrano assoluto. Perché si parla di «dispotismo illuminato»? Spieg…
 
 ## Pizarro e l'impero delle Ande [lib-2-media-storia-pizarro-inca] · CUZCO
 concetti: L'impero inca; Strade e quipu; Pizarro e Atahualpa; Un impero diviso
@@ -464,6 +904,17 @@ concetti: L'impero inca; Strade e quipu; Pizarro e Atahualpa; Un impero diviso
 - Perché la guerra civile tra i fratelli Atahualpa e Huáscar aiutò gli Spagnoli?
 - Atahualpa riempì una stanza d'oro e d'argento per essere liberato, ma fu ucciso lo stesso. Che cosa ci dice q…
 
+## Ripasso: l'età delle rivoluzioni [lib-2-media-storia-ripasso-eta-rivoluzioni] · LIBERTA
+concetti: La rivoluzione americana; La rivoluzione francese; La rivoluzione industriale; La Restaurazione
+- Quale di queste rivoluzioni politiche iniziò per prima?
+- Gli Stati Uniti nacquero subito come repubblica, mentre la Francia diventò repubblica solo nel 1792, dopo tre…
+- Il periodo dopo il 1815, in cui i sovrani cercarono di riportare l'Europa a com'era prima della Rivoluzione, …
+- Perché si parla di «rivoluzione» industriale anche se non ci furono battaglie?
+- Quale di queste novità restò in vigore in Francia anche dopo la caduta di Napoleone?
+- Quale idea avevano in comune la rivoluzione americana e quella francese?
+- Metti in ordine cronologico questi eventi.
+- Scegli due rivoluzioni di quest'epoca (americana, francese, industriale) e spiega con parole tue che cosa cam…
+
 ## Robespierre e il Terrore [lib-2-media-storia-terrore-robespierre] · TERRORE
 concetti: Girondini e giacobini; Robespierre e il Comitato; Il Terrore; Termidoro e Direttorio
 - Chi guidò il Comitato di salute pubblica durante il Terrore?
@@ -475,6 +926,17 @@ concetti: Girondini e giacobini; Robespierre e il Comitato; Il Terrore; Termidor
 - Come finì Robespierre?
 - La rivoluzione era nata per difendere libertà e diritti, ma con il Terrore molte persone furono condannate se…
 
+## Savonarola e il falò delle vanità [lib-2-media-storia-savonarola-firenze] · ROGO
+concetti: Un frate predicatore; Firenze senza i Medici; Il falò delle vanità; La caduta
+- Che cosa criticava Savonarola nelle sue prediche?
+- Nel 1494 i Medici furono cacciati da Firenze.
+- Nel 1497 i seguaci di Savonarola organizzarono il falò delle ___.
+- Quale papa scomunicò Savonarola?
+- A quale ordine religioso apparteneva Savonarola?
+- Perché alla fine i Fiorentini abbandonarono Savonarola?
+- Metti in ordine cronologico questi eventi fiorentini.
+- Bruciare libri e quadri ti sembra un buon modo per rendere migliori le persone? Spiega con parole tue.
+
 ## Sola fede, sola Scrittura [lib-2-media-storia-idee-di-lutero] · BIBBIA
 concetti: La salvezza per fede; La sola Scrittura; Sacerdozio universale e sacramenti; La pace di Augusta; Perché «protestanti»
 - In quale lingua Lutero tradusse la Bibbia?
@@ -485,6 +947,17 @@ concetti: La salvezza per fede; La sola Scrittura; Sacerdozio universale e sacra
 - Che cosa vuol dire «sacerdozio universale»?
 - Nel 1555 la pace di Augusta stabilì che ogni principe sceglieva la religione del suo Stato. Che cosa signific…
 - Spiega con parole tue la differenza tra l'idea cattolica e quella di Lutero su come ci si salva.
+
+## Tommaso Moro e l'isola di Utopia [lib-2-media-storia-tommaso-moro-utopia] · UTOPIA
+concetti: Un umanista inglese; Il libro Utopia; Una critica al suo tempo; Fedele alla coscienza
+- Di quale Paese era Tommaso Moro?
+- Tommaso Moro era amico di Erasmo da Rotterdam.
+- Nel 1516 Moro pubblicò ___, il libro che descrive un'isola immaginaria con una società perfetta.
+- Che cosa NON esisteva nell'isola di Utopia?
+- Perché Moro descrisse una società perfetta su un'isola immaginaria?
+- Nel libro di Moro si dice che in Inghilterra «le pecore mangiano gli uomini». Che cosa voleva denunciare?
+- Metti in ordine cronologico questi eventi.
+- Moro preferì morire piuttosto che giurare qualcosa contro la sua coscienza. Che cosa pensi della sua scelta? …
 
 ## Tre geni del Cinquecento [lib-2-media-storia-leonardo-michelangelo-raffaello] · GENIO
 concetti: Leonardo da Vinci; Michelangelo Buonarroti; Raffaello Sanzio; La Roma dei papi
@@ -508,6 +981,17 @@ concetti: La defenestrazione di Praga; Da fede a potere; Una Germania devastata;
 - Quale fu una conseguenza della pace di Vestfalia per il Sacro Romano Impero?
 - La guerra dei Trent'anni iniziò come guerra di religione e finì come guerra di potere tra Stati. Spiega con p…
 
+## Tricolore, Marsigliese e metro [lib-2-media-storia-simboli-rivoluzione-francese] · METRO
+concetti: Bandiera e motto; La Marsigliese; Il calendario rivoluzionario; Il sistema metrico decimale
+- Quali sono i colori del tricolore francese?
+- La Marsigliese è ancora oggi l'inno nazionale della Francia.
+- Il motto della Rivoluzione era «Libertà, uguaglianza, ___».
+- Da dove prende il nome la Marsigliese?
+- Quanti giorni durava una settimana nel calendario rivoluzionario?
+- Perché i rivoluzionari introdussero un sistema di misure uguale per tutta la Francia?
+- Metti in ordine cronologico questi eventi.
+- Il calendario rivoluzionario fu abolito, il sistema metrico invece si usa ancora in quasi tutto il mondo. Per…
+
 ## Ugonotti e l'Editto di Nantes [lib-2-media-storia-ugonotti-editto-di-nantes] · PACE
 concetti: Cattolici e ugonotti; La notte di San Bartolomeo; Enrico IV; L'Editto di Nantes
 - Tra chi si combatterono le guerre di religione in Francia nel Cinquecento?
@@ -530,6 +1014,28 @@ concetti: Giacomo II e i timori; La Gloriosa rivoluzione; Il Bill of Rights; La 
 - Quale di queste azioni sarebbe stata VIETATA al re d'Inghilterra dopo il Bill of Rights?
 - Confronta la monarchia inglese dopo il 1689 con una monarchia assoluta: qual è la differenza principale? Spie…
 
+## Utrecht 1713: l'Europa ridisegnata [lib-2-media-storia-successione-spagnola-utrecht] · UTRECHT
+concetti: Un trono senza erede; La paura di un superpotere; La pace di Utrecht; Chi ottenne cosa
+- Perché scoppiò la guerra di successione spagnola?
+- Le altre potenze temevano che Francia e Spagna si unissero sotto un solo sovrano.
+- Con la pace di Utrecht l'Inghilterra ottenne la rocca di ___, all'ingresso del Mediterraneo.
+- Di chi era nipote Filippo d'Angiò, nuovo re di Spagna?
+- Quale condizione dovette accettare Filippo V per restare re di Spagna?
+- Quale potenza ottenne Milano e Napoli dopo la guerra?
+- Che cosa significa «equilibrio europeo»?
+- Dopo la guerra di successione spagnola l'Italia cambiò padrone in molte regioni senza essere consultata. Che …
+
+## Venezia, la Serenissima Repubblica [lib-2-media-storia-venezia-serenissima] · DOGE
+concetti: Una repubblica di nobili; L'Arsenale e il mare; Lo Stato di terraferma; Il lento declino
+- Come si chiamava il capo della Repubblica di Venezia?
+- Il doge di Venezia aveva un potere assoluto e decideva tutto da solo.
+- Le navi veneziane venivano costruite nell'___, un enorme cantiere.
+- Quale di queste città faceva parte dello Stato di terraferma veneziano?
+- Su quale attività si basava soprattutto la ricchezza di Venezia?
+- Perché le scoperte geografiche danneggiarono Venezia?
+- Fino a quando rimase indipendente la Repubblica di Venezia?
+- Perché pensi che Venezia, città sul mare, abbia voluto conquistare anche città di terraferma? Spiega con paro…
+
 ## Verso ovest per le Indie [lib-2-media-esplorazioni] · BUSSOLA
 concetti: Perché partire verso le Indie; Navi e strumenti nuovi; Le grandi rotte oceaniche; Colombo e il 1492; Un nuovo continente
 - Nel Quattrocento molti navigatori europei cercavano una nuova strada per le Indie. Che cosa volevano procurar…
@@ -541,6 +1047,39 @@ concetti: Perché partire verso le Indie; Navi e strumenti nuovi; Le grandi rott
 - Se un cuoco italiano del Trecento avesse voluto preparare la pasta al pomodoro, non ci sarebbe riuscito. Perc…
 - Perché il 1492 viene considerato l'inizio di una nuova epoca, l'età moderna? Spiega con parole tue.
 
+## Vesalio, Harvey e il corpo umano [lib-2-media-storia-vesalio-harvey-corpo] · CUORE
+concetti: La medicina di Galeno; Vesalio e l'anatomia; Harvey e la circolazione; Malpighi e il microscopio
+- Su che cosa si basava soprattutto la medicina prima di Vesalio?
+- Vesalio studiò l'anatomia sezionando direttamente corpi umani.
+- Harvey dimostrò che il cuore funziona come una ___ che spinge il sangue.
+- In quale università insegnò Vesalio?
+- Che cosa osservò Malpighi con il microscopio?
+- Quale anno vide sia il trattato di Vesalio sia il libro di Copernico sul Sole al centro?
+- Metti in ordine cronologico queste tappe della medicina.
+- Che cosa hanno in comune le scoperte di Vesalio, Harvey e Malpighi con il metodo di Galileo? Spiega con parol…
+
+## Vespucci dà il nome all'America [lib-2-media-storia-tordesillas-vespucci] · AMERICA
+concetti: Il trattato di Tordesillas; Chi prendeva cosa; Amerigo Vespucci; Il nome America
+- Di quale città era Amerigo Vespucci?
+- Il trattato di Tordesillas fu firmato tra Spagna e Inghilterra.
+- Vespucci capì che le terre raggiunte erano un ___ Mondo e non l'Asia.
+- Perché in Brasile oggi si parla portoghese?
+- Chi diede per primo il nome America al nuovo continente su una carta?
+- Che cosa credette Colombo fino alla morte?
+- Metti in ordine cronologico questi eventi.
+- Spagna e Portogallo si divisero terre abitate da altri popoli senza chiedere il loro parere. Che cosa ne pens…
+
+## Vienna assediata dai Turchi [lib-2-media-storia-assedio-vienna-1683] · ASSEDIO
+concetti: L'assedio del 1683; La battaglia del Kahlenberg; Eugenio di Savoia; Il declino ottomano
+- Quale città assediarono gli Ottomani nel 1683?
+- L'esercito che liberò Vienna era guidato dal re di Polonia.
+- Il giovane ___ di Savoia diventò poi un grande generale al servizio dell'Austria.
+- Chi guidava l'esercito ottomano a Vienna?
+- Che cosa ottenne l'Austria con la pace di Karlowitz del 1699?
+- Perché la vittoria di Vienna fu una svolta?
+- Metti in ordine cronologico questi eventi.
+- Perché pensi che diversi Stati cristiani, spesso nemici tra loro, si unirono per difendere Vienna? Spiega con…
+
 ## Vienna rimette ordine in Europa [lib-2-media-storia-congresso-di-vienna] · VIENNA
 concetti: Il Congresso di Vienna; Legittimità ed equilibrio; L'Italia divisa; Santa Alleanza e società segrete
 - Quale ministro austriaco fu il protagonista del Congresso di Vienna?
@@ -551,6 +1090,17 @@ concetti: Il Congresso di Vienna; Legittimità ed equilibrio; L'Italia divisa; S
 - Che cos'era la Santa Alleanza?
 - Perché società come la Carboneria dovevano essere segrete?
 - Metternich voleva riportare l'Europa a com'era prima della rivoluzione. Secondo te era possibile cancellare d…
+
+## Volta, Lavoisier e la scienza nuova [lib-2-media-storia-volta-lavoisier] · PILA
+concetti: Franklin e il fulmine; La mongolfiera; Lavoisier e la chimica; La pila di Volta
+- Che cosa inventò Benjamin Franklin?
+- La mongolfiera dei fratelli Montgolfier volava grazie all'aria calda.
+- Dal nome di Alessandro Volta deriva l'unità di misura chiamata ___.
+- Quale principio scoprì Lavoisier?
+- In un recipiente chiuso fai avvenire una reazione chimica. Che cosa succede alla massa totale?
+- Di quale città era Alessandro Volta?
+- Metti in ordine cronologico queste scoperte.
+- Lavoisier fu ghigliottinato durante il Terrore e un giudice avrebbe detto: «La Repubblica non ha bisogno di s…
 
 ## Voltaire e Rousseau [lib-2-media-storia-voltaire-rousseau] · PATTO
 concetti: Voltaire e la tolleranza; La lotta al fanatismo; Il contratto sociale; La sovranità popolare

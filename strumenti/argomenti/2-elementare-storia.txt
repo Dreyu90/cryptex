@@ -1,5 +1,5 @@
 # 2ª elementare · Storia: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## A scuola con il calamaio [lib-2-elementare-storia-scuola-di-una-volta] · PENNINO
@@ -32,7 +32,7 @@ concetti: I pasti in ordine; Un ciclo quotidiano; Il tempo fra i pasti
 - Metti in ordine i pasti della giornata.
 - Fai colazione alle 7 e pranzi alle 12. Quante ore passano?
 - Fai merenda alle 16 e ceni alle 20. Quante ore passano?
-- Perché si dice che i pasti sono un ciclo?
+- Ieri hai pranzato verso le 12. Più o meno a che ora pranzerai domani?
 - Perché non si fa merenda subito dopo pranzo? Spiega pensando al tempo che passa tra i pasti.
 
 ## Cose che tornano sempre [lib-2-elementare-storia-cicli-temporali] · CICLO
@@ -73,7 +73,7 @@ concetti: Ieri e l'altro ieri; Domani e dopodomani; Contare i giorni
 - Come si chiama il giorno che viene dopo domani?
 - L'altro ieri viene prima di ieri.
 - Oggi è giovedì: ieri era ___.
-- Metti in ordine, dal giorno più lontano nel passato al più lontano nel futuro.
+- Sara racconta: «L'altro ieri sono andata al cinema, ieri ho giocato al parco, domani andrò dalla nonna e dopo…
 - Oggi è lunedì. Che giorno era l'altro ieri?
 - Oggi è venerdì. Che giorno sarà dopodomani?
 - La festa di Sara è dopodomani. Quante notti deve dormire prima della festa?
@@ -92,7 +92,7 @@ concetti: Luce con la fiamma; La lampadina; Che cosa è cambiato
 
 ## Dalla prima alla seconda [lib-2-elementare-storia-dalla-prima-alla-seconda] · SECONDA
 concetti: Che cosa ho imparato; Che cosa è cambiato in me; Le fonti della classe
-- Quale fonte mostra meglio come scrivevi in prima?
+- Quale fonte ti ricorda com'era la tua classe in prima?
 - Da quando eri in prima a oggi non sei cambiato per niente.
 - In prima elementare si impara a leggere e a ___.
 - Metti in ordine queste tappe della scuola.
@@ -150,7 +150,7 @@ concetti: Più fonti sono meglio; Fonti che concordano; Fonti che non concordano
 - Perché lo storico usa più fonti per lo stesso fatto?
 - Se una foto e un racconto dicono la stessa cosa, l'informazione è più sicura.
 - Se due fonti non sono d'accordo, si cerca una ___ fonte.
-- Il nonno ricorda che la scuola fu costruita nel 1960, ma sulla targa c'è 1962. Che cosa conviene fare?
+- La zia dice che il negozio di giocattoli del paese aprì d'estate, lo zio dice d'inverno. Quale fonte ti aiuta…
 - La mamma dice che sei nato di martedì e anche il certificato lo dice. Che cosa puoi pensare?
 - Perché il ricordo di una persona può avere qualche errore?
 - Se due fonti dicono cose diverse, una delle due è stata per forza inventata apposta.
@@ -194,9 +194,9 @@ concetti: Giorni feriali; Giorni festivi; Il fine settimana
 - Quale di questi è un giorno festivo?
 - Il fine settimana è formato da sabato e domenica.
 - Il lunedì, giorno di scuola e di lavoro, è un giorno ___.
-- Quest'anno il 25 dicembre cade di mercoledì. Che tipo di giorno è?
-- In una settimana senza feste, quanti giorni ci sono dal lunedì al venerdì?
-- Sabato e domenica sono gli unici giorni feriali della settimana.
+- Immagina che il 25 dicembre cada di mercoledì. Che tipo di giorno è?
+- Il papà lavora in un negozio dal lunedì al sabato. Quanti giorni lavora in una settimana?
+- Nei giorni feriali tutti gli uffici e le scuole restano chiusi.
 - Perché sabato e domenica si chiamano «fine settimana»?
 - Che cosa fai di diverso in un giorno feriale e in un giorno festivo? Racconta.
 
@@ -247,8 +247,8 @@ concetti: Il passato; Il presente; Il futuro
 ## I dentini che cadono [lib-2-elementare-storia-denti-da-latte] · DENTINO
 concetti: I denti da latte; Cadono e ricrescono; Un segno del tempo
 - Quanti sono i denti da latte?
-- Quando cade un dente da latte, al suo posto ne spunta uno nuovo.
-- I denti da latte cominciano a cadere verso i ___ anni.
+- I denti da latte cadono tutti nello stesso giorno.
+- Al posto dei denti da latte spuntano i denti ___.
 - Metti in ordine queste fasi.
 - Ti è caduto un dentino. Che cosa ti dice questo fatto?
 - Un adulto ha in tutto 32 denti. Quanti sono in più rispetto ai 20 denti da latte?
@@ -312,12 +312,12 @@ concetti: Quattro stagioni; Un ciclo che ritorna; I segni delle stagioni
 
 ## Il grande ripasso di seconda [lib-2-elementare-storia-ripasso-grande-seconda] · PASSATO
 concetti: Successione e contemporaneità; Le fonti; I cicli; Famiglia e generazioni
-- Una vecchia lettera della bisnonna è una fonte...
-- Il giorno e la notte si alternano in un ciclo.
-- Mentre io disegno, mia sorella legge: le due azioni sono ___.
+- Una vecchia moneta trovata in giardino è una fonte...
+- Natale torna ogni anno: è un esempio di ciclo.
+- Ho fatto i compiti e poi sono uscito a giocare: le due azioni sono ___.
 - La mamma della tua mamma è tua...
 - Metti in ordine queste azioni della giornata.
-- Quale di questi fatti è un ciclo?
+- Che cosa hanno in comune la settimana e le stagioni?
 - Perché lo storico ha bisogno delle fonti?
 - Racconta tre cose che hai imparato quest'anno in storia, usando le parole prima, poi e infine.
 
@@ -334,7 +334,7 @@ concetti: Che cos'è un diario; La data; Una fonte per il futuro
 
 ## Il mio primo giorno di scuola [lib-2-elementare-storia-primo-giorno-di-scuola] · ZAINO
 concetti: Un giorno speciale; Le fonti di quel giorno; Emozioni e ricordi
-- In quale mese è stato di solito il primo giorno di scuola elementare?
+- In quale classe hai vissuto il tuo primo giorno di scuola elementare?
 - Il primo giorno di scuola elementare è una tappa della tua storia personale.
 - Una ___ scattata quel giorno mostra come eri vestito.
 - Quale fonte ti dice che cosa hai scritto nei primi giorni di scuola?
@@ -450,7 +450,7 @@ concetti: Che cos'è l'orario; Leggere la tabella; Un ritmo che si ripete
 - L'orario dice: lunedì Italiano, poi Matematica, poi Storia. Che cosa c'è alla seconda ora?
 - Questo martedì c'è Musica alla terza ora. Che cosa ci sarà alla terza ora del martedì dopo?
 - Il giovedì Leo ha Ginnastica. Che cosa deve mettere nello zaino il mercoledì sera?
-- Venerdì ci sono: alla prima ora Inglese, alla seconda Scienze, alla terza Arte. Metti in ordine le lezioni.
+- Metti in ordine una mattina a scuola.
 - Perché conoscere l'orario ti aiuta a preparare lo zaino la sera prima?
 
 ## L'orologio con i numeri [lib-2-elementare-storia-orologio-digitale] · CIFRE
@@ -494,7 +494,7 @@ concetti: Svegli all'alba; Lavori per aiutare; Le sere senza TV
 - Metti in ordine la giornata di un bambino di campagna di tanto tempo fa.
 - Perché tanti bambini di una volta andavano a scuola a piedi?
 - In che anno ha cominciato a trasmettere la televisione in Italia?
-- Quale lavoro faceva spesso un bambino di campagna prima della scuola?
+- Perché anche i bambini di campagna dovevano aiutare nei lavori?
 - Confronta la tua giornata con quella di un bambino di campagna di tanto tempo fa. Che cosa è diverso?
 
 ## La luna cambia faccia [lib-2-elementare-storia-fasi-della-luna] · LUNA
@@ -543,7 +543,7 @@ concetti: La storia personale; Chi mi aiuta a ricordare; La mia storia continua
 
 ## La musica dei nonni [lib-2-elementare-storia-musica-di-una-volta] · DISCO
 concetti: Musica dal vivo; Dischi e cassette; La musica di oggi
-- Prima dell'invenzione dei dischi, come si ascoltava la musica?
+- Prima che si inventassero gli apparecchi per registrare i suoni, come si ascoltava la musica?
 - Oggi si può ascoltare musica dal telefono senza usare dischi.
 - Il disco nero che si ascoltava sul giradischi è il disco di ___.
 - Metti in ordine questi oggetti per ascoltare musica, dal più antico al più recente.
@@ -589,12 +589,12 @@ concetti: Ogni oggetto ha una storia; Segni del tempo; Ricostruire la storia
 concetti: Azioni in sequenza; Se cambi l'ordine; Parole che guidano
 - Che cosa fai per primo quando prepari una torta?
 - Si può mettere la torta in forno prima di aver mescolato l'impasto.
-- Prima rompi le uova, ___ aggiungi lo zucchero.
+- ___ di accendere il forno, chiedi aiuto a un adulto.
 - Metti in ordine i passi per fare la torta.
 - Luca ha messo la panna sulla torta prima di cuocerla. Che cosa è successo?
 - Quale parola indica l'ultimo passo di una ricetta?
 - Perché nelle ricette i passi sono numerati?
-- Racconta in ordine come prepari un panino con la marmellata. Usa le parole prima, poi, infine.
+- Racconta in ordine come prepari un frullato di frutta insieme a un adulto. Usa le parole prima, poi, infine.
 
 ## Le età della vita [lib-2-elementare-storia-eta-della-vita] · NEONATO
 concetti: Le età; Ogni età ha le sue attività; Tante età in una famiglia
@@ -609,12 +609,12 @@ concetti: Le età; Ogni età ha le sue attività; Tante età in una famiglia
 
 ## Le feste di tutti gli italiani [lib-2-elementare-storia-feste-nel-calendario] · PASQUA
 concetti: Feste a data fissa; Feste a data mobile; Feste nazionali
-- In che giorno si festeggia sempre il Natale?
+- Quale di queste feste cade sempre nello stesso giorno?
 - La Pasqua cade ogni anno nello stesso giorno.
 - Il 2 giugno si festeggia la Festa della ___.
 - Che cosa si festeggia il 1° maggio?
 - Quale festa cade sempre il 6 gennaio?
-- Metti in ordine queste feste come arrivano nell'anno.
+- Metti in ordine queste feste come arrivano, partendo da dicembre.
 - In quale stagione cade sempre la Pasqua?
 - Spiega la differenza tra una festa a data fissa e una a data mobile, con un esempio per tipo.
 
@@ -631,11 +631,11 @@ concetti: Lancette e ore; Ore e minuti; Leggere l'ora
 
 ## Le parole che segnano il tempo [lib-2-elementare-storia-connettivi-temporali] · INTANTO
 concetti: Parole di successione; Parole di contemporaneità; Inizio e fine del racconto
-- Con quali parole cominciano spesso le fiabe?
-- Nella frase «Mentre la mamma cucina, io apparecchio» le due azioni avvengono nello stesso momento.
+- Con quale frase finiscono spesso le fiabe?
+- Nella frase «Prima mi lavo le mani, poi mangio» le due azioni avvengono nello stesso momento.
 - Mi sono lavato i denti e ___ sono andato a letto.
 - Metti in ordine queste parole come compaiono in un racconto.
-- Quale parola indica due fatti che succedono insieme?
+- In quale frase le due azioni succedono insieme?
 - «Prima ho fatto i compiti, poi ho giocato.» Che cosa è successo per primo?
 - «Dopo pranzo siamo andati al parco.» Quando siamo andati al parco?
 - Inventa una frase con «mentre» e una con «poi». Spiega che differenza c'è.
@@ -686,10 +686,10 @@ concetti: Mestieri quasi scomparsi; Che cosa facevano; Perché sono cambiati
 
 ## Mezzogiorno o mezzanotte? [lib-2-elementare-storia-mezzogiorno-mezzanotte] · GIORNO
 concetti: Un giorno di 24 ore; Mezzogiorno; Mezzanotte
-- Quante ore dura un giorno intero?
+- Sull'orologio digitale, come si scrive la mezzanotte?
 - A mezzogiorno di solito c'è la luce del sole.
 - Quando è ___ finisce un giorno e ne comincia un altro.
-- Metti in ordine questi momenti, partendo da mezzanotte.
+- Metti in ordine questi momenti, da una mezzanotte a quella dopo.
 - Quale pasto si fa di solito verso mezzogiorno?
 - Sono le 23 di lunedì. Fra un'ora sarà mezzanotte: che giorno comincerà?
 - Perché mezzogiorno si chiama così?
@@ -796,14 +796,14 @@ concetti: La causa; L'effetto; Prima la causa, poi l'effetto
 
 ## Piccoli giornalisti del passato [lib-2-elementare-storia-preparare-intervista] · DOMANDA
 concetti: Preparare le domande; Ascoltare e registrare; Domande utili
-- Che cosa fai prima di intervistare il nonno?
+- Quale di queste è una domanda chiara e precisa da fare al nonno?
 - Durante l'intervista è importante interrompere spesso chi parla.
 - Per sapere in che anno il nonno è andato a scuola chiedo: «___ sei andato a scuola?»
 - Prima di registrare la voce del nonno, che cosa devi fare?
 - Quale domanda ti dà più informazioni?
-- Perché è utile registrare l'intervista o prendere appunti?
+- Durante l'intervista scrivi anche il nome di chi parla e la data. Perché?
 - Vuoi sapere dove abitava la nonna da piccola. Quale domanda fai?
-- Scrivi tre domande che faresti a un nonno per scoprire com'erano i giochi della sua infanzia.
+- Vuoi scoprire come andava a scuola la nonna da bambina. Scrivi tre domande usando parole come dove, come, chi…
 
 ## Pietre che ricordano [lib-2-elementare-storia-monumenti-e-lapidi] · LAPIDE
 concetti: Il monumento; La lapide; Fonti all'aperto
@@ -819,7 +819,7 @@ concetti: Il monumento; La lapide; Fonti all'aperto
 ## Prima di noi: i dinosauri [lib-2-elementare-storia-tempo-lunghissimo] · FOSSILE
 concetti: Un tempo lunghissimo; I dinosauri; I fossili
 - Gli esseri umani hanno mai visto un dinosauro vivo?
-- I fossili sono resti o impronte di esseri viventi del passato diventati di pietra.
+- Un fossile può essere anche l'impronta di un animale rimasta nella pietra.
 - I dinosauri sono scomparsi circa 66 ___ di anni fa.
 - Metti in ordine, dal più antico al più recente.
 - Come facciamo a sapere com'erano fatti i dinosauri?
@@ -919,7 +919,7 @@ concetti: Fonti materiali; Fonti scritte; Fonti orali; Fonti visive
 concetti: Oggetti che cambiano; La fatica di una volta; Non sprecare
 - Quale oggetto di una volta è un antenato dell'automobile?
 - Senza lavatrice e corrente, molti lavori di casa richiedevano più tempo e fatica.
-- Una volta i vestiti rotti si ___ invece di buttarli.
+- Una volta le bottiglie di vetro vuote non si buttavano: si ___.
 - Il giradischi di una volta serviva per...
 - Quale coppia mostra un oggetto di una volta e uno di oggi con lo stesso scopo?
 - Perché una volta i lavori di casa duravano tanto?
@@ -928,14 +928,14 @@ concetti: Oggetti che cambiano; La fatica di una volta; Non sprecare
 
 ## Ripasso: giorni, mesi e stagioni [lib-2-elementare-storia-ripasso-calendario] · ANNO
 concetti: La settimana; I mesi; Le stagioni; Le date
-- Quanti giorni ha giugno?
-- In un anno ci sono 4 stagioni.
-- Due settimane sono ___ giorni.
-- Nella data 21/03/2027, quale numero indica il mese?
+- Quanti giorni ha dicembre?
+- Le stagioni tornano ogni anno sempre nello stesso ordine.
+- Oggi è lunedì: fra 7 giorni sarà di nuovo ___.
+- Marco è nato il 10/09/2019. In quale mese festeggia il compleanno?
 - In quale stagione cade il 15 agosto?
 - Oggi è il 28 febbraio di un anno non bisestile. Che giorno sarà domani?
-- Metti in ordine queste date dello stesso anno.
-- Qual è la tua stagione preferita? Di' più o meno in quali mesi cade e che cosa succede in natura.
+- Metti in ordine queste date dello stesso anno, scritte in cifre.
+- Scrivi una data importante per te, in lettere e in cifre, e spiega che cosa indica ogni numero.
 
 ## Ripasso: i cicli del tempo [lib-2-elementare-storia-ripasso-cicli] · RUOTA
 concetti: Il dì e la notte; Settimane e mesi; Le stagioni; Ciclo o non ciclo
@@ -963,11 +963,11 @@ concetti: Successione; Contemporaneità; Durata; Causa ed effetto
 concetti: Tipi di fonti; Fonti in città; Dove si conservano
 - Una vecchia fontana di pietra in piazza è una fonte...
 - Nei musei si conservano oggetti antichi da osservare.
-- Il racconto di un anziano del quartiere è una fonte ___.
+- Un vecchio dipinto della piazza, appeso in municipio, è una fonte ___.
 - Su un palazzo leggi «Casa costruita nel 1820». Che tipo di fonte è questa scritta?
-- Dove si conservano i vecchi documenti del comune?
+- Perché le fonti più preziose si conservano nei musei e negli archivi?
 - Una cartolina di cento anni fa mostra la piazza del paese. Che cosa puoi fare?
-- Una foto antica della piazza è una fonte visiva.
+- Il racconto di un anziano del quartiere è una fonte scritta.
 - Immagina una passeggiata storica nel tuo paese. Quali fonti potresti trovare e che cosa ti racconterebbero?
 
 ## Ripasso: io e la mia famiglia [lib-2-elementare-storia-ripasso-storia-famiglia] · MEMORIA
@@ -983,24 +983,24 @@ concetti: Storia personale; Famiglia e generazioni; Ieri e oggi; La linea del te
 
 ## Ripasso: la mia storia [lib-2-elementare-storia-ripasso-storia-personale] · ALBUM
 concetti: Le tappe; Le fonti personali; La linea del tempo personale
-- Quale fonte ti dice il giorno esatto in cui sei nato?
+- Quale di queste è una fonte orale della tua storia?
 - Di solito un bambino impara a camminare prima di andare a scuola.
-- Se sei nato nel 2019, nel 2026 compi ___ anni.
-- Metti in ordine queste tappe.
+- Sulla linea del tempo personale i fatti della tua vita si mettono in ordine di ___.
+- Metti in ordine queste fonti della tua storia, dalla più vecchia alla più recente.
 - Quale oggetto ti racconta quanto eri piccolo da neonato?
-- Tommaso è nato nel 2019 e ha cominciato la primaria nel 2025. Quanti anni aveva?
+- Tommaso è nato nel 2019, sua sorella Anna nel 2022. Quanti anni ha Tommaso più di Anna?
 - Quale fatto della tua storia è il più recente?
 - Se dovessi preparare una scatola con le fonti della tua storia, che cosa metteresti? Scrivi almeno tre cose.
 
 ## Ripasso: misurare il tempo [lib-2-elementare-storia-ripasso-misurare-tempo] · MISURA
 concetti: Unità di tempo; Gli strumenti; Scegliere l'unità giusta
-- Quale unità useresti per misurare quanto dura uno starnuto?
-- Una settimana è più lunga di un mese.
-- Per vedere i giorni e i mesi di un anno intero si usa il ___.
+- Quale unità useresti per dire quanto dura un cartone animato?
+- Mezz'ora dura più di 20 minuti.
+- La mattina, per svegliarmi all'ora giusta, uso la ___.
 - Quanti minuti ci sono in due ore?
-- Il cronometro serve a misurare durate brevi, come una gara di corsa.
-- Per dire l'età di un albero di cento anni, quale unità è la più adatta?
-- Un mese ha 30 giorni. Quante settimane intere contiene?
+- Il calendario serve a misurare quanti secondi dura uno starnuto.
+- Quale unità è la più adatta per dire quanto dura un viaggio in treno da Milano a Roma?
+- Una gara dura 3 minuti. Quanti secondi sono?
 - Spiega perché non useresti i giorni per misurare quanto dura una partita di calcio.
 
 ## Ripasso: ore, minuti e quarti [lib-2-elementare-storia-ripasso-orologio] · SVEGLIA
@@ -1011,7 +1011,7 @@ concetti: Le lancette; L'orologio digitale; Quarti e mezze ore; Calcolare durate
 - La lancetta lunga è sul 6 e la corta tra il 3 e il 4. Che ore sono?
 - Il film comincia alle 4 e finisce alle 6. Quanto dura?
 - Quale orario digitale corrisponde alle 9 e un quarto di mattina?
-- Metti in ordine questi orari dello stesso pomeriggio.
+- Metti in ordine questi orari della stessa mattina, dal più presto al più tardi.
 - La lezione di nuoto comincia alle 5 e dura tre quarti d'ora. Spiega a che ora finisce e come lo hai calcolato.
 
 ## Scrivo la mia autobiografia [lib-2-elementare-storia-autobiografia] · AUTORE
@@ -1076,7 +1076,7 @@ concetti: Il quarto d'ora; Mezz'ora e tre quarti; Leggere i quarti
 - Tre quarti d'ora durano ___ minuti.
 - La lancetta corta è appena dopo il 4 e la lunga è sul 3. Che ore sono?
 - La lancetta lunga è sul 9 e la corta è quasi sul 6. Che ore sono?
-- Metti in ordine queste parti d'ora, dalla più corta alla più lunga.
+- Metti in ordine questi orari dello stesso pomeriggio, dal più presto al più tardi.
 - La ricreazione comincia alle 10 e dura un quarto d'ora. A che ora finisce?
 - Perché si dice «un quarto d'ora»? Spiega con le tue parole.
 
@@ -1086,7 +1086,7 @@ concetti: Le vignette; Il verso di lettura; Indizi di tempo
 - Le vignette di un fumetto italiano si leggono da destra a sinistra.
 - In una vignetta il gelato è intero, in un'altra è sciolto: la vignetta con il gelato ___ viene prima.
 - Metti in ordine le vignette di questa storia.
-- In una vignetta la candela è lunga, in un'altra è quasi finita. Quale viene dopo?
+- In una vignetta c'è un cagnolino piccolo, in un'altra lo stesso cane è diventato grande. Quale vignetta viene…
 - Hai letto l'ultima vignetta della prima riga. Quale leggi adesso?
 - Perché un fumetto ha tante vignette e non una sola?
 - Hai tre vignette: piove forte, esce l'arcobaleno, le nuvole coprono il cielo. In che ordine le metti? Spiega …

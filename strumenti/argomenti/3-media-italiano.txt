@@ -1,6 +1,17 @@
-# 3ª media · Italiano: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 3ª media · Italiano: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Addio, monti sorgenti dall'acque [lib-3-media-italiano-promessi-sposi-addio-monti] · BARCA
+concetti: Il momento della fuga; Il paesaggio; Chi parla; I temi
+- Con quale mezzo Lucia lascia il suo paese nell'«Addio ai monti»?
+- La fuga avviene dopo il fallimento del matrimonio a sorpresa e del rapimento di Lucia.
+- L'addio inizia così: «Addio, monti sorgenti dall'___, ed elevati al cielo».
+- Chi esprime, nel romanzo, i pensieri di Lucia durante l'addio?
+- Perché il paesaggio è così importante in questa pagina?
+- Quale sentimento domina l'«Addio ai monti»?
+- Con quale pensiero si chiude il brano?
+- Oggi molte persone lasciano il proprio Paese per motivi di lavoro o di guerra. In che cosa l'«Addio ai monti»…
 
 ## Argomenti che convincono [lib-3-media-italiano-tipi-di-argomenti] · PROVA
 concetti: Argomenti basati sui fatti; Argomenti di autorità; Esempi ed esperienza; Argomenti logici e morali
@@ -12,6 +23,83 @@ concetti: Argomenti basati sui fatti; Argomenti di autorità; Esempi ed esperien
 - Quale frase è un argomento morale per sostenere che bisogna aiutare i compagni in difficoltà?
 - Vuoi convincere il consiglio comunale a costruire una pista ciclabile. Quale argomento è più solido?
 - Perché è utile usare argomenti di tipo diverso nello stesso testo? Fai un esempio su un tema a tua scelta.
+
+## Attivo, passivo, riflessivo [lib-3-media-italiano-forme-del-verbo] · AGENTE
+concetti: Transitivi e intransitivi; Forma attiva e passiva; Il complemento d'agente; La forma riflessiva
+- Quale verbo è intransitivo?
+- Solo i verbi transitivi possono essere volti al passivo.
+- Il passivo si forma con l'ausiliare «essere» o con il verbo «___» più il participio passato.
+- Qual è la forma passiva di «Il vento ha abbattuto l'albero»?
+- In «Il ladro è stato fermato dalla polizia», «dalla polizia» è...
+- In «Marco si lava i denti» la forma riflessiva è...
+- Perché un giornale potrebbe scrivere «È stata approvata la nuova legge» invece di «Il Parlamento ha approvato…
+- Scrivi una frase attiva, trasformala al passivo e spiega che cosa cambia nella funzione delle parole.
+
+## Buzzati e la fortezza dell'attesa [lib-3-media-italiano-dino-buzzati] · ATTESA
+concetti: Dino Buzzati; Il deserto dei Tartari; L'attesa e il tempo; Il fantastico
+- Dove viene mandato il tenente Giovanni Drogo?
+- Dino Buzzati lavorò come giornalista al «Corriere della Sera».
+- Per ragazzi Buzzati scrisse «La famosa invasione degli ___ in Sicilia».
+- Che cosa accade quando i Tartari compaiono davvero?
+- Qual è il tema principale del «Deserto dei Tartari»?
+- Perché la Fortezza Bastiani può essere letta come un simbolo?
+- Che cosa caratterizza molti racconti di Buzzati?
+- Drogo aspetta per tutta la vita «la grande occasione». Che cosa può insegnare questo personaggio a chi rimand…
+
+## Calvino tra alberi e città [lib-3-media-italiano-italo-calvino] · ALBERI
+concetti: La vita; I nostri antenati; Il barone rampante; Marcovaldo
+- Quale opera fa parte della trilogia «I nostri antenati»?
+- Cosimo sale sugli alberi dopo un litigio a tavola e decide di non scendere più.
+- Il manovale che cerca la natura nella grande città si chiama ___.
+- Che cosa ha di particolare il cavaliere inesistente?
+- Che cosa rappresenta la scelta di Cosimo di vivere sugli alberi?
+- Perché i racconti di Marcovaldo sono comici e malinconici insieme?
+- In quale Paese nacque Italo Calvino?
+- Marcovaldo cerca la natura in una città piena di cemento. In che cosa il suo problema è ancora attuale?
+
+## Carducci, il primo Nobel italiano [lib-3-media-italiano-carducci] · NOBEL
+concetti: Vita e ruolo; Il poeta dell'Italia unita; Il classicismo; Le poesie più intime
+- Quale primato appartiene a Giosuè Carducci?
+- Carducci insegnò per molti anni all'Università di Bologna.
+- In «Pianto antico» l'albero a cui il poeta tendeva la mano del figlio è il verde ___.
+- Che cosa sono le «Odi barbare»?
+- Perché Carducci fu chiamato poeta «vate»?
+- Quale immagine apre la poesia «San Martino»?
+- Che cosa rende Carducci diverso da poeti come Pascoli che verranno dopo di lui?
+- In «Pianto antico» la natura rifiorisce ma il bambino non tornerà. Perché questo contrasto rende così forte i…
+
+## Cavalleria rusticana: onore e gelosia [lib-3-media-italiano-verga-cavalleria-rusticana] · ONORE
+concetti: La novella; La trama; Il codice d'onore; Dalla pagina alla scena
+- In quale raccolta di novelle si trova «Cavalleria rusticana»?
+- Quando Turiddu torna dal servizio militare, Lola ha già sposato compare Alfio.
+- L'opera lirica tratta da «Cavalleria rusticana» fu composta da Pietro ___.
+- Che cosa significa il titolo «Cavalleria rusticana»?
+- Perché Turiddu corteggia Santa?
+- Metti in ordine gli eventi della novella.
+- Come racconta Verga la morte di Turiddu, secondo la tecnica verista?
+- Oggi la vendetta per «onore» è considerata un crimine. Che cosa ci fa capire la novella sul peso delle regole…
+
+## Ciò che le parole suggeriscono [lib-3-media-italiano-denotazione-e-connotazione] · ALONE
+concetti: La denotazione; La connotazione; Sinonimi con sfumature; Connotazione nei testi
+- Che cos'è la denotazione di una parola?
+- Nella pubblicità le parole vengono scelte anche per le emozioni che suscitano.
+- Tra «snello», «magro» e «secco», la parola con connotazione più negativa è «___».
+- Perché un testo scientifico preferisce parole denotative?
+- Quale coppia di parole ha la stessa denotazione ma connotazione diversa?
+- Nella poesia «La nebbia agli irti colli», che effetto ha la parola «irti»?
+- Quale frase usa la parola «cuore» in senso connotativo?
+- Scegli una parola come «mare», «neve» o «scuola» e spiegane la denotazione e una possibile connotazione.
+
+## Come nascono le parole [lib-3-media-italiano-formazione-delle-parole] · RADICE
+concetti: La derivazione; L'alterazione; I falsi alterati; La composizione
+- Quale parola è formata con un prefisso?
+- «Mattone» è un accrescitivo di «matto».
+- «Casaccia» contiene un suffisso ___.
+- Quale parola è composta?
+- Quale di queste parole è un falso alterato?
+- Che cosa esprime il suffisso in «gentilezza»?
+- Perché conoscere prefissi e suffissi ti aiuta a capire parole che non hai mai letto?
+- Partendo dalla parola «fiore», forma una parola derivata, una alterata e una composta e spiega come le hai co…
 
 ## Come, con che cosa, più di [lib-3-media-italiano-modale-strumentale-comparativa] · MANIERA
 concetti: Modale; Strumentale; Comparativa; Il gerundio dai tanti valori
@@ -35,6 +123,17 @@ concetti: A che cosa servono; Per la tesi e per aggiungere; Per opporre e conced
 - Metti in ordine i connettivi come compaiono in un testo argomentativo costruito secondo lo schema classico.
 - Scrivi due frasi su un tema a tua scelta, collegandole prima con «inoltre» e poi con «tuttavia». Spiega come …
 
+## Consecutio: i tempi in accordo [lib-3-media-italiano-concordanza-dei-tempi] · ACCORDO
+concetti: Che cos'è la concordanza; Reggente al presente; Reggente al passato; Errori frequenti
+- Che cosa regola la concordanza dei tempi?
+- Nello scritto, «Pensavo che tu eri già partito» è la forma corretta.
+- Credo che ieri Luca ___ alla festa.
+- Completa: «Speravo che tu ___ con noi il giorno dopo».
+- Nel periodo «Sapevo che Anna era stanca» che rapporto di tempo c'è tra le due azioni?
+- Quale periodo rispetta la concordanza dei tempi?
+- Perché in «Penso che domani pioverà» si usa l'indicativo futuro?
+- Spiega perché «Pensavo che tu fossi a casa» e «Pensavo che tu fossi stato a casa» non hanno lo stesso signifi…
+
 ## Così tanto che... la consecutiva [lib-3-media-italiano-subordinata-consecutiva] · EFFETTO
 concetti: Che cos'è la consecutiva; Le parole-segnale; Forma implicita; Consecutiva o causale?
 - In «Ha piovuto così tanto che il fiume è straripato», quali parole anticipano la consecutiva?
@@ -45,6 +144,17 @@ concetti: Che cos'è la consecutiva; Le parole-segnale; Forma implicita; Consecu
 - In «Sei troppo giovane per guidare l'auto», che cos'è «per guidare l'auto»?
 - In quale periodo «che» introduce una consecutiva?
 - Con i fatti «c'era tanto traffico» e «siamo arrivati in ritardo» scrivi un periodo con una causale e uno con …
+
+## Crepuscolari: le piccole cose [lib-3-media-italiano-crepuscolari] · PICCOLE
+concetti: Il nome; I temi; Contro il poeta vate; Guido Gozzano
+- Che cosa evoca il nome «crepuscolari»?
+- I crepuscolari ammiravano la figura del poeta eroe e solenne alla maniera di D'Annunzio.
+- Gozzano ricorda nel salotto di nonna Speranza «le buone cose di pessimo ___».
+- Quale soggetto sceglierebbe un poeta crepuscolare?
+- Chi scrisse «Perché tu mi dici: poeta? / Io non sono un poeta»?
+- In che cosa crepuscolari e futuristi sono opposti?
+- Perché l'ironia è importante nella poesia di Gozzano?
+- Scegli un oggetto «piccolo» e quotidiano della tua casa e spiega perché potrebbe diventare il soggetto di una…
 
 ## D'Annunzio, il Vate esteta [lib-3-media-italiano-dannunzio] · PIOGGIA
 concetti: Una vita da protagonista; L'estetismo; Il superuomo; Alcyone e la musicalità
@@ -57,6 +167,17 @@ concetti: Una vita da protagonista; L'estetismo; Il superuomo; Alcyone e la musi
 - Quale impresa compì D'Annunzio nel 1919?
 - Perché si dice che «La pioggia nel pineto» è una poesia «musicale»? Fai riferimento ai suoni e alle parole.
 
+## Dal complemento alla subordinata [lib-3-media-italiano-dal-complemento-alla-subordinata] · GEMELLO
+concetti: Le corrispondenze; Soggettiva e oggettiva; La relativa come attributo; Perché trasformare
+- In «Per la pioggia la gita è rinviata» c'è un complemento di causa. Quale subordinata ha la stessa funzione?
+- La proposizione oggettiva svolge la stessa funzione del complemento oggetto.
+- «Studio per l'esame» contiene un complemento di fine; «Studio per superare l'esame» contiene una proposizione…
+- Nella frase «La signora che abita qui accanto è gentile», a quale elemento corrisponde la relativa?
+- In «Mi piace che tu sia sincero» la soggettiva corrisponde a...
+- Quale subordinata corrisponde al complemento di tempo in «Dopo cena guardiamo un film»?
+- Perché a volte conviene trasformare una subordinata in un complemento?
+- Trasforma «Al suono della campanella gli alunni uscirono» in un periodo con una subordinata e indica di che t…
+
 ## Dal discorso diretto all'indiretto [lib-3-media-italiano-discorso-diretto-indiretto] · DIALOGO
 concetti: Discorso diretto; Discorso indiretto; Cambiano tempi e persone; Cambiano luoghi e tempi
 - Quale frase contiene un discorso diretto?
@@ -67,6 +188,17 @@ concetti: Discorso diretto; Discorso indiretto; Cambiano tempi e persone; Cambia
 - Paolo chiese: «Dove hai messo le chiavi?». Qual è il discorso indiretto corretto?
 - Nel discorso indiretto al passato, come si trasforma di solito l'avverbio «ieri»?
 - Trasforma in discorso indiretto: La mamma disse: «Domani andrò al mercato e comprerò le arance per voi». Poi …
+
+## Dal latino all'italiano [lib-3-media-italiano-dal-latino-all-italiano] · VOLGARE
+concetti: Dal latino al volgare; I primi documenti; Il fiorentino; Una lingua di tutti
+- Da quale lingua deriva l'italiano?
+- Il Placito capuano del 960 è considerato il primo documento ufficiale in volgare italiano.
+- Nel 1525 Pietro ___ propose il fiorentino di Petrarca e Boccaccio come modello della lingua letteraria.
+- Perché proprio il fiorentino diventò la base dell'italiano?
+- Metti in ordine queste tappe della storia dell'italiano.
+- Quale di questi fattori ha contribuito di più a diffondere l'italiano parlato nel Novecento?
+- Perché all'Unità d'Italia pochi italiani parlavano l'italiano?
+- Oggi l'italiano e i dialetti convivono. Perché secondo te è importante conservare anche i dialetti?
 
 ## Dalla frase al periodo [lib-3-media-italiano-periodo-e-proposizioni] · VERBO
 concetti: Frase semplice e periodo; Contare le proposizioni; Principale, coordinate, subordinate; Analisi logica e del periodo
@@ -90,6 +222,17 @@ concetti: Capire la traccia; Raccogliere e ordinare le idee; Stesura e stile; Re
 - Rileggendo il tuo testo trovi «la televisione» ripetuto tre volte in tre righe. Che cosa conviene fare?
 - Perché è importante rileggere il testo prima di consegnarlo? Indica almeno due cose da controllare.
 
+## Dare un voto: la recensione [lib-3-media-italiano-recensione] · PARERE
+concetti: Che cos'è la recensione; Le parti; Il giudizio motivato; Il lettore e lo spoiler
+- Qual è lo scopo principale di una recensione?
+- In una buona recensione si racconta il finale della storia, così il lettore sa già tutto.
+- All'inizio della recensione si indicano i dati dell'opera: titolo, ___, anno e genere.
+- Quale frase contiene un giudizio motivato?
+- Metti in ordine le parti di una recensione.
+- Perché in una recensione è utile dire a chi l'opera potrebbe piacere?
+- Un compagno scrive: «Il film è noioso, perché non mi piacciono i film». Che problema ha questa motivazione?
+- Scrivi due o tre frasi di recensione su un libro o un film che conosci, con un giudizio motivato e senza svel…
+
 ## Decadentismo: oltre le apparenze [lib-3-media-italiano-decadentismo] · SIMBOLO
 concetti: Origine e nome; La crisi del Positivismo; Il poeta veggente; Il Decadentismo in Italia
 - Quale poeta francese scrisse «I fiori del male» (1857), opera fondamentale per il Decadentismo?
@@ -111,6 +254,28 @@ concetti: L'occasione del carme; Le tombe servono ai vivi; Le tombe dei grandi; 
 - Metti in ordine cronologico questi fatti legati ai «Sepolcri».
 - Perché le tombe dei grandi in Santa Croce sono così importanti per Foscolo?
 - Perché, secondo Foscolo, la poesia è ancora più forte delle tombe nel conservare la memoria?
+
+## Dentro la pagina di giornale [lib-3-media-italiano-articolo-di-giornale] · CRONACA
+concetti: Le 5 W; Le parti dell'articolo; La piramide rovesciata; Cronaca ed editoriale
+- Quale di queste domande NON fa parte delle 5 W?
+- Nella piramide rovesciata le informazioni più importanti si trovano alla fine dell'articolo.
+- La breve frase posta sopra il titolo di un articolo si chiama ___.
+- Qual è la differenza principale tra una cronaca e un editoriale?
+- Perché i giornalisti usano la piramide rovesciata?
+- «Ieri pomeriggio, a Bologna, un gruppo di studenti ha ripulito il parco cittadino.» Quale W manca in questo a…
+- Metti in ordine, dall'alto verso il basso, le parti iniziali di un articolo.
+- Spiega perché in un articolo di cronaca il giornalista dovrebbe evitare giudizi personali come «una cosa verg…
+
+## Domande alla luna [lib-3-media-italiano-leopardi-canto-notturno] · LUNA
+concetti: Il pastore e la luna; Una fonte curiosa; Il gregge e la noia; Un'infelicità universale
+- A chi si rivolge il pastore nel «Canto notturno»?
+- Leopardi si ispirò al racconto di un viaggiatore sui pastori nomadi dell'Asia.
+- Il canto si apre con la domanda: «Che fai tu, ___, in ciel?».
+- Perché il pastore invidia il suo gregge?
+- Che cosa significa il verso «è funesto a chi nasce il dì natale»?
+- Che cosa rende originale la scelta del protagonista del canto?
+- In quale fase del pensiero di Leopardi si colloca il «Canto notturno»?
+- Il pastore non sa dare un nome al vuoto che sente anche quando non soffre. Ti è mai capitato di provare noia …
 
 ## Domande nascoste nel periodo [lib-3-media-italiano-interrogativa-indiretta] · DOMANDA
 concetti: Domanda diretta e indiretta; Verbi reggenti; Parole introduttive; Forma esplicita e implicita
@@ -134,6 +299,17 @@ concetti: Forma esplicita; Forma implicita; Trasformare le subordinate; Modi fin
 - Nel periodo «Sapendo che saresti arrivato, ho preparato una torta», com'è la proposizione «che saresti arriva…
 - Trasforma «Siccome era malato, Marco non è venuto a scuola» in forma implicita e spiega che cosa hai cambiato.
 
+## Fabula, intreccio e narratore [lib-3-media-italiano-fabula-intreccio-narratore] · TRAMA
+concetti: Fabula e intreccio; Flashback e anticipazioni; Il narratore; Il punto di vista
+- Che cos'è la fabula?
+- Il flashback interrompe il racconto per narrare fatti accaduti prima.
+- «La coscienza di Zeno» è raccontata in prima persona dal protagonista: il narratore è ___.
+- Un romanzo comincia con un inseguimento e solo dopo spiega come si è arrivati lì. Come si chiama questo inizi…
+- Quale narratore conosce anche i pensieri segreti di tutti i personaggi?
+- «Quel giorno Marta non sapeva ancora che quell'incontro le avrebbe cambiato la vita.» Che cosa contiene quest…
+- Perché un autore può scegliere un intreccio diverso dalla fabula?
+- Racconta in breve la fabula di una storia che conosci e spiega come cambierebbe se l'autore la cominciasse da…
+
 ## Foscolo, poeta senza patria [lib-3-media-italiano-foscolo-vita-e-ortis] · ESULE
 concetti: Una vita tra due patrie; La delusione di Campoformio; Ultime lettere di Jacopo Ortis; L'esilio e le illusioni
 - Dove nacque Ugo Foscolo?
@@ -156,6 +332,39 @@ concetti: Coordinare le proposizioni; Copulative e disgiuntive; Avversative, con
 - Che cosa succede se trasformi «Corro, salto, grido» in «E corro e salto e grido»?
 - Confronta «È tardi, quindi vado a casa» e «Vado a casa, infatti è tardi». Spiega che tipo di coordinata c'è i…
 
+## Futurismo: velocità e macchine [lib-3-media-italiano-futurismo] · VELOCE
+concetti: Il Manifesto; Che cosa esaltava; Le parole in libertà; Arte e autori
+- Chi scrisse il «Manifesto del Futurismo»?
+- I futuristi volevano conservare con cura le tradizioni del passato.
+- Il Manifesto del Futurismo fu pubblicato nel ___ su un giornale francese.
+- Che cosa sono le «parole in libertà»?
+- Quale di questi soggetti avrebbe entusiasmato un futurista?
+- Perché i futuristi usavano molte onomatopee nelle loro poesie?
+- Quale aspetto del Futurismo oggi ci appare più inaccettabile?
+- Che cosa ti sembra ancora attuale nell'entusiasmo futurista per la tecnologia e la velocità, e che cosa invec…
+
+## Gentile Dirigente: la lettera formale [lib-3-media-italiano-lettera-formale-e-email] · FIRMA
+concetti: Le parti della lettera formale; Il registro formale; L'oggetto; L'email formale
+- Quale formula di apertura è adatta a una lettera alla dirigente scolastica?
+- In una lettera formale al sindaco si dà del Lei.
+- La riga che riassume in poche parole il motivo della lettera si chiama ___.
+- Quale oggetto è più adatto a un'email per chiedere un chiarimento sui compiti?
+- Quale frase è scritta in registro formale?
+- Metti in ordine queste parti di una lettera formale.
+- Perché in un'email alla professoressa è sbagliato scrivere solo «Mi manda i compiti?» senza saluto né firma?
+- Scrivi l'inizio e la fine di una lettera formale al sindaco per chiedere una pista ciclabile vicino alla scuo…
+
+## Grazia Deledda, voce della Sardegna [lib-3-media-italiano-grazia-deledda] · CANNE
+concetti: La vita; Il Nobel; La Sardegna; Canne al vento
+- Di quale regione parlano i romanzi di Grazia Deledda?
+- Grazia Deledda è l'unica scrittrice italiana ad aver vinto il premio Nobel per la letteratura.
+- Nel romanzo «Canne al vento» il servo fedele delle sorelle Pintor si chiama ___.
+- Fino a che punto Grazia Deledda frequentò la scuola?
+- Che cosa rappresentano le canne piegate dal vento?
+- Che ruolo ha la Sardegna nei romanzi di Deledda?
+- Perché la vittoria del Nobel da parte di Deledda fu particolarmente significativa nel 1926?
+- La storia di Grazia Deledda, che studiò quasi da sola, che cosa può insegnare a un ragazzo di oggi?
+
 ## I gradi della subordinazione [lib-3-media-italiano-gradi-della-subordinazione] · GRADO
 concetti: Che cos'è una subordinata; Reggente e dipendente; I gradi; Lo schema del periodo
 - Una proposizione subordinata, letta da sola, ha sempre senso compiuto.
@@ -167,6 +376,17 @@ concetti: Che cos'è una subordinata; Reggente e dipendente; I gradi; Lo schema 
 - Quante subordinate di primo grado ci sono in «Quando torno a casa, se ho tempo, ti telefono»?
 - Spiega perché, per capire il grado di una subordinata, devi chiederti da quale proposizione dipende. Inventa …
 
+## I Nobel italiani della letteratura [lib-3-media-italiano-nobel-italiani-letteratura] · PREMIO
+concetti: Il premio Nobel; I primi tre; Dopo la guerra; Il teatro di Dario Fo
+- Chi era Alfred Nobel, che con il suo testamento istituì i premi?
+- Luigi Pirandello ricevette il premio Nobel prima di Grazia Deledda.
+- I premi Nobel vengono consegnati a Stoccolma, capitale della ___.
+- Metti in ordine cronologico i premi Nobel italiani per la letteratura.
+- Quale coppia di poeti italiani vinse il Nobel dopo la Seconda guerra mondiale?
+- Che cosa rende particolare il Nobel assegnato a Dario Fo nel 1997?
+- Quale di questi autori studiati NON ha ricevuto il premio Nobel?
+- Perché secondo te un premio internazionale come il Nobel è importante per la letteratura di un Paese?
+
 ## I sonetti di Foscolo [lib-3-media-italiano-foscolo-sonetti] · SERA
 concetti: Tre sonetti famosi; «Alla sera»; «A Zacinto»; «In morte del fratello Giovanni»
 - Quali sono i tre sonetti più famosi di Foscolo?
@@ -177,6 +397,39 @@ concetti: Tre sonetti famosi; «Alla sera»; «A Zacinto»; «In morte del frate
 - Che cosa riesce a calmare la sera, secondo il sonetto?
 - Quale tema accomuna «A Zacinto» e «In morte del fratello Giovanni»?
 - Perché in «A Zacinto» il paragone con Ulisse rende ancora più triste il destino del poeta?
+
+## Il diario di Anna Frank [lib-3-media-italiano-diario-di-anna-frank] · KITTY
+concetti: Chi era Anna Frank; L'alloggio segreto; Il diario; Dopo l'arresto
+- A chi sono indirizzate le lettere del diario di Anna Frank?
+- Anna e la sua famiglia vissero nascosti in un alloggio segreto ad Amsterdam.
+- Il diario fu pubblicato nel 1947 dal padre di Anna, ___, unico sopravvissuto.
+- In che occasione Anna ricevette il diario?
+- Perché la famiglia Frank dovette nascondersi?
+- Perché il diario di Anna Frank è così importante ancora oggi?
+- Metti in ordine le tappe della vita di Anna Frank.
+- Nel diario Anna parla anche di litigi, amicizia e sogni per il futuro, come ogni adolescente. Perché secondo …
+
+## Il fu Mattia Pascal [lib-3-media-italiano-pirandello-mattia-pascal] · ADRIANO
+concetti: Luigi Pirandello; La trama; Adriano Meis; Il ritorno
+- Quale premio vinse Luigi Pirandello nel 1934?
+- Mattia Pascal decide di cambiare vita dopo aver letto sul giornale di essere morto.
+- A Roma Mattia vive con il nuovo nome di Adriano ___.
+- Dove vince Mattia la somma che gli permette di cambiare vita?
+- Perché la nuova vita di Adriano Meis diventa una prigione?
+- Metti in ordine le vicende del romanzo.
+- Che cosa vuole dire Pirandello con la storia di Mattia Pascal?
+- Se potessi ricominciare da capo con un'altra identità, come Mattia, lo faresti? Rispondi tenendo conto di ciò…
+
+## Il gerundio dai mille volti [lib-3-media-italiano-gerundio-valori] · ANDANDO
+concetti: Il gerundio; I valori del gerundio; Il soggetto del gerundio; Presente e passato
+- Qual è il gerundio passato di «leggere»?
+- Nel periodo «Mi salutò sorridendo» il gerundio ha valore modale.
+- Nel periodo «___ sapendo la risposta, Giulia non alzò la mano» serve una parola che dia al gerundio valore co…
+- Che valore ha il gerundio in «Potendo, partirei subito per le vacanze»?
+- Che rapporto di tempo esprime «Avendo finito i compiti, Sara uscì»?
+- Perché «Camminando nel parco, un cane mi è corso incontro» è considerata una frase scorretta?
+- Nel periodo «Studiando ogni giorno, migliorerai» con che cosa puoi sostituire il gerundio?
+- Trasforma «Uscendo da scuola, ho visto un arcobaleno» in forma esplicita e spiega che valore ha il gerundio.
 
 ## Il perché delle cose [lib-3-media-italiano-subordinata-causale] · CAUSA
 concetti: Che cos'è la causale; Congiunzioni causali; Forma implicita; Causale o finale?
@@ -200,6 +453,17 @@ concetti: Che cos'è il Romanticismo; Neoclassicismo e Romanticismo; Il Romantic
 - Manzoni scrisse che la letteratura deve avere «l'utile per iscopo, il vero per soggetto e l'interessante per …
 - Spiega perché, nell'Italia divisa del primo Ottocento, la letteratura poteva aiutare a costruire l'idea di na…
 
+## Il tono giusto: i registri [lib-3-media-italiano-registri-linguistici] · TONO
+concetti: Che cos'è il registro; Dal formale al familiare; I segnali del registro; Errori di registro
+- Da che cosa dipende la scelta del registro?
+- Il passaggio dal tu al Lei è un segnale di registro più formale.
+- «Mi pregio di comunicarLe la mia più viva gratitudine» è un esempio di registro ___.
+- Metti in ordine i registri dal più alto al più basso.
+- Quale frase è in registro informale?
+- Perché scrivere «Ehi bella, a che ora apre la segreteria?» in un'email alla segreteria della scuola è un erro…
+- Quale situazione richiede un registro formale?
+- Riscrivi in registro formale la frase «Ehi, ci serve la palestra venerdì, ce la dai?» rivolta al dirigente sc…
+
 ## Informare, argomentare, persuadere [lib-3-media-italiano-informare-argomentare-persuadere] · SLOGAN
 concetti: Testo espositivo; Testo argomentativo; Testo persuasivo e pubblicità; Fatti e opinioni
 - Quale testo è espositivo?
@@ -210,6 +474,17 @@ concetti: Testo espositivo; Testo argomentativo; Testo persuasivo e pubblicità;
 - Che differenza c'è tra un testo argomentativo e una pubblicità?
 - Su un sito leggi: «Questo integratore è consigliato da 9 medici su 10! Compralo subito!». Perché è bene esser…
 - Scegli un argomento (per esempio la bicicletta) e spiega come lo tratterebbero in modo diverso un testo espos…
+
+## L'arte di riassumere [lib-3-media-italiano-riassunto-tecniche] · SINTESI
+concetti: Che cos'è il riassunto; Le fasi di lavoro; Le regole di scrittura; Riassunto e sintesi d'esame
+- Che cosa NON deve contenere un riassunto?
+- Nel riassunto il discorso diretto si trasforma di solito in discorso indiretto.
+- Per riassumere un testo lungo conviene prima dividerlo in ___.
+- Metti in ordine le fasi per scrivere un buon riassunto.
+- Il testo dice: «Luca gridò: “Non ce la faccio più!”». Come lo riporti nel riassunto?
+- Che cosa ti chiede in più la prova di comprensione e sintesi rispetto a un semplice riassunto a memoria?
+- Un compagno riassume una favola scrivendo «La volpe, che secondo me è antipatica, voleva l'uva». Qual è l'err…
+- Perché saper riassumere è utile anche quando studi storia o scienze?
 
 ## La dichiarativa spiega un nome [lib-3-media-italiano-subordinata-dichiarativa] · NOTIZIA
 concetti: Che cos'è la dichiarativa; Forma esplicita e implicita; Spesso dopo i due punti; Dichiarativa o relativa?
@@ -244,6 +519,28 @@ concetti: Che cos'è la soggettiva; Verbi ed espressioni impersonali; Forma espl
 - Perché in «Bisogna che tu ti alleni» la subordinata è soggettiva e non oggettiva?
 - Spiega perché la frase «Occorre pazienza» e il periodo «Occorre avere pazienza» hanno la stessa struttura log…
 
+## La ginestra, il fiore del deserto [lib-3-media-italiano-leopardi-ginestra] · LAVA
+concetti: Il fiore sul vulcano; Un simbolo; Contro l'orgoglio; La social catena
+- Dove cresce la ginestra descritta da Leopardi?
+- «La ginestra» fu pubblicata quando Leopardi era ancora in vita.
+- Leopardi critica con ironia chi crede nelle «magnifiche sorti e ___» dell'umanità.
+- Perché la ginestra diventa un simbolo positivo?
+- Che cos'è la «social catena» proposta da Leopardi?
+- Perché il Vesuvio è il paesaggio adatto a questa poesia?
+- Che cosa cambia nella «Ginestra» rispetto al pessimismo delle poesie precedenti?
+- Secondo te, l'idea della «social catena» ha ancora senso oggi? Fai un esempio legato a una catastrofe natural…
+
+## La notte dell'Innominato [lib-3-media-italiano-promessi-sposi-innominato] · CAMPANE
+concetti: Il rapimento di Lucia; La notte della crisi; Il voto di Lucia; La conversione
+- Chi rapisce Lucia per conto di don Rodrigo?
+- Durante la notte Lucia fa voto alla Madonna di rinunciare a sposare Renzo se verrà liberata.
+- Lucia dice all'Innominato: «Dio perdona tante cose, per un'opera di ___».
+- Che cosa annunciano le campane che l'Innominato sente al mattino?
+- Che cosa tormenta l'Innominato durante la notte?
+- Quale tema del romanzo è al centro della conversione dell'Innominato?
+- Metti in ordine gli eventi legati all'Innominato.
+- Perché secondo te le parole di una ragazza indifesa come Lucia riescono a scuotere un uomo potente e temuto c…
+
 ## La principale e i suoi tipi [lib-3-media-italiano-proposizione-principale] · REGGE
 concetti: Che cos'è la principale; Enunciative e interrogative; Volitive ed esclamative; Proposizione incidentale
 - Quale caratteristica ha sempre la proposizione principale?
@@ -254,6 +551,17 @@ concetti: Che cos'è la principale; Enunciative e interrogative; Volitive ed esc
 - Nel periodo «Quando uscirai da scuola, se non piove, andremo al parco» qual è la proposizione principale?
 - Che cosa cambia tra «Luca è arrivato.» e «Luca è arrivato?»
 - Esprimi la stessa richiesta (per esempio «aprire la finestra») con tre tipi diversi di principale e indica di…
+
+## La prova d'italiano all'esame [lib-3-media-italiano-prova-scritta-esame] · TRACCIA
+concetti: Le tipologie di traccia; Capire la traccia; Pianificare; La revisione
+- Quale di queste NON è una tipologia della prova scritta d'italiano all'esame di terza media?
+- Prima di iniziare a scrivere è utile sottolineare le richieste della traccia.
+- Lo schema ordinato delle idee che si prepara prima di scrivere si chiama ___.
+- Metti in ordine le fasi di lavoro durante la prova scritta.
+- La traccia chiede: «Scrivi una lettera a un amico per convincerlo a fare volontariato». Che tipo di testo dev…
+- Che cosa NON si controlla di solito nella revisione finale?
+- Perché è rischioso scrivere direttamente in bella copia senza scaletta?
+- Scegli una delle tre tipologie della prova d'italiano e spiega quali abilità mette alla prova.
 
 ## Le figure retoriche della poesia [lib-3-media-italiano-figure-retoriche] · FIGURA
 concetti: Figure di suono; Figure di posizione; Similitudine e metafora; Altre figure di significato
@@ -321,6 +629,17 @@ concetti: Una famiglia illustre; La conversione; Le odi civili; Le tragedie
 - Perché le tragedie di Manzoni, come «Adelchi», sono dette tragedie storiche?
 - Nel «Cinque maggio» Manzoni non dà un giudizio su Napoleone e scrive «Fu vera gloria? Ai posteri l'ardua sent…
 
+## Mentre invece: l'avversativa [lib-3-media-italiano-subordinata-avversativa] · OPPOSTO
+concetti: Che cos'è l'avversativa; La forma esplicita; Mentre: tempo o contrasto?; Avversativa, coordinata e concessiva
+- Che cosa esprime la subordinata avversativa?
+- Nel periodo «Io lavoro, mentre tu ti riposi» la subordinata è avversativa.
+- In uno stile formale, al posto di «mentre» avversativo si può usare «___».
+- In quale periodo «mentre» introduce una temporale e non un'avversativa?
+- Nel periodo «Volevo uscire, ma pioveva», la proposizione «ma pioveva» è...
+- Quale prova ti aiuta a capire se «mentre» è avversativo?
+- Quale proposizione è un'avversativa rispetto a «Marta ha fatto tutti gli esercizi»?
+- Spiega la differenza tra «Benché piovesse, siamo usciti» e «Noi siamo usciti, mentre loro sono rimasti a casa…
+
 ## Montale e il male di vivere [lib-3-media-italiano-montale] · SEPPIA
 concetti: Vita e opere; Il male di vivere; Il correlativo oggettivo; Muro e varco
 - Quale importante premio ricevette Montale nel 1975?
@@ -354,6 +673,61 @@ concetti: Un idillio giovanile; L'ostacolo che fa immaginare; Dallo spazio al te
 - Che cosa significa il verso finale «e il naufragar m'è dolce in questo mare»?
 - A volte ciò che è nascosto incuriosisce più di ciò che si vede. Spiega, con l'esempio dell'«Infinito», come u…
 
+## Parafrasi e commento di una poesia [lib-3-media-italiano-parafrasi-e-commento-poesia] · PROSA
+concetti: La parafrasi; L'analisi del testo; Il commento; Il metodo di lavoro
+- Che cos'è la parafrasi di una poesia?
+- Nella parafrasi si inseriscono giudizi personali sul poeta.
+- Nella parafrasi l'anastrofe «del giorno il fin» diventa «___ del giorno».
+- Quale di queste osservazioni appartiene all'analisi del testo?
+- Metti in ordine le fasi di lavoro su una poesia.
+- Che cosa rende un commento davvero valido?
+- Perché nel commento è utile ricordare l'epoca e la vita dell'autore?
+- Perché la parafrasi da sola non basta per capire fino in fondo una poesia?
+
+## Paratassi o ipotassi? [lib-3-media-italiano-paratassi-e-ipotassi] · STILE
+concetti: La paratassi; L'ipotassi; Stile e scopo; Asindeto e polisindeto
+- Che cos'è la paratassi?
+- «Siccome pioveva, decidemmo di restare a casa perché non avevamo l'ombrello» è un esempio di ipotassi.
+- «Venni, vidi, vinsi» è un esempio di coordinazione per ___.
+- In quale periodo c'è un polisindeto?
+- Perché un testo argomentativo usa spesso l'ipotassi?
+- Quale effetto produce uno stile paratattico in un racconto d'azione?
+- Come trasformi in ipotassi «Ero stanco e andai a dormire»?
+- Riscrivi in stile paratattico il periodo «Quando arrivai alla stazione, poiché il treno era in ritardo, decis…
+
+## Parole da esperti: i linguaggi settoriali [lib-3-media-italiano-linguaggi-settoriali] · TECNICO
+concetti: Che cosa sono; I tecnicismi; Altre caratteristiche; Il destinatario
+- Che cos'è un linguaggio settoriale?
+- Un tecnicismo ha di solito un significato preciso e non ambiguo.
+- In medicina la raccolta delle informazioni sulla storia di salute del paziente si chiama ___.
+- A quale linguaggio settoriale appartengono «download», «password» e «browser»?
+- «La somministrazione del farmaco avverrà dopo i pasti.» Quale caratteristica dei linguaggi settoriali mostra …
+- Un medico spiega a un bambino che ha una «faringite». Che cosa dovrebbe fare per farsi capire?
+- Perché un manuale di istruzioni usa un linguaggio tecnico preciso?
+- Scegli un linguaggio settoriale che conosci (sport, musica, informatica...) e spiega con due esempi di parole…
+
+## Parole in prestito, parole nuove [lib-3-media-italiano-prestiti-e-neologismi] · ALGEBRA
+concetti: I prestiti; Da dove arrivano; I calchi; I neologismi
+- Che cos'è un prestito linguistico?
+- La parola «zucchero» è arrivata in italiano dall'arabo.
+- «Grattacielo», traduzione letterale dell'inglese skyscraper, è un esempio di ___.
+- Quale di questi è un prestito non adattato?
+- Da quale lingua arrivano molte parole come garage, toilette e chauffeur?
+- Perché nascono i neologismi?
+- Un testo dice: «Nel weekend faccio shopping e poi un break al bar». Come lo riscriveresti per un pubblico anz…
+- Secondo te è giusto usare tante parole inglesi quando esiste una parola italiana equivalente? Motiva la tua o…
+
+## Participio e infinito al lavoro [lib-3-media-italiano-participio-e-infinito-impliciti] · FINITO
+concetti: Il participio nelle implicite; L'infinito nelle implicite; La preposizione come indizio; Dall'implicita all'esplicita
+- Quale periodo contiene una subordinata implicita con il participio passato?
+- Nel periodo «Vado in biblioteca per studiare» l'infinito introduce una subordinata finale.
+- Nel periodo «___ aver mangiato, mi sono lavato i denti» c'è una temporale implicita.
+- Che tipo di subordinata è «per aver mentito» in «Luca è stato punito per aver mentito»?
+- Nel periodo «È importante dormire otto ore», la proposizione «dormire otto ore» è...
+- Che valore ha il participio in «Spaventato dal tuono, il cane si nascose sotto il letto»?
+- Qual è la forma esplicita di «Spenta la luce, i bambini si addormentarono»?
+- Perché la preposizione davanti all'infinito è un indizio importante per riconoscere la subordinata? Fai un es…
+
 ## Pascoli e il nido perduto [lib-3-media-italiano-pascoli-vita-e-fanciullino] · NIDO
 concetti: Una giovinezza segnata dal lutto; Il mito del nido; La poetica del fanciullino; Le raccolte
 - In che giorno fu ucciso il padre di Pascoli, data che ritorna in una sua famosa poesia?
@@ -375,6 +749,39 @@ concetti: «X agosto»; «Lavandare»; «Il gelsomino notturno»; Suoni e parole
 - Che cosa accade nel «Gelsomino notturno»?
 - Perché Pascoli usa nomi precisi di piante e uccelli, come «tamerici», «assiuolo» o «pettirosso»?
 - In «X agosto» Pascoli mette a confronto la rondine e il padre. Spiega il parallelo e il messaggio che ne deri…
+
+## Penne e ideali del Risorgimento [lib-3-media-italiano-scrittori-del-risorgimento] · INNO
+concetti: Letteratura e patria; Silvio Pellico; Goffredo Mameli; L'effetto sui lettori
+- Chi scrisse le parole del «Canto degli Italiani»?
+- «Le mie prigioni» racconta la prigionia di Silvio Pellico nella fortezza dello Spielberg.
+- La musica del «Canto degli Italiani» fu composta da Michele ___.
+- Come morì Goffredo Mameli?
+- Perché si dice che «Le mie prigioni» fece più danni all'Austria di una battaglia perduta?
+- Che cosa avevano in comune gli scrittori del Risorgimento?
+- Come è diventato inno nazionale il «Canto degli Italiani»?
+- Perché un inno può unire le persone di un Paese? Rispondi pensando a quando si canta l'inno di Mameli oggi.
+
+## Pinocchio e Cuore per l'Italia unita [lib-3-media-italiano-collodi-e-de-amicis] · NASO
+concetti: Pinocchio; Il messaggio di Pinocchio; Cuore; Educare i nuovi italiani
+- Chi è l'autore delle «Avventure di Pinocchio»?
+- «Pinocchio» uscì prima a puntate su un giornale per ragazzi e poi come libro.
+- «Cuore» è il diario di un anno scolastico dell'alunno Enrico ___.
+- In quale città si svolge «Cuore»?
+- Che cosa impara Pinocchio nel corso delle sue avventure?
+- Perché «Pinocchio» e «Cuore» erano importanti per l'Italia appena unita?
+- In «Cuore» il maestro racconta ogni mese una storia, come «Dagli Appennini alle Ande». A che cosa servono que…
+- Pinocchio non diventa «buono» subito ma sbagliando molte volte. Perché secondo te Collodi ha scelto di raccon…
+
+## Pirandello: maschere e umorismo [lib-3-media-italiano-pirandello-maschere-e-teatro] · PERSONA
+concetti: L'umorismo; Le maschere; Uno, nessuno e centomila; Il teatro
+- Da che cosa nasce l'umorismo secondo Pirandello?
+- In «Sei personaggi in cerca d'autore» alcuni personaggi interrompono la prova di una compagnia teatrale.
+- Secondo Pirandello la società ci costringe a portare una ___, cioè un ruolo fisso.
+- Che cosa scopre Vitangelo Moscarda dopo la battuta della moglie sul suo naso?
+- Nell'esempio della vecchia signora truccata, quando nasce davvero l'umorismo?
+- Perché «Sei personaggi in cerca d'autore» sconcertò il pubblico della prima rappresentazione?
+- Che cosa vuol dire che per Pirandello la vita «scorre» mentre le forme restano ferme?
+- Ti è mai capitato di sentirti chiuso in un ruolo, per esempio «il secchione» o «quello simpatico», che non ti…
 
 ## Prima, durante, dopo [lib-3-media-italiano-subordinata-temporale] · MENTRE
 concetti: Che cos'è la temporale; Rapporti di tempo; Forma esplicita; Forma implicita
@@ -420,6 +827,39 @@ concetti: L'Ermetismo; Salvatore Quasimodo; «Ed è subito sera»; La svolta civ
 - In «Alle fronde dei salici», perché i poeti hanno appeso le cetre ai rami?
 - Spiega come cambia la poesia di Quasimodo dopo la Seconda guerra mondiale e perché.
 
+## Raccontare la Resistenza [lib-3-media-italiano-neorealismo-e-resistenza] · NIDI
+concetti: Che cos'è il Neorealismo; Lo stile; I romanzi della Resistenza; Il cinema neorealista
+- Di che cosa parlano soprattutto le opere neorealiste?
+- Il protagonista de «Il sentiero dei nidi di ragno» di Calvino è un ragazzo di nome Pin.
+- Il film «Ladri di ___» (1948) di Vittorio De Sica è un capolavoro del cinema neorealista.
+- Quale lingua usano di solito gli scrittori neorealisti?
+- Quale scrittore raccontò le esperienze partigiane nelle Langhe del Piemonte?
+- Perché il Neorealismo è definito una letteratura di «impegno civile»?
+- Che cosa ottiene Calvino raccontando la Resistenza con gli occhi di un ragazzo come Pin?
+- Perché secondo te dopo la Seconda guerra mondiale scrittori e registi sentirono il bisogno di raccontare la r…
+
+## Raccontare un'esperienza: la relazione [lib-3-media-italiano-relazione-scritta] · FASI
+concetti: Che cos'è la relazione; La struttura; La relazione scientifica; Lo stile
+- Che cosa racconta una relazione?
+- Nella relazione di una gita la valutazione personale si mette di solito nella conclusione.
+- Nella relazione di un esperimento, la parte che spiega passo per passo che cosa si è fatto si chiama ___.
+- Metti in ordine le parti della relazione di un esperimento.
+- Quali informazioni vanno nell'introduzione della relazione su una gita?
+- Quale frase è più adatta allo sviluppo di una relazione?
+- Perché in una relazione scientifica si scrivono anche i materiali usati?
+- Che differenza c'è tra una pagina di diario sulla gita e una relazione sulla stessa gita?
+
+## Renzo nella Milano in rivolta [lib-3-media-italiano-promessi-sposi-renzo-milano] · FORNO
+concetti: La rivolta del pane; Il vicario e Ferrer; L'osteria e l'arresto; La fuga verso Bergamo
+- Che cosa accade a Milano quando Renzo vi arriva?
+- Ferrer salva il vicario di provvisione fingendo di portarlo in prigione.
+- Renzo arriva a Milano l'11 novembre 1628, giorno di San ___.
+- Perché Renzo viene arrestato?
+- Perché Renzo, attraversando l'Adda, si sente finalmente al sicuro?
+- Che cosa vuole mostrare Manzoni con la scena dell'assalto ai forni?
+- Metti in ordine le avventure di Renzo a Milano.
+- Renzo è un giovane onesto che finisce nei guai per ingenuità. Quale lezione si può trarre dalla sua avventura…
+
 ## Renzo, Lucia e gli altri [lib-3-media-italiano-promessi-sposi-personaggi] · BRAVI
 concetti: I due protagonisti; Prepotenti e paurosi; Chi aiuta; La trama in breve
 - Perché don Abbondio non vuole celebrare il matrimonio di Renzo e Lucia?
@@ -430,6 +870,28 @@ concetti: I due protagonisti; Prepotenti e paurosi; Chi aiuta; La trama in breve
 - Che ruolo ha il cardinale Federigo Borromeo nel romanzo?
 - Perché la scelta di Renzo e Lucia come protagonisti fu considerata una novità?
 - Confronta don Abbondio e fra Cristoforo: come reagiscono di fronte alla prepotenza di don Rodrigo?
+
+## Ripasso: chi ha scritto che cosa [lib-3-media-italiano-ripasso-autori-e-opere] · OPERA
+concetti: Ottocento: poesia; Ottocento: romanzo; Novecento: poesia; Novecento: prosa
+- Chi scrisse «I promessi sposi»?
+- «Ossi di seppia» è la prima raccolta poetica di Eugenio Montale.
+- «Alcyone», la raccolta che contiene «La pioggia nel pineto», fu scritta da ___.
+- Quale coppia autore-opera è corretta?
+- Quale opera è stata scritta da Luigi Pirandello?
+- Quale di queste opere NON è un romanzo?
+- Che cosa hanno in comune «Dei Sepolcri» di Foscolo e «La ginestra» di Leopardi?
+- Scegli un autore dell'Ottocento e uno del Novecento e spiega perché la loro opera più famosa è ancora importa…
+
+## Ripasso: le correnti in fila [lib-3-media-italiano-ripasso-correnti-letterarie] · EPOCA
+concetti: Neoclassicismo e Romanticismo; Verismo; Decadentismo e avanguardie; Ermetismo e Neorealismo
+- Quale corrente esalta il sentimento, la storia nazionale e la patria?
+- Il Verismo racconta soprattutto la vita delle classi umili in modo impersonale.
+- Il Futurismo, nato nel 1909, celebrava la modernità: le macchine, la città e soprattutto la ___.
+- Metti in ordine cronologico queste correnti letterarie.
+- Quale corrente usa parole essenziali, analogie e un linguaggio difficile da decifrare?
+- Quale differenza c'è tra il Verismo e il Decadentismo?
+- In che cosa sono diversi l'Ermetismo e il Neorealismo?
+- Scegli due correnti letterarie studiate e spiega come ciascuna riflette l'epoca storica in cui è nata.
 
 ## Ripasso: smontare un periodo [lib-3-media-italiano-ripasso-analisi-del-periodo] · SCHEMA
 concetti: Il metodo in cinque passi; Riconoscere le subordinate; Le parole introduttive ingannano; Il ruolo del modo verbale
@@ -464,6 +926,17 @@ concetti: La vita a Trieste; Il Canzoniere; La poesia onesta; Poesie celebri
 - Nella poesia «Trieste», come descrive Saba la sua città?
 - Nella poesia «Amai» Saba dice di amare le «trite parole che non uno osava» e la rima «fiore / amore». Perché …
 
+## Scapigliati contro il perbenismo [lib-3-media-italiano-scapigliatura] · RIBELLE
+concetti: Chi erano gli scapigliati; Il nome; Ribellione e temi; Autori e importanza
+- In quale città nacque soprattutto la Scapigliatura?
+- Il nome «Scapigliatura» richiama una vita disordinata e anticonformista.
+- Il nome del movimento viene da un romanzo di Cletto ___.
+- Contro che cosa si ribellavano gli scapigliati?
+- Quale di questi temi era tipico degli scapigliati?
+- Perché la Scapigliatura è considerata un «ponte» nella storia della letteratura?
+- Quale di questi autori faceva parte della Scapigliatura?
+- Perché secondo te in ogni epoca ci sono giovani artisti che si ribellano alle regole dei padri? Collega la tu…
+
 ## Se fossi... il periodo ipotetico [lib-3-media-italiano-periodo-ipotetico] · IPOTESI
 concetti: Protasi e apodosi; Primo tipo: realtà; Secondo tipo: possibilità; Terzo tipo: irrealtà
 - Come si chiama la proposizione che esprime la condizione in un periodo ipotetico?
@@ -474,6 +947,17 @@ concetti: Protasi e apodosi; Primo tipo: realtà; Secondo tipo: possibilità; Te
 - Quale periodo ipotetico esprime una condizione impossibile nel presente?
 - Una tua amica dice: «Se vincessi la gara, sarei felicissima». Che cosa pensa della vittoria?
 - Trasforma «Se studi, superi la verifica» prima nel secondo tipo e poi nel terzo tipo, e spiega come cambia il…
+
+## Se, come, quando, perché [lib-3-media-italiano-congiunzioni-polivalenti] · CHIAVE
+concetti: I valori di «perché»; I valori di «se»; I valori di «come» e «quando»; Il metodo per capire
+- Nel periodo «Non so se domani verrò» «se» introduce un'interrogativa indiretta.
+- Nel periodo «Ti presto il libro perché tu possa studiare» la subordinata è...
+- Con il «perché» finale il verbo della subordinata è al modo ___.
+- Nel periodo «Dimmi quando arriverai» la subordinata è...
+- In quale periodo «come» introduce una comparativa?
+- Per capire che valore ha «se» in «Mi domando se abbia ragione», che cosa ti aiuta di più?
+- Nel periodo «Mi chiedo perché tu sia così triste» la subordinata è...
+- Spiega la differenza tra il «se» di «Se studi, passerai l'esame» e quello di «Non so se passerò l'esame».
 
 ## Silvia, il sabato e la quiete [lib-3-media-italiano-leopardi-silvia-sabato-quiete] · SABATO
 concetti: «A Silvia»; «Il sabato del villaggio»; «La quiete dopo la tempesta»; Una riflessione comune
@@ -486,6 +970,17 @@ concetti: «A Silvia»; «Il sabato del villaggio»; «La quiete dopo la tempest
 - Che cosa hanno in comune «A Silvia», «Il sabato del villaggio» e «La quiete dopo la tempesta»?
 - Ti è mai capitato che l'attesa di una festa o di una gita fosse più bella dell'evento stesso? Collega la tua …
 
+## Sinonimi, contrari e parenti [lib-3-media-italiano-rapporti-di-significato] · LESSICO
+concetti: Sinonimi e contrari; Iperonimi e iponimi; La polisemia; Omonimi
+- Quale coppia è formata da due sinonimi?
+- «Animale» è un iperonimo di «cane».
+- La parola «collo», usata per persone, bottiglie e maglioni, è ___.
+- In quale coppia le due parole sono omonime?
+- Qual è l'iponimo di «mezzo di trasporto»?
+- In un tema hai ripetuto «bello» quattro volte. Come puoi migliorare il testo?
+- Perché i sinonimi non sono quasi mai perfettamente uguali?
+- Scegli un iperonimo, per esempio «sport», e scrivi tre suoi iponimi; poi spiega a che cosa serve questa disti…
+
 ## Tesi, argomenti e conclusione [lib-3-media-italiano-struttura-testo-argomentativo] · TESI
 concetti: Lo scopo; Problema e tesi; Argomenti, antitesi, confutazione; La conclusione
 - Qual è lo scopo principale di un testo argomentativo?
@@ -496,6 +991,17 @@ concetti: Lo scopo; Problema e tesi; Argomenti, antitesi, confutazione; La concl
 - Metti in ordine le parti di un testo argomentativo costruito secondo lo schema classico.
 - Quale frase è adatta come conclusione di un testo che sostiene che bisogna usare meno plastica?
 - Perché un testo argomentativo diventa più convincente se presenta anche l'antitesi e la confuta?
+
+## Tra parentesi: le incidentali [lib-3-media-italiano-proposizione-incidentale] · INCISO
+concetti: Che cos'è l'incidentale; Come si scrive; Forme diverse; A che cosa serve
+- Qual è l'incidentale nel periodo «Il treno, se non sbaglio, parte alle otto»?
+- Se togli un'incidentale, il periodo resta corretto e comprensibile.
+- Le incidentali si scrivono tra due virgole, tra due trattini oppure tra ___.
+- Quale di queste espressioni è un'incidentale implicita?
+- Nel periodo «La partita, te lo assicuro, è stata emozionante» a che cosa serve l'incidentale?
+- Perché l'incidentale non è considerata una subordinata vera e propria?
+- Un compagno scrive: «Lo sport, che, come dice il mio allenatore, che è bravissimo, fa bene, è importante». Qu…
+- Inserisci un'incidentale nella frase «Domani andremo al museo» e spiega che cosa aggiunge.
 
 ## Tranne, senza, invece di [lib-3-media-italiano-esclusiva-eccettuativa-limitativa] · TRANNE
 concetti: Avversativa; Esclusiva; Eccettuativa; Limitativa
@@ -519,6 +1025,17 @@ concetti: Fermo e Lucia; Ventisettana e Quarantana; Un romanzo storico; Il finto
 - Perché Manzoni volle riscrivere la lingua del romanzo?
 - Perché, secondo te, Manzoni mescola personaggi inventati, come Renzo e Lucia, con fatti storici veri, come la…
 
+## Tutti i volti del che [lib-3-media-italiano-che-polivalente] · JOLLY
+concetti: Che pronome relativo; Che congiunzione; Che interrogativo ed esclamativo; Il trucco del «il quale»
+- Nella frase «Il libro che mi hai prestato è bellissimo» «che» è un pronome relativo.
+- Nel periodo «Spero che tu stia bene» il «che» introduce...
+- Era così stanco ___ si addormentò sul divano.
+- In quale frase «che» è esclamativo?
+- Come puoi capire se «che» è un pronome relativo?
+- Nel periodo «Preferisco leggere che guardare la TV» il «che» introduce una...
+- In «Ho saputo che il film che volevi vedere è uscito», che funzioni hanno i due «che»?
+- Scrivi due frasi, una con «che» pronome relativo e una con «che» congiunzione, e spiega come le distingui.
+
 ## Ungaretti, parole dalla trincea [lib-3-media-italiano-ungaretti] · TRINCEA
 concetti: Una vita tra Egitto, Parigi e guerra; L'Allegria, diario di guerra; Lo stile essenziale; Poesie celebri
 - Dove nacque Giuseppe Ungaretti?
@@ -541,6 +1058,17 @@ concetti: Dal Naturalismo al Verismo; L'impersonalità; La regressione e la ling
 - Chi sono i «vinti» del ciclo di Verga?
 - Immagina di raccontare la storia di un pescatore siciliano come farebbe Verga. Quali scelte di stile faresti …
 
+## Vero o falso? Verificare le notizie [lib-3-media-italiano-fonti-e-notizie-false] · FONTE
+concetti: L'attendibilità della fonte; Le notizie false; Verificare; Fonti nel testo argomentativo
+- Quale elemento rende più attendibile un articolo trovato online?
+- Una notizia condivisa da migliaia di persone è sicuramente vera.
+- Prima di condividere una notizia è bene confrontarla con altre ___ affidabili.
+- Un titolo dice: «INCREDIBILE! Gli scienziati non vogliono che tu sappia questo!». Che cosa dovrebbe insospett…
+- Trovi una foto di un'alluvione presentata come «di ieri». Come puoi verificarla?
+- Per un tema sull'alimentazione, quale fonte è più attendibile?
+- Perché citare fonti attendibili rafforza un testo argomentativo?
+- Un compagno ti inoltra una notizia allarmante su una scuola chiusa per un pericolo. Descrivi i passi che fare…
+
 ## Versi, rime e strofe [lib-3-media-italiano-metrica-versi-rime-strofe] · STROFA
 concetti: Verso e sillabe metriche; I versi più usati; Le rime; Strofe e sonetto
 - Da quanti versi è formato un sonetto?
@@ -551,3 +1079,25 @@ concetti: Verso e sillabe metriche; I versi più usati; Le rime; Strofe e sonett
 - Che cos'è la sinalefe?
 - Il verso di Dante «mi ritrovai per una selva oscura» ha 12 sillabe grammaticali, eppure è un endecasillabo. P…
 - Spiega come riconosceresti un sonetto guardando soltanto la forma di una poesia sulla pagina.
+
+## Virgole e pause nel periodo [lib-3-media-italiano-punteggiatura-nel-periodo] · VIRGOLA
+concetti: La virgola e le subordinate; Il punto e virgola; I due punti; Punteggiatura e significato
+- Quale periodo è punteggiato correttamente?
+- Tra il soggetto e il suo verbo non si deve mettere una virgola.
+- Per introdurre un elenco o una spiegazione si usano ___.
+- Che differenza c'è tra «Gli alunni che erano stanchi uscirono» e «Gli alunni, che erano stanchi, uscirono»?
+- Quando è utile il punto e virgola?
+- Perché «Andiamo a mangiare, ragazzi!» va scritto con la virgola?
+- Hai un solo zio. Dove vanno le virgole in «Mio zio che vive a Roma da vent'anni è medico»?
+- Spiega con un esempio perché la punteggiatura può cambiare il significato di un periodo.
+
+## Zeno e l'ultima sigaretta [lib-3-media-italiano-svevo-coscienza-di-zeno] · FUMO
+concetti: Italo Svevo; Il romanzo; Il fumo e l'inettitudine; Un narratore inattendibile
+- Qual era il vero nome di Italo Svevo?
+- Svevo fu amico dello scrittore irlandese James Joyce, che viveva a Trieste.
+- Zeno scrive le sue memorie su invito del suo ___, il dottor S.
+- Che cosa fa Zeno ogni volta che decide di smettere di fumare?
+- Perché il dottor S. decide di pubblicare le memorie di Zeno?
+- Che cosa significa che Zeno è un narratore «inattendibile»?
+- Che cos'è un «inetto» nella letteratura del Novecento?
+- Anche a te sarà capitato di rimandare un buon proposito («da lunedì studio di più»). Che cosa ci insegna, con…

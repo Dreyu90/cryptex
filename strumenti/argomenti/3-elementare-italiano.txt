@@ -1,5 +1,5 @@
-# 3ª elementare · Italiano: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 3ª elementare · Italiano: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Acqua, cuore e quaderno [lib-3-elementare-italiano-cu-qu-cqu] · ACQUA
@@ -13,6 +13,39 @@ concetti: Quando si usa QU; Quando si usa CU; Le parole con CQU
 - Quale di queste parole si scrive con due Q?
 - Spiega quando si usa CU e quando si usa QU, con un esempio per ciascuno.
 
+## Aggettivi che cambiano poco [lib-3-elementare-italiano-aggettivi-in-o-e-in-e] · FELICE
+concetti: Aggettivi a quattro forme; Aggettivi a due forme; Aggettivi che non cambiano; Accordare con il nome
+- Quali sono le quattro forme dell'aggettivo «alto»?
+- Si dice «un bambino felice» e anche «una bambina felice»: l'aggettivo resta uguale.
+- Le mie amiche sono molto ___.
+- Completa: «Le giornate d'estate sono ___.»
+- Quale frase è scritta correttamente?
+- Quale di questi aggettivi ha solo due forme, una per il singolare e una per il plurale?
+- Completa: «Il gatto e la gatta sono ___.»
+- Spiega perché si dice «le rose rosse» ma anche «le rose rosa». Che differenza c'è tra i due aggettivi?
+
+## Ahi! Evviva! Le esclamazioni [lib-3-elementare-italiano-esclamazioni-interiezioni] · EVVIVA
+concetti: Che cosa sono; Tante emozioni; Il punto esclamativo
+- Quale esclamazione usi se ti pesti un dito?
+- Dopo un'esclamazione come «Ehi!» si mette spesso il punto esclamativo.
+- Quando non hai voglia di fare una cosa noiosa dici: «___, che barba!»
+- Che emozione esprime «Evviva!»?
+- Le esclamazioni come «oh», «ahi», «uffa»...
+- In biblioteca qualcuno parla forte. Quale esclamazione usi per chiedere silenzio?
+- Nella frase «Oh, che bel tramonto!», a che cosa serve «Oh»?
+- Scrivi due frasi con esclamazioni diverse e spiega quale emozione esprime ciascuna.
+
+## Alcuni, molti, ogni: quanti? [lib-3-elementare-italiano-aggettivi-indefiniti] · MOLTI
+concetti: Quantità non precisa; Ogni e qualche; Nessuno; L'accordo
+- Nella frase «Ho molti amici», «molti» indica...
+- È corretto dire «ogni giorni».
+- Ho incontrato ___ amico al parco.
+- Quale frase è corretta?
+- Quale aggettivo indefinito dice che non ce n'è neppure uno?
+- Quale frase indica il numero più grande di biscotti?
+- Perché si dice «molte mele» e non «molti mele»?
+- Scrivi due frasi: una con un numero preciso e una con un aggettivo indefinito. Spiega la differenza.
+
 ## Animali che insegnano: la favola [lib-3-elementare-italiano-favola] · MORALE
 concetti: Che cos'è la favola; La morale; Animali e caratteri; Favola o fiaba?
 - Chi sono di solito i protagonisti delle favole?
@@ -24,6 +57,50 @@ concetti: Che cos'è la favola; La morale; Animali e caratteri; Favola o fiaba?
 - Quale caratteristica distingue la favola dalla fiaba?
 - Nella favola «La lepre e la tartaruga» vince la gara la tartaruga, che è più lenta. Spiega perché vince e qua…
 
+## Antichi consigli: i proverbi [lib-3-elementare-italiano-proverbi] · SAGGIO
+concetti: Che cos'è un proverbio; Capire il significato; Proverbio o modo di dire?
+- Che cos'è un proverbio?
+- Il proverbio «Chi dorme non piglia pesci» significa che chi è pigro non ottiene niente.
+- Chi va piano va sano e va ___.
+- Quale proverbio va bene per chi arriva in ritardo, ma arriva?
+- «L'abito non fa il monaco» vuol dire che...
+- Quale di questi è un proverbio, cioè una frase completa con un insegnamento?
+- Giorgio dice sempre «Lo faccio!» ma poi non lo fa mai. Quale proverbio si adatta?
+- Scegli un proverbio, spiegane il significato e racconta quando potresti usarlo.
+
+## Avvisi e inviti chiari [lib-3-elementare-italiano-avvisi-e-inviti] · INVITO
+concetti: L'invito; L'avviso; Le informazioni essenziali; Breve e chiaro
+- Che cosa deve dire un invito a una festa?
+- Un avviso serve a informare molte persone di qualcosa.
+- «Sabato alle 16 nel giardino di casa mia»: questa parte dell'invito dice quando e ___.
+- Leggi l'invito: «Vieni alla mia festa di compleanno! Ti aspetto. Marta». Che cosa manca?
+- Quale di questi è un avviso?
+- Perché un avviso deve essere breve e chiaro?
+- Quale avviso è scritto meglio?
+- Scrivi un breve invito per una merenda con i tuoi amici, con tutte le informazioni necessarie.
+
+## Bau, splash, tic tac! [lib-3-elementare-italiano-onomatopee] · SUONO
+concetti: Che cos'è un'onomatopea; I versi degli animali; I rumori delle cose; Fumetti e poesie
+- Quale verso fa la rana?
+- «Tic tac» è un'onomatopea che imita il suono dell'orologio.
+- Qualcuno bussa alla porta: «___ toc!»
+- Quale onomatopea imita il suono delle campane?
+- Che cos'è un'onomatopea?
+- In un fumetto un sasso cade nell'acqua. Quale onomatopea è più adatta?
+- Perché nei fumetti si usano spesso le onomatopee?
+- Inventa una piccola scena (due frasi) con almeno due onomatopee e spiega quali suoni imitano.
+
+## C'era una volta: il passato remoto [lib-3-elementare-italiano-passato-remoto] · REMOTO
+concetti: Fatti lontani e conclusi; Riconoscere le forme; Remoto o prossimo?
+- In quale tipo di testo trovi spesso il passato remoto?
+- «Il principe salì sul cavallo» contiene un verbo al passato remoto.
+- Molti anni fa i pirati ___ un tesoro sull'isola.
+- Qual è il passato remoto di «io canto»?
+- Quale frase racconta un fatto accaduto molto tempo fa?
+- Perché diciamo «Stamattina ho fatto colazione» e non «Stamattina feci colazione»?
+- Nella frase «I bambini corsero verso il bosco», a quale persona è il verbo «corsero»?
+- Scrivi due frasi di una fiaba con i verbi al passato remoto e spiega perché si usa questo tempo.
+
 ## Caccia alle doppie [lib-3-elementare-italiano-le-doppie] · DOPPIA
 concetti: Che cosa sono le doppie; Doppie che cambiano significato; Ascoltare per scrivere; Le parole in -zione
 - Quale di queste parole contiene una doppia?
@@ -34,6 +111,17 @@ concetti: Che cosa sono le doppie; Doppie che cambiano significato; Ascoltare pe
 - Quale di queste parole è scritta correttamente?
 - Cosa succede se scrivi «Ho scritto con la pena» invece di «con la penna»?
 - Come puoi capire se una parola si scrive con la doppia? Spiegalo con un esempio.
+
+## Caro diario, oggi... [lib-3-elementare-italiano-il-diario] · DIARIO
+concetti: Che cos'è il diario; Le caratteristiche; Emozioni e pensieri
+- Che cosa si scrive di solito all'inizio di una pagina di diario?
+- Nel diario si scrive in prima persona, usando «io».
+- Il diario è un testo ___: chi scrive racconta la sua vita e i suoi pensieri.
+- Quale frase racconta un'emozione?
+- Per chi si scrive di solito un diario?
+- Quale inizio è adatto a una pagina di diario?
+- Perché scrivere un diario può far bene?
+- Scrivi l'inizio di una pagina di diario su una giornata speciale, con la data e almeno un'emozione.
 
 ## Casette, gattoni e libracci [lib-3-elementare-italiano-nomi-alterati] · CASETTA
 concetti: Diminutivi; Accrescitivi; Vezzeggiativi; Dispregiativi; Falsi alterati
@@ -68,6 +156,39 @@ concetti: Il discorso diretto; Due punti e virgolette; I verbi del dire; Il disc
 - Luca disse: «Ho fame». Quale frase lo trasforma bene in discorso indiretto?
 - Scrivi una frase con un discorso diretto e spiega quali segni hai usato.
 
+## Chi racconta la storia? [lib-3-elementare-italiano-il-narratore] · NARRARE
+concetti: Il narratore; Narratore interno; Narratore esterno; Autore e narratore
+- Chi è il narratore di una storia?
+- «Quel giorno io e mio fratello trovammo una mappa» è raccontato da un narratore interno.
+- Il narratore esterno racconta in ___ persona: «Lei aprì la porta».
+- Quale frase è raccontata da un narratore esterno?
+- Se il narratore è anche il protagonista, quale pronome userà spesso?
+- Che differenza c'è tra autore e narratore?
+- Perché un narratore interno non può sapere con certezza che cosa pensano gli altri personaggi?
+- Riscrivi questa frase con un narratore interno: «Marta corse verso il cancello e chiamò il suo cane.» Poi spi…
+
+## Chi? Che cosa? L'espansione diretta [lib-3-elementare-italiano-espansione-diretta] · OGGETTO
+concetti: L'espansione diretta; Diretta o indiretta; Come trovarla
+- Nella frase «Sara legge un libro», quale parte risponde alla domanda «che cosa?»
+- L'espansione diretta comincia sempre con una preposizione come «di», «a», «da».
+- Completa con l'espansione diretta: «La zia annaffia ___ in giardino.»
+- Nella frase «Il nonno pianta i pomodori nell'orto», qual è l'espansione diretta?
+- Nella frase «Anna gioca con il cane», «con il cane» è...
+- Quale domanda fai al verbo per trovare l'espansione diretta?
+- In quale frase c'è un'espansione diretta?
+- Scrivi una frase con un'espansione diretta e una indiretta e spiega come le hai riconosciute.
+
+## Ciao o buongiorno? [lib-3-elementare-italiano-linguaggio-formale-informale] · SALVE
+concetti: Il linguaggio informale; Il linguaggio formale; Scegliere secondo la situazione
+- Come saluti il tuo compagno di banco?
+- Quando parli con un adulto che non conosci, come un nuovo dottore, è meglio dargli del «Lei».
+- In un negozio chiedi gentilmente: «Scusi, ___ dirmi quanto costa?»
+- Scrivi un biglietto alla nonna. Quale saluto finale è adatto?
+- Quale frase è formale?
+- Con chi usi di solito il linguaggio informale?
+- Perché non è adatto dire «Ehi, tu!» a un signore che non conosci?
+- Come chiederesti dov'è il bagno a un amico e come lo chiederesti a un adulto sconosciuto? Spiega la differenz…
+
 ## Ciliegie, valigie e camicie [lib-3-elementare-italiano-cie-e-gie] · VALIGIA
 concetti: La I che non si sente; Vocale prima: la I resta; Consonante prima: la I cade; Una I che cambia senso
 - In quale parola c'è una I che si scrive ma quasi non si sente?
@@ -90,6 +211,17 @@ concetti: Che cos'è l'avverbio; Avverbi di modo; Avverbi di luogo; Avverbi di t
 - Nella frase «Oggi giochiamo fuori», che cosa ci dicono le parole «oggi» e «fuori»?
 - Nella frase «La lepre veloce corre velocemente», spiega che differenza c'è tra «veloce» e «velocemente».
 
+## Dei, eroi e miti antichi [lib-3-elementare-italiano-il-mito] · MITO
+concetti: Che cos'è il mito; I personaggi del mito; Mito e scienza; Miti e natura
+- A che cosa servivano i miti per i popoli antichi?
+- Nei miti greci compaiono spesso dei con poteri straordinari.
+- Nei miti greci Poseidone era il dio del ___.
+- Un mito racconta che il tuono è la voce arrabbiata di un dio. Come lo spiega oggi la scienza?
+- Il mito di Persefone, che passa una parte dell'anno sotto terra, spiegava...
+- Quale differenza c'è tra un mito e una fiaba?
+- Perché, anche se oggi la scienza spiega la natura, leggiamo ancora i miti?
+- Inventa in due o tre frasi un piccolo mito che spieghi perché la luna cambia forma.
+
 ## Descrivere con i cinque sensi [lib-3-elementare-italiano-testo-descrittivo-cinque-sensi] · SENSI
 concetti: Il testo descrittivo; I dati dei sensi; Descrivere con ordine; Gli aggettivi giusti
 - Qual è lo scopo di un testo descrittivo?
@@ -101,6 +233,17 @@ concetti: Il testo descrittivo; I dati dei sensi; Descrivere con ordine; Gli agg
 - Dopo aver descritto l'aspetto fisico di un amico, che cosa puoi descrivere per completare il ritratto?
 - Descrivi un limone in due o tre frasi usando almeno tre sensi diversi e indica quali hai usato.
 
+## Descrivere un luogo [lib-3-elementare-italiano-descrivere-un-luogo] · STANZA
+concetti: Che cosa descrivere; Un ordine nello spazio; Le parole dello spazio; L'atmosfera
+- Quale parola indica una posizione nello spazio?
+- Per descrivere un luogo si possono usare anche i suoni e gli odori.
+- La lampada è appoggiata ___ il comodino.
+- Quale modo di descrivere una stanza è più ordinato?
+- Quale frase descrive l'atmosfera di un luogo?
+- Devi descrivere la cucina della nonna. Quale gruppo di elementi è adatto?
+- Leggi: «Al centro della piazza c'è una fontana; ___ si vede la chiesa.» Quale espressione completa meglio?
+- Descrivi la tua aula seguendo un ordine preciso e usando almeno tre parole dello spazio.
+
 ## Detective delle parole [lib-3-elementare-nomi-articoli-aggettivi] · NOME
 concetti: Il nome; Genere e numero; Gli articoli; Gli aggettivi qualificativi
 - Nella frase «Luca gioca con il cane», qual è il nome proprio?
@@ -111,6 +254,39 @@ concetti: Il nome; Genere e numero; Gli articoli; Gli aggettivi qualificativi
 - Qual è il plurale di «la mela rossa»?
 - Sara dice: «Passami la matita rossa». Luca dice: «Passami una matita». Che differenza c'è?
 - Perché diciamo «le bambine allegre» e non «le bambine allegro»? Spiega con parole tue.
+
+## Dire tanto in poche righe [lib-3-elementare-italiano-il-riassunto] · BREVE
+concetti: Che cos'è il riassunto; Importante o secondario?; Le tappe del riassunto; Terza persona e niente dialoghi
+- Che cos'è un riassunto?
+- Nel riassunto bisogna scrivere tutti i dettagli, anche i colori dei vestiti.
+- Nel riassunto i dialoghi si trasformano in discorso ___.
+- Metti in ordine i passaggi per fare un riassunto.
+- In un riassunto di Cappuccetto Rosso, quale informazione è secondaria e si può togliere?
+- Quale frase è adatta a un riassunto?
+- Perché nel riassunto si eliminano i particolari?
+- Riassumi in tre frasi una fiaba che conosci bene.
+
+## Domani farò: il futuro [lib-3-elementare-italiano-futuro-semplice] · DOMANI
+concetti: Azioni che verranno; Le desinenze; L'accento scritto; Parole del futuro
+- Quale frase parla di un'azione che deve ancora accadere?
+- Al futuro si scrive «io giocherò» con l'accento sulla O finale.
+- L'anno prossimo noi ___ in montagna.
+- Qual è il futuro di «tu leggi»?
+- Mancano due minuti alla ricreazione. Quale frase è giusta?
+- Quale verbo al futuro è scritto correttamente?
+- Il verbo «cantare» al futuro diventa «io canterò». Che cosa succede alla A di cantare?
+- Racconta in due frasi che cosa farai domenica prossima, usando il futuro.
+
+## Dove cade l'accento? [lib-3-elementare-italiano-parole-tronche-piane-sdrucciole] · TONICO
+concetti: Parole piane; Parole tronche; Parole sdrucciole; Trovare l'accento
+- Quale di queste parole è tronca, cioè con l'accento sull'ultima sillaba?
+- La parola «matita» è piana: l'accento cade sulla penultima sillaba, «ti».
+- La parola «tavolo» ha l'accento sulla terzultima sillaba: è una parola ___.
+- Nelle parole tronche l'accento...
+- Quale parola è sdrucciola?
+- Quale gruppo contiene solo parole piane?
+- Per trovare la sillaba accentata di una parola, un buon trucco è...
+- Scrivi una parola tronca, una piana e una sdrucciola e spiega dove cade l'accento in ciascuna.
 
 ## Due modi di raccontare il passato [lib-3-elementare-italiano-passato-prossimo-imperfetto] · IERI
 concetti: Il passato prossimo; L'imperfetto; Essere o avere; I due tempi insieme
@@ -134,6 +310,28 @@ concetti: Il nome composto; Le parti che si uniscono; Un significato nuovo
 - Un edificio altissimo che sembra «grattare il cielo» si chiama...
 - Di quali parole è fatto «attaccapanni»? Spiega perché si chiama così.
 
+## Due parole, mille storie [lib-3-elementare-italiano-binomio-fantastico] · IDEA
+concetti: Il binomio fantastico; Domande per partire; Che cosa succederebbe se...; Dall'idea alla storia
+- Chi ha inventato il gioco del «binomio fantastico»?
+- Nel binomio fantastico è meglio scegliere due parole molto diverse tra loro, come «cane» e «armadio».
+- Un altro gioco per inventare storie comincia con la domanda: «Che cosa succederebbe ___...?»
+- Quale coppia di parole è più adatta a un binomio fantastico?
+- Hai scelto «frigorifero» e «pirata». Quale domanda ti aiuta a cominciare la storia?
+- Metti in ordine le parti di una storia inventata.
+- «Che cosa succederebbe se all'improvviso le persone potessero volare?» Questa domanda serve a...
+- Scegli due parole lontanissime tra loro e scrivi l'inizio di una storia che le colleghi.
+
+## Due punti e puntini magici [lib-3-elementare-italiano-due-punti-e-puntini] · PAUSA
+concetti: I due punti; I puntini di sospensione; Il segno giusto
+- Quanti sono i puntini di sospensione?
+- I due punti possono introdurre una spiegazione, come in «Non sono uscito: pioveva forte».
+- Per lasciare il lettore in attesa, alla fine della frase si mettono i puntini di ___.
+- In quale frase i puntini di sospensione creano attesa?
+- Nella frase «La mamma disse: “Lavati le mani!”», a che cosa servono i due punti?
+- Luca scrive «Mi giro e nel buio vedo due occhi gialli» e vuole lasciare il lettore col fiato sospeso. Quale s…
+- Leggi: «Mi piacciono tre colori ___ rosso, giallo e blu.» Quale segno serve al posto dei trattini?
+- Spiega la differenza tra i due punti e i puntini di sospensione, con un esempio per ciascuno.
+
 ## E con l'accento o senza? [lib-3-elementare-italiano-e-accentata-e-congiunzione] · ESSERE
 concetti: È, il verbo essere; E che unisce; C'è e ci sono; C'era e c'erano
 - Nella frase «Il mare … calmo», che cosa manca?
@@ -145,6 +343,28 @@ concetti: È, il verbo essere; E che unisce; C'è e ci sono; C'era e c'erano
 - Marta ha scritto «Ci sono un cane in giardino». Come si corregge?
 - Nella frase «Anna è alta e Luca è basso» ci sono tre E. Spiega quali hanno l'accento e perché.
 
+## Essere e avere, verbi speciali [lib-3-elementare-italiano-essere-e-avere] · AVERE
+concetti: Il verbo essere; Il verbo avere; Verbi ausiliari
+- Come si coniuga «noi» con il verbo essere al presente?
+- Nella frase «Giulia ha una bicicletta rossa», il verbo avere significa possedere.
+- Voi ___ un cane molto vivace.
+- Metti in ordine le persone del verbo essere al presente, da «io» a «loro».
+- Nella frase «Stamattina sono uscito presto», a che cosa serve «sono»?
+- Quale frase usa «avere» come ausiliare?
+- In quale frase «essere» serve a dire dove si trova qualcosa?
+- Perché essere e avere si chiamano «ausiliari»? Fai un esempio.
+
+## Filastrocche e conte [lib-3-elementare-italiano-filastrocche-e-conte] · CONTA
+concetti: La filastrocca; La conta; Ritmo e ripetizioni; Gianni Rodari
+- Che cos'è una filastrocca?
+- Le conte servono a scegliere chi tocca per primo in un gioco.
+- Nelle filastrocche spesso le parole si ___ per creare ritmo.
+- Quale coppia di versi fa rima?
+- Quale scrittore italiano è famoso per le sue filastrocche per bambini?
+- Perché le filastrocche si imparano facilmente a memoria?
+- Nella conta «Ambarabà ciccì coccò» molte parole non hanno un significato. A che cosa servono?
+- Inventa due versi di filastrocca che facciano rima, su un animale a tua scelta.
+
 ## Foglie, conigli e olio [lib-3-elementare-italiano-gli-e-li] · FOGLIA
 concetti: Il suono GLI; Il gruppo LI; I plurali in -gli
 - In quale parola senti il suono GLI?
@@ -155,6 +375,17 @@ concetti: Il suono GLI; Il gruppo LI; I plurali in -gli
 - Quale frase è scritta correttamente?
 - Marta ha scritto «Ho due ventaglii». Come si corregge?
 - Spiega la differenza di suono e di scrittura tra «foglio» e «olio».
+
+## Frasi che affermano e domandano [lib-3-elementare-italiano-tipi-di-frase] · DOMANDA
+concetti: Frase affermativa; Frase negativa; Frase interrogativa; Frase esclamativa
+- Quale frase è interrogativa?
+- «Oggi non piove» è una frase negativa.
+- Una frase che esprime meraviglia, gioia o paura si chiama ___.
+- Trasforma in negativa: «Luca mangia le carote.»
+- Quale frase è affermativa?
+- Leggi: «Che spavento mi hai fatto!» Che tipo di frase è?
+- Quale frase è insieme negativa e interrogativa?
+- Scrivi una frase su un animale in quattro modi: affermativa, negativa, interrogativa ed esclamativa.
 
 ## Frasi che crescono [lib-3-elementare-italiano-espansioni-della-frase] · QUANDO
 concetti: Che cos'è un'espansione; Le domande giuste; Luogo, tempo e modo; Frasi più ricche
@@ -244,6 +475,17 @@ concetti: A cosa serve l'apostrofo; Un oppure un'; Dov'è e com'è; Qual è
 - Quale coppia è scritta tutta correttamente?
 - Perché si scrive «un'amica» con l'apostrofo ma «un amico» senza?
 
+## In bocca al lupo: modi di dire [lib-3-elementare-italiano-modi-di-dire] · LUPO
+concetti: Che cosa sono; Significati comuni; Usarli al momento giusto
+- Se una persona «ha la testa tra le nuvole», com'è?
+- Chi dice «Acqua in bocca!» ti sta chiedendo di bere.
+- Quella bici costa tantissimo: costa un ___ della testa!
+- «Essere al verde» significa...
+- Perché «in bocca al lupo» non va preso alla lettera?
+- Il tuo amico deve fare una gara di nuoto. Che cosa gli dici?
+- Con un solo giro in centro la mamma compra il pane e ritira un pacco. Quale modo di dire va bene?
+- Spiega con parole tue che cos'è un modo di dire e fai un esempio con il suo significato.
+
 ## In viaggio nel dizionario [lib-3-elementare-italiano-ordine-alfabetico-dizionario] · LEMMA
 concetti: L'ordine alfabetico; Le lettere dell'alfabeto; Come cercare una parola; Le parole guida
 - Quale parola viene prima in ordine alfabetico?
@@ -254,6 +496,17 @@ concetti: L'ordine alfabetico; Le lettere dell'alfabeto; Come cercare una parola
 - In un racconto trovi la parola «bianche». Come la cerchi nel dizionario?
 - Le parole guida in cima a una pagina sono «gallo» e «gatto». Quale parola trovi in quella pagina?
 - Spiega come metti in ordine alfabetico «palla» e «pallone», che cominciano con le stesse lettere.
+
+## Indovina indovinello [lib-3-elementare-italiano-indovinelli] · ENIGMA
+concetti: Che cos'è l'indovinello; Gli indizi; Inventare un indovinello
+- «Ha le lancette, segna l'ora e fa tic tac.» Che cos'è?
+- In un indovinello la soluzione si scrive subito nella prima riga.
+- «Ha i denti ma non morde: pettina i capelli.» È il ___.
+- «Più è grande, meno si vede.» Di che cosa si tratta?
+- A che cosa serve un indovinello?
+- «Ha tanti fogli ma non è un albero, ha la copertina e tante storie dentro.» Che cos'è?
+- Vuoi inventare un indovinello sulla luna. Quale indizio è migliore?
+- Inventa un indovinello su un oggetto della tua cartella, con almeno due indizi, e scrivi la soluzione.
 
 ## Io, tu, lui: i pronomi [lib-3-elementare-italiano-pronomi-personali] · LORO
 concetti: A cosa serve il pronome; I pronomi soggetto; Il soggetto sottinteso
@@ -277,6 +530,28 @@ concetti: A che cosa serve; Le sue parti; L'ordine conta; Verbi che danno istruz
 - Che cosa succederebbe se, preparando una torta, mettessi l'impasto in forno prima di aggiungere le uova?
 - Perché nel regolamento della classe si scrive «Alza la mano per parlare» e non «Ieri Luca ha alzato la mano»?
 
+## La mia storia: l'autobiografia [lib-3-elementare-italiano-autobiografia] · RICORDO
+concetti: L'autobiografia; La biografia; Le fonti dei ricordi; L'ordine cronologico
+- In un'autobiografia chi scrive racconta...
+- Se racconto la vita di Leonardo da Vinci scrivo un'autobiografia.
+- Nell'autobiografia si usa la ___ persona: «Io sono nato a Torino».
+- Metti in ordine le tappe di un'autobiografia, dalla più antica alla più recente.
+- Quale fonte ti aiuta a sapere com'eri da neonato?
+- Quale frase appartiene a una biografia?
+- Perché, per scrivere i tuoi primi anni di vita, devi chiedere aiuto ai genitori?
+- Racconta in tre frasi un ricordo importante della tua vita, usando la prima persona.
+
+## Le cinque lettere straniere [lib-3-elementare-italiano-lettere-straniere] · JEANS
+concetti: J, K, W, X, Y; Parole da altre lingue; Simboli e misure
+- Come si chiama la lettera K?
+- Le lettere J, K, W, X e Y fanno parte delle 21 lettere dell'alfabeto italiano.
+- Un frutto verde dentro e marrone e peloso fuori si chiama ___.
+- Quale di queste parole contiene la lettera Y?
+- Un cartello stradale dice «5 km». Che cosa vuol dire «km»?
+- Come si chiama la lettera W?
+- Perché nella parola «taxi» c'è la X, che non è una lettera italiana?
+- Scrivi tre parole che contengono una lettera straniera e spiega perché la usano.
+
 ## Le preposizioni fanno da ponte [lib-3-elementare-italiano-preposizioni-semplici] · PONTE
 concetti: Che cosa sono; Le nove preposizioni; Cambiano il significato; Tra e fra
 - Quale di queste parole è una preposizione semplice?
@@ -298,6 +573,28 @@ concetti: Il testo narrativo; Le tre parti; Personaggi, luogo e tempo; Le parole
 - Metti in ordine i momenti di questa storia.
 - Che cosa si racconta di solito nello svolgimento?
 - Che cosa succederebbe se un racconto avesse solo l'inizio? Spiega perché servono anche svolgimento e conclusi…
+
+## Leggende di luoghi veri [lib-3-elementare-italiano-la-leggenda] · LUOGO
+concetti: Che cos'è la leggenda; Vero e inventato; Spiegare un luogo o un nome; Leggenda o mito?
+- Che cosa racconta di solito una leggenda?
+- Nelle leggende si mescolano elementi reali ed elementi inventati.
+- La leggenda di Romolo e Remo racconta la fondazione della città di ___.
+- Nella leggenda di Romolo e Remo, quale elemento è fantastico?
+- Una leggenda di montagna dice che un lago ha mille colori perché un mago vi gettò un arcobaleno. Che cosa vuo…
+- Qual è una differenza tra leggenda e mito?
+- Perché le leggende sono arrivate fino a noi anche se un tempo pochi sapevano scrivere?
+- Pensa a un luogo vicino a casa tua (un fiume, una collina, una piazza) e inventa una breve leggenda che spieg…
+
+## Leggere ad alta voce come attori [lib-3-elementare-italiano-leggere-ad-alta-voce] · VOCE
+concetti: Le pause della punteggiatura; L'intonazione; Voce chiara e ritmo; Le voci dei personaggi
+- Quando leggi ad alta voce e trovi un punto, che cosa fai?
+- Quando leggi ad alta voce è utile alzare ogni tanto lo sguardo verso chi ascolta.
+- Leggendo una domanda, alla fine il tono della voce di solito ___.
+- Qual è il modo migliore di leggere davanti alla classe?
+- Come leggi la frase «Che paura!»?
+- In un dialogo parlano un lupo e un agnellino. Che cosa puoi fare per renderlo più vivo?
+- Perché, prima di leggere ad alta voce, è utile leggere il testo da solo, in silenzio?
+- Spiega come leggeresti ad alta voce questa frase: «Chi è? – chiese Anna tremando.»
 
 ## Leggere bene per capire [lib-3-elementare-italiano-leggere-e-capire] · INDIZIO
 concetti: Informazioni scritte; Capire ciò che non è scritto; Parole nuove dal contesto; Titolo e idea principale
@@ -354,6 +651,17 @@ concetti: Che cosa indicano; L'accordo con il nome; Loro non cambia; Possessivi 
 - Marco dice a Sara: «Ho trovato ... penna». La penna è di Sara. Che cosa dice Marco?
 - Perché si dice «la sua bicicletta» sia se la bici è di Luca sia se è di Anna?
 
+## Nel mondo della fantasia [lib-3-elementare-italiano-racconto-fantastico] · MAGIA
+concetti: Il racconto fantastico; Personaggi fantastici; Fantasia con ordine
+- Quale elemento rende fantastico un racconto?
+- Nei racconti fantastici possono esserci oggetti che parlano.
+- Un essere che arriva da un altro pianeta si chiama ___.
+- Quale titolo è di un racconto fantastico?
+- Anche un racconto fantastico deve avere...
+- Nella storia «Pippo, la tartaruga che va a scuola», Pippo parla e fa i compiti. Che cosa lo rende un personag…
+- Perché in un racconto fantastico conviene spiegare le regole della magia (per esempio: l'ombrello magico funz…
+- Inventa l'inizio di un racconto fantastico: presenta il personaggio, l'elemento magico e la regola della sua …
+
 ## Nel regno delle fiabe [lib-3-elementare-italiano-fiaba] · FATA
 concetti: Che cos'è la fiaba; Le formule tipiche; I ruoli dei personaggi; Prove e lieto fine
 - Con quale formula comincia spesso una fiaba?
@@ -364,6 +672,61 @@ concetti: Che cos'è la fiaba; Le formule tipiche; I ruoli dei personaggi; Prove
 - In una fiaba l'eroe riceve un mantello che lo rende invisibile. Che cos'è il mantello?
 - Metti in ordine i momenti tipici di una fiaba.
 - Spiega perché «Cappuccetto Rosso» è una fiaba: indica almeno due elementi tipici.
+
+## Nomi comuni e nomi propri [lib-3-elementare-italiano-nomi-comuni-e-propri] · ROMA
+concetti: Il nome comune; Il nome proprio; Dal comune al proprio
+- Quale di questi è un nome proprio?
+- Il nome «gatto» è un nome comune.
+- «Giulia», «Fido» e «Napoli» sono nomi ___.
+- Qual è il nome comune adatto per «Etna»?
+- Quale coppia unisce bene un nome comune e un nome proprio?
+- Perché «bambina» è un nome comune e «Giulia» è un nome proprio?
+- Quale parola diventa il nome proprio di una bambina se la scrivi con la maiuscola?
+- Spiega la differenza tra nome comune e nome proprio con due esempi.
+
+## Numeri che diventano aggettivi [lib-3-elementare-italiano-aggettivi-numerali] · PRIMO
+concetti: I numerali cardinali; I numerali ordinali; Scrivere i numeri in lettere; Ordinali che si accordano
+- Quale di questi è un aggettivo numerale ordinale?
+- Nella frase «Ho sette matite», «sette» indica una quantità.
+- Luca è arrivato dopo il primo e prima del terzo: è arrivato ___.
+- Come si scrive in lettere il numero 23?
+- Quale parola completa la frase «Le bambine siedono nella ___ fila»?
+- In una classifica, chi è «decimo» viene...
+- Metti in ordine gli aggettivi numerali ordinali, dal primo posto in poi.
+- Spiega la differenza tra «tre» e «terzo» usando due frasi.
+
+## Nuvolette e vignette [lib-3-elementare-italiano-il-fumetto] · NUVOLA
+concetti: Le vignette; Le nuvolette; Didascalie e onomatopee
+- Come si chiamano i riquadri di un fumetto?
+- La nuvoletta del pensiero è collegata al personaggio da piccoli cerchi, come bollicine.
+- Le parole che i personaggi dicono si scrivono dentro le ___.
+- Quattro vignette sono disposte su due righe da due. Metti in ordine come le leggi.
+- Una nuvoletta ha il bordo a punte, come una stella. Che cosa indica di solito?
+- Il riquadro con scritto «Il giorno dopo...» che cos'è?
+- In una vignetta un personaggio ha una nuvoletta con dentro solo un grande punto interrogativo. Che cosa vuol …
+- Racconta come trasformeresti una breve storia in un fumetto di tre vignette: che cosa metteresti in ognuna?
+
+## Parlare e ascoltare a turno [lib-3-elementare-italiano-regole-della-conversazione] · TURNO
+concetti: Ascoltare con attenzione; Rispettare il turno; Esprimere un'idea; Rispettare le idee diverse
+- In classe vuoi intervenire durante una discussione. Che cosa fai?
+- Ascoltare con attenzione significa anche guardare chi parla e non distrarsi.
+- Mentre un compagno parla non bisogna ___.
+- Quale frase esprime un'opinione spiegando il motivo?
+- Un compagno non è d'accordo con te. Qual è il comportamento giusto?
+- Perché è importante ascoltare bene prima di rispondere?
+- Devi raccontare alla classe la tua gita. Che cosa ti aiuta a farti capire?
+- Scrivi tre regole per una buona discussione in classe e spiega perché sono utili.
+
+## Parole arrivate da lontano [lib-3-elementare-italiano-parole-straniere] · SPORT
+concetti: I prestiti; Da dove arrivano; Parole italiane nel mondo
+- Quale di queste parole arriva dalla lingua inglese?
+- La parola italiana «pizza» si usa in moltissime lingue del mondo.
+- Sabato e domenica, cioè il fine settimana, in inglese si dice ___.
+- Da quale lingua arriva la parola «garage»?
+- Che cos'è un «prestito», quando si parla di parole?
+- Quale parola italiana usano anche molte persone straniere per salutare?
+- Perché la lingua italiana accoglie parole come «sport» o «film»?
+- Perché noi italiani usiamo la parola «computer» e in tutto il mondo si dice «pizza»? Spiegalo con parole tue.
 
 ## Parole che uniscono le frasi [lib-3-elementare-italiano-congiunzioni] · LEGAME
 concetti: A che cosa servono; E, o, ma; Perché e quindi; Se e quando
@@ -387,6 +750,17 @@ concetti: Che cosa sono; Evitare le ripetizioni; Il sinonimo giusto; Verbi più 
 - Quale verbo è più preciso di «fa» in «Il nonno fa una casetta di legno per gli uccellini»?
 - «Vecchio» e «anziano» sono sinonimi. Perché si dice «un signore anziano» ma non «una scarpa anziana»?
 
+## Parole in disordine [lib-3-elementare-italiano-ordine-delle-parole] · ORDINE
+concetti: L'ordine dà senso; Soggetto, predicato, espansioni; Cambiare ordine, cambiare senso; Maiuscola e punto
+- Quale frase ha le parole nell'ordine giusto?
+- «Il gatto insegue il topo» e «Il topo insegue il gatto» hanno lo stesso significato.
+- Una frase comincia con la lettera maiuscola e finisce con un segno come il ___.
+- Metti in ordine le parole per formare la frase «La nonna prepara una torta».
+- Quale di queste frasi NON ha senso?
+- Perché «Il cane morde l'uomo» è diverso da «L'uomo morde il cane»?
+- Riordina «sole – splende – oggi – il». Quale frase è scritta correttamente?
+- Spiega perché in una frase l'ordine delle parole è importante, con un esempio.
+
 ## Parole mamme e parole figlie [lib-3-elementare-italiano-nomi-primitivi-derivati] · PANE
 concetti: Il nome primitivo; Il nome derivato; Mestieri e negozi; Derivato o alterato
 - Quale di questi nomi è primitivo?
@@ -397,6 +771,17 @@ concetti: Il nome primitivo; Il nome derivato; Mestieri e negozi; Derivato o alt
 - Quale parola NON appartiene alla famiglia di «pane»?
 - Che differenza c'è tra «libreria» e «libretto»?
 - Partendo dal nome primitivo «giardino», scrivi due nomi derivati e spiega che cosa significano.
+
+## Parole ombrello e parole precise [lib-3-elementare-italiano-parole-generali-e-particolari] · FRUTTA
+concetti: La parola generale; Le parole particolari; Raggruppare e trovare l'intruso
+- Quale parola generale comprende «rosa, margherita, tulipano»?
+- «Pesce» è una parola particolare rispetto a «trota».
+- Martello, cacciavite e pinza sono tutti ___.
+- Qual è l'intruso nel gruppo «cane, gatto, rosa, cavallo»?
+- Quale parola è particolare rispetto a «mobili»?
+- Quale gruppo contiene solo strumenti musicali?
+- Perché in una descrizione è meglio scrivere «un pettirosso» invece di «un uccello»?
+- Scegli una parola generale (per esempio «verdure») e scrivi quattro parole particolari che comprende.
 
 ## Più alto, altissimo! [lib-3-elementare-italiano-gradi-aggettivo] · MASSIMO
 concetti: Grado positivo; Il comparativo; Il superlativo; Forme speciali
@@ -420,6 +805,28 @@ concetti: Il plurale regolare; Nomi invariabili; Plurali irregolari; Solo plural
 - Perché si dice «un bar, due bar» e non «due bari»?
 - Un bambino ha scritto «Ho visto due buei nel campo». Spiega l'errore e correggi la frase.
 
+## Poesie in verticale: l'acrostico [lib-3-elementare-italiano-acrostico] · LETTERA
+concetti: Che cos'è l'acrostico; Come si scrive; Versi legati alla parola
+- In un acrostico, che cosa formano le lettere iniziali dei versi lette dall'alto in basso?
+- Un acrostico della parola SOLE ha quattro versi.
+- Nell'acrostico di MARE, il primo verso comincia con la lettera ___.
+- Metti in ordine i passaggi per scrivere un acrostico.
+- Leggi: «Gioca con il gomitolo / Accanto al camino / Tranquillo / Tutto il giorno / Ozia e fa le fusa». Quale …
+- Per un acrostico della parola NEVE, quale verso è più adatto come primo?
+- Perché in un buon acrostico i versi devono parlare della parola scelta?
+- Scrivi un acrostico con la parola SOLE.
+
+## Predicato verbale o nominale? [lib-3-elementare-italiano-predicato-verbale-e-nominale] · COPULA
+concetti: Il predicato verbale; Il predicato nominale; Essere da solo
+- Nella frase «La campanella suona», qual è il predicato?
+- Nella frase «La rosa è profumata» il predicato è nominale.
+- Il predicato nominale è formato dal verbo ___ insieme a un nome o a un aggettivo.
+- Quale frase ha un predicato nominale?
+- Quale frase ha un predicato verbale?
+- Nella frase «La mamma è in cucina», il predicato è verbale perché...
+- Nella frase «I miei amici sono simpatici», quali parole formano il predicato?
+- Spiega la differenza tra predicato verbale e predicato nominale con due frasi sullo stesso animale.
+
 ## Preposizione più articolo [lib-3-elementare-italiano-preposizioni-articolate] · INSIEME
 concetti: Come nascono; D'accordo con il nome; Con lo, gli e l'; Con, per, tra e fra
 - Da quali parole nasce «nel»?
@@ -441,6 +848,17 @@ concetti: Il punto fermo; La virgola; Il punto interrogativo; Il punto esclamati
 - Quale di queste frasi ha bisogno del punto esclamativo?
 - Che cosa cambia tra «Luca è arrivato.» e «Luca è arrivato?»
 - Leggi «Mangiamo nonna!» e «Mangiamo, nonna!». Spiega che cosa cambia grazie alla virgola.
+
+## Quale? Che! Aggettivi curiosi [lib-3-elementare-italiano-aggettivi-interrogativi-esclamativi] · QUALE
+concetti: Aggettivi interrogativi; Aggettivi esclamativi; L'accordo di quale e quanto
+- Nella domanda «Quale gelato vuoi?», la parola «quale» è un aggettivo...
+- Nella frase «Che sorpresa!» la parola «che» è un aggettivo esclamativo.
+- ___ caramelle hai mangiato?
+- Quale domanda è scritta correttamente?
+- Quale segno trovi alla fine di una frase con un aggettivo esclamativo?
+- Quale frase contiene un aggettivo interrogativo?
+- In quale frase «quanti» è un aggettivo esclamativo?
+- Scrivi una domanda e un'esclamazione con la parola «quanta» (o «quanto») e spiega la differenza.
 
 ## Quando serve la maiuscola? [lib-3-elementare-italiano-lettere-maiuscole] · GRANDE
 concetti: Inizio della frase; I nomi propri; Giorni e mesi; Dopo la virgola
@@ -464,6 +882,39 @@ concetti: Questo; Quello; Codesto; Le forme di quello
 - Sei in cima alla collina e vedi un castello in lontananza. Che cosa dici?
 - Spiega la differenza tra «Prendi questa mela» e «Prendi quella mela».
 
+## Ripasso: le parti del discorso [lib-3-elementare-italiano-parti-del-discorso-ripasso] · PAROLA
+concetti: Le parti variabili; Le parti invariabili; Riconoscerle nella frase
+- Nella frase «Il gatto dorme», che cos'è «dorme»?
+- Il nome è una parte variabile del discorso: può cambiare da singolare a plurale.
+- Le parole che non cambiano mai forma, come «ieri» o «con», si chiamano parti ___.
+- Nella frase «La bambina allegra canta», che cos'è «allegra»?
+- Quale di queste parole è invariabile?
+- Nella frase «Luca e Marta giocano», che cos'è «e»?
+- Perché l'articolo è una parte variabile?
+- Scrivi una frase breve e indica che cos'è ogni parola (nome, articolo, verbo...).
+
+## Ritratto di un animale [lib-3-elementare-italiano-descrivere-un-animale] · ZAMPA
+concetti: L'aspetto; Comportamento e abitudini; Oggettiva o soggettiva; Parole precise
+- Quale parola usi per descrivere la copertura del corpo di un uccello?
+- «Il mio criceto di giorno dorme e di notte corre sulla ruota» descrive un comportamento.
+- Il cane del vicino ha il pelo ___ e lucido.
+- Quale frase è una descrizione soggettiva?
+- Quale frase è oggettiva, cioè vera per chiunque osservi l'animale?
+- Per descrivere le abitudini di un animale, quale informazione scegli?
+- Perché «Il gatto ha gli occhi gialli e le orecchie a punta» è meglio di «Il gatto è carino»?
+- Descrivi un animale che conosci: com'è fatto, come si comporta e che cosa provi per lui.
+
+## Ritratto di una persona [lib-3-elementare-italiano-descrivere-una-persona] · VOLTO
+concetti: L'aspetto fisico; Carattere e abitudini; L'ordine della descrizione; Le similitudini
+- Quale informazione descrive l'aspetto fisico?
+- «Lo zio Carlo ogni sera porta a spasso il cane» descrive un'abitudine.
+- Per fare una similitudine si dice: «Ha gli occhi verdi ___ l'erba di primavera».
+- In quale ordine conviene descrivere una persona?
+- Quale frase descrive il carattere?
+- Quale descrizione del viso è più precisa?
+- Che cosa vuol dire «È forte come un toro»?
+- Descrivi una persona della tua famiglia: aspetto fisico, carattere e un'abitudine.
+
 ## Sciarpe, pesci e scheletri [lib-3-elementare-italiano-sci-sce-sch] · SCIA
 concetti: SCE e SCI dolci; SCIA, SCIO, SCIU; Il suono duro SCH
 - In quale parola senti il suono dolce di SCI?
@@ -474,6 +925,17 @@ concetti: SCE e SCI dolci; SCIA, SCIO, SCIU; Il suono duro SCH
 - Attenzione, «pesche» è un frutto! Qual è il plurale di «pesce»?
 - Perché «bosco» al plurale si scrive «boschi»?
 - Spiega perché nella parola «sciarpa» c'è la I, anche se quasi non si sente.
+
+## Scrivere una lettera [lib-3-elementare-italiano-la-lettera] · POSTA
+concetti: Le parti della lettera; Lettera ed email; Il tono giusto
+- Dove si scrivono di solito luogo e data in una lettera?
+- Per spedire un'email non servono la busta e il francobollo.
+- Per spedire una lettera per posta bisogna incollare sulla busta il ___.
+- Metti in ordine le parti di una lettera.
+- Quale saluto iniziale va bene in una lettera al sindaco?
+- Che cosa ha un'email che una lettera di carta di solito non ha?
+- Perché in una lettera a un amico puoi scrivere «Un abbraccio forte!»?
+- Scrivi le prime righe di una lettera a un amico lontano: luogo, data, saluto e due frasi del messaggio.
 
 ## Si tocca o si sente? [lib-3-elementare-italiano-nomi-concreti-astratti] · GIOIA
 concetti: Nomi concreti; Nomi astratti; Astratti da aggettivi
@@ -508,6 +970,17 @@ concetti: Che cosa sono gli omonimi; Capire dal contesto; Nomi o verbi?
 - Marta legge: «Ho visto le penne sul tavolo». Come può capire se sono penne per scrivere, piume o pasta?
 - Scrivi due frasi con la parola «riso» usando i suoi due significati e spiega la differenza.
 
+## Storie che potrebbero accadere [lib-3-elementare-italiano-racconto-realistico] · VERO
+concetti: Il racconto realistico; Luoghi e personaggi di ogni giorno; Realistico o fantastico?
+- Che cosa racconta un racconto realistico?
+- Una storia in cui un bambino perde lo zaino sull'autobus e poi lo ritrova è realistica.
+- Nei racconti realistici i luoghi sono quelli di tutti i giorni, come la scuola, la casa o il ___.
+- Quale inizio è di un racconto realistico?
+- Quale personaggio è adatto a un racconto realistico?
+- Se in un racconto realistico il cane comincia a parlare, che cosa succede?
+- Perché i racconti realistici ci aiutano a capire le persone?
+- Racconta in tre frasi un fatto realistico che è successo (o potrebbe succedere) a scuola.
+
 ## Taglia le parole a pezzetti [lib-3-elementare-italiano-divisione-in-sillabe] · SILLABA
 concetti: Che cos'è la sillaba; Le doppie si dividono; Gruppi che restano uniti; L, M, N, R e consonante
 - In quante sillabe si divide la parola «telefono»?
@@ -529,6 +1002,28 @@ concetti: Il nome collettivo; Gruppi di animali; Gruppi di persone e cose; Colle
 - Quale frase è scritta correttamente?
 - Che differenza c'è tra «alberi» e «bosco»?
 - Perché si dice «Il gregge pascola» e non «Il gregge pascolano», anche se le pecore sono tante?
+
+## Tempi da una o due parole [lib-3-elementare-italiano-tempi-semplici-e-composti] · AIUTO
+concetti: Tempi semplici; Tempi composti; Il participio passato
+- Quale di questi verbi è a un tempo semplice?
+- «Ho giocato» è un tempo composto perché è formato da due parole.
+- Il participio passato di «finire» è ___.
+- Qual è il participio passato di «vendere»?
+- Quale frase contiene un tempo composto?
+- Da quali due parti è formato un tempo composto?
+- Completa: «Marco e Luca sono ___ al parco.»
+- Spiega la differenza tra tempo semplice e tempo composto con il verbo «cantare».
+
+## Testi che spiegano il mondo [lib-3-elementare-italiano-testo-informativo] · SAPERE
+concetti: Lo scopo; Linguaggio preciso; Titoli, paragrafi e immagini; Informativo o narrativo?
+- A che cosa serve un testo informativo?
+- Nei testi informativi si usano spesso dati precisi e numeri.
+- La breve frase sotto una foto che spiega che cosa mostra si chiama ___.
+- Quale frase è adatta a un testo informativo sul gatto?
+- A che cosa servono i titoletti nei paragrafi di un testo informativo?
+- Quale titolo è di un testo informativo?
+- Che differenza c'è tra un testo informativo e un racconto?
+- Scegli un animale che conosci e scrivi tre informazioni su di lui, come in un testo informativo.
 
 ## Tre famiglie di verbi [lib-3-elementare-italiano-verbi-e-coniugazioni] · VERBO
 concetti: Che cos'è il verbo; L'infinito; Le tre coniugazioni; Radice e desinenza
@@ -552,6 +1047,39 @@ concetti: Che cos'è un prefisso; Prefissi che dicono no; Ri-, pre- e super-; Fa
 - In quale parola «ri-» NON è un prefisso?
 - Aggiungi un prefisso a «felice» per ottenere il suo contrario e spiega come hai fatto.
 
+## Un po' di pane: il partitivo [lib-3-elementare-italiano-articolo-partitivo] · POCO
+concetti: Una quantità non precisa; Le forme; Il trucco per riconoscerlo
+- Nella frase «Vorrei del latte», che cosa vuol dire «del»?
+- La frase «Ho comprato delle mele» si può dire anche «Ho comprato alcune mele».
+- Al mercato ho preso ___ spinaci freschi.
+- Quale partitivo va bene davanti a «zucchero»?
+- Quale frase è scritta correttamente?
+- In quale frase «della» indica una quantità non precisa (si può dire «un po' di»)?
+- Come fai a capire se «dei» è un partitivo?
+- Scrivi una frase con un articolo partitivo e spiega perché lo è.
+
+## Un testo a pezzetti: le sequenze [lib-3-elementare-italiano-le-sequenze] · PEZZO
+concetti: Che cos'è una sequenza; Quando cambia sequenza; Dare un titolo; Tipi di sequenza
+- Che cos'è una sequenza?
+- Quando la storia passa dal bosco al castello può cominciare una nuova sequenza.
+- A ogni sequenza si può dare un breve ___ che riassume ciò che succede.
+- Quale di queste espressioni indica di solito l'inizio di una nuova sequenza?
+- Una sequenza in cui si dice com'è fatto il castello, con torri e mura grigie, è...
+- Una sequenza fatta soprattutto di battute tra personaggi si chiama...
+- Leggi la sequenza: «Luca cerca il pallone dappertutto e alla fine lo trova sotto il letto.» Qual è il titolo …
+- Perché è utile dividere un testo in sequenze? Spiegalo con parole tue.
+
+## Verbi ribelli: andare e fare [lib-3-elementare-italiano-verbi-irregolari] · VADO
+concetti: Regolari e irregolari; Il verbo andare; Fare e dire; Stare e dare
+- Come si dice con «io» il verbo andare al presente?
+- Il verbo «parlare» è irregolare perché cambia la radice.
+- Voi ___ sempre i compiti con attenzione.
+- Qual è la forma giusta: «Loro ___ la verità»?
+- Quale frase è scritta correttamente?
+- Perché «andare» è un verbo irregolare?
+- Come si coniuga «noi» con il verbo stare al presente?
+- Che differenza c'è tra un verbo regolare e uno irregolare? Spiegalo con un esempio.
+
 ## Versi, strofe e rime [lib-3-elementare-italiano-poesia-versi-strofe-rime] · RIMA
 concetti: Versi e strofe; La rima; Rima baciata e alternata; La similitudine
 - Quale parola fa rima con «cuore»?
@@ -562,3 +1090,25 @@ concetti: Versi e strofe; La rima; Rima baciata e alternata; La similitudine
 - Leggi: «Cade la neve bianca, / copre il prato e il sentiero, / la volpe è un po' stanca, / dorme sotto il pin…
 - Quale di queste frasi contiene una similitudine?
 - Inventa una similitudine per descrivere la neve e spiega che cosa hai confrontato.
+
+## Vocali che vanno d'accordo [lib-3-elementare-italiano-dittonghi-e-iati] · PAURA
+concetti: Vocali forti e deboli; Il dittongo; Lo iato
+- Quali sono le vocali deboli?
+- Nella parola «piede» le vocali IE stanno nella stessa sillaba.
+- In «poeta» la O e la E sono due vocali forti, quindi si dividono: po-___-ta.
+- Come si divide in sillabe «fiume»?
+- Quale parola contiene uno iato, cioè due vocali vicine che si dividono?
+- In quale parola c'è un dittongo?
+- Perché in «maestra» la A e la E si separano (ma-e-stra)?
+- Che cos'è un dittongo? Spiegalo con un esempio diviso in sillabe.
+
+## Vocali e consonanti in squadra [lib-3-elementare-italiano-vocali-e-consonanti] · VOCALE
+concetti: Le cinque vocali; Le consonanti; Una vocale in ogni sillaba
+- Quante sono le vocali dell'alfabeto italiano?
+- L'alfabeto italiano ha 21 lettere: 5 vocali e 16 consonanti.
+- Nella parola «uva» ci sono due ___ e una consonante.
+- Quale di queste parole comincia con una consonante?
+- Quante vocali ci sono nella parola «aiuola»?
+- Se togli tutte le vocali da «gatto», che cosa resta?
+- Perché in ogni sillaba c'è almeno una vocale?
+- Spiega che differenza c'è tra vocali e consonanti e fai un esempio di ciascuna.

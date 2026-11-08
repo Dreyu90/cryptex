@@ -1,5 +1,5 @@
-# 3ª media · Inglese: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 3ª media · Inglese: 90 missioni valide
+# ultima bozza numerata: 10 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Ago, last, since: segnali di tempo [lib-3-media-inglese-segnali-di-tempo] · TIME
@@ -35,6 +35,17 @@ concetti: Impegni fissati; Domande sui programmi; Orari ufficiali
 - Ordina gli impegni di Luca per sabato, dal mattino alla sera.
 - Spiega perché si dice 'The museum opens at 10' ma 'I'm visiting the museum tomorrow'.
 
+## As tall as: confronti alla pari [lib-3-media-inglese-as-as-uguaglianza] · EQUAL
+concetti: As + aggettivo + as; Not as... as; Same e different; Pronomi dopo as
+- Che cosa significa 'Sara is as old as Giulia'?
+- Completa: 'My bike is as fast ___ yours.'
+- 'The bus is not as fast as the train' significa...
+- Quale frase ha lo stesso significato di 'Rome is bigger than Bologna'?
+- 'My phone is the same as yours' significa che i telefoni sono uguali.
+- Completa: 'Your answer is different ___ mine.'
+- Quale frase è corretta?
+- Confronta in inglese te stesso con un amico usando as... as, not as... as e the same as.
+
 ## Been o gone? Andata e ritorno [lib-3-media-inglese-been-gone] · BEEN
 concetti: Been to; Gone to; Scegliere tra i due
 - 'She has been to Paris' significa che lei…
@@ -45,6 +56,28 @@ concetti: Been to; Gone to; Scegliere tra i due
 - Quale domanda chiede un'esperienza di viaggio?
 - Un compagno è assente perché è in montagna con la famiglia. Che cosa dice l'insegnante?
 - Spiega con parole tue la differenza tra 'Anna has been to the gym' e 'Anna has gone to the gym'.
+
+## Bigger, more expensive: i comparativi [lib-3-media-inglese-comparativi] · BIGGER
+concetti: Aggettivi brevi; Aggettivi in -y; Aggettivi lunghi; Than e irregolari
+- Qual è il comparativo di 'tall'?
+- Completa: 'An elephant is ___ than a horse.'
+- Qual è il comparativo di 'easy'?
+- Quale frase è corretta?
+- 'My marks are worse than last year' significa che i voti sono peggiorati.
+- Qual è il comparativo di 'good'?
+- Un treno va a 300 km/h, un'auto a 130 km/h. Quale frase è vera?
+- Confronta in inglese due città o due animali che conosci con tre comparativi diversi (uno breve, uno in -y, u…
+
+## Bored o boring? [lib-3-media-inglese-aggettivi-ed-ing] · BORING
+concetti: Aggettivi in -ed; Aggettivi in -ing; Coppie comuni; Errore tipico
+- Che cosa significa 'I'm bored'?
+- Completa: 'This book is really ___. I can't stop reading!'
+- Completa: 'The match was very ___!'
+- Se dici 'I'm boring' stai dicendo che ti annoi.
+- Dopo la gita in montagna ti senti stanco. Che cosa dici?
+- Completa: 'We were ___ to see snow in May.'
+- Qual è la regola per scegliere tra -ed e -ing?
+- Scrivi in inglese due frasi su un film che hai visto usando una coppia di aggettivi -ed/-ing.
 
 ## By: chi ha compiuto l'azione? [lib-3-media-inglese-passivo-complemento-agente] · AGENT
 concetti: Complemento d'agente; Quando omettere by; Da attiva a passiva; Pronomi dopo by
@@ -57,6 +90,17 @@ concetti: Complemento d'agente; Quando omettere by; Da attiva a passiva; Pronomi
 - Ordina i passaggi per trasformare 'Tom painted the door' in passiva.
 - Spiega perché in 'My phone was stolen' non c'è 'by', mentre in 'Guernica was painted by Picasso' sì.
 
+## Can be recycled: passivo con i modali [lib-3-media-inglese-passivo-modali] · RECYCLE
+concetti: Struttura; Etichette e istruzioni; Negativa; Significato dei modali
+- Come si forma il passivo con un modale?
+- Che cosa significa 'Keep refrigerated. Must be eaten within 3 days'?
+- Completa l'etichetta: 'This bottle can ___ recycled.'
+- 'Phones mustn't be used during the exam' significa che è vietato usare il telefono durante l'esame.
+- Quale frase è corretta?
+- Trasforma al passivo: 'You must wear a helmet.'
+- Che cosa indica 'should be' in 'Plants should be watered twice a week'?
+- Scrivi in inglese tre regole per una biblioteca con il passivo e i modali (must be, mustn't be, can be).
+
 ## Can e could: saper fare [lib-3-media-inglese-can-could-abilita] · ABLE
 concetti: Can per abilità presenti; Could per abilità passate; Be able to; Forma dei modali
 - Quale frase è corretta?
@@ -67,6 +111,17 @@ concetti: Can per abilità presenti; Could per abilità passate; Be able to; For
 - Quale frase parla di un'abilità passata che oggi non c'è più?
 - Come si forma la negativa di 'can'?
 - Scrivi una cosa che sai fare ora (can) e una che non sapevi fare da piccolo (couldn't), poi spiega la differe…
+
+## Can I have the menu, please? [lib-3-media-inglese-al-ristorante] · MENU
+concetti: Chiedere un tavolo; Ordinare; Domande del cameriere; Il conto
+- Come chiedi un tavolo per tre persone?
+- Completa: 'I'd ___ a cheese sandwich, please.'
+- Il cameriere chiede 'Are you ready to order?'. Che cosa vuole sapere?
+- Quale frase è più gentile per ordinare?
+- In Gran Bretagna il conto al ristorante si chiama 'the bill'.
+- Come chiedi il conto in modo cortese?
+- Metti in ordine i momenti al ristorante.
+- Scrivi in inglese un breve dialogo (4 battute) tra te e un cameriere: ordina un piatto e una bevanda.
 
 ## Can I? May I? Chiedere permesso [lib-3-media-inglese-chiedere-permesso] · PLEASE
 concetti: Can per il permesso informale; Could per richieste gentili; May per il permesso formale; Rispondere
@@ -90,6 +145,17 @@ concetti: Obbligo e divieto; Permesso e abilità; Consiglio e possibilità; Sceg
 - Quale frase chiede il permesso in modo educato a un adulto?
 - Inventa tre regole per la tua classe ideale usando must, mustn't e can, e spiega che funzione ha ciascun moda…
 
+## Com'è cambiato! Descrivere i cambiamenti [lib-3-media-inglese-cambiamenti-present-perfect] · CHANGE
+concetti: Cambiamenti fino a oggi; Verbi di cambiamento; Prima e adesso; Comparativi nei cambiamenti
+- Che cosa significa 'increase'?
+- Completa: 'You ___ grown so much since last summer!'
+- Quale frase descrive un cambiamento ancora visibile oggi?
+- In 'Ten years ago the village was small, but now it has become a busy town' si usano due tempi diversi perché…
+- Quale frase usa correttamente un comparativo per un cambiamento?
+- Il numero di studenti passa da 300 a 250. Che cosa è successo?
+- Perché si dice 'Technology has improved our lives' quando parli della vita di oggi?
+- Descrivi in inglese con 2-3 frasi come sei cambiato tu dalle elementari a oggi, usando il present perfect.
+
 ## Come si pronuncia -ed? [lib-3-media-inglese-pronuncia-ed] · SOUND
 concetti: Suono /ɪd/; Suono /t/; Suono /d/; Sillaba in più
 - In quale verbo la -ed si pronuncia come una sillaba in più, /ɪd/?
@@ -100,6 +166,17 @@ concetti: Suono /ɪd/; Suono /t/; Suono /d/; Sillaba in più
 - Perché la -ed di 'kissed' si pronuncia /t/?
 - In quale verbo la -ed si pronuncia /d/?
 - Spiega perché 'wanted' ha due sillabe mentre 'walked' ne ha una sola.
+
+## Dear Tom: scrivere un'email [lib-3-media-inglese-email-informale] · EMAIL
+concetti: Apertura; Frasi iniziali; Corpo; Chiusura
+- Come inizi un'email a un amico di nome Tom?
+- Quale frase si usa all'inizio per ringraziare dell'email ricevuta?
+- Completa la chiusura: 'Write ___! Love, Giulia'
+- 'Yours faithfully' è la chiusura più adatta per un'email a un amico.
+- Metti in ordine le parti di un'email informale.
+- Quale frase è adatta per dire che sei felice di avere sue notizie?
+- Perché è utile dividere l'email in paragrafi?
+- Scrivi in inglese l'inizio e la fine di un'email al tuo amico di penna inglese, con una frase di novità nel m…
 
 ## Did e didn't: domande al passato [lib-3-media-inglese-past-simple-did-didnt] · ASKED
 concetti: Did nelle domande; Didn't nelle negative; Risposte brevi; Il verbo be al passato
@@ -123,6 +200,50 @@ concetti: Forma negativa; Forma interrogativa; Risposte brevi; Domande con Wh-
 - Metti in ordine le parole per formare la domanda.
 - Un'amica ti chiede: 'Have you read this book?'. Rispondi con una risposta breve e spiega come l'hai costruita.
 
+## Enjoy swimming o want to swim? [lib-3-media-inglese-gerundio-infinito] · ENJOY
+concetti: Verbi + -ing; Verbi + to; Like, love, hate; -ing come soggetto e dopo preposizioni
+- Completa: 'I enjoy ___ to music.'
+- Quale frase è corretta?
+- Quale verbo vuole la forma in -ing?
+- 'I love dancing' e 'I love to dance' sono entrambe corrette.
+- Quale frase è corretta?
+- Completa: 'We decided ___ a pizza.'
+- Perché 'Smoking is bad for your health' inizia con -ing?
+- Scrivi in inglese due cose che ti piace fare (enjoy + -ing) e due cose che vuoi fare in futuro (want + to).
+
+## Era una notte buia: la scena [lib-3-media-inglese-past-continuous-descrizioni] · SCENE
+concetti: Forma; Descrivere lo sfondo; Azione in corso a un'ora precisa; Sfondo e azione principale
+- Quale frase è al past continuous?
+- Completa: 'It ___ raining and the wind was blowing.'
+- 'At nine o'clock yesterday I was doing my homework' indica un'azione in corso a un'ora precisa del passato.
+- Ieri alle 16 eri in piscina. Come rispondi a 'What were you doing at 4 pm?'
+- Quale frase descrive meglio lo sfondo all'inizio di un racconto?
+- Nella frase 'The children were playing in the garden when a dog jumped over the fence', quale verbo è l'event…
+- Perché in 'Everyone was laughing when the teacher came in' si usano due tempi diversi?
+- Scrivi in inglese l'inizio di una storia di mistero (2-3 frasi) che descrive la scena con il past continuous …
+
+## Excuse me, where is...? [lib-3-media-inglese-indicazioni-stradali] · STREET
+concetti: Chiedere; Direzioni; Posizioni; Ringraziare
+- Come inizi in modo educato a chiedere un'indicazione?
+- Completa: 'Go ___ on and then turn left.'
+- Che cosa significa 'The bank is opposite the post office'?
+- 'Turn right' significa 'gira a sinistra'.
+- Completa: 'The café is ___ the cinema and the bank.'
+- Metti in ordine le indicazioni nel dialogo.
+- Quale domanda è corretta?
+- Spiega in inglese a un turista come arrivare dalla tua scuola al negozio o al parco più vicino (2-3 frasi).
+
+## False friends: attenti alle trappole! [lib-3-media-inglese-false-friends] · TRAP
+concetti: Cosa sono; Parole di scuola; Parole di tutti i giorni; Come difendersi
+- Che cosa significa 'library'?
+- Che cosa significa 'parents'?
+- Completa: 'I thought he was Spanish, but ___ he's from Mexico.' (in realtà)
+- 'Eventually' significa 'eventualmente'.
+- Che cosa significa 'She's a very sensible girl'?
+- 'We had an argument' significa...
+- Perché i false friends sono pericolosi per chi parla italiano?
+- Scegli due false friends, spiega in italiano che cosa significano davvero e scrivi una frase inglese corretta…
+
 ## First conditional: se succede, allora… [lib-3-media-inglese-first-conditional-forma] · WILL
 concetti: Struttura; Situazioni possibili; Niente will dopo if; Won't nella conseguenza
 - Quale frase è un first conditional corretto?
@@ -134,6 +255,17 @@ concetti: Struttura; Situazioni possibili; Niente will dopo if; Won't nella cons
 - Metti in ordine le parole.
 - Spiega perché 'If I will see Marco, I will tell him' è sbagliata e correggila.
 
+## First, then, finally: racconta! [lib-3-media-inglese-connettivi-narrativi] · THEN
+concetti: Iniziare; Continuare; Concludere; Eventi contemporanei
+- Quale connettivo usi per iniziare un racconto?
+- Che cosa significa 'in the end'?
+- Completa la ricetta: 'First, boil the water. ___, add the pasta.'
+- 'Suddenly' si usa per introdurre un evento improvviso e inaspettato.
+- Metti in ordine i connettivi come compaiono di solito in un racconto.
+- Quale frase usa correttamente 'while'?
+- Che cosa esprime 'at last' in 'At last you're here!'?
+- Racconta in inglese in 3-4 frasi una giornata di gita usando almeno tre connettivi diversi.
+
 ## For o since? Questione di tempo [lib-3-media-inglese-for-since] · SINCE
 concetti: For + durata; Since + inizio; Azioni che continuano; Tradurre 'da'
 - In una frase al present perfect, quale espressione di tempo va con 'for'?
@@ -144,6 +276,17 @@ concetti: For + durata; Since + inizio; Azioni che continuano; Tradurre 'da'
 - Quale frase è sbagliata?
 - Ordina queste durate dalla più breve alla più lunga.
 - Perché la frase 'Studio inglese da quattro anni' in inglese non si traduce con il present simple?
+
+## Going to: forma e domande [lib-3-media-inglese-going-to-forma] · GOING
+concetti: Forma affermativa; Negativa; Domande; Previsioni con prove
+- Completa: 'We ___ going to watch a film tonight.'
+- Quale frase è corretta?
+- Come si dice 'Non ho intenzione di uscire'?
+- Come chiedi a un amico che cosa farà questo weekend?
+- Guardando un bambino che corre verso una pozzanghera puoi dire 'He's going to fall!'
+- Metti in ordine le parole per formare la domanda.
+- Il cielo è nero e senti tuoni. Quale frase è più adatta?
+- Scrivi in inglese due cose che hai intenzione di fare la prossima estate e una che non hai intenzione di fare…
 
 ## Hai mai...? Ever e never [lib-3-media-inglese-ever-never] · NEVER
 concetti: Ever nelle domande; Never nelle frasi; Posizione degli avverbi; Esperienze di vita
@@ -178,6 +321,39 @@ concetti: La domanda How long; Rispondere con for e since; How long al past simp
 - Metti in ordine le parole per formare la domanda.
 - Rispondi in due modi alla domanda 'How long have you studied English?': una volta con for e una con since. Sp…
 
+## However, although: argomentare bene [lib-3-media-inglese-connettivi-argomentativi] · HOWEVER
+concetti: Aggiungere; Contrapporre; Causa ed effetto; Concludere
+- Che cosa significa 'however'?
+- Completa: 'It was raining, ___ we stayed at home.'
+- Completa: 'I like this school ___ the teachers are friendly.'
+- Quale frase usa correttamente 'although'?
+- 'In conclusion' si usa all'inizio di un testo per presentare l'argomento.
+- Quale connettivo aggiunge un'idea in un testo formale?
+- Metti in ordine i connettivi come si usano in un breve testo argomentativo.
+- Scrivi in inglese 3-4 frasi sul tema 'Should students have homework every day?' usando almeno tre connettivi …
+
+## I've been waiting: azione che dura [lib-3-media-inglese-present-perfect-continuous] · WAITING
+concetti: Struttura del tempo; Azione ancora in corso; Tracce visibili; Domande con How long
+- Quale frase è al present perfect continuous?
+- Completa: 'They have ___ playing football since three o'clock.'
+- 'I've been learning English for five years' significa che ho smesso di studiare inglese cinque anni fa.
+- Come chiedi a un amico da quanto tempo aspetta l'autobus?
+- Tuo fratello è rosso in faccia e sudato. Che cosa dici?
+- Come si traduce 'Piove da stamattina'?
+- Perché si dice 'I've known her for years' e non 'I've been knowing her'?
+- Spiega in italiano la differenza tra 'I've painted the room' e 'I've been painting the room', con un esempio …
+
+## If + can, might, should [lib-3-media-inglese-first-conditional-modali] · MIGHT
+concetti: Will nella conseguenza; Might e may; Can per possibilità o permesso; Should e must
+- Che differenza c'è tra 'we will go' e 'we might go'?
+- Completa: 'If you finish your homework, you ___ play video games.'
+- In 'If it's sunny, we'll go to the beach' il verbo dopo if è al presente.
+- Il tuo amico ha mal di denti. Che consiglio gli dai?
+- Quale frase esprime una conseguenza solo possibile?
+- Quale frase è sbagliata?
+- Quale frase esprime un obbligo nella conseguenza?
+- Scrivi in inglese tre frasi al first conditional con will, might e should nella conseguenza.
+
 ## If all'inizio o alla fine? [lib-3-media-inglese-conditional-ordine-virgola] · COMMA
 concetti: If all'inizio; If a metà frase; Stesso significato
 - Quale frase ha la punteggiatura corretta?
@@ -189,6 +365,17 @@ concetti: If all'inizio; If a metà frase; Stesso significato
 - Metti in ordine le parti per formare un first conditional che inizi con 'if'.
 - Scrivi la stessa frase al first conditional in due modi, con 'if' all'inizio e a metà, e spiega dove metti la…
 
+## In my opinion: dire la tua [lib-3-media-inglese-opinioni-accordo] · OPINION
+concetti: Esprimere un'opinione; Essere d'accordo; Non essere d'accordo; Chiedere un'opinione
+- Come si dice 'Secondo me'?
+- Quale frase esprime accordo?
+- Completa: 'I ___ with you: video games can be educational.'
+- 'I am agree' è un modo corretto di dire 'Sono d'accordo'.
+- Quale frase esprime disaccordo in modo educato?
+- Come chiedi l'opinione di un compagno?
+- Come dici che non sei d'accordo con una buona ragione?
+- Rispondi in inglese alla domanda 'Should mobile phones be allowed at school?' dando la tua opinione e un moti…
+
 ## Indovina la parola: definizioni in inglese [lib-3-media-inglese-definizioni-relative] · DEFINE
 concetti: A person who…; A thing which/that…; A place where…; Spiegare senza la parola
 - 'A person who looks after sick animals' è…
@@ -199,6 +386,17 @@ concetti: A person who…; A thing which/that…; A place where…; Spiegare sen
 - In un negozio a Londra non ricordi la parola 'charger'. Che cosa puoi dire?
 - 'A place where planes take off and land' è…
 - Scegli una parola inglese che conosci (persona, cosa o luogo) e scrivi una definizione con who, which o where…
+
+## Intervista a una campionessa [lib-3-media-inglese-intervista-campione] · MEDAL
+concetti: Domande sulle esperienze; Domande sui dettagli; Durata della carriera; Rispondere bene
+- Come chiedi a un'atleta quante medaglie ha vinto in carriera?
+- Quale domanda chiede un dettaglio preciso?
+- Completa la risposta: 'I ___ been a professional runner since 2019.'
+- Alla domanda 'Have you ever lost a final?' è corretto rispondere 'Yes, I did'.
+- Metti in ordine lo scambio di battute dell'intervista.
+- Che cosa significa 'How long have you been a member of the team?'
+- Quale risposta è coerente con 'When did you start skiing?'
+- Scrivi in inglese tre domande per intervistare il tuo sportivo preferito: una con 'Have you ever', una con 'W…
 
 ## Inventato, scritto, scoperto: passivi famosi [lib-3-media-inglese-passivo-invenzioni-opere] · INVENT
 concetti: Scoperte; Opere d'arte e libri; Invenzioni; Domande al passivo
@@ -222,6 +420,17 @@ concetti: Verbi irregolari; Cambio di vocale; Forme molto diverse; Raccontare al
 - Metti in ordine il racconto di una gita.
 - Perché per i verbi irregolari non basta conoscere la regola dell'-ed? Fai due esempi.
 
+## It's the first time I've... [lib-3-media-inglese-prima-volta] · FIRST
+concetti: It's the first time; Seconda e terza volta; Al passato; Errore tipico italiano
+- Come si dice 'È la prima volta che vengo a Londra'?
+- 'It's the first time I eat sushi' è una frase corretta in inglese standard.
+- Completa: 'This is the third time she ___ lost her keys this month!'
+- Quale participio completa 'It's the first time I've ___ a horse'? (cavalcare)
+- Racconti un ricordo d'infanzia. Quale frase è corretta?
+- Che cosa significa 'It's the second time you've told me this joke'?
+- Perché in inglese dopo 'It's the first time' si usa il present perfect?
+- Scrivi in inglese due frasi: una su qualcosa che fai oggi per la prima volta e una su un ricordo, al passato,…
+
 ## Just: è appena successo! [lib-3-media-inglese-just-appena] · JUST
 concetti: Significato di just; Posizione di just; Notizie e situazioni fresche
 - Che cosa significa 'The train has just left'?
@@ -233,6 +442,39 @@ concetti: Significato di just; Posizione di just; Notizie e situazioni fresche
 - Metti in ordine le parole.
 - Qual è la differenza tra 'I've just eaten' e 'I've already eaten'?
 
+## Let me go! Permessi e divieti [lib-3-media-inglese-allowed-to-let] · ALLOWED
+concetti: Be allowed to; Not allowed to; Let; Al passato
+- Che cosa significa 'My mum lets me use her laptop'?
+- Completa: 'Students are ___ to wear trainers on Fridays.'
+- Come si dice 'Non è permesso correre a bordo piscina'?
+- Quale frase con let è corretta?
+- 'When I was six, I wasn't allowed to go out alone' parla di un permesso nel passato.
+- Qual è il past simple di 'let'?
+- Quale frase vuol dire la stessa cosa di 'The teacher lets us choose our seats'?
+- Scrivi in inglese due cose che i tuoi genitori ti lasciano fare (let) e una che non hai il permesso di fare (…
+
+## Made of, made from, made in [lib-3-media-inglese-made-of-from-in] · WOOD
+concetti: Made of; Made from; Made in; Materiali
+- Che cosa significa 'leather'?
+- Completa: 'This T-shirt is made ___ cotton.'
+- Quale frase è corretta?
+- Come dici che il tuo orologio è stato prodotto in Svizzera?
+- 'Paper is made from wood' è corretto perché il legno viene trasformato e non si riconosce più.
+- Metti in ordine le fasi della produzione della carta.
+- Quale frase descrive bene una finestra?
+- Descrivi in inglese due oggetti che hai in camera dicendo di che cosa sono fatti e, se lo sai, dove sono stat…
+
+## Make o do? Fare la scelta giusta [lib-3-media-inglese-make-do] · MAKE
+concetti: Make; Do; Espressioni fisse; Do come verbo generico
+- Come si dice 'fare i compiti'?
+- Completa: 'Let's ___ a cake for Mum's birthday!'
+- Quale espressione è corretta?
+- Completa: 'Could you ___ me a favour?'
+- 'I always make my bed in the morning' è corretto.
+- Quale frase è sbagliata?
+- Qual è la regola generale per scegliere tra make e do?
+- Scrivi in inglese due cose che fai nel weekend con 'do' e due con 'make'.
+
 ## May e might: forse sì [lib-3-media-inglese-may-might-possibilita] · MAYBE
 concetti: Possibilità; Forma negativa; Might o will
 - Che cosa significa 'It might rain this afternoon'?
@@ -243,6 +485,17 @@ concetti: Possibilità; Forma negativa; Might o will
 - Come dici 'Forse domani non avrò tempo'?
 - Ti chiedono 'Where's Luca?' e non lo sai di preciso. Che cosa rispondi?
 - Spiega la differenza tra 'I will go to London next summer' e 'I might go to London next summer'.
+
+## Much, many, a few, a little [lib-3-media-inglese-quantificatori] · LITTLE
+concetti: Much e many; A lot of; A few e a little; How much / How many
+- Quale parola è non numerabile?
+- Completa: 'How ___ brothers have you got?'
+- Quale frase è corretta?
+- Completa: 'There's ___ milk left, enough for a coffee.'
+- 'She has a lot of friends' è una frase corretta.
+- Come chiedi il prezzo di una maglietta?
+- Quale frase usa correttamente 'a few'?
+- Descrivi in inglese il tuo frigorifero di casa usando almeno tre quantificatori diversi (a lot of, a few, a l…
 
 ## Must be: deduzioni da detective [lib-3-media-inglese-deduzioni-must-cant] · CLUE
 concetti: Must per deduzioni sicure; Can't per l'impossibilità; Might e could per ipotesi; Dagli indizi alla conclusione
@@ -276,6 +529,17 @@ concetti: Mustn't; Don't have to; Regole quotidiane
 - La gita è gratuita. Che cosa dice l'insegnante?
 - Perché 'You mustn't eat the cake' e 'You don't have to eat the cake' sono molto diverse?
 - Scrivi una regola della tua scuola con 'mustn't' e una cosa che non sei obbligato a fare con 'don't have to'.
+
+## Myself, yourself: i riflessivi [lib-3-media-inglese-pronomi-riflessivi] · MYSELF
+concetti: Forme; Uso riflessivo; By myself; Each other
+- Qual è il riflessivo di 'we'?
+- Completa: 'Be careful! Don't hurt ___ with that knife.' (parlando a un amico)
+- Completa: 'The children enjoyed ___ at the party.'
+- 'I did my homework by myself' significa che ho fatto i compiti da solo, senza aiuto.
+- Qual è la differenza tra 'They looked at themselves' e 'They looked at each other'?
+- Qual è il riflessivo di 'she'?
+- Due amici si scrivono messaggi ogni giorno. Quale frase lo dice?
+- Scrivi in inglese una frase con un pronome riflessivo, una con by + riflessivo e una con each other.
 
 ## Need e needn't: serve davvero? [lib-3-media-inglese-need-neednt] · NEED
 concetti: Need to; Non è necessario; Need + nome
@@ -321,6 +585,17 @@ concetti: Struttura; Chi subisce l'azione; Usi tipici; Is o are
 - Metti in ordine le parti per formare una frase passiva.
 - Perché diciamo 'Coffee is grown in Brazil' senza dire chi lo coltiva?
 
+## Past perfect: era già successo [lib-3-media-inglese-past-perfect] · BEFORE
+concetti: Struttura; Il passato del passato; Ordine degli eventi; Before e after
+- Come si forma il past perfect?
+- Completa: 'She ___ already left when I called her.'
+- Nella frase 'When we got to the station, the train had left', che cosa è successo prima?
+- 'When I arrived, the party started' e 'When I arrived, the party had started' hanno lo stesso significato.
+- Quale frase è corretta?
+- Metti in ordine cronologico gli eventi della frase: 'When Luca phoned, Anna had already gone to bed because s…
+- Quale frase usa correttamente 'by the time'?
+- Scrivi in inglese una frase con 'when' che contiene un past simple e un past perfect, poi spiega quale azione…
+
 ## Past simple: verbi regolari in -ed [lib-3-media-inglese-past-simple-regolari-spelling] · WALKED
 concetti: Regola base -ed; Verbi che finiscono in -e; Verbi che finiscono in -y; Raddoppio della consonante
 - Qual è il past simple di 'clean'?
@@ -331,6 +606,28 @@ concetti: Regola base -ed; Verbi che finiscono in -e; Verbi che finiscono in -y;
 - Perché 'plan' al past simple diventa 'planned' con due n?
 - Metti in ordine i passaggi per scrivere il past simple di 'try'.
 - Scrivi il past simple di 'shop' e di 'open' e spiega perché solo uno dei due raddoppia la consonante.
+
+## Phrasal verbs di tutti i giorni [lib-3-media-inglese-phrasal-verbs-quotidiani] · GETUP
+concetti: Che cosa sono; La giornata; In casa; Cercare e trovare
+- Che cosa significa 'get up'?
+- Completa: 'Please ___ off the light when you leave.'
+- Fa freddo e vuoi metterti il giubbotto. Che cosa dici?
+- Che cosa significa 'I'm looking for my keys'?
+- 'Don't give up!' significa 'Non arrenderti!'
+- Metti in ordine le azioni della mattina.
+- Perché 'look' e 'look after' hanno significati diversi?
+- Descrivi in inglese la tua mattina usando almeno quattro phrasal verbs.
+
+## Probably, definitely: quanto sei sicuro? [lib-3-media-inglese-probably-definitely] · SURE
+concetti: Will per le previsioni; Gradi di certezza; Posizione dell'avverbio; I think / I don't think
+- Che cosa significa 'definitely'?
+- Completa la previsione: 'Tomorrow it ___ rain in the north.'
+- Dove va probably in una frase affermativa con will?
+- Quale frase negativa è corretta?
+- 'I don't think we'll lose' è un modo naturale per dire che probabilmente non perderemo.
+- Ordina dal più sicuro al meno sicuro.
+- La squadra ha vinto tutte le partite. Quale previsione è più sensata?
+- Scrivi in inglese tre previsioni sulla tua vita fra dieci anni usando definitely, probably e I don't think.
 
 ## Promesse e avvertimenti con if [lib-3-media-inglese-conditional-promesse-avvertimenti] · PROMISE
 concetti: Promesse; Avvertimenti; Accordi; Imperativo nella conseguenza
@@ -353,6 +650,17 @@ concetti: Tempo definito; Tempo indefinito; Domande con When; Italiano e inglese
 - Confronta 'I've lost my wallet' e 'I lost my wallet on the bus yesterday'. Che cosa cambia?
 - Metti in ordine il dialogo.
 - Traduci 'Ho mangiato la pizza' in due modi diversi in inglese e spiega quando useresti ciascuno.
+
+## Question tags: vero, no? [lib-3-media-inglese-question-tags] · TAGS
+concetti: Cosa sono; Positiva e negativa; Stesso ausiliare; Casi speciali
+- A che cosa serve una question tag?
+- Completa: 'It's a beautiful day, ___ it?'
+- Quale tag completa 'You can swim, ...?'
+- Quale tag completa 'Your brother lives in London, ...?'
+- 'They didn't come, did they?' è corretta: frase negativa e tag positiva.
+- Quale tag completa 'You've seen this film, ...?'
+- Quale frase è corretta?
+- Spiega in italiano come si costruisce una question tag e scrivi due esempi in inglese, uno con frase affermat…
 
 ## Racconta un'esperienza in inglese [lib-3-media-inglese-raccontare-esperienze] · STORY
 concetti: Aprire con il present perfect; Passare al past simple; Domande di dettaglio; Reazioni
@@ -387,6 +695,28 @@ concetti: Zero conditional; First conditional; Second conditional; Scegliere il 
 - Ordina le frasi dalla situazione più certa a quella più immaginaria.
 - Scegli una situazione, per esempio la neve, e scrivi una frase al first conditional e una al second condition…
 
+## Ripasso: tutti i modi del futuro [lib-3-media-inglese-ripasso-futuro] · AGENDA
+concetti: Will; Going to; Present continuous; Present simple
+- Quale tempo usi per l'orario di un treno?
+- Squilla il telefono. Che cosa dici?
+- Completa: 'I ___ seeing the dentist on Tuesday at 4.' (è già fissato)
+- Hai già deciso di imparare la chitarra. Quale frase lo esprime?
+- 'I promise I'll help you' usa will perché è una promessa.
+- Quale frase è un appuntamento fissato?
+- Quale coppia associa bene frase e uso?
+- Scrivi in inglese il tuo programma per domenica usando almeno tre forme diverse di futuro, e indica quale uso…
+
+## Say o tell? Riferire le parole [lib-3-media-inglese-say-tell-discorso-indiretto] · TOLD
+concetti: Say; Tell; Discorso indiretto; Pronomi e tempo
+- Quale frase è corretta?
+- Completa: 'He ___ that he was busy.'
+- Completa: 'My teacher ___ us to be quiet.'
+- Nel discorso indiretto 'I am tired' riferito al passato diventa di solito 'He said he was tired'.
+- Anna dice: 'I like pizza.' Come lo riferisci?
+- Tom dice: 'I can't come.' Quale forma indiretta è corretta?
+- Perché 'He said me that...' è un errore?
+- Il tuo amico ti ha detto: 'I'm going to the cinema.' Riferiscilo in inglese con said e con told, e spiega la …
+
 ## Se fossi… il second conditional [lib-3-media-inglese-second-conditional] · DREAM
 concetti: Struttura; Situazioni immaginarie; If I were; First o second
 - Quale frase è un second conditional corretto?
@@ -409,6 +739,39 @@ concetti: Should per consigliare; Shouldn't per sconsigliare; Chiedere consiglio
 - Hai mal di denti. Quale consiglio è corretto e sensato?
 - Una compagna è preoccupata per la verifica di domani. Scrivi due consigli, uno con should e uno con shouldn't.
 
+## So o such? Che meraviglia! [lib-3-media-inglese-so-such] · AMAZING
+concetti: So + aggettivo; Such + nome; So... that; So much, so many
+- Quale frase è corretta?
+- Completa: 'It was ___ a long journey!'
+- Quale frase è corretta?
+- In 'The test was so difficult that nobody finished it' so... that esprime una conseguenza.
+- Completa: 'I've got ___ homework tonight!'
+- Quale frase ha lo stesso significato di 'The music was so loud that I couldn't sleep'?
+- Perché si dice 'such a beautiful day' ma 'so beautiful'?
+- Scrivi in inglese due frasi su una vacanza: una con 'so' e una con 'such', e una delle due con 'that' per la …
+
+## Somebody, anything, nowhere [lib-3-media-inglese-pronomi-indefiniti] · SOMEONE
+concetti: Some-; Any-; No-; Every-
+- Che cosa significa 'somewhere'?
+- Completa: 'Is there ___ in the fridge? I'm hungry!'
+- Quale frase è corretta?
+- 'Everybody are happy' è corretta perché everybody indica molte persone.
+- Come si dice 'Non conosco nessuno qui'?
+- Offri qualcosa da bere. Che cosa dici?
+- Quale frase ha lo stesso significato di 'There's nothing in the box'?
+- Scrivi in inglese tre frasi sulla tua classe usando un pronome con some-, uno con no- e uno con every-.
+
+## Still o not any more? [lib-3-media-inglese-still-any-more] · STILL
+concetti: Still; Not any more; Still o yet; Posizione
+- Che cosa significa 'My grandma still works'?
+- Come si dice 'Non abito più a Roma'?
+- Completa: 'It's ten o'clock and Tom is ___ asleep.'
+- In 'I haven't finished my homework yet' si potrebbe mettere 'still' al posto di 'yet' alla fine della frase.
+- Quale frase ha still nella posizione corretta?
+- Il tuo amico doveva arrivare un'ora fa e non è arrivato. Che cosa dici?
+- Da piccolo collezionavi figurine, ora no. Quale frase lo dice?
+- Scrivi in inglese una cosa che fai ancora da quando eri piccolo (still) e una che non fai più (not any more).
+
 ## That e pronome sottinteso [lib-3-media-inglese-relativi-that-sottinteso] · THAT
 concetti: That per persone e cose; Pronome soggetto; Pronome oggetto
 - In 'The cake that you made is delicious', a che cosa si riferisce 'that'?
@@ -420,6 +783,39 @@ concetti: That per persone e cose; Pronome soggetto; Pronome oggetto
 - Quale frase è corretta, senza pronome relativo?
 - Spiega perché in 'The book that I bought' puoi omettere 'that', mentre in 'The book that won the prize' no.
 
+## The best I've ever seen! [lib-3-media-inglese-superlativo-ever] · BEST
+concetti: Superlativo + ever; Superlativi irregolari; Esprimere entusiasmo
+- Qual è il superlativo di 'good'?
+- Qual è il superlativo di 'bad'?
+- Completa: 'This is the most beautiful beach I have ever ___.'
+- Nella frase 'It's the best book I've ever read' si usa il present perfect perché parli di tutta la tua esperi…
+- Quale frase è corretta?
+- Metti in ordine le parole per formare la frase: 'È il gelato più buono che abbia mai mangiato'.
+- Torni da una gita splendida a Edimburgo. Quale commento è più naturale?
+- Scrivi in inglese una frase con 'the ... I've ever ...' su un libro, un film o un cibo, e spiega in italiano …
+
+## The tallest, the most famous [lib-3-media-inglese-superlativi] · TALLEST
+concetti: Aggettivi brevi; Aggettivi lunghi; In e of; Irregolari
+- Qual è il superlativo di 'big'?
+- Completa: 'Mount Everest is the highest mountain ___ the world.'
+- Qual è il superlativo di 'famous'?
+- 'It was the worst day of my life' usa il superlativo irregolare di bad.
+- Quale frase è corretta?
+- Quale fiume è più lungo d'Italia? Scegli la frase corretta.
+- Perché si dice 'the happiest day of the year' con of?
+- Scrivi in inglese tre frasi sulla tua famiglia o la tua classe con superlativi diversi (breve, lungo, irregol…
+
+## Too o enough? Troppo o abbastanza [lib-3-media-inglese-too-enough] · ENOUGH
+concetti: Too + aggettivo; Aggettivo + enough; Enough + nome; Too much, too many
+- Che cosa significa 'This T-shirt is too small'?
+- Completa: 'Are you old ___ to drive?'
+- Quale frase è corretta?
+- Completa: 'There are ___ people on this bus!'
+- 'I drink too much water' è corretta perché water è non numerabile.
+- Quale frase vuol dire che non riesci a raggiungere lo scaffale?
+- 'It's not warm enough to swim' ha lo stesso significato di...
+- Scrivi in inglese una frase con 'too' e una con 'enough' sulla tua scuola o sulla tua città.
+
 ## Ultime notizie: risultati nel presente [lib-3-media-inglese-notizie-e-risultati] · NEWS
 concetti: Notizie recenti; Dettagli al past simple; Risultato visibile ora
 - Quale frase è adatta per annunciare una novità appena accaduta?
@@ -430,6 +826,17 @@ concetti: Notizie recenti; Dettagli al past simple; Risultato visibile ora
 - Perché i notiziari spesso iniziano con il present perfect e poi passano al past simple?
 - Metti in ordine questa notizia.
 - La cucina è piena di fumo. Scrivi una frase al present perfect che spieghi che cosa è successo e perché scegl…
+
+## Un-, dis-, -ful, -less: formare parole [lib-3-media-inglese-prefissi-suffissi] · PREFIX
+concetti: Prefissi negativi; Suffisso -ful; Suffisso -less; Suffissi per i mestieri
+- Qual è il contrario di 'happy'?
+- Completa: 'It's ___ to finish this in one minute!' (impossibile)
+- Che cosa significa 'careful'?
+- Che cosa significa 'useless'?
+- 'Careless' e 'careful' hanno significati opposti.
+- Chi è una persona che suona il piano?
+- Qual è il contrario di 'agree'?
+- Forma in inglese due parole con un prefisso e due con un suffisso, spiegando in italiano il loro significato.
 
 ## Unless: a meno che… [lib-3-media-inglese-unless] · UNLESS
 concetti: Significato di unless; Verbo affermativo; Avvertimenti e condizioni
@@ -452,6 +859,17 @@ concetti: Significato di used to; Forma affermativa; Negativa e domanda; Used to
 - In quale frase si usa il past simple e non 'used to'?
 - Il nonno dice: 'There used to be a cinema here.' Che cosa capisci?
 - Scrivi due cose che facevi da piccolo e che ora non fai più usando 'used to', e spiega perché non usi il pres…
+
+## Verbi di stato: niente -ing [lib-3-media-inglese-verbi-di-stato] · STATE
+concetti: Verbi di stato; Verbi di azione; Errori da evitare; Verbi con due significati
+- Quale di questi è un verbo di stato?
+- Quale frase è corretta?
+- 'She is playing the piano right now' è corretta perché play è un verbo di azione.
+- Completa: 'This bike ___ to my cousin.'
+- In quale frase 'think' indica un'attività e quindi va bene al continuous?
+- Quale coppia è corretta?
+- Perché 'I'm understanding the lesson' suona sbagliato in inglese?
+- Spiega in italiano la differenza tra verbi di stato e verbi di azione, con un esempio inglese per tipo.
 
 ## Verso l'esame: grande ripasso finale [lib-3-media-inglese-ripasso-finale-esame] · EXAM
 concetti: Passivo; Pronomi relativi; Modali; Periodo ipotetico; Present perfect
@@ -486,6 +904,17 @@ concetti: If per l'incertezza; When per la certezza; Presente dopo when; As soon
 - Metti in ordine le parole.
 - Spiega la differenza tra 'If I see Anna, I'll tell her' e 'When I see Anna, I'll tell her'.
 
+## When were you born? [lib-3-media-inglese-was-born] · BORN
+concetti: Be born; Was o were; Preposizioni; Domande
+- Come si dice 'Sono nato a Napoli'?
+- Completa: 'My twin brothers ___ born in 2015.'
+- Quale preposizione completa 'I was born ___ 14th February'?
+- Come chiedi a una nuova compagna dove è nata?
+- 'She was born in 2011' è corretto perché con l'anno si usa in.
+- Quale frase è corretta?
+- Perché in inglese si dice 'I was born' e non 'I born'?
+- Presentati in inglese dicendo quando e dove sei nato tu e dove è nato un tuo familiare.
+
 ## While e when: azioni interrotte [lib-3-media-inglese-past-continuous-while-when] · WHILE
 concetti: Past continuous; Azione interrotta; While e when; Azioni contemporanee
 - Come si forma il past continuous?
@@ -518,6 +947,17 @@ concetti: Whose; Where; Whose o who's
 - Che cosa significa 'a writer whose books are famous'?
 - Quale frase usa 'where' in modo sbagliato?
 - Scrivi una frase con 'whose' e una con 'where' per descrivere la tua scuola o il tuo quartiere.
+
+## Will be built: il passivo al futuro [lib-3-media-inglese-passivo-futuro] · FUTURE
+concetti: Struttura; Negativa e domanda; Annunci e notizie; Da attivo a passivo
+- Come si forma il passivo al futuro?
+- Completa: 'The new school will ___ opened in September.'
+- Trasforma al passivo: 'They will deliver the parcel tomorrow.'
+- 'The match won't be shown on TV' significa che la partita non sarà trasmessa in TV.
+- Come si chiede se la festa sarà organizzata dalla scuola?
+- Quale annuncio è corretto?
+- Perché in 'The tickets will be sold online' non si dice chi venderà i biglietti?
+- Immagina di essere il sindaco: scrivi in inglese tre annunci su cose che saranno fatte in città usando will b…
 
 ## Will o going to? Decidi tu [lib-3-media-inglese-will-going-to] · PLAN
 concetti: Going to per i piani; Will per decisioni immediate; Previsioni; Promesse e offerte

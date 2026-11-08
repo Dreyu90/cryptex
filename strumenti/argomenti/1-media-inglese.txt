@@ -1,6 +1,17 @@
-# 1ª media · Inglese: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 1ª media · Inglese: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A scuola in Inghilterra [lib-1-media-inglese-scuola-nel-regno-unito] · TERM
+concetti: Primary e secondary; Gli anni; Il calendario; La giornata
+- A che età di solito un ragazzo inglese inizia la secondary school?
+- Un ragazzo inglese di 11-12 anni frequenta...
+- L'anno scolastico inglese è diviso in tre «terms».
+- A short holiday in the middle of a term is called ___.
+- Che cos'è l'«assembly» in una scuola britannica?
+- Come si chiamano i tre terms?
+- Molti studenti britannici pranzano a scuola. Che cosa ti fa capire?
+- Confronta la tua scuola con la secondary school inglese: indica una somiglianza e una differenza.
 
 ## A, an o the? [lib-1-media-inglese-articoli-a-an-the] · HOUR
 concetti: A e an; Conta il suono; The; Senza articolo
@@ -34,6 +45,39 @@ concetti: Le tre forme del presente; Le forme contratte; Usi di to be
 - Come dici in inglese «Ho undici anni»?
 - Quale frase usa to be per dire da dove viene una persona?
 - Presentati in inglese con almeno tre frasi che usano to be (nome, età, provenienza) e indica quale forma del …
+
+## And, but, or, because [lib-1-media-inglese-congiunzioni-and-but-or-because] · BECAUSE
+concetti: And; But; Or; Because e so
+- «I've got a cat ___ a dog.» Quale congiunzione aggiunge un'informazione?
+- «I like apples, ___ I don't like pears.»
+- «Or» si usa per offrire una scelta: «Tea or coffee?».
+- I'm wearing a coat ___ it's cold.
+- «It's raining, ___ I'm taking my umbrella.»
+- Quale frase è corretta?
+- Qual è la differenza tra «because» e «so»?
+- Scrivi due frasi in inglese su di te, una con «but» e una con «because», poi spiega che cosa esprime ciascuna…
+
+## Apples, carrots e tomatoes [lib-1-media-inglese-frutta-e-verdura] · CARROT
+concetti: La frutta; La verdura; Plurali particolari; Sapori e gusti
+- Che frutto è una «pear»?
+- «Onion» è...
+- Il plurale di «tomato» è «tomatos».
+- I love ___! They're red and sweet.
+- Quale frutto cresce a grappoli?
+- Che sapore ha un limone?
+- Come dici che ti piacciono le carote in generale?
+- Scrivi in inglese qual è la tua verdura preferita e quale non ti piace, spiegando perché (2-3 frasi).
+
+## Are you free on Saturday? [lib-1-media-inglese-inviti-e-proposte] · PARTY
+concetti: Invitare; Accettare; Rifiutare con gentilezza; Proporre
+- Come chiedi a un amico se sabato è libero?
+- Un amico ti invita al cinema e vuoi andarci. Rispondi:
+- «Sorry, I can't. I'm busy.» è un modo gentile per rifiutare.
+- How about ___ to the park?
+- Quale proposta è corretta?
+- Quale risposta è un rifiuto gentile?
+- Metti in ordine il dialogo.
+- Un compagno ti invita a giocare a calcio, ma non puoi. Scrivi in inglese una risposta gentile con un motivo e…
 
 ## Attenti ai false friends! [lib-1-media-inglese-false-friends] · LIBRARY
 concetti: Che cosa sono; Luoghi e materiali; Oggetti; Altre parole ingannevoli
@@ -79,6 +123,39 @@ concetti: I pasti; Cibi e bevande; Ordinare in modo gentile; La colazione ingles
 - Quale parola NON indica una bevanda?
 - Racconta in inglese che cosa mangi di solito a colazione e a pranzo, con almeno due frasi.
 
+## By bus o on foot? [lib-1-media-inglese-mezzi-di-trasporto] · TRAIN
+concetti: I mezzi; By + mezzo; On foot; I verbi giusti
+- A Londra la metropolitana si chiama anche...
+- Come dici «Vado a scuola in autobus»?
+- «A piedi» si dice «on foot».
+- My dad ___ his car to work every day.
+- Quale verbo si usa con «bike» e «horse»?
+- Per andare da Roma a New York il mezzo più comune è...
+- Quale frase è corretta?
+- Come vai a scuola? Rispondi in inglese e spiega perché si dice «by bus» ma «on foot».
+
+## Caccia all'errore: present simple [lib-1-media-inglese-ripasso-present-simple-errori] · ERROR
+concetti: La -s dimenticata; Do e does; To be non serve; Avverbi al posto giusto
+- Trova l'errore: «My cat sleep on the sofa.»
+- Quale domanda è corretta?
+- «I am live in Rome» è corretto.
+- Correggi «I go always to bed at ten»: I ___ go to bed at ten.
+- Quale frase negativa è corretta?
+- Quale frase è corretta?
+- In quale frase manca una -s?
+- Un compagno scrive «My brother don't like football, he play basketball». Correggi la frase e spiega i due err…
+
+## Can I help you? Al negozio [lib-1-media-inglese-al-negozio-dialoghi] · CHANGE
+concetti: Il commesso; Il cliente; Il prezzo; Pagare
+- Entri in un negozio e il commesso dice «Can I help you?». Che cosa significa?
+- Vuoi solo dare un'occhiata senza comprare. Rispondi:
+- £3.50 si legge «three pounds fifty».
+- How much ___ these jeans?
+- Che cos'è il «receipt»?
+- Vuoi provare una maglietta. Che cosa chiedi?
+- Come chiedi se puoi pagare con la carta?
+- Scrivi un breve dialogo (3-4 battute) tra te e un commesso in un negozio di souvenir a Londra.
+
 ## Can I…? Chiedere il permesso [lib-1-media-inglese-can-permesso-richieste] · PLEASE
 concetti: Chiedere il permesso; Fare richieste; Rispondere; Can per possibilità e divieti
 - Vuoi andare in bagno durante la lezione. Che cosa chiedi all'insegnante?
@@ -122,6 +199,17 @@ concetti: Corporatura e altezza; Capelli e occhi; L'ordine degli aggettivi; What
 - Che differenza c'è tra «What is she like?» e «What does she look like?»
 - Nella frase «She has got blues eyes» l'aggettivo è scritto correttamente.
 - Descrivi in inglese l'aspetto di un tuo amico o di un personaggio famoso con almeno tre frasi, usando sia to …
+
+## Continents and oceans [lib-1-media-inglese-continenti-e-oceani] · OCEAN
+concetti: I continenti; Gli oceani; I punti cardinali; L'Italia in inglese
+- Qual è il continente più grande?
+- Qual è l'oceano più grande?
+- L'Oceano Atlantico separa l'Europa dall'America.
+- The sun rises in the ___.
+- Come si dice «le Alpi» in inglese?
+- Come dici in inglese che l'Italia si trova nell'Europa del sud?
+- In quale continente si trova l'Egitto?
+- Descrivi in inglese dove si trova l'Italia usando almeno due informazioni (continente, mare, punti cardinali,…
 
 ## Da Monday a Sunday [lib-1-media-inglese-giorni-della-settimana] · MONDAY
 concetti: I sette giorni; La maiuscola; Weekdays e weekend; On e every
@@ -189,6 +277,17 @@ concetti: Sensazioni con to be; Avere ragione e torto; Have got per il possesso;
 - Il tuo amico guarda un film dell'orrore. Come dice «Ho paura»?
 - Spiega perché si dice «I've got a sister» ma «I have lunch at one», e non «I've got lunch at one».
 
+## Every day o right now? [lib-1-media-inglese-present-simple-o-continuous] · USUALLY
+concetti: Abitudini: present simple; Adesso: present continuous; Le parole spia; Verbi di stato
+- Quale frase descrive un'abitudine?
+- Quale parola spia richiede il present continuous?
+- «I'm knowing the answer» è una frase corretta.
+- Shh! The baby ___.
+- «My dad ___ to work by train every day.»
+- Quale frase è corretta?
+- «I usually walk to school, but right now I ___ for the bus because it's raining.»
+- Spiega la differenza tra «I play the guitar» e «I'm playing the guitar» e descrivi una situazione per ciascun…
+
 ## First, second, third: le date [lib-1-media-inglese-numeri-ordinali-e-date] · FIRST
 concetti: Gli ordinali; Le abbreviazioni; Scrivere e dire le date; Ordinali nella vita quotidiana
 - Come si dice «terzo»?
@@ -199,6 +298,61 @@ concetti: Gli ordinali; Le abbreviazioni; Scrivere e dire le date; Ordinali nell
 - Che cosa significa «My flat is on the second floor»?
 - Come si legge la data «3rd March»?
 - Scrivi in inglese la data del tuo compleanno in cifre e in lettere, e spiega perché si usano gli ordinali.
+
+## Flat o apartment? UK e USA [lib-1-media-inglese-inglese-britannico-americano] · SOCCER
+concetti: Parole diverse; Spelling diverso; Scuola e sport; Una sola lingua
+- Che parola usa un americano per «lift» (ascensore)?
+- Quale è lo spelling britannico di «colore»?
+- Negli Stati Uniti «football» indica di solito il football americano, e il nostro calcio si chiama «soccer».
+- In the USA, autumn is often called ___.
+- La gomma per cancellare è «rubber» in Gran Bretagna e ... negli USA.
+- Su un documento americano leggi 3/5/2027. Che data è?
+- Quale coppia mostra prima lo spelling britannico e poi quello americano?
+- Un americano e un inglese si capiscono senza problemi? Spiega con almeno un esempio di parola diversa.
+
+## Halloween, Bonfire Night e Christmas [lib-1-media-inglese-festivita-britanniche] · PUMPKIN
+concetti: Halloween; Bonfire Night; Natale e Boxing Day; Pancake Day ed Easter
+- Che cosa dicono i bambini bussando alle porte la sera di Halloween?
+- In che giorno si festeggia Bonfire Night?
+- Boxing Day è il 26 dicembre.
+- At Halloween people make lanterns with ___.
+- Bonfire Night ricorda il complotto fallito del 1605 per far saltare in aria...
+- Che cosa si mangia tradizionalmente il giorno di Shrove Tuesday?
+- Metti queste feste nell'ordine in cui cadono durante l'anno, a partire da gennaio.
+- Che cosa sono i «Christmas crackers»? Indica anche un'altra differenza tra il Natale britannico e quello ital…
+
+## Happy birthday! Feste e regali [lib-1-media-inglese-compleanno-e-auguri] · CANDLE
+concetti: Gli auguri; La festa; I regali; La data
+- Che cosa dici a un amico il giorno del suo compleanno?
+- Alla festa, «present» significa...
+- Sulla torta di compleanno ci sono le «candles».
+- My birthday is ___ 12th April.
+- Ricevi un biglietto che ti chiede di andare a una festa. È un'...
+- Un amico ti dà un regalo. Che cosa rispondi?
+- Che cosa significa «Many happy returns!»?
+- Descrivi in inglese la tua festa di compleanno ideale in 2-3 frasi: dove, con chi e che cosa c'è.
+
+## Happy, sad o bored? [lib-1-media-inglese-emozioni-stati-d-animo] · ANGRY
+concetti: Le emozioni di base; To be + emozione; Bored e boring; Spiegare il perché
+- «Scared» significa...
+- Come si dice «Sono stanco»?
+- «This film is bored» è corretto per dire che il film è noioso.
+- Maths is ___ for my brother, but I love it.
+- Tuo fratello ti ha rotto la bici. Come ti senti?
+- Completa in modo logico: «I'm happy because...»
+- Come chiedi a un amico se sta bene?
+- Spiega la differenza tra «I'm bored» e «I'm boring» e perché è importante non confonderli.
+
+## Have got o have? Due modi [lib-1-media-inglese-have-got-o-have] · HAVING
+concetti: Stesso significato; Domande e negative; Have per le azioni; UK e USA
+- «I have a bike» e «I've got a bike»...
+- Qual è la domanda corretta con have senza got?
+- Si può dire «I've got a shower every morning» per «Faccio la doccia ogni mattina».
+- My sister ___ have a smartphone.
+- Quale risposta breve va con «Do you have a brother?»
+- In quale frase have indica un'azione, e quindi non si può aggiungere got?
+- Dove è più comune «have got» nel parlato di tutti i giorni?
+- Trasforma «She has got a cat» in frase negativa e in domanda, sia con got sia senza got, e spiega la differen…
 
 ## Have got: che cosa possiedi? [lib-1-media-inglese-have-got-affermativo] · HAVE
 concetti: Have got e has got; Le forme brevi; Usi di have got
@@ -222,6 +376,28 @@ concetti: La forma negativa; La forma interrogativa; Le risposte brevi; Any nell
 - Quale domanda useresti per sapere se una nuova amica ha animali domestici?
 - Spiega con parole tue come si trasforma una frase con have got nella forma negativa e in quella interrogativa…
 
+## Head, shoulders, knees and toes [lib-1-media-inglese-parti-del-corpo] · FINGER
+concetti: Testa e viso; Braccia e gambe; Plurali speciali; Il possessivo
+- Che cosa sono le «ears»?
+- Come si chiamano le dita dei piedi?
+- Il plurale di «foot» è «feet».
+- Before lunch I wash ___ hands.
+- Dal dentista: «I brush my ___ every day.»
+- Dove si trova il «knee»?
+- Un mostro ha tre teste. Come lo descrivi?
+- Perché in inglese si dice «I wash my face», mentre in italiano «mi lavo la faccia»? Spiega la regola.
+
+## Hi Tom! Scrivere un'email [lib-1-media-inglese-email-informale] · EMAIL
+concetti: L'apertura; Il corpo; La chiusura; Formale o informale
+- Come inizi un'email a un amico inglese di nome Tom?
+- Quale chiusura è adatta a un'email a un amico?
+- In un'email informale si usano spesso le forme contratte, come I'm e it's.
+- Write ___! Love, Giulia
+- Metti in ordine le parti di un'email informale.
+- Scrivi alla preside di una scuola inglese. Come inizi?
+- Quale frase usi subito dopo il saluto per essere cordiale?
+- Spiega due differenze tra un'email a un amico e una alla preside di una scuola, con un esempio di apertura o …
+
 ## How do you spell it? [lib-1-media-inglese-alfabeto-e-spelling] · SPELL
 concetti: Vocali che ingannano; G e J, Y e W; Le doppie; Chiedere lo spelling
 - Come si pronuncia la lettera I in inglese?
@@ -244,6 +420,17 @@ concetti: How old; How many; How much; Altre domande con how
 - Quale domanda useresti per sapere quanto dista la stazione?
 - Spiega la differenza tra how many e how much, con un esempio per ciascuno.
 
+## Hundred e thousand: numeri grandi [lib-1-media-inglese-numeri-grandi-hundred-thousand] · MILLION
+concetti: Hundred e and; Thousand e million; Niente -s; Virgola e punto
+- Come si legge 300?
+- Nell'inglese britannico, come si legge 105?
+- Si dice «two thousands people».
+- 1,000,000 si legge «one ___».
+- Come scrive un inglese il numero italiano 2.500 (duemilacinquecento)?
+- In un libro inglese leggi «3.5». Che numero è?
+- Come si legge 4,200?
+- Spiega dove va «and» quando leggi 365 in inglese britannico, e perché un italiano tende a dimenticarlo.
+
 ## I love dancing! Gusti e -ing [lib-1-media-inglese-like-love-hate-ing] · LOVE
 concetti: Verbi di gusto; Verbo + -ing; Ortografia della -ing; Terza persona e domande
 - Qual è il verbo più forte per dire che qualcosa non ti piace per niente?
@@ -254,6 +441,39 @@ concetti: Verbi di gusto; Verbo + -ing; Ortografia della -ing; Terza persona e d
 - Quale frase è corretta?
 - Metti in ordine queste espressioni dalla più positiva alla più negativa.
 - Scrivi in inglese tre frasi su una cosa che ami fare, una che non ti dispiace e una che odi, poi spiega che f…
+
+## I'd like… Desideri gentili [lib-1-media-inglese-would-like-desideri] · WOULD
+concetti: Would like = vorrei; Like o would like; La domanda; Would like + to
+- «I'd like a new bike» significa...
+- Quale frase esprime un gusto in generale?
+- Prima di un verbo, «would like» vuole «to»: «I'd like to go to London».
+- Would you like some juice? Yes, ___.
+- Come offri un biscotto a un ospite?
+- Qual è la forma corretta?
+- Qual è la differenza tra «Do you like chocolate?» e «Would you like some chocolate?»
+- Scrivi in inglese una cosa che ti piace fare nel tempo libero (I like) e una che vorresti fare il prossimo we…
+
+## I'm reading now! Present continuous [lib-1-media-inglese-present-continuous-forma] · MOMENT
+concetti: A che cosa serve; La forma; Negative e domande; Le parole spia
+- A che cosa serve il present continuous?
+- Quale frase è corretta?
+- Nel present continuous il verbo to be è obbligatorio: «I playing» è sbagliato.
+- ___ you listening to me? Yes, I am.
+- Come si dice «Non sto guardando la TV»?
+- Quale espressione indica che l'azione avviene adesso?
+- «Look! The children ___ in the garden.»
+- Guarda fuori dalla finestra o intorno a te: descrivi in inglese due cose che stanno succedendo adesso e spieg…
+
+## I'm, don't, can't: forme brevi [lib-1-media-inglese-forme-contratte-ripasso] · SHORT
+concetti: L'apostrofo; Le negative; 's: is o has?; Quando usarle
+- Che cosa sostituisce l'apostrofo in «I'm»?
+- Qual è la forma contratta di «cannot»?
+- Nelle risposte brevi affermative non si usa la forma contratta: si dice «Yes, I am», non «Yes, I'm».
+- They ___ at home: they're at school.
+- In «She's got a new bike», 's sta per...
+- In «He's very funny», 's sta per...
+- In quale testo è più naturale usare le forme contratte?
+- Scrivi la forma intera di «It's», «We aren't» e «He doesn't» e spiega perché nel parlato si preferiscono le f…
 
 ## In, on, at: quando? [lib-1-media-inglese-preposizioni-di-tempo] · NOON
 concetti: At; On; In
@@ -288,6 +508,17 @@ concetti: Paesi e nazionalità; La maiuscola; Lingua e nazionalità; UK e Great 
 - Una ragazza viene da Pechino. Quale frase è corretta?
 - Spiega la differenza tra «I'm from Italy» e «I'm Italian» e scrivi due frasi simili per un altro paese.
 
+## Jeans, jumper e trainers [lib-1-media-inglese-vestiti-abbigliamento] · JUMPER
+concetti: I capi; Nomi sempre plurali; Wear e put on; Scarpe e accessori
+- Che cos'è un «jumper» nell'inglese britannico?
+- Le «trainers» sono...
+- Si dice «My jeans is new».
+- At school I ___ a uniform.
+- Come si dice «un paio di pantaloni»?
+- Fa freddo: che cosa ti metti intorno al collo?
+- «It's cold. Put on your coat!» Qui «put on» significa...
+- Spiega la differenza tra «wear» e «put on» con due frasi di esempio.
+
 ## Kitchen, bedroom: la casa [lib-1-media-inglese-casa-stanze-mobili] · KITCHEN
 concetti: Le stanze; I mobili; Upstairs, downstairs e flat; Descrivere la casa
 - In quale stanza dormi?
@@ -298,6 +529,17 @@ concetti: Le stanze; I mobili; Upstairs, downstairs e flat; Descrivere la casa
 - Che cosa significa «I live in a flat»?
 - Quale frase descrive correttamente una casa?
 - Descrivi in inglese la tua casa con almeno tre frasi, nominando le stanze e qualche mobile.
+
+## Knife, write, hour: lettere mute [lib-1-media-inglese-lettere-mute] · KNIGHT
+concetti: K muta prima di N; W muta prima di R; H muta; Altre lettere mute
+- In quale parola la «k» non si pronuncia?
+- Quale lettera è muta in «write»?
+- In «hour» la h non si pronuncia.
+- My little brother can ___ trees. (la b finale è muta)
+- In quale parola la «l» è muta?
+- Perché si dice «an honest boy» e non «a honest boy»?
+- Come si scrive correttamente «sapere» in inglese?
+- Perché in inglese ci sono lettere che si scrivono ma non si pronunciano? Spiega con l'esempio di «knight».
 
 ## La mia famiglia: family words [lib-1-media-inglese-famiglia-parole] · FAMILY
 concetti: Genitori e figli; Nonni e nipoti; Zii e cugini; Parole utili
@@ -320,6 +562,72 @@ concetti: Le azioni del mattino; Pomeriggio e sera; Verbi con particella; Raccon
 - Quale parola usi per introdurre l'ultima azione di un racconto?
 - Quale frase racconta correttamente la routine di Sara?
 - Racconta in inglese la tua mattina con almeno quattro azioni, usando first, then e finally.
+
+## Laptop, screen e charger [lib-1-media-inglese-tecnologia-dispositivi] · SCREEN
+concetti: I dispositivi; Parti e accessori; Le azioni; Sicurezza online
+- Le «headphones» sono...
+- La «keyboard» del computer è...
+- Il «charger» è il caricabatterie.
+- I ___ a message to my friend every evening.
+- «Download an app» significa...
+- Qual è una regola di sicurezza online?
+- Quale dispositivo è un computer portatile che si apre come un libro?
+- Spiega due regole per usare internet in sicurezza e scrivi ciascuna anche in inglese.
+
+## Library, chemist's e post office [lib-1-media-inglese-luoghi-della-citta] · TOWN
+concetti: Luoghi pubblici; I negozi; Lo svago; Village, town, city
+- Devi spedire una lettera a tua nonna. Dove vai?
+- Che cosa si compra dal «baker's»?
+- «Town hall» è il municipio.
+- I need some medicine. Let's go to the ___.
+- Un piccolo paese di campagna con poche case si chiama...
+- Vuoi vedere un film sul grande schermo. Dove vai?
+- Hai perso il portafoglio e vuoi denunciarlo. Dove vai?
+- Spiega la differenza tra village, town e city e di' quale parola descrive il posto dove vivi.
+
+## Listen to, look at, wait for [lib-1-media-inglese-verbi-con-preposizione] · LISTEN
+concetti: Listen to; Wait for; Talk to e about; Altri verbi
+- Come si dice «Ascolto la musica»?
+- «I'm waiting ___ the bus.»
+- «Look for» significa «cercare».
+- Can I talk ___ you for a minute?
+- Hai perso le chiavi. Dici:
+- «What are you talking ___?» (Di che cosa state parlando?)
+- Qual è la differenza tra «listen to» e «hear»?
+- Perché è utile imparare i verbi inglesi insieme alla loro preposizione? Fai due esempi in cui la preposizione…
+
+## Look, see o watch? [lib-1-media-inglese-look-see-watch] · WATCH
+concetti: See; Look at; Watch; Look + aggettivo
+- Quale verbo si usa con «TV»?
+- «___ this photo! It's beautiful.»
+- Quando «look» è seguito da un oggetto ci vuole «at»: «look at the board».
+- I can't ___ the board. Can I sit in the front row?
+- Come dici «Stasera guardiamo la partita»?
+- «You look tired» significa...
+- Qual è la differenza principale tra «see» e «look at»?
+- Scrivi tre frasi in inglese, una con see, una con look at e una con watch, e spiega perché hai scelto ogni ve…
+
+## Make or do? Fare in inglese [lib-1-media-inglese-make-o-do] · MAKE
+concetti: Do: attività; Make: creare; Espressioni fisse; Il trucco
+- Come dici «Faccio una torta»?
+- Come si dice «fare la spesa»?
+- «Fare un errore» si dice «make a mistake».
+- Can you ___ me a favour?
+- I bambini urlano in classe. L'insegnante dice: «Don't ___ so much noise!»
+- Quale espressione è corretta con «do»?
+- Quale regola ti aiuta a scegliere tra make e do?
+- Scrivi due frasi con «make» e due con «do» su cose che fai durante la settimana, poi spiega una delle tue sce…
+
+## Mammals, birds and reptiles [lib-1-media-inglese-animali-classificazione] · MAMMAL
+concetti: Vertebrati e invertebrati; Mammals e birds; Reptiles, amphibians, fish; Gli insetti
+- Che cosa ricopre il corpo di un «bird»?
+- Un animale «vertebrate» ha...
+- A whale is a fish.
+- An insect has got ___ legs.
+- A frog is...
+- Perché «a spider» non è un insetto?
+- Quale animale è un «reptile»?
+- Spiega perché il pipistrello (bat) è un mammal anche se vola. Usa i nomi inglesi delle classi.
 
 ## Maths, Art e PE: le materie [lib-1-media-inglese-materie-scolastiche] · MATHS
 concetti: Le materie; La maiuscola; Parlare delle materie; Il timetable
@@ -354,6 +662,17 @@ concetti: I dodici mesi; Le quattro stagioni; In con mesi e stagioni; Le origini
 - Il nome September viene dal latino «septem», sette. Perché, se oggi è il nono mese?
 - Scrivi in inglese in quale mese e in quale stagione è il tuo compleanno e spiega quale preposizione usi e per…
 
+## Much, many o a lot of? [lib-1-media-inglese-much-many-a-lot-of] · PLENTY
+concetti: Many; Much; A lot of; Negative e domande
+- Con quale nome si usa «many»?
+- «There isn't ___ milk in the fridge.»
+- «A lot of» si usa sia con i numerabili sia con i non numerabili.
+- I haven't got ___ friends in my new town.
+- Quale frase affermativa suona più naturale?
+- «Have you got ___ money?»
+- Perché si dice «much time» e non «many time» quando time significa «tempo»?
+- Scrivi in inglese una frase negativa con «much» e una domanda con «many», poi spiega perché hai scelto quella…
+
 ## My, your, his, her… [lib-1-media-inglese-aggettivi-possessivi] · THEIR
 concetti: Gli aggettivi possessivi; His o her?; Niente articolo, niente plurale; Its e it's
 - Come si dice «nostro»?
@@ -364,6 +683,61 @@ concetti: Gli aggettivi possessivi; His o her?; Niente articolo, niente plurale;
 - I tuoi cugini hanno un cane. Come dici «il loro cane»?
 - «Your» può voler dire sia «tuo» sia «vostro».
 - Perché in inglese si dice «Luca and his mother» e non «Luca and her mother»? Spiega con parole tue.
+
+## Nineteen ninety-nine: leggere gli anni [lib-1-media-inglese-leggere-gli-anni] · CENTURY
+concetti: Anni in due coppie; Gli anni dal 2000; Lo zero «oh»; In, decenni e secoli
+- Come si legge di solito 1999?
+- Come si legge 1492, l'anno del primo viaggio di Colombo?
+- L'anno 2000 si legge «two thousand».
+- Come si legge 1907?
+- I was born ___ 2014.
+- Quali sono due modi corretti per leggere 2026?
+- Metti questi anni in ordine cronologico, dal più antico al più recente.
+- Che cosa significa «the 1990s» e come si legge? Scrivi anche una frase di esempio in inglese.
+
+## Ogni parola al posto giusto [lib-1-media-inglese-ordine-delle-parole] · ORDER
+concetti: Soggetto, verbo, oggetto; Prima il luogo, poi il tempo; Le domande; Le negative
+- Quale frase ha l'ordine corretto?
+- Quale frase è corretta?
+- «Mangia la pizza Marco» si può tradurre «Eats the pizza Marco».
+- ___ Tom and Lucy at the cinema now?
+- Metti le parole in ordine per formare una frase.
+- Quale frase negativa è corretta?
+- Dove va di solito l'espressione «on Sundays» nella frase «I visit my grandparents»?
+- Perché in italiano possiamo dire «La pizza la mangia Marco», mentre in inglese l'ordine delle parole è più ri…
+
+## Old, new o young? I contrari [lib-1-media-inglese-aggettivi-opposti] · YOUNG
+concetti: Coppie di contrari; Old ha due contrari; Short: corto o basso; Contrari quotidiani
+- Qual è il contrario di «hot»?
+- Il nonno ha 80 anni, il tuo fratellino 3. Qui il contrario di «old» è...
+- Per un telefono appena comprato si dice «a young phone».
+- My brother is 1.95 m. He isn't short, he's very ___.
+- My hair isn't long, it's ___.
+- Una bici costa 900 euro. È...
+- Quale coppia NON è formata da due contrari?
+- Perché in inglese non basta imparare un solo contrario per ogni aggettivo? Spiega con «old» o «short».
+
+## Pets, farm e wild animals [lib-1-media-inglese-animali-pets-fattoria-selvatici] · SHEEP
+concetti: Animali domestici; Animali della fattoria; Animali selvatici; I cuccioli
+- Che animale è un «goldfish»?
+- Quale animale della fattoria depone le uova?
+- I «wild animals» sono gli animali selvatici, che vivono liberi in natura.
+- A baby dog is a ___.
+- Il «lamb» è il cucciolo di quale animale?
+- Quale di questi animali NON si tiene di solito in casa come pet?
+- Da quale animale della fattoria viene di solito il latte che bevi a colazione?
+- Descrivi in inglese un animale domestico, vero o immaginario, in 2-3 frasi usando have got e can.
+
+## Play the guitar: la musica [lib-1-media-inglese-strumenti-musicali] · PIANO
+concetti: Gli strumenti; Play the + strumento; Can e la musica; Generi e persone
+- Le «drums» sono...
+- Quale frase è corretta?
+- Con gli sport non si usa «the» (play football), con gli strumenti di solito sì (play the guitar).
+- ___ you play the violin? Yes, I can.
+- Quale strumento si suona soffiando?
+- La persona che canta in un gruppo è...
+- «Classical music» è...
+- Sai suonare uno strumento? Rispondi in inglese con «can» o «can't» e spiega perché non si dice «I can to play…
 
 ## Play, go o do? Gli sport [lib-1-media-inglese-sport-play-go-do] · PLAY
 concetti: Play; Go + -ing; Do; Il tempo libero
@@ -387,6 +761,17 @@ concetti: Salutare; Come stai?; Ringraziare e rispondere; Sorry ed excuse me
 - Metti in ordine il breve dialogo tra due ragazzi che si incontrano.
 - Spiega quando si usa «sorry» e quando «excuse me», con un esempio per ciascuno.
 
+## Plus, minus, times: maths [lib-1-media-inglese-matematica-in-inglese] · PLUS
+concetti: Le quattro operazioni; Le frazioni; Pari e dispari; I problemi
+- Come si legge «7 + 5 = 12»?
+- Quanto fa «six times eight»?
+- Gli «odd numbers» sono i numeri dispari, come 3, 7 e 15.
+- 1/4 si legge «a ___».
+- Quanto sono «three quarters» di 100?
+- «Tom has got 24 sweets. He gives 9 to his sister. How many sweets are left?»
+- Come si legge «36 ÷ 4 = 9»?
+- Risolvi e spiega in italiano come hai capito l'operazione: «There are 6 boxes with 12 pencils in each box. Ho…
+
 ## Present simple: le abitudini [lib-1-media-inglese-present-simple-affermativo] · HABIT
 concetti: A che cosa serve; La forma base; La -s della terza persona; Espressioni di tempo
 - Quale forma è corretta?
@@ -408,6 +793,17 @@ concetti: Nome e cognome; Età e compleanno; Provenienza e residenza; Il numero 
 - Quale domanda chiede quando è il compleanno?
 - Metti in ordine le parole per formare la domanda.
 - Presentati in inglese a un nuovo amico di penna con almeno quattro informazioni: nome, età, provenienza e cit…
+
+## Quattro nazioni, un solo Regno [lib-1-media-inglese-nazioni-del-regno-unito] · WALES
+concetti: Le quattro nazioni; Le capitali; I simboli; Le lingue
+- Quante nazioni formano il Regno Unito?
+- Qual è la capitale della Scozia?
+- Cardiff è la capitale del Galles.
+- The flag of the United Kingdom is called the Union ___.
+- Quale animale compare sulla bandiera del Galles?
+- Oltre all'inglese, quale lingua è ufficiale in Galles?
+- Quale fiore è il simbolo dell'Inghilterra?
+- Spiega la differenza tra England e United Kingdom, e perché è sbagliato chiamare «English» una persona di Edi…
 
 ## Rubber, ruler e pencil case [lib-1-media-inglese-oggetti-di-scuola] · RUBBER
 concetti: L'astuccio; In classe; Nomi sempre plurali; Parole composte
@@ -464,6 +860,17 @@ concetti: Chiedere aiuto; Chiedere parole; Le istruzioni dell'insegnante; Entrar
 - Metti in ordine le parole per formare la domanda.
 - Scrivi tre istruzioni che l'insegnante di inglese usa spesso in classe e spiega che forma ha il verbo.
 
+## Square, circle e triangle [lib-1-media-inglese-forme-geometriche] · CIRCLE
+concetti: Le figure piane; Lati e angoli; I solidi; Le linee
+- Che figura è un «square»?
+- Quanti «sides» ha un hexagon?
+- Un «right angle» misura 90 gradi.
+- A football has got the shape of a ___.
+- Un dado da gioco ha la forma di un...
+- Le due rotaie di un binario sono linee...
+- Un «triangle» con tre lati uguali si chiama...
+- Descrivi in inglese un rettangolo usando le parole «sides» e «right angles».
+
 ## There is o there are? [lib-1-media-inglese-there-is-there-are] · THERE
 concetti: There is; There are; Descrivere luoghi
 - Come si dice «C'è un libro sul tavolo»?
@@ -474,6 +881,17 @@ concetti: There is; There are; Descrivere luoghi
 - Che cosa significa «There are two cats under the table»?
 - Le frasi «There is a dog» e «It is a dog» hanno lo stesso significato.
 - Descrivi in inglese la tua aula con almeno tre frasi usando there is e there are.
+
+## Thirteen o thirty? I numeri [lib-1-media-inglese-numeri-cardinali-1-100] · TWENTY
+concetti: Da uno a dodici; I numeri in -teen; Le decine in -ty; Numeri composti
+- Come si scrive 12 in inglese?
+- Quale decina è scritta correttamente?
+- In «fifteen» e «fifty» l'accento cade nella stessa sillaba.
+- My grandmother is ___ years old. (73)
+- Quale numero è «eighteen»?
+- Metti le decine in ordine dalla più piccola alla più grande.
+- Come si scrive 99?
+- Perché al telefono «thirteen» e «thirty» si possono confondere, e come puoi evitare l'equivoco?
 
 ## This, that, these, those [lib-1-media-inglese-this-that-these-those] · THESE
 concetti: Vicino: this e these; Lontano: that e those; Singolare e plurale; Presentare e telefonare
@@ -486,6 +904,17 @@ concetti: Vicino: this e these; Lontano: that e those; Singolare e plurale; Pres
 - Rispondi al telefono e dici chi sei. Quale frase è tipica in inglese?
 - Spiega quando si usano this, that, these e those, con un esempio per ciascuno.
 
+## Tidy your room! Le faccende [lib-1-media-inglese-lavori-di-casa] · CHORES
+concetti: In camera; In cucina; Fuori e con gli animali; Parlare delle faccende
+- «Make my bed» significa...
+- Prima di cena prepari la tavola. In inglese:
+- «Do the washing-up» vuol dire lavare i piatti.
+- Every evening I take ___ the rubbish.
+- Il tuo cane deve uscire. Che cosa fai?
+- Come dici «Mio fratello mette in ordine la sua camera il sabato»?
+- Che cosa significa «Tidy your room!»?
+- Quali faccende fai a casa e quanto spesso? Rispondi in inglese con 2-3 frasi usando gli avverbi di frequenza.
+
 ## To be: domande e negazioni [lib-1-media-inglese-to-be-domande-e-negazioni] · ANSWER
 concetti: La forma negativa; La forma interrogativa; Le risposte brevi
 - Come si dice «Non sono stanco» in inglese?
@@ -496,6 +925,28 @@ concetti: La forma negativa; La forma interrogativa; Le risposte brevi
 - Metti in ordine le parole per formare la domanda.
 - Alla domanda «Is it your pencil?» si può rispondere «Yes, it's.»
 - Il tuo amico scrive: «You is in my team?». Spiega quali errori ha fatto e scrivi la domanda corretta.
+
+## Today, tomorrow, next week [lib-1-media-inglese-espressioni-di-tempo] · TODAY
+concetti: Ieri, oggi, domani; This, next, last; Le parti del giorno; Le durate
+- «The day after tomorrow» significa...
+- Come dici «la prossima settimana»?
+- Con «next» e «last» non si usa la preposizione: si dice «next Monday», non «on next Monday».
+- We've got a party ___ (stasera).
+- Quanti giorni dura «a fortnight»?
+- Oggi è mercoledì. Che giorno era «the day before yesterday»?
+- Metti queste durate in ordine dalla più breve alla più lunga.
+- Spiega perché si dice «this morning» e «next summer» senza preposizione, mentre si dice «in the morning». Fai…
+
+## Turn left! Chiedere la strada [lib-1-media-inglese-indicazioni-stradali] · STREET
+concetti: Chiedere la strada; Le istruzioni; I punti di riferimento; Distanze e ringraziamenti
+- «Turn right» significa...
+- Qual è il modo più gentile per chiedere la strada a uno sconosciuto?
+- «Go straight on» vuol dire «vai sempre dritto».
+- Turn left at the traffic ___.
+- Metti in ordine il dialogo tra un turista e un passante.
+- «The bank is opposite the park» significa che la banca è...
+- «Prendi la seconda strada a sinistra» si dice...
+- Un turista ti chiede «Excuse me, where's the station?». Spiegagli in inglese come arrivarci in 2-3 frasi, par…
 
 ## Un mouse, due mice: i plurali [lib-1-media-inglese-plurale-dei-nomi] · MICE
 concetti: Plurale regolare; -es e -ies; Plurali in -ves; Plurali irregolari
@@ -508,6 +959,50 @@ concetti: Plurale regolare; -es e -ies; Plurali in -ves; Plurali irregolari
 - In quale coppia singolare – plurale c'è un errore?
 - Spiega le regole per formare il plurale di «city» e di «day» e perché sono diverse.
 
+## Una gita a London [lib-1-media-inglese-londra-monumenti] · THAMES
+concetti: Il Tamigi e i ponti; Big Ben e Westminster; Il re e i palazzi; Simboli e trasporti
+- Quale fiume attraversa Londra?
+- Che cos'è esattamente «Big Ben»?
+- Buckingham Palace è la residenza ufficiale del re a Londra.
+- London's famous red buses are ___-deckers.
+- Il ponte con due torri che si apre per far passare le navi è...
+- Che cos'è il «London Eye»?
+- Quale cerimonia si può vedere davanti a Buckingham Palace?
+- Molti turisti chiamano Big Ben la torre dell'orologio. Spiega perché non è del tutto corretto e come si chiam…
+
+## Una macchina rossa: red car [lib-1-media-inglese-colori-e-aggettivi] · COLOUR
+concetti: I colori; Prima del nome; Sempre uguale; Light e dark
+- Che colore è «grey»?
+- Come si dice «una mela verde»?
+- In inglese gli aggettivi si mettono al plurale: «two reds cars».
+- D'estate il cielo è azzurro: the sky is light ___.
+- Quale parola significa «viola»?
+- Quale frase è corretta?
+- Come traduci «Ho un gatto bianco e nero»?
+- Spiega due differenze tra aggettivi italiani e inglesi, per posizione e forma, con un esempio.
+
+## Valigia pronta: si va in vacanza! [lib-1-media-inglese-vacanze-mare-montagna] · BEACH
+concetti: Mare, montagna, campagna; Andare in vacanza; La valigia; Dove dormire
+- Dove sei se sei «at the seaside»?
+- In spiaggia, che cosa indossi per proteggere gli occhi dal sole?
+- «Sono in vacanza» si dice «I'm in holiday».
+- Before a trip I ___ my suitcase.
+- In vacanza dormi in una «tent». Dove ti trovi probabilmente?
+- A gennaio vuoi andare a sciare. Dove vai?
+- Come chiedi a un amico dove va di solito in vacanza?
+- Racconta in inglese, in 2-3 frasi, dove vai di solito in vacanza, dove dormi e che cosa metti in valigia.
+
+## Was e were: com'era ieri? [lib-1-media-inglese-was-were-passato-di-be] · PAST
+concetti: Was e were; Le negative; Domande e risposte brevi; Espressioni di passato
+- «I ___ at the cinema yesterday.»
+- Come si dice «Eravamo stanchi»?
+- «They was happy» è una frase corretta.
+- My sister ___ at school yesterday: she was ill.
+- «Were you at the park yesterday?» Quale risposta breve è corretta?
+- Quale espressione si usa con was e were?
+- Come chiedi «Dov'eri ieri sera?»
+- Racconta in inglese dov'eri ieri pomeriggio e com'era il tempo (2-3 frasi), poi spiega quando usi was e quand…
+
 ## Watches, studies, goes: la -s [lib-1-media-inglese-present-simple-terza-persona-ortografia] · WATCHES
 concetti: -es dopo s, sh, ch, x, o; Consonante + y; Il verbo have; La pronuncia di -es
 - Qual è la terza persona singolare di «go»?
@@ -519,6 +1014,17 @@ concetti: -es dopo s, sh, ch, x, o; Consonante + y; Il verbo have; La pronuncia 
 - Nella parola «washes» la desinenza -es si pronuncia come una sillaba in più.
 - Il tuo amico ha scritto: «She gos to school and studys a lot.» Spiega gli errori e scrivi la frase corretta.
 
+## What does she do? I mestieri [lib-1-media-inglese-lavori-e-professioni] · DOCTOR
+concetti: I mestieri; A e an con i lavori; Chiedere il lavoro; Dove si lavora
+- Che lavoro fa un «firefighter»?
+- Come si dice «Mia madre è ingegnere»?
+- In inglese l'articolo prima del lavoro si può omettere: «He is teacher» va bene.
+- A farmer works on a ___.
+- Come chiedi che lavoro fa tuo zio?
+- Dove lavora di solito una «nurse»?
+- Chi ripara le automobili?
+- Che lavoro fanno due persone della tua famiglia? Rispondi in inglese e spiega quando usi «a» e quando «an».
+
 ## What time is it? [lib-1-media-inglese-what-time-is-it] · CLOCK
 concetti: Le ore esatte; Past e to; Quarter e half; a.m. e p.m.
 - Sono le 7:00. Come lo dici?
@@ -529,6 +1035,39 @@ concetti: Le ore esatte; Past e to; Quarter e half; a.m. e p.m.
 - Il treno parte alle «9 p.m.». A che ora parte?
 - Quale orario corrisponde a «twenty-five to eleven»?
 - Spiega la differenza tra past e to quando dici l'ora in inglese, con un esempio per ciascuno.
+
+## What's the matter? Dal dottore [lib-1-media-inglese-dal-dottore-malesseri] · FEVER
+concetti: What's the matter?; I dolori in -ache; Have got per i malesseri; I consigli
+- Un amico ha una faccia triste. Che cosa gli chiedi?
+- «Headache» significa...
+- I ___ a sore throat.
+- Per dire «ho il raffreddore» si dice «I am a cold».
+- Hai mangiato troppo e ti fa male la pancia. Dici:
+- Hai la febbre alta. Quale consiglio ti dà il dottore?
+- Come si dice «Mia sorella ha la febbre»?
+- Un amico dice «I've got a headache». Rispondi in inglese con una reazione e un consiglio, poi spiega quale fo…
+
+## What's the weather like? [lib-1-media-inglese-tempo-atmosferico] · SUNNY
+concetti: Aggettivi del tempo; It's + tempo; La domanda; La temperatura
+- «Cloudy» significa...
+- Come chiedi che tempo fa?
+- Molti aggettivi del tempo si formano aggiungendo -y al nome: sun → sunny, wind → windy.
+- Take your umbrella! It's ___.
+- Non vedi a un metro di distanza per la nebbia. It's...
+- Metti queste parole in ordine dalla temperatura più fredda alla più calda.
+- Quale frase è corretta?
+- Descrivi in inglese il tempo di oggi nella tua città con almeno due informazioni, poi spiega perché la frase …
+
+## Where are you from? In fondo! [lib-1-media-inglese-domande-con-preposizione-finale] · WITH
+concetti: La preposizione in fondo; Who... with / for; What... about / for; Confronto con l'italiano
+- Come chiedi «Di dove sei?»
+- Come traduci «Con chi vai al cinema?»
+- Nell'inglese parlato la preposizione di una domanda va di solito alla fine della frase.
+- What is this button ___? It turns on the light.
+- «What's the film about?» significa...
+- «Who is this present ___?» «It's for my mum.»
+- Quale risposta va bene per «Who do you live with?»
+- Traduci in inglese «Di che cosa hai paura?» (aver paura di = be afraid of) e spiega dove metti la preposizion…
 
 ## Who, what, where, when? [lib-1-media-inglese-wh-questions] · WHERE
 concetti: Le parole interrogative; Why e because; What o which?; L'ordine nella domanda
@@ -551,3 +1090,14 @@ concetti: I pronomi possessivi; Aggettivo o pronome?; Whose; Whose e who's
 - In quale frase serve «who's» e non «whose»?
 - «Whose is this phone?» È di Sara. Che cosa rispondi?
 - Spiega la differenza tra «my» e «mine» con due esempi tuoi.
+
+## Yes, I do! Risposte brevi [lib-1-media-inglese-risposte-brevi-ripasso] · REPLY
+concetti: Si riprende l'ausiliare; Have got e there is; Le negative brevi; Pronome al posto del nome
+- «Do you like pizza?» Quale risposta breve è corretta?
+- «Is there a park near your house?»
+- Alla domanda «Is your sister at home?» si risponde «Yes, she is», usando il pronome.
+- Can your dog swim? No, it ___.
+- «Does Marco play basketball?» Risposta negativa:
+- «Have your parents got a car?»
+- «Are the children in the garden?»
+- Spiega la regola per formare una risposta breve in inglese e fai due esempi con ausiliari diversi.

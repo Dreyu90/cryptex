@@ -1,5 +1,5 @@
 # 1ª media · Italiano: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Aedi, epiteti e poemi epici [lib-1-media-italiano-caratteristiche-dell-epica] · AEDO
@@ -109,7 +109,7 @@ concetti: La trama comune; La versione di Perrault; La versione dei Grimm; Perch
 - Charles Perrault, che pubblicò la sua versione nel 1697, era ___.
 - Ordina gli eventi comuni alle due versioni.
 - Che cosa mettono nella pancia del lupo nella versione dei Grimm?
-- Perché esistono versioni diverse della stessa fiaba?
+- Oggi una nonna racconta Cappuccetto Rosso con un finale in cui il lupo diventa buono. Che cosa dimostra?
 - Perrault chiude la fiaba con una morale rivolta alle ragazze. Quale insegnamento vuole dare e perché sceglie …
 
 ## Caro diario, ti scrivo [lib-1-media-italiano-il-diario] · DIARIO
@@ -173,7 +173,7 @@ concetti: Dedalo l'inventore; Prigionia e fuga; Il volo e la caduta; Il signific
 - Dedalo raccomandò a Icaro di non volare né troppo in alto né troppo in basso.
 - Con che cosa Dedalo fabbricò le ali?
 - Ordina gli eventi del mito.
-- Avvicinandosi al sole, la ___ che teneva unite le piume si sciolse.
+- Dedalo e Icaro erano tenuti prigionieri dal re Minosse sull'isola di ___.
 - Che tipo di personaggio è Dedalo?
 - Quale insegnamento si ricava dalla storia di Icaro?
 - Perché Dedalo decise di fuggire volando invece che per mare o per terra?
@@ -312,9 +312,9 @@ concetti: La fabula; L'intreccio; Il flashback; L'anticipazione
 
 ## Famiglie e campi di parole [lib-1-media-italiano-famiglie-di-parole-campo-semantico] · CAMPO
 concetti: Famiglia di parole; Campo semantico; Generale e particolare
-- Quale parola appartiene alla famiglia di «mare»?
+- Quale parola appartiene alla famiglia di «fuoco»?
 - Quale parola appartiene al campo semantico della scuola ma NON alla famiglia di «scuola»?
-- «Pane», «panettiere» e «panino» appartengono alla stessa famiglia di parole.
+- «Libro», «libreria» e «libraio» appartengono alla stessa famiglia di parole.
 - «Fiore» è un iperonimo, cioè una parola più ___ di «rosa».
 - Qual è l'iperonimo di «calcio, tennis, nuoto»?
 - Quale parola è estranea al campo semantico della cucina?
@@ -391,8 +391,8 @@ concetti: Il poema del ritorno; La Telemachia; Il racconto ai Feaci; La vendetta
 concetti: La trama; I personaggi simbolo; Le false accuse; La morale
 - Dove si trovano il lupo e l'agnello all'inizio della favola?
 - Il lupo beve più in alto lungo il ruscello, mentre l'agnello beve più in basso.
-- Che cosa rappresenta il lupo in questa favola?
-- L'agnello risponde che non può sporcare l'acqua al lupo, perché l'acqua scorre dal lupo ___ di lui.
+- Che cosa rappresenta l'agnello in questa favola?
+- L'agnello risponde che non può intorbidire l'acqua del lupo, perché la corrente va dal lupo ___ l'agnello.
 - Quando il lupo dice che l'agnello ha parlato male di lui sei mesi prima, che cosa risponde l'agnello?
 - Ordina le accuse e le azioni del lupo.
 - Quale morale ricavi dalla favola?
@@ -572,7 +572,7 @@ concetti: Le parti della lettera; Lettera personale; Lettera formale; L'email
 - Una lettera formale si chiude spesso con «___ saluti».
 - Rispetto a una lettera di carta, che cosa ha in più un'email?
 - A chi scriveresti una lettera formale?
-- Perché anche in un'email alla professoressa bisogna usare formule di saluto e un linguaggio corretto, come in…
+- Scrivi l'oggetto e il saluto iniziale di un'email alla professoressa per chiederle un chiarimento sui compiti…
 
 ## Locuzioni: gruppi di parole [lib-1-media-italiano-locuzioni] · GRUPPO
 concetti: Che cos'è una locuzione; Locuzioni avverbiali; Locuzioni prepositive; Locuzioni congiuntive
@@ -673,7 +673,7 @@ concetti: Odino; Thor e il martello; Valhalla e Ragnarok; Tracce nella lingua
 - Che cosa accadeva, secondo i Vichinghi, quando Thor lanciava il suo martello?
 - Confronta Odino e Zeus: in che cosa si somigliano e in che cosa sono diversi?
 
-## Orfeo, la lira e Euridice [lib-1-media-italiano-orfeo-ed-euridice] · LIRA
+## Orfeo, la lira ed Euridice [lib-1-media-italiano-orfeo-ed-euridice] · LIRA
 concetti: Orfeo il musico; La discesa agli Inferi; Il patto e lo sguardo; Il significato
 - Quale strumento suonava Orfeo?
 - Euridice morì per il morso di un serpente.
@@ -724,14 +724,14 @@ concetti: Significato letterale; Significato figurato; Modi di dire; La connotaz
 - Che cosa significa «essere al verde»?
 - Chi «prende due piccioni con una fava» ottiene due risultati con un solo ___.
 - In quale frase «gelato» ha significato letterale?
-- Quale parola descrive una casa piccola con una sfumatura negativa?
+- Quale parola indica chi spende poco, ma con una sfumatura negativa?
 - Perché si dice che una persona «ha la testa fra le nuvole»?
 - «Testardo» e «determinato» indicano entrambi chi non cambia facilmente idea. Che differenza di sfumatura c'è …
 
 ## Penelope, Telemaco e Argo [lib-1-media-italiano-odissea-personaggi-di-itaca] · ARGO
 concetti: Penelope e la tela; Telemaco; Argo ed Euriclea; I Proci
 - Chi era Argo nell'Odissea?
-- Chi erano i Proci?
+- Che cosa facevano i Proci nella reggia durante l'assenza di Ulisse?
 - Penelope tesseva una tela di giorno e la disfaceva di notte per rimandare le nozze.
 - La nutrice Euriclea riconobbe Ulisse da una ___ sulla gamba.
 - Perché Telemaco parte da Itaca all'inizio dell'Odissea?
@@ -796,7 +796,7 @@ concetti: Preposizioni semplici; Preposizioni articolate; Preposizioni improprie
 
 ## Prometeo e il fuoco rubato [lib-1-media-italiano-mito-di-prometeo] · FUOCO
 concetti: Chi era Prometeo; Il furto del fuoco; La punizione; Il significato
-- Che cosa rubò Prometeo agli dèi per donarlo agli uomini?
+- Donando il fuoco agli uomini, Prometeo sfidò direttamente:
 - Prometeo era:
 - Per punirlo, Zeus fece incatenare Prometeo a una rupe, dove un'aquila gli divorava il fegato.
 - A liberare Prometeo dalle catene fu l'eroe ___.
@@ -819,12 +819,12 @@ concetti: Chi era Propp; Le funzioni; I sette ruoli; Usare lo schema
 ## Quando ci vuole la maiuscola [lib-1-media-italiano-uso-delle-maiuscole] · GRANDE
 concetti: Inizio di frase; Nomi propri; Casi particolari
 - Quando si usa sempre la maiuscola?
-- Quale di queste parole, qui scritta in minuscolo, va scritta con la maiuscola?
+- Nella frase «il tevere attraversa roma», quali parole vogliono la maiuscola?
 - In italiano i nomi dei mesi e dei giorni della settimana si scrivono con la minuscola.
 - Dopo un punto interrogativo che chiude la frase, la parola successiva comincia con la ___.
-- Queste parole sono scritte tutte in minuscolo: quale resta minuscola anche in mezzo a una frase?
-- Perché in «Ho un cane di nome Fido» scrivi «Fido» maiuscolo e «cane» minuscolo?
-- In «Marco disse: «Andiamo!»», perché «Andiamo» ha la maiuscola?
+- Quale di queste parole si scrive con la minuscola anche in mezzo a una frase?
+- In «Che sorpresa! domani arriva il nonno.» c'è un errore. Quale?
+- In «Marco disse: "Andiamo!"», perché «Andiamo» ha la maiuscola?
 - Nella frase «abito a milano in via verdi», quali parole devono avere la maiuscola e perché?
 
 ## Quattro modi per dirlo [lib-1-media-italiano-modi-finiti] · COMANDO
@@ -873,43 +873,43 @@ concetti: Che cos'è; Analisi del nome; Analisi del verbo; Parole a doppia facci
 
 ## Ripasso: il testo narrativo [lib-1-media-italiano-ripasso-testo-narrativo] · STORIA
 concetti: Narratore e punto di vista; Fabula e intreccio; I personaggi; Lo schema narrativo
-- In «Mi svegliai di soprassalto: qualcuno bussava», che narratore c'è?
-- In una storia, il personaggio che ostacola il protagonista è:
-- Se un racconto comincia dalla fine e poi torna indietro a raccontare il passato, usa un flashback.
+- In «Anna aprì la porta, ma non sapeva che dentro la attendeva una sorpresa», che narratore c'è?
+- In «Cappuccetto Rosso», il lupo ha il ruolo di:
+- L'anticipazione racconta in anticipo un fatto che accadrà più avanti nella storia.
 - Nello schema narrativo, la fase che segue la Spannung e risolve il problema si chiama ___.
 - Ordina le fasi di questa storia secondo lo schema narrativo.
-- Un personaggio che all'inizio è egoista e alla fine impara a condividere è un personaggio:
+- In «Pinocchio», la Fata Turchina che protegge e consiglia il burattino ha il ruolo di:
 - In quale caso l'intreccio è diverso dalla fabula?
-- Riscrivi la frase «Ero terrorizzato: il buio mi stringeva il cuore» con un narratore esterno. Che cosa cambia?
+- Inventa una brevissima storia (due o tre frasi) il cui intreccio cominci dalla fine; poi scrivi i fatti in or…
 
 ## Ripasso: il verbo [lib-1-media-italiano-ripasso-il-verbo] · AZIONE
 concetti: Modo e tempo; Persona e numero; Ausiliari e tempi composti; Forma attiva e passiva
 - In «Voi correte», il verbo è alla:
 - In «Avremo mangiato», qual è il tempo del verbo?
-- Il passato prossimo è un tempo composto, formato da ausiliare e participio passato.
-- In «Se potessi, verrei», il verbo «verrei» è al modo ___.
+- Il trapassato prossimo si forma con l'imperfetto dell'ausiliare e il participio passato.
+- In «Avendo finito i compiti, uscii», «avendo finito» è un ___ passato.
 - Quale frase è in forma passiva?
-- Quale ausiliare usa «partire» nei tempi composti?
-- In «Spero che tu venga», il verbo «venga» è al:
-- Trasforma «Il gatto ha mangiato il topo» in forma passiva e spiega che cosa cambia.
+- Quale ausiliare usa «rimanere» nei tempi composti?
+- In «Quando ebbe finito, se ne andò», «ebbe finito» è al:
+- Che differenza di significato c'è tra «Marco studia» e «Marco studierebbe»? Quale modo verbale usa ciascuna f…
 
 ## Ripasso: suoni e scrittura [lib-1-media-italiano-ripasso-fonologia-ortografia] · REGOLA
 concetti: Sillabe e accento; Digrammi e acca; L'apostrofo; La punteggiatura
 - Quale parola è scritta correttamente?
 - Come si divide in sillabe «montagna»?
-- «Qual è» si scrive senza apostrofo perché è un troncamento.
-- «Hanno» si scrive con l'acca perché è voce del verbo ___.
-- Quale parola è sdrucciola, cioè ha l'accento sulla terzultima sillaba?
-- Quale scrittura è corretta?
+- «Perché» è una parola tronca e per questo si scrive con l'accento grafico.
+- Nella parola «chiodo» le lettere ch formano un ___.
+- Quale parola è piana, cioè ha l'accento sulla penultima sillaba?
+- In quale espressione l'apostrofo è usato correttamente?
 - Quale frase usa correttamente i due punti?
 - Spiega perché in «Luca, il mio vicino di casa, gioca a tennis» le due virgole sono importanti.
 
 ## Ripasso: tre poemi epici [lib-1-media-italiano-ripasso-epica-classica] · POEMI
 concetti: Gli autori; Protagonisti e temi; Lingue e struttura; I valori degli eroi
-- Chi è l'autore dell'Eneide?
-- Quale poema racconta il ritorno a casa di un eroe dopo la guerra?
-- L'Eneide fu scritta in greco.
-- L'Eneide è divisa in ___ libri, la metà dell'Iliade.
+- In quale secolo visse Virgilio, autore dell'Eneide?
+- Quale poema narra le vicende dell'eroe da cui, secondo la leggenda, discende il popolo romano?
+- L'Eneide ha lo stesso numero di libri dell'Iliade.
+- L'Eneide è scritta in ___, la lingua dei Romani.
 - Quale qualità caratterizza soprattutto Ulisse?
 - Che cosa lega l'Eneide alle vicende dell'Iliade?
 - Che cos'è la «questione omerica»?
@@ -964,7 +964,7 @@ concetti: I verbi fraseologici; Azione che sta per iniziare; Azione in corso; Az
 - In «Sto mangiando», che cosa indica «stare» + gerundio?
 - Quale frase indica che un'azione sta per iniziare?
 - I verbi fraseologici, come «cominciare a», sono seguiti da un altro verbo all'infinito o al gerundio.
-- Mio fratello ha ___ di fumare: non fuma più.
+- Il bambino ha ___ di piangere: ora sorride.
 - Ordina le frasi dalla fase iniziale alla fase finale dell'azione.
 - In «Continuò a piovere per ore», che cosa esprime «continuare a»?
 - Qual è la differenza tra «Mangio» e «Sto per mangiare»?

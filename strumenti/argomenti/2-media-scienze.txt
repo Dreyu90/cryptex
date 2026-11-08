@@ -1,5 +1,5 @@
-# 2ª media · Scienze: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 2ª media · Scienze: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Accelerare, frenare e leggere grafici [lib-2-media-scienze-accelerazione-grafici] · GRAFICO
@@ -24,6 +24,28 @@ concetti: Gli acidi; Le basi; La scala del pH; Indicatori e neutralizzazione
 - Quale di questi prodotti di casa è basico?
 - Il succo di cavolo rosso cambia colore se ci versi aceto o bicarbonato. Perché si può usare come indicatore d…
 
+## Acido più base: nasce il sale [lib-2-media-scienze-sali-neutralizzazione] · SALE
+concetti: La neutralizzazione; Il cloruro di sodio; Sali intorno a noi; Neutralizzare nella vita
+- Che cosa si forma quando un acido reagisce con una base?
+- Il sale da cucina, in chimica, si chiama cloruro di ___.
+- Il marmo è formato soprattutto da un sale, il carbonato di calcio.
+- Che pH ha una soluzione dopo la neutralizzazione completa di un acido forte con una base forte?
+- In alcuni laghi diventati troppo acidi per le piogge acide si sparge polvere di calcare. A che cosa serve?
+- Quali sono i prodotti della reazione HCl + NaOH?
+- Un contadino ha un terreno troppo acido. Che cosa può aggiungere per correggerlo?
+- Spiega che cos'è una neutralizzazione e fai un esempio della vita di tutti i giorni.
+
+## Acqua: quanta ne serve? [lib-2-media-scienze-idratazione-bilancio-idrico] · SETE
+concetti: Un corpo d'acqua; Entrate e uscite; Quanto bere; La disidratazione
+- Circa quanta parte del corpo di un adulto è fatta di acqua?
+- Quale di queste NON è una via con cui perdiamo acqua?
+- L'urina molto scura può indicare che stai bevendo poco.
+- In un giorno normale un ragazzo dovrebbe bere circa un litro e mezzo, due ___ di acqua.
+- Dopo una partita in una giornata calda, perché devi bere di più?
+- Oltre che con le bevande, da dove arriva acqua al corpo?
+- Perché è meglio bere acqua invece di bibite zuccherate per dissetarti?
+- Spiega che cos'è il bilancio idrico e che cosa succede se è negativo.
+
 ## Arterie, vene e capillari [lib-2-media-scienze-vasi-circolazione] · AORTA
 concetti: Le arterie; Le vene; I capillari; Piccola e grande circolazione
 - Qual è l'arteria più grande del corpo?
@@ -34,6 +56,50 @@ concetti: Le arterie; Le vene; I capillari; Piccola e grande circolazione
 - Perché si dice che la nostra circolazione è «doppia»?
 - Ti graffi leggermente un dito e escono poche gocce di sangue. Quali vasi hai rotto, molto probabilmente?
 - Che differenza c'è tra arterie e vene? Indica almeno due differenze.
+
+## Atomi gemelli: gli isotopi [lib-2-media-scienze-isotopi-numero-massa] · ISOTOPO
+concetti: Il numero di massa; Che cosa sono gli isotopi; Contare i neutroni; Il carbonio-14
+- Che cosa indica il numero di massa di un atomo?
+- Due isotopi dello stesso elemento hanno lo stesso numero di protoni.
+- Il carbonio-12 e il carbonio-14 sono isotopi: hanno un numero diverso di ___.
+- Un atomo di sodio ha numero atomico 11 e numero di massa 23. Quanti neutroni ha?
+- Un atomo ha 17 protoni e 18 neutroni. Qual è il suo numero di massa?
+- A che cosa serve il carbonio-14 in archeologia?
+- L'ossigeno-16 e l'ossigeno-18 si comportano allo stesso modo nelle reazioni chimiche. Perché?
+- Spiega la differenza fra due atomi di elementi diversi e due isotopi dello stesso elemento.
+
+## Baricentro: il segreto dell'equilibrio [lib-2-media-scienze-baricentro-equilibrio] · BILICO
+concetti: Il baricentro; La base d'appoggio; Tre tipi di equilibrio; Più stabili
+- Che cos'è il baricentro?
+- Un corpo appoggiato non cade se la verticale del baricentro cade dentro la base d'___.
+- Una pallina posata su un tavolo piano resta ferma dove la sposti. Che tipo di equilibrio è?
+- Una matita in bilico sulla punta cade appena la sfiori. Che tipo di equilibrio aveva?
+- Allargare i piedi su un autobus in movimento ti aiuta a non cadere.
+- Perché i camion carichi in alto si ribaltano più facilmente in curva?
+- Perché la Torre di Pisa, pur essendo inclinata, non cade?
+- Spiega perché un equilibrista sulla corda tiene un'asta lunga e pesante e piega le ginocchia.
+
+## Burro o olio? I grassi [lib-2-media-scienze-grassi-saturi-insaturi] · OLIVA
+concetti: Grassi saturi; Grassi insaturi; Grassi e colesterolo; A che cosa servono
+- Quale di questi alimenti è ricco di grassi saturi?
+- A temperatura ambiente i grassi insaturi, come l'olio, sono di solito ___.
+- Quante chilocalorie fornisce circa un grammo di grassi?
+- Mangiare troppi grassi saturi può far aumentare il colesterolo nel sangue.
+- Il pesce azzurro, come le sardine, è consigliato perché contiene...
+- Perché un'alimentazione senza grassi sarebbe sbagliata?
+- Per condire l'insalata, quale scelta è più sana?
+- Spiega la differenza fra grassi saturi e insaturi e come regolarsi a tavola.
+
+## Calcare e acqua dura [lib-2-media-scienze-calcare-acqua-dura] · CALCARE
+concetti: L'acqua dura; Le incrostazioni; Togliere il calcare; Calcare in natura
+- Che cosa rende "dura" un'acqua?
+- Le incrostazioni bianche nel bollitore sono fatte soprattutto di carbonato di ___.
+- Mettendo dell'aceto su un'incrostazione di calcare si vedono formarsi delle bollicine.
+- Quale sostanza di casa puoi usare per togliere il calcare dal rubinetto?
+- Perché il calcare si deposita soprattutto su resistenze e bollitori?
+- Come si formano le stalattiti nelle grotte?
+- Con l'acqua molto dura il sapone fa poca schiuma. Che cosa succede?
+- Spiega che cosa succede chimicamente quando togli il calcare da un bollitore con l'aceto.
 
 ## Calorie: l'energia nel piatto [lib-2-media-scienze-calorie-energia] · CALORIA
 concetti: La chilocaloria; Energia dei nutrienti; Il metabolismo basale; Il bilancio energetico
@@ -68,6 +134,28 @@ concetti: Il carbonio e i suoi legami; Diamante e grafite; La chimica organica; 
 - Il propano della bombola da campeggio brucia con abbastanza ossigeno. Quali prodotti si formano?
 - Perché si dice che il carbonio è «l'atomo della vita»?
 
+## Carrucole e piani inclinati [lib-2-media-scienze-carrucole-piano-inclinato] · RAMPA
+concetti: La carrucola fissa; La carrucola mobile; Il piano inclinato; Macchine nella vita
+- Che vantaggio dà una carrucola fissa?
+- Con una carrucola ___ puoi sollevare un carico usando circa metà della forza.
+- Con una carrucola mobile vuoi sollevare un secchio che pesa 200 N. Quale forza serve circa, trascurando gli a…
+- Con un piano inclinato si fa meno forza, ma si percorre un tratto più lungo.
+- Perché le strade di montagna sono costruite a tornanti?
+- Due rampe portano allo stesso camion: una è lunga 2 m, l'altra 4 m. Con quale spingi un carrello con meno for…
+- In un cantiere, un operaio usa una carrucola fissa per tirare su un secchio. Perché gli conviene?
+- Devi caricare una pesante lavatrice su un furgone. Quale macchina semplice useresti e perché?
+
+## Catene giganti: i polimeri [lib-2-media-scienze-polimeri-plastica] · CATENA
+concetti: Monomeri e polimeri; Polimeri naturali; Le materie plastiche; Plastica e ambiente
+- Che cos'è un polimero?
+- Le piccole molecole che si ripetono in un polimero si chiamano ___.
+- Quale di questi è un polimero naturale?
+- Da quale materia prima si ricava la maggior parte delle plastiche?
+- Una bottiglia di plastica abbandonata in mare scompare del tutto in pochi mesi.
+- Che cosa sono le microplastiche?
+- Perché la plastica ha avuto così tanto successo negli ultimi decenni?
+- Proponi due modi concreti per ridurre la plastica che usi ogni giorno e spiega perché sono utili.
+
 ## Che cos'è una forza? [lib-2-media-scienze-forze-vettori] · NEWTON
 concetti: Gli effetti delle forze; Le forze sono vettori; Misurare le forze; Contatto e distanza; Sommare le forze
 - In quale unità di misura si esprime l'intensità di una forza?
@@ -79,6 +167,17 @@ concetti: Gli effetti delle forze; Le forze sono vettori; Misurare le forze; Con
 - Tiro alla fune: la squadra A tira con 800 N verso destra, la squadra B con 650 N verso sinistra. Che cosa suc…
 - Fai un esempio di forza di contatto e uno di forza a distanza che incontri nella tua giornata, e spiega la di…
 
+## Che cosa sono le sigle E? [lib-2-media-scienze-additivi-alimentari] · SIGLA
+concetti: Che cosa sono gli additivi; La sigla E; Famiglie di additivi; Controlli e scelte
+- Che cos'è un additivo alimentare?
+- In etichetta gli additivi sono indicati con la lettera ___ seguita da un numero.
+- A che cosa servono i conservanti?
+- Gli additivi possono essere usati solo se autorizzati e nelle quantità stabilite dalla legge.
+- L'additivo E300 è l'acido ascorbico. Con quale altro nome lo conosci?
+- Perché in un succo di frutta confezionato si aggiunge un antiossidante?
+- Leggi due etichette di biscotti: uno ha 5 ingredienti, l'altro 18 con molte sigle E. Che cosa puoi dedurre?
+- Perché la legge obbliga a scrivere gli additivi in etichetta? Come può usare questa informazione un consumato…
+
 ## Cibi sicuri: etichette e conservazione [lib-2-media-scienze-conservazione-etichette] · FRIGO
 concetti: Perché i cibi si guastano; Metodi di conservazione; Leggere l'etichetta; Le date di scadenza
 - Perché il latte fresco si conserva in frigorifero?
@@ -89,6 +188,39 @@ concetti: Perché i cibi si guastano; Metodi di conservazione; Leggere l'etichet
 - Uno yogurt riporta «da consumarsi entro il 10 maggio». Oggi è il 15 maggio. Che cosa fai?
 - Perché il pane chiuso in un sacchetto umido fa la muffa più in fretta?
 - Perché un tempo carne e pesce si conservavano con il sale o facendoli seccare al sole?
+
+## Come immaginiamo l'atomo [lib-2-media-scienze-modelli-atomici] · BOHR
+concetti: Il modello di Dalton; Il modello di Thomson; Il modello di Rutherford; Il modello di Bohr
+- Come immaginava l'atomo John Dalton?
+- Perché il modello di Thomson è chiamato "a panettone"?
+- Secondo Rutherford quasi tutto il volume dell'atomo è spazio vuoto.
+- Rutherford scoprì che al centro dell'atomo c'è un ___ piccolissimo e carico positivamente.
+- Che cosa aggiunse Bohr al modello di Rutherford?
+- Nel modello di Bohr, che cosa deve fare un elettrone per salire su un livello più lontano dal nucleo?
+- Quale scoperta costrinse a superare il modello di Dalton?
+- Perché gli scienziati hanno cambiato più volte il modello dell'atomo? Fai un esempio.
+
+## Come lava il sapone [lib-2-media-scienze-sapone-tensioattivi] · SCHIUMA
+concetti: Acqua e grasso; La molecola del sapone; Le micelle; Come si fa il sapone
+- Perché lavarsi le mani unte con sola acqua non basta?
+- La testa della molecola di sapone ama l'acqua, mentre la coda ama i ___.
+- Le micelle sono palline di sapone che intrappolano il grasso al loro interno.
+- Con quali sostanze si produce il sapone?
+- Perché dopo aver insaponato bisogna sciacquare bene?
+- Perché il sapone è utile anche contro molti virus e batteri?
+- Che cosa succederebbe se il sapone avesse solo la parte che ama l'acqua?
+- Spiega con parole tue come fa il sapone a togliere una macchia d'olio da una maglietta.
+
+## Come nasce la voce [lib-2-media-scienze-voce-corde-vocali] · VOCE
+concetti: Le corde vocali; Acuto e grave; Dare forma ai suoni; La muta della voce
+- Che cosa sono le corde vocali?
+- Normalmente parliamo usando l'aria che espiriamo.
+- Quando le corde vocali sono più tese la voce diventa più ___.
+- Quale di queste parti NON serve ad articolare le parole?
+- Perché durante l'adolescenza la voce dei ragazzi diventa più grave?
+- Con il naso chiuso dal raffreddore la tua voce suona diversa. Perché?
+- Dopo aver urlato a lungo allo stadio resti senza voce. Che cosa è successo?
+- Spiega il percorso che porta dall'aria dei polmoni a una parola pronunciata.
 
 ## Come si legano gli atomi [lib-2-media-scienze-legami-chimici] · LEGAME
 concetti: Perché gli atomi si legano; Il legame ionico; Il legame covalente; Ioni positivi e negativi
@@ -112,6 +244,17 @@ concetti: La cellula; I tessuti; Gli organi; Apparati e sistemi
 - Bocca, stomaco, intestino e fegato lavorano insieme per ricavare i nutrienti dal cibo. Che cosa formano?
 - Fai un esempio di come due apparati diversi collaborano per mantenere in vita il corpo.
 
+## Densità: chi galleggia sull'acqua? [lib-2-media-scienze-densita] · DENSO
+concetti: Che cos'è la densità; Le unità di misura; Densità e galleggiamento; Calcoli con la densità
+- Come si calcola la densità di un oggetto?
+- L'acqua pura ha una densità di circa 1 ___.
+- Un litro d'acqua (1000 cm³) ha una massa di circa 1 kg.
+- Un cubetto di metallo ha massa 54 g e volume 20 cm³. Qual è la sua densità?
+- Il ferro ha densità circa 7,9 g/cm³. Che cosa succede a un chiodo di ferro messo in acqua?
+- Un liquido ha densità 0,8 g/cm³. Qual è la massa di 50 cm³ di questo liquido?
+- Il ghiaccio galleggia sull'acqua liquida. Che cosa puoi dedurre?
+- Un chilo di piume e un chilo di ferro hanno la stessa massa. Perché le piume occupano molto più spazio? Usa l…
+
 ## Denti: forbici e macine [lib-2-media-scienze-denti-bocca] · SMALTO
 concetti: Tipi di denti; Da latte e permanenti; Com'è fatto un dente; Carie e igiene
 - Quali denti usi per tagliare un morso di mela?
@@ -122,6 +265,28 @@ concetti: Tipi di denti; Da latte e permanenti; Com'è fatto un dente; Carie e i
 - Metti in ordine come si forma una carie.
 - Un adulto ha 32 denti: 8 incisivi, 4 canini e 8 premolari. Quanti molari ha?
 - Perché i dentisti dicono che è meglio non sgranocchiare dolci tutto il giorno, anche se sono piccoli?
+
+## Elettroni a strati [lib-2-media-scienze-elettroni-livelli-ottetto] · OTTETTO
+concetti: I livelli energetici; Gli elettroni di valenza; La regola dell'ottetto; I gas nobili stabili
+- Quanti elettroni può contenere al massimo il primo livello?
+- Gli elettroni del livello più esterno si chiamano elettroni di ___.
+- Il sodio ha 11 elettroni. Come sono distribuiti sui livelli?
+- Il neon, un gas nobile, reagisce facilmente con molti elementi.
+- Quanti elettroni di valenza ha l'ossigeno, che ha 8 elettroni in tutto?
+- Il cloro ha 7 elettroni di valenza. Che cosa tende a fare per seguire la regola dell'ottetto?
+- Perché il sodio tende a perdere un elettrone?
+- Litio, sodio e potassio stanno nello stesso gruppo della tavola periodica e reagiscono in modo simile. Spiega…
+
+## Energia in movimento e in attesa [lib-2-media-scienze-energia-cinetica-potenziale] · PENDOLO
+concetti: L'energia cinetica; L'energia potenziale; Le trasformazioni; La conservazione
+- Che tipo di energia ha un pallone che rotola?
+- Un vaso sul davanzale possiede energia ___ gravitazionale perché si trova in alto.
+- Qual è l'energia potenziale di un vaso di 3 kg posato a 2 m di altezza? (g = 9,8 N/kg)
+- Su una montagna russa, in quale punto il carrello ha più energia cinetica?
+- Se la velocità di un'auto raddoppia, come cambia la sua energia cinetica?
+- Un pendolo reale, a poco a poco, oscilla sempre meno perché l'energia scompare nel nulla.
+- Lanci una palla verso l'alto. Mentre sale, che cosa succede alla sua energia?
+- Descrivi le trasformazioni di energia di un bambino sull'altalena, dal punto più alto al punto più basso e ri…
 
 ## Enzimi, bile e villi intestinali [lib-2-media-scienze-digestione-assorbimento] · VILLI
 concetti: Gli enzimi digestivi; Fegato e pancreas; L'intestino tenue e i villi; L'assorbimento
@@ -134,6 +299,17 @@ concetti: Gli enzimi digestivi; Fegato e pancreas; L'intestino tenue e i villi; 
 - Se la parete dell'intestino tenue fosse liscia, senza villi, che cosa succederebbe?
 - Dopo che hai mangiato un panino, come arrivano gli zuccheri dell'amido fino ai muscoli delle gambe?
 
+## Fibre e batteri amici [lib-2-media-scienze-fibre-microbiota] · FIBRA
+concetti: Che cosa sono le fibre; A che cosa servono; Dove si trovano; Il microbiota
+- Che cosa hanno di speciale le fibre alimentari?
+- Le fibre abbondano nei cereali ___, come il pane e la pasta fatti con farina non raffinata.
+- Quale di questi alimenti contiene più fibre?
+- Nel nostro intestino vivono miliardi di batteri utili alla salute.
+- Perché un piatto ricco di verdure ti fa sentire sazio a lungo?
+- Quale vitamina viene prodotta in parte dai batteri del nostro intestino?
+- Che cosa può succedere a chi mangia pochissime fibre?
+- Perché si dice che mangiando fibre nutri anche i batteri del tuo intestino? Perché è utile?
+
 ## Formule: l'alfabeto della chimica [lib-2-media-scienze-elementi-composti-formule] · FORMULA
 concetti: Elementi e composti; Le molecole; Leggere una formula; Proprietà nuove nei composti
 - Nella formula H2O, che cosa indica il numero 2?
@@ -145,6 +321,17 @@ concetti: Elementi e composti; Le molecole; Leggere una formula; Proprietà nuov
 - Che cosa ti dice la formula NH3 dell'ammoniaca? (N è l'azoto)
 - Che differenza c'è tra un elemento e un composto? Fai un esempio per ciascuno.
 
+## Fratture, distorsioni e lussazioni [lib-2-media-scienze-fratture-distorsioni] · GESSO
+concetti: La frattura; Distorsione e lussazione; Primo soccorso; La guarigione dell'osso
+- Che cos'è una frattura?
+- Giocando a pallavolo prendi una storta e la caviglia si gonfia, ma l'osso è intatto. Che cosa hai probabilmen…
+- Quando le ossa di un'articolazione escono dalla loro posizione si parla di ___.
+- Se un compagno ha forse un braccio rotto, devi provare a raddrizzarglielo.
+- Metti in ordine le fasi della guarigione di un osso fratturato.
+- Che cosa si può applicare su una caviglia gonfia dopo una storta?
+- Perché si mette il gesso dopo una frattura?
+- Durante l'intervallo un compagno cade e non riesce a muovere la gamba, che gli fa molto male. Che cosa fai e …
+
 ## Galleggiare: la spinta di Archimede [lib-2-media-scienze-pressione-galleggiamento] · SPINTA
 concetti: La pressione; La spinta di Archimede; Galleggia o affonda?; La pressione nei liquidi
 - Che verso ha la spinta di Archimede su un corpo immerso nell'acqua?
@@ -155,6 +342,28 @@ concetti: La pressione; La spinta di Archimede; Galleggia o affonda?; La pressio
 - Perché le dighe sono più spesse in basso che in alto?
 - Una nave d'acciaio galleggia, mentre un chiodo d'acciaio affonda. Perché?
 - Sollevi un amico in piscina e ti sembra molto più leggero che fuori dall'acqua. Perché?
+
+## Girare in tondo: il moto circolare [lib-2-media-scienze-moto-circolare] · GIOSTRA
+concetti: Il moto circolare uniforme; Periodo e frequenza; La forza centripeta; Se la forza sparisce
+- Nel moto circolare uniforme, che cosa cambia continuamente?
+- Il tempo che un corpo impiega a compiere un giro completo si chiama ___.
+- Una ruota fa 30 giri in 60 secondi. Qual è il suo periodo?
+- Una giostra fa un giro ogni 4 secondi. Qual è la sua frequenza?
+- Per far girare un sasso legato a una corda devi tirare la corda verso il centro.
+- Fai girare un sasso legato a una corda e la corda si spezza. Come si muove il sasso?
+- Durante la centrifuga della lavatrice l'acqua esce dai fori del cestello. Perché?
+- Perché un'auto che affronta una curva su una strada ghiacciata rischia di uscire di strada?
+
+## Gli ormoni, messaggeri chimici [lib-2-media-scienze-ghiandole-ormoni] · ORMONE
+concetti: Il sistema endocrino; L'ipofisi; Tiroide e surrenali; Endocrine ed esocrine
+- Come viaggiano gli ormoni nel corpo?
+- L'ormone della crescita è prodotto dall'___.
+- Dove si trova la tiroide?
+- Quale sostanza serve alla tiroide per produrre i suoi ormoni?
+- Le ghiandole del sudore sono ghiandole endocrine.
+- Un cane ti abbaia all'improvviso e il cuore ti batte forte. Quale ormone è entrato in azione?
+- Perché l'ipofisi è chiamata la "ghiandola maestra"?
+- Confronta il modo in cui comunicano il sistema nervoso e il sistema endocrino.
 
 ## I nutrienti e i loro compiti [lib-2-media-scienze-nutrienti] · AMIDO
 concetti: I carboidrati; Le proteine; I lipidi; Vitamine, sali e acqua
@@ -189,6 +398,39 @@ concetti: Com'è fatto il cuore; Le valvole; Il battito; Destra e sinistra
 - Metti in ordine il percorso del sangue povero di ossigeno, dal ritorno al cuore fino ai polmoni.
 - Che cosa succederebbe se una valvola del cuore non si chiudesse bene?
 
+## Il fegato, un laboratorio vivente [lib-2-media-scienze-fegato-funzioni] · FEGATO
+concetti: Un organo grande; La bile; Magazzino di riserve; Il depuratore
+- Dove si trova il fegato?
+- La bile prodotta dal fegato si accumula in un sacchetto chiamato ___.
+- In quale tratto del tubo digerente viene versata la bile?
+- Il fegato conserva una riserva di zuccheri sotto forma di glicogeno.
+- Perché bere alcol fa male al fegato?
+- Fra un pasto e l'altro la quantità di zucchero nel sangue cala. Che cosa fa il fegato?
+- Perché si dice che il fegato è una ghiandola?
+- Elenca almeno tre compiti del fegato e spiega perché è importante proteggerlo.
+
+## Il lavoro in fisica [lib-2-media-scienze-lavoro-meccanico] · JOULE
+concetti: Che cos'è il lavoro; La formula; Il joule; Senza spostamento niente lavoro
+- Quando si compie un lavoro in senso fisico?
+- Il lavoro si misura in ___.
+- Spingi un carrello con una forza di 50 N per 3 m. Quanto lavoro compi?
+- Tenere uno zaino fermo in mano per dieci minuti, in fisica, non è un lavoro.
+- Sollevi uno zaino che pesa 40 N fino a un'altezza di 1,5 m. Quanto lavoro compi?
+- Per compiere un lavoro di 200 J spostando un mobile di 4 m, quale forza devi applicare?
+- Due ragazzi spingono due casse con la stessa forza; il primo la sposta di 2 m, il secondo di 6 m. Chi compie …
+- Un compagno dice: «Ho tenuto in braccio mio fratello per mezz'ora, ho fatto un lavoro enorme!». Ha ragione da…
+
+## Il metodo di Galileo [lib-2-media-scienze-metodo-scientifico] · IPOTESI
+concetti: Osservare e chiedersi; L'ipotesi; L'esperimento; Conclusioni e Galileo
+- Da che cosa parte il metodo scientifico?
+- Lo scienziato considerato il padre del metodo scientifico è Galileo ___.
+- Metti in ordine le fasi del metodo scientifico.
+- Un'ipotesi scientifica deve poter essere messa alla prova con un esperimento.
+- Vuoi sapere se la luce fa crescere di più le piantine. Che cosa devi cambiare fra i due vasi?
+- Perché un esperimento va ripetuto più volte?
+- L'esperimento dà risultati contrari all'ipotesi. Che cosa fa uno scienziato?
+- Progetta un semplice esperimento per verificare l'ipotesi: "Lo zucchero si scioglie più in fretta nell'acqua …
+
 ## Il percorso dell'aria [lib-2-media-scienze-vie-respiratorie] · ALVEOLI
 concetti: Le vie respiratorie; Il naso filtra e scalda; Laringe ed epiglottide; Polmoni e alveoli
 - La trachea si divide in due tubi, uno per ciascun polmone. Come si chiamano?
@@ -200,6 +442,17 @@ concetti: Le vie respiratorie; Il naso filtra e scalda; Laringe ed epiglottide; 
 - D'inverno respiri aria gelida con il naso. Che cosa le succede prima di arrivare ai polmoni?
 - Che cosa sono gli alveoli e perché sono avvolti da una fitta rete di capillari?
 
+## Il peso dell'aria [lib-2-media-scienze-pressione-atmosferica] · VENTOSA
+concetti: Che cos'è; L'esperimento di Torricelli; Pressione e altitudine; Il barometro
+- Perché esiste la pressione atmosferica?
+- Lo scienziato che misurò per primo la pressione atmosferica con una colonna di mercurio fu Evangelista ___.
+- Come si chiama lo strumento che misura la pressione atmosferica?
+- Che cosa succede alla pressione atmosferica salendo su una montagna?
+- Al livello del mare la pressione dell'aria sostiene una colonna di mercurio alta circa 76 cm.
+- Quando bevi con la cannuccia, che cosa spinge davvero la bibita verso l'alto?
+- Una bottiglietta vuota chiusa in cima a una montagna, riportata a valle, si accartoccia un po'. Perché?
+- Spiega perché in alta montagna si respira con più fatica.
+
 ## Il sangue e i suoi componenti [lib-2-media-scienze-sangue-componenti] · PLASMA
 concetti: Il plasma; I globuli rossi; Globuli bianchi e piastrine; I gruppi sanguigni
 - Quale proteina dei globuli rossi trasporta l'ossigeno?
@@ -210,6 +463,39 @@ concetti: Il plasma; I globuli rossi; Globuli bianchi e piastrine; I gruppi sang
 - Un adulto ha circa 5 litri di sangue e il plasma ne è circa il 55%. Quanti litri di plasma ha, circa?
 - Perché prima di una trasfusione si controlla il gruppo sanguigno?
 - Elenca i componenti del sangue e scrivi per ciascuno il suo compito principale.
+
+## Il sistema linfatico [lib-2-media-scienze-sistema-linfatico] · LINFA
+concetti: La linfa e i vasi linfatici; I linfonodi; Milza, timo e tonsille; Come scorre la linfa
+- Che cos'è la linfa?
+- I piccoli rigonfiamenti che filtrano la linfa si chiamano ___.
+- La linfa è spinta da un organo simile al cuore.
+- Durante un mal di gola, i linfonodi del collo si gonfiano. Perché?
+- Quale di questi è un organo linfatico?
+- Perché stare tanto tempo fermi in piedi può far gonfiare le caviglie?
+- Dove finisce la linfa dopo aver attraversato i vasi linfatici?
+- Spiega i due compiti principali del sistema linfatico.
+
+## Il taxi dell'ossigeno [lib-2-media-scienze-emoglobina-ossigeno] · ROSSO
+concetti: L'emoglobina; Prendere e lasciare; Il monossido di carbonio; Ferro e anemia
+- Dove si trova l'emoglobina?
+- L'emoglobina contiene un metallo, il ___, indispensabile per legare l'ossigeno.
+- Dove l'emoglobina cede l'ossigeno?
+- Il monossido di carbonio è pericoloso anche perché non ha odore né colore.
+- In quale situazione si forma più facilmente il monossido di carbonio?
+- Una ragazza è spesso stanca e pallida e il medico trova poca emoglobina. Quale alimento le può consigliare?
+- Chi vive in alta montagna ha più globuli rossi. Perché?
+- L'emoglobina si carica di ossigeno nei polmoni e lo lascia nei tessuti. Spiega perché succede così e che cosa…
+
+## Il termostato del corpo [lib-2-media-scienze-febbre-termoregolazione] · BRIVIDO
+concetti: La temperatura del corpo; Il termostato nel cervello; Scaldarsi e raffreddarsi; La febbre
+- Qual è la temperatura normale del corpo umano?
+- La zona dell'encefalo che regola la temperatura del corpo si chiama ___.
+- In una giornata gelida le tue mani diventano fredde e pallide. Perché?
+- Perché quando hai freddo ti vengono i brividi?
+- Quando fa caldo la pelle diventa rossa perché i vasi sanguigni della pelle si dilatano.
+- A che cosa serve la febbre?
+- All'inizio della febbre spesso senti freddo e tremi anche sotto le coperte. Perché?
+- Spiega che cosa fa il corpo per mantenere la temperatura in una giornata molto calda e in una molto fredda.
 
 ## Il triangolo del fuoco [lib-2-media-scienze-combustione-triangolo-fuoco] · FUOCO
 concetti: Il triangolo del fuoco; Prodotti della combustione; Spegnere un incendio; Combustione incompleta
@@ -288,6 +574,17 @@ concetti: Che cos'è l'attrito; Tipi di attrito; Da che cosa dipende; Utile o da
 - Spingi una cassa vuota e poi la stessa cassa piena di libri sullo stesso pavimento. Quale è più difficile da …
 - Perché sulla catena della bicicletta si mette l'olio, mentre i freni devono avere molto attrito?
 
+## La carta d'identità delle sostanze [lib-2-media-scienze-sostanze-pure-temperature] · FUSIONE
+concetti: Temperature caratteristiche; La sosta termica; I miscugli; L'effetto della pressione
+- A che temperatura bolle l'acqua pura al livello del mare?
+- Mentre il ghiaccio fonde, la temperatura dell'acqua e del ghiaccio resta a 0 °C.
+- Il tratto piatto nel grafico della temperatura durante un passaggio di stato si chiama sosta ___.
+- Perché d'inverno si sparge sale sulle strade ghiacciate?
+- In alta montagna la pasta cuoce più lentamente. Perché?
+- Un liquido trasparente, al livello del mare, bolle a 78 °C e resta a quella temperatura finché bolle. Può ess…
+- L'acqua del mare bolle a una temperatura un po' più alta di 100 °C. Perché?
+- Scaldi una pentola d'acqua che bolle già. Alzi la fiamma al massimo: la temperatura dell'acqua sale sopra i 1…
+
 ## La mappa degli elementi [lib-2-media-scienze-tavola-periodica] · TAVOLA
 concetti: Elementi e simboli; Mendeleev e l'ordine; Gruppi e periodi
 - Qual è il simbolo chimico del ferro?
@@ -299,6 +596,17 @@ concetti: Elementi e simboli; Mendeleev e l'ordine; Gruppi e periodi
 - Il carbonio ha numero atomico 6 e l'azoto 7. Quale elemento viene subito dopo l'azoto?
 - Perché la tavola periodica è utile a un chimico che studia un elemento poco conosciuto?
 
+## La mela di Newton [lib-2-media-scienze-gravitazione-universale] · ORBITA
+concetti: Tutti si attraggono; Massa e distanza; Le orbite; Le maree
+- Che cosa afferma la legge di gravitazione universale?
+- La legge di gravitazione universale fu formulata da Isaac ___.
+- Da che cosa dipende l'intensità della forza di gravità fra due corpi?
+- Anche tu attiri la Terra con la tua forza di gravità.
+- Che cosa tiene la Luna in orbita attorno alla Terra?
+- Se la distanza fra due corpi raddoppia, come cambia la forza di gravità fra loro?
+- Che cosa provoca principalmente le maree?
+- Newton capì che la forza che fa cadere una mela è la stessa che tiene la Luna in orbita. Spiega perché la Lun…
+
 ## La pelle, un organo da record [lib-2-media-scienze-pelle] · PELLE
 concetti: Gli strati della pelle; Le funzioni della pelle; Sudore e temperatura; Melanina e sole
 - Qual è lo strato più esterno della pelle?
@@ -309,6 +617,17 @@ concetti: Gli strati della pelle; Le funzioni della pelle; Sudore e temperatura;
 - Perché le foche hanno uno spesso strato di grasso sotto la pelle?
 - Perché anche chi è già abbronzato deve usare la crema solare?
 - La pelle non è solo un «involucro». Elenca almeno tre suoi compiti.
+
+## Le bollicine delle bibite [lib-2-media-scienze-gas-disciolti-bibite] · BOLLA
+concetti: Gas sciolti nei liquidi; Effetto della temperatura; Effetto della pressione; Conseguenze per i viventi
+- Quale gas forma le bollicine delle bibite gassate?
+- Un gas si scioglie meglio nell'acqua calda che nell'acqua fredda.
+- Quando apri una bottiglia di bibita, la ___ dentro diminuisce e il gas forma bolle.
+- Perché le bibite gassate si imbottigliano sotto pressione?
+- In estate, in uno stagno molto caldo, i pesci boccheggiano in superficie. Perché?
+- Se scaldi lentamente l'acqua del rubinetto in una pentola, vedi piccole bolle prima che bolla. Che cosa sono?
+- Agiti una bottiglia chiusa di bibita e la apri subito. Perché schizza fuori?
+- Negli acquari si usa una pompa che fa gorgogliare aria nell'acqua. A che cosa serve, e perché è ancora più im…
 
 ## Le difese del corpo [lib-2-media-scienze-difese-immunitarie] · VACCINO
 concetti: Le barriere naturali; Globuli bianchi in azione; Anticorpi e memoria; I vaccini
@@ -331,6 +650,28 @@ concetti: Com'è fatta una leva; Equilibrio della leva; Leve di primo genere; Le
 - Perché le pinzette per le sopracciglia sono una leva svantaggiosa?
 - Con un piede di porco il braccio della tua forza è 1 m e quello della resistenza 0,2 m. Che forza ti serve pe…
 - Perché per svitare un bullone molto duro si usa una chiave con il manico lungo?
+
+## Leggere la tabella nutrizionale [lib-2-media-scienze-tabella-nutrizionale] · TABELLA
+concetti: Valori per 100 grammi; Energia in kcal e kJ; Calcolare la porzione; L'elenco degli ingredienti
+- A quale quantità di prodotto si riferiscono di solito i valori della tabella nutrizionale?
+- L'energia degli alimenti si indica in chilocalorie e in ___.
+- Uno snack ha 500 kcal per 100 g. Quanti grammi devi mangiarne per assumere 150 kcal?
+- Dei cereali contengono 40 g di zuccheri per 100 g. Quanti grammi di zuccheri ci sono in una ciotola da 25 g?
+- Nell'elenco degli ingredienti gli allergeni, come latte, uova o arachidi, devono essere messi in evidenza, pe…
+- Un tuo amico è allergico alle arachidi. Dove deve guardare sulla confezione di una merendina?
+- Perché è comodo che tutte le tabelle usino 100 g come riferimento?
+- Due barrette hanno la stessa energia per 100 g, ma una pesa 20 g e l'altra 45 g. Quale ti dà più energia e pe…
+
+## Leggere un'equazione chimica [lib-2-media-scienze-equazioni-chimiche] · FRECCIA
+concetti: Reagenti e prodotti; Indici e coefficienti; Contare gli atomi; Bilanciare
+- Nell'equazione Zn + S → ZnS, che cosa sono Zn e S?
+- Nella formula CH₄ del metano, il numero 4 piccolo in basso è un ___ e indica quattro atomi di idrogeno.
+- Quanti atomi di idrogeno ci sono in 3 H₂O?
+- L'equazione H₂ + O₂ → H₂O è già bilanciata.
+- Quale coefficiente va davanti a O₂ per bilanciare CH₄ + ? O₂ → CO₂ + 2 H₂O?
+- Quanti atomi in tutto ci sono in una molecola di acido solforico, H₂SO₄?
+- Perché un'equazione chimica deve essere bilanciata?
+- Spiega la differenza fra 2 O e O₂ usando le parole coefficiente, indice, atomo e molecola.
 
 ## Lo scheletro: 206 ossa al lavoro [lib-2-media-scienze-scheletro-ossa] · FEMORE
 concetti: Funzioni dello scheletro; Quante ossa e di che tipo; Com'è fatto un osso; Ossa sane
@@ -365,6 +706,28 @@ concetti: Che cos'è un miscuglio; Miscugli eterogenei; Miscugli omogenei; Miscu
 - Un liquido bolle sempre a 100 °C. Un altro inizia a bollire a 102 °C e la temperatura sale mentre bolle. Qual…
 - Che differenza c'è tra un miscuglio omogeneo e uno eterogeneo? Fai un esempio di ciascuno preso dalla tua cuc…
 
+## Molle e forza elastica [lib-2-media-scienze-forza-elastica-molle] · MOLLA
+concetti: La forza elastica; La legge di Hooke; Il dinamometro; Elastico o plastico
+- Che cosa fa una molla quando la tiri e poi la lasci?
+- Quando tiri una molla, essa esercita su di te una forza ___ a quella che applichi.
+- Una molla si allunga di 2 cm con una forza di 4 N. Di quanto si allunga con una forza di 10 N?
+- Se raddoppi la forza applicata a una molla, che cosa succede all'allungamento?
+- La plastilina è un materiale elastico.
+- Che cosa succede se tiri una molla oltre il suo limite di elasticità?
+- Quale oggetto sfrutta la forza elastica per funzionare?
+- Spiega come funziona un dinamometro usando la legge di Hooke.
+
+## Muoversi fa bene: perché? [lib-2-media-scienze-attivita-fisica-benefici] · SPORT
+concetti: Quanto muoversi; I benefici per il corpo; I benefici per la mente; Allenarsi bene
+- Quanta attività fisica è consigliata ai ragazzi ogni giorno?
+- Correre e saltare aiuta a rendere le ossa più robuste.
+- Prima di fare sport è importante fare il ___ per preparare muscoli e articolazioni.
+- Che effetto ha l'allenamento regolare sul cuore?
+- Perché dopo una bella corsa ti senti di buon umore?
+- Quale abitudine è più sedentaria?
+- Perché alla fine di una corsa conviene rallentare gradualmente invece di fermarsi di colpo?
+- Un amico passa ogni pomeriggio seduto davanti agli schermi. Convincilo a muoversi spiegando almeno tre benefi…
+
 ## Muscoli: i motori del corpo [lib-2-media-scienze-muscoli] · TENDINE
 concetti: Tre tipi di muscoli; Muscoli e tendini; Contrazione e coppie; Energia e allenamento
 - Che cosa collega un muscolo a un osso?
@@ -376,6 +739,17 @@ concetti: Tre tipi di muscoli; Muscoli e tendini; Contrazione e coppie; Energia 
 - Durante una corsa respiri più in fretta. Perché?
 - Che differenza c'è tra un tendine e un legamento?
 
+## Neuroni: i fili del corpo [lib-2-media-scienze-neuroni-impulso] · NEURONE
+concetti: Il neurone; L'impulso nervoso; La sinapsi; La mielina
+- Come si chiama la cellula del sistema nervoso?
+- Il lungo prolungamento che porta l'impulso lontano dal corpo del neurone si chiama ___.
+- Che compito hanno i dendriti?
+- Metti in ordine il percorso di un messaggio dentro un neurone e verso il successivo.
+- Nella sinapsi il messaggio passa al neurone successivo grazie a sostanze chimiche.
+- A che cosa serve la mielina che avvolge molti assoni?
+- Di che natura è il messaggio che corre lungo l'assone?
+- Spiega come un messaggio passa da un neurone all'altro.
+
 ## Nulla si crea, nulla si distrugge [lib-2-media-scienze-reazioni-lavoisier] · MASSA
 concetti: Reagenti e prodotti; Legge di Lavoisier; Sistemi aperti e chiusi; Esotermiche ed endotermiche
 - Nella reazione carbonio + ossigeno → anidride carbonica, quali sono i reagenti?
@@ -386,6 +760,39 @@ concetti: Reagenti e prodotti; Legge di Lavoisier; Sistemi aperti e chiusi; Esot
 - Quale di queste trasformazioni è esotermica, cioè libera calore?
 - Metti una pastiglia effervescente in una bottiglia d'acqua e chiudi subito il tappo. Pesi tutto prima e dopo.…
 - Spiega con parole tue la legge di Lavoisier: «Nulla si crea, nulla si distrugge, tutto si trasforma».
+
+## Ossidi, idrossidi e acidi [lib-2-media-scienze-ossidi-idrossidi-anidridi] · OSSIDO
+concetti: Gli ossidi basici; Le anidridi; Gli idrossidi; Gli ossiacidi
+- Che cosa si forma quando un metallo reagisce con l'ossigeno?
+- Quando un non metallo reagisce con l'ossigeno si forma un'___, detta anche ossido acido.
+- L'anidride carbonica (CO₂) è formata da un non metallo e dall'ossigeno.
+- Che cosa si ottiene facendo reagire l'ossido di calcio con l'acqua?
+- Che cosa si forma quando l'anidride carbonica si scioglie nell'acqua?
+- Metti in ordine le tappe che portano dal calcio a una base.
+- L'anidride solforosa liberata da certi impianti si scioglie nell'acqua delle nuvole. Che cosa può provocare?
+- Che differenza c'è fra il composto che si forma bruciando un metallo e quello che si forma bruciando un non m…
+
+## Pancreas, insulina e glicemia [lib-2-media-scienze-pancreas-insulina] · ISOLE
+concetti: Una ghiandola doppia; La glicemia; Insulina e glucagone; Il diabete
+- Che cosa si intende per glicemia?
+- L'ormone che abbassa la glicemia si chiama ___.
+- Il pancreas produce sia un succo digestivo sia degli ormoni.
+- Dopo una merenda con molti zuccheri che cosa succede alla glicemia?
+- Dopo molte ore di digiuno la glicemia scende. Quale ormone libera il pancreas?
+- Che cosa succede in una persona con diabete non curato?
+- Quale abitudine aiuta di più a prevenire il diabete di tipo 2?
+- Spiega come insulina e glucagone lavorano in coppia per mantenere stabile la glicemia.
+
+## Paracadute e resistenza dell'aria [lib-2-media-scienze-resistenza-aria] · PIUMA
+concetti: La resistenza dell'aria; Da che cosa dipende; Caduta nel vuoto; Forme aerodinamiche
+- A che cosa si oppone la resistenza dell'aria?
+- La resistenza dell'aria aumenta con la velocità e con la ___ esposta.
+- Lasci cadere insieme un foglio aperto e un foglio uguale appallottolato. Che cosa succede?
+- Nel vuoto una biglia di ferro cade più in fretta di una pallina di carta lasciata insieme a lei.
+- Un paracadutista in caduta libera, dopo alcuni secondi, smette di accelerare e scende a velocità costante. Pe…
+- Perché le auto da corsa e i treni veloci hanno forme affusolate?
+- Quale scienziato intuì che, senza l'aria, corpi di massa diversa cadrebbero insieme?
+- Un ciclista in discesa si piega in avanti abbassando il busto. Perché lo fa?
 
 ## Peso e massa non sono uguali [lib-2-media-scienze-peso-massa] · LUNA
 concetti: La massa; Il peso; Peso uguale massa per g; Il peso sugli altri astri
@@ -420,6 +827,50 @@ concetti: Ciglia e muco; Le sostanze del fumo; I danni del fumo; Prevenzione
 - Quale di queste abitudini aiuta di più i tuoi polmoni?
 - Perché si dice che il catrame «sporca» i polmoni? Che conseguenze può avere?
 
+## Polso e pressione del sangue [lib-2-media-scienze-pressione-polso] · POLSO
+concetti: La pressione arteriosa; Massima e minima; Il polso; Pressione e salute
+- Che cosa misura la pressione arteriosa?
+- Contando i battiti dell'arteria al polso misuri la frequenza ___.
+- Quando si registra la pressione massima?
+- Conti 18 battiti al polso in 15 secondi. Qual è la tua frequenza cardiaca al minuto?
+- Dopo una corsa la frequenza cardiaca aumenta.
+- Quale abitudine può far aumentare troppo la pressione arteriosa?
+- In quale punto del corpo puoi sentire facilmente il polso, oltre al polso della mano?
+- Perché la pressione troppo alta è pericolosa per la salute? Come si può prevenire?
+
+## Potenza: quanto in fretta [lib-2-media-scienze-potenza] · WATT
+concetti: Che cos'è la potenza; La formula; Watt e chilowatt; Potenza nella vita
+- Che cosa indica la potenza?
+- La potenza si misura in ___.
+- Un motore compie un lavoro di 600 J in 3 secondi. Qual è la sua potenza?
+- A quanti watt corrispondono 2,5 kW?
+- Un'aspirapolvere da 1200 W consuma energia più in fretta di una lampadina da 12 W.
+- Sali le stesse scale una volta camminando e una volta correndo. Che cosa cambia?
+- Una ragazza con peso 500 N sale una scala alta 3 m in 5 secondi. Che potenza sviluppa?
+- Spiega la differenza fra lavoro e potenza con un esempio della vita quotidiana.
+
+## Proteine: mattoni del corpo [lib-2-media-scienze-proteine-amminoacidi] · FAGIOLO
+concetti: Catene di amminoacidi; Amminoacidi essenziali; A che cosa servono; Proteine animali e vegetali
+- Di che cosa sono fatte le proteine?
+- Gli amminoacidi che il corpo non sa produrre e che devono arrivare dal cibo si chiamano ___.
+- Quale di queste parti del corpo è fatta soprattutto di proteine?
+- Anche gli enzimi e gli anticorpi sono proteine.
+- Quale di questi alimenti di origine animale è una buona fonte di proteine?
+- Perché un piatto di pasta e fagioli è considerato un buon piatto proteico?
+- Perché un ragazzo in crescita ha bisogno di proteine?
+- Un compagno vegetariano non mangia carne né pesce. Come può assumere tutte le proteine di cui ha bisogno?
+
+## Quanto serve per fermarsi? [lib-2-media-scienze-spazio-frenata] · FRENO
+concetti: Il tempo di reazione; Lo spazio di reazione; Lo spazio di frenata; La distanza di arresto
+- Che cos'è il tempo di reazione?
+- Un'auto viaggia a 20 m/s e il guidatore ha un tempo di reazione di 1 s. Quanti metri percorre prima di inizia…
+- La distanza di arresto è la somma dello spazio di reazione e dello spazio di ___.
+- Con le gomme consumate lo spazio di frenata diventa più corto.
+- Perché usare il telefono mentre si guida o si va in bici è pericoloso?
+- Se la velocità di un'auto raddoppia, come cambia circa lo spazio di frenata?
+- Un'auto ha uno spazio di reazione di 15 m e uno spazio di frenata di 25 m. Qual è la distanza di arresto?
+- Spiega perché vicino alle scuole il limite di velocità è basso, usando i concetti di tempo di reazione e spaz…
+
 ## Quanto vai veloce? [lib-2-media-scienze-velocita-media] · VELOCE
 concetti: Calcolare la velocità; Le unità di misura; Spazio e tempo dalla velocità; Moto rettilineo uniforme
 - Un ciclista percorre 30 km in 2 ore. Qual è la sua velocità media?
@@ -452,6 +903,28 @@ concetti: I reni; I nefroni; Il percorso dell'urina; Altre vie di escrezione
 - Quando fa caldo e sudi molto, che cosa succede di solito all'urina?
 - Oltre ai reni, quale organo elimina dal corpo l'anidride carbonica?
 - Perché chi ha i reni malati deve fare la dialisi, cioè farsi filtrare il sangue da una macchina?
+
+## Riflessi: più veloci del pensiero [lib-2-media-scienze-midollo-riflessi] · SCATTO
+concetti: Centrale e periferico; Il midollo spinale; L'arco riflesso; Volontario e involontario
+- Dove si trova il midollo spinale?
+- Encefalo e midollo spinale formano il sistema nervoso ___.
+- Il riflesso con cui ritiri la mano da una pentola bollente è un movimento involontario.
+- Metti in ordine le tappe dell'arco riflesso quando tocchi una cosa che scotta.
+- Perché i riflessi sono così rapidi?
+- Il medico ti batte un martelletto sotto il ginocchio e la gamba scatta. Che cosa sta controllando?
+- Quale di questi è un movimento volontario?
+- Perché è utile per la sopravvivenza avere dei riflessi che non passano dal cervello?
+
+## Ripasso: a tavola con la scienza [lib-2-media-scienze-ripasso-alimentazione] · PIATTO
+concetti: I nutrienti; Energia degli alimenti; Equilibrio e varietà; Scelte consapevoli
+- Quale gruppo di nutrienti è la principale fonte di energia pronta per muscoli e cervello?
+- Un alimento contiene 10 g di carboidrati e 5 g di grassi. Quanta energia fornisce circa?
+- Mangiare sempre gli stessi cibi, anche se sani, è il modo migliore per nutrirsi.
+- Una dieta ___ fornisce tutti i nutrienti nelle giuste quantità, alternando alimenti diversi.
+- Calcio, ferro e iodio a quale gruppo di nutrienti appartengono?
+- Quale merenda è più equilibrata per un pomeriggio a scuola?
+- Due yogurt alla frutta: A ha 6 g di zuccheri per 100 g, B ne ha 14 g. Quale scegli per limitare gli zuccheri,…
+- Descrivi una giornata alimentare equilibrata per un ragazzo della tua età, spiegando le tue scelte.
 
 ## Ripasso: chi fa cosa nel corpo [lib-2-media-scienze-ripasso-apparati] · ORGANI
 concetti: Sostegno e movimento; Nutrirsi e respirare; Trasportare; Eliminare i rifiuti
@@ -486,6 +959,28 @@ concetti: Velocità e moto; Forze e risultante; Peso e attrito; I principi della
 - In quale di questi casi c'è un moto accelerato?
 - Sei sullo skateboard e lanci in avanti una palla pesante. Che cosa succede a te e perché?
 
+## Ruggine: il ferro che invecchia [lib-2-media-scienze-ossidazione-ruggine] · FERRO
+concetti: L'ossidazione; Che cosa serve alla ruggine; Proteggere i metalli; Ossidazioni quotidiane
+- Con quale sostanza si combina il ferro quando arrugginisce?
+- Un chiodo di ferro chiuso in un barattolo di aria perfettamente secca arrugginisce in fretta.
+- Ricoprire il ferro con uno strato di zinco per proteggerlo si chiama ___.
+- Perché le auto che girano d'inverno su strade cosparse di sale arrugginiscono di più?
+- Perché verniciare un cancello di ferro lo protegge?
+- Quale di questi fenomeni è anch'esso una reazione con l'ossigeno?
+- Dove arrugginisce più in fretta una bicicletta lasciata per mesi?
+- Hai una bicicletta nuova di ferro verniciato. Che cosa faresti per evitare che arrugginisca? Spiega perché.
+
+## Sale: un pizzico basta [lib-2-media-scienze-sale-sodio] · SALINA
+concetti: Sale e sodio; Quanto sale; Il sale nascosto; Troppo sale
+- Il sodio, in piccole quantità, serve al nostro corpo soprattutto per...
+- L'OMS consiglia di non superare circa 5 ___ di sale al giorno.
+- Sale e sodio non sono la stessa cosa: il sodio è solo una parte del sale da cucina.
+- Quale di questi alimenti contiene molto sale "nascosto"?
+- Un piatto pronto contiene 2 g di sale. Che parte rappresenta del limite di 5 g al giorno consigliato dall'OMS?
+- Come puoi rendere saporito un piatto usando meno sale?
+- Dopo aver mangiato patatine molto salate hai molta sete. Perché?
+- Perché si dice che gran parte del sale che mangiamo è "nascosto"? Fai degli esempi e proponi un modo per ridu…
+
 ## Separare i miscugli come un chimico [lib-2-media-scienze-separare-miscugli] · FILTRO
 concetti: Filtrazione e decantazione; Evaporazione e distillazione; Centrifuga e imbuto separatore; Cromatografia
 - Vuoi separare la sabbia dall'acqua. Quale metodo è più adatto?
@@ -496,6 +991,17 @@ concetti: Filtrazione e decantazione; Evaporazione e distillazione; Centrifuga e
 - Metti in ordine le fasi della distillazione dell'acqua salata.
 - Fai un punto di pennarello nero su una striscia di carta e immergi il fondo in acqua. Compaiono macchie blu, …
 - Hai acqua torbida con terra e sassolini. Come la renderesti limpida? Descrivi i passaggi in ordine.
+
+## Sicuri in laboratorio [lib-2-media-scienze-sicurezza-laboratorio] · CAMICE
+concetti: Protezioni personali; I pittogrammi di pericolo; Regole di comportamento; Come lavorare bene
+- Perché in laboratorio si indossano gli occhiali protettivi?
+- Il pittogramma con una fiamma indica che la sostanza è ___.
+- In laboratorio puoi assaggiare una sostanza se sembra zucchero.
+- Che cosa indica il pittogramma con un teschio?
+- Come si annusa correttamente una sostanza in laboratorio, quando l'insegnante lo chiede?
+- Metti in ordine le fasi di un esperimento, dalla preparazione alla fine.
+- Durante un esperimento rovesci un liquido sconosciuto sul banco. Che cosa fai per prima cosa?
+- Perché in laboratorio non si deve mangiare né bere? Spiega il rischio.
 
 ## Snodi e colonna vertebrale [lib-2-media-scienze-articolazioni-colonna] · ROTULA
 concetti: Le articolazioni; Cartilagine e legamenti; La colonna vertebrale; Una postura corretta
@@ -519,6 +1025,28 @@ concetti: Soluto e solvente; Solubilità e saturazione; Temperatura e velocità;
 - Hai 1 litro di soluzione con 20 g di sale. Aggiungi un altro litro d'acqua. Che cosa succede alla concentrazi…
 - Nell'acqua gassata c'è anidride carbonica disciolta. Chi è il soluto e chi il solvente? Perché al caldo una b…
 
+## Stop allo spreco di cibo [lib-2-media-scienze-spreco-alimentare] · AVANZI
+concetti: Quanto si spreca; Le conseguenze; Spesa e frigorifero; Riutilizzare e compostare
+- Circa quale parte del cibo prodotto nel mondo viene persa o sprecata?
+- Perché buttare un panino è anche uno spreco di acqua?
+- Il cibo buttato in discarica può produrre gas serra mentre si decompone.
+- Metti in ordine le azioni per una spesa senza sprechi.
+- Gli scarti di frutta e verdura messi nell'umido possono diventare ___, un ottimo concime.
+- Perché conviene mettere davanti nel frigo i cibi da consumare prima?
+- Avanza del pane raffermo. Quale scelta evita lo spreco?
+- Spiega perché lo spreco di cibo è un problema per l'ambiente e proponi due azioni che puoi fare a casa.
+
+## Torchio idraulico e vasi comunicanti [lib-2-media-scienze-pascal-vasi-comunicanti] · PASCAL
+concetti: Il principio di Pascal; Il torchio idraulico; I vasi comunicanti; Applicazioni
+- Che cosa afferma il principio di Pascal?
+- Recipienti collegati in cui un liquido raggiunge lo stesso livello si chiamano vasi ___.
+- Nei vasi comunicanti il liquido sale di più nel recipiente più largo.
+- In un torchio idraulico il pistone piccolo ha area 10 cm² e quello grande 200 cm². Se spingi con 50 N, quale …
+- Quale di questi dispositivi sfrutta il principio di Pascal?
+- Perché i serbatoi dell'acquedotto si costruiscono in alto, su colline o torri?
+- Il meccanico solleva un'auto con un sollevatore idraulico spingendo con poca forza. Che cosa "paga" in cambio?
+- Spiega come fa un torchio idraulico a sollevare un'auto con una piccola spinta.
+
 ## Un chimico ai fornelli [lib-2-media-scienze-chimica-in-cucina] · LIEVITO
 concetti: La lievitazione; Cottura e proteine; Il caramello; Fisico o chimico in cucina
 - Quale gas fa gonfiare l'impasto della pizza?
@@ -529,6 +1057,17 @@ concetti: La lievitazione; Cottura e proteine; Il caramello; Fisico o chimico in
 - Scaldi lo zucchero in un pentolino: diventa liquido, poi bruno e profumato. Che cosa è successo?
 - Metti in ordine le fasi per preparare il pane, dall'impasto alla tavola.
 - Perché la cottura di un uovo è una trasformazione chimica e non fisica?
+
+## Un cuore in forma [lib-2-media-scienze-salute-cuore-arterie] · CORONA
+concetti: Le coronarie; Arteriosclerosi e infarto; I fattori di rischio; Prevenire
+- Come riceve ossigeno il muscolo del cuore?
+- Quando una coronaria si chiude e una parte del cuore resta senza ossigeno si ha un ___.
+- Il fumo di sigaretta è uno dei principali fattori di rischio per le malattie del cuore.
+- Che cosa sono le placche dell'arteriosclerosi?
+- Quale di questi comportamenti protegge di più il cuore?
+- Perché un'arteria ristretta da una placca è pericolosa?
+- A che cosa serve il defibrillatore che trovi in palestre e scuole?
+- Scegli tre fattori di rischio per il cuore e, per ciascuno, spiega che cosa può fare un ragazzo per evitarlo.
 
 ## Viaggio dentro l'atomo [lib-2-media-scienze-atomo-particelle] · ATOMO
 concetti: La materia è fatta di atomi; Nucleo: protoni e neutroni; Gli elettroni; Numero atomico e atomo neutro
@@ -551,3 +1090,14 @@ concetti: Che cosa sono le vitamine; Vitamine importanti; I sali minerali; Conse
 - Quale di questi alimenti è una buona fonte di calcio?
 - Vuoi conservare più vitamina C possibile nei broccoli. Come li cucini?
 - Le vitamine non danno energia. Perché allora sono indispensabili?
+
+## Zuccheri veloci e zuccheri lenti [lib-2-media-scienze-zuccheri-semplici-complessi] · MIELE
+concetti: Zuccheri semplici; Zuccheri complessi; Dalla catena al glucosio; Con moderazione
+- Quale di questi è uno zucchero semplice?
+- Pasta, pane e patate sono ricchi di ___, uno zucchero complesso.
+- Lo zucchero da cucina, il saccarosio, è formato da glucosio e fruttosio.
+- In che cosa viene trasformato l'amido durante la digestione?
+- Prima di una lunga gita in montagna, quale colazione ti dà energia più duratura?
+- Una bibita contiene 10 g di zuccheri ogni 100 mL. Quanti grammi di zuccheri bevi con una lattina da 330 mL?
+- Che cosa succede alla glicemia dopo aver bevuto una bibita molto zuccherata, rispetto a un piatto di pasta in…
+- Perché i nutrizionisti consigliano di preferire gli zuccheri complessi a quelli semplici?

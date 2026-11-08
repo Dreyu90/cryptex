@@ -1,5 +1,5 @@
-# 4ª elementare · Scienze: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 4ª elementare · Scienze: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Acqua da bere, acqua preziosa [lib-4-elementare-scienze-acqua-potabile-e-risparmio] · FALDA
@@ -12,6 +12,28 @@ concetti: Poca acqua dolce; L'acqua potabile; Dalla falda al rubinetto; Non spre
 - Quale di queste abitudini fa risparmiare più acqua?
 - Un rubinetto che perde una goccia al secondo, in un anno, spreca molti litri d'acqua.
 - Che cosa vuol dire che un'acqua è potabile? Perché non è una buona idea bere l'acqua di un ruscello di montag…
+
+## Aculei, corazze e veleni [lib-4-elementare-scienze-difese-degli-animali] · ACULEO
+concetti: Aculei e corazze; Veleni e colori; Fuga e trucchi
+- Come si difende il riccio quando è in pericolo?
+- La lucertola può staccare la coda per sfuggire a un predatore.
+- Quando è in pericolo la seppia spruzza ___ e si nasconde.
+- Perché la vespa ha colori così vivaci, gialli e neri?
+- Quale animale si difende ritirandosi dentro il suo guscio?
+- Qual è la difesa principale di una lepre?
+- La salamandra pezzata ha macchie gialle e nere sulla pelle. Che cosa comunicano?
+- Perché per un animale velenoso è utile avere colori vivaci invece di nascondersi?
+
+## Amici, rivali e parassiti [lib-4-elementare-scienze-relazioni-tra-viventi] · ZECCA
+concetti: Predatore e preda; La competizione; Il parassitismo; La collaborazione
+- Il gufo che cattura un topo è un esempio di…
+- La pulce che vive sul cane è un parassita.
+- Il pesce pagliaccio e l'anemone si aiutano a vicenda: è una ___.
+- Due alberi vicini che crescono cercando la stessa luce sono in…
+- Il lichene è formato da un'alga e da un fungo che vivono insieme: l'alga produce il cibo, il fungo trattiene …
+- Perché dopo una passeggiata nei prati alti è bene controllarsi la pelle?
+- Volpi e poiane mangiano entrambe i topi nello stesso prato. Tra volpi e poiane c'è…
+- Spiega la differenza tra un parassita e un predatore, con un esempio per ciascuno.
 
 ## Anche le piante respirano [lib-4-elementare-scienze-respirazione-delle-piante] · NOTTE
 concetti: Respirare per vivere; Di giorno e di notte; Due processi opposti; Anche le radici respirano
@@ -35,6 +57,28 @@ concetti: Le fonti di inquinamento; Effetti sulla salute; L'effetto serra; Che c
 - Gli alberi in città aiutano a rendere l'aria più pulita.
 - Pensa al tragitto da casa a scuola: quali fonti di inquinamento dell'aria incontri e che cosa potresti fare t…
 
+## Aria secca, aria umida [lib-4-elementare-scienze-umidita-dell-aria] · UMIDO
+concetti: Vapore nell'aria; L'igrometro; Dove l'aria è umida o secca; Segnali in natura
+- Quale strumento misura l'umidità dell'aria?
+- Il vapore acqueo nell'aria si può vedere a occhio nudo.
+- L'aria è di solito più umida vicino al ___.
+- Come si comporta una pigna quando l'aria diventa molto umida?
+- Perché d'inverno, con i termosifoni accesi, a volte si mettono vaschette d'acqua sui caloriferi?
+- In quale posto della casa l'aria è più umida subito dopo una doccia calda?
+- Nel deserto le piante sono poche anche perché…
+- Il nonno dice che quando la pigna sul davanzale si chiude, arriverà la pioggia. Spiega su che cosa si basa.
+
+## Batteri: amici e nemici [lib-4-elementare-scienze-i-batteri] · YOGURT
+concetti: Piccolissimi e ovunque; Batteri utili; Batteri dannosi; Combattere le infezioni
+- Come sono fatti i batteri?
+- Alcuni batteri che vivono nel nostro intestino ci aiutano a digerire.
+- Lo yogurt si ottiene dal latte grazie ai ___ lattici.
+- Qual è il modo più semplice per difenderti dai batteri dannosi?
+- Che cosa fanno i batteri decompositori nel terreno?
+- Perché gli antibiotici si prendono solo se lo dice il medico?
+- Dove vivono i batteri?
+- Perché prima di mangiare e dopo essere stato in bagno è importante lavarsi le mani?
+
 ## Branchie, polmoni e trachee [lib-4-elementare-scienze-respirazione-degli-animali] · POLMONE
 concetti: Perché si respira; Le branchie; I polmoni; Trachee e pelle
 - Con quale organo respirano i pesci?
@@ -45,6 +89,17 @@ concetti: Perché si respira; Le branchie; I polmoni; Trachee e pelle
 - Quale di questi animali respira con i polmoni?
 - Anche gli animali che vivono in acqua hanno bisogno di ossigeno.
 - Spiega perché un delfino e un pesce, che vivono entrambi in mare, respirano in modo diverso.
+
+## Brividi, sudore e febbre [lib-4-elementare-scienze-temperatura-del-corpo] · SUDORE
+concetti: Una temperatura costante; Il sudore rinfresca; I brividi scaldano; La febbre
+- Qual è la temperatura normale del corpo umano?
+- Il sudore serve a rinfrescare il corpo.
+- Quando hai molto freddo e tremi, hai i ___.
+- Un bambino ha 38,5 °C di temperatura. Che cosa ha?
+- Perché dopo una corsa d'estate ti senti la pelle bagnata?
+- Perché d'inverno ci copriamo con giacche e cappelli?
+- In una giornata molto umida si soffre di più il caldo perché…
+- Spiega perché, quando hai caldo, bagnarti la faccia e poi stare al vento ti dà sollievo.
 
 ## Calore e temperatura a confronto [lib-4-elementare-scienze-calore-e-temperatura] · GRADI
 concetti: Il calore; La temperatura; Punti di riferimento; Equilibrio termico
@@ -112,6 +167,17 @@ concetti: Il lombrico al lavoro; I decompositori del suolo; Altri abitanti; Il c
 - Nel compost si possono mettere anche bottiglie di plastica e lattine.
 - Immagina un prato dove non vive più nessun animale del suolo. Che cosa succederebbe al terreno col passare de…
 
+## Cibo al sicuro dai microbi [lib-4-elementare-scienze-conservazione-del-cibo] · FRIGO
+concetti: Perché il cibo si guasta; Il freddo; Togliere l'acqua; Sale, zucchero e calore
+- Che cosa fa andare a male il cibo?
+- Nel frigorifero i microbi crescono più lentamente.
+- Togliere l'acqua al cibo per conservarlo si chiama ___.
+- Perché la marmellata si conserva a lungo nel barattolo chiuso?
+- Perché il latte fresco si scalda in fabbrica prima di essere venduto?
+- Quale di questi cibi si conserva soprattutto grazie al sale?
+- Quale cibo dura di più fuori dal frigo, a temperatura ambiente?
+- Hai lasciato un panino al prosciutto cotto nello zaino caldo per tre giorni. Perché non conviene mangiarlo?
+
 ## Classificare come un naturalista [lib-4-elementare-scienze-classificare-i-viventi] · SPECIE
 concetti: Perché classificare; Dal regno alla specie; La chiave dicotomica; Il nome scientifico
 - Che cosa significa classificare i viventi?
@@ -122,6 +188,39 @@ concetti: Perché classificare; Dal regno alla specie; La chiave dicotomica; Il 
 - Perché si chiama chiave 'dicotomica'?
 - Perché gli scienziati usano il nome in latino invece del nome comune?
 - Spiega perché classificare i viventi è utile agli scienziati, con un esempio.
+
+## Coccinelle contro afidi [lib-4-elementare-scienze-lotta-biologica] · AFIDI
+concetti: Gli afidi; Nemici naturali; Pesticidi chimici; La lotta biologica
+- Di che cosa si nutrono gli afidi?
+- La coccinella è un insetto utile per l'orto.
+- Usare i nemici naturali dei parassiti per difendere le piante si chiama lotta ___.
+- Perché un pesticida chimico può danneggiare anche l'orto che vuole proteggere?
+- Un contadino libera centinaia di coccinelle nella serra. Che cosa vuole ottenere?
+- Che cosa succede a una pianta piena di afidi?
+- Se in un orto sparissero tutte le coccinelle, che cosa accadrebbe probabilmente?
+- Spiega perché la lotta biologica è più rispettosa dell'ambiente dei pesticidi chimici.
+
+## Coltivare un orto [lib-4-elementare-scienze-coltivare-l-orto] · ORTO
+concetti: Preparare il terreno; Seminare e curare; La rotazione; Le stagioni
+- Perché prima di seminare si vanga il terreno?
+- Le erbacce vanno tolte perché rubano acqua, luce e nutrimento agli ortaggi.
+- Il letame e il compost servono a ___ il terreno.
+- Metti in ordine il lavoro nell'orto.
+- Quale ortaggio si raccoglie d'estate?
+- Perché i contadini, dopo il grano, a volte seminano fagioli o piselli?
+- Che cosa succederebbe coltivando la stessa pianta nello stesso posto per tanti anni?
+- Spiega perché è meglio mangiare frutta e verdura di stagione.
+
+## Come parlano gli animali [lib-4-elementare-scienze-comunicazione-degli-animali] · CANTO
+concetti: I suoni; Gli odori; Movimenti e colori; Perché comunicano
+- Come indicano le api alle compagne dove si trovano i fiori?
+- Le formiche seguono tracce odorose lasciate dalle compagne.
+- Il lupo comunica con il branco anche a grande distanza con l'___.
+- Perché il maschio di pavone apre la sua coda colorata?
+- Un merlo lancia un verso acuto e gli altri uccelli scappano. Che cosa ha comunicato?
+- Che cosa comunica di solito un cane che scodinzola?
+- Quale animale comunica con fischi e suoni sott'acqua?
+- Scegli due animali e spiega come e perché comunicano.
 
 ## Con o senza colonna vertebrale? [lib-4-elementare-scienze-vertebrati-e-invertebrati] · OSSA
 concetti: I vertebrati; Gli invertebrati; Lo scheletro esterno; Quanti sono
@@ -145,6 +244,17 @@ concetti: Conduttori termici; Isolanti termici; L'aria ferma isola; Scegliere il
 - Le finestre con due vetri e aria in mezzo aiutano a non disperdere il calore della casa.
 - Domani vai in gita e vuoi bere una cioccolata ancora calda a metà mattina. In che contenitore la metti e perc…
 
+## Da dove arriva il calore? [lib-4-elementare-scienze-fonti-di-calore] · ATTRITO
+concetti: Il Sole; La combustione; L'attrito; L'elettricità
+- Qual è la più grande fonte di calore per la Terra?
+- Se strofini forte le mani tra loro, si scaldano.
+- Come produce calore un camino acceso?
+- Il phon e la stufetta producono calore grazie alla corrente ___.
+- Perché le gomme di una bicicletta, dopo una lunga frenata, sono calde?
+- Perché un'auto parcheggiata al sole d'estate diventa caldissima dentro?
+- Quale di queste NON è una combustione?
+- Gli uomini primitivi accendevano il fuoco strofinando velocemente un bastoncino su un pezzo di legno. Spiega …
+
 ## Da dove nasce il vento? [lib-4-elementare-scienze-il-vento] · BREZZA
 concetti: Aria in movimento; Come nasce il vento; Brezze di mare e terra; Misurare e usare il vento
 - Che cos'è il vento?
@@ -167,6 +277,17 @@ concetti: Il frutto; Com'è fatto il seme; Che cosa serve; Le prime tappe
 - Metti in ordine le fasi della germinazione di un fagiolo.
 - Perché i semi conservati in un barattolo chiuso e asciutto, in dispensa, non germogliano anche dopo mesi?
 
+## Dalla natura o dalla fabbrica? [lib-4-elementare-scienze-materiali-naturali-e-artificiali] · LEGNO
+concetti: Materiali naturali; Materiali artificiali; Da dove vengono
+- Quale di questi materiali è naturale?
+- Il cotone viene…
+- La plastica è un materiale artificiale.
+- Il vetro si produce fondendo ad altissima temperatura la ___.
+- Da quale materia prima si ottiene la carta?
+- Metti in ordine le tappe per passare dall'albero al quaderno.
+- Quale coppia contiene SOLO materiali artificiali?
+- Perché si dice che la carta è un materiale artificiale anche se viene dagli alberi?
+
 ## Dalla roccia alla terra [lib-4-elementare-scienze-formazione-del-suolo-erosione] · ROCCIA
 concetti: Un lavoro lentissimo; Caldo, gelo e acqua; I viventi aiutano; Erosione del suolo
 - Quanto tempo serve alla natura per formare un solo centimetro di suolo fertile?
@@ -177,6 +298,61 @@ concetti: Un lavoro lentissimo; Caldo, gelo e acqua; I viventi aiutano; Erosione
 - Perché su un pendio senza alberi le piogge forti possono provocare frane?
 - I licheni, crescendo sulle rocce nude, aiutano lentamente a trasformarle in suolo.
 - Perché è così importante non sprecare il suolo fertile, per esempio coprendolo di cemento o lasciandolo porta…
+
+## Dalla spiaggia agli abissi [lib-4-elementare-scienze-ecosistema-mare] · CORALLO
+concetti: Il plancton; Ambienti del mare; La posidonia; Il mare da proteggere
+- Che cos'è il plancton?
+- La posidonia è una pianta che fa i fiori, non un'alga.
+- Negli abissi del mare c'è ___, perché la luce del Sole non arriva.
+- Che cosa succederebbe agli animali del mare se sparisse il plancton?
+- Perché una busta di plastica in mare è pericolosa per le tartarughe?
+- Perché i prati di posidonia sono importanti per il Mediterraneo?
+- Molti pesci degli abissi producono luce con il proprio corpo. A che cosa serve?
+- Scrivi due cose che puoi fare tu per proteggere il mare quando vai in spiaggia.
+
+## Dentro il termometro [lib-4-elementare-scienze-il-termometro] · CELSIUS
+concetti: A che cosa serve; Come funziona; La scala Celsius; Tipi di termometro
+- Che cosa misura il termometro?
+- Nella scala Celsius l'acqua pura ghiaccia a ___ gradi.
+- Una temperatura di -5 °C è più fredda di 0 °C.
+- Perché il liquido del termometro sale quando fa caldo?
+- Quale termometro useresti per misurare la febbre?
+- Al mattino ci sono 4 °C, al pomeriggio 12 °C. Di quanto è salita la temperatura?
+- Metti in ordine i passaggi per misurare la febbre con un termometro digitale.
+- Perché per sapere la temperatura di un'acqua non basta toccarla con la mano?
+
+## Dove va l'acqua del lavandino? [lib-4-elementare-scienze-depurazione-dell-acqua] · FOGNA
+concetti: Le acque usate; Il depuratore; Batteri che puliscono; Aiutare il depuratore
+- Quale di queste è un'acqua usata, che finisce nelle fognature?
+- Il depuratore serve a pulire l'acqua sporca prima di restituirla all'ambiente.
+- Nel depuratore alcuni ___ si nutrono delle sostanze sporche sciolte nell'acqua.
+- Metti in ordine le fasi principali della depurazione.
+- Dove va buttato l'olio usato per friggere?
+- Perché un tempo, senza depuratori, molti fiumi vicino alle città erano inquinati?
+- Che cosa succede se l'acqua sporca finisce in un lago senza essere depurata?
+- Scrivi due cose che puoi fare a casa per non rovinare il lavoro del depuratore e spiega perché.
+
+## Duro, elastico o fragile? [lib-4-elementare-scienze-proprieta-dei-materiali] · VETRO
+concetti: Durezza; Elasticità e plasticità; Fragilità; Scegliere il materiale giusto
+- Quale di questi oggetti è elastico?
+- Un materiale può essere duro e fragile allo stesso tempo.
+- Il pongo, schiacciato, resta deformato: è un materiale ___.
+- Quale materiale è più duro?
+- Perché le finestre si fanno di vetro e non di legno?
+- Per fare un impermeabile serve un materiale che…
+- Quale oggetto useresti con più cura perché è fragile?
+- Perché le gomme delle biciclette sono fatte di gomma e non di ferro?
+
+## Energia da sole, vento e acqua [lib-4-elementare-scienze-energie-rinnovabili] · PALA
+concetti: Rinnovabili e non; Sole e vento; L'acqua che cade; Meno inquinamento
+- Quale di queste fonti di energia, prima o poi, finirà?
+- I pannelli ___ trasformano la luce del Sole in elettricità.
+- Il petrolio è una fonte rinnovabile perché la Terra ne produce di nuovo ogni anno.
+- In una centrale idroelettrica, che cosa fa girare le turbine?
+- Dove conviene di più costruire un parco eolico?
+- Perché si dice che le energie rinnovabili sono più pulite?
+- Gli antichi mulini usavano il vento o l'acqua per…
+- Perché è importante usare sempre più energie rinnovabili? Scrivi almeno due motivi.
 
 ## Erbivori, carnivori e onnivori [lib-4-elementare-scienze-alimentazione-degli-animali] · DENTI
 concetti: Gli erbivori; I carnivori; Gli onnivori; Becchi e bocche
@@ -199,6 +375,17 @@ concetti: Le parti del fiore; Il viaggio del polline; Gli impollinatori; La feco
 - Dopo la fecondazione, in che cosa si trasformano gli ovuli?
 - Metti in ordine ciò che succede, dal fiore al seme.
 - In alcune zone del mondo le api stanno diminuendo. Perché è un problema anche per la frutta che mangiamo?
+
+## Frutti carnosi e secchi [lib-4-elementare-scienze-tipi-di-frutto] · FRUTTO
+concetti: Che cos'è il frutto; Frutti carnosi; Frutti secchi; Frutti a sorpresa
+- Nella pesca, la parte morbida e succosa che mangi si chiama…
+- La noce e la nocciola sono frutti ___.
+- Per i botanici il pomodoro è un frutto.
+- Quale di questi è un frutto carnoso?
+- A che cosa serve il frutto alla pianta?
+- Il baccello dei piselli che cos'è?
+- Perché la castagna è avvolta da un riccio pieno di spine?
+- Il tuo amico dice: 'La zucchina è una verdura, non un frutto!'. Come gli spiegheresti che per un botanico è u…
 
 ## Funghi: né piante né animali [lib-4-elementare-scienze-i-funghi] · SPORE
 concetti: Come è fatto; Come si nutrono; Le spore; Muffe e lieviti
@@ -232,6 +419,17 @@ concetti: Fusione e solidificazione; Evaporazione ed ebollizione; Condensazione;
 - Una mattina d'inverno trovi i prati coperti di brina. Che cosa è successo durante la notte?
 - Metti un cubetto di ghiaccio in un pentolino sul fuoco. Metti in ordine ciò che succede.
 - D'estate una bottiglia appena tolta dal frigorifero si ricopre di goccioline all'esterno. Da dove vengono?
+
+## Il bosco a piani [lib-4-elementare-scienze-ecosistema-bosco] · BOSCO
+concetti: Gli strati del bosco; La luce decide; Gli abitanti; Un bosco prezioso
+- Qual è lo strato più alto del bosco?
+- Nel sottobosco ombroso crescono bene piante che hanno bisogno di poca luce, come felci e muschi.
+- Nel bosco il ___ fa buchi nei tronchi per cercare insetti.
+- Metti in ordine gli strati del bosco dal basso verso l'alto.
+- Perché sotto gli alberi di un bosco fitto crescono poche erbe?
+- Che cosa mangia di solito lo scoiattolo?
+- Perché si dice che i boschi sono 'polmoni verdi' della Terra?
+- Scrivi almeno tre motivi per cui è importante proteggere i boschi.
 
 ## Il caldo che allarga le cose [lib-4-elementare-scienze-dilatazione-termica] · BINARI
 concetti: La dilatazione; La contrazione; Dilatazione nella vita reale; L'eccezione dell'acqua
@@ -277,6 +475,17 @@ concetti: Atomi e molecole; Particelle nei solidi; Particelle in liquidi e gas; 
 - Metti in ordine gli stati della materia, da quello con le particelle più vicine a quello con le particelle pi…
 - Perché una pozzanghera si asciuga più in fretta in una giornata calda che in una fredda?
 
+## Il triangolo del fuoco [lib-4-elementare-scienze-la-combustione] · FIAMMA
+concetti: Tre ingredienti; I combustibili; Spegnere il fuoco; Che cosa resta
+- Quale di questi materiali è un combustibile?
+- Ricostruisci come si accende un falò.
+- Un fuoco può continuare a bruciare anche senza ossigeno.
+- Se getti della sabbia su un piccolo fuoco, il fuoco si spegne perché gli togli l'___.
+- I vigili del fuoco gettano acqua sulle fiamme soprattutto per…
+- Nei boschi si tagliano strisce di alberi, i 'tagliafuoco'. A che cosa servono?
+- Dopo che un foglio di carta è bruciato, che cosa resta?
+- Un falò sulla spiaggia, dopo qualche ora, si spegne da solo anche se nessuno lo tocca. Spiega perché.
+
 ## Il viaggio del calore [lib-4-elementare-scienze-propagazione-del-calore] · RAGGI
 concetti: Conduzione; Convezione; Irraggiamento
 - Lasci un cucchiaino di metallo nel tè bollente e dopo poco il manico scotta. Come si chiama questo modo di pr…
@@ -288,6 +497,17 @@ concetti: Conduzione; Convezione; Irraggiamento
 - In una stanza riscaldata, l'aria vicino al soffitto di solito è più calda di quella vicino al pavimento.
 - Una pentola d'acqua è sul fuoco. Spiega in quali modi il calore viaggia dalla fiamma fino all'acqua in superf…
 
+## Impronte di vita antica [lib-4-elementare-scienze-i-fossili] · FOSSILE
+concetti: Che cos'è un fossile; Come si forma; Che cosa ci raccontano; Il paleontologo
+- Che cos'è un fossile?
+- Lo scienziato che studia i fossili si chiama ___.
+- Le parti molli di un animale, come la pelle, si conservano come fossili più facilmente delle ossa.
+- Metti in ordine le tappe della formazione di un fossile.
+- Su una montagna trovi conchiglie fossili. Che cosa ti dicono?
+- Come conosciamo l'aspetto dei dinosauri, se nessun uomo li ha mai visti?
+- Perché nell'ambra a volte si trovano insetti interi?
+- Perché i fossili sono preziosi per gli scienziati?
+
 ## Insetti, ragni e molluschi [lib-4-elementare-scienze-gruppi-di-invertebrati] · INSETTO
 concetti: Gli insetti; Gli aracnidi; I molluschi; Altri invertebrati
 - Quante zampe ha un insetto?
@@ -298,6 +518,17 @@ concetti: Gli insetti; Gli aracnidi; I molluschi; Altri invertebrati
 - Quale di questi animali è un aracnide?
 - La stella marina e il riccio di mare sono invertebrati.
 - In giardino trovi un animaletto con otto zampe e senza antenne, e un altro con sei zampe, ali e antenne. Come…
+
+## L'acqua dentro di noi [lib-4-elementare-scienze-acqua-nel-corpo] · SETE
+concetti: Siamo fatti d'acqua; Perdiamo acqua; Bere ogni giorno; Acqua nei cibi
+- Circa quanta parte del nostro corpo è fatta d'acqua?
+- Perdiamo acqua anche quando respiriamo.
+- Quando il corpo ha bisogno di acqua ti avverte con la ___.
+- Quale di questi cibi contiene più acqua?
+- In quale situazione hai bisogno di bere di più?
+- Perché è meglio bere acqua spesso e non aspettare di avere tantissima sete?
+- Il sangue è fatto in gran parte di acqua. Perché è importante?
+- Durante una gita al mare d'estate, che cosa devi fare per non disidratarti? Spiega perché.
 
 ## L'acqua e i suoi superpoteri [lib-4-elementare-scienze-proprieta-dell-acqua] · GOCCIA
 concetti: L'acqua pura; Un ottimo solvente; La capillarità; Acqua e vita
@@ -332,6 +563,17 @@ concetti: L'unità della vita; Le parti della cellula; La cellula vegetale; Unic
 - Metti in ordine dal più piccolo al più grande.
 - Perché le foglie sono verdi mentre la tua pelle non lo è? Rispondi pensando alle cellule.
 
+## La città delle api [lib-4-elementare-scienze-api-e-alveare] · ALVEARE
+concetti: Una società organizzata; Il lavoro delle operaie; Dal nettare al miele; Api e impollinazione
+- Chi depone le uova nell'alveare?
+- Le celle dei favi hanno ___ lati.
+- Le api producono il miele a partire dal nettare dei fiori.
+- Metti in ordine lo sviluppo di un'ape.
+- Quale di questi lavori NON fanno le api operaie?
+- Perché le api sono importanti per i frutteti?
+- Perché le api conservano il miele nelle celle dell'alveare?
+- Perché si dice che l'alveare funziona come una piccola città?
+
 ## La cucina verde delle piante [lib-4-elementare-scienze-fotosintesi] · LUCE
 concetti: Gli ingredienti; La clorofilla; I prodotti; Importante per tutti
 - Quali ingredienti servono alla pianta per fare la fotosintesi?
@@ -354,6 +596,28 @@ concetti: Che cos'è la metamorfosi; La farfalla; La rana; Metamorfosi incomplet
 - Perché è utile che il bruco e la farfalla si nutrano di cibi diversi?
 - Spiega che cosa significa metamorfosi, facendo l'esempio della rana.
 
+## La pelle dell'acqua [lib-4-elementare-scienze-tensione-superficiale] · PELLE
+concetti: Una pelle invisibile; Chi cammina sull'acqua; Le gocce tonde; Il sapone la rompe
+- Quale animale riesce a camminare sulla superficie di uno stagno?
+- La superficie dell'acqua si comporta come una pellicola elastica.
+- Le gocce d'acqua su una foglia hanno una forma ___.
+- Se appoggi con delicatezza una graffetta sull'acqua, che cosa può succedere?
+- Nella ciotola c'è una graffetta che galleggia. Aggiungi una goccia di detersivo: che cosa succede?
+- Su una moneta riesci a mettere molte gocce d'acqua, che formano una cupoletta. Perché non cadono subito?
+- Perché per lavare i piatti unti si usa il detersivo e non solo acqua?
+- Perché un gerride riesce a stare sull'acqua, mentre un sasso piccolo affonda?
+
+## La vita nello stagno [lib-4-elementare-scienze-ecosistema-stagno] · STAGNO
+concetti: Che cos'è uno stagno; I produttori; I consumatori; Una catena d'acqua
+- Com'è l'acqua di uno stagno?
+- Nello stagno le alghe sono produttori.
+- La ___ è un insetto che da larva vive nell'acqua dello stagno e da adulta vola sopra di esso.
+- Metti in ordine questa catena alimentare dello stagno.
+- Quale uccello caccia pesci e rane camminando nell'acqua bassa?
+- Perché in uno stagno le piante crescono anche sul fondo?
+- Se uno stagno venisse inquinato e morissero tutte le alghe, che cosa accadrebbe?
+- Perché si dice che in uno stagno 'tutto è collegato'? Fai un esempio.
+
 ## Le cinque classi dei vertebrati [lib-4-elementare-scienze-classi-dei-vertebrati] · CLASSE
 concetti: I pesci; Gli anfibi; I rettili; Gli uccelli; I mammiferi
 - Quale caratteristica hanno SOLO i mammiferi?
@@ -375,6 +639,28 @@ concetti: Il letargo; La migrazione; Il mimetismo; Corpi adatti all'ambiente
 - La lepre variabile delle Alpi ha il pelo bruno d'estate e bianco d'inverno. A che cosa le serve?
 - L'orso polare ha sotto la pelle uno spesso strato di grasso che lo protegge dal freddo.
 - Rondini e ghiri affrontano l'inverno in modo diverso. Spiega le due strategie e che cosa hanno in comune.
+
+## Lo scudo di ozono [lib-4-elementare-scienze-strato-di-ozono] · OZONO
+concetti: Uno scudo nel cielo; I raggi ultravioletti; Il buco dell'ozono; Proteggersi
+- A che cosa serve lo strato di ozono?
+- Troppi raggi ultravioletti possono provocare scottature sulla pelle.
+- Il buco dell'ozono è più grande sopra l'___.
+- Quali prodotti di un tempo hanno danneggiato lo strato di ozono?
+- Che cosa usi per proteggerti dai raggi UV al mare?
+- Perché oggi lo strato di ozono sta lentamente migliorando?
+- I raggi ultravioletti possono danneggiare anche…
+- Che cosa succederebbe ai viventi se lo strato di ozono sparisse del tutto?
+
+## Luce, ombre e trasparenze [lib-4-elementare-scienze-luce-e-ombre] · OMBRA
+concetti: Sorgenti di luce; La luce viaggia dritta; Trasparenti, traslucidi, opachi; Le ombre
+- Quale di questi oggetti produce luce propria?
+- La Luna brilla di notte perché produce luce propria, come il Sole.
+- Il vetro di una finestra lascia passare la luce: è un materiale ___.
+- Attraverso un foglio di carta da forno vedi solo una luce sfumata. Come si chiama questo tipo di materiale?
+- Perché non riesci a vedere un amico nascosto dietro l'angolo di un muro?
+- Quando si forma un'ombra?
+- In una giornata di sole, quando la tua ombra è più corta?
+- Vuoi fare un teatro delle ombre con una torcia e le tue mani. Che cosa ti serve e come puoi rendere l'ombra p…
 
 ## Mescola, sciogli e poi separa [lib-4-elementare-scienze-miscugli-e-soluzioni] · FILTRO
 concetti: Miscugli eterogenei; Le soluzioni; Separare i miscugli; Recuperare il soluto
@@ -409,6 +695,50 @@ concetti: Senza fiori né semi; La talea; Bulbi e tuberi; Gli stoloni
 - Una talea, per mettere radici, ha bisogno di acqua o di terreno umido.
 - Spiega la differenza tra una pianta nata da un seme e una nata da una talea.
 
+## Nuvole e nebbia [lib-4-elementare-scienze-nuvole-e-nebbia] · NEBBIA
+concetti: Di che cosa sono fatte; Come si formano; Tipi di nuvole; La nebbia
+- Le nuvole sono fatte di acqua: perché allora restano sospese nel cielo?
+- La nebbia è una specie di nuvola che si forma vicino al suolo.
+- Le nuvole alte e sottili, che sembrano filamenti, si chiamano ___.
+- Quale nuvola annuncia di solito un temporale?
+- Metti in ordine le tappe della nascita di una nuvola.
+- In quale zona d'Italia la nebbia è più frequente d'inverno?
+- Perché d'estate, nei pomeriggi caldi, in montagna si formano spesso grandi nuvoloni?
+- Perché la nebbia è pericolosa per chi guida e che cosa si dovrebbe fare?
+
+## Occhi sul piccolissimo [lib-4-elementare-scienze-il-microscopio] · LENTE
+concetti: Lente d'ingrandimento; Il microscopio; Come si usa; Una scoperta storica
+- Quale strumento useresti per guardare da vicino le zampe di una formica?
+- Con il microscopio si possono vedere i batteri, invisibili a occhio nudo.
+- Il campione da osservare al microscopio si mette sul ___.
+- Metti in ordine le azioni per osservare un campione al microscopio.
+- Perché il campione da osservare al microscopio deve essere molto sottile?
+- Che cosa permisero di scoprire i primi microscopi del Seicento?
+- Quanto ingrandisce di più, in genere, un microscopio rispetto a una lente d'ingrandimento?
+- Perché l'invenzione del microscopio è stata così importante per la scienza e la medicina?
+
+## Pelle umida: gli anfibi [lib-4-elementare-scienze-gli-anfibi] · RANA
+concetti: Una doppia vita; La pelle nuda; Uova nell'acqua; Con o senza coda
+- Che cosa significa la parola 'anfibio'?
+- La pelle degli anfibi è coperta di squame dure, come quella dei rettili.
+- La salamandra, a differenza della rana, da adulta ha la ___.
+- Gli anfibi sono animali a sangue freddo. Che cosa fanno di solito d'inverno?
+- Perché in primavera molti rospi attraversano le strade di campagna?
+- Quale di questi animali è un anfibio?
+- Perché gli anfibi soffrono tanto l'inquinamento delle acque?
+- Perché per salvare rane, rospi e tritoni è importante proteggere stagni e zone umide?
+
+## Pelo e latte: i mammiferi [lib-4-elementare-scienze-i-mammiferi] · LATTE
+concetti: Allattano i piccoli; Pelo e sangue caldo; Respirano con i polmoni; Mammiferi in ogni ambiente
+- Da che cosa deriva il nome 'mammiferi'?
+- Anche l'essere umano è un mammifero.
+- Il corpo dei mammiferi è coperto di ___.
+- Quale di questi animali marini è un mammifero?
+- Quale di questi mammiferi passa tutta la vita in acqua, senza mai salire sulla terraferma?
+- Lo scoiattolo, il pipistrello e la balena sono tutti mammiferi. Che cosa ci dice questo?
+- A che cosa serve il pelo ai mammiferi?
+- Spiega quali caratteristiche ti permettono di dire che il cane è un mammifero.
+
 ## Pensa come uno scienziato [lib-4-elementare-scienze-metodo-scientifico] · IPOTESI
 concetti: Osservazione e domanda; L'ipotesi; Esperimento e variabili; Risultati e conclusioni
 - Qual è il primo passo del metodo scientifico?
@@ -419,6 +749,149 @@ concetti: Osservazione e domanda; L'ipotesi; Esperimento e variabili; Risultati 
 - Metti in ordine le fasi del metodo scientifico.
 - L'esperimento mostra che l'ipotesi era sbagliata. Che cosa fa un vero scienziato?
 - Perché in un esperimento si cambia un solo fattore alla volta? Spiegalo con parole tue.
+
+## Perché cadono le foglie? [lib-4-elementare-scienze-caducifoglie-e-sempreverdi] · AUTUNNO
+concetti: Alberi caducifogli; Perché le perdono; I colori dell'autunno; Gli alberi sempreverdi
+- Quale di questi alberi perde le foglie in autunno?
+- Gli alberi sempreverdi non perdono mai nessuna foglia.
+- Gli alberi che perdono tutte le foglie in autunno si chiamano ___.
+- Perché gli alberi caducifogli perdono le foglie prima dell'inverno?
+- Metti in ordine quello che succede a un acero da fine estate a inverno.
+- Che cosa succede alle foglie cadute nel bosco?
+- Perché le foglie ad ago dei pini resistono anche d'inverno?
+- Un amico pensa che in inverno la quercia senza foglie sia morta. Come gli spieghi che non è così?
+
+## Perché il bucato asciuga? [lib-4-elementare-scienze-fattori-dell-evaporazione] · BUCATO
+concetti: Che cos'è l'evaporazione; Calore e vento aiutano; Conta la superficie; L'aria umida rallenta
+- Che cosa succede all'acqua di un panno bagnato steso ad asciugare?
+- L'evaporazione avviene solo sulla superficie dell'acqua, non al suo interno.
+- In quale giornata il bucato asciuga più in fretta?
+- Un asciugamano steso ben aperto asciuga prima di uno appallottolato perché ha più ___ esposta all'aria.
+- Perché soffi sulla minestra calda per raffreddarla più in fretta?
+- In una giornata molto umida e senza vento, il bucato…
+- Hai la stessa quantità d'acqua in un bicchiere stretto e in un piatto largo, al sole. Che cosa succede?
+- Spiega perché in bagno, dopo una doccia calda, gli asciugamani bagnati asciugano peggio che fuori al sole.
+
+## Perché il mare è salato? [lib-4-elementare-scienze-acqua-del-mare] · SALE
+concetti: Da dove viene il sale; Quanto è salato; Le saline; Acqua salata e noi
+- Da dove arriva il sale del mare?
+- L'acqua di mare si può bere quando si ha tanta sete.
+- Nelle saline il sale si ottiene facendo ___ l'acqua di mare al sole.
+- Perché l'acqua dei fiumi è dolce, mentre il mare diventa salato?
+- Circa quanti grammi di sali ci sono in un litro d'acqua di mare?
+- Un litro d'acqua di mare contiene circa 35 grammi di sali. Quanti grammi di sali ci sono, più o meno, in 4 li…
+- D'inverno sulle strade ghiacciate si sparge sale perché…
+- Perché le saline si costruiscono in zone di mare calde, pianeggianti e ventose, come la costa di Trapani in S…
+
+## Piante annuali e perenni [lib-4-elementare-scienze-piante-annuali-e-perenni] · ANNO
+concetti: Piante annuali; Piante biennali; Piante perenni; Superare l'inverno
+- Che cosa vuol dire che una pianta è annuale?
+- Una quercia è una pianta perenne.
+- La carota, che fiorisce nel secondo anno, è una pianta ___.
+- Metti in ordine la vita di una pianta annuale come il fagiolo.
+- Come supera l'inverno una pianta annuale?
+- Quale di queste piante è perenne?
+- Il tulipano ogni primavera rinasce dallo stesso punto del giardino. Come sopravvive all'inverno?
+- Perché un contadino deve seminare il grano ogni anno, mentre un frutteto di meli dura tanti anni?
+
+## Piante che catturano insetti [lib-4-elementare-scienze-piante-carnivore] · DIONEA
+concetti: Terreni poveri; Perché catturano insetti; Trappole diverse
+- Dove vivono di solito le piante carnivore?
+- Le piante carnivore fanno anche la fotosintesi.
+- La ___ cattura gli insetti con peli appiccicosi che brillano come rugiada.
+- Come cattura gli insetti la dionea?
+- Perché le piante carnivore catturano gli insetti?
+- La nepente ha foglie a forma di…
+- Se una pianta carnivora crescesse in un terreno ricco di concime, che cosa le succederebbe probabilmente?
+- Le piante carnivore sono piante o animali? Spiega la tua risposta.
+
+## Piante che cercano la luce [lib-4-elementare-scienze-tropismi-delle-piante] · SOLE
+concetti: Verso la luce; Radici verso il basso; Radici verso l'acqua; Piante che si aggrappano
+- Una piantina si è piegata verso la finestra. Giri il vaso dall'altra parte: dopo qualche giorno che cosa succ…
+- Se pianti un seme a testa in giù, la radice crescerà verso l'alto.
+- La vite si aggrappa ai sostegni con i suoi ___.
+- Come si chiama la crescita delle piante verso la luce?
+- Vicino a un tubo che perde acqua sottoterra si trovano tante radici. Perché?
+- Perché è utile alla pianta che le radici crescano verso il basso?
+- Metti una piantina in una scatola chiusa con un solo buco laterale. Dopo qualche giorno…
+- Spiega perché un rampicante come il pisello ha bisogno di un bastoncino vicino.
+
+## Piante di deserto e palude [lib-4-elementare-scienze-piante-di-deserto-e-palude] · CACTUS
+concetti: Il cactus; Radici e cera; Le piante d'acqua; Ogni pianta al suo ambiente
+- Dove conserva l'acqua un cactus?
+- Il fusto del cactus è verde e fa la fotosintesi al posto delle foglie.
+- La ___ ha grandi foglie tonde che galleggiano sull'acqua dello stagno.
+- Perché molte piante del deserto hanno radici lunghissime?
+- Perché le foglie della ninfea riescono a stare a galla?
+- Che cosa farebbe un cactus se lo annaffiassi ogni giorno abbondantemente?
+- Che cosa ci insegnano il cactus e la ninfea?
+- Perché una ninfea non potrebbe vivere nel deserto e un cactus non potrebbe vivere in uno stagno?
+
+## Piante nel piatto e in casa [lib-4-elementare-scienze-piante-utili-all-uomo] · GRANO
+concetti: Piante per mangiare; Piante per vestirsi; Piante per costruire; Piante per la salute
+- Da quale pianta si ottiene la farina per il pane?
+- L'olio d'oliva si ottiene spremendo i frutti dell'___.
+- Il cotone dei nostri vestiti viene da una pianta.
+- Quale pianta coltivata in Italia si usa per produrre lo zucchero?
+- Metti in ordine il viaggio dal campo al panino.
+- A che cosa serve di solito una tisana di camomilla?
+- Quale di questi oggetti NON viene dalle piante?
+- Immagina un mondo senza piante. Scrivi almeno tre cose che ti mancherebbero nella vita di tutti i giorni.
+
+## Piccoli protisti dell'acqua [lib-4-elementare-scienze-i-protisti] · AMEBA
+concetti: Chi sono i protisti; Come si muovono; Protisti come piante; Protisti e salute
+- Dove vivono soprattutto i protisti?
+- Un protista come l'ameba si può vedere solo al microscopio.
+- Il paramecio si muove grazie a tante piccole ___.
+- Come si muove l'ameba?
+- Perché le alghe microscopiche del mare sono importanti per noi?
+- Quale malattia è causata da un protista e trasmessa da una zanzara?
+- Quale di questi viventi è un protista?
+- Osservi al microscopio una goccia d'acqua di stagno e vedi tanti puntini che si muovono. Che cosa potrebbero …
+
+## Pigne o frutti? [lib-4-elementare-scienze-gimnosperme-e-angiosperme] · PIGNA
+concetti: Le piante con i semi; Le gimnosperme; Le conifere; Le angiosperme
+- I pinoli che si usano per il pesto sono…
+- Il ciliegio è un'angiosperma perché il suo seme è racchiuso in un frutto.
+- Le foglie del pino e dell'abete hanno la forma di ___.
+- Quale di queste conifere perde gli aghi in autunno?
+- Che cosa vuol dire 'gimnosperme'?
+- Quale di queste piante è un'angiosperma?
+- Che cos'è la resina che cola dal tronco dei pini?
+- Confronta una pigna e una mela: che cosa hanno in comune e in che cosa sono diverse?
+
+## Pinne, squame e branchie [lib-4-elementare-scienze-i-pesci] · PINNA
+concetti: Respirare in acqua; Un corpo per nuotare; Sangue freddo; Pesci diversi
+- Dove si trovano le branchie di un pesce?
+- Per nuotare e cambiare direzione i pesci usano le ___.
+- La temperatura del corpo di un pesce cambia con quella dell'acqua.
+- Perché il corpo dei pesci è affusolato?
+- Lo scheletro dello squalo è fatto di…
+- Perché i pesci aprono e chiudono continuamente la bocca?
+- A che cosa servono le squame?
+- Se in un acquario si spegne la pompa dell'aria per giorni, i pesci stanno male. Spiega perché.
+
+## Pioggia, neve e grandine [lib-4-elementare-scienze-le-precipitazioni] · PIOGGIA
+concetti: La pioggia; La neve; La grandine; Misurare la pioggia
+- Perché a un certo punto le gocce cadono dalle nuvole?
+- I fiocchi di neve sono formati da tanti piccolissimi ___ di ghiaccio.
+- La grandine può cadere anche d'estate.
+- Quale strumento misura quanta pioggia è caduta?
+- Di che cosa sono fatti i chicchi di grandine?
+- Se nella nuvola si formano fiocchi di neve ma vicino a terra l'aria è tiepida, che cosa arriva al suolo?
+- Perché la grandine può rovinare i raccolti di frutta e verdura?
+- Il pluviometro della scuola segna 0 mm per un mese intero d'estate. Che cosa vuol dire e che conseguenze può …
+
+## Piume, becco e ali [lib-4-elementare-scienze-gli-uccelli] · PIUMA
+concetti: Le piume; Un corpo per volare; Il becco; Uova e cova
+- A che cosa servono le piume agli uccelli?
+- Tutti gli uccelli sono capaci di volare.
+- Gli uccelli depongono uova con il guscio ___.
+- Perché le ossa degli uccelli sono cave, cioè vuote all'interno?
+- L'anatra ha un becco largo e piatto. A che cosa le serve?
+- Il pellicano ha sotto il becco una grande sacca. A che cosa gli serve?
+- Perché molti uccelli costruiscono un nido?
+- Gli uccelli non hanno denti, ma il loro becco ha forme diverse. Fai due esempi e spiega come ogni becco aiuta…
 
 ## Quanta materia c'è dentro? [lib-4-elementare-scienze-massa-volume-conservazione] · MASSA
 concetti: La massa; Il volume; Materiali diversi; La massa si conserva
@@ -431,6 +904,17 @@ concetti: La massa; Il volume; Materiali diversi; La massa si conserva
 - Se fai una palla di plastilina e poi la schiacci a forma di frittella, la sua massa diminuisce.
 - Spiega la differenza tra massa e volume con un esempio preso dalla vita di tutti i giorni.
 
+## Quanto zucchero si scioglie? [lib-4-elementare-scienze-solubilita] · SOLUTO
+concetti: Solvente e soluto; C'è un limite; Il calore aiuta; Mescolare e sminuzzare
+- Nel tè zuccherato, qual è il soluto?
+- In un bicchiere d'acqua puoi sciogliere quanto sale vuoi, senza limiti.
+- Lo zucchero si scioglie più in fretta nel latte ___.
+- Quale zucchero si scioglie più in fretta nell'acqua?
+- Hai aggiunto tanto sale che una parte resta sul fondo. Che cosa puoi fare per scioglierne ancora?
+- Perché si mescola il caffè dopo averci messo lo zucchero?
+- Quale sostanza NON si scioglie in acqua?
+- Vuoi preparare in fretta un'acqua molto zuccherata. Che cosa fai? Spiega perché.
+
 ## Radici: ancore che bevono [lib-4-elementare-scienze-la-radice] · RADICE
 concetti: Ancorare la pianta; Assorbire acqua e sali; Tipi di radici; Radici di riserva
 - Che cosa assorbe la radice dal terreno?
@@ -441,6 +925,17 @@ concetti: Ancorare la pianta; Assorbire acqua e sali; Tipi di radici; Radici di 
 - Quale di queste piante ha una radice a fittone?
 - Metti in ordine il percorso dell'acqua dal terreno fino alla foglia.
 - Quando si trapianta una piantina, si cerca di non rovinare le radici e di lasciare un po' di terra intorno. P…
+
+## Rettili al sole [lib-4-elementare-scienze-i-rettili] · RETTILE
+concetti: Pelle a squame; Sangue freddo; Uova con il guscio; I gruppi di rettili
+- Quale di questi animali è un rettile senza zampe?
+- Le lucertole stanno al sole per scaldare il corpo.
+- La pelle dei rettili è coperta di ___ dure che non fanno perdere acqua.
+- Quale gruppo contiene SOLO rettili?
+- Perché d'inverno non vediamo lucertole in giro?
+- Come respirano i rettili, anche quelli che vivono in acqua come le tartarughe marine?
+- Che cosa succede quando un serpente fa la muta?
+- Perché i rettili, a differenza degli anfibi, riescono a vivere anche in luoghi molto secchi come i deserti?
 
 ## Ripasso: materia, acqua e aria [lib-4-elementare-scienze-ripasso-materia-acqua-aria] · VAPORE
 concetti: Gli stati della materia; Il calore si muove; L'acqua in viaggio; L'aria intorno a noi
@@ -474,6 +969,17 @@ concetti: Il terreno sabbioso; Il terreno argilloso; Il terreno umifero; La perm
 - Perché con l'argilla si possono fabbricare vasi e mattoni?
 - Vuoi confrontare la permeabilità di sabbia e argilla. Metti in ordine i passaggi dell'esperimento.
 - Hai una piantina di cactus che soffre se le radici restano bagnate. In quale terreno la pianteresti e perché?
+
+## Sangue caldo, sangue freddo [lib-4-elementare-scienze-sangue-caldo-e-sangue-freddo] · PELO
+concetti: Sangue caldo; Sangue freddo; Il costo del calore; Attivi o lenti
+- Quale di questi animali è a sangue caldo?
+- Un cane in buona salute ha più o meno la stessa temperatura del corpo d'estate e d'inverno.
+- Pesci, anfibi e rettili si dicono animali a sangue ___.
+- Perché un topolino mangia moltissimo rispetto alla sua taglia?
+- Una rana ha il corpo a 10 °C al mattino e a 22 °C nel pomeriggio, dopo essere stata al sole. Di quanti gradi …
+- Perché in un laghetto, d'inverno, i pesci si muovono pochissimo?
+- Che cosa aiuta mammiferi e uccelli a non disperdere il calore?
+- Un serpente può stare settimane senza mangiare, un passerotto no. Spiega perché.
 
 ## Scaviamo nel suolo [lib-4-elementare-scienze-strati-del-suolo] · HUMUS
 concetti: Che cos'è il suolo; L'humus fertile; Gli strati del suolo; Aria e acqua nascoste
@@ -519,6 +1025,17 @@ concetti: L'atmosfera terrestre; La pressione atmosferica; Pressione e altitudin
 - In alta montagna un sacchetto di patatine chiuso si gonfia di più che al mare.
 - Perché gli alpinisti che salgono sulle montagne più alte del mondo spesso portano bombole di ossigeno?
 
+## Specie da proteggere [lib-4-elementare-scienze-biodiversita-ed-estinzione] · PANDA
+concetti: La biodiversità; Le estinzioni; Le cause; Proteggere le specie
+- Che cos'è la biodiversità?
+- Una specie estinta può ricomparire da sola dopo qualche anno.
+- Lo ___ è stato salvato dall'estinzione grazie al Parco nazionale del Gran Paradiso.
+- Qual è oggi una delle cause principali di estinzione?
+- Perché una specie portata da un altro continente può danneggiare quelle locali?
+- A che cosa servono i parchi nazionali?
+- Perché è importante che un ambiente abbia tante specie diverse?
+- Perché si dice che ogni specie estinta è una perdita per sempre? Che cosa possiamo fare per evitarlo?
+
 ## Una foglia da esplorare [lib-4-elementare-scienze-la-foglia] · STOMI
 concetti: Le parti della foglia; Gli stomi; La traspirazione; Forme e adattamenti
 - Come si chiama la parte larga e piatta della foglia?
@@ -530,6 +1047,17 @@ concetti: Le parti della foglia; Gli stomi; La traspirazione; Forme e adattament
 - Gli aghi del pino sono foglie.
 - Perché nelle giornate molto calde e secche le piante chiudono gli stomi?
 
+## Una seconda vita ai rifiuti [lib-4-elementare-scienze-raccolta-differenziata-e-riciclo] · RICICLO
+concetti: Separare i rifiuti; Il riciclo; L'organico; Ridurre e riusare
+- Dove butti una bottiglia di vetro vuota?
+- Le bucce di frutta vanno nell'___ e diventano compost.
+- Riciclare la carta aiuta a salvare alberi.
+- Perché è utile riciclare l'alluminio delle lattine?
+- Quale di queste azioni RIDUCE i rifiuti?
+- Perché la carta da riciclare deve essere pulita, senza unto né avanzi?
+- Metti in ordine il viaggio di una bottiglia di plastica riciclata.
+- Perché si dice che il rifiuto migliore è quello che non si produce?
+
 ## Uova o pancione? [lib-4-elementare-scienze-riproduzione-degli-animali] · UOVO
 concetti: Gli animali ovipari; Gli animali vivipari; Le cure dei genitori; La cova
 - Quale di questi animali è oviparo?
@@ -540,6 +1068,28 @@ concetti: Gli animali ovipari; Gli animali vivipari; Le cure dei genitori; La co
 - Quale di questi gruppi contiene SOLO animali ovipari?
 - I cuccioli dei mammiferi, dopo la nascita, vengono nutriti con il latte della madre.
 - Perché i piccoli dei mammiferi di solito restano a lungo con la madre, mentre molti piccoli di pesce se la ca…
+
+## Vetri appannati e rugiada [lib-4-elementare-scienze-condensazione-quotidiana] · RUGIADA
+concetti: Il vapore diventa liquido; Superfici fredde; La rugiada
+- Che cosa vuol dire 'condensazione'?
+- Le goccioline su una bottiglia appena presa dal frigo escono dall'interno della bottiglia.
+- Le goccioline che al mattino trovi sull'erba si chiamano ___.
+- D'inverno entri in casa dal freddo e gli occhiali si appannano. Perché?
+- D'inverno, in macchina, i vetri si appannano soprattutto…
+- Perché la rugiada si forma di notte e non a mezzogiorno?
+- Quale di questi fenomeni NON è una condensazione?
+- Soffi su un vetro freddo e si appanna. Spiega che cosa è successo.
+
+## Volare, nuotare, strisciare [lib-4-elementare-scienze-movimento-degli-animali] · ZAMPA
+concetti: Zampe; Ali; Pinne; Strisciare
+- Quale animale si muove soprattutto saltando sulle zampe posteriori?
+- La lumaca si muove grazie a un piede muscoloso e al muco che produce.
+- Il pipistrello vola grazie alle sue ___ di pelle.
+- Perché le zampe dell'anatra sono palmate?
+- Come si sposta un serpente senza zampe?
+- Quale coppia animale-movimento è SBAGLIATA?
+- Le zampe anteriori della talpa sono larghe e con unghie forti. A che cosa servono?
+- Confronta come si muovono un'aquila, un delfino e un serpente: che cosa usa ciascuno?
 
 ## È vivo oppure no? [lib-4-elementare-scienze-viventi-e-non-viventi] · VITA
 concetti: Il ciclo vitale; Nutrirsi e respirare; Reagire all'ambiente; I non viventi

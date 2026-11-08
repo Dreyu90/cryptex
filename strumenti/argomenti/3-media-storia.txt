@@ -1,6 +1,50 @@
-# 3ª media · Storia: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 3ª media · Storia: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## 11 settembre 2001 [lib-3-media-storia-11-settembre-2001] · TORRI
+concetti: Gli attentati; Le vittime; Al-Qaida e bin Laden; Le conseguenze
+- Quali edifici di New York furono colpiti l'11 settembre 2001?
+- Oltre alle Torri gemelle, un aereo colpì il ___, sede del Dipartimento della Difesa americano.
+- Il quarto aereo dirottato cadde in Pennsylvania dopo che i passeggeri si ribellarono ai terroristi.
+- Quante persone morirono negli attentati dell'11 settembre?
+- Quale organizzazione terroristica organizzò gli attentati?
+- Quale paese attaccarono gli Stati Uniti nell'ottobre 2001?
+- Quale cambiamento quotidiano è una conseguenza dell'11 settembre?
+- Perché si dice che l'11 settembre 2001 aprì una nuova fase della storia mondiale?
+
+## 18 aprile 1948, la grande scelta [lib-3-media-storia-elezioni-18-aprile-1948] · URNA
+concetti: Le prime elezioni della Repubblica; Due schieramenti; Il clima della guerra fredda; La vittoria della DC
+- Che cosa si votò il 18 aprile 1948?
+- Chi guidava la Democrazia cristiana nel 1948?
+- Nel Fronte democratico popolare erano uniti comunisti e socialisti.
+- Perché le elezioni del 1948 furono seguite con attenzione anche dalle grandi potenze?
+- Alle elezioni del 1948 la Democrazia cristiana ottenne circa il ___ per cento dei voti.
+- Che cosa accadde il 14 luglio 1948?
+- Metti in ordine cronologico questi eventi.
+- Perché la partecipazione al voto del 1948, oltre il 90%, ci dice molto sugli italiani di allora?
+
+## 1898-1900, la crisi di fine secolo [lib-3-media-storia-crisi-di-fine-secolo] · MONZA
+concetti: I moti del pane; La svolta autoritaria; L'uccisione di Umberto I; La svolta liberale
+- Che cosa causò le proteste popolari del 1898?
+- A Milano, nel 1898, il generale Bava Beccaris fece sparare sulla folla dei manifestanti.
+- Che cosa cercò di fare il governo Pelloux dopo i moti del 1898?
+- Il re Umberto I fu ucciso nel 1900 a ___ dall'anarchico Gaetano Bresci.
+- Perché Bresci, secondo le sue parole, decise di colpire il re?
+- Quale strada scelse il nuovo re Vittorio Emanuele III?
+- Metti in ordine cronologico questi fatti.
+- Perché la crisi di fine secolo si concluse con una svolta liberale e non con una dittatura?
+
+## 1917, l'America entra in guerra [lib-3-media-storia-1917-entrano-gli-stati-uniti] · SILURO
+concetti: La guerra sottomarina; L'intervento americano; L'uscita della Russia; La fine della guerra
+- Quale arma usava la Germania per colpire le navi dirette in Gran Bretagna?
+- Nel 1915 un sottomarino tedesco affondò il transatlantico ___, con molti americani a bordo.
+- Gli Stati Uniti entrarono in guerra fin dall'agosto 1914.
+- Quale fatto spinse gli Stati Uniti a dichiarare guerra nel 1917?
+- Perché la Russia uscì dalla guerra nel 1918?
+- Perché l'intervento americano fu decisivo per la vittoria dell'Intesa?
+- Metti in ordine cronologico questi eventi.
+- Perché il 1917 è considerato l'anno di svolta della Prima guerra mondiale?
 
 ## 1941, la guerra diventa mondiale [lib-3-media-storia-guerra-mondiale-1941] · GLOBALE
 concetti: L'operazione Barbarossa; Pearl Harbor; Le due alleanze; La Carta Atlantica
@@ -46,6 +90,28 @@ concetti: Il D-Day; La fine in Europa; La conferenza di Yalta; La bomba atomica
 - Metti in ordine cronologico questi eventi.
 - Perché la bomba atomica cambiò per sempre la storia del mondo?
 
+## 1948, nasce lo Stato d'Israele [lib-3-media-storia-nascita-di-israele] · ISRAELE
+concetti: Il sionismo; Il mandato britannico; Il piano dell'ONU e il 1948; I profughi palestinesi
+- Che cosa si proponeva il movimento sionista?
+- Dopo la Prima guerra mondiale la Palestina fu affidata in mandato alla Gran Bretagna.
+- Perché dopo la Seconda guerra mondiale crebbe il sostegno internazionale a uno Stato ebraico?
+- Nel 1947 l'___ propose di dividere la Palestina in due Stati, uno ebraico e uno arabo.
+- Che cosa accadde subito dopo la proclamazione dello Stato d'Israele nel 1948?
+- Metti in ordine cronologico questi eventi.
+- Quale fu una conseguenza della guerra del 1948 per la popolazione araba palestinese?
+- Perché la questione israelo-palestinese è così difficile da risolvere?
+
+## 1991, l'URSS si dissolve [lib-3-media-storia-fine-dell-urss] · MOSCA
+concetti: Un impero in crisi; Il colpo di Stato fallito; La dissoluzione; Quindici nuovi Stati
+- In quale situazione si trovava l'URSS negli anni Ottanta?
+- Chi guidò la resistenza al colpo di Stato dell'agosto 1991?
+- Il colpo di Stato dell'agosto 1991 riuscì e riportò al potere i comunisti più rigidi.
+- Al posto dell'URSS fu creata la Comunità degli Stati ___.
+- Che cosa fece Gorbaciov il 25 dicembre 1991?
+- Quanti Stati indipendenti nacquero dalla dissoluzione dell'URSS?
+- Metti in ordine cronologico questi eventi.
+- Perché la fine dell'URSS segnò la fine della guerra fredda?
+
 ## 2 giugno 1946, nasce la Repubblica [lib-3-media-storia-referendum-2-giugno-1946] · VOTO
 concetti: Il referendum istituzionale; Il voto alle donne; L'Assemblea Costituente; Un paese diviso nel voto
 - Tra quali due scelte votarono gli italiani il 2 giugno 1946?
@@ -68,6 +134,17 @@ concetti: Tempi e luoghi; Nuove fonti di energia; Acciaio e chimica; Grandi impr
 - Metti in ordine cronologico queste innovazioni.
 - Quali differenze ci sono tra la prima e la seconda rivoluzione industriale?
 
+## Anni Settanta, nuovi diritti [lib-3-media-storia-diritti-civili-anni-settanta] · PARITA
+concetti: Il divorzio; Il nuovo diritto di famiglia; Maggiorenni a 18 anni; Nuovi servizi e istituzioni
+- Che cosa decisero gli italiani con il referendum del 1974?
+- Che cosa cambiò la riforma del diritto di famiglia del 1975?
+- Prima del 1975 la legge considerava il marito il «capofamiglia».
+- Dal 1975 in Italia si diventa maggiorenni a ___ anni.
+- Quale importante servizio pubblico nacque nel 1978?
+- Nel 1970 nacquero le Regioni ordinarie: quale principio della Costituzione realizzavano?
+- Metti in ordine cronologico queste leggi e decisioni.
+- Perché si può dire che negli anni Settanta l'Italia attuò principi che la Costituzione affermava già nel 1948?
+
 ## Belle Époque e società di massa [lib-3-media-storia-belle-epoque] · EIFFEL
 concetti: Un'epoca di fiducia; La società di massa; Tempo libero e sport; Le Esposizioni universali; Partiti di massa e tensioni
 - Che cosa significa l'espressione francese «Belle Époque»?
@@ -78,6 +155,17 @@ concetti: Un'epoca di fiducia; La società di massa; Tempo libero e sport; Le Es
 - Che cos'è un partito di massa?
 - Perché il nome «Belle Époque» fu dato a quegli anni solo più tardi?
 - La Belle Époque nascondeva anche problemi e tensioni. Quali?
+
+## Berlino 1884: l'Africa a tavolino [lib-3-media-storia-conferenza-di-berlino-e-congo] · CONGO
+concetti: La Conferenza di Berlino; L'occupazione effettiva; Il Congo di Leopoldo II; L'Africa spartita
+- Chi organizzò la Conferenza di Berlino del 1884-85?
+- Alla Conferenza di Berlino parteciparono anche i rappresentanti dei popoli africani.
+- Che cosa stabiliva il principio dell'occupazione effettiva?
+- Il Congo divenne possedimento personale del re belga ___ II.
+- Quale prodotto veniva raccolto con lavoro forzato nel Congo di Leopoldo II?
+- Quali paesi africani erano ancora indipendenti nel 1914?
+- Perché molti confini africani sono ancora oggi linee dritte?
+- Quali problemi può creare un confine tracciato senza tener conto dei popoli che vivono in un territorio?
 
 ## Berlino, il muro e la caduta [lib-3-media-storia-muro-di-berlino] · MURO
 concetti: Berlino divisa; La costruzione del muro; Gorbaciov e le riforme; La fine della divisione
@@ -90,6 +178,17 @@ concetti: Berlino divisa; La costruzione del muro; Gorbaciov e le riforme; La fi
 - Metti in ordine cronologico questi eventi.
 - Perché la caduta del muro di Berlino è considerata la fine simbolica della guerra fredda?
 
+## Bismarck e il Secondo Reich [lib-3-media-storia-unificazione-tedesca] · SEDAN
+concetti: La Prussia e Bismarck; Le guerre dell'unità; La nascita dell'Impero tedesco; Le conseguenze
+- Quale Stato guidò l'unificazione della Germania?
+- Bismarck voleva unificare la Germania con la diplomazia e con la forza militare.
+- Metti in ordine le guerre combattute dalla Prussia.
+- Quale regione ottenne l'Italia, alleata della Prussia, dopo la guerra del 1866?
+- L'Impero tedesco fu proclamato nella Sala degli specchi della reggia di ___.
+- Chi divenne il primo imperatore della Germania unita?
+- Quale regione perse la Francia nel 1871, alimentando il desiderio di rivincita?
+- Perché la nascita della Germania unita cambiò gli equilibri dell'Europa?
+
 ## Blitzkrieg e caduta della Francia [lib-3-media-storia-guerra-lampo] · LAMPO
 concetti: La guerra lampo; L'attacco a ovest; La Francia divisa; La battaglia d'Inghilterra
 - Che cosa significa la parola tedesca «Blitzkrieg»?
@@ -101,6 +200,17 @@ concetti: La guerra lampo; L'attacco a ovest; La Francia divisa; La battaglia d'
 - Metti in ordine cronologico questi eventi.
 - Perché nel 1940 la Gran Bretagna riuscì a resistere da sola alla Germania?
 
+## Budapest 1956, Praga 1968 [lib-3-media-storia-ungheria-1956-e-praga-1968] · PRAGA
+concetti: Il controllo sovietico; La rivolta d'Ungheria; La Primavera di Praga; L'invasione del 1968
+- Che cos'era il Patto di Varsavia?
+- Che cosa annunciò il governo ungherese di Imre Nagy nel 1956?
+- La rivolta ungherese del 1956 fu repressa dai carri armati sovietici.
+- Dubček voleva costruire un socialismo «dal volto ___».
+- Quale di queste fu una riforma della Primavera di Praga?
+- Come finì la Primavera di Praga?
+- Metti in ordine cronologico questi eventi.
+- Che cosa dimostrarono gli interventi in Ungheria e Cecoslovacchia sulla libertà dei paesi dell'Est?
+
 ## Cavour, il tessitore del Piemonte [lib-3-media-storia-cavour-diplomazia] · CAVOUR
 concetti: La modernizzazione del Piemonte; La guerra di Crimea; Gli accordi di Plombières; La seconda guerra d'indipendenza
 - Quale di queste fu un'iniziativa di Cavour per modernizzare il Piemonte?
@@ -111,6 +221,28 @@ concetti: La modernizzazione del Piemonte; La guerra di Crimea; Gli accordi di P
 - Metti in ordine cronologico questi eventi.
 - Che cosa ottenne il Piemonte con l'armistizio di Villafranca del 1859?
 - Perché si dice che Cavour usò la diplomazia più ancora delle armi?
+
+## Che cos'è un totalitarismo [lib-3-media-storia-che-cos-e-un-totalitarismo] · TOTALE
+concetti: Una definizione; Partito unico e capo; Propaganda e terrore; Tre esempi
+- Che cosa distingue un regime totalitario da una semplice dittatura?
+- Nei regimi totalitari i cittadini possono scegliere liberamente tra diversi partiti.
+- L'esaltazione continua del capo come persona straordinaria si chiama culto della ___.
+- Perché nei regimi totalitari esisteva una polizia segreta?
+- Quale di questi comportamenti sarebbe stato pericoloso in un regime totalitario?
+- Quale coppia indica correttamente un regime e il suo capo?
+- Che cosa avevano in comune nazismo e stalinismo, pur avendo ideologie opposte?
+- Quali strumenti della nostra democrazia servono a impedire che nasca un regime totalitario?
+
+## Come nasce una legge [lib-3-media-storia-come-nasce-una-legge] · LEGGE
+concetti: L'iniziativa; Le due Camere; Promulgazione e pubblicazione; Il referendum abrogativo
+- Quale organo approva le leggi in Italia?
+- Quante firme di elettori servono per presentare una proposta di legge di iniziativa popolare?
+- Per diventare legge, un testo deve essere approvato identico da Camera e Senato.
+- Dopo l'approvazione, la legge viene ___ dal Presidente della Repubblica.
+- Che cosa può fare il Presidente della Repubblica se ha dubbi su una legge?
+- Metti in ordine le tappe della nascita di una legge.
+- A che cosa serve il referendum abrogativo?
+- Perché la Costituzione permette ai cittadini di proporre leggi e chiedere referendum?
 
 ## Con la valigia oltre l'oceano [lib-3-media-storia-grande-emigrazione] · VALIGIA
 concetti: Le cause della partenza; Le mete; Il viaggio e l'arrivo; Le conseguenze
@@ -133,6 +265,17 @@ concetti: La guerra di Corea; La crisi dei missili di Cuba; La guerra del Vietna
 - Come finì la guerra del Vietnam?
 - Perché dopo la crisi di Cuba fu creata una linea diretta tra Washington e Mosca?
 - Perché si dice che la guerra fredda fu «fredda» tra le superpotenze ma «calda» in altre parti del mondo?
+
+## Crispi, il governo forte [lib-3-media-storia-francesco-crispi] · CRISPI
+concetti: Un garibaldino al governo; Un governo autoritario; Le riforme; Colonie e caduta
+- A quale celebre impresa aveva partecipato Crispi da giovane?
+- Crispi ammirava il cancelliere tedesco Bismarck e il suo modello di Stato forte.
+- Che cos'erano i Fasci siciliani repressi da Crispi?
+- Il Codice Zanardelli, entrato in vigore nel 1890, abolì in Italia la pena di ___.
+- Dove l'Italia di Crispi cercò di creare un impero coloniale?
+- Quale evento costrinse Crispi alle dimissioni nel 1896?
+- Metti in ordine cronologico questi fatti.
+- Secondo te quali rischi corre uno Stato quando risponde alle proteste sociali solo con la forza?
 
 ## Da Ventotene all'euro [lib-3-media-storia-unione-europea] · EURO
 concetti: Il Manifesto di Ventotene; Le prime comunità; L'Unione europea e l'euro; Le istituzioni europee
@@ -178,6 +321,17 @@ concetti: Il fronte italiano; La disfatta di Caporetto; La resistenza sul Piave;
 - Metti in ordine cronologico questi eventi del fronte italiano.
 - Perché dopo Caporetto i soldati italiani riuscirono a resistere sul Piave?
 
+## De Gasperi e la ricostruzione [lib-3-media-storia-anni-del-centrismo] · TERRA
+concetti: Il centrismo; La riforma agraria; La Cassa per il Mezzogiorno; L'Italia nel mondo
+- Chi guidò i governi italiani dal 1945 al 1953?
+- Il centrismo era una formula di governo che univa la DC a partiti di centro, escludendo comunisti e socialist…
+- Che cosa fece la riforma agraria del 1950?
+- Per finanziare opere pubbliche nel Sud nel 1950 fu creata la Cassa per il ___.
+- Qual era lo scopo principale della Cassa per il Mezzogiorno?
+- In quale anno l'Italia entrò nell'ONU?
+- Metti in ordine cronologico questi fatti.
+- Perché dare la terra ai contadini era considerato così importante nell'Italia del dopoguerra?
+
 ## Dentro la Grande Guerra [lib-3-media-prima-guerra] · TRINCEA
 concetti: Le cause della guerra; La scintilla di Sarajevo; La guerra di trincea; Nuove armi, guerra totale; Il 1917 e la fine
 - Quale evento fece scoppiare la Prima guerra mondiale nell'estate del 1914?
@@ -200,6 +354,39 @@ concetti: Depretis e il trasformismo; La legge Coppino; La riforma elettorale de
 - Perché nel 1882 l'Italia si avvicinò alla Germania e perfino all'odiata Austria?
 - Spiega che cosa fu il trasformismo e perché fu criticato.
 
+## Due blocchi armati [lib-3-media-storia-triplice-alleanza-e-intesa] · INTESA
+concetti: La Triplice Alleanza; La Triplice Intesa; La corsa agli armamenti; La polveriera balcanica
+- Quali paesi formavano la Triplice Alleanza?
+- Quali paesi formavano la Triplice Intesa?
+- L'Italia, pur essendo nella Triplice Alleanza, nel 1915 entrò in guerra a fianco dell'Intesa.
+- La gara tra le potenze per avere eserciti e flotte sempre più grandi si chiama corsa agli ___.
+- Perché la Gran Bretagna era preoccupata dalla nuova flotta tedesca?
+- Perché i Balcani erano chiamati «polveriera d'Europa»?
+- Metti in ordine cronologico la formazione delle alleanze.
+- Perché un sistema di alleanze contrapposte può trasformare un conflitto locale in una guerra mondiale?
+
+## Eran trecento: i moti mazziniani [lib-3-media-storia-fratelli-bandiera-e-pisacane] · SAPRI
+concetti: I fratelli Bandiera; La spedizione di Sapri; Perché fallirono; Verso la soluzione sabauda
+- Chi erano i fratelli Bandiera?
+- I fratelli Bandiera riuscirono a far insorgere la Calabria e a liberarla dai Borbone.
+- Da quale città partì Carlo Pisacane nel 1857?
+- La poesia di Luigi Mercantini ricorda i compagni di Pisacane con il verso «Eran ___, eran giovani e forti».
+- Metti in ordine queste tappe della spedizione di Pisacane.
+- Qual è la causa principale del fallimento di questi moti?
+- Che cosa si proponeva la Società nazionale italiana fondata nel 1857?
+- Che cosa insegnarono ai patrioti i fallimenti dei Bandiera e di Pisacane?
+
+## Foibe ed esodo giuliano-dalmata [lib-3-media-storia-foibe-ed-esodo] · ISTRIA
+concetti: Il confine orientale; Le foibe; L'esodo; Il Giorno del Ricordo
+- Quali popolazioni vivevano insieme da secoli in Istria e Dalmazia?
+- Che cosa sono le foibe?
+- Le uccisioni delle foibe avvennero per mano dei partigiani jugoslavi di Tito.
+- Il trasferimento di massa degli italiani dall'Istria, da Fiume e dalla Dalmazia è chiamato ___ giuliano-dalma…
+- Perché molti italiani lasciarono l'Istria dopo la guerra?
+- Quale data è il Giorno del Ricordo?
+- Perché le tensioni al confine orientale erano così forti già prima del 1943?
+- Perché è importante ricordare sia le violenze subite dagli sloveni e croati sotto il fascismo sia le foibe e …
+
 ## Ford e la catena di montaggio [lib-3-media-storia-catena-di-montaggio] · FORD
 concetti: Il taylorismo; La catena di montaggio; La produzione di massa; Il lavoro ripetitivo
 - Chi introdusse la catena di montaggio nella produzione di automobili?
@@ -210,6 +397,17 @@ concetti: Il taylorismo; La catena di montaggio; La produzione di massa; Il lavo
 - Nel 1914 Ford pagava 5 dollari al giorno, molto più della media. Perché?
 - Qual era il principale svantaggio della catena di montaggio per gli operai?
 - Che cosa succede alla catena se un solo operaio si ferma? Usa questo esempio per spiegare vantaggi e limiti d…
+
+## Fratelli d'Italia e tricolore [lib-3-media-storia-tricolore-e-inno] · MAMELI
+concetti: La nascita del tricolore; Il Canto degli Italiani; Simboli del Risorgimento; I simboli della Repubblica
+- In quale città nacque il tricolore italiano nel 1797?
+- Le parole dell'inno nazionale italiano furono scritte da Giuseppe Verdi.
+- L'inno «Fratelli d'Italia» si intitola ufficialmente Il Canto degli ___.
+- Perché nel Risorgimento esporre il tricolore poteva essere pericoloso in molti Stati italiani?
+- Che cosa stabilisce l'articolo 12 della Costituzione?
+- Quale simbolo venne tolto dal tricolore con la nascita della Repubblica?
+- Metti in ordine cronologico questi fatti.
+- Perché secondo te un popolo ha bisogno di simboli comuni come una bandiera e un inno?
 
 ## Gandhi e la decolonizzazione [lib-3-media-storia-decolonizzazione] · GANDHI
 concetti: Le cause della decolonizzazione; L'indipendenza dell'India; L'Africa indipendente; Terzo mondo e non allineati
@@ -244,6 +442,61 @@ concetti: Giolitti e il dialogo; Riforme e sviluppo; Il suffragio universale mas
 - Metti in ordine cronologico questi eventi.
 - Nonostante le riforme, Giolitti fu criticato da più parti. Spiega perché.
 
+## Gli anni di piombo [lib-3-media-storia-anni-di-piombo] · PIOMBO
+concetti: Un decennio di violenza; Le stragi; Il caso Moro; La risposta dello Stato
+- Perché gli anni Settanta in Italia sono chiamati «anni di piombo»?
+- Negli anni di piombo agirono sia gruppi terroristici di estrema destra sia di estrema sinistra.
+- In quale città avvenne la strage di piazza Fontana del 1969?
+- Il 2 agosto 1980 una bomba esplose nella stazione di ___, causando 85 vittime.
+- Chi era Aldo Moro?
+- Metti in ordine cronologico questi eventi.
+- Come fu sconfitto il terrorismo in Italia?
+- Perché è importante che una democrazia combatta il terrorismo senza rinunciare alle proprie regole?
+
+## Gli Stati Uniti verso ovest [lib-3-media-storia-stati-uniti-verso-ovest] · OVEST
+concetti: La conquista del West; I nativi americani; Una terra di immigrati; Una nuova potenza
+- Che cosa univa la ferrovia transcontinentale completata nel 1869?
+- La conquista del West avvenne a spese dei nativi americani, che persero le loro terre.
+- I nativi americani sconfitti furono costretti a vivere in territori limitati chiamati ___.
+- Perché l'arrivo della ferrovia e la caccia ai bisonti furono un disastro per molte tribù delle praterie?
+- Che cos'era Ellis Island?
+- Quale paese sconfissero gli Stati Uniti nella guerra del 1898?
+- Metti in ordine cronologico questi eventi della storia americana.
+- Come fecero gli Stati Uniti a diventare una grande potenza in meno di un secolo?
+
+## Ho un sogno: i diritti civili [lib-3-media-storia-martin-luther-king] · SOGNO
+concetti: La segregazione; Rosa Parks; Martin Luther King; Le conquiste
+- Che cos'era la segregazione razziale negli Stati Uniti?
+- Che cosa fece Rosa Parks nel 1955?
+- Dopo l'arresto di Rosa Parks, gli afroamericani di Montgomery smisero di usare gli autobus per più di un anno.
+- Martin Luther King scelse la lotta ___, ispirandosi a Gandhi.
+- Dove pronunciò King il discorso «I have a dream» nel 1963?
+- Che cosa ottenne il movimento per i diritti civili con le leggi del 1964 e del 1965?
+- Metti in ordine cronologico questi eventi.
+- Perché la lotta non violenta di King riuscì a ottenere risultati importanti?
+
+## Il cinema parla, la radio canta [lib-3-media-storia-cinema-e-radio-tra-le-due-guerre] · CINEMA
+concetti: La radio entra nelle case; Il cinema sonoro; Charlie Chaplin; Media e potere
+- Quale novità entrò in molte case negli anni Venti e Trenta?
+- Fino alla fine degli anni Venti i film erano quasi tutti muti, accompagnati spesso da musica dal vivo.
+- Il primo grande successo del cinema sonoro fu nel 1927 «Il cantante di ___».
+- Che cosa prendeva in giro Chaplin nel film «Tempi moderni»?
+- Chi veniva ridicolizzato nel film di Chaplin «Il grande dittatore» del 1940?
+- Quale grande centro cinematografico fu inaugurato a Roma nel 1937?
+- Perché radio e cinema erano strumenti preziosi per i regimi totalitari?
+- In che modo l'arrivo della radio cambiò il rapporto tra i cittadini e chi governava?
+
+## Il crollo dei quattro imperi [lib-3-media-storia-fine-degli-imperi-e-turchia] · TURCHIA
+concetti: Quattro imperi crollati; Nuovi Stati in Europa; La Turchia di Atatürk; Una Turchia moderna
+- Quale di questi imperi NON crollò con la fine della Grande guerra?
+- La Polonia, divisa tra le potenze alla fine del Settecento, tornò a essere uno Stato indipendente dopo la Gra…
+- Come si chiamò più tardi il Regno dei Serbi, Croati e Sloveni?
+- Il fondatore della Turchia moderna, Mustafa Kemal, fu soprannominato ___, cioè «padre dei Turchi».
+- Quale città divenne capitale della Repubblica turca?
+- Quale riforma fece Atatürk per modernizzare la scrittura?
+- Metti in ordine cronologico questi eventi.
+- Perché la nascita di tanti nuovi Stati dopo il 1918 non portò una pace duratura?
+
 ## Il crollo di Wall Street [lib-3-media-storia-crisi-del-1929] · CROLLO
 concetti: I ruggenti anni Venti; Il crollo della Borsa; La Grande depressione; Una crisi mondiale
 - Come vengono chiamati gli anni Venti negli Stati Uniti?
@@ -255,6 +508,28 @@ concetti: I ruggenti anni Venti; Il crollo della Borsa; La Grande depressione; U
 - Metti in ordine questa catena di cause ed effetti della crisi.
 - Spiega il «circolo vizioso» della Grande depressione: perché la crisi, una volta iniziata, continuava ad aggr…
 
+## Il Giappone alla conquista dell'Asia [lib-3-media-storia-giappone-militarista] · TOKYO
+concetti: Il potere dei militari; La Manciuria; Lo scontro con la Cina; L'alleanza con l'Asse
+- Perché il Giappone voleva espandersi in Asia negli anni Trenta?
+- Nel 1931 il Giappone invase la ___, una regione della Cina ricca di carbone e ferro.
+- Dopo la condanna della Società delle Nazioni, il Giappone ritirò le truppe dalla Manciuria.
+- In quale anno iniziò la guerra su larga scala tra Giappone e Cina?
+- Con quali paesi si alleò il Giappone negli anni Trenta?
+- Metti in ordine cronologico questi eventi.
+- Che cosa dimostrò il caso della Manciuria?
+- In che modo le conquiste giapponesi in Asia prepararono lo scontro con gli Stati Uniti?
+
+## Il Giappone dei samurai moderni [lib-3-media-storia-giappone-meiji] · MEIJI
+concetti: L'apertura forzata; La rivoluzione Meiji; Una nuova potenza; Imitare per non essere conquistati
+- Quale paese costrinse il Giappone ad aprirsi al commercio nel 1853?
+- Durante l'epoca Meiji i samurai rafforzarono i loro antichi privilegi.
+- Quale di queste fu una riforma dell'epoca Meiji?
+- Nel 1905 il Giappone sconfisse la ___, una grande potenza europea.
+- Perché la vittoria giapponese sulla Russia stupì il mondo?
+- Metti in ordine cronologico questi eventi.
+- Che cosa permise al Giappone di non finire sotto il controllo delle potenze occidentali come la Cina?
+- Confronta la storia di Cina e Giappone nell'Ottocento: perché ebbero destini così diversi?
+
 ## Il miracolo economico italiano [lib-3-media-storia-miracolo-economico-italiano] · BOOM
 concetti: La ricostruzione; I consumi di massa; La migrazione interna; Grandi opere e problemi
 - Quale piccola automobile, lanciata nel 1957, divenne il simbolo del boom economico italiano?
@@ -265,6 +540,28 @@ concetti: La ricostruzione; I consumi di massa; La migrazione interna; Grandi op
 - Come cambiò la vita domestica grazie agli elettrodomestici?
 - Quale problema accompagnò il miracolo economico?
 - Immagina una famiglia del Sud che nel 1960 si trasferisce a Torino. Quali cambiamenti e quali difficoltà vive?
+
+## Il no degli internati militari [lib-3-media-storia-internati-militari-italiani] · RIFIUTO
+concetti: L'8 settembre e i soldati; Gli internati militari; Il rifiuto; Cefalonia
+- In quale situazione si trovarono i soldati italiani dopo l'armistizio dell'8 settembre 1943?
+- I soldati italiani deportati in Germania furono chiamati «internati ___ italiani».
+- Gli internati militari italiani erano protetti dalle regole internazionali come normali prigionieri di guerra.
+- Che cosa scelse la maggior parte degli internati quando le fu proposto di combattere per la Germania o per la…
+- Perché il rifiuto degli internati è considerato una forma di Resistenza?
+- Che cosa fecero i soldati della divisione Acqui a Cefalonia nel settembre 1943?
+- Metti in ordine cronologico questi eventi.
+- Perché la storia degli internati militari è rimasta a lungo poco conosciuta e perché oggi è importante ricord…
+
+## Il pareggio della Destra storica [lib-3-media-storia-destra-storica-tasse-e-bilancio] · SELLA
+concetti: Il debito pubblico; La tassa sul macinato; Il pareggio del bilancio; Unificare il paese
+- Qual era il principale problema economico del nuovo Regno d'Italia nel 1861?
+- La tassa più odiata della Destra storica colpiva la macinazione dei cereali e si chiamava tassa sul ___.
+- Perché la tassa sul macinato pesava soprattutto sui più poveri?
+- L'introduzione della tassa sul macinato provocò proteste e rivolte nelle campagne.
+- Che cosa significa raggiungere il pareggio del bilancio?
+- In quale anno la Destra storica annunciò il raggiungimento del pareggio?
+- Quale fu una delle opere della Destra per unificare davvero il paese?
+- Perché il pareggio del bilancio fu un successo ma rese la Destra impopolare?
 
 ## Il Quarantotto e le barricate [lib-3-media-storia-quarantotto] · STATUTO
 concetti: La primavera dei popoli; Lo Statuto Albertino; Le Cinque giornate di Milano; La prima guerra d'indipendenza; La Repubblica romana
@@ -299,6 +596,17 @@ concetti: La guerra d'Etiopia; L'alleanza con Hitler; Le leggi razziali; Le vitt
 - Metti in ordine cronologico questi eventi.
 - Perché le sanzioni per la guerra d'Etiopia spinsero Mussolini verso Hitler?
 
+## L'eroe dei due mondi [lib-3-media-storia-garibaldi-eroe-dei-due-mondi] · CAPRERA
+concetti: L'esilio in Sud America; La difesa di Roma; Aspromonte e Mentana; Il mito di Garibaldi
+- Perché Garibaldi viene chiamato «eroe dei due mondi»?
+- Garibaldi andò in Sud America dopo essere stato condannato a morte per un moto mazziniano.
+- Dove nacque l'abitudine della camicia rossa dei garibaldini?
+- Nel 1849 Garibaldi difese la Repubblica ___ contro le truppe francesi.
+- Che cosa accadde a Garibaldi in Aspromonte nel 1862?
+- Metti in ordine cronologico questi episodi della vita di Garibaldi.
+- Perché il governo italiano ostacolò i tentativi di Garibaldi di prendere Roma?
+- Perché secondo te Garibaldi divenne un personaggio così popolare in Italia e nel mondo?
+
 ## L'Italia in cerca di colonie [lib-3-media-storia-colonialismo-italiano] · ADUA
 concetti: Eritrea e Somalia; La sconfitta di Adua; La guerra di Libia; Perché le colonie
 - Quale fu la prima colonia italiana in Africa?
@@ -320,6 +628,28 @@ concetti: L'ingresso in guerra; La guerra parallela; Il fronte africano; La camp
 - Quale battaglia del 1942 segnò la sconfitta dell'Asse in Africa settentrionale?
 - Metti in ordine cronologico questi eventi.
 - Che cosa intendeva Mussolini per «guerra parallela» e perché fallì?
+
+## La Cina di Mao [lib-3-media-storia-cina-di-mao] · PECHINO
+concetti: La guerra civile; La Repubblica popolare; Il Grande balzo in avanti; La Rivoluzione culturale
+- Chi si scontrò nella guerra civile cinese?
+- La lunga ritirata dei comunisti cinesi nel 1934-35 è ricordata come la Lunga ___.
+- Dove si rifugiarono i nazionalisti sconfitti nel 1949?
+- La Repubblica popolare cinese fu proclamata nel 1949.
+- Quale fu la conseguenza del Grande balzo in avanti?
+- Chi erano le Guardie rosse?
+- Metti in ordine cronologico questi eventi della Cina.
+- Perché la Rivoluzione culturale colpì soprattutto insegnanti e intellettuali?
+
+## La Cina e le guerre dell'oppio [lib-3-media-storia-cina-e-guerre-dell-oppio] · OPPIO
+concetti: Le guerre dell'oppio; I trattati ineguali; La rivolta dei Boxer; La fine dell'Impero
+- Perché la Gran Bretagna fece guerra alla Cina nel 1839?
+- La Cina vinse la prima guerra dell'oppio grazie alla sua flotta moderna.
+- Con il trattato di Nanchino del 1842 la Cina cedette alla Gran Bretagna l'isola di ___.
+- Perché questi accordi sono chiamati «trattati ineguali»?
+- Contro chi si ribellarono i Boxer?
+- Quale paese europeo partecipò alla spedizione internazionale contro i Boxer insieme ad altre potenze?
+- Metti in ordine cronologico questi eventi della storia cinese.
+- Perché la Cina, un impero antichissimo e popoloso, non riuscì a resistere alle potenze europee nell'Ottocento?
 
 ## La corsa alle colonie [lib-3-media-storia-imperialismo] · IMPERO
 concetti: Le cause economiche; Nazionalismo e razzismo; La spartizione dell'Africa; I grandi imperi; Le conseguenze per i colonizzati
@@ -365,6 +695,28 @@ concetti: Nascita della Costituzione; I principi fondamentali; La divisione dei 
 - Perché si dice che la Costituzione italiana è «rigida»?
 - Perché i costituenti vollero dividere i poteri dello Stato tra organi diversi?
 
+## La guerra lontano dalle trincee [lib-3-media-storia-fronte-interno-grande-guerra] · LETTERA
+concetti: La guerra totale; Le donne al lavoro; Propaganda e censura; Sacrifici quotidiani
+- Che cosa significa che la Prima guerra mondiale fu una «guerra totale»?
+- Che cosa producevano molte fabbriche durante la guerra?
+- Durante la guerra molte donne andarono a lavorare in fabbrica al posto degli uomini.
+- Il controllo delle lettere dei soldati per eliminare notizie scomode si chiama ___.
+- Qual era lo scopo dei manifesti di propaganda?
+- Che cos'era il razionamento?
+- Perché i governi chiedevano ai cittadini di sottoscrivere i prestiti di guerra?
+- In che modo la guerra cambiò il ruolo delle donne nella società?
+
+## La Jugoslavia si spezza [lib-3-media-storia-guerre-nella-ex-jugoslavia] · BALCANI
+concetti: Dopo Tito; Le indipendenze; La guerra in Bosnia; La pace e il Kosovo
+- Quale leader aveva tenuto unita la Jugoslavia fino al 1980?
+- La Jugoslavia era uno Stato in cui vivevano popoli con lingue, religioni e tradizioni diverse.
+- Quali repubbliche dichiararono per prime l'indipendenza nel 1991?
+- La capitale della Bosnia, ___, rimase assediata per quasi quattro anni.
+- Perché il massacro di Srebrenica del 1995 è considerato un genocidio?
+- Quali accordi misero fine alla guerra in Bosnia nel 1995?
+- Metti in ordine cronologico questi eventi.
+- Perché i nazionalismi possono distruggere uno Stato in cui convivono popoli diversi?
+
 ## La pace di Parigi del 1919 [lib-3-media-storia-pace-di-parigi-1919] · WILSON
 concetti: La Conferenza di pace; I 14 punti di Wilson; Il trattato di Versailles; La nuova carta d'Europa; La vittoria mutilata
 - Chi decise le condizioni di pace alla Conferenza di Parigi del 1919?
@@ -375,6 +727,17 @@ concetti: La Conferenza di pace; I 14 punti di Wilson; Il trattato di Versailles
 - Quale nuovo stato nacque dalla fine dell'Impero austro-ungarico?
 - Perché in Italia si parlò di «vittoria mutilata»?
 - Perché il trattato di Versailles è considerato una delle cause della Seconda guerra mondiale?
+
+## La Resistenza in Europa [lib-3-media-storia-resistenza-in-europa] · MAQUIS
+concetti: Resistere all'occupazione; De Gaulle e la Francia libera; Tito e la Jugoslavia; Resistenza anche in Germania
+- Quale di queste era un'attività tipica dei movimenti di resistenza?
+- Da quale città il generale de Gaulle lanciò il suo appello nel giugno 1940?
+- Dopo la sconfitta del 1940 tutti i Francesi accettarono l'occupazione tedesca senza opporsi.
+- In Jugoslavia i partigiani furono guidati da Josip Broz, detto ___.
+- Che cosa ebbe di particolare la liberazione della Jugoslavia?
+- Che cosa faceva il gruppo della Rosa Bianca in Germania?
+- Metti in ordine cronologico questi eventi.
+- Perché la Resistenza, anche quando era formata da piccoli gruppi, fu importante per l'Europa del dopoguerra?
 
 ## La Shoah e la memoria [lib-3-media-storia-shoah] · MEMORIA
 concetti: Persecuzioni e vittime; Ghetti e deportazioni; Lo sterminio; La Shoah in Italia; Memoria e Giusti
@@ -387,6 +750,39 @@ concetti: Persecuzioni e vittime; Ghetti e deportazioni; Lo sterminio; La Shoah 
 - Oltre agli ebrei, quali altri gruppi furono perseguitati dai nazisti?
 - Perché è importante ricordare la Shoah ancora oggi?
 
+## La spagnola, un nemico invisibile [lib-3-media-storia-influenza-spagnola] · VIRUS
+concetti: Una pandemia mondiale; Perché «spagnola»; Come si diffuse; Le difese di allora
+- Che cos'era l'influenza spagnola?
+- L'influenza spagnola nacque sicuramente in Spagna.
+- Perché i giornali spagnoli parlarono della malattia prima degli altri?
+- Quale situazione favorì la diffusione rapida del contagio?
+- Nel 1918 non esistevano ancora né vaccini antinfluenzali né ___ per curare le complicazioni.
+- Quale misura fu usata nel 1918 per rallentare il contagio?
+- Perché la spagnola fu così grave per l'Europa del 1918?
+- Quali somiglianze e differenze noti tra la lotta alla spagnola e la lotta alle epidemie di oggi?
+
+## Le suffragette e il voto [lib-3-media-storia-suffragette-e-voto-alle-donne] · DONNE
+concetti: La questione femminile; Le suffragette; Le prime conquiste; Il voto in Italia
+- Da quale parola deriva il nome «suffragette»?
+- Nell'Ottocento in quasi tutti i paesi le donne non potevano votare alle elezioni politiche.
+- Chi guidò il movimento delle suffragette in Gran Bretagna?
+- Il motto delle suffragette britanniche era «Fatti, non ___».
+- Quale fu il primo paese al mondo a concedere il voto alle donne nel 1893?
+- Metti in ordine cronologico queste conquiste del voto femminile.
+- Perché il lavoro delle donne durante le guerre aiutò la loro lotta per il voto?
+- Perché il voto alle donne è considerato una tappa fondamentale per la democrazia?
+
+## Le voci contro il regime [lib-3-media-storia-antifascismo] · CONFINO
+concetti: La repressione degli oppositori; Antonio Gramsci; Gobetti e i Rosselli; Esilio e lotta clandestina
+- Che cos'era il confino?
+- Il Tribunale speciale per la difesa dello Stato giudicava gli oppositori politici del fascismo.
+- Quale opera scrisse Antonio Gramsci durante la prigionia?
+- Che cosa fondarono in esilio Carlo e Nello Rosselli?
+- L'isola di ___, luogo di confino, è la stessa dove fu scritto il Manifesto per un'Europa libera e unita.
+- Perché molti antifascisti scelsero l'esilio all'estero?
+- Metti in ordine cronologico questi fatti.
+- Perché è importante ricordare chi si oppose al fascismo quando era pericoloso farlo?
+
 ## Lenin e la rivoluzione russa [lib-3-media-storia-rivoluzione-russa] · SOVIET
 concetti: La Russia degli zar; La rivoluzione di febbraio; La rivoluzione d'ottobre; Guerra civile e URSS
 - Chi governava la Russia quando scoppiò la rivoluzione del 1917?
@@ -398,6 +794,28 @@ concetti: La Russia degli zar; La rivoluzione di febbraio; La rivoluzione d'otto
 - Chi si scontrò nella guerra civile russa?
 - Perché la Prima guerra mondiale favorì lo scoppio della rivoluzione in Russia?
 
+## Mandela contro l'apartheid [lib-3-media-storia-apartheid-e-mandela] · MANDELA
+concetti: L'apartheid; Nelson Mandela; La pressione del mondo; Il nuovo Sudafrica
+- Che cosa significa «apartheid»?
+- Durante l'apartheid i cittadini neri del Sudafrica, pur essendo la maggioranza, non potevano votare alle elez…
+- Per quanti anni Nelson Mandela rimase in prigione?
+- Mandela guidava il partito chiamato African National ___, che lottava contro l'apartheid.
+- Come reagì gran parte del mondo all'apartheid?
+- Che cosa accadde in Sudafrica nel 1994?
+- Metti in ordine cronologico questi eventi.
+- Dopo 27 anni di prigione Mandela scelse la riconciliazione invece della vendetta: perché fu una scelta così i…
+
+## Marna, Verdun e Somme [lib-3-media-storia-fronte-occidentale-grande-guerra] · VERDUN
+concetti: Il piano tedesco; La battaglia della Marna; Verdun e la Somme; Nuove armi
+- Attraverso quale paese neutrale la Germania attaccò la Francia nel 1914?
+- Quale conseguenza ebbe l'invasione del Belgio?
+- Nel settembre 1914 i Tedeschi furono fermati vicino a Parigi nella battaglia della ___.
+- Dopo la battaglia della Marna il fronte occidentale si bloccò e iniziò la guerra di trincea.
+- Che cosa avevano in comune le battaglie di Verdun e della Somme?
+- In quale battaglia furono usati per la prima volta i carri armati?
+- Metti in ordine cronologico questi eventi del fronte occidentale.
+- Perché sul fronte occidentale le offensive costavano tantissime vite ma conquistavano così poco terreno?
+
 ## Matteotti e la dittatura fascista [lib-3-media-storia-dittatura-fascista] · REGIME
 concetti: Legge Acerbo ed elezioni del 1924; Il delitto Matteotti; Le leggi fascistissime; I Patti Lateranensi
 - Che cosa prevedeva la legge Acerbo?
@@ -408,6 +826,28 @@ concetti: Legge Acerbo ed elezioni del 1924; Il delitto Matteotti; Le leggi fasc
 - Che cos'era l'OVRA?
 - Metti in ordine cronologico questi eventi.
 - Perché i Patti Lateranensi furono un grande successo politico per Mussolini?
+
+## Motori, auto e primi aerei [lib-3-media-storia-motori-auto-e-aerei] · MOTORE
+concetti: Il motore a scoppio; L'automobile; Il primo volo; Navi e transatlantici
+- Quale carburante usava il motore a scoppio?
+- Perché il motore a scoppio era più adatto della macchina a vapore per le automobili?
+- La FIAT, una delle prime fabbriche di automobili italiane, nacque a Torino nel 1899.
+- Una delle prime automobili con motore a scoppio fu costruita nel 1886 dal tedesco Karl ___.
+- Chi realizzò nel 1903 il primo volo con un aeroplano a motore?
+- Il primo volo dei fratelli Wright durò diverse ore e attraversò l'oceano Atlantico.
+- Che cosa accadde al Titanic nel 1912?
+- In che modo automobili e aerei cambiarono la vita delle persone nel Novecento?
+
+## Napoleone III e la Comune [lib-3-media-storia-napoleone-terzo-e-comune] · COMUNE
+concetti: Dal presidente all'imperatore; Il Secondo Impero; La caduta a Sedan; La Comune di Parigi
+- Di chi era nipote Napoleone III?
+- Prima di diventare imperatore, Luigi Napoleone era stato eletto presidente della Repubblica francese.
+- Metti in ordine le tappe della carriera di Napoleone III.
+- Quale grande trasformazione avvenne a Parigi durante il Secondo Impero?
+- In quale guerra italiana Napoleone III aiutò il Piemonte?
+- Dopo la sconfitta di Sedan, a Parigi fu proclamata la Terza ___.
+- Che cos'era la Comune di Parigi?
+- Perché una sconfitta militare, come quella di Sedan, può far cadere un intero regime?
 
 ## Nasce il Regno d'Italia [lib-3-media-storia-regno-d-italia-1861] · REGNO
 concetti: La proclamazione del 1861; Le terre ancora escluse; Le tre capitali; La Destra storica
@@ -430,6 +870,17 @@ concetti: La neutralità del 1914; I neutralisti; Gli interventisti; Il Patto di
 - Perché i socialisti erano contrari alla guerra?
 - Metti in ordine cronologico questi eventi.
 - La maggioranza del Parlamento era neutralista, eppure l'Italia entrò in guerra. Come fu possibile?
+
+## Nordisti contro sudisti [lib-3-media-storia-guerra-di-secessione] · LINCOLN
+concetti: Due Americhe diverse; La secessione; La guerra civile; L'abolizione della schiavitù
+- Su quale attività si basava soprattutto l'economia del Sud degli Stati Uniti?
+- La guerra di secessione iniziò perché alcuni Stati del Sud si staccarono dagli Stati Uniti.
+- Quale fatto spinse gli Stati del Sud alla secessione?
+- Perché alla fine il Nord vinse la guerra?
+- La battaglia del 1863 considerata la svolta della guerra fu quella di ___.
+- Metti in ordine cronologico questi eventi.
+- Che cosa stabilì il Tredicesimo emendamento della Costituzione americana?
+- Perché le differenze economiche tra Nord e Sud contribuirono a una guerra?
 
 ## ONU e diritti umani [lib-3-media-storia-onu-e-diritti-umani] · DIRITTI
 concetti: Il bilancio della guerra; Le Nazioni Unite; Il processo di Norimberga; La Dichiarazione universale
@@ -475,6 +926,17 @@ concetti: La terza guerra d'indipendenza; La questione romana; La breccia di Por
 - Che cosa chiedeva ai cattolici il «non expedit» del papa?
 - Perché la presa di Roma aprì un conflitto tra Stato italiano e Chiesa? Come fu risolto?
 
+## Proibizionismo e paura dello straniero [lib-3-media-storia-proibizionismo-e-sacco-e-vanzetti] · DIVIETO
+concetti: Il proibizionismo; Gangster e contrabbando; Chiusura e paura; Il caso Sacco e Vanzetti
+- Che cosa vietava il proibizionismo negli Stati Uniti?
+- Quale conseguenza ebbe il proibizionismo?
+- Il gangster più famoso dell'epoca del proibizionismo, attivo a Chicago, era Al ___.
+- Il proibizionismo fu abolito nel 1933.
+- Chi colpivano soprattutto le leggi americane sulle quote d'immigrazione?
+- Perché il processo a Sacco e Vanzetti suscitò proteste in tutto il mondo?
+- Metti in ordine cronologico questi fatti.
+- Che cosa insegna il caso Sacco e Vanzetti sul rischio dei pregiudizi nella giustizia?
+
 ## Propaganda e consenso nel Ventennio [lib-3-media-storia-propaganda-e-consenso-fascista] · LUCE
 concetti: La propaganda; I giovani inquadrati; Il tempo libero; Economia e autarchia
 - Che cosa produceva l'Istituto Luce?
@@ -485,6 +947,17 @@ concetti: La propaganda; I giovani inquadrati; Il tempo libero; Economia e autar
 - A che cosa serviva l'Opera nazionale dopolavoro?
 - Perché il regime controllava giornali, radio e cinema?
 - Perché un regime totalitario si preoccupa tanto di educare bambini e ragazzi?
+
+## Ripasso: dal 1815 al 1870 [lib-3-media-storia-ripasso-risorgimento] · UNITA
+concetti: Restaurazione e moti; Il Quarantotto; Cavour e il 1859; Dai Mille a Roma
+- Quale potenza dominava gran parte dell'Italia dopo il 1815?
+- Lo Statuto Albertino, concesso nel 1848, rimase in vigore in Piemonte anche dopo la sconfitta nella prima gue…
+- Perché il Piemonte divenne il centro del movimento per l'unità dopo il 1849?
+- Nel 1859, per vincere l'Austria, Cavour si alleò con la ___ di Napoleone III.
+- Come si concluse la spedizione dei Mille dal punto di vista politico?
+- Metti in ordine cronologico queste tappe dell'unificazione.
+- Perché i moti degli anni Venti e Trenta dell'Ottocento fallirono?
+- Confronta le strade di Mazzini, Cavour e Garibaldi verso l'unità: in che cosa erano diverse e come contribuir…
 
 ## Ripasso: il secolo breve [lib-3-media-storia-ripasso-novecento] · SECOLO
 concetti: Dall'Unità alla Grande guerra; I totalitarismi; La Seconda guerra mondiale; L'Italia repubblicana; Dalla guerra fredda all'Europa unita
@@ -508,6 +981,28 @@ concetti: Franklin D. Roosevelt; Il New Deal; Le tutele sociali; Le idee di Keyn
 - Quale diritto dei lavoratori fu rafforzato dal New Deal?
 - Perché si dice che il New Deal cambiò il ruolo dello Stato nell'economia?
 
+## Schengen, Erasmus e cittadini europei [lib-3-media-storia-schengen-ed-erasmus] · ERASMUS
+concetti: Lo spazio Schengen; Il programma Erasmus; La cittadinanza europea; Diritti in tutta l'Unione
+- Che cosa permette lo spazio Schengen?
+- A chi si rivolge principalmente il programma Erasmus?
+- Il programma Erasmus è nato nel 1987.
+- La cittadinanza europea è stata introdotta dal trattato di ___ del 1992.
+- Che cosa può fare un cittadino italiano grazie alla cittadinanza europea?
+- Una ragazza italiana che vive a Madrid a quali elezioni spagnole può votare?
+- Metti in ordine cronologico queste tappe.
+- Perché secondo te studiare o vivere per un periodo in un altro paese europeo aiuta a costruire l'Europa unita?
+
+## Sirene, rifugi e tessere [lib-3-media-storia-vita-civile-in-guerra] · TESSERA
+concetti: La guerra sulle città; L'oscuramento e lo sfollamento; Il razionamento; La borsa nera
+- Che cosa annunciava il suono delle sirene durante la guerra?
+- Nella Seconda guerra mondiale i bombardamenti colpirono anche le città e la popolazione civile.
+- Perché di notte era obbligatorio l'oscuramento?
+- Le famiglie che lasciavano le città bombardate per rifugiarsi in campagna erano dette ___.
+- A che cosa serviva la tessera annonaria?
+- Che cos'era la «borsa nera»?
+- Perché la borsa nera rendeva la guerra ancora più ingiusta?
+- Immagina la giornata di un ragazzo della tua età in una città italiana nel 1943: che cosa sarebbe diverso dal…
+
 ## Società segrete e Giovine Italia [lib-3-media-storia-carboneria-e-mazzini] · CARBONE
 concetti: Restaurazione e società segrete; I moti degli anni Venti e Trenta; Mazzini e la Giovine Italia; I moderati e Gioberti
 - Che cosa decisero le grandi potenze al Congresso di Vienna del 1815?
@@ -518,6 +1013,17 @@ concetti: Restaurazione e società segrete; I moti degli anni Venti e Trenta; Ma
 - Che cosa proponeva Vincenzo Gioberti per risolvere la questione italiana?
 - Metti in ordine cronologico questi eventi.
 - Secondo Mazzini perché le insurrezioni dei carbonari erano fallite? Che cosa propose di diverso?
+
+## Sport, medaglie e propaganda [lib-3-media-storia-sport-e-regimi] · OWENS
+concetti: Lo sport come propaganda; Le Olimpiadi di Berlino; I successi italiani; Gino Bartali
+- Perché i regimi totalitari davano tanta importanza allo sport?
+- In quale città si svolsero le Olimpiadi del 1936?
+- Jesse Owens, atleta afroamericano, vinse quattro medaglie d'oro alle Olimpiadi del 1936.
+- Perché le vittorie di Owens a Berlino ebbero un forte significato?
+- Negli anni Trenta l'Italia vinse due volte il campionato del mondo di ___.
+- Come aiutò gli ebrei perseguitati il campione Gino Bartali?
+- Metti in ordine cronologico questi eventi sportivi.
+- Che cosa significa essere riconosciuti «Giusti tra le nazioni» e perché Bartali lo merita?
 
 ## Stalin e i piani quinquennali [lib-3-media-storia-stalin-e-l-urss] · GULAG
 concetti: L'ascesa di Stalin; I piani quinquennali; La collettivizzazione; Terrore e culto del capo
@@ -530,6 +1036,17 @@ concetti: L'ascesa di Stalin; I piani quinquennali; La collettivizzazione; Terro
 - Che cosa si intende per «culto della personalità»?
 - Perché si dice che l'URSS di Stalin divenne una potenza industriale a un prezzo umano altissimo?
 
+## Studenti e operai in piazza [lib-3-media-storia-sessantotto-e-autunno-caldo] · CORTEO
+concetti: La scuola media unica; Il Sessantotto; L'autunno caldo; Lo Statuto dei lavoratori
+- Che cosa cambiò con la riforma della scuola media del 1962?
+- Il Sessantotto fu un movimento di protesta che coinvolse studenti di molti paesi, non solo dell'Italia.
+- Che cosa chiedevano gli studenti nel Sessantotto?
+- Le grandi lotte operaie del 1969 sono ricordate come l'autunno ___.
+- Che cos'è lo Statuto dei lavoratori del 1970?
+- Perché alla fine degli anni Sessanta gli operai protestavano nonostante il boom economico?
+- Metti in ordine cronologico questi fatti.
+- In che modo la scuola media unica contribuì a cambiare la società italiana?
+
 ## Telefono, radio e cinematografo [lib-3-media-storia-invenzioni-fine-ottocento] · RADIO
 concetti: Il telefono; La radio di Marconi; La luce elettrica; Il cinematografo; Le scoperte mediche
 - A quale invenzione è legato il nome di Guglielmo Marconi?
@@ -540,6 +1057,17 @@ concetti: Il telefono; La radio di Marconi; La luce elettrica; Il cinematografo;
 - Per quale scoperta è ricordato Louis Pasteur?
 - Metti in ordine cronologico queste invenzioni.
 - Scegli una delle invenzioni di fine Ottocento e spiega come cambiò la vita delle persone.
+
+## Trieste contesa [lib-3-media-storia-trieste-contesa] · TRIESTE
+concetti: Il trattato di pace del 1947; Il Territorio Libero di Trieste; Il ritorno all'Italia; Il confine definitivo
+- Che cosa perse l'Italia con il trattato di pace del 1947?
+- Con il trattato del 1947 il Dodecaneso, arcipelago dell'Egeo, passò alla Grecia.
+- Come fu diviso il Territorio Libero di Trieste?
+- Nel 1954, con il Memorandum di ___, la città di Trieste tornò all'Italia.
+- Perché la questione di Trieste era legata alla guerra fredda?
+- Metti in ordine cronologico queste tappe.
+- Che cosa stabilì il trattato di Osimo del 1975?
+- Come è cambiato il significato del confine tra Italia e Slovenia dalla guerra fredda a oggi?
 
 ## Un paese unito ma diviso [lib-3-media-storia-problemi-dell-italia-unita] · DIVARIO
 concetti: Analfabetismo e dialetti; La questione meridionale; Il brigantaggio; La piemontesizzazione
@@ -552,6 +1080,17 @@ concetti: Analfabetismo e dialetti; La questione meridionale; Il brigantaggio; L
 - Perché nel Sud la leva militare obbligatoria fu accolta con ostilità?
 - Perché si può dire che nel 1861 l'Italia era unita politicamente ma non ancora economicamente e socialmente?
 
+## Una Società per la pace [lib-3-media-storia-societa-delle-nazioni] · GINEVRA
+concetti: Un'idea di Wilson; Le assenze pesanti; Senza un esercito; Il fallimento
+- Qual era lo scopo principale della Società delle Nazioni?
+- Gli Stati Uniti, il cui presidente aveva proposto la Società delle Nazioni, non ne fecero mai parte.
+- Quale presidente americano propose la nascita della Società delle Nazioni?
+- Quale strumento poteva usare la Società contro uno Stato aggressore?
+- Nel 1935 la Società delle Nazioni applicò sanzioni all'Italia per l'invasione dell'___.
+- Metti in ordine cronologico questi eventi.
+- Perché la Società delle Nazioni non riuscì a impedire le aggressioni degli anni Trenta?
+- Che cosa impararono i fondatori dell'ONU dal fallimento della Società delle Nazioni?
+
 ## Verso la Seconda guerra mondiale [lib-3-media-storia-verso-la-seconda-guerra-mondiale] · MONACO
 concetti: La guerra civile spagnola; L'espansione di Hitler; Monaco e l'appeasement; Il patto con l'URSS e la Polonia
 - Chi vinse la guerra civile spagnola?
@@ -562,3 +1101,14 @@ concetti: La guerra civile spagnola; L'espansione di Hitler; Monaco e l'appeasem
 - Quale evento fece scoppiare la Seconda guerra mondiale?
 - Metti in ordine cronologico questi eventi.
 - Perché la politica dell'appeasement non riuscì a evitare la guerra?
+
+## Vienna 1815, l'Europa restaurata [lib-3-media-storia-congresso-di-vienna] · VIENNA
+concetti: Il Congresso di Vienna; Legittimità ed equilibrio; La Santa Alleanza; L'Italia dopo il 1815
+- Perché nel 1814 i rappresentanti delle grandi potenze si riunirono a Vienna?
+- Il protagonista del Congresso di Vienna fu il ministro austriaco Metternich.
+- Che cosa stabiliva il principio di legittimità?
+- Austria, Prussia e Russia firmarono un patto per difendere i troni chiamato Santa ___.
+- Quale territorio italiano passò sotto il dominio diretto dell'Austria?
+- Quale territorio ottenne il Regno di Sardegna nel 1815?
+- Perché il principio di equilibrio era importante per i vincitori?
+- Secondo te perché le decisioni di Vienna, prese senza ascoltare i popoli, portarono presto a moti e rivoluzio…

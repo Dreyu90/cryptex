@@ -1,5 +1,5 @@
-# 2ª media · Inglese: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 2ª media · Inglese: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## A bottle of, a slice of [lib-2-media-inglese-contenitori-quantita] · BOTTLE
@@ -13,6 +13,17 @@ concetti: Contare i non numerabili; I contenitori; Le porzioni; Il plurale sul c
 - Quale frase è corretta?
 - Scrivi in inglese una lista della spesa con almeno quattro prodotti non numerabili, ognuno con un contenitore…
 
+## A chicken o chicken? [lib-2-media-inglese-nomi-doppio-significato-chicken] · CHICKEN
+concetti: Animale o carne; Glass e a glass; Paper e a paper; Hair e a hair
+- Che cosa significa 'I like chicken'?
+- Il bicchiere è fatto di vetro: The ___ is made of glass.
+- 'She has long hair' è corretto, mentre 'She has long hairs' è sbagliato per indicare la capigliatura.
+- Che cosa significa 'I bought a paper'?
+- Ci sono tre polli nella fattoria. Come lo dici?
+- Ho bisogno di carta per stampare. Come lo dici?
+- C'è un capello nella mia zuppa! Come lo dici?
+- Spiega la differenza tra 'a glass' e 'glass' con due frasi d'esempio in inglese.
+
 ## A few, a little: un po' [lib-2-media-inglese-a-few-a-little] · LITTLE
 concetti: A few con i numerabili; A little coi non numerabili; Few e little senza a
 - Aspetta qualche minuto: Wait ___ minutes.
@@ -23,6 +34,28 @@ concetti: A few con i numerabili; A little coi non numerabili; Few e little senz
 - Che differenza c'è tra 'I have a few friends' e 'I have few friends'?
 - La nonna dice: 'Add a little salt to the pasta water.' Che cosa devi fare?
 - Prepari un panino: scrivi in inglese tre frasi su che cosa ci metti, usando a few e a little. Spiega come sce…
+
+## A, an, the o niente? [lib-2-media-inglese-articoli-a-an-the-zero] · ARTICLE
+concetti: A e an; The per le cose note; Nessun articolo per il generale; Mai a con i non numerabili
+- Ho mangiato una mela: I ate ___ apple.
+- Quale frase parla della musica in generale?
+- In 'I saw a dog. The dog was black' si usa the la seconda volta perché il cane è già stato nominato.
+- Quale frase è corretta?
+- Quale si dice con 'an'?
+- Quale frase è corretta?
+- I gatti sono animali indipendenti. Come lo dici in generale?
+- Spiega perché si dice 'I like chocolate' ma 'The chocolate in this cake is delicious'.
+
+## Advice, news: niente plurale! [lib-2-media-inglese-a-piece-of-advice-news] · ADVICE
+concetti: Non numerabili a sorpresa; Niente a e niente -s; A piece of; News vuole il singolare
+- Ho molti compiti: I've got a lot of ___.
+- Come si dice 'una notizia'?
+- La frase 'The news are very interesting' è corretta.
+- Quale frase è corretta?
+- In albergo: 'Dove posso lasciare i bagagli?'
+- Quale di questi nomi è non numerabile in inglese?
+- Ti hanno dato due informazioni utili. Come lo dici?
+- Spiega a un compagno perché 'I've got three luggages' è sbagliato e come si corregge. Fai un altro esempio co…
 
 ## Al ristorante: ordina in inglese [lib-2-media-inglese-al-ristorante-ordinare] · MENU
 concetti: Il cameriere chiede; Ordinare con gentilezza; Le parti del menu; Some, a, an nell'ordine
@@ -35,6 +68,17 @@ concetti: Il cameriere chiede; Ordinare con gentilezza; Le parti del menu; Some,
 - Metti in ordine il dialogo al ristorante.
 - Scrivi in inglese che cosa diresti al cameriere per ordinare un primo, un dolce e una bevanda in modo gentile…
 
+## Animali da record: il più veloce [lib-2-media-inglese-superlativi-animali-record] · CHEETAH
+concetti: Superlativi e record; Record del mondo animale; Nomi degli animali; Comparativi fra animali
+- Come si dice 'giraffa' in inglese?
+- The cheetah is the ___ land animal in the world.
+- La balenottera azzurra (blue whale) è l'animale più grande del mondo.
+- Quale animale è 'the tallest animal in the world'?
+- Quale frase è corretta?
+- Quale frase descrive bene una tartaruga (tortoise)?
+- Quale superlativo di 'big' è scritto bene?
+- Scegli due animali e confrontali in inglese con un comparativo; poi scrivi un record con un superlativo.
+
 ## As tall as: alla pari [lib-2-media-inglese-comparativo-uguaglianza-as-as] · EQUAL
 concetti: As aggettivo as; Not as ... as; L'aggettivo non cambia
 - Che cosa significa 'Anna is as old as Marco'?
@@ -45,6 +89,17 @@ concetti: As aggettivo as; Not as ... as; L'aggettivo non cambia
 - Quale frase è corretta?
 - Metti in ordine le parole: 'Una bici non è veloce quanto un'auto.'
 - Confronta due persone che conosci con una frase con as ... as e una con not as ... as. Poi riscrivi la frase …
+
+## Before e after: prima o dopo? [lib-2-media-inglese-past-before-after-sequenze] · BEFORE
+concetti: Before più azione; After più azione; Before e after con -ing; Then e later
+- Prima di colazione mi sono lavato: ___ breakfast I had a shower.
+- Quale frase significa 'Dopo la scuola abbiamo giocato a calcio'?
+- La frase 'After to eat, I went out' è corretta.
+- Quale frase è corretta?
+- Luca ha fatto i compiti e poi ha guardato la TV. Quale frase è vera?
+- Quale parola completa bene: 'We had lunch at one. Two hours ___, we went to the beach.'
+- Metti in ordine il racconto della mattina di Sam.
+- Scrivi in inglese una frase su ieri con before + -ing e una con after + -ing. Spiega quale azione è avvenuta …
 
 ## Bigger, happier: occhio allo spelling [lib-2-media-inglese-comparativi-spelling] · BIGGER
 concetti: Aggettivi che finiscono in -e; Raddoppio della consonante; La y diventa i; Nessun cambiamento
@@ -57,6 +112,50 @@ concetti: Aggettivi che finiscono in -e; Raddoppio della consonante; La y divent
 - Quale frase è corretta?
 - Un compagno ha scritto: 'The sun is hoter today and the exercise is more easy.' Correggi i due errori e spieg…
 
+## Bored o boring? Dipende! [lib-2-media-inglese-aggettivi-ed-ing] · BORED
+concetti: Aggettivi in -ed; Aggettivi in -ing; Coppie frequenti; Usarli nei racconti
+- Mi annoio: I'm ___.
+- Il film era noioso. Come lo dici?
+- La frase 'This book is very interesting' è corretta.
+- Quale coppia è corretta?
+- Che cosa significa 'I'm tired'?
+- Perché 'I'm boring' è una frase strana per dire che ti annoi?
+- Il film dell'orrore era spaventoso. Quale aggettivo completa 'The horror film was ___'?
+- Racconta in inglese una gita con due frasi: usa un aggettivo in -ing per la gita e uno in -ed per te. Spiega …
+
+## Can I? Could you? Chiedere gentilmente [lib-2-media-inglese-can-could-may-richieste-permessi] · PLEASE
+concetti: Can I per il permesso; May I, più formale; Could you per i favori; Rispondere a una richiesta
+- Vuoi chiedere alla prof il permesso di andare in bagno. Quale frase è corretta?
+- Potresti aprire la finestra, per favore? ___ you open the window, please?
+- 'May I come in?' è un modo formale e gentile per chiedere se puoi entrare.
+- Vuoi in prestito la penna di un compagno. Quale richiesta è la più gentile?
+- Un compagno ti chiede: 'Can I borrow your ruler?'. Vuoi dire di sì. Che cosa rispondi?
+- In una sala d'attesa vuoi chiedere a una signora che non conosci se puoi sederti accanto a lei. Quale frase è…
+- Al cinema qualcuno ti chiede: 'Can I sit here?', ma il posto è del tuo amico, che è andato a prendere i popco…
+- Sei in gita a Londra. Scrivi in inglese due richieste gentili: una per chiedere il permesso (con Can I o May …
+
+## Carattere: chi è più gentile? [lib-2-media-inglese-aggettivi-personalita-confronti] · KIND
+concetti: Aggettivi del carattere; Coppie di contrari; Confrontare i caratteri; Falsi amici
+- Che cosa significa 'shy'?
+- Il contrario di lazy (pigro) è ___.
+- 'Sensible' significa 'sensibile'.
+- Quale comparativo è corretto?
+- Quale comparativo di 'generous' è corretto?
+- Marta non presta mai niente a nessuno. Com'è?
+- Un compagno ti aiuta sempre con i compiti senza chiedere nulla. Quale aggettivo lo descrive meglio?
+- Descrivi in inglese il carattere di un tuo amico con due aggettivi e confrontalo con te con un comparativo.
+
+## Che taglia porti? Shopping [lib-2-media-inglese-vestiti-shopping-taglie] · SIZE
+concetti: Chiedere la taglia; Provare i vestiti; Fit e suit; Plurali dei vestiti
+- Che taglia porti? What ___ are you?
+- Come chiedi di provare una giacca?
+- La frase 'These trousers is too long' è corretta.
+- La maglietta che hai provato è proprio della taglia giusta. Che cosa dici?
+- La tua amica prova un vestito verde e il colore le dona molto. Che cosa le dici?
+- Dove ti provi i vestiti in un negozio?
+- Come si dice 'un paio di jeans'?
+- Scrivi in inglese un breve dialogo in un negozio di vestiti: chiedi di provare qualcosa e spiega che non ti v…
+
 ## Che tempo farà domani? [lib-2-media-inglese-previsioni-meteo] · WEATHER
 concetti: Aggettivi del tempo; Il soggetto it; Le temperature; Previsioni con will
 - Come si dice 'C'è il sole'?
@@ -67,6 +166,17 @@ concetti: Aggettivi del tempo; Il soggetto it; Le temperature; Previsioni con wi
 - Il meteo dice: 'Tomorrow it will be windy and cloudy in the north.' Che cosa ti porti se vai al nord?
 - Ci sono 35 gradi. Quale frase è adatta?
 - Sei il meteorologo della TV: scrivi in inglese le previsioni di domani per la tua città, con almeno tre frasi…
+
+## Ci sarà, sarà: will be [lib-2-media-inglese-future-will-be-there-will-be] · THERE
+concetti: Will be; There will be; Won't be; Domande con will be
+- Domani sarà nuvoloso: Tomorrow ___ cloudy.
+- Come si dice 'Ci saranno molte persone'?
+- 'It won't be easy' significa 'Non sarà facile'.
+- Quale domanda è corretta?
+- Rispondi di sì a 'Will there be a test on Friday?'
+- Quale frase contiene un errore?
+- Che cosa significa 'There won't be any homework this weekend'?
+- Descrivi in inglese, con tre frasi, la festa di fine anno della tua classe usando will be e there will be.
 
 ## Cosa stavi facendo? L'alibi [lib-2-media-inglese-past-continuous-negativo-domande] · ALIBI
 concetti: Forma negativa; Domande sì o no; Risposte brevi; Domande con Wh-
@@ -90,6 +200,17 @@ concetti: Could, passato di can; La negativa couldn't; Forma base dopo could; Do
 - Metti in ordine le parole: 'Non potevamo uscire perché pioveva.'
 - Scrivi in inglese due cose che sapevi fare da piccolo e una che non sapevi fare, usando could e couldn't. Per…
 
+## Descrivi la foto della gita [lib-2-media-inglese-past-continuous-descrivere-foto] · PHOTO
+concetti: Chi stava facendo cosa; Parole di posizione; Indossare al passato; There was e there were
+- Nella foto Marta sorrideva. Come lo dici?
+- Sullo sfondo c'era un castello: In the ___ there was a castle.
+- 'He was wearing a blue cap' significa 'Indossava un berretto blu'.
+- Nella foto c'erano tre cani. Quale frase è corretta?
+- Quale frase NON descrive bene una foto al passato?
+- Vuoi dire che il tuo amico era a sinistra. Quale frase usi?
+- Perché in una descrizione si dice 'there were' con 'people'?
+- Descrivi in inglese, con due o tre frasi, una foto di una gita scolastica: chi c'era e che cosa stavano facen…
+
 ## Did you? Yes, I did! [lib-2-media-inglese-past-simple-domande-risposte-brevi] · ASKED
 concetti: Did + soggetto + base; Risposte brevi con did; Domande con was e were; Did vale per tutti
 - ___ you play football yesterday?
@@ -112,6 +233,28 @@ concetti: Didn't + forma base; Il verbo non cambia; To be fa da solo; Uguale per
 - Metti in ordine le parole: 'Non abbiamo vinto la partita.'
 - Spiega a un compagno perché si dice 'I didn't see you' e non 'I didn't saw you'.
 
+## Email a un amico: il weekend [lib-2-media-inglese-past-email-raccontare-weekend] · EMAIL
+concetti: Apertura e chiusura; Raccontare il weekend; Domande all'amico; Frasi utili
+- Come puoi cominciare un'email informale a un amico?
+- Sabato sono andato al cinema: On Saturday I ___ to the cinema.
+- 'How was your weekend?' è una domanda adatta per un'email a un amico.
+- Che cosa significa 'Thanks for your email'?
+- Quale frase racconta bene il weekend passato?
+- Quale domanda all'amico è corretta?
+- Metti in ordine le parti di un'email informale.
+- Scrivi in inglese tre frasi di un'email a un amico per raccontare il tuo ultimo weekend, con un saluto inizia…
+
+## English breakfast: cosa c'è? [lib-2-media-inglese-english-breakfast-colazione] · BACON
+concetti: La colazione inglese; Bevande del mattino; Numerabili e non a colazione; Fare colazione
+- Faccio colazione alle 7: I ___ breakfast at 7.
+- Che cosa sono i 'baked beans'?
+- 'Butter' è un nome non numerabile.
+- Come chiedi una tazza di tè?
+- Quale frase è corretta?
+- Quale alimento NON fa parte della full English breakfast tradizionale?
+- Perché si dice 'some jam' e non 'a jam'?
+- Confronta in inglese, con due o tre frasi, una colazione italiana tipica con una full English breakfast.
+
 ## Famiglie di verbi irregolari [lib-2-media-inglese-irregolari-per-famiglie] · BOUGHT
 concetti: Famiglia -ought e -aught; Forma che non cambia; Cambio di vocale; Read: stessa grafia
 - Qual è il past simple di 'buy'?
@@ -133,6 +276,17 @@ concetti: Per cominciare; Per continuare; Per finire; Sorpresa e tempo
 - In una storia leggi: 'We were watching TV. ___, the lights went out.' Quale parola è più adatta?
 - Perché in un racconto si usano parole come first, then e finally?
 - Racconta in inglese la tua ultima domenica con almeno quattro frasi al past simple, usando first, then, after…
+
+## Flew, drove, rode: in viaggio [lib-2-media-inglese-past-simple-verbi-viaggio] · FLEW
+concetti: Verbi irregolari del viaggio; Get on e get off; Leave e arrive; Ride e drive
+- Qual è il past simple di 'fly'?
+- Siamo saliti sul treno alle nove: We got ___ the train at nine.
+- Per dire 'scendere dall'autobus' si dice 'get off the bus'.
+- Ieri sono andato in bici al parco. Quale frase è corretta?
+- Quale frase significa 'Il treno è partito alle otto'?
+- Quale coppia è sbagliata?
+- Metti in ordine le fasi di un viaggio in aereo raccontato al passato.
+- Racconta in inglese, con due frasi al past simple, un viaggio che hai fatto: con quale mezzo sei partito e qu…
 
 ## Going to: i miei progetti [lib-2-media-inglese-going-to-intenzioni] · PLANS
 concetti: Forma di going to; Intenzioni già decise; Negativa e domande
@@ -167,6 +321,17 @@ concetti: Previsioni con prove; Look! e i segnali; Sta per succedere
 - Metti in ordine le parole: 'Guarda! Quel cane sta per saltare nel lago!'
 - Descrivi in inglese due situazioni in cui vedi un segnale e fai una previsione con going to (per esempio il c…
 
+## Have you ever...? Le esperienze [lib-2-media-inglese-present-perfect-ever-never] · EVER
+concetti: Present perfect per le esperienze; Ever nelle domande; Never per dire mai; Participi frequenti
+- Che cosa significa 'Have you ever been to Paris?'
+- Non ho mai mangiato il sushi: I have ___ eaten sushi.
+- Alla terza persona singolare si usa 'has': She has visited Rome.
+- Qual è il participio passato di 'see'?
+- Quale domanda è corretta?
+- Rispondi negativamente a 'Have you ever flown?'
+- Quale frase è corretta?
+- Scrivi in inglese due esperienze che hai fatto e una che non hai mai fatto, usando il present perfect.
+
 ## How much? How many? [lib-2-media-inglese-how-much-how-many] · AMOUNT
 concetti: How many più plurale; How much più non numerabile; Rispondere sulle quantità
 - Quante sorelle hai? How ___ sisters have you got?
@@ -178,6 +343,17 @@ concetti: How many più plurale; How much più non numerabile; Rispondere sulle 
 - 'How many apples are there?' 'Not many.' Che cosa vuol dire la risposta?
 - Prepari la lista della spesa per una festa. Scrivi in inglese due domande con How much e due con How many per…
 
+## Ieri alle otto stavo... [lib-2-media-inglese-past-continuous-orari-ieri] · CLOCK
+concetti: At più ora; Azione in corso a un'ora; Yesterday e last night; Domande sugli orari
+- Alle sette stavo dormendo: ___ seven o'clock I was sleeping.
+- Ieri alle 16 eri in piscina e stavi nuotando. Come lo dici?
+- 'What were you doing at 10 pm?' chiede che cosa stavi facendo alle 22.
+- Quale domanda è corretta?
+- Quale frase ha l'espressione di tempo in un posto naturale?
+- Alle 20 Luca e Sara stavano guardando un film. Quale frase è corretta?
+- Metti in ordine la giornata di ieri di Anna, dalla mattina alla sera.
+- Un poliziotto ti chiede: 'What were you doing at 6 pm yesterday?'. Rispondi in inglese con una frase completa…
+
 ## Il lavoro dei miei sogni [lib-2-media-inglese-lavori-sogni-futuro] · DREAM
 concetti: Nomi dei lavori; A o an davanti; Parlare dei progetti futuri; Che cosa fa e dove
 - Come si dice 'veterinario' in inglese?
@@ -188,6 +364,17 @@ concetti: Nomi dei lavori; A o an davanti; Parlare dei progetti futuri; Che cosa
 - Quale frase significa 'Quando sarò grande farò il pilota'?
 - Metti in ordine le parole: 'Mio fratello vuole diventare architetto.'
 - Che lavoro vorresti fare da grande? Rispondi in inglese con due o tre frasi: che lavoro, dove si svolge e per…
+
+## Il treno parte alle 9 [lib-2-media-inglese-present-simple-orari-futuri] · TIMES
+concetti: Present simple per gli orari; Verbi tipici; La -s alla terza persona; Domande sugli orari
+- Il film inizia alle 20: The film ___ at 8 pm.
+- Perché si dice 'The train leaves at 9 tomorrow' con il present simple?
+- La frase 'The museum open at 10' è corretta.
+- Quale domanda è corretta?
+- Quale verbo NON è tipico degli orari?
+- La lezione di inglese finisce alle 11. Quale frase è corretta?
+- Quale frase usa il present simple per un orario fisso?
+- Scrivi in inglese il programma della tua prossima gita con tre orari fissi (partenza, apertura del museo, rit…
 
 ## L'agenda: present continuous futuro [lib-2-media-inglese-present-continuous-futuro] · DIARY
 concetti: Impegni già fissati; Serve un'espressione di tempo; Domande sui programmi
@@ -211,6 +398,17 @@ concetti: Il suono /ɪd/; Il suono /t/; Il suono /d/; La e non si legge
 - Quale gruppo contiene solo verbi in cui la -ed suona /t/?
 - Leggi ad alta voce 'jumped', 'played' e 'painted'. Spiega perché la -ed suona in modo diverso nei tre verbi.
 
+## La partita di ieri: cronaca [lib-2-media-inglese-cronaca-partita-sport] · SCORED
+concetti: Verbi della partita; Il risultato; Persone dello sport; Raccontare la partita
+- Qual è il past simple di 'win'?
+- L'arbitro ha fischiato la fine: The ___ blew the final whistle.
+- 'The match ended 1-1' significa che la partita è finita in pareggio.
+- Ieri abbiamo pareggiato. Come lo dici?
+- Quale frase significa che la squadra ha perso?
+- Quale frase usa bene i due tempi?
+- Metti in ordine la cronaca della partita.
+- Scrivi in inglese una cronaca di tre frasi di una partita vera o inventata, con il risultato e almeno due ver…
+
 ## Le regole dell'-ing [lib-2-media-inglese-spelling-ing] · RUNNING
 concetti: Regola base; La e finale cade; Raddoppio della consonante; -ie diventa -y
 - Come si scrive la forma -ing di 'read'?
@@ -233,6 +431,50 @@ concetti: Less ... than; The least; Con gli aggettivi brevi
 - Metti in ordine le parole: 'Questo esercizio è meno noioso di quello.'
 - Pensa a tre sport. Scrivi in inglese quale per te è il più faticoso e quale il meno faticoso (usa tiring), co…
 
+## Mangiare sano in inglese [lib-2-media-inglese-alimentazione-sana-gruppi] · HEALTHY
+concetti: Gruppi di alimenti; Healthy e unhealthy; Numerabili e non; Consigli con should
+- Che cosa significa 'healthy'?
+- Il riso è non numerabile: I'd like some ___.
+- Pasta e pane sono ricchi di carboidrati (carbohydrates).
+- Quale alimento è ricco di proteine?
+- Quale consiglio è scritto bene?
+- Quale frase è corretta?
+- Perché frutta e verdura sono importanti?
+- Dai in inglese due consigli a un amico che mangia solo patatine e merendine, usando should e should not (shou…
+
+## Me, him, them: pronomi oggetto [lib-2-media-inglese-pronomi-complemento] · THEM
+concetti: I pronomi oggetto; Dopo il verbo; Dopo le preposizioni; Soggetto o oggetto
+- Lo conosco: I know ___.
+- Vieni con noi? Quale frase è corretta?
+- La frase 'Me and him went to the cinema' è corretta nell'inglese standard scolastico.
+- Quale pronome sostituisce 'my sisters' in 'I love my sisters'?
+- Quale frase è corretta?
+- Quale coppia soggetto-oggetto è corretta?
+- Ho chiamato Sara ieri. Sostituisci Sara con un pronome.
+- Spiega perché si dice 'She likes me' ma 'I like her'. Scrivi poi una frase con due pronomi, uno soggetto e un…
+
+## Mice, feet, children: plurali strani [lib-2-media-inglese-plurali-irregolari] · MICE
+concetti: Plurali irregolari comuni; Cambio di vocale; Plurali uguali al singolare; Verbo al plurale
+- Qual è il plurale di 'child'?
+- Mi fanno male i piedi: My ___ hurt.
+- Il plurale di 'sheep' è 'sheep'.
+- Qual è il plurale di 'tooth'?
+- Quale frase è corretta?
+- Qual è il plurale di 'woman'?
+- Nel lago ci sono tanti pesci. Come lo dici?
+- Scrivi in inglese una frase con due plurali irregolari diversi e spiega quale regola hai usato per ognuno.
+
+## Mine o yours? Di chi è? [lib-2-media-inglese-pronomi-possessivi] · MINE
+concetti: I pronomi possessivi; Senza nome dopo; Whose?; Aggettivo o pronome
+- Questo libro è mio: This book is ___.
+- Come si chiede 'Di chi è questa giacca?'
+- La frase 'This is mine phone' è corretta.
+- Lo zaino è di Anna. Quale frase è corretta?
+- Quale pronome sostituisce 'their house'?
+- Quale frase è corretta?
+- Quale coppia aggettivo-pronome è sbagliata?
+- Spiega la differenza tra 'my' e 'mine' con due frasi d'esempio. Perché 'It's mine pencil' è sbagliato?
+
 ## More than: gli aggettivi lunghi [lib-2-media-inglese-comparativi-aggettivi-lunghi] · MORE
 concetti: More più aggettivo; Mai -er e more insieme; Contare le sillabe
 - Qual è il comparativo di 'expensive'?
@@ -243,6 +485,28 @@ concetti: More più aggettivo; Mai -er e more insieme; Contare le sillabe
 - Perché si dice 'more difficult' e non 'difficulter'?
 - Metti in ordine le parole: 'In Italia il calcio è più popolare del rugby.'
 - Confronta in inglese due materie scolastiche usando due aggettivi lunghi (per esempio interesting, difficult,…
+
+## More, less o fewer? [lib-2-media-inglese-less-fewer-more-quantita] · FEWER
+concetti: More per tutti; Fewer con i numerabili; Less con i non numerabili; Than nei confronti
+- Voglio più tempo: I want ___ time.
+- Come si dice 'meno zucchero'?
+- Si dice 'fewer cars' perché cars è numerabile.
+- Quale frase è corretta in inglese standard?
+- Luca ha 20 figurine, Marco 35. Quale frase è vera?
+- Il medico consiglia di bere meno bibite gasate e più acqua. Quale frase è corretta?
+- Quale coppia è corretta?
+- Confronta in inglese la tua settimana con quella di un amico usando more, fewer e less.
+
+## Much bigger o a bit taller? [lib-2-media-inglese-comparativi-much-a-bit] · MUCH
+concetti: Much e far per tanto; A bit e a little per poco; Mai very con il comparativo; Confronti con i numeri
+- Come si dice 'molto più grande'?
+- Sono un po' più alto di te: I'm a ___ taller than you.
+- La frase 'This book is very better than that one' è corretta.
+- Anna ha 13 anni, suo fratello 16. Quale frase è vera?
+- Un'auto costa 30.000 euro, una bici 300 euro. Quale frase è naturale?
+- Il tuo zaino pesa 5 kg, quello del tuo amico 5,2 kg. Quale frase è adatta?
+- Una torre è alta 50 metri, un'altra 60. Come confronti?
+- Spiega perché si dice 'much better' e non 'very better'. Scrivi poi una frase con much e una con a bit.
 
 ## Much, many o a lot of? [lib-2-media-inglese-much-many-a-lot-of] · MANY
 concetti: Many con i numerabili; Much con i non numerabili; A lot of con tutti; Not much e not many
@@ -255,6 +519,61 @@ concetti: Many con i numerabili; Much con i non numerabili; A lot of con tutti; 
 - Perché si dice 'I don't drink much water' e non 'many water'?
 - Descrivi in inglese la tua cameretta o la tua classe in tre frasi usando a lot of, many e much (almeno una ne…
 
+## Must o have to? Le regole [lib-2-media-inglese-must-have-to-regole] · RULES
+concetti: Must per l'obbligo; Have to per le regole esterne; Mustn't significa divieto; Don't have to significa non serve
+- Devo finire i compiti: I ___ finish my homework.
+- Quale frase è corretta?
+- 'You mustn't run in the corridor' significa che è vietato correre nel corridoio.
+- Che cosa significa 'You don't have to bring your book tomorrow'?
+- In biblioteca c'è un cartello che vieta di mangiare. Quale frase lo esprime?
+- A scuola è obbligatorio indossare la divisa. Quale frase è adatta?
+- Qual è la differenza tra 'mustn't' e 'don't have to'?
+- Scrivi in inglese tre regole della tua scuola: una con have to, una con mustn't e una con don't have to.
+
+## Navigatori: sailed, reached, discovered [lib-2-media-inglese-past-simple-esploratori-navigatori] · SAILED
+concetti: Verbi del viaggio in mare; Date delle esplorazioni; Arrive in e arrive at; Lunghe azioni e fatti
+- Come si dice 'navigò' in inglese?
+- Christopher Columbus reached America in ___.
+- Si dice 'They arrived in Lisbon' perché Lisbon è una città.
+- Quale frase è corretta dal punto di vista storico?
+- La nave arrivò al porto. Quale frase è corretta?
+- Quale coppia verbo-passato è sbagliata?
+- Quale frase usa bene i due tempi?
+- Immagina di essere un marinaio di Colombo. Scrivi in inglese una frase con il past continuous e il past simpl…
+
+## No, none: proprio niente! [lib-2-media-inglese-no-none-niente] · NONE
+concetti: No più nome; No e not any; None da solo; Mai doppia negazione
+- Non c'è pane: There's ___ bread.
+- Quale frase significa lo stesso di 'There are no eggs'?
+- Per correggere 'We didn't buy no bread' si può togliere didn't e dire 'We bought no bread'.
+- Quante caramelle sono rimaste? Nessuna.
+- Quale frase è corretta?
+- Quale frase usa bene 'none'?
+- Il frigo è vuoto. Quale frase è vera?
+- Spiega la differenza tra 'There's no juice' e 'None'. Scrivi poi una domanda e una risposta con none.
+
+## One of the best: uno dei migliori [lib-2-media-inglese-superlativo-one-of-the] · BEST
+concetti: One of the più superlativo; Il nome va al plurale; Il verbo resta singolare; In e of dopo il superlativo
+- Come si dice 'uno dei film più belli'?
+- È uno dei migliori giocatori: He is one of the best ___.
+- La frase 'One of my friends live in London' è corretta.
+- Quale frase è corretta?
+- Quale frase è corretta?
+- Roma è una delle città più antiche d'Europa. Come lo dici?
+- Quale verbo completa 'One of the students ___ a new bike'?
+- Scrivi in inglese due frasi con one of the + superlativo sulla tua città o sul tuo sport preferito. Perché il…
+
+## Pianeti da record [lib-2-media-inglese-superlativi-sistema-solare] · PLANET
+concetti: Nomi dei pianeti; Record dei pianeti; Close e far; Superlativi lunghi
+- Come si chiama la Terra in inglese, come pianeta?
+- Jupiter is the ___ planet in the Solar System.
+- Mercurio (Mercury) è il pianeta più vicino al Sole.
+- Metti in ordine i primi quattro pianeti, dal più vicino al Sole al più lontano.
+- Quale frase è corretta?
+- Quale pianeta è 'the hottest planet'?
+- Quale superlativo è scritto bene?
+- Venere non è il pianeta più vicino al Sole, ma è il più caldo. Spiegalo in inglese o in italiano usando close…
+
 ## Più alto di: -er than [lib-2-media-inglese-comparativi-aggettivi-corti] · TALLER
 concetti: Aggettivo più -er; Than per il confronto; Confronto tra due; Coppie di contrari
 - Qual è il comparativo di 'fast'?
@@ -265,6 +584,17 @@ concetti: Aggettivo più -er; Than per il confronto; Confronto tra due; Coppie d
 - Perché si dice 'Paul is taller than Mark' e non 'Paul is the tallest than Mark'?
 - Metti in ordine le parole: 'Il Po è più lungo del Tevere.'
 - Confronta in inglese te stesso con un amico o un familiare usando tre comparativi diversi (per esempio tall, …
+
+## Probably o definitely? Quanto sei sicuro [lib-2-media-inglese-future-probably-definitely] · SURE
+concetti: Avverbi di certezza; Posizione con will; Posizione con won't; Maybe e perhaps
+- Che cosa significa 'definitely'?
+- Probabilmente verrò: I'll ___ come.
+- La frase 'I won't probably go' ha l'avverbio nel posto giusto.
+- Quale frase è corretta?
+- Sei sicuro al 100% che domani andrai a scuola. Che cosa dici?
+- Quale frase dice che probabilmente non pioverà?
+- Metti in ordine queste espressioni, da quella che indica la probabilità più alta che una cosa succeda a quell…
+- Scrivi in inglese tre previsioni sulla tua prossima settimana con definitely, probably e probably won't. Fai …
 
 ## Quale compro? Confronta e scegli [lib-2-media-inglese-confronti-fare-acquisti] · CHEAPER
 concetti: Cheap ed expensive; Chiedere il prezzo; Confrontare la qualità; Decidere cosa comprare
@@ -277,6 +607,17 @@ concetti: Cheap ed expensive; Chiedere il prezzo; Confrontare la qualità; Decid
 - Metti in ordine il dialogo nel negozio.
 - Devi scegliere tra due bici: una costa 200 euro ed è leggera, l'altra costa 150 euro ma è pesante. Scrivi in …
 
+## Quando sarò grande: when + present [lib-2-media-inglese-futuro-when-as-soon-as] · GROWN
+concetti: When con il futuro; As soon as; Will nella frase principale; Diverso dall'italiano
+- Quando sarò grande farò il medico: When I ___ older, I'll be a doctor.
+- Che cosa significa 'as soon as'?
+- La frase 'I'll call you when I will arrive' è corretta.
+- Quale frase è corretta?
+- Ti scriverò appena arrivo a Londra. Come lo dici?
+- Quale frase su un programma futuro è corretta?
+- Quale parte della frase usa will in 'I'll help you when I finish'?
+- Spiega perché in inglese si dice 'When I'm older' e non 'When I will be older'. Scrivi poi una tua frase con …
+
 ## Quando sei nato? Date e anni [lib-2-media-inglese-was-born-date-anni] · BORN
 concetti: Was o were born; Leggere gli anni; Date con gli ordinali; Biografie al passato
 - Sono nato a Milano: I ___ born in Milan.
@@ -287,6 +628,28 @@ concetti: Was o were born; Leggere gli anni; Date con gli ordinali; Biografie al
 - Leggi: 'Galileo Galilei ___ in Pisa in 1564.' Quale forma completa la frase?
 - Metti in ordine le parole per formare la domanda 'Dove sei nato?'
 - Scrivi in inglese una mini biografia di un tuo familiare in due o tre frasi: quando e dove è nato e una cosa …
+
+## Quanto costa? Prezzi in sterline [lib-2-media-inglese-prezzi-negozio-how-much-is-it] · POUND
+concetti: Chiedere il prezzo; Leggere i prezzi; Frasi del negozio; Resto e pagamento
+- Come chiedi il prezzo di una maglietta?
+- £4.20 si legge: four pounds ___.
+- Un pound (sterlina) vale 100 pence.
+- Vuoi sapere quanto costano dei magneti da frigo (fridge magnets). Che cosa chiedi?
+- Compri un libro da £6.50 e paghi con £10. Quanto è il resto?
+- Il commesso dice 'Here's your change'. Che cosa ti sta dando?
+- Metti in ordine il dialogo alla cassa.
+- Scrivi in inglese un breve dialogo in un negozio di souvenir a Londra: chiedi il prezzo di due cartoline e pa…
+
+## Quickly o slowly? Com'è andata [lib-2-media-inglese-past-avverbi-di-modo] · QUICKLY
+concetti: Aggettivo più -ly; Y diventa i; Avverbi irregolari; Posizione dell'avverbio
+- Qual è l'avverbio di 'quiet'?
+- I bambini giocavano felicemente: The children were playing ___.
+- L'avverbio di 'good' è 'goodly'.
+- Quale frase è corretta?
+- Dove va bene 'carefully' nella frase 'She closed the box'?
+- Quale coppia aggettivo-avverbio è sbagliata?
+- Il ladro è entrato senza fare rumore. Quale avverbio completa 'The thief came in ___'?
+- Spiega la differenza tra 'She is a good dancer' e 'She dances well'. Perché nella seconda non si usa good?
 
 ## Racconta le tue vacanze [lib-2-media-inglese-raccontare-le-vacanze] · HOLIDAY
 concetti: Mezzi di trasporto; Dove hai dormito; Cosa hai fatto; Com'è andata
@@ -310,6 +673,17 @@ concetti: Confrontare paesi; Superlativo più in; Aggettivi della geografia
 - Nell'Unione europea la Germania è il paese con più abitanti. Come lo dici?
 - Scegli due paesi europei e confrontali in inglese con almeno due frasi (per esempio grandezza, clima, abitant…
 
+## Ripasso: c'era una volta [lib-2-media-inglese-ripasso-passato-fiaba] · ONCE
+concetti: Formule della fiaba; Past simple nella trama; Past continuous nello sfondo; Domande sulla storia
+- C'era una volta: ___ upon a time.
+- Come finiscono di solito le fiabe in inglese?
+- Nella frase 'The wolf ate the grandmother' il verbo è al past simple.
+- Quale frase descrive lo sfondo della scena?
+- Quale frase è corretta?
+- Quale domanda sulla storia è corretta?
+- Metti in ordine la storia dei tre porcellini.
+- Inventa l'inizio di una fiaba in inglese con due o tre frasi: usa Once upon a time, una frase al past continu…
+
 ## Ripasso: il mistero del museo [lib-2-media-inglese-ripasso-passato-giallo] · CLUE
 concetti: Past simple nei fatti; Past continuous nella scena; Domande dell'indagine; Negazioni al passato
 - Il ladro è entrato dalla finestra. Come lo dici?
@@ -321,6 +695,17 @@ concetti: Past simple nei fatti; Past continuous nella scena; Domande dell'indag
 - Metti in ordine i fatti del furto.
 - Il signor Black dice: 'At 11 pm I was watching TV in the living room. I didn't hear anything.' Ma la TV era r…
 
+## Ripasso: il viaggio a Londra [lib-2-media-inglese-ripasso-viaggio-londra] · LONDON
+concetti: Luoghi di Londra; Il passato del viaggio; Confronti tra città; Progetti futuri
+- Come si chiama il fiume di Londra?
+- Abbiamo visitato la Torre di Londra: We ___ the Tower of London.
+- La metropolitana di Londra è chiamata anche 'the Tube'.
+- Quale frase è corretta?
+- Quale frase usa bene i due tempi?
+- Hai già deciso di tornare a Londra l'anno prossimo. Che cosa dici?
+- Che cos'è esattamente Big Ben?
+- Scrivi in inglese tre frasi su un viaggio a Londra (vero o immaginario): una al past simple, una con un compa…
+
 ## Ripasso: la ricetta dei pancake [lib-2-media-inglese-ripasso-ricetta-pancake] · RECIPE
 concetti: Ingredienti e quantità; Verbi all'imperativo; La sequenza dei passi
 - Quale ingrediente è numerabile?
@@ -331,6 +716,94 @@ concetti: Ingredienti e quantità; Verbi all'imperativo; La sequenza dei passi
 - Metti in ordine i passi della ricetta dei pancake.
 - Che cosa succederebbe se una ricetta cominciasse con 'Finally, mix the flour and the eggs'?
 - Scrivi in inglese una ricetta semplice che conosci (per esempio una spremuta o un panino) in quattro passi, u…
+
+## Ripasso: le olimpiadi di classe [lib-2-media-inglese-ripasso-confronti-sport] · PODIUM
+concetti: Comparativi nello sport; Superlativi nello sport; Ordinali per la classifica; As ... as e less
+- Chi arriva per primo vince la medaglia d'oro: The ___ runner gets the gold medal.
+- Marco ha saltato 1,40 m, Luca 1,30 m. Quale frase è vera?
+- Se Anna corre i 100 m in 15 secondi e Sara in 14, allora 'Anna is not as fast as Sara'.
+- Tre ragazzi lanciano il peso: 6 m, 7 m e 8 m. Chi ha fatto 8 m è...
+- Il terzo classificato in inglese è...
+- Quale frase significa che Paolo è meno veloce di Tom?
+- Metti in ordine la classifica dei 100 m: Emma 13,5 s, Giulia 14,1 s, Sofia 14,8 s, Marta 15,2 s.
+- Descrivi in inglese una gara inventata con tre atleti: usa un comparativo, un superlativo e un ordinale.
+
+## Ripasso: organizziamo la gita [lib-2-media-inglese-ripasso-futuro-gita] · TRIP
+concetti: Programmi decisi con going to; Appuntamenti fissati; Decisioni e offerte con will; Orari con il present simple
+- La classe ha già deciso di visitare Firenze. Quale frase usi?
+- Ci penso io! Porterò l'acqua: I ___ bring the water!
+- 'The train leaves at 7:30' usa il present simple perché è un orario fisso.
+- Avete appuntamento domani alle 7 davanti alla scuola. Quale frase è corretta?
+- La prof chiede chi porta la macchina fotografica. Rispondi offrendoti.
+- Quale frase usa il tempo sbagliato?
+- Metti in ordine le fasi della gita.
+- Scrivi in inglese il programma di una gita scolastica con quattro frasi, usando going to, present continuous,…
+
+## Ripasso: prepariamo la festa [lib-2-media-inglese-ripasso-festa-compleanno] · CAKE
+concetti: Quantità per la festa; Contenitori e porzioni; Programmi con going to; Offerte con will
+- Quante bottiglie servono? How ___ bottles do we need?
+- Per la festa servono tre bottiglie di aranciata. Come lo scrivi nella lista?
+- 'Is there any lemonade?' è una domanda corretta.
+- Quale frase indica un programma già deciso per la festa?
+- La mamma dice: 'We haven't got any balloons!'. Ti offri subito. Che cosa dici?
+- Quale quantità è corretta?
+- Quanta limonata è rimasta? Quale domanda è corretta?
+- Scrivi in inglese la lista della spesa per una festa con quattro cose, usando contenitori o quantità, e una f…
+
+## Run faster, speak more slowly [lib-2-media-inglese-comparativi-avverbi] · FASTER
+concetti: Avverbi corti con -er; Avverbi in -ly con more; Avverbi irregolari; Confronto con than
+- Corre più veloce di me: He runs ___ than me.
+- Come si dice 'parla più lentamente'?
+- Il comparativo dell'avverbio 'well' è 'better'.
+- Quale frase è corretta?
+- L'insegnante ti chiede di scrivere con più attenzione. Che cosa dice?
+- Quale frase è corretta?
+- Perché si dice 'more quietly' ma 'faster'?
+- Confronta in inglese come fai due attività rispetto a un amico, usando un avverbio con -er e uno con more.
+
+## Said o told? Chi l'ha detto [lib-2-media-inglese-past-simple-said-told] · TOLD
+concetti: Say e tell al passato; Tell vuole la persona; Say senza persona; Espressioni fisse
+- Qual è il passato di 'tell'?
+- Qual è il passato di 'say'?
+- La frase 'She told me a secret' è corretta.
+- Mi ha detto ciao: He ___ hello to me.
+- Quale frase è corretta?
+- Il nonno ci raccontò una storia. Quale frase è giusta?
+- Quale espressione è sbagliata?
+- Spiega a un compagno la differenza tra said e told con un esempio per ciascuno. Perché 'She said me' è sbagli…
+
+## Se piove, resto a casa [lib-2-media-inglese-first-conditional-if-will] · RAIN
+concetti: If più present simple; Will nella conseguenza; Ordine delle due parti; Situazioni possibili
+- Se studi, passerai l'esame: If you ___, you'll pass the exam.
+- Completa: 'If it's sunny tomorrow, we ___ to the beach.'
+- La frase 'If it will rain, I will stay at home' è corretta.
+- Quale frase ha lo stesso significato di 'If you hurry, you'll catch the bus'?
+- Se non ti metti il cappotto, avrai freddo. Come lo dici?
+- Quale frase descrive una situazione reale e possibile?
+- Quale frase è corretta?
+- Completa in inglese due frasi: 'If I have free time this weekend, ...' e 'If it rains tomorrow, ...'. Spiega …
+
+## Shall we? Let's! Le proposte [lib-2-media-inglese-shall-we-lets-proposte] · LETS
+concetti: Let's più forma base; Shall we...?; Why don't we e How about; Accettare e rifiutare
+- Andiamo al cinema! ___ go to the cinema!
+- Quale proposta è corretta?
+- 'How about going to the beach?' è una proposta corretta.
+- Quale proposta contiene un errore?
+- Un amico propone: 'Shall we go swimming?'. Vuoi accettare. Che cosa rispondi?
+- Vuoi rifiutare con gentilezza. Quale risposta usi?
+- Quale frase significa 'Perché non andiamo in bici?'
+- Proponi in inglese tre attività per sabato a un amico, usando tre strutture diverse (Let's, Shall we, How abo…
+
+## Should: un consiglio da amico [lib-2-media-inglese-should-consigli] · SHOULD
+concetti: Should più forma base; Shouldn't; Uguale per tutti; Chiedere un consiglio
+- Dovresti bere più acqua: You ___ drink more water.
+- Quale frase è corretta?
+- 'You shouldn't watch TV all day' è un consiglio negativo corretto.
+- Come chiedi un consiglio?
+- Il tuo amico ha mal di denti. Quale consiglio gli dai?
+- Che cosa significa 'should'?
+- Un'amica è sempre stanca a scuola perché gioca al telefono fino a tardi. Qual è il consiglio più adatto?
+- Un compagno nuovo si sente solo nella tua scuola. Dagli in inglese due consigli con should e uno con shouldn'…
 
 ## Si contano o no? [lib-2-media-inglese-numerabili-non-numerabili] · COUNT
 concetti: Nomi numerabili; Nomi non numerabili; Verbo al singolare; Attenzione all'italiano
@@ -420,6 +893,28 @@ concetti: The most più aggettivo; Non mescolare le forme; Aggettivi in -y
 - Metti in ordine le parole: 'Questo è il giorno più emozionante della mia vita.'
 - Scegli tre cose della tua vita (un libro, un film, una materia) e scrivi in inglese una frase con the most pe…
 
+## The same as o different from? [lib-2-media-inglese-the-same-as-different-from] · SAME
+concetti: The same as; The same più nome più as; Different from; Similar to e like
+- Ho lo stesso telefono tuo: I've got the same phone ___ you.
+- Come si dice 'diverso da'?
+- 'Tom is the same age as Luke' significa che hanno la stessa età.
+- Quale frase è corretta?
+- Giulia assomiglia molto a sua madre. Come lo dici?
+- Quale frase significa 'Il mio cane è simile al tuo'?
+- Il gelato italiano e quello inglese non sono uguali. Quale frase è corretta?
+- Confronta in inglese te e un tuo amico con una frase con the same ... as e una con different from.
+
+## Ti va di venire? Gli inviti [lib-2-media-inglese-inviti-accettare-rifiutare] · PARTY
+concetti: Would you like to...?; Accettare; Rifiutare con un motivo; Dettagli dell'invito
+- Quale frase è un invito cortese?
+- Accetti: I'd ___ to!
+- 'I'm sorry, I can't. I'm going to visit my aunt' è un modo gentile per rifiutare.
+- Vuoi sapere a che ora inizia la festa. Che cosa chiedi?
+- Che cosa significa 'That sounds great!'?
+- Quale risposta è sbagliata per accettare un invito?
+- Metti in ordine il dialogo.
+- Un amico ti invita a una festa sabato, ma tu non puoi. Scrivi in inglese la tua risposta gentile con un motiv…
+
 ## Tomorrow, next week, in two days [lib-2-media-inglese-espressioni-tempo-futuro] · NEXT
 concetti: Tomorrow e dopodomani; Next più tempo; In più quantità di tempo; Soon, later, one day
 - Come si dice 'dopodomani'?
@@ -430,6 +925,17 @@ concetti: Tomorrow e dopodomani; Next più tempo; In più quantità di tempo; So
 - Oggi è lunedì 3 marzo. Il tuo compleanno è lunedì 10 marzo. Come lo dici?
 - Qual è la differenza tra 'two days ago' e 'in two days'?
 - Scrivi in inglese il tuo programma per il futuro usando quattro espressioni diverse: tomorrow, next week, in …
+
+## Treno, aereo o bici? [lib-2-media-inglese-confronti-mezzi-trasporto] · TRAIN
+concetti: Aggettivi per i trasporti; Comparativi corti e lunghi; Quanto tempo ci vuole; Superlativo per scegliere
+- Che cosa significa 'comfortable'?
+- Il treno è più economico dell'aereo: The train is ___ than the plane.
+- Si dice 'more comfortable' e non 'comfortabler'.
+- Quanto ci vuole in treno? Quale frase è corretta?
+- Quale frase è vera?
+- Quale superlativo è corretto?
+- Quale frase è corretta?
+- Come vai a scuola? Spiega in inglese perché il tuo mezzo è migliore di un altro, con almeno un comparativo.
 
 ## Troppo o abbastanza? [lib-2-media-inglese-too-much-too-many-enough] · ENOUGH
 concetti: Too many con i numerabili; Too much coi non numerabili; Enough prima del nome; Too, enough e aggettivi
@@ -442,6 +948,17 @@ concetti: Too many con i numerabili; Too much coi non numerabili; Enough prima d
 - Hai 5 euro e il biglietto del cinema costa 8. Che cosa dici?
 - Descrivi in inglese con tre frasi un problema della tua città o della tua scuola, usando too much, too many e…
 
+## Turn left! Chiedere la strada [lib-2-media-inglese-indicazioni-stradali] · STREET
+concetti: Chiedere la strada; Verbi delle indicazioni; Preposizioni di luogo; Ordinali per le strade
+- Come chiedi la strada per la stazione con gentilezza?
+- Gira a sinistra: Turn ___.
+- 'The bank is opposite the school' significa che la banca è di fronte alla scuola.
+- Che cosa significa 'Go straight on'?
+- La farmacia è tra il bar e il cinema. Come lo dici?
+- 'Take the second turning on the right' significa...
+- Metti in ordine le indicazioni per arrivare al museo.
+- Un turista ti chiede come arrivare dalla tua scuola al parco più vicino. Rispondi in inglese con almeno tre i…
+
 ## Used to: le vecchie abitudini [lib-2-media-inglese-used-to-abitudini-passate] · HABIT
 concetti: Abitudini passate; Didn't use to; Domande con use to; Used to o past simple
 - Che cosa significa 'I used to live in Rome'?
@@ -453,6 +970,17 @@ concetti: Abitudini passate; Didn't use to; Domande con use to; Used to o past s
 - Metti in ordine le parole: 'Mia sorella non beveva il latte.'
 - Pensa a quando avevi sei anni. Scrivi in inglese due cose che facevi abitualmente e che oggi non fai più, usa…
 
+## Valigia pronta: programmi estivi [lib-2-media-inglese-going-to-programmi-estate] · SUMMER
+concetti: Going to per i programmi; Am, is, are; Attività delle vacanze; Domande sui programmi
+- Lei andrà in campeggio: She's going to go ___.
+- Quale frase indica un programma già deciso?
+- 'Sunbathe' significa 'prendere il sole'.
+- Vuoi chiedere a tua cugina dove andrà in vacanza. Quale domanda è corretta?
+- Mia sorella e io staremo dai nonni. Come lo dici?
+- Quale frase è negativa e corretta?
+- Metti in ordine le parole: 'Andranno a nuotare ogni giorno.'
+- Scrivi in inglese una cartolina a un amico: racconta con going to due attività che la tua famiglia farà in va…
+
 ## Verbi regolari: arriva -ed [lib-2-media-inglese-past-simple-regolari-ed] · PLAYED
 concetti: Regola base: + ed; Verbi che finiscono in -e; Consonante più y; Raddoppio della consonante
 - Qual è il past simple di 'walk'?
@@ -463,6 +991,17 @@ concetti: Regola base: + ed; Verbi che finiscono in -e; Consonante più y; Raddo
 - Quale verbo raddoppia la consonante finale al past simple?
 - Metti in ordine le parole: 'Ieri sera abbiamo guardato un film.'
 - Tuo cugino ha scritto: 'I stoped the bike and I tryed to fix it.' Trova i due errori, correggili e spiega le …
+
+## Vite di scienziati al passato [lib-2-media-inglese-past-simple-biografie-scienziati] · GALILEO
+concetti: Biografie al past simple; Verbi della scoperta; In con anni e città; Domande sulla vita
+- Qual è il past simple di 'discover'?
+- Marie Curie nacque nel 1867: Marie Curie was born ___ 1867.
+- La frase 'Newton studies at Cambridge' è adatta per raccontare la vita di Isaac Newton.
+- Quale frase è corretta?
+- Vuoi sapere dove studiò Marie Curie. Quale domanda è corretta?
+- Marie Curie vinse due premi Nobel. Come lo dici in inglese?
+- Metti in ordine le tappe della biografia di uno scienziato, dalla prima all'ultima.
+- Scegli uno scienziato che conosci e scrivi in inglese due frasi sulla sua vita al past simple. Perché per lui…
 
 ## Was e were: ieri ero [lib-2-media-inglese-past-simple-was-were] · WERE
 concetti: Was e were; Forma negativa; Domande e risposte brevi; There was, there were
@@ -485,6 +1024,17 @@ concetti: Niente -ed; Verbi di tutti i giorni; Una forma per tutti; La tabella d
 - Nella tabella trovi 'take – took – taken'. Quale forma usi per dire 'Ieri ho preso l'autobus'?
 - Quale di questi verbi è irregolare?
 - Scrivi tre frasi in inglese su cosa hai fatto ieri usando tre verbi irregolari diversi (per esempio go, have,…
+
+## What's the matter? Dal dottore [lib-2-media-inglese-salute-whats-the-matter] · DOCTOR
+concetti: What's the matter?; Have got più dolore; Altri disturbi; Raccontare al passato
+- Che cosa significa 'What's the matter?'
+- Ho mal di testa: I've got a ___.
+- 'I've got a sore throat' significa 'Ho mal di gola'.
+- Che cosa significa 'I've got a cold'?
+- Hai mal di denti. Che cosa dici?
+- Ieri sei caduto dalla bici e ti sei fatto male al braccio. Come lo racconti?
+- Perché si dice 'I'm cold' ma 'I've got a cold'?
+- Scrivi in inglese un breve dialogo dal medico: il medico fa la domanda tipica e tu rispondi descrivendo due d…
 
 ## When e while: azioni interrotte [lib-2-media-inglese-when-while-azioni-interrotte] · WHILE
 concetti: Azione lunga e breve; When + past simple; While + past continuous; Due azioni lunghe

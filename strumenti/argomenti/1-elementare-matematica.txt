@@ -1,5 +1,5 @@
 # 1ª elementare · Matematica: 101 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## A occhio: circa quanti? [lib-1-elementare-matematica-stima] · STIMA

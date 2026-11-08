@@ -1,5 +1,5 @@
-# 1ª media · Scienze: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 1ª media · Scienze: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Acqua dolce, un tesoro raro [lib-1-media-scienze-acqua-dolce-risorsa] · FALDA
@@ -35,6 +35,17 @@ concetti: Vita tra acqua e terra; La pelle che respira; La metamorfosi della ran
 - Metti in ordine le fasi della metamorfosi della rana.
 - Gli scienziati dicono che gli anfibi segnalano bene l'inquinamento. Perché secondo te sono così sensibili all…
 
+## Api, una società perfetta [lib-1-media-scienze-api-insetti-sociali] · MIELE
+concetti: Gli insetti sociali; Regina, operaie e fuchi; Il lavoro delle operaie; Api e impollinazione
+- Quale di questi insetti vive in colonie organizzate?
+- Qual è il compito principale dell'ape regina?
+- I fuchi sono le api maschio.
+- Le operaie costruiscono i favi con la ___ prodotta dal loro corpo.
+- Quale di questi lavori NON è svolto dalle api operaie?
+- Mentre cercano il nettare, le api trasportano anche...
+- Il polline raccolto dalle api operaie serve anche come cibo per le larve.
+- Nell'alveare regina, operaie e fuchi hanno compiti diversi. Spiega che cosa fa ciascuno e perché nessuno di l…
+
 ## Aria calda e aria compressa [lib-1-media-scienze-aria-calda-aria-compressa] · PALLONE
 concetti: L'aria si comprime; L'aria compressa al lavoro; L'aria calda sale; L'aria fredda scende
 - Tappi con il dito il beccuccio di una siringa piena solo d'aria e spingi lo stantuffo. Che cosa succede?
@@ -68,6 +79,28 @@ concetti: Procarioti ed eucarioti; Forme e riproduzione; Batteri utili; Batteri 
 - Un batterio si divide in due ogni 20 minuti. Partendo da un solo batterio, quanti batteri ci saranno dopo un'…
 - Perché è importante lavarsi le mani prima di mangiare, anche quando non sembrano sporche?
 
+## Biodiversità da proteggere [lib-1-media-scienze-biodiversita-specie-a-rischio] · PANDA
+concetti: Che cos'è la biodiversità; Perché è importante; Le minacce; Proteggere
+- Che cosa significa biodiversità?
+- Molte medicine sono state ricavate da sostanze prodotte da piante o altri viventi.
+- Qual è oggi una delle principali minacce alla biodiversità?
+- I parchi e le riserve naturali servono a proteggere gli ___ delle specie.
+- Perché la scomparsa di una specie può danneggiare un intero ecosistema?
+- La nutria, un roditore sudamericano, si è diffusa nei fiumi italiani e danneggia argini e piante. Che cos'è p…
+- Quale azione aiuta la biodiversità in un giardino di città?
+- Spiega perché la perdita di biodiversità è un problema anche per l'essere umano.
+
+## Bollire in montagna [lib-1-media-scienze-ebollizione-e-pressione] · PENTOLA
+concetti: Il punto di ebollizione; Pressione ed ebollizione; In alta montagna; La pentola a pressione
+- A quale temperatura bolle l'acqua pura al livello del mare?
+- L'acqua salata bolle esattamente alla stessa temperatura dell'acqua pura.
+- Se la pressione dell'aria diminuisce, l'acqua bolle a una temperatura più ___.
+- In cima a una montagna l'acqua bolle a meno di 100 °C. Perché?
+- Perché in alta montagna la pasta cuoce più lentamente?
+- Che cosa succede dentro una pentola a pressione chiusa?
+- Metti in ordine i luoghi dalla temperatura di ebollizione dell'acqua più alta alla più bassa.
+- Un alpinista vuole cuocere i legumi in un rifugio d'alta quota. Perché gli conviene usare una pentola a press…
+
 ## Calore o temperatura? [lib-1-media-scienze-calore-e-temperatura] · CALORE
 concetti: La temperatura; Il calore; L'equilibrio termico; Calore e quantità di materia
 - Che cosa succede alle particelle di un corpo quando la sua temperatura aumenta?
@@ -90,6 +123,17 @@ concetti: Le funzioni vitali; Reagire agli stimoli; Autotrofi ed eterotrofi; Fat
 - Che cosa hanno in comune un batterio, una quercia e un elefante?
 - Perché si dice che tutti gli animali dipendono dalle piante per nutrirsi, anche i carnivori?
 
+## Chi mangia chi [lib-1-media-scienze-catene-alimentari] · PREDA
+concetti: I produttori; I consumatori; I decompositori; Reti ed energia
+- Con che cosa comincia sempre una catena alimentare?
+- Metti in ordine questa catena alimentare, dal produttore al predatore finale.
+- Un erbivoro, come il coniglio, è un consumatore ___.
+- Qual è il ruolo dei funghi e dei batteri del suolo?
+- In un ecosistema i grandi predatori sono di solito meno numerosi degli erbivori.
+- In un prato le volpi scompaiono a causa di una malattia. Che cosa succederà probabilmente ai conigli all'iniz…
+- E se i conigli aumentano troppo, che cosa può succedere al prato?
+- In un bosco la volpe mangia conigli, topi, uccelli e frutti. Perché, se i conigli diminuiscono, la volpe ries…
+
 ## Chi vive sotto i nostri piedi [lib-1-media-scienze-vita-nel-suolo] · COMPOST
 concetti: Gli abitanti del suolo; I decompositori; Il lavoro dei lombrichi; Proteggere il suolo
 - Quali sono gli organismi più numerosi nel suolo?
@@ -101,6 +145,17 @@ concetti: Gli abitanti del suolo; I decompositori; Il lavoro dei lombrichi; Prot
 - Che cosa significa «consumo di suolo»?
 - Perché il compost fatto con gli scarti di cucina è utile per l'orto e per l'ambiente?
 
+## Coltivare senza rovinare il suolo [lib-1-media-scienze-suolo-e-agricoltura] · ARATRO
+concetti: L'aratura; La concimazione; La rotazione delle colture; Un suolo da proteggere
+- Perché prima della semina si ara il terreno?
+- Coltivando sempre la stessa pianta, il terreno può impoverirsi di sali minerali.
+- Il letame e il compost sono concimi ___, di origine naturale.
+- Che cosa significa fare la rotazione delle colture?
+- Perché nella rotazione si inseriscono spesso i legumi, come fagioli o erba medica?
+- Perché usare troppi concimi chimici può essere dannoso?
+- Che cosa succede a un terreno calpestato spesso da trattori molto pesanti?
+- Spiega perché un agricoltore che vuole un suolo fertile per molti anni dovrebbe usare la rotazione e i concim…
+
 ## Come nasce il suolo [lib-1-media-scienze-formazione-del-suolo] · HUMUS
 concetti: Che cos'è il suolo; La disgregazione delle rocce; Il contributo dei viventi; Tempi lunghissimi
 - Che cos'è il suolo?
@@ -111,6 +166,17 @@ concetti: Che cos'è il suolo; La disgregazione delle rocce; Il contributo dei v
 - In che modo le radici di un albero contribuiscono a formare il suolo?
 - Da quali componenti è formato un suolo?
 - Perché si dice che il suolo è una risorsa che, nei tempi di una vita umana, non si rinnova?
+
+## Come respirano gli animali [lib-1-media-scienze-respirazione-negli-animali] · POLMONE
+concetti: Le branchie; I polmoni; Le trachee; La pelle
+- Quale di questi animali respira con le branchie?
+- Gli uccelli respirano con i polmoni, aiutati da sacchi d'aria collegati a essi.
+- Gli insetti respirano attraverso le ___, una rete di tubicini sottili.
+- Perché il lombrico ha bisogno di avere la pelle sempre umida?
+- Ordina il percorso dell'aria nel corpo di un mammifero.
+- Da dove entra l'aria nel corpo di un insetto?
+- Perché le branchie di un pesce sono formate da moltissime lamelle sottili?
+- Perché animali così diversi usano organi respiratori diversi? Fai un esempio.
 
 ## Come viaggia il calore [lib-1-media-scienze-propagazione-del-calore] · SOLE
 concetti: La conduzione; La convezione; L'irraggiamento; Colori e radiazioni
@@ -145,6 +211,28 @@ concetti: I conduttori termici; Gli isolanti termici; Caldo e freddo al tatto; I
 - Un cubetto di ghiaccio avvolto in una sciarpa di lana fonde più in fretta di uno lasciato all'aria.
 - Perché d'inverno gli uccellini gonfiano le piume e sembrano delle palline?
 
+## Conifere: pigne e aghi [lib-1-media-scienze-conifere-gimnosperme] · PIGNA
+concetti: Piante a seme nudo; Pigne maschili e femminili; Il vento impollinatore; Aghi e resina
+- Che cosa significa "gimnosperme"?
+- Le conifere producono frutti carnosi come le mele.
+- Nelle conifere il polline viene trasportato dal ___.
+- Che cosa producono le pigne maschili di un pino?
+- Dove si formano i semi di una conifera?
+- A che cosa serve la resina che cola da un pino ferito?
+- Perché le conifere producono tantissimo polline?
+- Spiega una differenza importante tra una conifera e un melo.
+
+## Conversioni da scienziato [lib-1-media-scienze-conversioni-unita-misura] · LITRO
+concetti: Litri e millilitri; Volume e capacità; Massa; Lunghezza
+- Quanti millilitri ci sono in una bottiglia da 2,5 L?
+- Una lattina contiene 330 mL. Quanti litri sono?
+- Un volume di 1 cm³ corrisponde a 1 ___.
+- Un cubo con lo spigolo di 10 cm contiene esattamente 1 litro d'acqua.
+- Un acquario misura 50 cm x 30 cm x 40 cm. Quanti litri d'acqua contiene se è pieno?
+- Un sacco di farina pesa 1,2 kg. Quanti grammi sono?
+- Un sentiero è lungo 3,5 km. Quanti metri sono?
+- Hai una bottiglia da 1,5 L di succo e vuoi riempire 6 bicchieri da 250 mL. Ti basta? Spiega i calcoli.
+
 ## Corpi che si allungano col caldo [lib-1-media-scienze-dilatazione-termica] · BINARIO
 concetti: Che cos'è la dilatazione; Perché avviene; Solidi, liquidi e gas; Dilatazione e costruzioni
 - Che cosa succede, di solito, a un corpo quando viene scaldato?
@@ -155,6 +243,28 @@ concetti: Che cos'è la dilatazione; Perché avviene; Solidi, liquidi e gas; Dil
 - Il coperchio di metallo di un barattolo di vetro è bloccato e non si svita. Che cosa può aiutarti?
 - Perché d'estate i fili elettrici tra un palo e l'altro pendono più che d'inverno?
 - Spiega, pensando alle particelle, perché un binario si allunga d'estate e si accorcia d'inverno.
+
+## Da soli o in squadra [lib-1-media-scienze-unicellulari-pluricellulari] · SQUADRA
+concetti: Gli unicellulari; I pluricellulari; Divisione del lavoro; Quante cellule?
+- Quale di questi organismi è pluricellulare?
+- In un organismo unicellulare l'unica cellula deve nutrirsi, respirare e riprodursi da sola.
+- Negli organismi pluricellulari le cellule sono ___: ognuna ha un compito preciso.
+- Quale vantaggio hanno gli organismi pluricellulari?
+- Più o meno quante cellule formano il corpo di una persona adulta?
+- Perché una cellula muscolare, separata dal corpo, non può vivere da sola come un'ameba?
+- Tutti gli organismi pluricellulari sono animali.
+- Spiega una differenza importante tra un organismo unicellulare e uno pluricellulare, con un esempio per ciasc…
+
+## Dal bruco alla farfalla [lib-1-media-scienze-insetti-metamorfosi-completa-incompleta] · BRUCO
+concetti: La metamorfosi; Metamorfosi completa; Metamorfosi incompleta; Le mute
+- Che cos'è la metamorfosi?
+- Metti in ordine le tappe della vita di una libellula, che ha una metamorfosi incompleta.
+- Nella farfalla, lo stadio immobile chiuso nella crisalide si chiama ___.
+- Quale di questi insetti ha una metamorfosi incompleta?
+- Nella metamorfosi incompleta la ninfa assomiglia già all'adulto.
+- Subito dopo una muta, perché un insetto è più esposto ai pericoli?
+- Bruco e farfalla mangiano cose diverse. Che vantaggio ha questo per la specie?
+- Spiega la differenza tra metamorfosi completa e incompleta, con un esempio per ciascuna.
 
 ## Dal frutto al seme che germoglia [lib-1-media-scienze-frutto-seme-germinazione] · SEME
 concetti: Il frutto; Com'è fatto il seme; La disseminazione; La germinazione
@@ -178,6 +288,17 @@ concetti: L'acquedotto; La potabilizzazione; Fognature e depuratori; L'inquiname
 - Perché non si deve buttare nel lavandino l'olio usato per friggere?
 - Che cosa succederebbe a un fiume se gli scarichi delle fognature di una città ci finissero direttamente, senz…
 
+## Delfini e balene, non pesci [lib-1-media-scienze-cetacei-mammiferi-marini] · BALENA
+concetti: Mammiferi del mare; Lo sfiatatoio; Corpo da nuotatori; Denti o fanoni
+- Come nascono i piccoli dei delfini?
+- Le femmine dei delfini allattano i loro piccoli.
+- Delfini e balene respirano attraverso lo ___, che si trova sopra la testa.
+- Come si muove la coda di un delfino quando nuota?
+- A che cosa serve lo spesso strato di grasso sotto la pelle delle balene?
+- Come si nutrono le balene con i fanoni?
+- Tutti i cetacei hanno i fanoni al posto dei denti.
+- Uno squalo e un delfino si somigliano molto nella forma. Perché però appartengono a classi diverse?
+
 ## Di che cosa è fatta l'aria [lib-1-media-scienze-composizione-aria] · AZOTO
 concetti: Un miscuglio di gas; L'ossigeno; L'anidride carbonica; L'aria è materia
 - Qual è il gas più abbondante nell'aria che respiriamo?
@@ -189,6 +310,28 @@ concetti: Un miscuglio di gas; L'ossigeno; L'anidride carbonica; L'aria è mater
 - Su una bilancia molto precisa pesi un pallone sgonfio e poi lo stesso pallone ben gonfiato. Che cosa scopri?
 - Perché si dice che i boschi e le alghe del mare sono importanti per l'aria che respiriamo?
 
+## Dormire o partire? [lib-1-media-scienze-letargo-migrazione] · LETARGO
+concetti: Il problema dell'inverno; Il letargo; La migrazione; Scorte per l'inverno
+- Perché l'inverno è un periodo difficile per molti animali?
+- Il ghiro e la marmotta superano l'inverno cadendo in ___.
+- Che cosa succede al corpo di un animale in letargo?
+- Perché in autunno la marmotta mangia moltissimo?
+- Le rondini in autunno migrano verso l'Africa e tornano in primavera.
+- Qual è il motivo principale per cui le rondini migrano in autunno?
+- Lo scoiattolo non va in un vero letargo: in autunno nasconde semi e ghiande e d'inverno esce a mangiarli.
+- Confronta letargo e migrazione: in che cosa si somigliano e in che cosa sono diversi?
+
+## Ecosistema, una rete di vita [lib-1-media-scienze-ecosistema-habitat-popolazione] · HABITAT
+concetti: L'ecosistema; L'habitat; Popolazione e comunità; L'equilibrio
+- Quale di questi è un fattore NON vivente di un ecosistema?
+- In un ecosistema i viventi e l'ambiente non vivente si influenzano a vicenda.
+- Il luogo in cui una specie trova le condizioni adatte per vivere si chiama ___.
+- Tutti i caprioli che vivono in un bosco formano...
+- Caprioli, querce, funghi, scoiattoli e tutti gli altri viventi del bosco formano insieme...
+- In un lago viene liberata una specie di pesce estranea e vorace. Che cosa può succedere?
+- Una siccità che abbassa il livello di uno stagno può cambiare la vita di tutti i suoi abitanti.
+- Scegli un ecosistema che conosci e indica alcuni suoi elementi viventi e non viventi.
+
 ## Effetto serra e clima che cambia [lib-1-media-scienze-effetto-serra-clima] · SERRA
 concetti: L'effetto serra naturale; Gas serra in aumento; Il riscaldamento globale; Che cosa possiamo fare
 - Che cosa fanno i gas serra nell'atmosfera?
@@ -199,6 +342,17 @@ concetti: L'effetto serra naturale; Gas serra in aumento; Il riscaldamento globa
 - Perché tagliare e bruciare le foreste fa aumentare l'effetto serra?
 - Quale di queste scelte aiuta a ridurre l'emissione di gas serra?
 - Perché lo scioglimento dei ghiacci della Groenlandia e dell'Antartide è un problema per le città costiere?
+
+## Fecondazione dentro o fuori [lib-1-media-scienze-fecondazione-interna-esterna] · UOVO
+concetti: La fecondazione esterna; La fecondazione interna; Tante uova o pochi figli; Le cure dei genitori
+- Dove avviene di solito la fecondazione esterna?
+- Quale di questi animali ha la fecondazione interna?
+- Rettili, uccelli e mammiferi hanno una fecondazione ___.
+- La fecondazione esterna è molto diffusa negli animali che vivono in acqua.
+- Perché i pesci con fecondazione esterna depongono migliaia di uova?
+- Un'aquila depone 1 o 2 uova all'anno, eppure la specie non si estingue. Perché?
+- Gli animali che curano molto i piccoli di solito ne hanno pochi.
+- Perché la fecondazione interna è stata importante per gli animali che vivono sulla terraferma?
 
 ## Funghi, muffe e lieviti [lib-1-media-scienze-funghi-muffe-lieviti] · LIEVITO
 concetti: Com'è fatto un fungo; Come si nutrono; Muffe e lieviti; Funghi velenosi
@@ -266,6 +420,17 @@ concetti: Evaporazione e traspirazione; Condensazione e nuvole; Le precipitazion
 - Dopo un temporale, una parte della pioggia penetra nel terreno. Dove finisce quest'acqua?
 - Perché si dice che l'acqua che beviamo oggi potrebbe essere stata bevuta anche dai dinosauri?
 
+## Il segreto degli anelli del tronco [lib-1-media-scienze-crescita-alberi-anelli] · ANELLO
+concetti: I meristemi; Crescere in spessore; Gli anelli annuali; La corteccia
+- Dove si trovano le cellule che fanno allungare una pianta?
+- Le cellule dei meristemi sono capaci di dividersi molte volte.
+- Contando gli anelli di un tronco tagliato si può capire l'___ dell'albero.
+- Un tronco tagliato mostra 37 anelli. Quanti anni aveva più o meno l'albero?
+- Perché in ogni anello si vedono una fascia chiara e una più scura?
+- Come fa un albero a diventare più grosso anno dopo anno?
+- Se si toglie la corteccia tutto intorno al tronco, l'albero non ne soffre perché il legno resta intatto.
+- Perché è dannoso incidere il proprio nome sulla corteccia di un albero?
+
 ## Il termometro e le sue scale [lib-1-media-scienze-termometro-e-scale] · KELVIN
 concetti: Come funziona il termometro; La scala Celsius; La scala Kelvin; Termometri diversi
 - Perché il liquido di un termometro sale quando la temperatura aumenta?
@@ -277,6 +442,17 @@ concetti: Come funziona il termometro; La scala Celsius; La scala Kelvin; Termom
 - Metti in ordine queste temperature, dalla più bassa alla più alta.
 - Perché il tubicino del termometro è sottilissimo? Che cosa succederebbe se fosse largo come il bulbo?
 
+## Il triangolo del fuoco [lib-1-media-scienze-triangolo-del-fuoco] · FIAMMA
+concetti: I tre lati del triangolo; Spegnere un fuoco; I prodotti della combustione; Sicurezza
+- Quale di questi è un combustibile?
+- La fiamma o la scintilla che fa partire la combustione, portando il calore necessario, si chiama ___.
+- Getti della sabbia su un piccolo fuoco da campo e le fiamme si spengono. Quale lato del triangolo hai tolto?
+- I vigili del fuoco gettano acqua su un falò. Quale lato del triangolo tolgono soprattutto?
+- Quando la legna brucia, si producono anidride carbonica e vapore acqueo.
+- Perché una stufa che brucia male in una stanza chiusa è pericolosa?
+- In padella l'olio prende fuoco. Che cosa è giusto fare?
+- Chiudere la valvola del gas sotto una pentola spegne la fiamma. Spiega perché usando il triangolo del fuoco.
+
 ## Il vento, aria in movimento [lib-1-media-scienze-venti] · BREZZA
 concetti: Come nasce il vento; Le brezze; Misurare il vento; I venti d'Italia
 - Che cos'è il vento?
@@ -287,6 +463,17 @@ concetti: Come nasce il vento; Le brezze; Misurare il vento; I venti d'Italia
 - Perché si dice che il Sole è il «motore» dei venti?
 - Metti in ordine che cosa succede sulla costa in una mattina di sole.
 - Lo scirocco arriva in Italia da sud-est, dopo aver attraversato il mare. Perché è un vento caldo e umido?
+
+## Il viaggio della linfa [lib-1-media-scienze-linfa-grezza-elaborata] · LINFA
+concetti: La linfa grezza; La linfa elaborata; La traspirazione; Vedere la linfa
+- Di che cosa è fatta la linfa grezza?
+- La linfa grezza sale dalle radici verso le foglie.
+- La linfa elaborata contiene soprattutto gli ___ prodotti dalla fotosintesi.
+- In quali vasi viaggia la linfa elaborata?
+- Metti in ordine il viaggio degli zuccheri prodotti da una foglia di carota fino alla sua radice.
+- Che cosa "tira" la linfa grezza verso l'alto, fino alla cima di un albero?
+- Metti un gambo di sedano in acqua colorata di blu. Che cosa vedrai dopo qualche ora?
+- Perché in una giornata calda e ventosa una pianta in vaso ha bisogno di più acqua?
 
 ## In laboratorio senza rischi [lib-1-media-scienze-laboratorio-sicurezza] · BECHER
 concetti: La vetreria; Scaldare e prelevare; Regole di sicurezza; I simboli di pericolo
@@ -343,6 +530,17 @@ concetti: Lo scheletro interno; Le cinque classi; La temperatura del corpo; Come
 - Quale di questi animali è viviparo?
 - Una medusa fuori dall'acqua si affloscia, un elefante di tonnellate invece sta in piedi. Perché lo scheletro …
 
+## La porta della cellula [lib-1-media-scienze-membrana-diffusione-osmosi] · OSMOSI
+concetti: Una membrana selettiva; La diffusione; L'osmosi; Osmosi ogni giorno
+- Quale di queste sostanze attraversa facilmente la membrana di una cellula?
+- Una goccia d'inchiostro in un bicchiere d'acqua ferma si diffonde da sola, anche senza mescolare.
+- Durante la diffusione, le particelle si spostano...
+- L'osmosi è il passaggio dell'___ attraverso una membrana semipermeabile.
+- Nell'osmosi l'acqua si sposta verso la parte in cui...
+- Se sali l'insalata molto prima di mangiarla, le foglie appassiscono. Perché?
+- Una prugna secca lasciata in acqua per una notte si raggrinzisce ancora di più.
+- Perché le radici di una pianta riescono ad assorbire l'acqua dal terreno?
+
 ## La pressione dell'aria [lib-1-media-scienze-pressione-atmosferica] · VUOTO
 concetti: L'aria preme; L'esperimento di Torricelli; Pressione e altitudine; Pressione e tempo
 - Con quale strumento si misura la pressione atmosferica?
@@ -353,6 +551,72 @@ concetti: L'aria preme; L'esperimento di Torricelli; Pressione e altitudine; Pre
 - Il barometro indica che sta arrivando un'area di alta pressione. Che tempo è probabile?
 - Bevi con una cannuccia. Perché la bibita sale nella cannuccia?
 - Perché gli alpinisti che scalano le montagne più alte del mondo spesso portano bombole di ossigeno?
+
+## La vita nasce dalla vita [lib-1-media-scienze-redi-pasteur-generazione-spontanea] · MOSCA
+concetti: La generazione spontanea; L'esperimento di Redi; L'esperimento di Pasteur; Il gruppo di controllo
+- Che cosa sosteneva la teoria della generazione spontanea?
+- Redi mise carne in barattoli aperti e in barattoli coperti per scoprire da dove venissero le larve.
+- Che cosa accadde sulla carne nei barattoli coperti con la garza?
+- Redi dimostrò che le larve nascono dalle ___ deposte dalle mosche.
+- Ordina le fasi del metodo seguito da Redi.
+- Perché il brodo nella beuta a collo di cigno di Pasteur restava limpido?
+- Nell'esperimento di Redi, a che cosa servivano i barattoli lasciati aperti?
+- Pasteur lasciò la beuta aperta, con il collo lungo e curvo, invece di chiuderla con un tappo. Perché questa s…
+
+## Le centrali della cellula [lib-1-media-scienze-mitocondri-respirazione-cellulare] · ENERGIA
+concetti: I mitocondri; La respirazione cellulare; Dal respiro alla cellula; La fermentazione
+- Quali cellule del tuo corpo contengono moltissimi mitocondri?
+- Le cellule delle piante hanno i mitocondri, oltre ai cloroplasti.
+- Nella respirazione cellulare il glucosio reagisce con l'___ e libera energia.
+- Oltre all'energia, quali sostanze si formano con la respirazione cellulare?
+- Metti in ordine il viaggio dell'ossigeno dall'aria fino al mitocondrio.
+- Perché durante una corsa respiri più in fretta?
+- Che cosa producono i lieviti quando fermentano gli zuccheri nell'impasto del pane?
+- Spiega con parole tue la differenza tra respirazione cellulare e fermentazione.
+
+## Le piante e noi [lib-1-media-scienze-piante-e-uomo] · BOSCO
+concetti: Cibo e materiali; Ossigeno e anidride carbonica; Alberi in città; La deforestazione
+- Quale di questi materiali proviene da una pianta?
+- Con la fotosintesi le piante assorbono anidride carbonica dall'aria.
+- Pane e pasta si fanno con la farina di ___, un cereale.
+- Perché d'estate sotto gli alberi di un viale si sta più freschi che in una piazza di cemento?
+- Che cosa succede all'anidride carbonica dell'aria se si abbattono grandi foreste?
+- Perché si piantano alberi lungo le strade molto trafficate?
+- La deforestazione distrugge l'habitat di molte specie animali e vegetali.
+- Spiega due motivi per cui è importante proteggere i boschi.
+
+## Leggere dati e grafici [lib-1-media-scienze-tabelle-e-grafici] · GRAFICO
+concetti: La tabella; Il grafico a barre; Il grafico a linee; Il grafico a torta
+- Perché in una tabella di dati si scrive sempre l'unità di misura?
+- Vuoi mostrare come cambia la temperatura dell'aria ogni ora durante un giorno. Quale grafico è più adatto?
+- Per mostrare che l'aria è formata per il 78% da azoto e per il 21% da ossigeno si usa un grafico a ___.
+- In un grafico a barre, la barra più alta indica il valore più grande.
+- Temperature a mezzogiorno: lunedì 12 °C, martedì 15 °C, mercoledì 9 °C, giovedì 14 °C, venerdì 10 °C. Quale g…
+- Con gli stessi dati (12, 15, 9, 14, 10 °C), qual è la temperatura media della settimana?
+- In un grafico a linee la temperatura sale dalle 8 alle 14 e poi scende fino alle 20. Quando è stata più calda…
+- Hai misurato l'altezza di quattro piantine diverse dopo un mese. Quale grafico useresti per confrontarle e pe…
+
+## Licheni, un'alleanza perfetta [lib-1-media-scienze-licheni-simbiosi] · LICHENE
+concetti: Che cos'è un lichene; La simbiosi; Resistenti agli estremi; Spie dell'aria pulita
+- Da quali organismi è formato un lichene?
+- La collaborazione in cui due organismi traggono entrambi vantaggio si chiama ___.
+- Nel lichene, che cosa offre l'alga al fungo?
+- E il fungo, che cosa offre all'alga?
+- Alcuni licheni riescono a vivere perfino in Antartide e sulle cime delle montagne.
+- Che cosa fa un lichene durante un lungo periodo senza pioggia?
+- In una città trovi pochissimi licheni sugli alberi, in un bosco di montagna moltissimi. Che cosa puoi dedurre?
+- Perché i licheni vengono chiamati "spie" della qualità dell'aria?
+
+## Maestri del travestimento [lib-1-media-scienze-mimetismo-colori-avvertimento] · TRUCCO
+concetti: Il mimetismo criptico; I colori di avvertimento; Imitare chi è pericoloso; Cambiare con le stagioni
+- A che cosa serve il colore verde a una cavalletta in un prato?
+- Il mimetismo può essere utile sia alle prede sia ai predatori.
+- Che cosa comunicano i colori gialli e neri di una vespa?
+- Colori molto vivaci che segnalano un pericolo si chiamano colori di ___.
+- Una mosca innocua a strisce gialle e nere viene evitata dagli uccelli. Perché?
+- Perché l'ermellino in inverno diventa bianco?
+- Una lepre variabile è diventata bianca, ma quest'anno la neve non è caduta. Che cosa rischia?
+- Spiega la differenza tra mimetismo criptico e colori di avvertimento, con un esempio.
 
 ## Mammiferi: latte, peli e cure [lib-1-media-scienze-mammiferi] · LATTE
 concetti: Le caratteristiche dei mammiferi; Come nascono; Denti e alimentazione; Mammiferi in ogni ambiente
@@ -398,6 +662,17 @@ concetti: Grandezze fisiche; Unità di misura; Multipli e sottomultipli; Strumen
 - Misuri tre volte la lunghezza di un tavolo e ottieni 120 cm, 122 cm e 121 cm. Quale valore è meglio indicare?
 - Perché è importante che in tutto il mondo si usino le stesse unità di misura?
 
+## Misurare più volte: la media [lib-1-media-scienze-valore-medio-misure] · MEDIA
+concetti: Ogni misura ha un errore; Il valore medio; L'errore massimo; La sensibilità
+- Misurando più volte la stessa cosa con cura, si ottengono sempre valori identici.
+- Perché si ripete più volte una misura?
+- Il valore medio si ottiene sommando le misure e dividendo per il ___ delle misure.
+- Misuri una matita 5 volte: 12,4 cm; 12,6 cm; 12,5 cm; 12,7 cm; 12,3 cm. Qual è il valore medio?
+- Con le stesse misure (da 12,3 cm a 12,7 cm), quanto vale l'errore massimo?
+- Cronometri la caduta di una pallina 4 volte: 4,2 s; 4,6 s; 4,4 s; 4,0 s. Qual è il tempo medio?
+- Un cilindro graduato ha una tacca ogni 2 mL. Qual è la sua sensibilità?
+- Cinque compagni misurano lo stesso banco e trovano valori un po' diversi. Come fai a dare un risultato unico …
+
 ## Muschi, felci e piante con fiori [lib-1-media-scienze-classificazione-piante] · FELCE
 concetti: I muschi; Le felci; Le gimnosperme; Le angiosperme
 - Perché i muschi crescono quasi sempre in luoghi umidi e ombrosi?
@@ -408,6 +683,28 @@ concetti: I muschi; Le felci; Le gimnosperme; Le angiosperme
 - Quale di queste piante è una gimnosperma?
 - Apri un fagiolo lasciato in ammollo e vedi che si divide in due metà. Che cosa sono e che pianta è il fagiolo?
 - Perché le piante con fiori sono riuscite a diffondersi in quasi tutti gli ambienti della Terra?
+
+## Nascere da uno o da due [lib-1-media-scienze-riproduzione-sessuata-asessuata] · GEMMA
+concetti: Riproduzione asessuata; Riproduzione sessuata; Gameti e fecondazione; Pregi delle due strategie
+- Quanti genitori servono nella riproduzione asessuata?
+- Nella riproduzione asessuata i figli sono molto diversi dal genitore.
+- Sul corpo dell'idra cresce una piccola escrescenza che si stacca e diventa un nuovo individuo. Come si chiama…
+- La cellula che si forma dall'unione dei due gameti si chiama ___.
+- Nella specie umana, quali sono i gameti?
+- Perché i figli nati da riproduzione sessuata non sono tutti identici?
+- La riproduzione asessuata permette di produrre molti figli in poco tempo.
+- Perché la varietà tra i figli, dovuta alla riproduzione sessuata, è utile a una specie?
+
+## Nuove piante senza semi [lib-1-media-scienze-riproduzione-vegetativa] · TALEA
+concetti: Che cos'è; Stoloni e tuberi; Bulbi e rizomi; Talea e innesto
+- Che cosa caratterizza la riproduzione vegetativa?
+- Le piante nate per riproduzione vegetativa sono uguali alla pianta madre.
+- Da quale parte della patata nasce una nuova pianta?
+- La fragola si moltiplica con gli ___, fusti che strisciano sul terreno e mettono radici.
+- Quale di queste è un bulbo?
+- Metti in ordine i passaggi per fare una talea di geranio.
+- Un agricoltore ha un melo con mele buonissime e vuole altri alberi identici. Che cosa gli conviene fare?
+- Perché i giardinieri usano spesso la riproduzione vegetativa invece dei semi?
 
 ## Nuvole, nebbia e pioggia [lib-1-media-scienze-nuvole-e-precipitazioni] · NUVOLA
 concetti: L'umidità dell'aria; Come nasce una nuvola; Tipi di nuvole; Le precipitazioni
@@ -431,6 +728,28 @@ concetti: La scoperta delle cellule; Le parti del microscopio; Calcolare l'ingra
 - Che cosa vide per primo Antoni van Leeuwenhoek con i suoi microscopi?
 - Perché, quando osservi un campione al microscopio, conviene iniziare con l'obiettivo che ingrandisce meno?
 
+## Ogni cellula ha un mestiere [lib-1-media-scienze-cellule-specializzate] · NEURONE
+concetti: Forma e funzione; I neuroni; I globuli rossi; Cellule specializzate delle piante
+- Che cosa significa che una cellula è specializzata?
+- Perché i neuroni hanno prolungamenti molto lunghi?
+- I globuli rossi trasportano l'___ grazie a una proteina chiamata emoglobina.
+- Nei mammiferi i globuli rossi maturi non hanno il nucleo.
+- Perché la forma a disco schiacciato è utile al globulo rosso?
+- I peli radicali sono cellule lunghe e sottili. A che cosa serve questa forma?
+- Tutte le cellule del corpo umano hanno la stessa forma.
+- Scegli una cellula specializzata e spiega come la sua forma la aiuta nel suo lavoro.
+
+## Perché le foglie cambiano colore [lib-1-media-scienze-foglie-autunno] · AUTUNNO
+concetti: Meno clorofilla; I colori nascosti; Caducifoglie e sempreverdi; Perché perderle
+- Che cosa smette di produrre la foglia in autunno?
+- I pigmenti gialli e arancioni sono presenti nella foglia anche in estate.
+- Le piante che perdono le foglie in autunno si chiamano ___.
+- Quale di queste piante è sempreverde?
+- Quali segnali avvertono l'albero che sta arrivando l'inverno?
+- Perché perdere le foglie aiuta un albero a superare l'inverno?
+- Senza foglie, un albero caducifoglio in inverno è morto.
+- Gli aghi di un pino non cadono in inverno. Che cosa li aiuta a non perdere troppa acqua?
+
 ## Pesci: la vita sott'acqua [lib-1-media-scienze-pesci] · PINNA
 concetti: Fatti per l'acqua; Respirare con le branchie; Ossei e cartilaginei; Sensi e galleggiamento
 - Con quali organi respirano i pesci?
@@ -442,6 +761,50 @@ concetti: Fatti per l'acqua; Respirare con le branchie; Ossei e cartilaginei; Se
 - Metti in ordine il percorso dell'acqua quando un pesce osseo respira.
 - Fuori dall'acqua un pesce muore soffocato, anche se l'aria contiene molto ossigeno. Perché?
 
+## Piante che si orientano [lib-1-media-scienze-tropismi-piante] · STELO
+concetti: Il fototropismo; Il geotropismo; Altri tropismi; Perché servono
+- Una piantina sul davanzale piega il fusto verso la finestra. Come si chiama questa risposta?
+- Le radici crescono verso il basso a causa della gravità.
+- Il fusto cresce verso l'___, cioè in direzione opposta alla gravità.
+- I viticci di una pianta di piselli si avvolgono intorno a un bastoncino. A che cosa reagiscono?
+- In un terreno asciutto le radici crescono verso una zona più umida. Che cosa mostra questo comportamento?
+- Perché i tropismi sono così importanti per le piante?
+- Se giri una piantina in vaso ogni giorno, il fusto crescerà più dritto.
+- Metti un vaso in una scatola chiusa con un solo buco su un lato. Che cosa succederà al fusto dopo alcuni gior…
+
+## Piante in ambienti estremi [lib-1-media-scienze-adattamenti-piante] · CACTUS
+concetti: Le piante del deserto; Le piante acquatiche; Le piante carnivore; Le piante di alta montagna
+- Che cosa sono le spine di un cactus?
+- Nel cactus la fotosintesi avviene soprattutto nel fusto verde.
+- Il fusto carnoso del cactus serve a conservare l'___.
+- Perché la ninfea ha gli stomi sulla parte superiore delle foglie?
+- Perché le piante carnivore catturano gli insetti?
+- Perché molte piante d'alta montagna crescono basse e a cuscinetto?
+- Le piante carnivore non hanno bisogno di luce perché si nutrono solo di insetti.
+- Scegli una pianta tra cactus, ninfea e pianta carnivora e spiega come è adattata al suo ambiente.
+
+## Polpi, seppie e calamari [lib-1-media-scienze-cefalopodi-polpi-seppie] · POLPO
+concetti: I cefalopodi; La conchiglia interna; Difese e colori; Nuotare a getto
+- A quale gruppo di animali appartiene il polpo?
+- Quante braccia ha un polpo?
+- La seppia ha una conchiglia interna, il cosiddetto osso di seppia.
+- Il ___ è l'unico dei tre a non avere alcuna conchiglia, neanche interna.
+- Che cosa fa una seppia quando un predatore la attacca?
+- Come fa un calamaro a scattare in avanti molto velocemente?
+- A che cosa serve ai cefalopodi poter cambiare colore?
+- Un polpo viene attaccato da un pesce predatore. Quali «armi» può usare per salvarsi? Spiegane almeno due.
+
+## Quando il suolo scivola [lib-1-media-scienze-erosione-e-frane] · FRANA
+concetti: L'erosione; Le frane; Le cause; Prevenire
+- Che cos'è l'erosione?
+- Una frana è lo scivolamento di terra e rocce lungo un pendio.
+- Quale di queste situazioni rende più probabile una frana?
+- Quando molta acqua si mescola a terra e detriti, una frana può diventare una colata di ___.
+- A che cosa servono i terrazzamenti sulle colline, come quelli delle Cinque Terre?
+- Il vento del deserto che trasporta sabbia e leviga le rocce è un esempio di...
+- A che cosa servono i canali che raccolgono l'acqua piovana su un pendio a rischio di frana?
+- Perché è pericoloso costruire case ai piedi di un pendio ripido e spoglio? Proponi un intervento per ridurre …
+
 ## Quando la materia cambia stato [lib-1-media-scienze-passaggi-di-stato] · FUSIONE
 concetti: Fusione e solidificazione; Evaporazione ed ebollizione; La condensazione; Sublimazione e brinamento; Temperatura costante
 - Come si chiama il passaggio da solido a liquido?
@@ -452,6 +815,28 @@ concetti: Fusione e solidificazione; Evaporazione ed ebollizione; La condensazio
 - Metti sul fuoco una pentola d'acqua con un termometro. Mentre l'acqua bolle, che cosa segna il termometro?
 - Dopo una notte limpida d'inverno, l'erba al mattino è coperta di brina. Da dove viene?
 - Perché quando metti un cubetto di ghiaccio in una bibita, la bibita si raffredda?
+
+## Quanto sale si scioglie? [lib-1-media-scienze-solubilita-saturazione] · SALE
+concetti: Soluto e solvente; La solubilità; La soluzione satura; Temperatura e velocità
+- In una bottiglia di acqua frizzante, qual è il soluto che forma le bollicine?
+- Una sostanza che non si scioglie in un solvente, come la sabbia nell'acqua, si dice ___.
+- Hai una soluzione satura di sale. Aggiungi altri 5 g di sale e mescoli a lungo, senza scaldare. Che cosa succ…
+- Nel tè caldo si scioglie più zucchero che nel tè freddo.
+- Mescolare con il cucchiaino fa sciogliere lo zucchero...
+- In 100 g d'acqua si sciolgono al massimo circa 36 g di sale. Quanto sale si scioglie al massimo in 300 g d'ac…
+- Sciogli 30 g di zucchero in acqua e ottieni 150 mL di soluzione ben mescolata. Quanto zucchero c'è in 50 mL d…
+- Una bibita gassata lasciata al caldo perde le bollicine più in fretta di una tenuta in frigo. Prova a spiegar…
+
+## Quattro tipi di tessuto [lib-1-media-scienze-tessuti-del-corpo] · TESSUTO
+concetti: Che cos'è un tessuto; Il tessuto epiteliale; Il tessuto connettivo; Muscolare e nervoso
+- Che cos'è un tessuto?
+- Quale tessuto forma lo strato più esterno della pelle?
+- Il sangue è considerato un tessuto connettivo.
+- Il tessuto ___ è capace di contrarsi e permette il movimento.
+- Quale tessuto porta i segnali dal cervello ai muscoli?
+- Il tessuto adiposo, cioè il grasso, a che cosa serve?
+- Un organo, come lo stomaco, è formato da un solo tipo di tessuto.
+- Il cuore è fatto di tessuto muscolare e riceve segnali dal tessuto nervoso. Spiega che compito ha ciascuno.
 
 ## Radice, fusto e foglia [lib-1-media-scienze-radice-fusto-foglia] · RADICE
 concetti: La radice; Il fusto; La foglia; Gli stomi
@@ -475,6 +860,116 @@ concetti: La pelle a squame; L'uovo con il guscio; Scaldarsi al sole; I gruppi d
 - Che cosa distingue le tartarughe dagli altri rettili?
 - Gli anfibi devono tornare in acqua per deporre le uova, i rettili no. Spiega perché, confrontando le loro uov…
 
+## Rifiuti: separa e ricicla [lib-1-media-scienze-rifiuti-raccolta-differenziata] · RICICLO
+concetti: Ridurre, riusare, riciclare; La raccolta differenziata; Il compost; Tempi lunghissimi
+- Quale delle tre R viene prima di tutte e riduce davvero i rifiuti?
+- In quale contenitore va una bottiglia di vetro vuota?
+- Dagli scarti di cibo e dalle foglie secche si ottiene il ___, un terriccio fertile.
+- La plastica abbandonata in mare scompare in pochi mesi.
+- Usare per anni la stessa borsa di stoffa per la spesa, invece dei sacchetti usa e getta, è un esempio di...
+- Perché è importante non mescolare i rifiuti?
+- Perché i sacchetti di plastica in mare sono pericolosi per le tartarughe?
+- Perché ridurre e riusare sono ancora meglio che riciclare? Spiega con un esempio.
+
+## Ripasso: acqua, aria e suolo [lib-1-media-scienze-ripasso-acqua-aria-suolo] · TERRA
+concetti: L'acqua; L'aria; Il suolo; Risorse da proteggere
+- Circa quanta parte della superficie della Terra è coperta dall'acqua?
+- Quando l'acqua del mare evapora, il sale resta nel mare.
+- Perché si dice che l'aria è un miscuglio?
+- La sostanza scura e fertile del suolo, prodotta dalla decomposizione dei resti dei viventi, si chiama ___.
+- Quale di questi componenti del suolo deriva dallo sgretolamento delle rocce?
+- Una fabbrica scarica sostanze inquinanti nel terreno. Quale risorsa rischia di inquinarsi anche se è sottoter…
+- Quale abitudine aiuta a proteggere insieme acqua, aria e suolo?
+- Spiega con un esempio come l'inquinamento di una di queste risorse (acqua, aria, suolo) può danneggiare anche…
+
+## Ripasso: dalla cellula ai regni [lib-1-media-scienze-ripasso-cellula-e-viventi] · CELLULA
+concetti: I viventi; La cellula; Cellula animale e vegetale; I cinque regni
+- Quale di queste NON è una caratteristica di tutti i viventi?
+- Nelle cellule eucariote il materiale genetico è chiuso dentro un nucleo.
+- Le cellule dei batteri non hanno il nucleo e si chiamano ___.
+- Quale struttura dà alla cellula vegetale una forma rigida, spesso squadrata?
+- Quale organulo si trova nella cellula vegetale ma NON in quella animale?
+- A quale regno appartiene la muffa che cresce sul pane vecchio?
+- Un organismo è pluricellulare, autotrofo e ha cellule con la parete. In quale regno lo metti?
+- Elenca due differenze tra una cellula animale e una cellula vegetale e spiega a che cosa servono le strutture…
+
+## Ripasso: il mondo animale [lib-1-media-scienze-ripasso-mondo-animale] · FAUNA
+concetti: Vertebrati e invertebrati; Le cinque classi di vertebrati; Temperatura del corpo; Invertebrati
+- Quale di questi animali è un vertebrato?
+- Alcuni invertebrati, come gli insetti e i granchi, hanno uno scheletro esterno.
+- Quale di questi animali è un pesce?
+- Gli invertebrati con esoscheletro e zampe articolate, come insetti, ragni e granchi, si chiamano ___.
+- Un gatto e un serpente stanno al sole a 30 °C, poi arriva una notte a 5 °C. Che cosa succede alla temperatura…
+- Quale di questi animali è un mollusco?
+- Che cosa hanno in comune un pinguino e un'aquila, anche se uno non vola e l'altra sì?
+- Una rana e una lucertola si somigliano un po' nella forma. Spiega a quali classi appartengono e quali caratte…
+
+## Ripasso: il mondo verde [lib-1-media-scienze-ripasso-mondo-delle-piante] · VERDE
+concetti: Le parti della pianta; La fotosintesi; Fiore, frutto e seme; I gruppi di piante
+- Quale parte della pianta assorbe l'acqua dal terreno?
+- La fotosintesi avviene in organuli verdi chiamati ___.
+- Con la fotosintesi la pianta trasforma l'energia della luce in energia contenuta negli zuccheri.
+- Dopo la fecondazione, che cosa diventa l'ovulo?
+- Metti in ordine le tappe dalla pianta in fiore alla nuova piantina.
+- A quale gruppo appartiene il pomodoro, che ha fiori e semi chiusi in un frutto?
+- Che cosa hanno in comune il pino e il melo?
+- Spiega come radice, fusto e foglia collaborano perché la pianta possa fare la fotosintesi.
+
+## Ripasso: materia e calore [lib-1-media-scienze-ripasso-materia-e-calore] · MATERIA
+concetti: Stati della materia; Passaggi di stato; Calore e temperatura; Effetti del calore
+- In quale stato le particelle sono lontane tra loro e si muovono liberamente in tutte le direzioni?
+- Metti una vaschetta d'acqua nel congelatore e dopo qualche ora trovi i cubetti di ghiaccio. Quale passaggio d…
+- I panni stesi si asciugano perché l'acqua passa allo stato di vapore per ___, anche senza bollire.
+- Se immergi un cucchiaio freddo nel latte caldo, è il freddo che passa dal cucchiaio al latte.
+- Un termometro appeso in classe segna 22 °C. Che cosa ti dice questo numero?
+- D'estate appoggi la mano su una ringhiera di ferro rimasta al sole e ti scotti. Come passa il calore dalla ri…
+- Una bottiglia di vetro piena d'olio fino all'orlo, lasciata aperta al sole, a un certo punto trabocca. Perché?
+- Spiega la differenza tra calore e temperatura con un esempio della vita quotidiana.
+
+## Scrivere una relazione scientifica [lib-1-media-scienze-relazione-di-laboratorio] · SCOPO
+concetti: Lo scopo; Materiali e procedimento; Osservazioni e dati; Le conclusioni
+- Con quale parte comincia di solito una relazione di laboratorio?
+- Nel procedimento i passaggi si possono scrivere in qualsiasi ordine, tanto chi legge capisce lo stesso.
+- Il procedimento va scritto con precisione, in modo che chiunque possa ___ l'esperimento.
+- Quale di queste frasi è un'osservazione adatta a una relazione?
+- Metti in ordine le parti di una relazione di laboratorio.
+- Durante l'esperimento ottieni un risultato diverso da quello che ti aspettavi. Che cosa scrivi nella relazion…
+- Che cosa si scrive nelle conclusioni di una relazione?
+- In un esperimento un cubetto di ghiaccio su un piatto di metallo si scioglie prima di uno uguale su un piatto…
+
+## Separare come in laboratorio [lib-1-media-scienze-tecniche-di-separazione] · IMBUTO
+concetti: La cromatografia; La centrifugazione; La distillazione; L'imbuto separatore
+- Fai la cromatografia su carta con un pennarello nero. Che cosa puoi scoprire?
+- Nella cromatografia su carta, tutti i colori di un inchiostro salgono lungo la carta alla stessa velocità.
+- Acqua e olio non si mescolano: in laboratorio per separarli si usa l'imbuto ___.
+- In ospedale una provetta di sangue viene fatta girare in una centrifuga. Che cosa succede?
+- Metti in ordine le fasi della distillazione dell'acqua salata.
+- In un imbuto separatore ci sono acqua e olio. Aprendo il rubinetto in basso, quale liquido esce per primo?
+- Perché con la distillazione si può ottenere acqua dolce dall'acqua di mare?
+- Hai un miscuglio di acqua, olio e sabbia. Come separi i tre componenti? Spiega in che ordine procedi.
+
+## Smog, l'aria che fa male [lib-1-media-scienze-inquinamento-aria-smog] · SMOG
+concetti: Gli inquinanti; Da dove vengono; Le piogge acide; Effetti e rimedi
+- Da quali parole inglesi deriva la parola smog?
+- Quale di queste attività inquina di più l'aria di una città?
+- Le polveri sottili sono particelle così piccole da entrare in profondità nei polmoni.
+- Le piogge ___ si formano quando ossidi di zolfo e di azoto si sciolgono nell'acqua piovana.
+- Che cosa provocano le piogge acide sulle statue di marmo?
+- Perché nei giorni di smog intenso molti comuni fermano le auto più vecchie?
+- Perché d'inverno nelle città lo smog è spesso peggiore?
+- Proponi due azioni che una famiglia può fare per inquinare meno l'aria e spiega perché funzionano.
+
+## Sole, vento e acqua: energia pulita [lib-1-media-scienze-fonti-di-energia-rinnovabili] · EOLICO
+concetti: Fonti non rinnovabili; Fonti rinnovabili; Come si usano; Perché sono importanti
+- Quale di queste è una fonte di energia NON rinnovabile?
+- I combustibili fossili si sono formati in milioni di anni dai resti di antichi viventi.
+- I pannelli ___ trasformano la luce del sole in elettricità.
+- Che cosa fa girare le turbine di una centrale idroelettrica?
+- Perché il vento è considerato una fonte rinnovabile?
+- Qual è un vantaggio ambientale delle fonti rinnovabili rispetto ai combustibili fossili?
+- Qual è un limite dei pannelli fotovoltaici?
+- Perché molti Paesi cercano di usare più energia rinnovabile e meno combustibili fossili?
+
 ## Solido, liquido o gassoso? [lib-1-media-scienze-stati-della-materia] · STATO
 concetti: Materia e particelle; Lo stato solido; Lo stato liquido; Lo stato gassoso
 - Quale di questi NON è materia?
@@ -485,6 +980,17 @@ concetti: Materia e particelle; Lo stato solido; Lo stato liquido; Lo stato gass
 - Quale caratteristica hanno in comune liquidi e gas?
 - Metti in ordine gli stati della materia, da quello con le particelle più vicine e legate a quello con le part…
 - Perché i liquidi prendono la forma del recipiente, mentre i solidi no? Spiegalo pensando alle particelle.
+
+## Spore: nascere senza seme [lib-1-media-scienze-spore-muschi-felci] · SPORA
+concetti: Che cosa sono le spore; Muschi e felci; Il bisogno di acqua; Spora e seme
+- Che cosa sono le spore?
+- Le spore delle felci sono così leggere che il vento può trasportarle lontano.
+- Dove si trovano le spore di una felce?
+- Muschi e felci vivono soprattutto in luoghi ___ perché serve acqua per la fecondazione.
+- Che cosa hanno le felci che i muschi non hanno?
+- Qual è una differenza tra spora e seme?
+- Perché le piante con i semi hanno conquistato più facilmente gli ambienti asciutti?
+- Una felce produce milioni di spore, mentre una pianta di fagiolo produce pochi semi. Perché questa differenza…
 
 ## Spugne, meduse e vermi [lib-1-media-scienze-invertebrati-semplici] · MEDUSA
 concetti: Chi sono gli invertebrati; Poriferi e celenterati; I vermi; Gli echinodermi
@@ -507,6 +1013,17 @@ concetti: Gli orizzonti del suolo; Sabbia, limo e argilla; La permeabilità; Il 
 - In un vaso l'acqua ristagna e le radici marciscono. Il terriccio è probabilmente...
 - Quale terreno è il migliore per un orto?
 - Prendi due vasi bucati uguali, uno con sabbia e uno con argilla, e versi in ciascuno la stessa quantità d'acq…
+
+## Tempo o clima? [lib-1-media-scienze-tempo-e-clima] · CLIMA
+concetti: Tempo e clima; La latitudine; L'altitudine; I climi d'Italia
+- Quale frase descrive il clima di una zona?
+- «Oggi piove a Milano» è un'informazione sul clima.
+- Per descrivere il clima di una zona si fa la media del tempo di almeno ___ anni.
+- Perché vicino all'equatore fa più caldo che vicino ai poli?
+- In un paese a 500 m di quota ci sono 20 °C. Più o meno quale temperatura troverai in un rifugio a 2500 m?
+- Perché sulle cime delle montagne più alte c'è neve anche d'estate?
+- Che clima c'è lungo le coste della Sicilia?
+- Perché l'ulivo cresce bene lungo le coste italiane ma non in alta quota sulle Alpi?
 
 ## Trasformazioni fisiche e chimiche [lib-1-media-scienze-trasformazioni-fisiche-chimiche] · RUGGINE
 concetti: Trasformazioni fisiche; Trasformazioni chimiche; Come riconoscerle; La combustione
@@ -541,6 +1058,28 @@ concetti: Perché classificare; Linneo e il nome scientifico; Le categorie; Che 
 - Perché gli scienziati usano i nomi latini invece dei nomi comuni degli animali?
 - Cavallo e asino si somigliano e possono avere un figlio insieme, il mulo. Perché allora sono considerati due …
 
+## Una cellula diventa due [lib-1-media-scienze-divisione-cellulare-mitosi] · MITOSI
+concetti: Perché le cellule si dividono; La copia del DNA; La mitosi; Raddoppiare ogni volta
+- Quale di questi è un motivo per cui le cellule del tuo corpo si dividono?
+- Con la mitosi una cellula forma due cellule figlie con lo stesso materiale genetico.
+- Prima di dividersi, la cellula fa una copia del suo ___, contenuto nel nucleo.
+- Perché la cellula copia il suo DNA prima di dividersi?
+- Metti in ordine le fasi principali della divisione di una cellula.
+- Un batterio si divide ogni 15 minuti. Partendo da un solo batterio, quanti ce ne saranno dopo un'ora?
+- Una cellula si divide e ogni cellula figlia fa lo stesso, per 5 volte di seguito. Quante cellule ottieni?
+- Perché una piccola ferita sulla pelle dopo qualche giorno si richiude?
+
+## Una o due foglioline? [lib-1-media-scienze-monocotiledoni-dicotiledoni] · MAIS
+concetti: I cotiledoni; Le monocotiledoni; Le dicotiledoni; Fiori a confronto
+- Che cosa sono i cotiledoni?
+- Un fiore di giglio ha 6 tepali, cioè un multiplo di 3: è tipico di una monocotiledone.
+- Quale di queste piante è una monocotiledone?
+- Le foglie delle monocotiledoni hanno nervature ___.
+- Quale di queste piante è una dicotiledone?
+- Osservi una foglia con le nervature ramificate a rete. Probabilmente appartiene a...
+- Un fiore ha 5 petali e le foglie hanno nervature a rete. A quale gruppo appartiene?
+- Trovi una pianta sconosciuta. Quali caratteristiche puoi osservare per capire se è una monocotiledone o una d…
+
 ## Viaggio dentro la cellula [lib-1-media-cellula] · NUCLEO
 concetti: La cellula, mattone della vita; Membrana, citoplasma e nucleo; Gli organuli al lavoro; Cellula animale e vegetale; Dalla cellula all'organismo
 - Quale di questi esseri viventi è formato da una sola cellula?
@@ -551,6 +1090,17 @@ concetti: La cellula, mattone della vita; Membrana, citoplasma e nucleo; Gli org
 - Se ti dimentichi di annaffiare una piantina, le sue foglie si afflosciano. Che cosa succede nelle sue cellule?
 - Il tuo corpo è formato da moltissime cellule, eppure anche una sola cellula è considerata viva. Perché?
 - La cellula si può paragonare a una piccola fabbrica. Spiega con parole tue quale parte fa da «direttore», qua…
+
+## Virus: vivi o non vivi? [lib-1-media-scienze-virus] · VIRUS
+concetti: Com'è fatto un virus; Parassiti delle cellule; Malattie da virus; Come difendersi
+- Rispetto a un batterio, un virus è...
+- Un virus è una cellula completa, con nucleo e citoplasma.
+- Un virus può riprodursi solo all'interno delle ___ di un altro organismo.
+- Perché molti scienziati non considerano i virus esseri viventi?
+- Quale di queste malattie è causata da un virus?
+- Perché, se hai l'influenza, è meglio restare a casa per qualche giorno?
+- Il vaccino aiuta il corpo a riconoscere un virus prima di incontrarlo davvero.
+- Perché lavarsi le mani e coprirsi bocca e naso quando si starnutisce aiuta a non diffondere i virus?
 
 ## Volume, densità e galleggiamento [lib-1-media-scienze-volume-densita] · DENSITA
 concetti: Il volume; Misurare il volume; La densità; Galleggiare o affondare

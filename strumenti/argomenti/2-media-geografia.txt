@@ -1,6 +1,61 @@
-# 2ª media · Geografia: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 2ª media · Geografia: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Albania, terra delle aquile [lib-2-media-geografia-albania] · AQUILA
+concetti: Il territorio; Una lingua unica; Dall'isolamento all'apertura; Verso l'Europa
+- Com'è soprattutto il territorio interno dell'Albania?
+- Su quali mari si affaccia l'Albania?
+- La lingua albanese è molto simile all'italiano perché deriva dal latino.
+- Nel 1991 la nave Vlora portò migliaia di albanesi nel porto di ___.
+- Perché tanti albanesi emigrarono all'inizio degli anni Novanta?
+- Qual è oggi il rapporto dell'Albania con l'Unione europea?
+- Che cosa significa che l'albanese forma un ramo a sé della famiglia indoeuropea?
+- Perché, secondo te, l'Albania è molto legata all'Italia?
+
+## Alluvioni e frane in Europa [lib-2-media-geografia-alluvioni-frane] · ARGINE
+concetti: Alluvioni e frane; Le cause; Difendersi dall'acqua; Un rischio che cresce
+- Che cos'è un'alluvione?
+- Che cos'è una frana?
+- Il cemento e l'asfalto aiutano il terreno ad assorbire l'acqua della pioggia.
+- Le aree vicino a un fiume dove l'acqua delle piene viene fatta sfogare apposta si chiamano casse di ___.
+- Perché tagliare i boschi sui pendii aumenta il rischio di frane?
+- Che cosa costruirono i Paesi Bassi dopo la grande alluvione del 1953?
+- Metti in ordine ciò che succede durante un'alluvione.
+- Che cosa possono fare un Comune e i cittadini per ridurre i danni delle alluvioni?
+
+## Alpi, il grande arco di roccia [lib-2-media-geografia-alpi-catena-montuosa] · ALPI
+concetti: Un arco di montagne; Le vette più alte; Ghiacciai in ritirata; Valichi e trafori
+- Quale catena montuosa separa l'Italia dal resto dell'Europa centrale?
+- Qual è la vetta più alta delle Alpi?
+- Le Alpi si trovano soltanto in Italia, Francia e Svizzera.
+- Il passaggio tra due montagne, nel punto più basso di una cresta, si chiama ___.
+- Perché i valichi alpini sono stati importanti fin dall'antichità?
+- Cosa succederebbe ai fiumi alimentati dai ghiacciai se questi sparissero?
+- Metti in ordine queste vette alpine dalla più alta alla più bassa.
+- Le Alpi toccano otto Stati: perché, secondo te, questi Stati devono collaborare per proteggerle?
+
+## Aria, acqua e inquinamento [lib-2-media-geografia-inquinamento-europa] · SMOG
+concetti: L'aria delle città; Le piogge acide; Mari e plastica; Le soluzioni
+- Quale di queste è una causa importante dello smog in città?
+- Che cosa rende acida la pioggia?
+- Il Mar Mediterraneo, essendo quasi chiuso, ricambia la sua acqua molto rapidamente.
+- Le minuscole particelle nell'aria che entrano nei polmoni si chiamano polveri ___.
+- Perché le piogge acide hanno danneggiato anche foreste lontane dalle fabbriche?
+- Perché i fertilizzanti usati nei campi possono danneggiare il Mar Baltico?
+- Quale scelta di ogni giorno aiuta a ridurre lo smog?
+- Perché per combattere l'inquinamento servono regole comuni europee e non solo leggi dei singoli Stati?
+
+## Atene, tra antico e moderno [lib-2-media-geografia-atene-capitale] · ATENE
+concetti: L'Acropoli; La capitale della Grecia; Il Pireo; Le Olimpiadi
+- Quale famoso tempio sorge sull'Acropoli di Atene?
+- Come si chiama il porto di Atene?
+- Le prime Olimpiadi dell'età moderna si svolsero ad Atene.
+- Atene prende il nome dalla dea ___.
+- Perché Atene concentra una parte così grande della popolazione greca?
+- Perché il Pireo è così importante per la Grecia?
+- Metti in ordine cronologico questi fatti legati ad Atene.
+- Quali vantaggi e quali problemi può avere una capitale in cui vive una parte enorme della popolazione di uno …
 
 ## Babele europea: lingue e fedi [lib-2-media-geografia-lingue-religioni] · LINGUA
 concetti: Lingue indoeuropee; I tre grandi gruppi; Lingue non indoeuropee; Le religioni
@@ -46,6 +101,61 @@ concetti: Tre Paesi insieme; Il Belgio; Paesi Bassi e polder; Il Lussemburgo
 - Metti in ordine le fasi della creazione di un polder.
 - Che cosa succederebbe ai polder se le dighe e le pompe smettessero di funzionare? Spiega perché.
 
+## Berlino, la città del Muro [lib-2-media-geografia-berlino-muro] · MURO
+concetti: Una città divisa; La caduta del Muro; La Berlino di oggi; Memoria e cambiamento
+- In quale anno fu costruito il Muro di Berlino?
+- Che cosa successe a Berlino la notte del 9 novembre 1989?
+- Berlino è la città più popolosa della Germania.
+- Il monumento simbolo di Berlino, che per anni rimase chiuso dal Muro, è la Porta di ___.
+- Perché fu costruito il Muro di Berlino?
+- Perché dopo la riunificazione il Parlamento e il governo tedeschi si trasferirono da Bonn a Berlino?
+- Perché alcuni tratti del Muro sono stati conservati invece di essere abbattuti?
+- Come sarà cambiata la vita di una famiglia di Berlino divisa dal Muro dopo il 1989?
+
+## Carbone, ferro e gas d'Europa [lib-2-media-geografia-risorse-minerarie] · MINIERA
+concetti: Il carbone; Il ferro; Petrolio e gas; Risorse non rinnovabili
+- A che cosa serve soprattutto il ferro estratto dalle miniere?
+- Quale fonte di energia alimentò la Rivoluzione industriale?
+- Bruciando carbone, petrolio e gas si producono gas serra che contribuiscono al riscaldamento del pianeta.
+- Il grande bacino carbonifero della Polonia meridionale si chiama ___.
+- Quali Paesi sfruttano soprattutto il petrolio del Mare del Nord?
+- In quale Stato si trova la grande miniera di ferro di Kiruna?
+- Perché molte acciaierie sorgevano vicino a miniere di carbone o a grandi porti?
+- Spiega il percorso che porta il minerale di ferro di una miniera come Kiruna a diventare parte di un'automobi…
+
+## Che cosa si coltiva in Europa? [lib-2-media-geografia-agricoltura-europea] · CAMPO
+concetti: Agricoltura moderna; Colture diverse per climi diversi; I grandi produttori; Intensiva ed estensiva
+- Quali colture sono tipiche del clima mediterraneo?
+- Qual è il primo produttore agricolo dell'Unione europea?
+- Nell'agricoltura europea di oggi lavora una piccola parte della popolazione.
+- Le serre dei Paesi Bassi, che producono molto in poco spazio, sono un esempio di agricoltura ___.
+- In quale zona d'Europa ti aspetti di trovare grandi campi di grano e mais?
+- Come fanno i Paesi Bassi, piccoli e affollati, a esportare tanti prodotti agricoli?
+- Quale di questi è un esempio di agricoltura estensiva?
+- Spiega perché in Europa non si coltivano le stesse cose dappertutto.
+
+## Che ore sono a Lisbona e ad Atene? [lib-2-media-geografia-fusi-orari-europa] · ORARIO
+concetti: I fusi orari; Il meridiano di Greenwich; Tre fusi per l'Europa UE; Andare a est o a ovest
+- In quante ore la Terra compie una rotazione completa su se stessa?
+- Da quale località passa il meridiano zero?
+- Quando in Italia sono le 12, ad Atene sono le 13.
+- Ogni fuso orario è ampio ___ gradi di longitudine.
+- Sono le 10 a Roma. Che ore sono a Lisbona?
+- Parti da Lisbona alle 8 (ora locale) e voli 4 ore fino ad Atene. Che ora segna l'orologio di Atene all'arrivo?
+- Viaggiando in aereo da Roma verso Helsinki, cosa devi fare con l'orologio?
+- Perché non può essere la stessa ora in tutto il mondo nello stesso momento?
+
+## Che tempo fa in Europa? [lib-2-media-geografia-climi-europa] · CLIMA
+concetti: Clima oceanico; Clima continentale; Clima mediterraneo; Climi freddi
+- In quali stagioni cade la maggior parte della pioggia nel clima mediterraneo?
+- Nel clima continentale la differenza tra temperature estive e invernali è piccola.
+- La differenza tra la temperatura più alta e quella più bassa si chiama escursione ___.
+- Perché l'oceano rende più miti gli inverni sulle coste atlantiche?
+- Una città con -15 °C a gennaio e +25 °C a luglio ha probabilmente clima…
+- Perché sulle Alpi fa più freddo che nella Pianura Padana, anche se sono vicine?
+- Sali su una montagna delle Alpi: metti in ordine gli ambienti che incontri dal basso verso l'alto.
+- Perché in uno stesso Paese, come l'Italia o l'Austria, puoi trovare climi diversi?
+
 ## Chi decide nell'Unione europea? [lib-2-media-geografia-istituzioni-ue] · VOTO
 concetti: Il Parlamento europeo; La Commissione europea; I due Consigli; Corte e Banca centrale
 - Quale istituzione europea è eletta direttamente dai cittadini?
@@ -79,6 +189,28 @@ concetti: La regione geografica; Le grandi regioni europee; Criteri diversi; Le 
 - Due zone d'Europa sono entrambe pianure, ma una ha inverni miti e l'altra inverni gelidi. Se le dividi in bas…
 - Scegli una grande regione europea e spiega quali caratteri hanno in comune i suoi Stati.
 
+## Come si entra nell'Unione europea? [lib-2-media-geografia-paesi-candidati-ue] · REGOLE
+concetti: I criteri di Copenaghen; Le tappe dell'adesione; I Paesi candidati; Perché entrare
+- Oltre alla democrazia, quale condizione chiede l'UE a uno Stato che vuole entrare?
+- Quale di questi Stati è un Paese candidato all'ingresso nell'UE?
+- Per l'ingresso di un nuovo Stato basta che lo approvi la maggioranza degli Stati membri.
+- Durante i negoziati lo Stato candidato deve adattare le proprie ___ alle regole europee.
+- Metti in ordine le tappe per entrare nell'Unione europea.
+- Quale vantaggio ottiene spesso un nuovo Stato membro con un reddito più basso della media?
+- Perché all'UE interessa che un Paese candidato abbia giudici indipendenti?
+- Perché, secondo te, il percorso per entrare nell'UE dura spesso molti anni?
+
+## Consiglio d'Europa e diritti umani [lib-2-media-geografia-consiglio-europa-diritti-uomo] · DIRITTI
+concetti: Un'organizzazione diversa dall'UE; La Convenzione europea; La Corte di Strasburgo; Non confondere i nomi
+- In quale città ha sede il Consiglio d'Europa?
+- Di che cosa si occupa soprattutto il Consiglio d'Europa?
+- Anche Stati che non fanno parte dell'UE, come Norvegia e Svizzera, sono membri del Consiglio d'Europa.
+- La Convenzione europea dei diritti dell'uomo fu firmata nel ___.
+- Che cosa può fare un cittadino che pensa che il suo Stato abbia violato un suo diritto fondamentale?
+- Che cosa deve fare un cittadino prima di rivolgersi alla Corte di Strasburgo?
+- Quale di queste è un'istituzione dell'Unione europea?
+- Perché dopo la Seconda guerra mondiale gli Stati europei sentirono il bisogno di un accordo comune sui diritt…
+
 ## Da sei a ventisette Stati [lib-2-media-geografia-allargamenti-ue] · STATI
 concetti: I sei fondatori; Le tappe degli allargamenti; Il grande allargamento del 2004; L'UE di oggi
 - Quanti erano i Paesi fondatori delle Comunità europee?
@@ -101,6 +233,17 @@ concetti: Perché unirsi; La CECA; I Trattati di Roma; Maastricht e Lisbona
 - Metti in ordine queste tappe della costruzione europea, dalla più antica alla più recente.
 - Perché, secondo te, Paesi che si erano combattuti in due guerre mondiali scelsero di collaborare?
 
+## Dalla tundra alla macchia mediterranea [lib-2-media-geografia-fasce-vegetazione] · TAIGA
+concetti: Tundra; Taiga; Foreste di latifoglie e steppa; Macchia mediterranea
+- Perché le conifere della taiga resistono bene al freddo e alla neve?
+- Perché nella tundra non crescono alberi alti?
+- La macchia mediterranea è formata soprattutto da piante sempreverdi.
+- La prateria senza alberi delle pianure asciutte dell'Europa orientale si chiama ___.
+- Perché molte piante mediterranee hanno foglie piccole e dure?
+- Quali alberi trovi in una foresta di latifoglie dell'Europa centrale?
+- Metti in ordine questi ambienti naturali da nord a sud.
+- Perché la vegetazione cambia così tanto passando dalla Lapponia alla Sicilia?
+
 ## Danimarca e Islanda: vento e geyser [lib-2-media-geografia-danimarca-islanda] · GEYSER
 concetti: La Danimarca; Energia dal vento; Islanda, fuoco e ghiaccio; La geotermia
 - Qual è la capitale della Danimarca?
@@ -112,6 +255,28 @@ concetti: La Danimarca; Energia dal vento; Islanda, fuoco e ghiaccio; La geoterm
 - Quale grande isola, vicina all'America del Nord, fa parte del Regno di Danimarca?
 - Danimarca e Islanda producono molta energia pulita, ma in modi diversi. Spiega quali fonti usano e perché cia…
 
+## Delta o estuario? Le foci europee [lib-2-media-geografia-foci-delta-estuario] · DELTA
+concetti: La foce a delta; La foce a estuario; Fiumi alpini e mediterranei; Bacini e spartiacque
+- Che cos'è il delta di un fiume?
+- Quale di questi fiumi sfocia nel mare con un estuario?
+- Il Po, prima di sfociare nell'Adriatico, si divide in più rami formando un delta.
+- Il territorio da cui un fiume e i suoi affluenti raccolgono tutta l'acqua si chiama bacino ___.
+- In Sicilia e in Calabria molti corsi d'acqua, chiamati fiumare, d'estate sono quasi asciutti. Perché?
+- L'Inn nasce sulle Alpi svizzere ed è un affluente del Danubio. In quale mare arriva la sua acqua?
+- Metti in ordine le fasi della formazione di un delta.
+- Spiega che cos'è uno spartiacque e perché dalle Alpi l'acqua può finire in mari diversi.
+
+## DOP e IGP: sapori protetti [lib-2-media-geografia-prodotti-dop-igp] · SAPORE
+concetti: Che cosa sono DOP e IGP; La differenza; Esempi in Europa; Contro le imitazioni
+- Che cosa garantisce il marchio DOP?
+- Quale Paese dell'UE ha più prodotti alimentari DOP e IGP?
+- In un prodotto DOP tutte le fasi di produzione devono avvenire nella zona d'origine.
+- La ___ è un formaggio DOP tipico della Grecia.
+- Qual è la differenza principale tra DOP e IGP?
+- Perché un formaggio prodotto in un altro continente non può chiamarsi Parmigiano Reggiano nell'UE?
+- Come aiuta un prodotto DOP l'economia di un piccolo territorio?
+- Perché un consumatore può fidarsi di più di un prodotto con il marchio DOP o IGP?
+
 ## Dove inizia e finisce l'Europa? [lib-2-media-geografia-confini-europa] · CONFINE
 concetti: Un continente unito all'Asia; I confini orientali; Mari e oceani; Piccola e frastagliata
 - Quale oceano bagna l'Europa a ovest?
@@ -122,6 +287,50 @@ concetti: Un continente unito all'Asia; I confini orientali; Mari e oceani; Picc
 - Su quale penisola si trovano Spagna e Portogallo?
 - Perché si dice che il confine tra Europa e Asia è «convenzionale»?
 - Le coste europee sono molto frastagliate, con golfi, penisole e isole. Perché questo ha favorito, nella stori…
+
+## Europa ai tropici: le regioni lontane [lib-2-media-geografia-regioni-ultraperiferiche] · TROPICI
+concetti: Che cosa sono; Quali sono; Caratteristiche; Un aiuto speciale
+- A quale Stato appartengono le Isole Canarie?
+- Quale di queste è una regione ultraperiferica del Portogallo?
+- Nelle regioni ultraperiferiche si usa l'euro.
+- Le regioni ultraperiferiche dell'Unione europea sono in tutto ___.
+- Quali due regioni ultraperiferiche francesi sono isole del Mar dei Caraibi?
+- Perché per le imprese delle regioni ultraperiferiche è difficile vendere in Europa?
+- Perché l'UE dà aiuti speciali a queste regioni?
+- Immagina di vivere nell'isola della Riunione, nell'Oceano Indiano. In che cosa la tua vita sarebbe europea e …
+
+## Europa atlantica: oceano e maree [lib-2-media-geografia-europa-atlantica-caratteri] · MAREA
+concetti: Una regione affacciata sull'oceano; Clima oceanico; Le maree; Porti e commerci
+- Quale di questi Paesi si affaccia sull'Oceano Atlantico?
+- Come sono le temperature nel clima oceanico?
+- Sulle coste atlantiche le maree sono generalmente più forti che nel Mediterraneo.
+- Il periodico alzarsi e abbassarsi del livello del mare si chiama ___.
+- Perché in Irlanda e in Bretagna c'è molto allevamento di mucche?
+- Quale tratto di mare, tra Francia e Regno Unito, è uno dei più trafficati dalle navi in tutto il mondo?
+- Che cosa succede a Mont-Saint-Michel durante la bassa marea?
+- Confronta l'Europa atlantica e l'Europa mediterranea: indica due differenze.
+
+## Europa della ricerca e dello spazio [lib-2-media-geografia-ricerca-spazio-europa] · RAZZO
+concetti: Il CERN; L'Agenzia spaziale europea; Satelliti per tutti; Perché collaborare
+- Vicino a quale città si trova il CERN?
+- Quale invenzione usata da tutti è nata al CERN?
+- All'Agenzia spaziale europea (ESA) partecipano soltanto Stati dell'Unione europea.
+- Il sistema europeo di navigazione satellitare, simile al GPS, si chiama ___.
+- A che cosa servono i satelliti del programma Copernicus?
+- Perché i Paesi europei collaborano nella ricerca spaziale invece di fare tutto da soli?
+- Perché è conveniente lanciare razzi da una base vicina all'equatore?
+- Come possono i satelliti europei essere utili nella vita di tutti i giorni?
+
+## Europa orientale: pianure e cambiamenti [lib-2-media-geografia-europa-orientale-caratteri] · ORIENTE
+concetti: Un territorio di pianure; Clima continentale; Dal comunismo alla democrazia; Economia e migrazioni
+- Che tipo di rilievo prevale nell'Europa orientale?
+- Quale clima prevale nell'Europa orientale?
+- Dopo il 1989 molti Paesi dell'Europa orientale sono diventati democrazie.
+- Il grande fiume che attraversa Kiev, capitale dell'Ucraina, è il ___.
+- Che cosa cambiò nell'economia dei Paesi dell'est dopo la fine del comunismo?
+- Molti emigrati dell'Est mandano ogni mese una parte dello stipendio alle famiglie rimaste a casa. Come si chi…
+- Quale problema può nascere in un Paese da cui emigrano molti giovani?
+- Come pensi sia cambiata la vita di una famiglia in Polonia dopo il 1989 e l'ingresso nell'UE nel 2004?
 
 ## Europa, regina del turismo [lib-2-media-geografia-turismo-europa] · TURISTA
 concetti: Un continente di turisti; Tipi di turismo; Il patrimonio UNESCO; Troppi turisti
@@ -144,6 +353,17 @@ concetti: Da emigrazione a immigrazione; Migrazioni dentro l'Europa; Spinta e at
 - Perché le coste italiane sono uno dei principali punti d'arrivo dei migranti che attraversano il Mediterraneo?
 - Perché tra Ottocento e Novecento molti italiani emigrarono in America?
 - Spiega la differenza tra fattori di spinta e fattori di attrazione nelle migrazioni, con un esempio per ciasc…
+
+## Fabbriche d'Europa: auto e aerei [lib-2-media-geografia-industria-europea] · MOTORE
+concetti: Una lunga storia industriale; L'automobile; Aerei e alta tecnologia; Industria che cambia
+- In quale Paese è iniziata la Rivoluzione industriale?
+- Perché l'industria dell'automobile dà lavoro anche a molte altre industrie?
+- Gli aerei Airbus sono costruiti da un'impresa nata dalla collaborazione di più Paesi europei.
+- Le macchine programmate che nelle fabbriche moderne fanno lavori ripetitivi si chiamano ___.
+- Quale città italiana è stata per oltre un secolo la capitale dell'automobile, sede della FIAT?
+- Perché per costruire un aereo come l'Airbus collaborano più Stati?
+- Cosa è successo in molte regioni europee quando le acciaierie e le miniere hanno chiuso?
+- Quali vantaggi e quali problemi porta l'uso dei robot nelle fabbriche?
 
 ## Fiordi, ghiacci e sole di mezzanotte [lib-2-media-geografia-regione-nordica-ambiente] · FIORDO
 concetti: I fiordi; La Corrente del Golfo; Sole di mezzanotte e notte polare; Tundra e taiga
@@ -244,6 +464,17 @@ concetti: Il clima mediterraneo; L'agricoltura; Un mare quasi chiuso; Problemi c
 - Che cosa si intende per «cementificazione» delle coste?
 - Spiega come il clima mediterraneo influenza sia le coltivazioni sia il turismo.
 
+## I mari che circondano l'Europa [lib-2-media-geografia-mari-europei] · MARE
+concetti: Mari e oceani; Il Baltico; Stretti importanti; Il Mare del Nord
+- Quale mare bagna l'Europa a nord?
+- Una nave parte da Genova diretta a Lisbona. Quale stretto deve attraversare?
+- Il Mar Baltico è più salato del Mediterraneo.
+- Il tratto più stretto della Manica, tra Inghilterra e Francia, si chiama Passo di ___.
+- Perché il Mare del Nord è così ricco di pesce?
+- Perché d'inverno il Baltico ghiaccia più facilmente di altri mari?
+- Quale mare bagna sia la Romania sia la Turchia?
+- Perché gli stretti come Gibilterra e il Bosforo sono considerati luoghi strategici?
+
 ## I piccolissimi Stati d'Europa [lib-2-media-geografia-microstati] · PICCOLO
 concetti: Che cosa sono i microstati; Vaticano e San Marino; Monaco, Andorra e Liechtenstein; Fuori dall'UE
 - Qual è lo Stato più piccolo del mondo?
@@ -277,6 +508,17 @@ concetti: Quattro nazioni; Le isole britanniche; La Brexit; L'economia
 - Dopo la Brexit, che cosa è cambiato per uno studente italiano che vuole studiare a lungo in Inghilterra?
 - Spiega che cos'è stata la Brexit e indica una conseguenza pratica per chi viaggia o lavora tra Italia e Regno…
 
+## Il Reno, autostrada d'acqua [lib-2-media-geografia-reno-fiume] · RENO
+concetti: Il percorso del Reno; Una grande via di trasporto; Città lungo il Reno; Fiume e industria
+- Dove nasce il Reno?
+- Da quale città svizzera il Reno diventa navigabile per le grandi navi fluviali?
+- Per un tratto il Reno fa da confine tra Francia e Germania.
+- La città tedesca sul Reno famosa per la sua enorme cattedrale gotica è ___.
+- Perché le chiatte sul Reno sono un modo conveniente di trasportare merci pesanti?
+- Metti in ordine i luoghi attraversati dal Reno dalla sorgente alla foce.
+- Negli ultimi decenni nel Reno sono tornati pesci, come il salmone, che erano quasi scomparsi. Che cosa indica?
+- Il Reno attraversa diversi Stati: perché per tenerlo pulito è servito che collaborassero tra loro?
+
 ## Irlanda, l'isola di smeraldo [lib-2-media-geografia-irlanda] · DUBLINO
 concetti: L'isola verde; Un'isola divisa; La grande carestia; Un'economia moderna
 - Qual è la capitale della Repubblica d'Irlanda?
@@ -298,6 +540,28 @@ concetti: Rinnovabili e non rinnovabili; La dipendenza dall'estero; Scelte diver
 - Perché dopo il 2022 l'UE ha cercato altri fornitori di gas e più energia rinnovabile?
 - Quale di queste azioni aiuta a consumare meno energia in casa?
 - Perché i Paesi europei non usano tutti le stesse fonti di energia? Fai almeno un esempio.
+
+## L'Europa dei servizi [lib-2-media-geografia-terziario-servizi] · BANCA
+concetti: Il settore terziario; La maggior parte dei lavoratori; Le capitali della finanza; Il terziario avanzato
+- Quale di questi lavori appartiene al settore terziario?
+- Negli ultimi decenni, in Europa, i lavoratori del terziario sono diminuiti.
+- Quale di queste città è un grande centro finanziario europeo?
+- Ricerca, informatica e consulenza fanno parte del terziario ___.
+- Una ragazza fa la commessa, il suo papà guida un autobus. In quale settore lavorano?
+- Perché una grande banca sceglie di avere sede in un centro finanziario come Londra?
+- Perché i Paesi con molto terziario avanzato investono nelle università?
+- Perché, secondo te, nei Paesi europei il terziario è cresciuto mentre agricoltura e industria occupano meno p…
+
+## L'Europa nel tuo zaino: i consumatori [lib-2-media-geografia-consumatori-ue] · TUTELA
+concetti: Niente roaming; Garanzia di due anni; Il marchio CE; Diritti di chi viaggia e caricatore unico
+- Il roaming «come a casa» vale in tutti i Paesi del mondo.
+- Quanto dura almeno la garanzia legale su un prodotto comprato nell'UE?
+- Il marchio CE indica che il prodotto rispetta le regole europee di sicurezza.
+- Dal 2024 i nuovi smartphone venduti nell'UE devono avere un caricatore di tipo ___.
+- Compri delle cuffie e dopo un anno smettono di funzionare per un difetto. Cosa puoi fare?
+- Perché l'UE ha imposto un unico tipo di caricatore per i telefoni?
+- Il tuo volo viene cancellato all'ultimo momento. Secondo le regole UE…
+- Perché è più semplice proteggere i consumatori con regole europee invece che con 27 leggi diverse?
 
 ## L'Italia nel cuore del Mediterraneo [lib-2-media-geografia-italia-in-europa] · PONTE
 concetti: La posizione; I confini; Tra i fondatori dell'Europa; L'economia italiana nell'UE
@@ -321,6 +585,127 @@ concetti: I tre settori; La banana blu; Centro e periferia; La delocalizzazione
 - Una regione è lontana dai grandi mercati e ha poche strade e pochi servizi. Che cosa è probabile?
 - Un'azienda italiana chiude una fabbrica in Lombardia e ne apre una in Romania. Spiega perché lo fa e quali co…
 
+## La Carta dei diritti dell'UE [lib-2-media-geografia-carta-diritti-fondamentali] · DIGNITA
+concetti: Che cos'è la Carta; Le date; I sei capitoli; Diritti concreti
+- In quale città fu proclamata la Carta dei diritti fondamentali dell'UE?
+- Che cosa dice la Carta sulla pena di morte?
+- La Carta è diventata obbligatoria come un trattato grazie al Trattato di Lisbona.
+- Il primo capitolo della Carta è dedicato alla ___ umana.
+- Il diritto di votare alle elezioni europee si trova nel capitolo…
+- Una scuola rifiuta un'alunna per il colore della sua pelle. Quale principio della Carta viene violato?
+- Perché la Carta protegge anche i dati personali?
+- Scegli un diritto della Carta e spiega perché è importante nella tua vita di tutti i giorni.
+
+## La Grande Pianura Europea [lib-2-media-geografia-grande-pianura-europea] · PIANURA
+concetti: Una pianura immensa; Origine dei suoli; Altre pianure; Vivere in pianura
+- Fino a quali montagne arriva a est la Grande Pianura Europea?
+- La Grande Pianura Europea diventa più stretta andando verso est.
+- In quale Stato si trova la Pianura Pannonica?
+- La più grande pianura d'Italia, attraversata dal Po, è la Pianura ___.
+- Quale forza naturale ha modellato gran parte della pianura del nord Europa?
+- Perché le pianure sono di solito molto popolate?
+- Quale di queste capitali sorge nella Grande Pianura Europea?
+- Perché un mercante del passato trovava più facile attraversare la Polonia che la Svizzera?
+
+## La Lega Anseatica: mercanti del Nord [lib-2-media-geografia-lega-anseatica-baltico] · HANSA
+concetti: Che cos'era; Le città della Lega; Che cosa si commerciava; Un'eredità visibile
+- Su quali mari commerciavano le città della Lega Anseatica?
+- Quale città era la più importante della Lega Anseatica?
+- Riga e Tallinn, oggi capitali di Paesi baltici, facevano parte della Lega Anseatica.
+- Uno dei pesci più commerciati dalla Lega Anseatica era l'___.
+- Perché il sale era una merce preziosa per i mercanti anseatici?
+- Perché delle città mercantili decisero di allearsi?
+- Che cosa puoi vedere ancora oggi in molte città anseatiche?
+- In che cosa la Lega Anseatica ricorda, in piccolo, l'idea di collaborazione dell'Unione europea?
+
+## La NATO: un'alleanza per la difesa [lib-2-media-geografia-nato-alleanza] · ALLEATI
+concetti: Che cos'è la NATO; La difesa collettiva; NATO e UE non coincidono; Gli ultimi ingressi
+- In quale città ha sede la NATO?
+- Che tipo di organizzazione è la NATO?
+- Tutti gli Stati dell'Unione europea fanno parte della NATO.
+- Nella NATO un attacco contro un alleato è considerato un attacco contro ___.
+- Quale di questi Stati è nella NATO ma non nell'Unione europea?
+- Perché Finlandia e Svezia hanno deciso di entrare nella NATO dopo il 2022?
+- Metti in ordine cronologico questi fatti legati alla NATO.
+- Spiega con parole tue che cosa significa difesa collettiva e perché può scoraggiare un attacco.
+
+## Laghi d'Europa: specchi d'acqua [lib-2-media-geografia-laghi-europei] · LAGO
+concetti: Laghi glaciali; I laghi più grandi; Laghi tra Stati; A cosa servono i laghi
+- Qual è il lago più grande d'Europa?
+- Perché la Finlandia è chiamata la terra dei mille laghi?
+- Il Lago di Costanza è condiviso da Germania, Austria e Svizzera.
+- Il lago più grande d'Italia è il Lago di ___.
+- Il Lemano è chiamato anche lago di quale città svizzera?
+- Perché sulle rive dei grandi laghi prealpini crescono anche ulivi e limoni?
+- Come è nato un lago glaciale?
+- Spiega due modi in cui un grande lago può essere utile alle persone che vivono vicino.
+
+## Le capitali del Nord [lib-2-media-geografia-capitali-nordiche] · NORD
+concetti: Oslo e Stoccolma; Copenaghen e il ponte; Helsinki; Reykjavík
+- In quale capitale nordica vengono consegnati ogni anno quasi tutti i premi Nobel?
+- Quale capitale si trova di fronte a Helsinki, sull'altra sponda del Golfo di Finlandia?
+- Reykjavík è la capitale di Stato più a nord del mondo.
+- Il ponte di Øresund collega Copenaghen alla città svedese di ___.
+- Dove sorge Oslo?
+- Perché il ponte di Øresund è importante per Danimarca e Svezia?
+- Cosa succede a Reykjavík d'estate rispetto a Roma?
+- Perché quasi tutte le capitali nordiche sorgono sul mare?
+
+## Le grandi isole del Mediterraneo [lib-2-media-geografia-isole-mediterraneo] · CORSICA
+concetti: Le isole maggiori; A chi appartengono; Paesaggi e clima; Vivere su un'isola
+- Qual è l'isola più grande del Mediterraneo?
+- A quale Stato appartiene la Corsica?
+- Le grandi isole del Mediterraneo sono quasi tutte pianeggianti, senza montagne.
+- Maiorca e Minorca fanno parte delle isole ___.
+- Metti in ordine queste isole dalla più grande alla più piccola.
+- Che clima hanno le grandi isole del Mediterraneo?
+- Perché su un'isola molti prodotti costano di più che sul continente?
+- Quali vantaggi e quali svantaggi ha vivere su una grande isola del Mediterraneo?
+
+## Le quattro libertà del mercato unico [lib-2-media-geografia-mercato-unico-quattro-liberta] · MERCATO
+concetti: Che cos'è il mercato unico; Le quattro libertà; Regole comuni; Vantaggi e sfide
+- Che cosa non c'è tra i Paesi del mercato unico europeo?
+- Quale di queste NON è una delle quattro libertà del mercato unico?
+- Il mercato unico europeo è entrato in funzione nel 1993.
+- Un idraulico italiano che lavora in Austria usa la libera circolazione dei ___.
+- Una famiglia spagnola apre un conto in una banca tedesca. Quale libertà sta usando?
+- Perché per vendere un giocattolo in tutta l'UE servono regole comuni sulla sicurezza?
+- Quale vantaggio porta il mercato unico ai consumatori?
+- Perché il mercato unico può essere un'opportunità ma anche una sfida per una piccola impresa?
+
+## Leggere carte e grafici d'Europa [lib-2-media-geografia-carte-tematiche-grafici] · CARTA
+concetti: Tipi di carte; Scala e legenda; I grafici; Scegliere lo strumento giusto
+- Quale carta usi per trovare i confini tra gli Stati europei?
+- A che cosa serve la legenda di una carta?
+- Una carta che mostra solo la densità di popolazione d'Europa è una carta tematica.
+- Su una carta in scala 1:1.000.000, 1 cm corrisponde a ___ km nella realtà.
+- Vuoi mostrare come è divisa in percentuale la produzione di energia di un Paese. Quale grafico scegli?
+- Quale grafico è più adatto per mostrare come è cambiata la popolazione di Roma dal 1900 a oggi?
+- Devi capire quali regioni europee sono più piovose. Quale strumento ti serve?
+- Spiega la differenza tra una carta fisica e una carta politica e dai un esempio di quando useresti ciascuna.
+
+## Londra, città sul Tamigi [lib-2-media-geografia-londra-metropoli] · LONDRA
+concetti: Una metropoli mondiale; La City; Westminster e il Big Ben; La metropolitana più antica
+- Quale popolo antico fondò Londra, chiamandola Londinium?
+- Di quale Stato è capitale Londra?
+- La metropolitana di Londra è la più antica del mondo.
+- Il quartiere degli affari e delle banche di Londra si chiama ___.
+- In quale edificio di Londra si riunisce il Parlamento del Regno Unito?
+- Perché Londra è considerata una città multiculturale?
+- Il Big Ben, uno dei simboli di Londra, è in realtà…
+- Perché in una metropoli come Londra la metropolitana è così importante?
+
+## Madrid e Barcellona a confronto [lib-2-media-geografia-madrid-barcellona] · GAUDI
+concetti: Madrid, la capitale; Barcellona sul mare; Gaudí e la Sagrada Família; Lingue e identità
+- Dove si trova Madrid, capitale della Spagna?
+- Su quale mare si affaccia Barcellona?
+- Il Museo del Prado, uno dei più famosi del mondo, si trova a Barcellona.
+- La Sagrada Família di Barcellona fu progettata dall'architetto ___.
+- Perché si dice che la Catalogna ha una forte identità?
+- Barcellona è il capoluogo di quale comunità autonoma?
+- Perché la Sagrada Família, iniziata nell'Ottocento, non è ancora finita?
+- Confronta Madrid e Barcellona: indica due differenze tra le due città.
+
 ## Malta e Cipro, isole d'Europa [lib-2-media-geografia-malta-cipro] · MALTA
 concetti: Malta; Un crocevia del Mediterraneo; Cipro; Nell'Unione europea
 - Qual è la capitale di Malta?
@@ -331,6 +716,17 @@ concetti: Malta; Un crocevia del Mediterraneo; Cipro; Nell'Unione europea
 - Quale situazione particolare vive Cipro dal 1974?
 - Perché a Malta l'inglese è lingua ufficiale accanto al maltese?
 - Malta e Cipro sono isole piccole, con poche risorse naturali. Spiega di quali attività vivono e perché la lor…
+
+## Minoranze: tante lingue in uno Stato [lib-2-media-geografia-minoranze-linguistiche] · SAMI
+concetti: Che cos'è una minoranza; I Sami della Lapponia; Gallesi e Baschi; Minoranze in Italia
+- Che cos'è una minoranza linguistica?
+- In quale regione d'Europa vivono i Sami?
+- Nel Galles il gallese è lingua ufficiale insieme all'inglese.
+- In Alto Adige gran parte degli abitanti parla, oltre all'italiano, il ___.
+- Quale attività è tradizionale per molti Sami?
+- In quale regione italiana a statuto speciale si parla anche il francese?
+- Perché uno Stato tutela la lingua delle sue minoranze, per esempio a scuola?
+- Perché, secondo te, è importante che una minoranza possa studiare e usare la propria lingua?
 
 ## Misurare la ricchezza: PIL e ISU [lib-2-media-geografia-pil-isu-indicatori] · INDICE
 concetti: Il PIL; Il PIL pro capite; L'ISU; Leggere i dati con attenzione
@@ -353,6 +749,50 @@ concetti: Un Paese lungo e montuoso; Fuori dall'UE; Petrolio e gas; Mare e acqua
 - Perché in Norvegia la maggior parte delle città si trova sulla costa?
 - Perché la Norvegia mette da parte i guadagni del petrolio in un grande fondo?
 - Indica due risorse naturali della Norvegia e spiega come il Paese le sfrutta.
+
+## Parchi e natura da proteggere [lib-2-media-geografia-aree-protette] · PARCO
+concetti: Che cos'è un parco; Natura 2000; Esempi famosi; Parchi e persone
+- A che cosa serve principalmente un parco nazionale?
+- Quale animale è il simbolo del Parco nazionale del Gran Paradiso?
+- Natura 2000 è una rete di aree protette dell'Unione europea.
+- I famosi laghi e cascate di Plitvice si trovano in ___.
+- Perché è utile collegare tra loro le aree protette in una rete?
+- Durante una gita in un parco nazionale, quale comportamento è corretto?
+- Come può un parco aiutare l'economia di un paese di montagna?
+- Perché proteggere un parco è utile non solo agli animali ma anche alle persone?
+
+## Parigi, la Ville Lumière [lib-2-media-geografia-parigi-capitale] · PARIGI
+concetti: Una città sulla Senna; Monumenti famosi; Una capitale accentratrice; La Défense
+- Quale celebre cattedrale gotica sorge su un'isola della Senna, nel cuore di Parigi?
+- Per quale occasione fu costruita la Torre Eiffel?
+- Il Louvre è uno dei musei più visitati al mondo.
+- Il nucleo più antico di Parigi è un'isola della Senna chiamata Île de la ___.
+- Che cos'è La Défense?
+- Cosa significa che la Francia ha una capitale accentratrice?
+- Quale problema può nascere quando quasi tutto si concentra nella capitale?
+- Perché, secondo te, tanti giovani francesi si trasferiscono a Parigi per studiare o lavorare?
+
+## Perché le carte deformano il mondo? [lib-2-media-geografia-proiezioni-carte] · MAPPA
+concetti: Dalla sfera al piano; La carta di Mercatore; La carta di Peters; Il mappamondo
+- Perché ogni carta piatta del mondo contiene deformazioni?
+- Qual è la rappresentazione più fedele della Terra?
+- Sulla carta di Mercatore la Groenlandia sembra grande quasi come l'Africa, ma in realtà è molto più piccola.
+- La proiezione che conserva le proporzioni tra le superfici dei continenti è quella di ___.
+- Perché la carta di Mercatore era molto apprezzata dai naviganti?
+- Su una carta di Mercatore, quale di questi Paesi appare più ingrandito rispetto alla realtà?
+- Perché, nonostante tutto, usiamo le carte piatte invece del solo mappamondo?
+- Perché per confrontare la grandezza di Europa e Africa è meglio usare una carta di Peters che una di Mercator…
+
+## Pirenei, Carpazi e Urali [lib-2-media-geografia-altre-catene-montuose] · MONTE
+concetti: I Pirenei; I Carpazi; Urali e Caucaso; Monti giovani e antichi
+- Tra quali acque si allungano i Pirenei, da un capo all'altro?
+- Qual è la vetta più alta del Caucaso, che supera i 5.600 metri?
+- I Carpazi si trovano soprattutto in Romania e nei Paesi vicini dell'Europa orientale.
+- Il lento consumo delle rocce causato da pioggia, vento e ghiaccio si chiama ___.
+- Perché gli Urali sono più bassi e arrotondati delle Alpi?
+- Quale di questi Stati NON è attraversato dai Carpazi?
+- Una catena con cime alte, appuntite e piene di ghiacciai è probabilmente…
+- Confronta le Alpi e gli Urali: in che cosa sono diversi e perché?
 
 ## Polonia, la grande pianura [lib-2-media-geografia-polonia] · VISTOLA
 concetti: Un Paese di pianura; La Vistola; Dalla fine del comunismo all'UE; L'economia
@@ -387,6 +827,39 @@ concetti: La Repubblica Ceca; La fine della Cecoslovacchia; L'Ungheria; Paesi se
 - Per quale motivo Praga attira ogni anno milioni di turisti?
 - Il Danubio attraversa Bratislava e Budapest. Spiega perché un grande fiume navigabile è importante per Paesi …
 
+## Quanti abitanti per chilometro quadrato? [lib-2-media-geografia-densita-popolazione-calcolo] · DENSO
+concetti: Che cos'è la densità; Esempi europei; Perché cambia; Media e realtà
+- Come si calcola la densità di popolazione?
+- Uno Stato ha 5.000.000 di abitanti e una superficie di 50.000 km². Qual è la sua densità?
+- L'Islanda è uno degli Stati più densamente popolati d'Europa.
+- Una regione di 12.000 km² con 3.600.000 abitanti ha una densità di ___ abitanti per km².
+- Quale di queste zone ha probabilmente la densità di popolazione più alta?
+- Metti in ordine questi Stati dalla densità di popolazione più alta alla più bassa.
+- La Russia ha una densità media bassa. Questo significa che…
+- Uno Stato A ha 200 ab/km² e uno Stato B ne ha 20. Cosa puoi immaginare dei loro territori? Fai due ipotesi.
+
+## Re o presidenti? Gli Stati europei [lib-2-media-geografia-monarchie-repubbliche] · CORONA
+concetti: Monarchie costituzionali; Principati e granducati; Le repubbliche; Democrazie diverse
+- Quale di questi Stati è una repubblica?
+- Chi governa davvero in una monarchia costituzionale come la Spagna?
+- L'Italia è diventata una repubblica con il referendum del 1946.
+- Il Lussemburgo è un ___ ed è guidato da un granduca.
+- Come viene scelto il capo dello Stato della Città del Vaticano?
+- Quale di questi Paesi nordici è una monarchia?
+- Perché si può dire che il Regno Unito è una democrazia anche se ha un re?
+- Spiega la differenza tra una monarchia costituzionale e una repubblica parlamentare, facendo un esempio europ…
+
+## Reti e pescherecci d'Europa [lib-2-media-geografia-pesca-europea] · PESCE
+concetti: Mari pescosi; Grandi Paesi pescatori; La sovrapesca; L'acquacoltura
+- Quali pesci sono tipici dei mari del nord Europa?
+- Che cos'è l'acquacoltura?
+- La sovrapesca avviene quando si pesca più pesce di quanto ne nasca.
+- Le quantità massime di pesce che ogni Paese può pescare si chiamano ___.
+- Quale Paese dell'UE ha una delle flotte da pesca più grandi d'Europa e il grande porto peschereccio di Vigo, …
+- Cosa succederebbe se nessuno controllasse la pesca del merluzzo?
+- Qual è un rischio dell'acquacoltura se non è fatta bene?
+- Perché limitare la pesca oggi aiuta anche i pescatori di domani?
+
 ## Ripasso: capitali sulle rive dei fiumi [lib-2-media-geografia-ripasso-capitali-fiumi] · FIUME
 concetti: Capitali sui fiumi; Il fiume delle capitali; Fiumi e mari; Perché le città nascono sui fiumi
 - Su quale fiume sorge Roma?
@@ -398,6 +871,17 @@ concetti: Capitali sui fiumi; Il fiume delle capitali; Fiumi e mari; Perché le 
 - Perché nel passato tante città sono nate lungo i fiumi?
 - Scegli una capitale europea attraversata da un fiume e spiega quali vantaggi il fiume ha dato alla città nell…
 
+## Ripasso: cartoline da tutta Europa [lib-2-media-geografia-ripasso-cartoline-climi] · POSTA
+concetti: Cartoline dal sud; Cartoline dall'ovest; Cartoline dall'est e dal nord; Cartoline dalle montagne
+- Mi scrivi: Qui a Siviglia ad agosto ci sono 40 gradi e non piove da mesi. Che clima descrivi?
+- Mi scrivi da Galway, in Irlanda: Piove un giorno sì e uno no, ma l'erba è verdissima. Che clima descrivi?
+- Una cartolina da Mosca a luglio può raccontare di giornate calde, con più di 25 gradi.
+- Mi scrivi: Anche ad agosto qui la notte fa freddo e vedo un ghiacciaio. Ti trovi probabilmente sulle ___.
+- Ricevi una cartolina da Mosca a gennaio. Che cosa ti aspetti di leggere?
+- Una cartolina da Atene in agosto dice: «Le colline sono gialle e l'erba è tutta secca». Perché?
+- Metti in ordine queste cartoline di gennaio dalla città più mite alla più fredda.
+- Scrivi una breve cartolina da una città europea a tua scelta in cui il destinatario possa capire il clima sen…
+
 ## Ripasso: in treno attraverso l'Europa [lib-2-media-geografia-ripasso-viaggio-in-treno] · BINARIO
 concetti: Attraverso la Svizzera; Le città delle istituzioni; Arrivo nei Paesi Bassi; Viaggiare in Europa
 - Il treno parte da Milano e attraversa il Canton Ticino. Quale lingua si parla lì?
@@ -408,6 +892,17 @@ concetti: Attraverso la Svizzera; Le città delle istituzioni; Arrivo nei Paesi 
 - In quale Paese di questo viaggio l'euro non è la moneta ufficiale?
 - Dal finestrino, vicino ad Amsterdam, vedi tanti mulini a vento e pale eoliche. Perché proprio lì?
 - Prepara la lista di cose da controllare prima di partire per questo viaggio in treno tra cinque Paesi europei…
+
+## Ripasso: indovina lo Stato [lib-2-media-geografia-ripasso-indovina-stato] · INDIZIO
+concetti: Indizi di paesaggio; Indizi di lingua e governo; Indizi di economia; Ragionare per esclusione
+- Ho molti polder strappati al mare e i mulini a vento sono un mio simbolo. Chi sono?
+- Ho quattro lingue nazionali, 26 cantoni e non faccio parte dell'UE. Chi sono?
+- Uno Stato con vulcani, geyser e ghiacciai, in mezzo all'Atlantico, è l'Islanda.
+- Ho fiordi, petrolio nel Mare del Nord e salmoni d'allevamento: sono la ___.
+- Ho decine di migliaia di laghi, la taiga e la capitale Helsinki. Chi sono?
+- Sono un'isola, la mia capitale è Dublino e il mio simbolo è il trifoglio. Chi sono?
+- Sono nell'UE, ho la capitale sul Danubio, ho il lago Balaton e una lingua non indoeuropea. Chi sono?
+- Scrivi tu tre indizi per far indovinare uno Stato europeo a un compagno, senza dirne il nome.
 
 ## Ripasso: l'Unione europea oggi [lib-2-media-geografia-ripasso-unione-europea] · UNIONE
 concetti: Valori e obiettivi; Chi decide che cosa; Vantaggi per i cittadini; Le sfide di oggi
@@ -442,6 +937,17 @@ concetti: Tra Europa e Asia; Mosca e San Pietroburgo; Il Volga; Le risorse
 - Quali risorse la Russia esporta in grandi quantità verso molti Paesi?
 - La Siberia è enorme e ricchissima di risorse, ma pochissimo abitata. Spiega perché.
 
+## Si vota per il Parlamento europeo [lib-2-media-geografia-elezioni-parlamento-europeo] · SEGGIO
+concetti: Ogni cinque anni; Seggi e popolazione; Gruppi politici; Votare dove vivi
+- A quale età si può votare in Italia per il Parlamento europeo?
+- Quale Stato ha più deputati al Parlamento europeo?
+- Al Parlamento europeo i deputati si siedono raggruppati per nazionalità.
+- L'Italia elegge al Parlamento europeo ___ deputati.
+- Una cittadina italiana vive e lavora in Belgio. Dove può votare alle elezioni europee?
+- Perché gli Stati più popolosi hanno più seggi?
+- Perché i deputati si organizzano per gruppi politici e non per Paese?
+- Perché è importante che i giovani, quando avranno l'età, vadano a votare alle elezioni europee?
+
 ## Slovenia e Croazia sull'Adriatico [lib-2-media-geografia-slovenia-croazia] · CARSO
 concetti: La Slovenia; Il Carso; La Croazia; Il turismo
 - Qual è la capitale della Slovenia?
@@ -463,6 +969,17 @@ concetti: La Meseta; Rilievi e fiumi; Le comunità autonome; Arcipelaghi e turis
 - Perché d'inverno la Meseta è più fredda delle coste spagnole?
 - Perché le Canarie hanno un clima mite anche in inverno?
 - La Spagna è divisa in comunità autonome. Spiega che cosa significa «comunità autonoma» e fai un esempio.
+
+## Stati federali e Stati centralizzati [lib-2-media-geografia-stati-federali-centralizzati] · POTERE
+concetti: Lo Stato federale; Lo Stato centralizzato; L'Italia delle regioni; Il Belgio federale
+- Quale di queste frasi descrive uno Stato federale?
+- Quale di questi Stati europei è federale?
+- L'Italia ha 20 regioni, cinque delle quali a statuto speciale.
+- L'Austria è uno Stato federale formato da ___ Länder.
+- Quale di questi Paesi è tradizionalmente uno Stato centralizzato?
+- Perché il Belgio è diventato uno Stato federale?
+- In uno Stato federale, chi decide di solito su scuole o polizia locale?
+- Quali vantaggi può avere uno Stato federale rispetto a uno centralizzato? E quali svantaggi?
 
 ## Svezia e Finlandia, terre di foreste [lib-2-media-geografia-svezia-finlandia] · FORESTA
 concetti: La Svezia; La Finlandia; Le foreste; Il modello nordico
@@ -530,6 +1047,17 @@ concetti: Quanti sono gli europei; Distribuzione e densità; L'invecchiamento; L
 - Un'azienda non trova abbastanza giovani da assumere. Quale fenomeno può aiutare a coprire questa mancanza?
 - Perché in Europa la popolazione sta invecchiando? Indica due cause e una conseguenza.
 
+## Un continente di penisole e isole [lib-2-media-geografia-penisole-isole-europa] · ISOLA
+concetti: Le grandi penisole; Le isole maggiori; Coste frastagliate; Il mare e la storia
+- Qual è la penisola più grande d'Europa?
+- Qual è l'isola più grande d'Europa?
+- L'Irlanda è un'isola più grande della Sicilia.
+- La penisola che comprende Grecia, Albania e Bulgaria si chiama Penisola ___.
+- In quale Stato si trova la penisola dello Jutland?
+- Cosa significa che l'Europa ha coste frastagliate?
+- Quale popolo, partendo dalle coste frastagliate della Scandinavia, nel Medioevo navigò fino all'Islanda e all…
+- Scegli una penisola europea e spiega come la vicinanza del mare ha influenzato la vita dei suoi abitanti.
+
 ## Una moneta per tanti Paesi [lib-2-media-geografia-euro-moneta-unica] · EURO
 concetti: La nascita dell'euro; L'Eurozona; La BCE; Vantaggi pratici
 - In quale anno banconote e monete in euro sono arrivate nelle tasche dei cittadini?
@@ -541,6 +1069,17 @@ concetti: La nascita dell'euro; L'Eurozona; La BCE; Vantaggi pratici
 - Se nell'Eurozona i prezzi salgono troppo in fretta, quale istituzione può intervenire?
 - Indica due vantaggi della moneta unica per chi viaggia o per le aziende che vendono all'estero.
 
+## Ventiquattro lingue, un'Unione [lib-2-media-geografia-lingue-ufficiali-ue] · LINGUE
+concetti: Ventiquattro lingue ufficiali; Il diritto di essere capiti; Traduttori e interpreti; Imparare le lingue
+- Quante sono le lingue ufficiali dell'Unione europea?
+- Un cittadino portoghese scrive in portoghese alla Commissione europea. In che lingua riceverà la risposta?
+- L'irlandese e il maltese sono lingue ufficiali dell'Unione europea.
+- L'UE invita ogni cittadino a imparare almeno ___ lingue straniere oltre alla propria.
+- Che lavoro fa un interprete al Parlamento europeo?
+- Perché le leggi europee vengono tradotte in tutte le lingue ufficiali?
+- Perché conoscere più lingue è utile a un giovane europeo?
+- Il multilinguismo costa molto all'UE. Perché, secondo te, vale comunque la pena?
+
 ## Vivere nelle città europee [lib-2-media-geografia-citta-europee] · CITTA
 concetti: L'urbanizzazione; Le metropoli; La città europea; Problemi e soluzioni
 - Che cosa significa «urbanizzazione»?
@@ -551,3 +1090,14 @@ concetti: L'urbanizzazione; Le metropoli; La città europea; Problemi e soluzion
 - Quale problema è tipico delle grandi città?
 - Perché i centri storici europei hanno spesso strade strette e tortuose?
 - Immagina di essere il sindaco di una grande città europea con troppo traffico e smog. Proponi due interventi …
+
+## Vulcani e terremoti d'Europa [lib-2-media-geografia-vulcani-terremoti-europa] · LAVA
+concetti: Le placche terrestri; Etna e Vesuvio; I vulcani delle Eolie; Zone sismiche
+- Qual è il vulcano attivo più alto d'Europa?
+- Quale città romana fu distrutta dall'eruzione del Vesuvio nel 79 d.C.?
+- In Europa i terremoti sono più frequenti nei Paesi del sud, come Italia e Grecia.
+- La crosta terrestre è divisa in grandi pezzi chiamati ___.
+- Quale vulcano delle isole Eolie è famoso per le piccole esplosioni quasi continue, visibili di notte anche da…
+- Da quale isola delle Eolie prende il nome la parola «vulcano»?
+- Cosa si può fare per ridurre i danni di un terremoto in una zona sismica?
+- Spiega perché vulcani e terremoti in Europa non sono distribuiti a caso.

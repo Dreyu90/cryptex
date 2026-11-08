@@ -1,17 +1,6 @@
 # 1ª media · Storia: 101 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
-
-## 774: cade il regno longobardo [lib-1-media-storia-desiderio-e-fine-dei-longobardi] · ADELCHI
-concetti: Desiderio, l'ultimo re; Il papa chiede aiuto; La caduta di Pavia; Re dei Franchi e dei Longobardi
-- Chi fu l'ultimo re dei Longobardi?
-- In che anno cadde Pavia nelle mani di Carlo Magno?
-- Il papa chiese aiuto ai Franchi perché si sentiva minacciato dai Longobardi.
-- Dopo la vittoria Carlo Magno si fece chiamare re dei Franchi e dei ___.
-- Che cosa accadde a Desiderio dopo la sconfitta?
-- Metti in ordine gli avvenimenti.
-- Dove si rifugiò Adelchi, figlio di Desiderio?
-- Perché i papi, per difendersi dai Longobardi, si rivolgevano ai Franchi e non all'imperatore bizantino?
 
 ## A tavola nel Medioevo [lib-1-media-storia-cibo-nel-medioevo] · SPEZIE
 concetti: La tavola dei contadini; La tavola dei nobili; Le spezie; Che cosa mancava
@@ -21,18 +10,18 @@ concetti: La tavola dei contadini; La tavola dei nobili; Le spezie; Che cosa man
 - Le spezie arrivavano in Europa dall'___ ed erano molto costose.
 - Perché le spezie costavano così tanto?
 - Perché la carne era rara sulla tavola dei contadini?
-- Quale di questi alimenti NON poteva trovarsi su una tavola medievale?
+- Perché un nobile faceva servire agli ospiti piatti pieni di spezie?
 - Che cosa ci racconta il cibo sulle differenze tra ricchi e poveri nel Medioevo?
 
 ## Adrianopoli, la sconfitta di Valente [lib-1-media-storia-battaglia-di-adrianopoli] · VALENTE
 concetti: I Goti in fuga dagli Unni; La rivolta; La battaglia del 378; Le conseguenze
 - Da quale popolo fuggivano i Goti quando chiesero di entrare nell'impero?
 - In che anno si combatté la battaglia di Adrianopoli?
-- Nella battaglia di Adrianopoli l'imperatore Valente fu ucciso.
+- I Goti entrarono nell'impero con il permesso dei Romani, prima di ribellarsi.
 - Per entrare nell'impero i Goti attraversarono il fiume ___.
 - Perché i Goti, accolti nell'impero, si ribellarono?
 - Metti in ordine gli avvenimenti.
-- Che cosa dimostrò la sconfitta di Adrianopoli?
+- Che cosa decise l'imperatore Teodosio dopo la sconfitta di Adrianopoli?
 - Spiega come la battaglia di Adrianopoli è collegata alla presenza di popoli barbari dentro l'impero.
 
 ## Al-Andalus, la Spagna araba [lib-1-media-storia-al-andalus-e-cordova] · CORDOVA
@@ -64,7 +53,7 @@ concetti: I Romani lasciano la Britannia; Arrivano Angli, Sassoni e Iuti; I Brit
 - Da dove venivano Angli, Sassoni e Iuti?
 - Molti Britanni fuggirono in una regione francese che da loro prese il nome di ___.
 - Dove si ritirarono i Britanni di origine celtica rimasti nell'isola?
-- Quale papa mandò missionari a convertire gli Anglosassoni nel 597?
+- Quale monaco, mandato da Roma nel 597, divenne il primo arcivescovo di Canterbury?
 - Secondo molti studiosi, la leggenda di re Artù conserva il ricordo...
 - Perché la missione di Agostino fu importante per la Britannia?
 
@@ -86,7 +75,7 @@ concetti: La conquista; Nuove coltivazioni; L'acqua nei campi; Tracce nella ling
 - Gli Arabi diffusero in Sicilia la coltivazione degli agrumi.
 - Per portare l'acqua nei campi gli Arabi costruirono ___ e cisterne.
 - Quale di queste coltivazioni fu diffusa in Sicilia dagli Arabi?
-- Il nome Marsala deriva dall'arabo e significa...
+- La parola siciliana zagara, di origine araba, indica...
 - Perché un buon sistema di irrigazione era così utile in Sicilia?
 - Quali tracce della dominazione araba si possono trovare ancora oggi in Sicilia?
 
@@ -101,17 +90,6 @@ concetti: La fara; Gli arimanni; Aldi e servi; Parole longobarde
 - Che cosa ci dice un nome di paese come Fara in Sabina?
 - Perché per un Longobardo era così importante essere un arimanno?
 
-## Arriva il podestà [lib-1-media-storia-dal-console-al-podesta] · PODESTA
-concetti: I consoli; Le lotte tra famiglie; Il podestà forestiero; Un incarico a tempo
-- Chi guidava i primi Comuni?
-- Da dove proveniva di solito il podestà?
-- Il podestà restava in carica per tutta la vita.
-- Le lotte tra le grandi ___ rendevano difficile governare il Comune.
-- Perché si sceglieva un podestà forestiero?
-- Metti in ordine le fasi del governo del Comune.
-- A chi assomiglia il podestà in una partita di calcio?
-- Quali vantaggi aveva per un Comune affidare il governo a un podestà forestiero per un solo anno?
-
 ## Arrivano gli Unni [lib-1-media-storia-unni-e-attila] · ATTILA
 concetti: Un popolo delle steppe; Adrianopoli; Attila e i Campi Catalaunici; Attila in Italia
 - Da dove venivano gli Unni?
@@ -125,12 +103,12 @@ concetti: Un popolo delle steppe; Adrianopoli; Attila e i Campi Catalaunici; Att
 
 ## Barbari nell'esercito di Roma [lib-1-media-storia-foederati-ed-esercito-romano] · FOEDUS
 concetti: Mancanza di soldati romani; I foederati; Generali di origine barbara; Rischi della scelta
-- Chi erano i foederati?
+- Che cosa significa la parola latina foedus, da cui deriva foederati?
 - Perché nel tardo impero Roma faticava a trovare soldati?
 - In cambio del loro aiuto militare, i foederati ricevevano terre dentro i confini dell'impero.
 - Stilicone, figlio di un ___, fu uno dei generali più potenti dell'Impero d'Occidente.
 - A chi obbedivano soprattutto i guerrieri dei popoli foederati?
-- Quale capo germanico al servizio di Roma depose l'ultimo imperatore d'Occidente?
+- Perché molti comandanti dell'esercito romano erano di origine germanica?
 - Che cosa poteva succedere quando un popolo foederato si sentiva tradito da Roma?
 - Perché affidare la difesa dell'impero ai barbari fu una soluzione utile ma anche pericolosa?
 
@@ -163,7 +141,7 @@ concetti: Che cos'era l'universitas; Bologna, la più antica; Altre università;
 - Le lezioni nelle università medievali si tenevano in latino.
 - L'università di Bologna era famosa soprattutto per lo studio del ___.
 - Quale università fu fondata da Federico II nel 1224?
-- Perché studenti di paesi diversi potevano studiare nella stessa università?
+- Come si svolgeva di solito una lezione nell'università medievale?
 - Per quale materia era famosa l'università di Parigi?
 - Perché nelle città del Basso Medioevo crebbe il bisogno di persone istruite, e quindi di università?
 
@@ -272,9 +250,9 @@ concetti: Lo scriptorium; La pergamena; Le miniature; Libri preziosi
 - Con che cosa era fatta la pergamena?
 - Nel Medioevo un monaco poteva impiegare mesi per copiare un solo libro.
 - Le piccole illustrazioni colorate dei manoscritti si chiamano ___.
-- Chi era l'amanuense?
+- Che cos'era un capolettera?
 - Perché nel Medioevo si usava la pergamena più del papiro?
-- Che cosa sarebbe successo a molte opere latine antiche senza il lavoro degli amanuensi?
+- Un copista sbaglia una parola e il suo libro viene poi ricopiato da altri monaci. Che cosa succede?
 - Perché un libro del Medioevo era un oggetto molto più prezioso di un libro di oggi?
 
 ## Costantino e la nuova Roma [lib-1-media-storia-costantino-e-costantinopoli] · SOLIDO
@@ -287,6 +265,17 @@ concetti: Ponte Milvio; L'Editto di Milano; Il Concilio di Nicea; Costantinopoli
 - Perché il solido d'oro di Costantino fu così importante?
 - Metti in ordine cronologico questi avvenimenti dell'epoca di Costantino.
 - Perché si dice che con Costantino la storia del cristianesimo cambiò? Spiega con parole tue.
+
+## Da Hastings alla Magna Charta [lib-1-media-storia-hastings-e-magna-charta] · CARTA
+concetti: Guglielmo il Conquistatore; Una monarchia forte; Giovanni Senzaterra; La Magna Charta
+- Chi vinse la battaglia di Hastings nel 1066?
+- Che cosa significa il nome latino Magna Charta?
+- Guglielmo il Conquistatore veniva dalla Normandia, la regione francese abitata dai discendenti dei Vichinghi.
+- Il re che nel 1215 dovette concedere la Magna Charta era Giovanni ___.
+- A che cosa servì il Domesday Book, fatto compilare da Guglielmo nel 1086?
+- Perché i baroni inglesi si ribellarono a Giovanni Senzaterra?
+- Metti in ordine gli avvenimenti.
+- Perché la Magna Charta è considerata un passo importante verso l'idea che anche chi governa deve rispettare l…
 
 ## Dai maggiordomi ai re carolingi [lib-1-media-storia-carlo-martello-e-pipino-il-breve] · PIPINO
 concetti: I re fannulloni; Carlo Martello a Poitiers; Pipino diventa re; L'alleanza con il papa
@@ -349,7 +338,7 @@ concetti: Un imperatore cresciuto a Palermo; Una corte di sapienti; Leggi e cast
 - In quale città si trovava la corte di Federico II, piena di sapienti?
 - Alla corte di Federico II nacque la Scuola poetica siciliana.
 - Federico II fece costruire in Puglia il famoso Castel del ___, a pianta ottagonale.
-- Quale università fondò Federico II?
+- Come si chiamano le leggi che Federico II emanò nel 1231 per il regno di Sicilia?
 - Perché i papi si scontrarono con Federico II?
 - Che cosa significa il soprannome stupor mundi?
 - Perché la corte di Federico II è considerata un luogo d'incontro tra culture diverse?
@@ -361,7 +350,7 @@ concetti: Il feudo all'inizio; Il capitolare di Quierzy; La Constitutio de feudi
 - Il capitolare di Quierzy fu emanato da Carlo il Calvo.
 - Nel 1037 l'imperatore ___ estese l'ereditarietà ai feudi dei vassalli minori.
 - Metti in ordine gli avvenimenti.
-- Perché il re diventava più debole quando i feudi erano ereditari?
+- Nel 1050 muore un valvassore, cioè un vassallo minore, che ha un figlio. Che cosa succede al suo feudo?
 - Che cosa poteva fare un vassallo che sapeva di lasciare il feudo ai figli?
 - Spiega come l'ereditarietà dei feudi cambiò il rapporto tra re e vassalli.
 
@@ -435,9 +424,9 @@ concetti: Islam e musulmani; Il Corano; I cinque pilastri; La moschea
 concetti: I duchi longobardi; Spoleto e Benevento; Benevento dopo il 774; Luoghi dei Longobardi
 - Chi governava un ducato longobardo?
 - In quale parte d'Italia si trovava il ducato di Benevento?
-- I duchi di Spoleto e Benevento erano molto indipendenti dal re di Pavia.
+- Il ducato di Spoleto si trovava nell'Italia centrale.
 - Dopo il 774 Benevento diventò un ___ longobardo indipendente.
-- Che cosa separava i ducati di Spoleto e Benevento dalla capitale Pavia?
+- Che cosa rendeva un duca longobardo così potente nel suo territorio?
 - Quale di questi edifici è legato ai Longobardi ed è patrimonio dell'UNESCO?
 - Perché Benevento riuscì a non cadere nelle mani di Carlo Magno nel 774?
 - Spiega perché il regno longobardo era un regno poco unito.
@@ -453,13 +442,24 @@ concetti: Una scuola antichissima; Saperi diversi; Anche le donne; Consigli per 
 - Che cosa ci dice la presenza di Trotula sulla Scuola di Salerno?
 - Perché la Scuola medica salernitana è un esempio di come l'incontro tra culture diverse possa far crescere le…
 
+## I Turchi selgiuchidi avanzano [lib-1-media-storia-turchi-selgiuchidi] · TURCHI
+concetti: Dall'Asia centrale; Il sultano a Baghdad; La battaglia di Manzikert; Verso le crociate
+- Da dove venivano i Turchi selgiuchidi?
+- Che cosa significa la parola sultano?
+- Dopo l'arrivo dei Selgiuchidi a Baghdad, il califfo perse il potere politico ma restò la guida religiosa.
+- Nel 1071 i Selgiuchidi sconfissero i Bizantini nella battaglia di ___.
+- Quale regione persero i Bizantini dopo la sconfitta del 1071?
+- Metti in ordine gli avvenimenti.
+- Perché l'avanzata dei Selgiuchidi preoccupò anche i cristiani d'Occidente?
+- Spiega il collegamento tra la battaglia di Manzikert e la prima crociata.
+
 ## I Vandali padroni del mare [lib-1-media-storia-vandali-in-africa] · VANDALO
 concetti: Il lungo viaggio; Il regno di Genserico; Pirati del Mediterraneo; La fine del regno
 - Quale grande città africana conquistò Genserico nel 439?
 - Metti in ordine le tappe del viaggio dei Vandali.
 - I Vandali non sapevano navigare e restarono sempre lontani dal mare.
 - Perché perdere l'Africa fu un colpo durissimo per l'Impero d'Occidente?
-- Nel 455 i Vandali di Genserico ___ la città di Roma.
+- Con le loro navi i Vandali assalivano coste e isole: per questo erano temuti come ___.
 - Chi mise fine al regno dei Vandali?
 - Quale di queste isole subì le incursioni dei Vandali?
 - Perché si dice che i Vandali furono un popolo barbaro diverso dagli altri? Fai almeno un esempio.
@@ -565,36 +565,25 @@ concetti: Deserti e oasi; Tribù rivali; Città delle carovane; Molti dei e la K
 
 ## La cerimonia dell'omaggio [lib-1-media-storia-omaggio-e-investitura-feudale] · OMAGGIO
 concetti: L'omaggio; Il giuramento di fedeltà; L'investitura; Obblighi reciproci
-- Che cosa faceva il vassallo durante l'omaggio?
+- Con l'omaggio il vassallo diventava 'l'uomo' del signore. Che cosa significava?
 - Su che cosa si giurava fedeltà?
 - Durante l'investitura il signore poteva consegnare una zolla di terra per indicare il feudo concesso.
 - Il vassallo che tradiva il signore commetteva ___ e perdeva il feudo.
 - Metti in ordine le fasi della cerimonia.
 - Che cosa doveva il signore al suo vassallo?
-- Quale di questi era un obbligo del vassallo?
+- Oltre all'aiuto militare, che cosa doveva dare il vassallo al suo signore?
 - Perché la cerimonia dell'omaggio aveva gesti così solenni, davanti a testimoni?
 
 ## La curtis: un mondo chiuso [lib-1-media-storia-economia-curtense] · CURTIS
 concetti: La curtis; Pars dominica; Pars massaricia; Economia chiusa
 - Che cos'era la curtis?
-- Come si chiamava la parte della curtis gestita direttamente dal signore?
+- Che cosa si trovava di solito nella pars dominica, oltre ai campi del signore?
 - Che cos'era un manso?
-- Le corvée erano giornate di lavoro gratuito che i contadini dovevano svolgere sulle terre del signore.
-- Si parla di economia ___ perché la curtis produceva quasi tutto da sé e commerciava poco.
-- Perché nella curtis circolavano poche monete?
+- Una curtis poteva appartenere anche a un monastero.
+- Nella curtis i contadini pagavano il signore soprattutto in ___, cioè con prodotti e lavoro.
+- Che cosa doveva quasi sempre arrivare da fuori, perché la curtis non poteva produrlo?
 - Che cosa doveva dare al signore una famiglia che coltivava un manso?
 - Spiega perché nell'Alto Medioevo conveniva produrre quasi tutto all'interno della curtis.
-
-## La grande linea del tempo [lib-1-media-storia-linea-del-tempo-medievale] · DATE
-concetti: I confini del Medioevo; Alto e Basso Medioevo; I secoli; Calcolare gli intervalli
-- Quale avvenimento segna convenzionalmente la fine del Medioevo?
-- A quale secolo appartiene l'anno 568?
-- A quale secolo appartiene l'anno 1176, quello della battaglia di Legnano?
-- L'arrivo dei Longobardi in Italia nel 568 appartiene all'Alto Medioevo.
-- Tra l'egira del 622 e l'arrivo degli Arabi in Spagna nel 711 passano ___ anni.
-- Quanti anni passano tra Canossa (1077) e la battaglia di Legnano (1176)?
-- Metti in ordine cronologico.
-- Il Medioevo è durato circa mille anni. Perché gli storici lo dividono in Alto e Basso Medioevo?
 
 ## La scuola di Carlo Magno [lib-1-media-storia-rinascita-carolingia] · ALCUINO
 concetti: La Scuola palatina; Alcuino di York; Scuole in tutto l'impero; La minuscola carolina
@@ -625,7 +614,7 @@ concetti: Latino e volgare; Il Placito capuano; La frase; Perché è importante
 - Il Placito capuano è scritto interamente in volgare.
 - La causa del Placito capuano riguardava le terre del monastero di ___.
 - Nella frase 'Sao ko kelle terre...' che cosa significa 'sao'?
-- Secondo i testimoni, per quanti anni il monastero aveva posseduto quelle terre?
+- Nella frase dei testimoni, chi aveva posseduto le terre, cioè la 'parte sancti Benedicti'?
 - Perché, secondo te, la frase dei testimoni fu scritta in volgare e non in latino?
 - Perché il Placito capuano è considerato una specie di 'certificato di nascita' della lingua italiana?
 
@@ -647,13 +636,13 @@ concetti: A che cosa serve; Titolo e legenda; Frecce e colori; Ragionare sulla c
 - In una carta storica le frecce indicano di solito spostamenti di popoli o di eserciti.
 - Il ___ della carta indica quale periodo storico è rappresentato.
 - In una carta vedi Pavia capitale longobarda e Ravenna sede dell'esarca. A quale periodo si riferisce?
-- Su una carta una freccia parte dal Reno, attraversa la Gallia e la Spagna e arriva a Cartagine. Quale popolo …
-- Confronti due carte dell'Italia, una del 500 e una del 600: che cosa noterai di nuovo nella seconda?
+- Su una carta una freccia parte dalla Normandia e arriva in Puglia, Calabria e Sicilia. Che cosa rappresenta?
+- Confronti una carta dell'Europa del 700 con una dell'814: che cosa noterai nella seconda?
 - Perché per studiare la storia è utile confrontare carte storiche di epoche diverse?
 
 ## Leone Magno, il papa coraggioso [lib-1-media-storia-papa-leone-magno] · LEONE
 concetti: Un papa in tempi difficili; L'incontro con Attila; Trattare con i Vandali; Il primato del papa
-- Quale capo barbaro incontrò papa Leone nel 452?
+- In quali anni fu papa Leone Magno?
 - Leone Magno fu papa negli anni in cui l'Impero d'Occidente era ancora forte e sicuro.
 - Leone affermò che il vescovo di Roma era il successore di san ___.
 - Che cosa ottenne Leone dai Vandali nel 455?
@@ -705,6 +694,17 @@ concetti: Il commercio riparte; Le fiere; Banchieri e lettera di cambio; I borgh
 - Da dove viene la parola «borghese»?
 - Perché il commercio riprese con forza dopo il Mille?
 - Spiega con un esempio come funzionava la lettera di cambio.
+
+## Misurare il tempo della storia [lib-1-media-storia-linea-del-tempo-medievale] · DATE
+concetti: Calcolare un intervallo; La durata di un periodo; Fatti contemporanei; Inizio, metà, fine secolo
+- Quanti anni passano tra la caduta dell'Impero d'Occidente (476) e l'arrivo dei Longobardi in Italia (568)?
+- Teodorico regnò in Italia dal 493 al 526. Quale di questi re regnò in quello stesso periodo?
+- L'anno 1250 si trova a metà del XIII secolo.
+- Tra l'incoronazione di Carlo Magno (800) e quella di Ottone I (962) passano ___ anni.
+- Il regno dei Longobardi in Italia durò dal 568 al 774. Quanto durò?
+- Nel 1077 Enrico IV era a Canossa. Che cosa accadeva negli stessi anni in Sicilia?
+- Calcola quanto durò ciascuno e ordinali dal più lungo al più breve: Impero d'Oriente dopo il 476 (fino al 145…
+- Perché è utile mettere sulla stessa linea del tempo fatti avvenuti in luoghi diversi, come a Bisanzio, nel mo…
 
 ## Monaci con la spada [lib-1-media-storia-templari-e-ospitalieri] · TEMPIO
 concetti: Monaci e cavalieri; I Templari; Gli Ospitalieri; Ricchezza e fine dei Templari
@@ -827,6 +827,17 @@ concetti: Il nuovo impero; I vescovi-conti; Il Privilegio ottoniano; Un problema
 - Perché il nuovo impero di Ottone è detto «germanico»?
 - Spiega con parole tue perché i vescovi-conti e il Privilegio ottoniano prepararono uno scontro tra papa e imp…
 
+## Paolo Diacono racconta i Longobardi [lib-1-media-storia-paolo-diacono-storico-longobardo] · STORICO
+concetti: Un Longobardo colto; Alla corte di Carlo; La Storia dei Longobardi; Una fonte preziosa
+- In quale lingua Paolo Diacono scrisse la Storia dei Longobardi?
+- Paolo Diacono passò alcuni anni alla corte di Carlo Magno, insieme ad altri dotti.
+- Paolo Diacono scrisse la sua opera nel monastero di ___, fondato da san Benedetto.
+- Perché Paolo Diacono si recò da Carlo Magno?
+- Perché la Storia dei Longobardi è così importante per gli storici di oggi?
+- Metti in ordine le tappe della vita di Paolo Diacono.
+- La Storia dei Longobardi racconta anche leggende sulle origini del popolo. Che cosa deve fare uno storico di …
+- Paolo Diacono era un Longobardo che scriveva dopo la fine del suo regno. In che modo questo può aver influenz…
+
 ## Pesci, catacombe e martiri [lib-1-media-storia-primi-cristiani-e-persecuzioni] · PESCE
 concetti: Un messaggio nuovo; Perché perseguitati; Martiri e catacombe; Simboli e comunità
 - Che cosa significa la parola «martire», che viene dal greco?
@@ -860,20 +871,31 @@ concetti: La tetrarchia; Riforme dello Stato; L'editto dei prezzi; Mestieri e pe
 - Metti in ordine cronologico questi avvenimenti dell'epoca di Diocleziano.
 - Secondo te, perché Diocleziano pensò che quattro persone potessero governare l'impero meglio di una sola? Spi…
 
+## Ravenna, l'esarca e le lagune [lib-1-media-storia-esarcato-di-ravenna] · ESARCA
+concetti: L'esarcato; L'esarca; Rifugi nella laguna; La fine dell'esarcato
+- Quale città era la capitale dell'esarcato bizantino in Italia?
+- Che cosa aveva di particolare il potere dell'esarca?
+- Venezia nacque anche da villaggi fondati nella laguna da persone in fuga dai Longobardi.
+- Nel 751 il re longobardo ___ conquistò Ravenna e mise fine all'esarcato.
+- Che cosa ricorda il nome della Romagna?
+- Perché le isole della laguna erano un buon rifugio contro i Longobardi?
+- Metti in ordine gli avvenimenti.
+- Spiega perché si può dire che la nascita di Venezia è legata all'arrivo dei Longobardi.
+
 ## Ripasso: Bisanzio, Longobardi, Islam [lib-1-media-storia-ripasso-bizantini-longobardi-islam] · RIPASSO
 concetti: Bisanzio; I Longobardi in Italia; La nascita dell'Islam; Collegamenti
 - Come si chiamava l'imperatore bizantino in greco?
-- Perché, dopo la guerra greco-gotica, i Longobardi riuscirono a conquistare l'Italia facilmente?
+- Perché i papi, minacciati dai Longobardi, chiesero aiuto ai Franchi invece che all'imperatore di Bisanzio?
 - Gli Arabi tolsero all'Impero bizantino province come la Siria e l'Egitto.
 - L'anno 622, in cui Maometto lasciò la Mecca per Medina, si chiama ___.
 - Metti in ordine gli avvenimenti.
-- Quale di questi popoli aveva come capitale Pavia?
+- Quale abbinamento tra popolo e capitale è corretto?
 - Che cosa avevano in comune Costantinopoli, Baghdad e Cordova intorno all'anno 900?
 - Scegli due tra Bizantini, Longobardi e Arabi e spiega che cosa hanno lasciato in eredità all'Italia.
 
 ## Ripasso: Carolingi e feudi [lib-1-media-storia-ripasso-carolingi-e-feudalesimo] · FEUDI
 concetti: L'ascesa dei Carolingi; L'impero di Carlo Magno; La divisione; Il feudalesimo
-- Dove fu incoronato imperatore Carlo Magno?
+- Quale di questi territori NON faceva parte dell'impero di Carlo Magno?
 - Metti in ordine gli avvenimenti.
 - Il trattato di Verdun divise l'impero carolingio tra i nipoti di Carlo Magno.
 - Nella piramide feudale, il vassallo di un vassallo si chiamava ___.
@@ -898,22 +920,22 @@ concetti: Un'alleanza; Lo scontro sulle investiture; Il compromesso di Worms; Nu
 - Chi incoronò Ottone I imperatore nel 962?
 - Su che cosa litigavano papa e imperatore nella lotta per le investiture?
 - Il concordato di Worms fu un compromesso tra papa e imperatore.
-- Nel 1077 l'imperatore Enrico IV si umiliò davanti al papa nel castello di ___.
+- Il papa che si scontrò con l'imperatore Enrico IV nella lotta per le investiture fu ___ VII.
 - Metti in ordine gli avvenimenti.
 - Perché per l'imperatore era importante nominare i vescovi?
-- Come si chiamavano in Italia i sostenitori del papa?
+- Perché, nella lotta contro Barbarossa, la Lega lombarda ebbe l'appoggio del papa?
 - Spiega perché papi e imperatori, dopo essere stati alleati, finirono per scontrarsi.
 
 ## Ripasso: Roma e i barbari [lib-1-media-storia-ripasso-tardo-impero-e-barbari] · BARBARO
 concetti: La crisi dell'impero; Il cristianesimo; I barbari entrano; La fine dell'Occidente
-- Perché tanti popoli germanici si spostarono verso l'impero alla fine del IV secolo?
+- Quale di questi personaggi NON era il capo di un popolo germanico?
 - Metti in ordine gli avvenimenti.
-- Con Teodosio il cristianesimo divenne la religione ufficiale dell'impero.
+- L'editto di Milano del 313 rese il cristianesimo l'unica religione permessa nell'impero.
 - Nel 476 cadde l'Impero romano d'___, mentre l'altra metà continuò a vivere.
-- Quale di queste fu una causa della crisi dell'impero?
+- Causa ed effetto: lo Stato aveva bisogno di molto denaro per pagare l'esercito. Che cosa ne seguì?
 - Che cosa avevano in comune Alarico, Genserico e Odoacre?
-- Perché l'Impero d'Oriente resistette mentre quello d'Occidente cadde?
-- Spiega perché la caduta dell'Impero d'Occidente non fu un fatto improvviso del 476.
+- Perché, mentre lo Stato si indeboliva, i vescovi diventarono sempre più importanti nelle città?
+- Scegli due cause della fine dell'Impero d'Occidente, una interna e una esterna, e spiega come si rafforzavano…
 
 ## Roma saccheggiata [lib-1-media-storia-sacchi-di-roma] · ALARICO
 concetti: Il sacco del 410; Lo sgomento dei Romani; I Vandali e il 455
@@ -961,13 +983,13 @@ concetti: Il Saladino; La terza crociata; La morte del Barbarossa; L'accordo
 
 ## Santa Sofia, la cupola immensa [lib-1-media-storia-santa-sofia] · CUPOLA
 concetti: Una chiesa costruita in fretta; Il significato del nome; La grande cupola; Da chiesa a moschea
-- Qual è l'elemento più famoso di Santa Sofia?
+- La nuova Santa Sofia fu costruita tra il 532 e il 537. Quanto durarono i lavori?
 - Quale imperatore fece ricostruire Santa Sofia nel VI secolo?
 - Santa Sofia è dedicata a una santa martire di nome Sofia.
 - Santa Sofia si trova a ___, l'antica Costantinopoli.
 - Perché la cupola di Santa Sofia sembra sospesa nel vuoto?
 - Metti in ordine gli avvenimenti della storia di Santa Sofia.
-- Che cosa accadde a Santa Sofia dopo la conquista ottomana del 1453?
+- Su che cosa poggia la grande cupola di Santa Sofia?
 - Perché Giustiniano volle una chiesa così grande e splendida a Costantinopoli?
 
 ## Secoli e date del Medioevo [lib-1-media-storia-secoli-e-periodi-del-medioevo] · EPOCA
@@ -992,17 +1014,6 @@ concetti: La cerimonia dell'omaggio; Il patto feudale; La piramide feudale; La c
 - Nell'877 il Capitolare di Quierzy rese ereditari i grandi feudi. Quale fu la conseguenza più importante?
 - Perché un re del Medioevo aveva bisogno dei vassalli per governare? Spiega con parole tue.
 
-## Sunniti e sciiti: una divisione [lib-1-media-storia-sunniti-e-sciiti] · SUNNA
-concetti: Chi dopo Maometto?; Ali; Due gruppi; Dinastie di califfi
-- Che cosa significa la parola califfo?
-- Chi era Ali?
-- Maometto morì nel 632 lasciando un successore accettato da tutti.
-- Il nome sciiti viene da un'espressione araba che significa 'partito di ___'.
-- Che cosa pensano gli sciiti sulla guida della comunità?
-- Metti in ordine gli avvenimenti.
-- Quale città divenne la capitale del califfato abbaside?
-- Spiega in parole tue perché i musulmani si divisero in sunniti e sciiti.
-
 ## Sutri, il primo Stato della Chiesa [lib-1-media-storia-donazione-di-sutri] · SUTRI
 concetti: Il re Liutprando; La donazione del 728; Potere temporale; Lo Stato della Chiesa
 - Chi era Liutprando?
@@ -1026,15 +1037,15 @@ concetti: Longobardi ariani; La regina Teodolinda; La basilica di Monza; Due pop
 - Perché una regina come Teodolinda poté avere un ruolo così importante nella conversione di un intero popolo? …
 
 ## Teodora e la rivolta di Nika [lib-1-media-storia-teodora-e-rivolta-di-nika] · NIKA
-concetti: Teodora imperatrice; L'ippodromo e le fazioni; La rivolta del 532; La scelta di restare
+concetti: Teodora imperatrice; L'ippodromo e le fazioni; La rivolta del 532; Repressione e ricostruzione
 - Chi era Teodora?
 - Che cosa significa il grido 'Nika'?
 - Azzurri e Verdi erano due squadre delle corse dei carri, ma anche gruppi con un peso politico.
 - La rivolta di Nika cominciò nell'___ di Costantinopoli.
-- Che cosa voleva fare Giustiniano quando la rivolta sembrava vincere?
+- Perché la rivolta di Nika fu così pericolosa per Giustiniano?
 - Metti in ordine gli avvenimenti della rivolta di Nika.
 - Quale importante edificio fu ricostruito dopo che la rivolta l'aveva bruciato?
-- Perché si dice che Teodora salvò il trono di Giustiniano durante la rivolta di Nika?
+- Perché si può dire che, dopo la rivolta di Nika, il potere di Giustiniano uscì più forte di prima?
 
 ## Teodorico re a Ravenna [lib-1-media-storia-teodorico-e-gli-ostrogoti] · GOTI
 concetti: Dall'Oriente all'Italia; Convivere senza mescolarsi; Consiglieri romani; La fine dell'accordo
@@ -1068,17 +1079,6 @@ concetti: L'anarchia militare; Pressione ai confini; Crisi economica; Città e c
 - Durante la crisi del III secolo le città romane crebbero e si riempirono di nuovi abitanti.
 - Perché molti ricchi romani lasciarono le città per le loro ville di campagna?
 - Spiega con parole tue come la guerra ai confini, le tasse e l'inflazione erano collegate tra loro durante la …
-
-## Un'Italia divisa in due [lib-1-media-storia-italia-tra-longobardi-e-bizantini] · ESARCA
-concetti: Due Italie; La Langobardia; La Romania; Nomi che restano
-- Da quale nome deriva Lombardia?
-- Dove risiedeva l'esarca bizantino?
-- Dopo il 568 i Longobardi conquistarono tutta l'Italia, comprese Roma e la Sicilia.
-- La capitale del regno longobardo era ___.
-- Quale di queste regioni era rimasta sotto i Bizantini?
-- Il nome della Romagna ricorda che quella zona...
-- Perché per i Bizantini era difficile difendere i loro territori italiani?
-- Perché si può dire che la divisione dell'Italia tra Longobardi e Bizantini ha lasciato tracce fino a oggi?
 
 ## Una giornata da contadino medievale [lib-1-media-storia-vita-dei-contadini-medievali] · ARATRO
 concetti: Liberi e servi; Obblighi e tasse; Casa e cibo; Campi a riposo

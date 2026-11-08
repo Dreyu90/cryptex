@@ -1,5 +1,5 @@
-# 3ª media · Geografia: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 3ª media · Geografia: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Ai confini del ghiaccio [lib-3-media-geografia-antartide-poli] · GELO
@@ -12,6 +12,17 @@ concetti: L'Antartide; L'Artide; Il Trattato Antartico; Luce e ghiaccio ai poli
 - Che cosa succede ai poli durante il loro inverno?
 - Perché il ghiaccio dell'Antartide è così importante per il pianeta?
 - Spiega perché lo scioglimento dei ghiacci dell'Antartide preoccupa anche chi vive lontanissimo, per esempio a…
+
+## Aiutare senza creare dipendenza [lib-3-media-geografia-cooperazione-internazionale] · AIUTO
+concetti: Emergenza e sviluppo; L'aiuto pubblico; Le ONG; Aiuti efficaci
+- Dopo un forte terremoto, una ONG distribuisce acqua, tende e cure. Di che tipo di aiuto si tratta?
+- Le organizzazioni che non dipendono dai governi si chiamano ONG, cioè organizzazioni non ___.
+- L'ONU chiede ai Paesi ricchi di destinare agli aiuti allo sviluppo il 7% del loro reddito nazionale.
+- Quale di questi è un progetto di cooperazione allo sviluppo?
+- Quale ONG ha ricevuto il premio Nobel per la pace nel 1999 per le cure mediche nelle zone di crisi?
+- Perché un progetto funziona meglio se coinvolge la comunità locale?
+- Un pozzo costruito in un villaggio si rompe dopo un anno e nessuno sa ripararlo. Che cosa è mancato?
+- Un proverbio dice: "Dai un pesce a un uomo e lo sfami per un giorno; insegnagli a pescare e lo sfami per tutt…
 
 ## Ande, Amazzoni e Patagonia [lib-3-media-geografia-america-sud-territorio] · CONDOR
 concetti: Le Ande; Il Rio delle Amazzoni; Deserti e altopiani; Pampa e Patagonia
@@ -35,6 +46,39 @@ concetti: L'Oceania; Il territorio australiano; Una natura unica; Popoli ed econ
 - Perché quasi tutti gli australiani vivono sulle coste, soprattutto a est e sud-est?
 - Molti animali dell'Australia non vivono in nessun'altra parte del mondo. Prova a spiegare perché.
 
+## Caffè, petrolio e cascate [lib-3-media-geografia-colombia-venezuela] · ORINOCO
+concetti: La Colombia; Il caffè colombiano; Il Venezuela e il petrolio; Fiumi e cascate
+- Quale primato geografico ha la Colombia tra i Paesi del Sud America?
+- Il Venezuela possiede le più grandi riserve accertate di petrolio del mondo.
+- La cascata più alta del mondo, con quasi 1.000 metri di salto, è il Salto ___, in Venezuela.
+- Perché il caffè cresce così bene sui pendii delle Ande colombiane?
+- Il Venezuela ricava dal petrolio quasi tutte le sue esportazioni. Che cosa succede quando il prezzo del petro…
+- Verso dove si sono diretti soprattutto i milioni di venezuelani emigrati per la crisi degli ultimi anni?
+- In quale oceano sfocia l'Orinoco?
+- Milioni di venezuelani hanno lasciato il loro Paese. Quali effetti ha questa emigrazione sul Venezuela e sui …
+
+## California, terra di innovazione [lib-3-media-geografia-california-silicon-valley] · CHIP
+concetti: Lo Stato più popoloso; La Silicon Valley; La faglia di Sant'Andrea; Acqua, siccità e incendi
+- Su quale oceano si affaccia la California?
+- La California è lo Stato più popoloso degli Stati Uniti.
+- La Silicon Valley prende il nome dal ___, materiale usato per produrre i chip.
+- Quale università, vicina a San Francisco, ha avuto un ruolo chiave nella nascita della Silicon Valley?
+- Che cos'è la faglia di Sant'Andrea?
+- Che cosa permette di coltivare frutta e verdura nella Central Valley, dove d'estate piove poco?
+- Quale effetto hanno le lunghe siccità sugli incendi in California?
+- Perché in una zona come la Silicon Valley nascono così tante imprese innovative? Cita almeno due fattori.
+
+## Campi diversi, raccolti diversi [lib-3-media-geografia-agricoltura-intensiva-estensiva] · SEME
+concetti: Agricoltura intensiva; Agricoltura estensiva; La rivoluzione verde; Costi ambientali e alternative
+- Che cosa caratterizza l'agricoltura intensiva?
+- Un grande allevamento di bovini al pascolo su immense praterie è un esempio di agricoltura ___.
+- La rivoluzione verde aumentò molto la produzione di cereali in Paesi come l'India.
+- Che cos'è una monocoltura?
+- Perché l'uso eccessivo di fertilizzanti chimici può danneggiare fiumi e laghi?
+- Quale fu uno svantaggio della rivoluzione verde?
+- Che cosa fa un agricoltore che pratica la rotazione delle colture?
+- Bisogna sfamare 8 miliardi di persone senza distruggere il pianeta. Come può l'agricoltura essere produttiva …
+
 ## Che ore sono nel mondo? [lib-3-media-geografia-fusi-orari] · ORARIO
 concetti: Perché esistono i fusi; Il meridiano di Greenwich; Calcolare l'ora; Linea del cambiamento di data
 - Di quanti gradi gira la Terra in un'ora?
@@ -45,6 +89,17 @@ concetti: Perché esistono i fusi; Il meridiano di Greenwich; Calcolare l'ora; L
 - Che cosa succede attraversando la linea del cambiamento di data verso ovest?
 - La Cina è molto estesa da est a ovest, ma usa un solo fuso orario. Che conseguenza ha?
 - Spiega perché non può essere mezzogiorno nello stesso momento in tutto il mondo.
+
+## Chi comanda in uno Stato? [lib-3-media-geografia-forme-stato-governo] · VOTO
+concetti: Monarchia e repubblica; Democrazia e dittatura; Monarchie costituzionali; Stato unitario e federale
+- In una repubblica, chi è il capo dello Stato?
+- Il Regno Unito ha un re, ma le leggi sono approvate dal Parlamento eletto dai cittadini.
+- Uno Stato formato da più Stati membri, ciascuno con un proprio governo e alcune leggi proprie, si chiama Stat…
+- Quale di queste caratteristiche è tipica di una democrazia?
+- Quale di questi Stati è una monarchia costituzionale?
+- Quale di questi Paesi europei è uno Stato federale?
+- Perché in una democrazia il potere è diviso tra Parlamento, governo e giudici?
+- Perché si dice che votare è sia un diritto sia una responsabilità? Collega la risposta alla differenza tra de…
 
 ## Chi lavora e dove [lib-3-media-geografia-settori-economici] · LAVORO
 concetti: I tre settori; Settori e sviluppo; Il terziario avanzato; Sussistenza e piantagioni
@@ -67,6 +122,17 @@ concetti: Fame e malnutrizione; Le cause della fame; La FAO; Lo spreco alimentar
 - Quale paradosso alimentare caratterizza il mondo di oggi?
 - Nei Paesi ricchi, dove avviene gran parte dello spreco di cibo?
 - Proponi tre azioni concrete che la tua famiglia o la tua scuola potrebbe fare per ridurre lo spreco di cibo.
+
+## Città e laghi sulle Ande [lib-3-media-geografia-peru-bolivia-ande] · INCA
+concetti: L'Impero inca; Il lago Titicaca; Vivere in alta quota; La Bolivia e il litio
+- Quale celebre città inca si trova sulle Ande del Perù?
+- Sul lago Titicaca il popolo degli Uros vive su isole galleggianti costruite intrecciando ___.
+- La Bolivia è uno Stato senza sbocco al mare.
+- Quale pianta alimentare fu addomesticata per la prima volta sulle Ande?
+- Quali animali allevano tradizionalmente i popoli andini?
+- Perché chi arriva a La Paz in aereo può sentirsi senza fiato?
+- Il litio del Salar de Uyuni è molto richiesto per…
+- Spiega come le popolazioni delle Ande si sono adattate a vivere in alta quota.
 
 ## Connessi e disconnessi [lib-3-media-geografia-internet-divario-digitale] · CAVO
 concetti: Internet nel mondo; Il divario digitale; Cavi e infrastrutture; Le opportunità digitali
@@ -123,6 +189,28 @@ concetti: Dove si trova; Il petrolio; L'acqua, risorsa preziosa; Religioni e luo
 - Che clima prevale in gran parte del Medio Oriente?
 - Il petrolio ha reso ricchi molti Paesi del Golfo Persico. Spiega perché dipendere quasi solo dal petrolio può…
 
+## Diciassettemila isole, un Paese [lib-3-media-geografia-indonesia-arcipelago] · ISOLA
+concetti: Un arcipelago immenso; La Cintura di fuoco; Popolazione e religione; Olio di palma e foreste
+- Tra quali oceani si trova l'Indonesia?
+- L'Indonesia è il Paese con il maggior numero di musulmani al mondo.
+- Perché in Indonesia sono così frequenti eruzioni e terremoti?
+- L'isola più popolosa dell'Indonesia, dove si trova la capitale Giacarta, è ___.
+- Di quale prodotto agricolo l'Indonesia è il primo produttore mondiale?
+- Qual è il principale danno ambientale delle grandi piantagioni di palma?
+- L'Indonesia ha deciso di spostare la capitale da Giacarta a una nuova città nel Borneo. Quale motivo si cita …
+- Vivere su un arcipelago di vulcani porta rischi ma anche vantaggi. Spiega almeno un rischio e un vantaggio.
+
+## Disegnare una Terra rotonda [lib-3-media-geografia-carte-proiezioni-scala] · MAPPA
+concetti: Il problema della proiezione; La carta di Mercatore; La carta di Peters; La scala
+- Perché ogni carta geografica del mondo contiene qualche deformazione?
+- Nella carta di Mercatore la Groenlandia appare più grande di quanto sia in realtà.
+- In una carta in scala 1:100.000, 1 cm sulla carta corrisponde a ___ nella realtà.
+- Per quale scopo nacque la carta di Mercatore?
+- Che cosa mostra meglio la carta di Peters rispetto a quella di Mercatore?
+- Su una carta in scala 1:250.000 due città distano 4 cm. Qual è la distanza reale?
+- Quale carta usi per vedere i sentieri di una montagna nel dettaglio?
+- Alcuni studiosi sostengono che la carta di Mercatore abbia fatto sembrare l'Europa più importante di Africa e…
+
 ## Dove vive l'umanità [lib-3-media-geografia-distribuzione-densita] · DENSO
 concetti: La densità di popolazione; Le zone affollate; Le zone semivuote; I fattori umani
 - Un Paese ha 2 000 000 di abitanti e una superficie di 50 000 km². Qual è la sua densità?
@@ -133,6 +221,17 @@ concetti: La densità di popolazione; Le zone affollate; Le zone semivuote; I fa
 - Quale fattore umano attira molti abitanti in una zona?
 - Il Bangladesh ha circa 170 milioni di abitanti su circa 148 000 km²; il Canada circa 40 milioni su quasi 10 m…
 - Il Sahara e la valle del Nilo sono vicini, ma il primo è quasi vuoto e la seconda è affollatissima. Spiega pe…
+
+## Due Coree, una penisola [lib-3-media-geografia-corea-nord-sud] · SEUL
+concetti: La penisola coreana; Divisione e guerra; Il miracolo sudcoreano; La Corea del Nord isolata
+- Tra quali mari si allunga la penisola coreana?
+- La guerra di Corea si concluse nel 1953 con un armistizio e non con un trattato di pace.
+- Lungo quale linea fu divisa la Corea nel 1945?
+- Com'era la Corea del Sud subito dopo la guerra del 1950-1953?
+- La Corea del Nord è un Paese molto ___: pochi stranieri possono entrarvi e Internet è vietato quasi a tutti.
+- Quali prodotti hanno reso famosa nel mondo l'industria sudcoreana?
+- Metti in ordine queste tappe della storia coreana.
+- Le due Coree hanno la stessa lingua e la stessa storia antica. Perché oggi la vita dei loro abitanti è così d…
 
 ## Energia dal sole e dal vento [lib-3-media-geografia-fonti-rinnovabili] · EOLICO
 concetti: Che cosa sono le rinnovabili; Solare ed eolico; Idroelettrico e geotermia; Le biomasse
@@ -156,6 +255,39 @@ concetti: Le multinazionali; La delocalizzazione; Effetti nei Paesi di arrivo; E
 - Quale vantaggio della delocalizzazione hanno i consumatori dei Paesi ricchi?
 - Spiega perché molti vestiti che indossi sono prodotti in Paesi asiatici come il Bangladesh o il Vietnam.
 
+## Filippine, isole sulla rotta dei tifoni [lib-3-media-geografia-filippine-arcipelago] · TIFONE
+concetti: Un arcipelago asiatico; Spagnoli e Americani; Tifoni e vulcani; Lavorare all'estero
+- Da quante isole, all'incirca, sono formate le Filippine?
+- Le Filippine prendono il nome dal re ___ II di Spagna.
+- Le Filippine sono uno dei pochi Paesi asiatici in cui la maggioranza degli abitanti è cattolica.
+- Dopo il dominio spagnolo, quale Paese governò le Filippine fino all'indipendenza del 1946?
+- Su quale isola si trova Manila, la capitale delle Filippine?
+- Nel 1991 l'eruzione del Pinatubo lanciò nell'alta atmosfera enormi quantità di cenere e gas. Che effetto ebbe…
+- In quali lavori sono impiegati molti filippini emigrati in tutto il mondo?
+- Molti filippini lavorano all'estero per anni. Quali vantaggi e quali svantaggi porta questa emigrazione alle …
+
+## Fiume Azzurro e Fiume Giallo [lib-3-media-geografia-fiumi-cina-tre-gole] · DIGA
+concetti: Il Fiume Azzurro; Il Fiume Giallo; La diga delle Tre Gole; Costi e benefici
+- Quale grande città portuale sorge alla foce del Fiume Azzurro?
+- Il Fiume Giallo deve il suo nome al ___, un terreno fine che trasporta in grande quantità.
+- Il Fiume Giallo è stato chiamato "il dolore della Cina" per le sue piene disastrose.
+- Su quale fiume è stata costruita la diga delle Tre Gole?
+- Che tipo di energia produce la diga delle Tre Gole?
+- Qual è stato uno dei costi sociali della diga?
+- Oltre a produrre energia, a che cosa serve la diga?
+- Secondo te, la diga delle Tre Gole è stata una buona scelta? Rispondi citando almeno un vantaggio e uno svant…
+
+## Fiumi dentro l'oceano [lib-3-media-geografia-correnti-oceaniche-el-nino] · NINO
+concetti: Le correnti oceaniche; La Corrente del Golfo; Le correnti fredde; El Niño
+- Che cosa sono le correnti oceaniche?
+- La Corrente del Golfo rende più mite il clima dell'Europa nord-occidentale.
+- Al largo del Perù scorre la corrente fredda di ___, ricchissima di pesci.
+- Perché le coste bagnate da correnti fredde, come quelle del Perù e del Cile settentrionale, sono spesso deser…
+- Che cos'è El Niño?
+- Perché durante El Niño la pesca in Perù diminuisce?
+- Senza la Corrente del Golfo, come sarebbe probabilmente il clima di Londra?
+- Spiega perché si dice che gli oceani funzionano come un "termosifone" del pianeta.
+
 ## Foreste che scompaiono [lib-3-media-geografia-deforestazione-amazzonia] · ALBERO
 concetti: Le foreste pluviali; Le cause della deforestazione; Le conseguenze; Le soluzioni
 - Qual è la foresta tropicale più grande del mondo?
@@ -178,6 +310,17 @@ concetti: La Nigeria; Il Sudafrica; L'apartheid; Le sfide di oggi
 - Perché il Sudafrica è stato chiamato «nazione arcobaleno» dopo la fine dell'apartheid?
 - Che cos'era l'apartheid e perché la sua fine è stata così importante?
 
+## Grattacieli nel deserto [lib-3-media-geografia-golfo-dubai] · DUBAI
+concetti: Le monarchie del Golfo; Dalla perla al petrolio; Diversificare l'economia; Acqua dal mare
+- Su quale mare si affacciano Emirati Arabi Uniti, Qatar e Kuwait?
+- Prima della scoperta del petrolio, gli abitanti di Dubai vivevano soprattutto di pesca e di ___.
+- Gli Emirati investono nel turismo anche perché il petrolio non durerà per sempre.
+- Quale di queste scelte è un esempio di diversificazione dell'economia di Dubai?
+- Come ottengono gran parte dell'acqua potabile i Paesi del Golfo?
+- Qual è un problema degli impianti di desalinizzazione?
+- Gran parte dei lavoratori negli Emirati è straniera. Da dove arrivano molti di loro?
+- Immagina di essere un ministro di un Paese del Golfo: quali due investimenti faresti per preparare il Paese a…
+
 ## I 17 obiettivi dell'ONU [lib-3-media-geografia-agenda-2030] · AGENDA
 concetti: Lo sviluppo sostenibile; L'Agenda 2030; Le tre dimensioni; Gli obiettivi
 - Quanti sono gli Obiettivi di sviluppo sostenibile dell'Agenda 2030?
@@ -188,6 +331,28 @@ concetti: Lo sviluppo sostenibile; L'Agenda 2030; Le tre dimensioni; Gli obietti
 - Una fabbrica guadagna molto ma inquina un fiume e sfrutta gli operai. Quali dimensioni della sostenibilità no…
 - In quale documento del 1987 è stata data la definizione più famosa di sviluppo sostenibile?
 - Scegli un obiettivo dell'Agenda 2030 e spiega che cosa potresti fare tu, nella vita di tutti i giorni, per co…
+
+## I metalli della transizione [lib-3-media-geografia-terre-rare-minerali-critici] · LITIO
+concetti: Materie prime critiche; Le terre rare; Pochi Paesi produttori; Riciclo e miniere urbane
+- Perché alcune materie prime vengono definite "critiche"?
+- In quale di queste tecnologie si usano magneti alle terre rare?
+- La Cina controlla gran parte della lavorazione mondiale delle terre rare.
+- Una parte importante del litio mondiale viene estratta nel cosiddetto "triangolo del litio" tra Cile, Argenti…
+- Perché dipendere da un solo Paese per un minerale importante è rischioso?
+- Che cosa si intende per "miniera urbana"?
+- Perché la transizione verso le energie rinnovabili fa aumentare la richiesta di minerali critici?
+- Le auto elettriche inquinano meno, ma richiedono minerali estratti in miniera. Come si può rendere più sosten…
+
+## I numeri della popolazione [lib-3-media-geografia-indici-demografici-calcolo] · TASSO
+concetti: Tasso di natalità e mortalità; Crescita naturale; Saldo migratorio; Tasso di fecondità
+- In una città di 50.000 abitanti nascono 600 bambini in un anno. Qual è il tasso di natalità?
+- Se il tasso di natalità è 9‰ e quello di mortalità è 12‰, la crescita naturale è ___.
+- Un Paese con crescita naturale negativa può comunque aumentare di popolazione grazie all'immigrazione.
+- Un Paese di 2.000.000 di abitanti ha un saldo naturale di −3‰ e un saldo migratorio di +8.000 persone. Di qua…
+- Quanti figli per donna servono, in media, perché una popolazione resti stabile senza migrazioni?
+- L'Italia ha un tasso di fecondità di circa 1,2 figli per donna. Che cosa succederà, senza immigrazione?
+- Il saldo migratorio è dato dalla differenza tra…
+- Spiega con parole tue perché un Paese con molti anziani e pochi giovani può avere un tasso di mortalità alto …
 
 ## Il Cono Sud [lib-3-media-geografia-argentina-cile] · ANDE
 concetti: L'Argentina; Il Cile; Le risorse; La Terra del Fuoco
@@ -210,6 +375,28 @@ concetti: Il continente più grande; Le grandi montagne; Fiumi, laghi e record; 
 - Quale catena montuosa segna tradizionalmente il confine tra Europa e Asia?
 - Il deserto del Gobi, tra Cina e Mongolia, ha una caratteristica sorprendente. Quale?
 - L'Asia va dalle regioni artiche alle isole equatoriali. Spiega perché vi si trovano climi e ambienti così div…
+
+## Il continente più giovane [lib-3-media-geografia-africa-popolazione-giovane] · GIOVANE
+concetti: Una crescita rapida; Tanti giovani; Fecondità alta; Opportunità e sfide
+- Quanti abitanti ha, all'incirca, l'Africa oggi?
+- L'età mediana in Africa è più alta di quella in Europa.
+- Più della metà degli abitanti dell'Africa ha meno di ___ anni.
+- Che cosa tende a ridurre il numero medio di figli per donna?
+- Perché in passato le famiglie africane avevano molti figli?
+- Quale città africana è una delle metropoli più grandi e in crescita del continente?
+- Che cosa serve perché tanti giovani diventino una spinta per lo sviluppo?
+- L'Europa invecchia, l'Africa è giovanissima. Quali problemi e quali possibilità crea questa differenza per i …
+
+## Il cuore verde dell'Africa [lib-3-media-geografia-congo-coltan] · COBALTO
+concetti: Il fiume Congo; La foresta equatoriale; Ricchezze minerarie; La maledizione delle risorse
+- Il fiume Congo ha un primato. Quale?
+- La foresta del bacino del Congo è la seconda foresta pluviale più grande del mondo.
+- Il fiume Congo sfocia nell'oceano ___.
+- Per che cosa si usa soprattutto il coltan?
+- Il cobalto congolese è molto richiesto perché serve a produrre…
+- Che cosa si intende con "maledizione delle risorse"?
+- Quale problema sociale è stato denunciato in alcune miniere artigianali di cobalto?
+- Che legame c'è tra il tuo smartphone e la Repubblica Democratica del Congo? Che cosa potremmo fare come consu…
 
 ## Il diritto di andare a scuola [lib-3-media-geografia-infanzia-istruzione] · SCUOLA
 concetti: I diritti dell'infanzia; Il lavoro minorile; L'alfabetizzazione; L'istruzione come motore
@@ -266,6 +453,39 @@ concetti: Un territorio immenso; Pochi abitanti al sud; Due lingue e molti popol
 - Perché il Canada, pur essendo enorme, ha una densità di popolazione molto bassa?
 - Il Canada ha due lingue ufficiali. Spiega da dove deriva questa situazione e che cosa comporta nella vita quo…
 
+## Il lago che è sparito [lib-3-media-geografia-lago-aral] · SALE
+concetti: Un grande lago dell'Asia centrale; Il cotone e l'irrigazione; Le conseguenze; Un piccolo recupero
+- Fra quali Stati si trova il Lago d'Aral?
+- Il Lago d'Aral era alimentato dai fiumi Amu Darya e Syr Darya.
+- Per quale coltivazione furono deviati i fiumi che alimentavano il lago?
+- Con l'acqua è sparita anche la ___, che dava lavoro a migliaia di persone nei porti del lago.
+- Perché le tempeste di polvere vicino all'ex lago sono dannose per la salute?
+- Che effetto ha avuto la scomparsa del lago sul clima della zona?
+- Metti in ordine le fasi del disastro del Lago d'Aral.
+- Che cosa insegna la storia del Lago d'Aral sull'uso dell'acqua nello sviluppo di un Paese?
+
+## Il mare di sabbia e roccia [lib-3-media-geografia-sahara-deserto] · OASI
+concetti: Il deserto caldo più grande; Erg e hamada; Il clima estremo; Vivere nel deserto
+- In quale parte dell'Africa si trova il Sahara?
+- Il Sahara è coperto quasi tutto da dune di sabbia.
+- Il deserto di dune di sabbia si chiama ___, quello di rocce si chiama hamada.
+- Perché nel Sahara le notti sono molto fredde anche dopo giornate caldissime?
+- Perché in un'oasi si può coltivare anche se non piove quasi mai?
+- Quale popolo nomade del Sahara è famoso per il velo blu indossato dagli uomini?
+- Che cosa sono i wadi del Sahara?
+- Le falde sotto il Sahara contengono acqua "fossile", accumulata migliaia di anni fa. Perché usarla per grandi…
+
+## Il Paese dei grandi fiumi [lib-3-media-geografia-bangladesh-delta] · RISO
+concetti: Il delta del Gange e del Brahmaputra; Densità altissima; Alluvioni e cicloni; L'industria tessile
+- Quali grandi fiumi formano il delta su cui si trova il Bangladesh?
+- Gran parte del Bangladesh si trova pochi metri sopra il livello del mare.
+- Il Bangladesh è più piccolo dell'Italia ma ha quasi il ___ dei suoi abitanti.
+- Che cosa sono i cicloni tropicali che colpiscono il Golfo del Bengala?
+- Perché, nonostante i rischi, il delta è abitato da tantissime persone?
+- Per quale prodotto industriale il Bangladesh è tra i primi esportatori del mondo?
+- Nelle fabbriche tessili del Bangladesh lavorano moltissime donne. Quale effetto positivo ha avuto questo lavo…
+- Perché il Bangladesh è considerato uno dei Paesi più minacciati dal cambiamento climatico, pur inquinando poc…
+
 ## Il Paese del Sol Levante [lib-3-media-geografia-giappone-arcipelago] · FUJI
 concetti: Un arcipelago montuoso; Terremoti e vulcani; Un'economia senza materie prime; Una popolazione anziana
 - Qual è la capitale del Giappone?
@@ -299,6 +519,50 @@ concetti: Che cosa sono i monsoni; Perché cambiano direzione; Una risorsa per l
 - D'inverno il monsone soffia dalla terraferma verso il mare. Che tempo porta?
 - Spiega perché per milioni di contadini asiatici il monsone è insieme una benedizione e un pericolo.
 
+## Il tuo indirizzo sul pianeta [lib-3-media-geografia-coordinate-geografiche] · GRADO
+concetti: Il reticolato geografico; La latitudine; La longitudine; Trovare un luogo
+- Come si chiamano le linee immaginarie parallele all'equatore?
+- La latitudine massima, raggiunta ai poli, è di ___.
+- Due città che si trovano sullo stesso meridiano hanno la stessa longitudine.
+- Quale di queste città si trova nell'emisfero australe, cioè a sud dell'equatore?
+- Roma si trova a circa 42° di latitudine nord e 12° di longitudine est. Che cosa vuol dire "12° est"?
+- Il punto con latitudine 0° e longitudine 0° si trova…
+- Qual è il valore massimo della longitudine?
+- Perché per indicare con precisione un luogo servono sia la latitudine sia la longitudine, e non ne basta una?
+
+## Il vero costo di una maglietta [lib-3-media-geografia-fast-fashion-tessile] · COTONE
+concetti: Che cos'è la fast fashion; Dove si producono gli abiti; L'impatto ambientale; Moda più sostenibile
+- Che cosa caratterizza la fast fashion?
+- I tessuti sintetici, come il poliestere, rilasciano microplastiche durante i lavaggi.
+- Perché molti marchi fanno cucire i vestiti in Paesi come il Bangladesh?
+- La coltivazione del ___ richiede moltissima acqua: per una sola maglietta servono migliaia di litri.
+- Nel 2013 in Bangladesh crollò il Rana Plaza, un edificio con molte fabbriche tessili. Che cosa mise in luce q…
+- Quale di queste azioni rende il tuo modo di vestirti più sostenibile?
+- Una maglietta costa 4 euro. Che cosa ci dice questo prezzo così basso?
+- Spiega perché la fast fashion è un esempio dei lati negativi della globalizzazione, ma anche come i consumato…
+
+## Il viaggio di uno smartphone [lib-3-media-geografia-smartphone-catena-globale] · SCHEDA
+concetti: La catena globale del valore; Progetto e marchio; Componenti e assemblaggio; Materie prime
+- Che cosa si intende per catena globale del valore?
+- Le fasi di progettazione e di marketing sono di solito quelle che fanno guadagnare di più.
+- In quali Paesi si producono molti dei chip più avanzati?
+- La fase in cui i componenti vengono montati insieme per formare il telefono si chiama ___.
+- Perché chi estrae i minerali per gli smartphone guadagna di solito pochissimo?
+- Perché l'assemblaggio si fa spesso in Paesi diversi da quello in cui il telefono viene progettato?
+- Perché riciclare i vecchi telefoni è utile?
+- Uno smartphone "fatto in Cina" è davvero tutto cinese? Spiega usando l'idea di catena globale del valore.
+
+## In fuga dal clima [lib-3-media-geografia-profughi-ambientali] · FUGA
+concetti: Chi sono i migranti ambientali; Cause rapide e lente; Spostamenti interni; Una tutela incompleta
+- Chi sono i migranti ambientali?
+- Quale di queste è una causa "lenta" di migrazione ambientale?
+- La maggior parte dei migranti ambientali si sposta in un altro continente.
+- Le persone costrette a lasciare la propria casa ma rimaste nel proprio Paese si chiamano sfollati ___.
+- Perché la siccità nel Sahel spinge molti contadini a partire?
+- Dove si dirigono di solito i contadini che lasciano le campagne colpite da siccità o alluvioni?
+- Perché è difficile proteggere legalmente i migranti ambientali?
+- Che cosa si può fare per ridurre il numero di persone costrette a lasciare la propria terra per motivi ambien…
+
 ## India, mosaico di popoli [lib-3-media-geografia-india-subcontinente] · GANGE
 concetti: Il territorio; L'indipendenza; Società e religioni; Un'economia di contrasti
 - Da quale Paese l'India ottenne l'indipendenza nel 1947?
@@ -309,6 +573,28 @@ concetti: Il territorio; L'indipendenza; Società e religioni; Un'economia di co
 - Che cosa si può dire oggi del sistema delle caste in India?
 - Perché la pianura del Gange è una delle zone più popolate del mondo?
 - L'India è un Paese di forti contrasti. Descrivine almeno due.
+
+## Isole e uragani dei Caraibi [lib-3-media-geografia-caraibi-antille] · URAGANO
+concetti: Il Mar dei Caraibi; Grandi e Piccole Antille; Una storia di piantagioni; Uragani e turismo
+- Tra quali regioni si trova il Mar dei Caraibi?
+- Quale di queste isole fa parte delle Grandi Antille?
+- L'isola di Hispaniola è divisa tra Haiti e la Repubblica ___.
+- Le piantagioni di canna da zucchero dei Caraibi furono lavorate soprattutto da schiavi africani.
+- Haiti ha un primato storico. Quale?
+- Perché gli uragani si formano sopra i mari tropicali?
+- In quale periodo dell'anno è più probabile che un uragano colpisca i Caraibi?
+- Molte isole caraibiche vivono di turismo. Perché questa dipendenza può essere un rischio?
+
+## L'aria che respiriamo [lib-3-media-geografia-inquinamento-aria-citta] · SMOG
+concetti: Che cos'è lo smog; Le fonti; Effetti sulla salute; Città più pulite
+- Da quali due parole inglesi nasce la parola smog?
+- Le polveri sottili possono entrare in profondità nei polmoni.
+- Quale di queste è una delle principali fonti di inquinamento dell'aria in città?
+- Le polveri sottili si indicano con la sigla PM, seguita da un numero che indica la loro ___.
+- Perché d'inverno nella Pianura Padana lo smog ristagna spesso per giorni?
+- Quali malattie sono legate soprattutto all'inquinamento dell'aria?
+- Quale provvedimento aiuta di più a ridurre lo smog in una città?
+- Proponi tre azioni concrete, una per i cittadini, una per il Comune e una per le industrie, per migliorare l'…
 
 ## L'energia che si esaurisce [lib-3-media-geografia-fonti-non-rinnovabili] · CARBONE
 concetti: I combustibili fossili; Petrolio e geopolitica; L'energia nucleare; L'impatto ambientale
@@ -321,6 +607,17 @@ concetti: I combustibili fossili; Petrolio e geopolitica; L'energia nucleare; L'
 - Perché carbone, petrolio e gas si chiamano combustibili «fossili»?
 - Perché, anche se il petrolio è ancora disponibile, è importante ridurne l'uso? Dai almeno due motivi.
 
+## L'isola dei lemuri [lib-3-media-geografia-madagascar-isola] · LEMURE
+concetti: Una grande isola; Specie endemiche; Popoli da due continenti; Foreste in pericolo
+- In quale oceano si trova il Madagascar?
+- Una specie che vive solo in un territorio si dice ___.
+- Perché in Madagascar vivono tante specie che non esistono altrove?
+- Gli antenati di molti malgasci arrivarono dal Sud-est asiatico attraversando l'oceano.
+- Il Madagascar è la quarta isola più grande del mondo. Quale di queste è più grande?
+- Quale attività minaccia di più le foreste del Madagascar?
+- Se una foresta del Madagascar viene distrutta, che cosa rischia di succedere alle specie endemiche che ci viv…
+- Perché proteggere le foreste del Madagascar è importante per tutto il mondo, e non solo per i malgasci?
+
 ## L'oro blu del pianeta [lib-3-media-geografia-acqua-risorsa] · POZZO
 concetti: Quanta acqua dolce; Gli usi dell'acqua; Scarsità e accesso; Soluzioni e tensioni
 - Circa quanta parte dell'acqua della Terra è dolce?
@@ -331,6 +628,61 @@ concetti: Quanta acqua dolce; Gli usi dell'acqua; Scarsità e accesso; Soluzioni
 - Perché la mancanza d'acqua vicino a casa può impedire alle bambine di andare a scuola?
 - Perché una grande diga su un fiume che attraversa più Stati può creare tensioni?
 - Indica tre gesti quotidiani per risparmiare acqua e spiega perché è importante non sprecarla anche dove non m…
+
+## La ricchezza della vita [lib-3-media-geografia-biodiversita-hotspot] · SPECIE
+concetti: Che cos'è la biodiversità; Gli hotspot; Le cause della perdita; Perché è preziosa
+- Che cosa si intende per biodiversità?
+- Qual è oggi la prima causa della perdita di biodiversità?
+- Un hotspot di biodiversità è un'area ricca di specie e allo stesso tempo molto minacciata.
+- Il lavoro gratuito di api e altri insetti che trasportano il polline si chiama ___.
+- Che cos'è una specie invasiva?
+- Quale di queste aree è considerata un hotspot di biodiversità?
+- Molti farmaci derivano da sostanze trovate in piante e animali. Che cosa perdiamo se una specie si estingue?
+- Perché la biodiversità non è solo una questione di "animali carini", ma riguarda anche la nostra vita di ogni…
+
+## La salute di tutto il mondo [lib-3-media-geografia-salute-globale-oms] · VACCINO
+concetti: L'OMS; Speranza di vita; Malattie e prevenzione; La malaria
+- Dove ha sede l'Organizzazione mondiale della sanità?
+- Nel 1980 l'OMS ha dichiarato eradicato in tutto il mondo il ___, grazie alle vaccinazioni.
+- La malaria è trasmessa dalla puntura di alcune zanzare.
+- Che cosa indica la speranza di vita alla nascita?
+- Perché la speranza di vita è più bassa in molti Paesi poveri?
+- Perché acqua potabile e servizi igienici sono così importanti per la salute?
+- Quale strumento semplice ed economico aiuta a proteggere i bambini dalla malaria?
+- Perché la salute è una questione "globale" e non solo di ogni singolo Paese? Fai un esempio.
+
+## La scatola che cambiò il mondo [lib-3-media-geografia-container-trasporto-marittimo] · CARGO
+concetti: Il container; Il trasporto via mare; I grandi porti; Rischi della catena
+- Perché i container hanno misure standard, uguali in tutto il mondo?
+- Le più grandi navi portacontainer possono trasportare più di ventimila container standard.
+- Il trasporto via nave è il più usato per le merci perché ha un costo molto ___ per ogni tonnellata.
+- In quale area del mondo si trovano quasi tutti i porti più trafficati?
+- Prima dei container le merci si caricavano sacco per sacco. Qual è stato il vantaggio principale del containe…
+- Nel 2021 una grande portacontainer si incagliò nel Canale di Suez e lo bloccò per giorni. Quale fu la consegu…
+- Metti in ordine il viaggio di un container con scarpe fabbricate in Cina fino a un negozio italiano.
+- Perché si dice che il container è stato uno dei motori della globalizzazione?
+
+## La terra dei Maori [lib-3-media-geografia-nuova-zelanda] · KIWI
+concetti: Due isole principali; Vulcani e montagne; I Maori; Economia e primati
+- Dove si trova la Nuova Zelanda?
+- La capitale della Nuova Zelanda è ___, anche se la città più popolosa è Auckland.
+- I Maori arrivarono in Nuova Zelanda dopo gli Europei.
+- Perché in Nuova Zelanda ci sono geyser e sorgenti calde?
+- Come si chiama la catena montuosa con ghiacciai dell'Isola del Sud?
+- Quale attività è tradizionalmente molto importante nell'economia neozelandese?
+- Quale primato politico ha la Nuova Zelanda?
+- In Nuova Zelanda la lingua maori è ufficiale e molti luoghi hanno due nomi. Perché è importante tutelare la c…
+
+## La Terra vista dallo spazio [lib-3-media-geografia-satelliti-gps-gis] · ORBITA
+concetti: Il telerilevamento; Il GPS; I GIS; A che cosa servono
+- Che cos'è il telerilevamento?
+- Il sistema satellitare di navigazione realizzato dall'Unione europea si chiama ___.
+- Per calcolare la posizione, un ricevitore GPS usa i segnali di più satelliti.
+- Che cosa permette di fare un GIS?
+- Come aiutano i satelliti a proteggere l'Amazzonia?
+- Un Comune vuole decidere dove costruire una nuova scuola. Quali strati di dati in un GIS sarebbero più utili?
+- Perché il telerilevamento è utile durante un'alluvione?
+- Fai due esempi di come i satelliti e le mappe digitali sono utili nella vita di tutti i giorni o nella protez…
 
 ## Le fasi della transizione [lib-3-media-geografia-transizione-demografica] · ANZIANI
 concetti: Che cos'è la transizione; Le quattro fasi; L'invecchiamento; La piramide delle età
@@ -398,6 +750,17 @@ concetti: Importazioni ed esportazioni; Dazi e libero scambio; L'Organizzazione 
 - Un Paese esporta merci per 500 miliardi di euro e ne importa per 420 miliardi. La sua bilancia commerciale è.…
 - Spiega la differenza tra protezionismo e libero scambio, indicando un possibile effetto di ciascuno.
 
+## Lungo il fiume Mekong [lib-3-media-geografia-vietnam-mekong] · MEKONG
+concetti: Il fiume Mekong; Riso e pesca; Il Vietnam; Dighe e mare che sale
+- In quale mare sfocia il Mekong?
+- Il Mekong attraversa sei Paesi, dalla Cina fino al Vietnam.
+- La capitale del Vietnam è ___, mentre la città più popolosa è Ho Chi Minh, l'antica Saigon.
+- Quale coltivazione domina il delta del Mekong e rende il Vietnam uno dei maggiori esportatori mondiali?
+- Di quale Paese europeo fu colonia il Vietnam fino agli anni Cinquanta?
+- Quale guerra, finita nel 1975, ha segnato profondamente il Vietnam?
+- Perché le dighe costruite lungo il Mekong preoccupano contadini e pescatori del delta?
+- Il delta del Mekong è basso e coltivato in modo intensivo. Spiega come l'innalzamento del mare e le dighe a m…
+
 ## Misurare lo sviluppo [lib-3-media-geografia-indicatori-sviluppo] · INDICE
 concetti: PIL e PIL pro capite; L'Indice di sviluppo umano; Nord e Sud del mondo; Gli indicatori sociali
 - Un Paese ha un PIL di 60 miliardi di dollari e 3 milioni di abitanti. Qual è il suo PIL pro capite?
@@ -408,6 +771,17 @@ concetti: PIL e PIL pro capite; L'Indice di sviluppo umano; Nord e Sud del mondo
 - Quale di questi dati dice di più sulla qualità della sanità di un Paese?
 - Il Paese A ha un ISU di 0,95, il Paese B di 0,45. Che cosa puoi dedurre?
 - Perché l'ONU ha creato l'ISU invece di usare soltanto il PIL per misurare lo sviluppo?
+
+## Muoversi senza inquinare [lib-3-media-geografia-mobilita-sostenibile] · BICI
+concetti: Trasporti ed emissioni; Il trasporto pubblico; Bici e piedi; Nuove soluzioni
+- Quale mezzo di trasporto è più sostenibile per un tragitto di 2 km in città?
+- Un autobus pieno inquina meno, per ogni passeggero, di tante auto con una sola persona a bordo.
+- Metti in ordine questi modi di fare 10 km in città, dal meno inquinante al più inquinante per ogni persona.
+- Il servizio che permette di usare un'auto condivisa solo quando serve, pagando per il tempo d'uso, si chiama …
+- Oltre all'ambiente, quale vantaggio ha andare a scuola a piedi o in bici?
+- Perché un treno ad alta velocità può essere preferibile all'aereo per un viaggio Milano-Roma?
+- Un'auto elettrica è davvero "a emissioni zero"?
+- Progetta la mobilità ideale per andare a scuola nel tuo quartiere: che cosa cambieresti e perché?
 
 ## Niente si butta via [lib-3-media-geografia-economia-circolare-rifiuti] · RICICLO
 concetti: Economia lineare e circolare; La gerarchia dei rifiuti; La plastica negli oceani; La raccolta differenziata
@@ -420,6 +794,28 @@ concetti: Economia lineare e circolare; La gerarchia dei rifiuti; La plastica ne
 - Quale di questi è un esempio di economia circolare?
 - Scegli un oggetto di uso comune, come una bottiglia o una maglietta, e spiega come potrebbe rientrare in un'e…
 
+## Nomadi nella steppa [lib-3-media-geografia-mongolia-steppa] · YURTA
+concetti: Un Paese senza mare; Steppa e deserto del Gobi; La vita nomade; Pochi abitanti
+- Tra quali Stati è chiusa la Mongolia?
+- La ___ è una vasta prateria senza alberi che copre gran parte della Mongolia.
+- La Mongolia ha un clima mite perché è vicina all'oceano.
+- Che cos'è una yurta?
+- Perché i pastori mongoli si spostano durante l'anno?
+- La Mongolia è grande più di 5 volte l'Italia ma ha circa 3,5 milioni di abitanti. Che cosa significa?
+- Ulan Bator ha un primato tra le capitali del mondo. Quale?
+- Oggi molti nomadi mongoli si trasferiscono a Ulan Bator. Secondo te perché, e quali problemi può creare?
+
+## Oceani svuotati? [lib-3-media-geografia-pesca-sovrasfruttamento] · PESCE
+concetti: Il sovrasfruttamento; Metodi di pesca dannosi; L'acquacoltura; Regole e aree protette
+- Che cosa significa sovrasfruttamento della pesca?
+- L'acquacoltura è l'allevamento di pesci, crostacei e molluschi.
+- Perché la pesca a strascico è considerata dannosa?
+- Il periodo in cui la pesca è vietata per lasciare riprodurre i pesci si chiama fermo ___.
+- Che cos'è un'area marina protetta?
+- Quale problema può causare un allevamento intensivo di pesci in mare?
+- Se una specie di pesce viene pescata troppo, che cosa può succedere agli altri animali della catena alimentar…
+- Che cosa puoi fare tu, come consumatore, per aiutare a proteggere i mari?
+
 ## Otto miliardi di persone [lib-3-media-geografia-popolazione-mondiale] · BOOM
 concetti: Otto miliardi di abitanti; L'esplosione demografica; Natalità e mortalità; I Paesi più popolosi
 - Circa quanti abitanti ha oggi la Terra?
@@ -431,6 +827,17 @@ concetti: Otto miliardi di abitanti; L'esplosione demografica; Natalità e morta
 - In quale continente oggi la popolazione cresce più in fretta?
 - Spiega con parole tue perché, se la mortalità cala ma la natalità resta alta, la popolazione cresce molto in …
 
+## Paesi che si alleano [lib-3-media-geografia-organizzazioni-regionali] · UNIONE
+concetti: Perché i Paesi si uniscono; Libero scambio e unione doganale; Esempi nel mondo; Il caso dell'Unione europea
+- Perché Paesi vicini creano organizzazioni regionali?
+- Il Mercosur è un'organizzazione regionale dell'America del ___.
+- In quale area del mondo opera l'ASEAN?
+- In un'area di libero scambio i Paesi membri eliminano i dazi sulle merci scambiate tra loro.
+- Che cosa aggiunge un'unione doganale rispetto a una semplice area di libero scambio?
+- Quale caratteristica rende l'Unione europea diversa da quasi tutte le altre organizzazioni regionali?
+- Metti in ordine queste forme di integrazione tra Paesi, dalla più debole alla più forte.
+- Che vantaggi può avere un piccolo Paese a far parte di un'organizzazione regionale? E che cosa deve accettare…
+
 ## Patti per il pianeta [lib-3-media-geografia-accordi-clima] · PATTO
 concetti: Il Vertice della Terra; Il Protocollo di Kyoto; L'Accordo di Parigi; Le COP
 - Quale limite al riscaldamento globale fissa l'Accordo di Parigi?
@@ -441,6 +848,17 @@ concetti: Il Vertice della Terra; Il Protocollo di Kyoto; L'Accordo di Parigi; L
 - Che cosa rende l'Accordo di Parigi diverso dal Protocollo di Kyoto?
 - Perché per il clima servono accordi tra tutti i Paesi e non bastano le scelte di uno solo?
 - Un Paese dice: «Perché dovrei ridurre le mie emissioni se gli altri non lo fanno?». Rispondi spiegando perché…
+
+## Piccoli prestiti, grandi cambiamenti [lib-3-media-geografia-microcredito-yunus] · BANCA
+concetti: Che cos'è il microcredito; Muhammad Yunus; Il ruolo delle donne; Limiti e rischi
+- A chi è rivolto soprattutto il microcredito?
+- Muhammad Yunus ha fondato la Grameen Bank in ___.
+- Muhammad Yunus ha ricevuto il premio Nobel per la pace.
+- Perché le banche tradizionali spesso non prestano soldi ai più poveri?
+- Perché molti programmi di microcredito preferiscono prestare alle donne?
+- Quale di questi è un uso tipico di un microprestito?
+- Qual è un rischio del microcredito?
+- Spiega perché il microcredito può aiutare non solo una persona, ma anche la sua famiglia e la sua comunità.
 
 ## Popoli in movimento [lib-3-media-geografia-migrazioni-internazionali] · VIAGGIO
 concetti: Le cause delle migrazioni; Migranti e rifugiati; L'Italia, da emigrazione a immigrazione; Gli effetti delle migrazioni
@@ -464,6 +882,50 @@ concetti: Che cos'è la desertificazione; Le cause; Il Sahel; La Grande Muraglia
 - Quale conseguenza porta la desertificazione agli abitanti del Sahel?
 - Spiega come povertà e desertificazione possono alimentarsi a vicenda, creando un circolo vizioso.
 
+## Quando il mare sale [lib-3-media-geografia-innalzamento-mari] · MAREA
+concetti: Perché il mare sale; Ghiaccio di terra e di mare; Le zone più a rischio; Difendersi
+- Quali sono le due principali cause dell'innalzamento del livello del mare?
+- Se si scioglie il ghiaccio che galleggia sul Mar Glaciale Artico, il livello del mare sale di molti metri.
+- Il livello del mare sale soprattutto quando fondono i ghiacci che si trovano sulla ___, come in Groenlandia e…
+- Quale di questi Stati è tra i più minacciati dall'innalzamento del mare?
+- Perché i grandi delta, come quello del Gange, sono molto vulnerabili?
+- Come si difendono da secoli i Paesi Bassi, che hanno molte terre sotto il livello del mare?
+- Perché proteggere le mangrovie aiuta le coste tropicali?
+- Alcuni abitanti di isole del Pacifico potrebbero dover lasciare la loro terra per l'innalzamento del mare. Qu…
+
+## Quando la natura si scatena [lib-3-media-geografia-tsunami-cicloni-rischi] · ALLERTA
+concetti: Gli tsunami; Uragani, tifoni e cicloni; Rischio e vulnerabilità; Prevenzione
+- Qual è la causa più frequente degli tsunami?
+- Nel Pacifico nord-occidentale, vicino a Giappone e Filippine, i cicloni tropicali si chiamano ___.
+- Uno tsunami in mare aperto può essere quasi invisibile e diventare altissimo vicino alla costa.
+- Due cicloni della stessa forza colpiscono un Paese ricco e uno povero. Perché spesso le vittime sono di più n…
+- Sei in spiaggia, senti un forte terremoto e vedi il mare ritirarsi all'improvviso. Che cosa devi fare?
+- Quale di queste misure riduce il rischio di vittime per un ciclone?
+- Metti in ordine le fasi di un sistema di allerta tsunami.
+- Perché si dice che un disastro naturale non è mai solo "naturale"?
+
+## Quante Terre ci servono? [lib-3-media-geografia-impronta-ecologica] · ORMA
+concetti: L'impronta ecologica; La biocapacità; L'Overshoot Day; Ridurre l'impronta
+- Che cosa misura l'impronta ecologica?
+- L'Earth Overshoot Day cade oggi verso la fine di dicembre.
+- La capacità della Terra di rigenerare risorse in un anno si chiama ___.
+- Se l'Overshoot Day cade il 1° agosto, che cosa significa per il resto dell'anno?
+- In media, l'impronta ecologica di chi vive in un Paese ricco rispetto a chi vive in un Paese povero è…
+- Quale di queste scelte riduce di più la tua impronta ecologica?
+- Perché mangiare meno carne riduce l'impronta ecologica?
+- Se tutti gli abitanti della Terra vivessero come un abitante medio di un Paese ricco, servirebbero più pianet…
+
+## Ripasso: capitali del mondo [lib-3-media-geografia-ripasso-capitali-mondo] · CITTA
+concetti: Capitali delle Americhe; Capitali dell'Asia; Capitali africane; Capitali progettate
+- Qual è la capitale del Perù?
+- Qual è la capitale della Thailandia?
+- La capitale della Nigeria è Lagos.
+- La capitale di Cuba, la più grande isola dei Caraibi, è ___.
+- Quale coppia Stato-capitale è corretta?
+- Perché alcuni Stati, come la Nigeria con Abuja, hanno costruito da zero una nuova capitale?
+- Qual è la capitale del Kenya, punto di partenza di molti safari?
+- Molte capitali non sono la città più grande del loro Paese. Fai almeno due esempi e spiega perché può succede…
+
 ## Ripasso: giro dei continenti [lib-3-media-geografia-ripasso-continenti] · GLOBO
 concetti: L'estensione dei continenti; La popolazione; Fiumi e oceani; Stretti e passaggi
 - Metti in ordine questi continenti dal più esteso al meno esteso.
@@ -486,6 +948,28 @@ concetti: Lo Stato più esteso; La Siberia; La Transiberiana; Le risorse
 - Perché i grandi fiumi siberiani come l'Ob, l'Enisej e la Lena sono poco usati per la navigazione?
 - La Siberia è immensa e ricca di risorse, ma pochissimo abitata. Spiega perché.
 
+## Safari nell'Africa orientale [lib-3-media-geografia-kenya-tanzania-savana] · SAFARI
+concetti: Il Kilimangiaro; La savana e la grande migrazione; Il lago Vittoria; Parchi e turismo
+- Che tipo di montagna è il Kilimangiaro?
+- Il lago Vittoria è condiviso da Kenya, Tanzania e ___.
+- Sulla cima del Kilimangiaro ci sono ghiacci anche se si trova vicino all'equatore.
+- Perché ogni anno gnu e zebre migrano nella savana?
+- Quale ambiente è tipico del Serengeti?
+- Quale popolo di pastori vive tra Kenya e Tanzania, vicino ai grandi parchi?
+- Dal lago Vittoria esce un fiume famosissimo. Quale?
+- Il turismo dei safari porta lavoro ma può creare problemi. Spiega un vantaggio e un problema per le comunità …
+
+## Singapore, piccola ma potente [lib-3-media-geografia-singapore-citta-stato] · LEONE
+concetti: Una città-Stato; Lo stretto di Malacca; Un porto e un centro finanziario; Poco spazio, tante persone
+- Dove si trova Singapore?
+- Singapore è insieme una città e uno Stato indipendente.
+- Quale stretto, fondamentale per il commercio tra Asia ed Europa, passa accanto a Singapore?
+- Per avere più spazio, Singapore ha ampliato il suo territorio ___ terra al mare.
+- Perché Singapore è diventata ricca pur senza risorse naturali?
+- Singapore ha circa 6 milioni di abitanti su circa 730 km². Quale densità ha, all'incirca?
+- Da quale Stato si separò Singapore nel 1965, diventando indipendente?
+- Spiega perché la posizione geografica è stata la vera "risorsa naturale" di Singapore.
+
 ## Stelle e strisce [lib-3-media-geografia-stati-uniti] · DOLLARO
 concetti: Uno Stato federale; Una nazione di immigrati; Una grande economia; Le regioni
 - Qual è la capitale degli Stati Uniti?
@@ -496,6 +980,39 @@ concetti: Uno Stato federale; Una nazione di immigrati; Una grande economia; Le 
 - Perché gli Stati Uniti sono definiti una «nazione di immigrati»?
 - Quali due Stati degli USA non confinano con gli altri 48?
 - Indica almeno tre fattori che hanno reso gli Stati Uniti una grande potenza economica.
+
+## Stessi diritti per tutte e tutti [lib-3-media-geografia-parita-genere] · PARI
+concetti: L'Obiettivo 5; Istruzione delle ragazze; Lavoro e divario salariale; Diritti politici
+- Quale obiettivo dell'Agenda 2030 riguarda l'uguaglianza di genere?
+- In Italia le donne hanno votato per la prima volta a livello nazionale nel 1946.
+- Quale di questi motivi tiene ancora molte ragazze lontane dalla scuola in alcune aree del mondo?
+- La differenza tra lo stipendio medio degli uomini e quello delle donne si chiama divario ___.
+- Perché istruire le ragazze aiuta lo sviluppo di tutto un Paese?
+- Quale di queste situazioni è un esempio di disuguaglianza di genere nel lavoro?
+- Nel mondo il diritto di voto alle donne è arrivato…
+- Fai un esempio di disuguaglianza tra ragazze e ragazzi che esiste ancora nel mondo e proponi un modo per ridu…
+
+## Sul tetto del mondo [lib-3-media-geografia-himalaya-nepal] · VETTA
+concetti: La catena dell'Himalaya; Come è nato l'Himalaya; Il Nepal; Il serbatoio d'acqua dell'Asia
+- Quanto è alto, circa, il monte Everest?
+- La capitale del Nepal è ___.
+- Il Nepal ha un lungo tratto di costa sull'oceano Indiano.
+- Perché in Nepal e nel Nord dell'India i terremoti sono frequenti e a volte violenti, come quello del 2015?
+- Sulle cime himalayane si trovano fossili di animali marini. Che cosa dimostra?
+- Quale di questi fiumi nasce dai ghiacciai dell'Himalaya?
+- Quale attività porta molte entrate al Nepal?
+- Perché il ritiro dei ghiacciai himalayani preoccupa anche chi vive a migliaia di chilometri, nelle pianure de…
+
+## Sull'altopiano del Corno d'Africa [lib-3-media-geografia-etiopia-corno-africa] · CAFFE
+concetti: Il Corno d'Africa; L'altopiano etiopico; Un Paese mai colonizzato; Addis Abeba e la Grande diga
+- Che cosa si intende per Corno d'Africa?
+- Dal lago Tana, sull'altopiano etiopico, nasce il Nilo ___.
+- L'Etiopia fu una colonia europea per più di un secolo.
+- Perché sull'altopiano etiopico il clima è più fresco che nelle pianure vicine?
+- A che cosa serve soprattutto la Grande diga che l'Etiopia ha costruito sul Nilo Azzurro?
+- Quale di questi Paesi fa parte del Corno d'Africa?
+- Perché la grande diga etiopica sul Nilo Azzurro preoccupa Egitto e Sudan?
+- La diga sul Nilo Azzurro è un esempio di conflitto per l'acqua tra Paesi a monte e a valle. Spiega i diversi …
 
 ## Tra deserti e savane [lib-3-media-geografia-africa-territorio] · SAVANA
 concetti: Il continente africano; Gli ambienti; Rilievi e Rift Valley; Fiumi e laghi
@@ -519,6 +1036,17 @@ concetti: Il Messico; L'America centrale; Il Canale di Panama; Economia e rischi
 - Che cosa sono le maquiladoras messicane?
 - Osserva la posizione dell'America centrale: spiega perché è insieme un ponte e una barriera.
 
+## Tropici e circoli polari [lib-3-media-geografia-paralleli-notevoli-tropici] · TROPICO
+concetti: L'equatore; I tropici; I circoli polari; L'inclinazione dell'asse
+- Quale parallelo divide la Terra in emisfero boreale e australe?
+- Il Tropico del Cancro e il Tropico del Capricorno si trovano a circa ___ gradi di latitudine, uno a nord e un…
+- In Italia il Sole a mezzogiorno non è mai perfettamente allo zenit, cioè proprio sopra la testa.
+- Che cosa succede a un punto sul Circolo polare artico il 21 giugno?
+- Il 21 giugno, sopra quale parallelo il Sole è allo zenit a mezzogiorno?
+- Perché esistono tropici e circoli polari?
+- Metti in ordine questi paralleli, dal Polo Nord al Polo Sud.
+- Che cosa cambierebbe se l'asse terrestre non fosse inclinato? Pensa a stagioni e paralleli notevoli.
+
 ## Un mondo sempre connesso [lib-3-media-geografia-globalizzazione] · RETE
 concetti: Che cos'è la globalizzazione; I motori della globalizzazione; La globalizzazione culturale; Vantaggi e rischi
 - Che cosa si intende per globalizzazione?
@@ -529,6 +1057,28 @@ concetti: Che cos'è la globalizzazione; I motori della globalizzazione; La glob
 - Quale rischio culturale porta la globalizzazione?
 - Il tuo smartphone è progettato negli USA, montato in Cina con pezzi coreani e venduto in Italia. È un esempio…
 - Indica un vantaggio e uno svantaggio della globalizzazione, con un esempio concreto per ciascuno.
+
+## Un ponte tra Europa e Asia [lib-3-media-geografia-turchia-ponte] · BOSFORO
+concetti: Tra due continenti; Gli stretti; La Repubblica turca; Istanbul
+- Come si chiama la penisola asiatica in cui si trova gran parte della Turchia?
+- Istanbul è la capitale della Turchia.
+- Il Bosforo e i Dardanelli collegano il Mar Nero al Mar ___.
+- Perché gli stretti turchi sono così importanti?
+- Chi fondò la Repubblica turca nel 1923?
+- Con quale nome era conosciuta Istanbul ai tempi dell'Impero bizantino?
+- Metti in ordine questi eventi della storia di Istanbul e della Turchia.
+- Perché si dice che la Turchia è un "ponte" tra Europa e Asia? Fai almeno due esempi.
+
+## Un prezzo giusto per chi coltiva [lib-3-media-geografia-commercio-equo-solidale] · EQUO
+concetti: Che cos'è il commercio equo; Prezzo minimo e premio; I prodotti tipici; Il ruolo del consumatore
+- Qual è lo scopo principale del commercio equo e solidale?
+- Quale di questi prodotti si trova spesso con il marchio del commercio equo?
+- Nel commercio equo il produttore riceve un prezzo minimo garantito anche quando il prezzo di mercato scende.
+- Oltre al prezzo minimo, le cooperative ricevono un ___ da usare per scuole, pozzi o ambulatori.
+- Perché un prezzo minimo garantito è così importante per un piccolo coltivatore di caffè?
+- Come puoi riconoscere un prodotto del commercio equo al supermercato?
+- Perché un prodotto equosolidale può costare un po' di più?
+- Secondo te il commercio equo può risolvere la povertà nel mondo? Motiva la risposta.
 
 ## Una Terra più calda [lib-3-media-geografia-effetto-serra-clima] · SERRA
 concetti: L'effetto serra naturale; L'effetto serra potenziato; Le conseguenze; Mitigazione e adattamento

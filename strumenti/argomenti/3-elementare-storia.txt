@@ -1,6 +1,17 @@
-# 3ª elementare · Storia: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 3ª elementare · Storia: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Ammoniti, conchiglie a spirale [lib-3-elementare-storia-ammoniti] · SPIRALE
+concetti: Chi erano le ammoniti; Una conchiglia a camere; Estinte con i dinosauri; Fossili guida
+- Dove vivevano le ammoniti?
+- Le ammoniti sono scomparse nello stesso periodo dei dinosauri.
+- Le ammoniti erano parenti di polpi e ___.
+- In quale parte della conchiglia viveva l'ammonite?
+- A cosa servivano le camere vuote della conchiglia?
+- Perché le ammoniti sono chiamate fossili guida?
+- Trovi un'ammonite fossile in una roccia. Quale conclusione è corretta?
+- Il nautilo, un mollusco di oggi, ha una conchiglia a spirale divisa in camere. Perché è utile agli scienziati…
 
 ## Animali amici: nasce l'allevamento [lib-3-elementare-storia-allevamento-animali] · GREGGE
 concetti: Addomesticare gli animali; Il cane, primo amico; Gli animali del Neolitico; Che cosa davano
@@ -12,6 +23,17 @@ concetti: Addomesticare gli animali; Il cane, primo amico; Gli animali del Neoli
 - A che cosa servivano i buoi, oltre a dare carne e pelli?
 - Perché allevare animali era più sicuro che cacciarli?
 - Immagina di vivere in un villaggio del Neolitico con una capra, una pecora e un bue. Spiega che cosa ti dà og…
+
+## Arriva la ruota [lib-3-elementare-storia-ruota-trasporti] · RUOTA
+concetti: Prima della ruota; L'invenzione; Il tornio del vasaio; Carri e commerci
+- In quale regione fu inventata la ruota?
+- Le prime ruote avevano tanti raggi sottili come quelle delle biciclette.
+- Il ___ è una ruota che gira e aiuta il vasaio a modellare i vasi.
+- Come si spostavano i carichi pesanti prima della ruota?
+- Metti in ordine dal sistema più antico al più recente.
+- Quale vantaggio diedero i carri con le ruote?
+- Quali animali tiravano i primi carri?
+- Pensa alla tua giornata: in quali oggetti trovi la ruota? Perché è un'invenzione così importante?
 
 ## Arrivano i mammiferi [lib-3-elementare-storia-era-mammiferi] · LATTE
 concetti: Che cos'è un mammifero; Piccoli al tempo dei dinosauri; Il Cenozoico; Sangue caldo e pelo
@@ -101,6 +123,17 @@ concetti: Chi è l'archeologo; Gli attrezzi dello scavo; Documentare tutto; Dopo
 - Un bambino trova una moneta antica in un campo e se la porta a casa. Perché è un problema?
 - Immagina di essere un archeologo e di trovare una collana di conchiglie in una tomba antica. Che cosa fai, pa…
 
+## Corazze, mazze e code a frusta [lib-3-elementare-storia-dinosauri-corazzati] · CORAZZA
+concetti: Difendersi dai predatori; L'Anchilosauro; Placche nella pelle; Giganti dalla coda a frusta
+- Come si difendeva soprattutto un enorme Diplodoco?
+- I dinosauri corazzati erano soprattutto carnivori.
+- La coda dell'Anchilosauro finiva con una pesante ___ d'osso.
+- Di che cosa erano fatte le placche della corazza dell'Anchilosauro?
+- Come colpiva l'Anchilosauro un predatore che lo attaccava?
+- Perché un erbivoro lento aveva bisogno di una corazza?
+- Quale animale di oggi ha nella pelle placche ossee simili a quelle dei dinosauri corazzati?
+- Scegli un dinosauro corazzato e spiega come si difendeva.
+
 ## Dal campo al pane [lib-3-elementare-storia-pietra-levigata-pane] · MACINA
 concetti: La pietra levigata; Ascia e falcetto; La macina; Le prime focacce
 - A che cosa serviva la macina?
@@ -112,6 +145,17 @@ concetti: La pietra levigata; Ascia e falcetto; La macina; Le prime focacce
 - Gli archeologi trovano una grande pietra piatta consumata al centro e una pietra più piccola vicino. Che cosa…
 - Confronta un'amigdala del Paleolitico e un'ascia di pietra levigata del Neolitico: come venivano fatte e perc…
 
+## Dal lupo al cane [lib-3-elementare-storia-addomesticare-cane] · CANE
+concetti: Il primo animale domestico; Antenato lupo; Aiutante nella caccia; Un'amicizia vantaggiosa
+- Perché alcuni lupi cominciarono ad avvicinarsi agli accampamenti degli uomini?
+- Il cane fu addomesticato prima della pecora e della mucca.
+- Il cane fu addomesticato quando gli uomini vivevano ancora di caccia e ___.
+- Generazione dopo generazione, come diventarono i lupi allevati dagli uomini?
+- Che cosa riceveva il cane in cambio del suo aiuto?
+- Di notte un cane abbaia all'accampamento. A cosa serviva?
+- In quale periodo fu addomesticato il cane?
+- Perché si dice che tra uomo e cane è nata un'amicizia vantaggiosa per entrambi?
+
 ## Dall'acqua alla terraferma [lib-3-elementare-storia-acqua-terraferma] · ANFIBIO
 concetti: Le piante conquistano la terra; I pesci; Gli anfibi; I rettili e l'uovo con il guscio
 - Quale di questi animali è un anfibio?
@@ -122,6 +166,17 @@ concetti: Le piante conquistano la terra; I pesci; Gli anfibi; I rettili e l'uov
 - Metti in ordine questi animali, dal più antico al più recente.
 - Perché un uovo senza guscio non può essere deposto in un posto asciutto?
 - Quali problemi dovettero superare piante e animali per lasciare l'acqua e vivere sulla terraferma?
+
+## Dallo scavo al museo [lib-3-elementare-storia-ricostruire-dinosauro] · CALCO
+concetti: Il paleontologo; Lo scavo delicato; Il laboratorio; Calchi e scheletri montati
+- Quale di questi oggetti potrebbe studiare un paleontologo?
+- Le ossa fossili sono dure come l'acciaio, quindi non serve proteggerle durante il trasporto.
+- Per trasportare le ossa senza romperle, i paleontologi le avvolgono in bende di ___.
+- Cos'è un calco?
+- Metti in ordine il viaggio di un fossile dallo scavo al museo.
+- Perché nei musei si espongono spesso calchi e non le ossa vere?
+- Il paleontologo confronta un osso fossile con quello di un coccodrillo e di un uccello. Perché?
+- Perché il lavoro del paleontologo richiede tanta pazienza?
 
 ## Darwin e l'evoluzione [lib-3-elementare-storia-evoluzione-darwin] · DARWIN
 concetti: Il viaggio di Darwin; I viventi cambiano; L'adattamento; I fringuelli delle Galápagos
@@ -156,6 +211,28 @@ concetti: La storia personale; Le fonti di casa; I testimoni; La linea della vit
 - La mamma dice che hai cominciato a camminare a 11 mesi, il papà dice a 13 mesi. Come puoi scoprire chi ha rag…
 - Racconta tre fatti importanti della tua storia personale e, per ognuno, indica una fonte che lo dimostra.
 
+## Dinosauri d'Italia [lib-3-elementare-storia-dinosauri-italia] · CIRO
+concetti: Ciro, lo Scipionyx; Organi conservati; Antonio; Impronte in Puglia
+- Come è soprannominato lo Scipionyx trovato in Campania?
+- Ciro era un dinosauro molto piccolo.
+- Vicino ad Altamura, in Puglia, sono state trovate migliaia di ___ di dinosauri.
+- Perché il fossile di Ciro è famoso in tutto il mondo?
+- Dove è stato trovato Antonio?
+- Antonio era un dinosauro erbivoro. Cosa mangiava?
+- Antonio è uno scheletro quasi completo. Perché questo è così importante?
+- Perché trovare tracce degli organi interni in un fossile è così utile agli scienziati?
+
+## Dove finisce la Preistoria? [lib-3-elementare-storia-storia-e-preistoria] · STORIA
+concetti: Preistoria; Storia; Età della pietra; Le fonti cambiano
+- Che cosa segna, per convenzione, la fine della Preistoria?
+- La scrittura fu inventata circa 5000 anni fa.
+- Il periodo della pietra scheggiata si chiama ___.
+- Metti in ordine questi periodi, dal più antico al più recente.
+- Per studiare il Paleolitico, quale fonte NON può usare lo storico?
+- In quale regione furono inventate le prime scritture?
+- Quale periodo è durato di più?
+- Perché la scrittura è stata così importante per conoscere il passato?
+
 ## Erbivori o carnivori? [lib-3-elementare-storia-erbivori-carnivori] · DENTI
 concetti: I dinosauri erbivori; I dinosauri carnivori; I denti raccontano; Difendersi
 - Che cosa mangiavano i dinosauri erbivori?
@@ -166,6 +243,17 @@ concetti: I dinosauri erbivori; I dinosauri carnivori; I denti raccontano; Difen
 - Un paleontologo trova un dente fossile largo, con una superficie fatta per triturare. Che cosa ne deduce?
 - Metti in ordine questa catena alimentare del Mesozoico: chi viene mangiato va prima di chi lo mangia.
 - Descrivi come il corpo di un dinosauro carnivoro era adatto alla caccia e come quello di un erbivoro era adat…
+
+## Flauti d'osso e collane [lib-3-elementare-storia-musica-ornamenti] · FLAUTO
+concetti: La musica preistorica; Collane e ornamenti; I colori; Più che sopravvivere
+- Con che cosa erano fatti alcuni flauti preistorici?
+- Gli uomini preistorici facevano collane con conchiglie e denti di animali.
+- L'ocra macinata si mescolava con acqua o con ___ per ottenere un colore.
+- Perché i denti di animale usati per le collane avevano un piccolo buco?
+- Cosa ci dicono musica e ornamenti sugli uomini preistorici?
+- Una conchiglia di mare forata viene trovata in una grotta di montagna lontana dalla costa. Cosa può significa…
+- Come si suonava un flauto d'osso?
+- Perché secondo te gli uomini preistorici suonavano e si adornavano?
 
 ## Fonti: le tracce del passato [lib-3-elementare-storia-fonti-storiche] · FONTE
 concetti: Fonti materiali; Fonti scritte; Fonti orali; Fonti visive o iconografiche
@@ -178,6 +266,17 @@ concetti: Fonti materiali; Fonti scritte; Fonti orali; Fonti visive o iconografi
 - Perché le fonti orali sono utili soprattutto per il passato recente?
 - Scegli un oggetto che usi ogni giorno e che fra cento anni potrebbe diventare una fonte. Che tipo di fonte sa…
 
+## Foreste di felci giganti [lib-3-elementare-storia-foreste-carbonifero] · FELCE
+concetti: Le prime piante di terra; Il Carbonifero; Felci ed equiseti giganti; Dalle foreste al carbone
+- A quali piante di oggi somigliavano le prime piante uscite dall'acqua?
+- Nelle foreste del Carbonifero c'erano tantissimi fiori colorati.
+- I resti delle piante del Carbonifero, sepolti per milioni di anni, si sono trasformati in ___.
+- Com'era il clima nelle foreste del Carbonifero?
+- Quale pianta di oggi è parente delle piante giganti del Carbonifero?
+- Metti in ordine le fasi della formazione del carbone.
+- Perché le foreste del Carbonifero furono importanti per gli animali?
+- Quando bruciamo il carbone usiamo energia arrivata da molto lontano nel tempo. Perché?
+
 ## Fossili di ogni tipo [lib-3-elementare-storia-tipi-di-fossili] · AMBRA
 concetti: Resti pietrificati; Impronte e orme; Fossili nell'ambra; Fossili nel ghiaccio; I coproliti
 - Che cos'è l'ambra?
@@ -189,6 +288,17 @@ concetti: Resti pietrificati; Impronte e orme; Fossili nell'ambra; Fossili nel g
 - In una pista di orme fossili i passi sono molto distanti tra loro. Che cosa può dedurre lo scienziato?
 - In una cava trovi una pietra con l'impronta di una foglia di felce. Che tipo di fossile è e che cosa ti racco…
 
+## Fossili viventi: antichi ma vivi [lib-3-elementare-storia-fossili-viventi] · GINKGO
+concetti: Che cos'è un fossile vivente; Il celacanto; Il ginkgo; Il limulo
+- Che cosa si intende per «fossile vivente»?
+- Il celacanto è un pesce che gli scienziati credevano estinto, finché nel 1938 ne fu pescato uno vivo.
+- Il ginkgo ha foglie a forma di ___.
+- Perché la scoperta del celacanto vivo stupì gli scienziati?
+- Il limulo è chiamato anche «granchio a ferro di cavallo». Perché?
+- Nonostante il nome, di quali animali è più parente il limulo?
+- Dove puoi vedere oggi un ginkgo, l'albero del tempo dei dinosauri?
+- Perché i fossili viventi sono preziosi per capire gli esseri viventi del passato?
+
 ## Fuso e telaio: nasce la stoffa [lib-3-elementare-storia-filare-tessere] · TELAIO
 concetti: Le fibre; Filare con il fuso; Tessere al telaio; Vestiti nuovi
 - Quale pianta veniva coltivata per ricavarne fibre da tessere?
@@ -199,6 +309,28 @@ concetti: Le fibre; Filare con il fuso; Tessere al telaio; Vestiti nuovi
 - Che cosa serve, prima di tutto, per poter tessere una stoffa al telaio?
 - Perché la tessitura si diffuse proprio nel Neolitico e non prima?
 - Gli archeologi trovano in un villaggio del Neolitico dei piccoli pesi di argilla con un foro, tutti vicini tr…
+
+## Giganti dell'era glaciale [lib-3-elementare-storia-animali-era-glaciale] · ZANNE
+concetti: La megafauna; Il rinoceronte lanoso; La tigre dai denti a sciabola; L'orso delle caverne
+- Che cosa aveva di speciale il rinoceronte lanoso?
+- Lo Smilodonte aveva due canini lunghissimi.
+- L'orso delle caverne passava l'inverno dentro le ___.
+- Come si chiamano i grandi mammiferi dell'era glaciale?
+- Perché molti animali dell'era glaciale avevano pellicce folte?
+- Perché nelle grotte si trovano tante ossa di orso delle caverne?
+- Gli uomini del Paleolitico disegnavano anche rinoceronti lanosi nelle grotte. Cosa ci dice questo?
+- Lo Smilodonte aveva canini lunghissimi. Secondo te, perché erano utili per cacciare le grandi prede dell'era …
+
+## Giorni, mesi e anni [lib-3-elementare-storia-calendario] · MESE
+concetti: Il calendario; L'anno; L'anno bisestile; Mesi e stagioni
+- Quanti mesi ha un anno?
+- Un anno corrisponde al tempo che la Terra impiega a girare intorno al Sole.
+- Nell'anno bisestile febbraio ha ___ giorni.
+- Quale mese ha 30 giorni?
+- Metti in ordine questi mesi come compaiono nel calendario.
+- Quanti giorni ha un anno bisestile?
+- Perché è utile avere un calendario uguale per tutti?
+- Perché ogni 4 anni si aggiunge un giorno a febbraio?
 
 ## Gli uccelli, dinosauri di oggi [lib-3-elementare-storia-uccelli-dinosauri] · PIUME
 concetti: Dinosauri con le piume; L'Archaeopteryx; Discendenti dei dinosauri; Somiglianze di oggi
@@ -244,6 +376,28 @@ concetti: La nostra specie; In tutto il mondo; Nuove invenzioni; Arte e linguagg
 - Perché un linguaggio complesso fu così importante per Homo sapiens?
 - Homo sapiens riuscì a vivere in ambienti diversissimi: deserti, foreste, terre ghiacciate. Quali capacità gli…
 
+## I primi pesci con la spina [lib-3-elementare-storia-primi-pesci] · PINNE
+concetti: I primi vertebrati; Pesci senza mascelle; Arrivano le mascelle; Respirare in acqua
+- Con quale organo respirano i pesci?
+- I pesci furono i primi animali ad avere la colonna vertebrale.
+- I primi pesci non avevano le ___ e quindi non potevano mordere.
+- Quale animale di oggi è un vertebrato, come i primi pesci?
+- Che vantaggio diedero le mascelle ai pesci?
+- Metti in ordine dalla comparsa più antica alla più recente.
+- Perché un pesce fuori dall'acqua non riesce a respirare a lungo?
+- Perché i primi pesci sono importanti anche per la storia dell'uomo?
+
+## I villaggi delle terramare [lib-3-elementare-storia-terramare] · ARGINE
+concetti: Dove e quando; Com'erano fatte; Fossato e argine; Il nome
+- In quale zona d'Italia si trovavano le terramare?
+- Le case delle terramare erano costruite su piattaforme di legno sostenute da pali.
+- I villaggi erano circondati da un fossato e da un ___ di terra.
+- In quale periodo vissero gli abitanti delle terramare?
+- Da dove viene il nome terramare?
+- A cosa poteva servire il fossato pieno d'acqua?
+- Perché quella terra dei villaggi era così fertile da essere usata come concime?
+- I contadini dell'Ottocento, scavando la terra delle terramare, distrussero molti resti antichi. Perché per gl…
+
 ## Identikit di dinosauri famosi [lib-3-elementare-storia-dinosauri-famosi] · GIGANTE
 concetti: Il tirannosauro; Il triceratopo; Lo stegosauro; Il brachiosauro; Non tutti insieme
 - Quante corna aveva il triceratopo?
@@ -288,6 +442,28 @@ concetti: Le glaciazioni; Ghiacciai e mari; Animali del freddo; Passaggi di terr
 - Quando l'ultima glaciazione finì e il clima si riscaldò, che cosa accadde ai ghiacciai?
 - Il mammut lanoso era perfetto per il freddo. Perché, secondo te, quando il clima si riscaldò i mammut si trov…
 
+## Immagini dal passato [lib-3-elementare-storia-fonti-visive] · FOTO
+concetti: Le fonti visive; Osservare una foto; Foto in bianco e nero; Pitture rupestri
+- Quale di queste è una fonte visiva?
+- Se una foto di famiglia è in bianco e nero, probabilmente è piuttosto vecchia.
+- Le pitture nelle grotte preistoriche rappresentano soprattutto ___.
+- In una foto vedi bambini con il grembiule nero e il fiocco, seduti in banchi di legno. Che luogo è?
+- Quale indizio in una foto ti aiuta di più a capire l'epoca in cui è stata scattata?
+- Un dipinto antico mostra contadini che mietono il grano con la falce. Che cosa ci racconta?
+- Le pitture rupestri sono fonti visive più antiche delle fotografie.
+- Guarda una foto dei tuoi nonni da giovani: quali differenze con oggi potresti cercare?
+
+## In viaggio per il mondo [lib-3-elementare-storia-migrazioni-sapiens] · PONTE
+concetti: Partenza dall'Africa; Verso l'Europa; Verso l'America; Verso l'Australia
+- In quale continente comparve l'Homo sapiens?
+- I Sapiens arrivarono in Europa circa 45.000 anni fa.
+- I Sapiens arrivarono in America passando dove oggi si trova lo stretto di ___.
+- Come raggiunsero probabilmente l'Australia i primi Sapiens?
+- Metti in ordine queste tappe del viaggio dei Sapiens, dalla più antica alla più recente.
+- Quale strada percorsero i Sapiens per arrivare dall'Africa in Europa?
+- Perché i Sapiens si spostavano verso nuove terre?
+- Come fanno gli scienziati a sapere che i Sapiens sono partiti dall'Africa e hanno raggiunto terre lontane?
+
 ## Indietro nel tempo: la Preistoria [lib-3-elementare-preistoria] · FUOCO
 concetti: La linea del tempo; Il Paleolitico; La scoperta del fuoco; Il Neolitico; L'età dei metalli
 - Come si procuravano il cibo gli uomini del Paleolitico?
@@ -298,6 +474,17 @@ concetti: La linea del tempo; Il Paleolitico; La scoperta del fuoco; Il Neolitic
 - Quale di questi oggetti è tipico del Neolitico?
 - Perché gli attrezzi di metallo presero piano piano il posto di quelli di pietra?
 - Immagina di vivere nel Neolitico. Racconta come è cambiata la tua vita rispetto a quella dei tuoi antenati de…
+
+## Invenzioni che usiamo ancora [lib-3-elementare-storia-eredita-preistoria] · EREDITA
+concetti: Il fuoco; Pane e agricoltura; Vasi e stoffe; La ruota e i metalli
+- Quale scoperta preistorica usi quando la mamma cucina sul fornello?
+- Il pane che mangi oggi è legato alla nascita dell'agricoltura nel Neolitico.
+- La tazza della tua colazione è una discendente dei vasi di ___ del Neolitico.
+- La maglietta che indossi deriva da quale invenzione neolitica?
+- Quale oggetto moderno usa sia la ruota sia il metallo?
+- Metti in ordine di comparsa queste invenzioni.
+- Perché diciamo che i contadini del Neolitico ci hanno lasciato un'eredità?
+- Scegli un'invenzione della Preistoria e spiega come sarebbe la tua vita senza di essa.
 
 ## L'uomo di Neanderthal [lib-3-elementare-storia-neanderthal] · VALLE
 concetti: Chi era; Adatto al freddo; Un abile cacciatore; Seppellire i morti; Neanderthal in Italia
@@ -320,6 +507,17 @@ concetti: Che cos'è il Neolitico; La Mezzaluna fertile; Le prime piante coltiva
 - Perché chi coltivava i campi dovette smettere di essere nomade?
 - Perché i cereali erano un cibo così prezioso per gli uomini del Neolitico?
 - Confronta un cacciatore-raccoglitore del Paleolitico e un contadino del Neolitico: che cosa cambia nel modo d…
+
+## La Mezzaluna fertile [lib-3-elementare-storia-mezzaluna-fertile] · GRANO
+concetti: Dove; Quando; Perché proprio lì; La diffusione
+- Perché questa regione si chiama Mezzaluna fertile?
+- L'agricoltura nacque nella Mezzaluna fertile circa 10.000 anni fa.
+- La Mezzaluna fertile si trova tra il Mar Mediterraneo e i fiumi Tigri ed ___.
+- Quali cereali crescevano spontanei nella Mezzaluna fertile?
+- Perché gli uomini iniziarono a coltivare proprio dove crescevano cereali selvatici?
+- Quando l'agricoltura arrivò in Italia, che cosa coltivavano soprattutto i primi contadini?
+- Quale di questi Paesi di oggi si trova nella Mezzaluna fertile?
+- L'agricoltura nata nella Mezzaluna fertile arrivò in Italia migliaia di anni dopo. Come pensi che sia arrivat…
 
 ## La squadra degli esperti [lib-3-elementare-storia-esperti-del-passato] · ESPERTO
 concetti: Il geologo; Il paleontologo; L'antropologo; Lavorare in squadra
@@ -354,6 +552,17 @@ concetti: Vita nell'acqua; Esseri di una sola cellula; Le alghe azzurre e l'ossi
 - Che differenza c'è tra un batterio e una medusa?
 - Perché possiamo dire che dobbiamo «ringraziare» le minuscole alghe azzurre se oggi possiamo respirare?
 
+## Lance, propulsori e archi [lib-3-elementare-storia-armi-di-caccia] · ARCO
+concetti: La lancia; Il propulsore; L'arco e le frecce; Caccia di gruppo
+- Con cosa era fatta la punta di una lancia preistorica?
+- Il propulsore serviva a lanciare la lancia più lontano.
+- Con l'arco si scoccavano le ___.
+- Metti in ordine le armi dalla più antica alla più recente.
+- Quale vantaggio dava l'arco rispetto alla lancia?
+- Perché i cacciatori dovevano conoscere bene le abitudini degli animali?
+- Un cacciatore deve colpire un cervo a grande distanza. Quale strumento sceglierà tra lancia sola e lancia con…
+- Perché l'invenzione dell'arco cambiò la caccia? Pensa a quali animali si potevano catturare.
+
 ## Le ere della Terra [lib-3-elementare-storia-ere-geologiche] · EPOCA
 concetti: Che cosa sono le ere; Il Paleozoico; Il Mesozoico; Il Cenozoico
 - In quale era vissero i dinosauri?
@@ -364,6 +573,61 @@ concetti: Che cosa sono le ere; Il Paleozoico; Il Mesozoico; Il Cenozoico
 - Metti in ordine le ere geologiche, dalla più antica alla più recente.
 - Perché i mammiferi poterono diffondersi moltissimo nel Cenozoico?
 - In uno strato profondo si trovano fossili di dinosauri e in uno strato più in alto fossili di mammut. Spiega,…
+
+## Le incisioni della Valcamonica [lib-3-elementare-storia-valcamonica] · CAMUNA
+concetti: Dove si trova; Le incisioni rupestri; Cosa raffigurano; Patrimonio dell'umanità
+- Come furono realizzate le figure sulle rocce della Valcamonica?
+- La Valcamonica è una valle delle Alpi, in provincia di Brescia.
+- La Valcamonica è stata il primo sito italiano dichiarato patrimonio mondiale dall'___.
+- Quale di queste figure si trova incisa sulle rocce della Valcamonica?
+- Perché le incisioni della Valcamonica sono così numerose?
+- Le figure di guerrieri con armi di metallo sono più recenti di quelle di cacciatori con armi di pietra. Perch…
+- Quale simbolo della Valcamonica è oggi il simbolo della Regione Lombardia?
+- Che cosa possiamo imparare sugli antichi abitanti della valle osservando le incisioni?
+
+## Le orme di Laetoli [lib-3-elementare-storia-orme-laetoli] · CENERE
+concetti: La scoperta; Come si sono conservate; Chi le ha lasciate; Camminare su due piedi
+- In quale continente si trovano le orme di Laetoli?
+- Le orme di Laetoli mostrano che quegli ominidi camminavano su due piedi.
+- Le orme si conservarono perché furono impresse in uno strato di ___ vulcanica bagnata dalla pioggia.
+- Metti in ordine come si sono formate e conservate le orme di Laetoli.
+- Secondo gli scienziati, chi lasciò le orme di Laetoli?
+- Circa quanti anni hanno le orme di Laetoli?
+- Quale indizio delle orme fa capire che quei piedi erano simili ai nostri?
+- Immagina di essere a Laetoli quando passarono quegli ominidi. Racconta che cosa vedi e spiega come le loro or…
+
+## Le stagioni del contadino [lib-3-elementare-storia-ciclo-agricolo] · SEMINA
+concetti: Il ciclo agricolo; Le stagioni; Conservare i semi; Le scorte
+- Quale lavoro si fa per primo nel ciclo agricolo?
+- I contadini del Neolitico mangiavano tutti i semi raccolti.
+- Per avere cibo d'inverno il raccolto si conservava in grandi ___ di argilla.
+- Metti in ordine le fasi del ciclo agricolo.
+- Perché i contadini osservavano il cielo e le stagioni?
+- Quali semi conveniva conservare per l'anno dopo?
+- Cosa succedeva a un villaggio se il raccolto andava distrutto da una grandinata?
+- Perché conservare una parte del raccolto era una scelta intelligente?
+
+## Le torri di pietra sarde [lib-3-elementare-storia-nuraghi] · NURAGHE
+concetti: Che cos'è un nuraghe; Pietre senza malta; Tantissimi nuraghi; I bronzetti
+- In quale regione si trovano i nuraghi?
+- Le pietre dei nuraghi sono tenute insieme con il cemento.
+- Le piccole statue di bronzo dei nuragici si chiamano ___.
+- Qual è il nuraghe più famoso, patrimonio UNESCO?
+- In quale periodo furono costruiti i nuraghi?
+- Come restano in piedi da migliaia di anni le pietre dei nuraghi senza malta?
+- I bronzetti mostrano molti guerrieri armati. Che cosa ci fanno pensare della società nuragica?
+- Perché i bronzetti e i nuraghi sono fonti importanti per conoscere i nuragici?
+
+## Libellule giganti del Carbonifero [lib-3-elementare-storia-insetti-giganti] · INSETTO
+concetti: I primi a volare; La Meganeura; Altri giganti; Aria ricca di ossigeno
+- Quali furono i primi animali a volare?
+- La Meganeura era una libellula gigante.
+- Con le ali aperte, la Meganeura era larga circa 70 ___.
+- Quale di questi animali giganti viveva nel Carbonifero?
+- Secondo gli scienziati, cosa aiutò gli insetti del Carbonifero a diventare così grandi?
+- Che vantaggio dava il volo ai primi insetti?
+- In quale ambiente volava la Meganeura?
+- Oggi l'aria ha meno ossigeno che nel Carbonifero. Cosa pensi che sarebbe successo a una Meganeura nel nostro …
 
 ## Lo storico, detective del passato [lib-3-elementare-storia-lavoro-storico] · INDIZIO
 concetti: Che cos'è la storia; Il metodo dello storico; Le fonti come indizi; Confrontare le fonti
@@ -387,6 +651,17 @@ concetti: Gli ominidi; L'Australopiteco; Lucy; Camminare in piedi
 - Gli antenati dell'uomo vivevano nella savana, una grande prateria con erba alta. Perché stare in piedi era ut…
 - Come fanno gli scienziati a sapere che Lucy camminava su due piedi, anche se nessuno l'ha mai vista? Fai un'i…
 
+## Mamme dinosauro e nidi [lib-3-elementare-storia-uova-nidi-dinosauri] · NIDO
+concetti: Uova di dinosauro; I nidi; La Maiasaura; L'Oviraptor innocente
+- Dove deponevano le uova i dinosauri?
+- Alcuni dinosauri costruivano i nidi vicini, formando delle colonie.
+- Il nome Maiasaura significa buona ___ lucertola.
+- Quale indizio fa pensare che la Maiasaura curasse i piccoli?
+- Perché l'Oviraptor fu considerato per anni un ladro di uova?
+- Che cosa dimostrarono le scoperte successive sull'Oviraptor?
+- In alcune uova fossili di dinosauro si vedono ancora i piccoli scheletri dei cuccioli non ancora nati.
+- La storia dell'Oviraptor cosa insegna sul lavoro degli scienziati?
+
 ## Menhir, dolmen e cerchi di pietra [lib-3-elementare-storia-megaliti] · MENHIR
 concetti: Che cosa sono i megaliti; Menhir e dolmen; Stonehenge; A che cosa servivano
 - Che cosa significa la parola «megalito»?
@@ -397,6 +672,28 @@ concetti: Che cosa sono i megaliti; Menhir e dolmen; Stonehenge; A che cosa serv
 - Senza gru né camion, come riuscivano gli uomini a spostare pietre enormi?
 - Che cosa ci fa capire il fatto che un villaggio riuscisse a innalzare un megalito?
 - Perché, secondo te, popoli che vivevano in capanne di legno faticarono tanto per costruire monumenti di pietr…
+
+## Meridiane e clessidre [lib-3-elementare-storia-orologi-antichi] · OMBRA
+concetti: Il tempo della natura; La meridiana; La clessidra; L'orologio moderno
+- Che cosa serve a una meridiana per funzionare?
+- Una meridiana funziona benissimo anche di notte.
+- Nella clessidra il tempo è misurato dalla ___ che scende.
+- Come capivano gli uomini preistorici che stava arrivando l'inverno?
+- Per cuocere un uovo per 3 minuti, quale strumento antico sarebbe più adatto?
+- Metti in ordine questi modi di misurare il tempo, dal più antico al più recente.
+- Qual è un vantaggio dell'orologio rispetto alla meridiana?
+- Perché secondo te gli esseri umani hanno sentito il bisogno di misurare il tempo?
+
+## Mesolitico, l'età di mezzo [lib-3-elementare-storia-mesolitico] · PIROGA
+concetti: Un periodo di passaggio; Un clima più mite; I microliti; Piroghe e pesca
+- Che cosa significa Mesolitico?
+- Nel Mesolitico il clima diventò più mite rispetto alle glaciazioni.
+- Le piccolissime punte di pietra del Mesolitico si chiamano ___.
+- Metti in ordine questi periodi.
+- Con la fine delle glaciazioni, quali animali divennero più comuni nei boschi?
+- Come si costruiva una piroga?
+- Perché nel Mesolitico servivano armi per prede più piccole e veloci?
+- Spiega come il cambiamento del clima cambiò la vita degli uomini nel Mesolitico.
 
 ## Miti e leggende delle origini [lib-3-elementare-storia-miti-delle-origini] · MITO
 concetti: Che cos'è un mito; Perché nascono i miti; Un mito greco; La spiegazione scientifica
@@ -431,6 +728,28 @@ concetti: Le capanne; Il villaggio; Proteggere il villaggio; Nuovi mestieri
 - Metti in ordine le fasi per costruire una capanna del Neolitico.
 - Nel villaggio un contadino ha tanto grano, ma i suoi vestiti sono rotti; un tessitore ha bisogno di cibo. Com…
 
+## Nel laboratorio del fonditore [lib-3-elementare-storia-fusione-metalli] · STAMPO
+concetti: Il minerale; Il forno e il fuoco; Lo stampo; Oggetti riparabili
+- Dove si trovano i metalli prima di essere lavorati?
+- Per fondere il metallo basta il calore di una giornata di sole.
+- Per rendere il fuoco del forno più caldo si soffiava aria con i ___.
+- Metti in ordine le fasi per ottenere un'ascia di metallo.
+- Come si chiama il luogo in cui si scava per estrarre i minerali?
+- Un'ascia di pietra si rompe. Un'ascia di bronzo si rompe. Cosa si poteva fare con quella di bronzo?
+- Perché i fonditori diventarono persone molto importanti nei villaggi?
+- Perché i primi fonditori sceglievano di lavorare vicino alle miniere e ai boschi?
+
+## Nello stesso momento [lib-3-elementare-storia-contemporaneita] · MENTRE
+concetti: Fatti contemporanei; Parole del tempo; Fatti in successione; Contemporaneità nella storia
+- Quale parola indica che due fatti accadono nello stesso momento?
+- Nella frase «Prima ho fatto i compiti, poi sono andato al parco» i due fatti sono contemporanei.
+- Prima mi lavo i denti, ___ vado a dormire.
+- In quale di queste frasi i due fatti avvengono nello stesso tempo?
+- Quale frase descrive fatti in successione?
+- Nel Neolitico, mentre in Mesopotamia si coltivava già il grano, in molte zone d'Europa si viveva ancora di ca…
+- Due fatti possono essere contemporanei anche se accadono in città diverse.
+- Racconta due cose che succedono contemporaneamente a scuola durante la ricreazione.
+
 ## Non tutti erano dinosauri [lib-3-elementare-storia-rettili-volanti-marini] · VOLO
 concetti: Gli pterosauri; I rettili marini; Parenti, ma non dinosauri; Respirare aria
 - Di che cosa erano fatte le ali degli pterosauri?
@@ -452,6 +771,83 @@ concetti: La selce; La scheggiatura; Uno strumento per ogni lavoro; Osso e corno
 - Perché lo scheggiatore doveva colpire la selce con precisione e non a caso?
 - In una grotta un archeologo trova molti raschiatoi e ossa di renna. Che lavoro si faceva probabilmente lì?
 - Oggi usiamo coltelli, aghi e raschietti di metallo. Scegli uno strumento del Paleolitico e spiega a quale ogg…
+
+## Oggetti che parlano [lib-3-elementare-storia-fonti-materiali] · OGGETTO
+concetti: Che cos'è una fonte materiale; Leggere un oggetto; Ieri e oggi; Fonti nel terreno
+- Nella cantina della bisnonna trovi diverse cose. Quale di queste è una fonte materiale?
+- Anche un edificio antico, come un castello, è una fonte materiale.
+- Davanti a un oggetto antico, la prima domanda è: di che ___ è fatto?
+- Il ferro da stiro della bisnonna si scaldava sulla stufa, quello di oggi si collega alla presa. Cosa ci fa ca…
+- Un archeologo trova un piccolo cavallo di legno con le ruote. Probabilmente a cosa serviva?
+- Dove si trovano più spesso le fonti materiali della Preistoria?
+- Il nonno aveva una cartella di cuoio, tu hai uno zaino di tessuto sintetico. Quale cambiamento mostra questo …
+- Un archeologo trova una vecchia chiave di ferro sotto i resti di una casa antica. Quali domande dovrebbe fars…
+
+## Orme che raccontano [lib-3-elementare-storia-impronte-fossili] · ORMA
+concetti: Come nasce un'orma fossile; Due o quattro zampe; Grandezza e velocità; Tracce di comportamento
+- Su che tipo di terreno un animale lasciava più facilmente un'orma?
+- Se accanto alle orme dei piedi si trovano anche orme di mani, l'animale camminava su quattro zampe.
+- Se troviamo solo orme di piedi posteriori, l'animale camminava su ___ zampe.
+- Metti in ordine le fasi della formazione di un'orma fossile.
+- Trovi due orme uguali per forma, una lunga 20 cm e una 80 cm. Cosa puoi dedurre?
+- Molte orme parallele, nella stessa direzione, cosa ci dicono?
+- Perché un'orma lasciata sulla sabbia asciutta di una spiaggia difficilmente diventa fossile?
+- Immagina di trovare una lunga pista di orme. Quali domande ti faresti per capire chi le ha lasciate?
+
+## Ossidiana, il vetro dei vulcani [lib-3-elementare-storia-ossidiana] · VETRO
+concetti: Che cos'è l'ossidiana; Taglientissima; Da dove veniva; Un commercio antico
+- Che cos'è l'ossidiana?
+- L'ossidiana si forma quando la lava si raffredda molto in fretta.
+- In Italia una delle isole più famose per l'ossidiana è ___.
+- Perché l'ossidiana era così apprezzata?
+- Di che colore è di solito l'ossidiana?
+- Gli archeologi trovano ossidiana di Lipari in un villaggio neolitico lontano dal mare. Cosa dimostra?
+- Per portare l'ossidiana da Lipari alla terraferma che cosa serviva?
+- Perché l'ossidiana aiuta gli storici a capire i viaggi e gli scambi del Neolitico?
+
+## Pangea, un solo continente [lib-3-elementare-storia-pangea] · PANGEA
+concetti: La Pangea; I continenti si spostano; Wegener e gli indizi; Fossili gemelli
+- Che cos'era la Pangea?
+- I continenti ancora oggi si spostano, anche se non ce ne accorgiamo.
+- Wegener notò che le coste dell'Africa e del Sud America combaciano come i pezzi di un ___.
+- Quanto si spostano più o meno i continenti in un anno?
+- Fossili dello stesso piccolo rettile d'acqua dolce si trovano in Africa e in Sud America. Cosa fa pensare?
+- Metti in ordine queste situazioni dalla più antica alla più recente.
+- Perché le placche che si muovono sono importanti per la storia della Terra?
+- Come spiegheresti a un amico che un tempo Africa e America erano unite?
+
+## Parole sulla carta: le fonti scritte [lib-3-elementare-storia-fonti-scritte] · LETTERA
+concetti: Che cos'è una fonte scritta; Documenti ufficiali; Fonti scritte personali; Giornali e notizie
+- Quale di questi oggetti è una fonte scritta?
+- Un vecchio biglietto del tram, con la data stampata sopra, è una fonte scritta.
+- Lettere, diari e cartoline sono fonti scritte ___, perché raccontano i pensieri di chi le ha scritte.
+- Cosa ci racconta meglio un diario rispetto a un certificato?
+- Vuoi sapere in che anno i tuoi nonni si sono sposati. Quale fonte scritta è più sicura?
+- Un giornale di 50 anni fa ci può far scoprire quali notizie leggevano le persone in quei giorni.
+- Trovi un giornale del 1969 con la foto di un uomo sulla Luna in prima pagina. Che cosa ti fa capire?
+- Trovi in soffitta una lettera scritta dal tuo bisnonno. Quali informazioni potresti scoprire leggendola?
+
+## Perché succede? Causa ed effetto [lib-3-elementare-storia-causa-conseguenza] · CAUSA
+concetti: Causa; Conseguenza; Parole del legame; Cause nella storia
+- "Ho preso l'ombrello perché pioveva." Qual è la causa?
+- La conseguenza avviene sempre prima della sua causa.
+- Ho dimenticato di innaffiare la pianta, ___ si è seccata.
+- Qual è la conseguenza di una forte nevicata in città?
+- Gli uomini del Neolitico impararono a coltivare. Quale fu una conseguenza?
+- Uno storico scrive: «Il villaggio fu abbandonato perché il fiume vicino si prosciugò». Che cos'è il fiume che…
+- Quale frase collega correttamente causa e conseguenza?
+- Scegli un'invenzione della Preistoria e spiega una sua conseguenza sulla vita degli uomini.
+
+## Pescatori della Preistoria [lib-3-elementare-storia-pesca-preistorica] · ARPIONE
+concetti: L'arpione; Ami e reti; Raccolta dei molluschi; Vivere vicino all'acqua
+- Di quale materiale erano fatti di solito gli arpioni preistorici?
+- Gli uomini preistorici costruivano ami usando le ossa.
+- Per pescare tanti pesci insieme, gli uomini preistorici intrecciavano fibre di piante e costruivano ___.
+- Lungo le coste, quale cibo si poteva raccogliere facilmente?
+- Perché molti accampamenti preistorici si trovavano vicino a fiumi e laghi?
+- Gli archeologi trovano un enorme mucchio di conchiglie vicino a un antico accampamento. Cosa ne deducono?
+- Che vantaggio aveva un arpione con i dentini rispetto a una lancia liscia?
+- Perché la pesca era utile per un gruppo che non voleva spostarsi troppo spesso?
 
 ## Piogge infinite e primi oceani [lib-3-elementare-storia-primi-oceani] · PIOGGIA
 concetti: Il vapore dei vulcani; Nuvole e piogge; Nascono gli oceani; L'atmosfera primitiva
@@ -475,6 +871,17 @@ concetti: L'arte rupestre; Che cosa dipingevano; I colori naturali; Luoghi famos
 - Molte pitture si trovano in fondo a grotte buie. Come facevano i pittori a vedere?
 - Perché le pitture nelle grotte sono fonti preziose per lo storico, anche se non sappiamo con certezza perché …
 
+## Prima dei dinosauri: il Permiano [lib-3-elementare-storia-permiano-dimetrodonte] · VELA
+concetti: Il Permiano; Il Dimetrodonte; A che cosa serviva la vela; La grande estinzione
+- Che cosa aveva di speciale sulla schiena il Dimetrodonte?
+- Il Dimetrodonte era un dinosauro.
+- Il Permiano fu l'ultimo periodo dell'era ___, prima dell'arrivo dei dinosauri.
+- Com'erano disposte le terre emerse nel Permiano?
+- A che cosa poteva servire la vela del Dimetrodonte, secondo molti scienziati?
+- Metti in ordine questi fatti, dal più antico al più recente.
+- Che cosa accadde circa 250 milioni di anni fa, alla fine del Permiano?
+- Dopo la grande estinzione del Permiano molti ambienti rimasero quasi vuoti. Perché questo fu un'occasione per…
+
 ## Prima e dopo Cristo [lib-3-elementare-storia-avanti-dopo-cristo] · DATA
 concetti: L'anno di riferimento; Avanti Cristo (a.C.); Dopo Cristo (d.C.); Calcolare le distanze
 - Qual è il punto di partenza per contare gli anni nel nostro calendario?
@@ -485,6 +892,28 @@ concetti: L'anno di riferimento; Avanti Cristo (a.C.); Dopo Cristo (d.C.); Calco
 - Metti in ordine queste date, dalla più antica alla più recente.
 - Quanti anni passano dal 900 a.C. al 400 a.C.?
 - Perché tutti hanno bisogno dello stesso punto di partenza per contare gli anni? Che cosa succederebbe senza?
+
+## Primati: i nostri parenti [lib-3-elementare-storia-primati] · PRIMATE
+concetti: Chi sono i primati; Mani che afferrano; Occhi davanti; Parenti stretti
+- A quale gruppo di mammiferi appartiene l'uomo?
+- L'uomo discende direttamente dagli scimpanzé di oggi.
+- Il pollice ___ permette ai primati di afferrare gli oggetti.
+- Perché per un primate che vive sugli alberi è utile avere gli occhi sul davanti?
+- Qual è il parente vivente più stretto dell'uomo?
+- Quale di queste azioni quotidiane usa il pollice opponibile?
+- Quale animale NON è un primate?
+- Perché il pollice opponibile è stato importante nella storia degli esseri umani?
+
+## Racconti a voce: le fonti orali [lib-3-elementare-storia-fonti-orali] · VOCE
+concetti: Che cos'è una fonte orale; L'intervista; Ricordi da controllare; Canti e leggende
+- Quale di questi esempi è una fonte orale?
+- Una ninna nanna che le mamme insegnano ai figli da tanti anni può essere una fonte orale.
+- Prima di intervistare il nonno è utile scrivere le ___ da fargli.
+- Durante l'intervista, qual è il modo migliore per non perdere le parole del nonno?
+- Metti in ordine le fasi di un'intervista per la tua storia personale.
+- Il nonno dice di essersi trasferito in città nel 1965, ma una sua foto con la data dietro mostra il 1963. Cos…
+- Perché un ricordo raccontato a voce può contenere errori?
+- Perché le fonti orali sono preziose anche se a volte contengono errori?
 
 ## Rame, bronzo e ferro [lib-3-elementare-storia-eta-dei-metalli] · BRONZO
 concetti: Il rame; Il bronzo; Il ferro; Fondere e colare
@@ -497,6 +926,17 @@ concetti: Il rame; Il bronzo; Il ferro; Fondere e colare
 - Perché il ferro fu lavorato per ultimo, anche se in natura se ne trova tanto?
 - Lo stagno si trovava solo in pochi luoghi, lontani da molti villaggi. Che cosa dovevano fare i popoli che vol…
 
+## Rami di famiglia [lib-3-elementare-storia-albero-genealogico] · ALBERO
+concetti: L'albero genealogico; Le generazioni; I parenti; Antenati
+- Chi sono i genitori di tua mamma?
+- I figli di tuo zio sono i tuoi cugini.
+- I genitori dei tuoi nonni sono i tuoi ___.
+- Metti in ordine le generazioni, dalla più vecchia alla più giovane.
+- In un albero genealogico, tu e i tuoi cugini siete sulla stessa riga. Perché?
+- Quante persone ci sono nella riga dei nonni, contando quelli di mamma e papà?
+- Chi tra questi è un tuo antenato?
+- A cosa serve costruire il proprio albero genealogico per uno storico in erba?
+
 ## Ripasso: la lunga storia della Terra [lib-3-elementare-storia-ripasso-storia-terra] · PIANETA
 concetti: Dall'universo alla Terra; Dalla Terra infuocata agli oceani; La vita cambia; Le prove degli scienziati
 - Quale di questi è nato per primo?
@@ -507,6 +947,50 @@ concetti: Dall'universo alla Terra; Dalla Terra infuocata agli oceani; La vita c
 - Metti in ordine la lunga storia della Terra, dal fatto più antico al più recente.
 - Quale di questi animali visse nello stesso periodo dei dinosauri?
 - Se tutta la storia della Terra fosse lunga un solo giorno, gli esseri umani comparirebbero solo nell'ultimo m…
+
+## Ripasso: le case della Preistoria [lib-3-elementare-storia-ripasso-abitazioni] · DIMORA
+concetti: Ripari del Paleolitico; Capanne del Neolitico; Palafitte; Costruzioni di pietra
+- Un gruppo del Paleolitico trova una parete di roccia che sporge e fa da tetto. Come si chiama questo rifugio?
+- I nuraghi furono costruiti prima delle capanne dei primi villaggi del Neolitico.
+- Il tetto delle capanne del Neolitico era spesso coperto di ___ o di canne.
+- Metti in ordine le abitazioni dalla più antica alla più recente.
+- Perché i contadini del Neolitico costruivano case più solide dei nomadi?
+- Quale materiale serviva in grande quantità per costruire un villaggio di palafitte?
+- Quale materiale caratterizza i nuraghi?
+- Spiega perché le abitazioni sono cambiate nel corso della Preistoria.
+
+## Ripasso: lo storico al lavoro [lib-3-elementare-storia-ripasso-fonti-tempo] · TRACCIA
+concetti: Tipi di fonti; Misurare il tempo storico; Prima e dopo Cristo; La linea del tempo
+- Un film girato in una piazza 60 anni fa che tipo di fonte è?
+- Tre decenni sono 30 anni.
+- Due secoli e mezzo sono ___ anni.
+- Una cartolina del 1960 ha da una parte la foto di una spiaggia e dall'altra alcune righe scritte a mano. Qual…
+- Quanti anni passano dal 200 a.C. al 300 d.C.?
+- Metti in ordine queste date sulla linea del tempo, dalla più antica.
+- Su una linea del tempo ogni tratto vale un secolo. Quanti tratti servono per rappresentare 700 anni?
+- Scegli un tipo di fonte e spiega che cosa può raccontare su un bambino vissuto 80 anni fa.
+
+## Scambi senza monete [lib-3-elementare-storia-baratto-mestieri] · BARATTO
+concetti: Più cibo del necessario; Nascono i mestieri; Il baratto; Scambi tra villaggi
+- Quale di questi è un esempio di baratto?
+- Nei villaggi del Neolitico tutti facevano esattamente lo stesso lavoro.
+- Fare il ___ significa scambiare direttamente un oggetto con un altro.
+- Perché con l'agricoltura si poteva avere cibo in più?
+- Un villaggio vicino al mare ha molto sale, uno in collina molto grano. Cosa possono fare?
+- Quale problema poteva avere il baratto?
+- Per fare un baratto giusto, che cosa dovevano decidere le due persone?
+- Perché gli scambi tra villaggi lontani erano importanti, non solo per avere oggetti nuovi?
+
+## Statuette e sepolture [lib-3-elementare-storia-sepolture-credenze] · VENERE
+concetti: Le sepolture; Oggetti nella tomba; Le Veneri; Interpretare con prudenza
+- Che cosa sono le Veneri preistoriche?
+- Già nella Preistoria alcuni gruppi seppellivano i loro morti.
+- La famosa Venere di Willendorf fu trovata in ___.
+- Perché si mettevano oggetti accanto ai morti?
+- Perché gli studiosi parlano di ipotesi quando spiegano le credenze preistoriche?
+- Gli archeologi trovano uno scheletro sepolto con cura, rannicchiato su un fianco e cosparso di ocra rossa. Ch…
+- Le Veneri hanno forme molto rotonde. Quale ipotesi fanno spesso gli studiosi?
+- Che cosa ci fanno capire le sepolture sugli uomini preistorici?
 
 ## Strato dopo strato [lib-3-elementare-storia-strati-terreno] · STRATO
 concetti: Come si formano gli strati; Sotto è più antico; Datare con gli strati; Strati e fossili
@@ -519,6 +1003,17 @@ concetti: Come si formano gli strati; Sotto è più antico; Datare con gli strat
 - In uno strato profondo ci sono solo fossili di pesci e conchiglie; più in alto ci sono ossa di animali di ter…
 - Perché un archeologo che scava troppo in fretta, mescolando la terra di strati diversi, rovina il suo lavoro?
 
+## Stromatoliti, rocce costruite dalla vita [lib-3-elementare-storia-ossigeno-stromatoliti] · ROCCIA
+concetti: Rocce costruite da viventi; Tracce antichissime; Stromatoliti di oggi; Lo scudo di ozono
+- Che cosa sono le stromatoliti?
+- Ancora oggi esistono stromatoliti che crescono, per esempio in alcune baie dell'Australia.
+- Le stromatoliti crescono molto lentamente, uno ___ sopra l'altro.
+- Come fanno i cianobatteri a costruire una stromatolite?
+- Quanti anni possono avere le stromatoliti più antiche?
+- Perché le stromatoliti sono così preziose per gli scienziati?
+- Perché senza lo strato di ozono la vita sulla terraferma sarebbe stata difficile?
+- Lo strato di ozono protegge la Terra ancora oggi. Spiega da dove è venuto e perché è stato importante per la …
+
 ## Sulla linea del tempo [lib-3-elementare-storia-linea-del-tempo] · LINEA
 concetti: La successione; La contemporaneità; La durata; Leggere la linea del tempo
 - Su una linea del tempo che si legge da sinistra a destra, dove si trovano i fatti più antichi?
@@ -529,6 +1024,28 @@ concetti: La successione; La contemporaneità; La durata; Leggere la linea del t
 - Metti in ordine questi fatti, dal più antico al più recente.
 - Una linea del tempo è divisa in tratti uguali e ogni tratto vale 10 anni. Un periodo occupa 4 tratti. Quanto …
 - Perché per disegnare la Preistoria non puoi usare una linea del tempo in cui ogni tratto vale un anno, come p…
+
+## Triassico, Giurassico, Cretaceo [lib-3-elementare-storia-periodi-mesozoico] · CRETA
+concetti: Il Mesozoico; Il Triassico; Il Giurassico; Il Cretaceo
+- Circa quando finì il Mesozoico, con l'estinzione dei dinosauri?
+- I primi dinosauri comparvero nel Triassico.
+- Il Tyrannosaurus rex visse nel ___.
+- Metti in ordine i tre periodi del Mesozoico, dal più antico al più recente.
+- In quale periodo vissero i grandi dinosauri dal collo lungo come il Brachiosauro?
+- Quale novità comparve nel Cretaceo?
+- Il Tyrannosaurus e lo Stegosauro non si incontrarono mai. Perché?
+- Immagina una passeggiata nel Triassico e una nel Cretaceo. Che cosa vedresti di diverso nei due paesaggi?
+
+## Trilobiti e mari brulicanti [lib-3-elementare-storia-cambriano-trilobiti] · GUSCIO
+concetti: L'esplosione del Cambriano; Gusci e corazze; I trilobiti; Una lunga storia
+- Dove vivevano i trilobiti?
+- I trilobiti vivevano negli stessi anni del Tyrannosaurus rex.
+- Il nome trilobite ricorda che la sua corazza era divisa in ___ parti per il lungo.
+- Che cosa successe nel Cambriano?
+- Perché degli animali del Cambriano conosciamo soprattutto quelli con guscio?
+- A quali animali di oggi assomigliavano un po' i trilobiti, con le loro zampe articolate e la corazza?
+- A cosa serviva una corazza dura agli animali del Cambriano?
+- Immagina di osservare un trilobite vivo sul fondo del mare del Cambriano. Descrivi com'era fatto il suo corpo…
 
 ## Una visita al museo [lib-3-elementare-storia-museo] · MUSEO
 concetti: A che cosa serve un museo; Musei diversi; La didascalia; Il restauratore; Rispettare i reperti
@@ -541,6 +1058,17 @@ concetti: A che cosa serve un museo; Musei diversi; La didascalia; Il restaurato
 - Perché in alcune sale del museo la luce è bassa e non si può usare il flash?
 - Perché è importante che i reperti siano conservati in un museo e non a casa di chi li trova?
 
+## Uomini delle caverne? [lib-3-elementare-storia-vivere-in-grotta] · GROTTA
+concetti: Rifugi naturali; All'ingresso; Non solo grotte; Fonti ben conservate
+- Da cosa proteggevano le grotte gli uomini preistorici?
+- Gli uomini preistorici vivevano sempre e solo nelle grotte.
+- Vicino all'ingresso della grotta arrivava la ___ del giorno.
+- Perché accendere il fuoco in fondo a una grotta stretta non era una buona idea?
+- In un prato gli archeologi trovano le buche di alcuni pali e i resti di un focolare. Che cosa capiscono?
+- Perché si trovano tante tracce preistoriche proprio nelle grotte?
+- Perché l'espressione uomini delle caverne non è del tutto giusta?
+- Se fossi un cacciatore del Paleolitico, quali vantaggi e svantaggi avrebbe una grotta come rifugio?
+
 ## Vasi di argilla e terracotta [lib-3-elementare-storia-ceramica-neolitico] · ARGILLA
 concetti: L'argilla; La cottura; A che cosa servivano i vasi; Decorazioni e fonti
 - Che cosa succede all'argilla quando viene bagnata?
@@ -551,6 +1079,28 @@ concetti: L'argilla; La cottura; A che cosa servivano i vasi; Decorazioni e font
 - Perché la ceramica divenne così importante proprio quando nacque l'agricoltura?
 - Perché i cocci di ceramica sono molto utili agli archeologi?
 - Perché i nomadi del Paleolitico non usavano grandi vasi di terracotta, mentre i contadini del Neolitico sì? S…
+
+## Viaggio nella Preistoria italiana [lib-3-elementare-storia-preistoria-in-italia] · ITALIA
+concetti: Isernia La Pineta; Il Giovane Principe; La Grotta dei Cervi
+- In quale regione si trova Isernia La Pineta, uno dei più antichi accampamenti preistorici d'Europa?
+- Isernia La Pineta ha circa 600.000 anni ed è un sito del Paleolitico.
+- Il ragazzo sepolto nella caverna delle Arene Candide è chiamato «Giovane ___».
+- In quale regione si trova la caverna delle Arene Candide?
+- A Isernia La Pineta sono state trovate molte ossa di animali spezzate, insieme a strumenti di pietra. Che cos…
+- Il Giovane Principe fu sepolto con conchiglie, ocra e una lama di selce. Perché è chiamato «principe»?
+- Che cosa si può vedere nella Grotta dei Cervi, in Puglia?
+- Scegli uno dei luoghi di questa missione e racconta che cosa ci fa scoprire sulla vita nella Preistoria.
+
+## Zappe, falcetti e aratri [lib-3-elementare-storia-attrezzi-agricoli] · ZAPPA
+concetti: Il bastone da scavo; La zappa; Il falcetto; L'aratro
+- In quale momento del lavoro nei campi si usava il falcetto?
+- Le prime zappe del Neolitico erano fatte di ferro.
+- L'aratro apriva nel terreno lunghi ___ dove mettere i semi.
+- A cosa serviva la zappa?
+- Che cosa serviva per poter usare l'aratro?
+- Metti in ordine questi attrezzi dal più semplice e antico al più recente.
+- Perché l'aratro permise di coltivare campi più grandi?
+- Confronta il lavoro con la zappa e con l'aratro: cosa cambia per il contadino?
 
 ## Ötzi, l'uomo dei ghiacci [lib-3-elementare-storia-otzi-uomo-ghiacci] · OTZI
 concetti: Il ritrovamento; Un uomo antichissimo; Il suo equipaggiamento; Il museo di Bolzano

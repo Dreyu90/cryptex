@@ -1,5 +1,5 @@
 # 1ª media · Geografia: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Appiattire la Terra non è facile [lib-1-media-geografia-mappamondo-planisfero-proiezioni] · GLOBO
@@ -82,12 +82,12 @@ concetti: Perché nasce una città; La pianta della città; Centro e periferia; 
 ## Comprare e vendere [lib-1-media-geografia-commercio-ed-e-commerce] · NEGOZIO
 concetti: Ingrosso e dettaglio; La grande distribuzione; Il commercio elettronico; Import ed export
 - Il fruttivendolo del tuo quartiere che vende frutta alle famiglie fa commercio:
-- Il commercio all'ingrosso vende grandi quantità di merci ai negozianti.
+- Con il commercio elettronico non servono più magazzini.
 - Metti in ordine il viaggio di una cassetta di mele dal produttore a te.
 - Supermercati, ipermercati e centri commerciali formano la grande ___.
 - Quale lavoro è cresciuto molto con il commercio elettronico?
 - L'Italia compra petrolio dall'estero. Si tratta di:
-- Un'azienda italiana vende macchinari in Germania. Si tratta di:
+- Perché l'Italia importa caffè e banane?
 - Il commercio online ha vantaggi e svantaggi. Indicane almeno uno per ciascun tipo.
 
 ## Coste alte e coste basse [lib-1-media-geografia-le-coste] · COSTA
@@ -335,9 +335,9 @@ concetti: Il Mediterraneo; I mari d'Italia; Stretti e canali; Mari profondi e ma
 ## Il bosco, una risorsa preziosa [lib-1-media-geografia-boschi-e-legno] · BOSCO
 concetti: Il bosco in Italia; La silvicoltura; A che cosa serve il bosco; Minacce al bosco
 - Più o meno quanta parte dell'Italia è coperta da boschi?
-- La cura e lo sfruttamento dei boschi per ricavare legname si chiama ___.
+- Il legno di un bosco gestito con cura, in modo che possa ricrescere, è una risorsa ___.
 - Gli alberi assorbono anidride carbonica e producono ossigeno.
-- Perché un pendio coperto di bosco è meno esposto alle frane?
+- D'estate nel bosco fa più fresco che in un prato al sole. Perché?
 - Perché in Italia i boschi sono aumentati negli ultimi decenni?
 - Qual è la causa più frequente degli incendi boschivi in Italia?
 - Perché in un bosco gestito bene non si tagliano tutti gli alberi insieme?
@@ -435,11 +435,11 @@ concetti: La macchia mediterranea; Piante contro la siccità; La trilogia medite
 concetti: Il triangolo industriale; Piccole e medie imprese; I distretti industriali; Il Made in Italy
 - Quali città formavano il triangolo industriale italiano?
 - La maggior parte delle imprese italiane è piccola o media.
-- Una zona dove molte aziende producono lo stesso tipo di prodotto si chiama distretto ___.
+- Sassuolo, in Emilia-Romagna, è famosa in tutto il mondo per la produzione di ___.
 - Prato, in Toscana, è famosa per quale tipo di produzione?
 - Perché per un'azienda può essere vantaggioso trovarsi in un distretto industriale?
 - Quale di questi prodotti è un tipico esempio di Made in Italy?
-- Perché molti prodotti Made in Italy sono venduti in tutto il mondo anche se costano più di altri?
+- Perché il triangolo industriale nacque proprio tra Milano, Torino e Genova?
 - Perché l'Italia, pur avendo poche grandi aziende, è una delle principali potenze industriali?
 
 ## Il Sole come bussola [lib-1-media-geografia-orientarsi-con-il-sole] · ORIENTE
@@ -535,7 +535,7 @@ concetti: Tipi di turismo; Il patrimonio; La stagionalità; Turismo e ambiente
 - Una famiglia va in vacanza a sciare sulle Dolomiti. Che tipo di turismo fa?
 - Il turismo legato al mare e alle spiagge si chiama turismo ___.
 - Perché Firenze, Roma e Venezia attirano turisti da tutto il mondo?
-- L'Italia è il Paese con il maggior numero di siti UNESCO al mondo.
+- L'Italia è uno dei Paesi con il maggior numero di siti patrimonio dell'umanità UNESCO al mondo.
 - Che cosa vuol dire che il turismo in Italia è stagionale?
 - In un paese di mare, che cosa succede di solito a novembre a molti alberghi e stabilimenti?
 - Quale di questi è un problema causato dal turismo di massa a Venezia?
@@ -787,7 +787,7 @@ concetti: La pianta; Lo stradario; Le coordinate a griglia; Simboli della pianta
 concetti: La pesca; L'acquacoltura; Il sovrasfruttamento; Pesca sostenibile
 - A quale settore economico appartiene la pesca?
 - Che cos'è l'acquacoltura?
-- Le cozze vengono spesso allevate in mare: questa attività fa parte dell'___.
+- Per legge un pesce si può pescare e vendere solo se ha raggiunto una ___ minima.
 - La pesca d'altura si fa con piccole barche vicino alla riva.
 - Che cosa significa sovrasfruttamento dei mari?
 - Perché esiste il fermo pesca in alcuni periodi dell'anno?
@@ -818,12 +818,12 @@ concetti: La portata; Il regime: piene e magre; I fiumi alpini; Fiumi appenninic
 
 ## Pietre, marmi e materie prime [lib-1-media-geografia-miniere-e-cave] · MARMO
 concetti: Le materie prime; Miniere e cave; L'Italia povera di risorse; I marmi italiani
-- Quale di queste è una materia prima?
+- Una vetreria produce bottiglie fondendo la sabbia. In questo esempio, qual è la materia prima?
 - Il luogo da cui si estraggono pietre e marmi a cielo aperto si chiama ___.
 - Che differenza c'è tra una miniera e una cava?
-- L'Italia produce da sola tutto il petrolio e il gas di cui ha bisogno.
+- Il marmo delle Alpi Apuane si estrae fin dall'epoca romana.
 - In quale regione si trova Carrara, famosa per il marmo?
-- Perché l'industria italiana deve importare molte materie prime?
+- Perché il petrolio è considerato una materia prima?
 - Quale problema ambientale possono causare le cave?
 - L'Italia ha poche materie prime ma è un grande Paese industriale. Come è possibile?
 
@@ -852,7 +852,7 @@ concetti: Che cos'è un terremoto; Ipocentro ed epicentro; Misurare i terremoti;
 ## Quante lingue in Europa! [lib-1-media-geografia-lingue-d-europa] · LINGUA
 concetti: Famiglie di lingue; Lingue neolatine; Lingue germaniche e slave; Lingue minoritarie in Italia
 - A quale gruppo di lingue appartiene l'italiano?
-- Le lingue neolatine derivano dal ___.
+- La grande famiglia a cui appartiene la maggior parte delle lingue europee si chiama ___.
 - Quale di queste lingue è neolatina?
 - Quale di queste lingue è germanica?
 - Il polacco e il russo appartengono al gruppo delle lingue slave.
@@ -896,9 +896,9 @@ concetti: Che cos'è la scala; Scala numerica e grafica; Grande e piccola scala;
 ## Ripasso: climi e ambienti [lib-1-media-geografia-ripasso-climi-e-ambienti] · SOLE
 concetti: Fattori del clima; Climi d'Italia; Ambienti naturali; Leggere i dati
 - Quale di questi è un fattore del clima?
-- Le località vicine al mare hanno in genere inverni più miti di quelle dell'interno.
+- Due città alla stessa latitudine hanno sempre lo stesso clima.
 - La Pianura Padana, con inverni freddi e nebbiosi ed estati afose, ha un clima ___.
-- Quale ambiente naturale è tipico delle coste del Sud Italia?
+- Quale di queste piante fa parte della macchia mediterranea?
 - A Bologna il mese più caldo ha una media di 25 °C e il più freddo di 2 °C. Qual è l'escursione termica annua?
 - A Palermo il mese più caldo ha una media di 26 °C e il più freddo di 11 °C. Perché la sua escursione è più pi…
 - Su una montagna delle Alpi trovi prima boschi di faggi, poi abeti, poi prati. Che cosa sta cambiando salendo?
@@ -933,9 +933,9 @@ concetti: Popolazione; Città; I tre settori; Lavoro e territorio
 - Perché molte persone si trasferiscono dalla campagna alla città?
 - Un panettiere che fa il pane con la farina lavora nel settore ___.
 - A quale settore appartiene un'infermiera che lavora in ospedale?
-- Metti in ordine le fasi che portano una maglietta di cotone fino al negozio.
-- Perché le industrie sorgono spesso vicino a porti, autostrade e ferrovie?
-- Oggi in Italia la maggior parte delle persone lavora nel terziario. Perché, secondo te, questo settore è cres…
+- Metti in ordine le fasi che portano il formaggio dalla stalla al negozio.
+- Perché il turismo è un'attività molto importante sulle coste e sulle montagne italiane?
+- Scegli un luogo che conosci (il tuo paese, una zona di mare o di montagna) e spiega quali attività economiche…
 
 ## Ripasso: un geografo in montagna [lib-1-media-geografia-ripasso-geografo-in-montagna] · ZAINO
 concetti: Gli strumenti del geografo; Ambienti e paesaggi di montagna; Popolazione di montagna; Lavori di montagna
@@ -950,14 +950,14 @@ concetti: Gli strumenti del geografo; Ambienti e paesaggi di montagna; Popolazio
 
 ## Ripasso: viaggio nell'Europa fisica [lib-1-media-geografia-ripasso-europa-fisica] · EUROPA
 concetti: Confini e penisole; Rilievi e pianure; Acque; Climi
-- Quale catena montuosa segna a est il confine tra Europa e Asia?
+- Quale mare separa l'Europa dall'Africa?
 - Ordina queste penisole europee da ovest verso est.
 - Il fiume più lungo d'Europa è il ___.
-- Il Danubio attraversa diversi Stati europei prima di sfociare nel mar Nero.
-- Quale grande pianura si estende dalla Francia fino agli Urali?
-- Una città dell'Europa orientale, lontana dal mare, ha inverni gelidi ed estati calde. Che clima ha?
-- Perché le coste atlantiche dell'Europa occidentale hanno inverni miti anche se sono a nord?
-- Perché le Alpi sono state per secoli una barriera, ma anche un luogo di passaggio tra i popoli europei?
+- Il Danubio nasce in Germania e attraversa capitali come Vienna e Budapest.
+- Quale di queste catene montuose si trova nella penisola balcanica?
+- Quale di queste piante è tipica del clima mediterraneo dell'Europa del sud?
+- In quale ambiente dell'estremo nord dell'Europa vivono renne, muschi e licheni?
+- Immagina di viaggiare in treno da Parigi a Mosca. Quale grande ambiente fisico attraversi e com'è?
 
 ## Salite e discese su carta [lib-1-media-geografia-profilo-altimetrico] · PROFILO
 concetti: Le curve di livello; Il profilo altimetrico; Leggere il profilo; Profili e sport
@@ -1042,7 +1042,7 @@ concetti: Che cos'è la sostenibilità; L'Agenda 2030; L'impronta ecologica; Sce
 - L'Agenda 2030 dell'ONU contiene ___ obiettivi per lo sviluppo sostenibile.
 - Garantire a tutti i bambini la possibilità di andare a scuola è uno degli obiettivi dell'Agenda 2030.
 - Che cosa misura l'impronta ecologica?
-- Quale di queste scelte riduce la tua impronta ecologica?
+- Quale di queste abitudini riduce lo spreco di cibo?
 - Perché comprare frutta e verdura locali e di stagione è una scelta più sostenibile?
 - Se tutti gli abitanti della Terra consumassero come i Paesi più ricchi, che cosa succederebbe?
 - Proponi tre azioni concrete che la tua classe potrebbe fare per essere più sostenibile e spiega perché funzio…

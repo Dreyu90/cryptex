@@ -1,5 +1,5 @@
 # 5ª elementare · Italiano: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Accento e apostrofo senza errori [lib-5-elementare-italiano-accento-apostrofo-troncamento] · ACCENTO

@@ -1,5 +1,5 @@
 # 5ª elementare · Storia: 101 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## A teatro con i Romani [lib-5-elementare-storia-teatro-romano] · PLAUTO
@@ -10,7 +10,7 @@ concetti: Un'eredità greca; Autori e generi; Teatri in muratura; Attori e pubbl
 - Che cos'era la pantomima?
 - A che cosa serviva il velario nei teatri romani?
 - Qual era la differenza principale tra un teatro greco e uno romano?
-- Perché gli attori portavano spesso delle maschere?
+- Che considerazione avevano i Romani per gli attori?
 - Il teatro romano nacque dal teatro greco ma cambiò in alcuni aspetti. Spiega che cosa i Romani ripresero e ch…
 
 ## Adriano, l'imperatore viaggiatore [lib-5-elementare-storia-adriano-viaggiatore] · VILLA
@@ -21,7 +21,7 @@ concetti: Un imperatore viaggiatore; Difendere, non conquistare; Amante della cu
 - Perché Adriano viaggiò per quasi tutto l'impero?
 - Quale politica scelse Adriano per i confini dell'impero?
 - Quale famoso tempio di Roma fece ricostruire Adriano?
-- Perché si può dire che Adriano era un ammiratore della Grecia?
+- Quale città greca Adriano amò e arricchì di nuovi monumenti?
 - Traiano allargò l'impero, Adriano preferì difenderlo. Secondo te, perché a un certo punto difendere diventò p…
 
 ## Agguato nella selva di Teutoburgo [lib-5-elementare-storia-teutoburgo] · SELVA
@@ -148,12 +148,12 @@ concetti: La donna etrusca; Feste, musica e giochi; L'alfabeto etrusco; Una ling
 ## Brenno e le oche del Campidoglio [lib-5-elementare-storia-brenno-oche-campidoglio] · OCHE
 concetti: I Galli arrivano; Il sacco di Roma; Le oche sacre; «Guai ai vinti»
 - Chi era Brenno?
-- Secondo la leggenda le oche sacre svegliarono i difensori del Campidoglio.
+- Nel 390 a.C. i Galli riuscirono a entrare in Roma e a saccheggiarla.
 - I Romani furono sconfitti dai Galli presso il fiume ___, nel 390 a.C.
 - Quale parte di Roma resistette ai Galli?
 - Che cosa significa «Vae victis!», la frase attribuita a Brenno?
 - Perché Brenno gettò la spada sulla bilancia dove si pesava l'oro?
-- Dove vivevano i Galli prima di scendere verso Roma?
+- Perché le oche vivevano sul Campidoglio, vicino al tempio?
 - Dopo il sacco dei Galli, Roma costruì mura più forti. Spiega perché questo episodio fu una lezione importante…
 
 ## Calende, Idi e mesi romani [lib-5-elementare-storia-calendario-romano] · CALENDE
@@ -163,28 +163,28 @@ concetti: I nomi dei mesi; Quando iniziava l'anno; Calende, None e Idi; I giorni
 - Il primo giorno di ogni mese romano si chiamava ___.
 - Nel calendario romano più antico, in quale mese iniziava l'anno?
 - Perché dicembre si chiama così, anche se oggi è il dodicesimo mese?
-- Giulio Cesare fu ucciso alle Idi di marzo. In quale giorno?
+- Cesare fu ucciso alle Idi di marzo. Che cosa erano le Idi?
 - Da quale astro prende il nome il lunedì?
 - Ottobre significa «ottavo» e novembre «nono», eppure sono il decimo e l'undicesimo mese. Spiega il motivo con…
 
 ## Capolavori dell'arte etrusca [lib-5-elementare-storia-arte-etrusca-capolavori] · CHIMERA
-concetti: Il Sarcofago degli Sposi; La Chimera di Arezzo; Il bucchero; L'oreficeria
-- Che cosa mostra il Sarcofago degli Sposi?
-- Il Sarcofago degli Sposi è fatto di terracotta.
-- Il ___ è una ceramica nera e lucida tipica degli Etruschi.
-- Quali animali compongono la Chimera di Arezzo?
+concetti: Il Sarcofago degli Sposi; La Chimera di Arezzo; L'Apollo di Veio; L'Arringatore
 - Di quale materiale è fatta la Chimera di Arezzo?
-- Che cos'è la granulazione usata dagli orafi etruschi?
-- Perché il bucchero aveva quel colore nero?
-- Osservando il Sarcofago degli Sposi, che cosa possiamo capire della donna etrusca e dell'idea di morte degli …
+- Il Sarcofago degli Sposi è fatto di terracotta.
+- L'Arringatore alza il braccio come chi sta per fare un ___ alla folla.
+- Quali animali compongono la Chimera di Arezzo?
+- A quale scultore etrusco molti studiosi attribuiscono l'Apollo di Veio?
+- Che cosa indossa l'Arringatore, segno dell'influenza romana?
+- La Chimera è un mostro del mito greco, ma fu realizzata da artisti etruschi. Che cosa ci fa capire?
+- Il Sarcofago degli Sposi è di terracotta, la Chimera e l'Arringatore sono di bronzo. Che cosa ci dicono quest…
 
 ## Cardo e decumano: la città romana [lib-5-elementare-storia-cardo-decumano] · CARDO
 concetti: Una pianta a scacchiera; Le due strade principali; Dall'accampamento alla città; Tracce nelle città di oggi
 - Come si chiamava la strada principale che andava da nord a sud?
 - Il decumano attraversava la città da est a ovest.
 - All'incrocio tra cardo e decumano sorgeva di solito il ___.
-- A quale costruzione militare somigliava la pianta di una città romana?
-- Quale di queste città conserva ancora nel centro le strade dritte romane?
+- Chi andava spesso ad abitare nelle nuove colonie romane?
+- In età romana si chiamava Florentia. Quale città è oggi?
 - Perché una pianta a scacchiera era comoda per una città nuova?
 - Il nome della città di Aosta viene da Augusta Praetoria. Che cosa ci dice questo nome?
 - Guarda la pianta della tua città o di una città che conosci: come potresti capire se ha origini romane? Spieg…
@@ -248,7 +248,7 @@ concetti: Il tempio greco; I tre ordini; La ceramica dipinta; La scultura
 concetti: Fonti scritte; Fonti materiali; Fonti iconografiche; Lo scavo
 - Quale di questi è una fonte scritta?
 - Le monete romane sono fonti materiali.
-- La Colonna ___ racconta con rilievi a spirale le guerre contro i Daci.
+- Lo studioso che scava e studia le fonti materiali si chiama ___.
 - In uno scavo, quali strati sono di solito i più antichi?
 - Perché una moneta con il volto di un imperatore aiuta a datare uno strato di scavo?
 - Un mosaico che mostra una scena di pesca è una fonte…
@@ -281,7 +281,7 @@ concetti: Sette simboli; Somme e sottrazioni; Senza zero; Dove li vediamo oggi
 concetti: Il rito di fondazione; Città sulle alture; Strade ordinate; Esperti di acque
 - Con quale strumento gli Etruschi tracciavano il confine sacro di una nuova città?
 - Molte città etrusche sorgevano su colline ed erano circondate da mura.
-- Sotto i re etruschi, a Roma fu costruita la Cloaca ___ per far defluire le acque.
+- Il solco tracciato con l'aratro segnava il confine ___ della nuova città.
 - Com'erano le strade della città etrusca di Marzabotto?
 - Che cosa si vede ancora oggi in città come Volterra e Perugia?
 - Perché costruire canali e fognature era così utile alle città?
@@ -327,8 +327,8 @@ concetti: Dal baratto alla moneta; La dracma e la civetta; Che cosa si scambiava
 - Sulle monete d'argento di Atene era raffigurata una civetta.
 - Olio e vino viaggiavano sulle navi dentro grandi vasi di terracotta chiamati ___.
 - Qual era il problema principale del baratto?
-- Perché Atene doveva importare molto grano dal Mar Nero?
-- Come si chiamava il porto di Atene?
+- Perché Atene doveva comprare molto grano da terre lontane?
+- Da quale mare, a nord-est della Grecia, arrivava ad Atene molto grano?
 - Perché ogni polis coniava monete con simboli diversi?
 - Spiega perché l'invenzione della moneta rese i commerci più facili rispetto al baratto.
 
@@ -339,7 +339,7 @@ concetti: Orazio Coclite; Muzio Scevola; Clelia; Cincinnato
 - Il re etrusco che attaccò Roma nei primi anni della Repubblica si chiamava ___.
 - Come fuggì Clelia dal campo di Porsenna?
 - Che cosa fece Cincinnato dopo aver vinto i nemici?
-- Che cos'era il dittatore nella Repubblica romana?
+- Perché Orazio Coclite voleva che i Romani distruggessero il ponte alle sue spalle?
 - Perché Porsenna, colpito dal gesto di Muzio, decise di fare pace con Roma?
 - Oggi la parola «dittatore» ha un significato negativo, ma per i Romani Cincinnato era un eroe. Spiega la diff…
 
@@ -424,7 +424,7 @@ concetti: I primi re; I re etruschi; Il re e il Senato; La fine della monarchia
 concetti: Prenome; Nome della gens; Cognome; I nomi delle donne
 - Nel nome Marco Tullio Cicerone, qual è il prenome, cioè il nome personale?
 - Una ragazza della gens Giulia si chiamava di solito Giulia.
-- Il nomen indicava la ___, cioè il gruppo di famiglie con un antenato comune.
+- Il prenome era il nome ___, quello usato in famiglia e dagli amici.
 - Il cognome Cicerone deriva da cicer. Che cosa significa?
 - Molti cognomi romani nascevano da…
 - Nel nome Gaio Giulio Cesare, che cosa indica «Giulio»?
@@ -556,8 +556,8 @@ concetti: Le necropoli; Tombe come case; Affreschi e corredi; Una fonte preziosa
 concetti: Eracle, l'eroe forte; Le dodici fatiche; A che cosa servivano i miti; Le colonne d'Ercole
 - Come chiamavano i Romani l'eroe greco Eracle?
 - L'Idra di Lerna era un mostro con molte teste.
-- Eracle era figlio del dio ___ e di una donna mortale.
-- Qual era la prima e più famosa fatica di Eracle?
+- Eracle era famoso soprattutto per la sua straordinaria ___.
+- Qual era la prima delle dodici fatiche di Eracle?
 - Dove si trovavano le colonne d'Ercole?
 - Perché per gli antichi le colonne d'Ercole erano il «limite del mondo»?
 - Che cosa insegnavano ai ragazzi greci i racconti su Eracle?
@@ -587,12 +587,12 @@ concetti: Un giovane re; Le grandi conquiste; Unire i popoli; La morte e la divi
 
 ## Le leggi di Roma ci guidano ancora [lib-5-elementare-storia-diritto-romano] · LEGGE
 concetti: Perché scrivere le leggi; Le Dodici Tavole; Tribunali e avvocati; Un'eredità per l'Europa
-- Perché i plebei chiedevano che le leggi fossero scritte?
+- All'inizio, chi conosceva e interpretava le leggi a Roma?
 - Le Dodici Tavole erano esposte nel ___, la piazza principale di Roma.
 - Nei processi romani gli imputati potevano essere difesi da un avvocato.
 - Quale imperatore fece raccogliere le leggi romane nel VI secolo d.C.?
-- Chi fu un famoso avvocato e oratore romano?
-- Che cosa cambiava per un plebeo con le leggi scritte?
+- In un processo romano, chi decideva alla fine se l'imputato era colpevole o innocente?
+- A che cosa servivano i testimoni in un processo romano?
 - Perché si dice che il diritto romano vive ancora oggi?
 - Spiega perché è importante, ancora oggi, che le leggi siano scritte e uguali per tutti. Collega la tua rispos…
 
@@ -621,10 +621,10 @@ concetti: La spedizione di Serse; Le Termopili; La battaglia di Salamina; La vit
 ## Le triremi, navi di Atene [lib-5-elementare-storia-triremi-flotta] · REMI
 concetti: Com'era una trireme; Lo speronamento; Temistocle e la flotta; Rematori e democrazia
 - Che cosa c'era sulla prua di una trireme per colpire le navi nemiche?
-- La trireme prendeva il nome dalle tre file di rematori per lato.
+- In battaglia la trireme si muoveva soprattutto grazie al vento nelle vele.
 - Temistocle fece costruire la flotta con l'argento delle miniere del ___.
 - Perché in una trireme era così importante che i rematori remassero tutti insieme?
-- Quale battaglia vinsero le triremi di Temistocle nel 480 a.C.?
+- Perché Temistocle voleva che Atene puntasse su una grande flotta?
 - Chi erano spesso i rematori delle triremi ateniesi?
 - Perché la flotta aumentò il peso politico dei cittadini poveri di Atene?
 - Immagina di essere a bordo di una trireme durante una battaglia. Descrivi come la nave attaccava il nemico.
@@ -647,7 +647,7 @@ concetti: Due capi rivali; La marcia su Roma; La guerra civile; Silla dittatore
 - Una guerra tra cittadini dello stesso Stato si chiama guerra ___.
 - Che cos'erano le liste di proscrizione di Silla?
 - Perché i soldati seguirono Silla perfino contro Roma?
-- Metti in ordine questi fatti della crisi della Repubblica.
+- Metti in ordine questi fatti, dalla riforma di Mario al ritiro di Silla.
 - Che cosa fece Silla di sorprendente dopo alcuni anni di potere assoluto?
 - La marcia di Silla su Roma fu un pericoloso esempio per il futuro. Spiega perché, pensando a quello che fece …
 
@@ -763,7 +763,7 @@ concetti: Alla foce del Tevere; Il grano per Roma; Dal mare al fiume; I porti im
 
 ## Parliamo greco senza saperlo [lib-5-elementare-storia-eredita-parole-greche] · RADICE
 concetti: Le parole della politica; Le parole della scienza; Sport e cultura; Pezzi di parola utili
-- Che cosa significa «democrazia» secondo la sua origine greca?
+- «Aristocrazia» unisce aristos, «il migliore», e kratos, «potere». Che cosa significa?
 - La parola «politica» viene da polis, il nome greco della città-stato.
 - «Geografia» significa «descrizione della ___».
 - «Telefono» unisce tele e fono. Che cosa significa?
@@ -852,23 +852,23 @@ concetti: I Sanniti; Lucani, Bruzi e Apuli; I popoli della Sicilia; Incontro con
 ## Ripasso: Atene e Sparta a confronto [lib-5-elementare-storia-ripasso-atene-sparta] · POLIS
 concetti: Due governi; Due educazioni; Due modi di vivere; Le donne
 - Quale forma di governo aveva Atene ai tempi di Pericle?
-- Sparta era governata da due re insieme ad altri magistrati e a un consiglio di anziani.
-- A Sparta i bambini venivano educati dallo Stato a partire dai ___ anni.
-- Chi lavorava la terra a Sparta?
+- Le ragazze spartane facevano ginnastica e gare di corsa, come i ragazzi.
+- Ad Atene i ragazzi studiavano lettura, scrittura, ___ e ginnastica.
+- Quale città era famosa soprattutto per il suo fortissimo esercito di terra?
 - Su che cosa si basava soprattutto la forza di Atene?
-- In che cosa le donne spartane erano diverse da quelle ateniesi?
+- Perché a Sparta si voleva che anche le ragazze fossero forti?
 - Perché a Sparta l'educazione era così centrata sulla guerra?
 - Se fossi un ragazzo o una ragazza dell'antica Grecia, preferiresti vivere ad Atene o a Sparta? Motiva la scel…
 
 ## Ripasso: chi ha fatto che cosa? [lib-5-elementare-storia-ripasso-personaggi] · EROI
 concetti: Personaggi greci; Nemici di Roma; Protagonisti romani; La fine
 - Chi guidò gli Spartani nella battaglia delle Termopili?
-- Annibale attraversò le Alpi con un esercito che comprendeva degli elefanti.
-- Nel 313 l'imperatore ___ diede ai cristiani la libertà di culto.
-- Chi guidò la grande rivolta degli schiavi contro Roma?
+- Secondo la tradizione, Annibale da bambino giurò al padre odio eterno contro Roma.
+- Prima di ricevere il titolo di Augusto, il primo imperatore si chiamava ___.
+- Da quale città fuggì Spartaco con altri gladiatori, all'inizio della rivolta?
 - Metti in ordine questi personaggi dal più antico al più recente.
-- Chi depose l'ultimo imperatore romano d'Occidente nel 476?
-- Quale personaggio collegheresti alla conquista della Gallia?
+- Che cosa fece Odoacre con le insegne dell'imperatore d'Occidente?
+- Dopo una vittoria rapidissima, Giulio Cesare scrisse «Veni, vidi, vici». Che cosa significa?
 - Scegli un personaggio di questa missione che secondo te ha cambiato di più la storia e spiega perché.
 
 ## Ripasso: dodici secoli di Roma [lib-5-elementare-storia-ripasso-linea-tempo-roma] · SECOLI
@@ -878,52 +878,52 @@ concetti: L'età dei re; La Repubblica; L'Impero; La fine dell'Occidente
 - Il primo imperatore di Roma fu ___.
 - Metti in ordine questi momenti della storia di Roma.
 - In quale periodo Roma conquistò Cartagine e la Grecia?
-- Sotto quale imperatore l'impero raggiunse la sua massima estensione?
-- Perché il 476 d.C. è considerato una data simbolica?
+- Quanti anni passarono dalla fondazione di Roma (753 a.C.) al primo imperatore, Augusto (27 a.C.)?
+- Più o meno quanto durò la storia di Roma antica, dal 753 a.C. al 476 d.C.?
 - Riassumi in tre frasi le tre grandi fasi della storia di Roma, indicando per ciascuna una data e un fatto imp…
 
 ## Ripasso: Greci e Romani a confronto [lib-5-elementare-storia-ripasso-greci-romani] · GIOVE
 concetti: Gli stessi dei, nomi diversi; Città divise e Stato unico; Lingue e alfabeti; Che cosa ci hanno lasciato
 - Come chiamavano i Romani la dea greca Afrodite?
-- I Greci formarono un unico Stato con una sola capitale, come i Romani.
+- Roma, a differenza delle polis greche, riuscì a riunire sotto un solo governo l'Italia e tutto il Mediterrane…
 - Il dio greco del mare Poseidone per i Romani era ___.
 - Quale lingua restò la più parlata nella parte orientale dell'impero romano?
 - Quale di queste eredità viene soprattutto dai Romani?
 - Quale di queste eredità viene soprattutto dai Greci?
-- Perché i Greci, pur divisi in tante polis, si sentivano un unico popolo?
+- Perché l'italiano somiglia così tanto al latino?
 - Scrivi una frase su un'eredità dei Greci e una su un'eredità dei Romani che usi nella tua vita di tutti i gio…
 
 ## Ripasso: l'Italia prima di Roma [lib-5-elementare-storia-ripasso-popoli-italia] · ITALIA
 concetti: Al Nord; Al Centro; Al Sud; Le isole
-- Quale popolo è famoso per le incisioni sulle rocce della Val Camonica?
-- La civiltà dei nuraghi si sviluppò in Sardegna.
-- Roma fu fondata dai ___, un popolo che viveva nel Lazio.
-- Dove vivevano i Sanniti?
-- In quali regioni vivevano soprattutto gli Etruschi?
-- Come si chiamava l'insieme delle colonie greche dell'Italia meridionale?
-- Quale popolo occupò la pianura padana dal IV secolo a.C.?
+- Quale popolo celtico occupò la pianura padana dal IV secolo a.C.?
+- I nuraghi furono costruiti dai Romani dopo la conquista della Sardegna.
+- I Romani chiamarono la pianura padana abitata dai Galli Gallia ___.
+- In quale regione di oggi vivevano i Piceni?
+- Quale di queste città della Magna Grecia si trova oggi in Puglia?
+- Quale popolo di mercanti fondò in Sicilia città come Mozia e Palermo?
+- Perché le colonie greche sorgevano quasi sempre sulla costa?
 - Roma riuscì a unificare un'Italia abitata da popoli così diversi. Quali difficoltà pensi che abbia incontrato…
 
 ## Ripasso: la Grecia dall'inizio alla fine [lib-5-elementare-storia-ripasso-storia-greca] · EGEO
 concetti: Le civiltà egee; L'età arcaica; L'età classica; L'età ellenistica
-- Quale fu la prima grande civiltà del mondo greco?
+- Quale fu la prima grande civiltà fiorita nel mar Egeo?
 - Le polis nacquero dopo il periodo chiamato Medioevo ellenico.
 - I regni nati dalla divisione dell'impero di Alessandro si chiamano regni ___.
 - Metti in ordine i periodi della storia greca.
 - In quale secolo Atene visse il suo periodo d'oro con Pericle?
 - Quale regno unì la Grecia sotto il suo controllo nel IV secolo a.C.?
-- Perché i Greci dell'età arcaica fondarono colonie lontane?
-- Spiega perché il V secolo a.C. è considerato l'età d'oro della Grecia, facendo almeno due esempi.
+- Dopo il Medioevo ellenico, che cosa tornò a diffondersi in Grecia insieme alle polis?
+- Le guerre persiane e la guerra del Peloponneso sono entrambe del V secolo a.C. Spiega la differenza: chi comb…
 
 ## Ripasso: le grandi battaglie antiche [lib-5-elementare-storia-ripasso-grandi-battaglie] · SCONTRO
 concetti: Greci contro Persiani; Alessandro contro Dario; Roma contro Cartagine; Battaglie dell'età di Augusto
 - Chi vinse la battaglia di Maratona?
-- A Canne Annibale sconfisse duramente l'esercito romano.
+- A Gaugamela Alessandro Magno fu sconfitto dai Persiani.
 - A Zama, nel 202 a.C., Annibale fu sconfitto da ___.
 - Metti in ordine queste battaglie dalla più antica alla più recente.
 - Quale fu una grande battaglia navale?
-- Quale battaglia portò l'Egitto sotto il controllo di Roma?
-- Che cosa hanno in comune Maratona e Teutoburgo?
+- Chi guidava la flotta di Ottaviano nella battaglia di Azio?
+- Che cosa hanno in comune le battaglie di Canne e di Teutoburgo?
 - Scegli una delle battaglie di questa missione e spiega quali conseguenze ebbe nella storia.
 
 ## Roma conquista l'Italia [lib-5-elementare-storia-conquista-italia] · PIRRO
@@ -963,7 +963,7 @@ concetti: Enea, l'antenato; I gemelli e la lupa; La fondazione; Leggenda e stori
 concetti: I Saturnali; Il mondo alla rovescia; Il Natale di Roma; Il trionfo
 - In onore di quale dio si celebravano i Saturnali?
 - Durante i Saturnali ci si scambiavano piccoli regali.
-- Il Natale di Roma si festeggia ancora oggi il 21 ___.
+- Le feste del 21 aprile per la fondazione di Roma si chiamavano ___.
 - In quale mese si celebravano i Saturnali?
 - Perché i Saturnali sono descritti come un «mondo alla rovescia»?
 - Che cos'era il trionfo?
@@ -975,7 +975,7 @@ concetti: Una grande polis di Sicilia; Siracusa contro i nemici; Archimede scien
 - In quale isola si trova Siracusa?
 - Siracusa fu fondata da coloni greci provenienti da ___.
 - Ad Archimede è attribuita l'esclamazione «Eureka!», che significa «Ho trovato!».
-- Quale di questi studi è legato ad Archimede?
+- A che cosa serviva la «vite di Archimede», usata ancora oggi in alcune macchine?
 - Che cosa accadde alla spedizione ateniese contro Siracusa nel 413 a.C.?
 - Ordina questi fatti della storia di Siracusa dal più antico al più recente.
 - Perché i Romani assediarono Siracusa durante la seconda guerra punica?
@@ -1027,10 +1027,10 @@ concetti: Feste per Dioniso; Tragedia e commedia; Attori e maschere; L'edificio 
 
 ## Tavolette, papiri e pergamene [lib-5-elementare-storia-scrivere-romani] · STILO
 concetti: Tavolette di cera; Papiro e pergamena; Dal rotolo al libro; Scritte sulla pietra
-- Con che cosa si scriveva sulle tavolette di cera?
+- A che cosa serviva la parte piatta dello stilo?
 - Il papiro arrivava soprattutto dall'Egitto.
 - La ___ era un materiale per scrivere fatto con pelle di animale lavorata.
-- Perché le tavolette di cera erano comode per gli scolari?
+- Per quali scritti si usavano soprattutto le tavolette di cera?
 - Che forma avevano i libri più antichi dei Romani?
 - Perché il codice, cioè il libro a pagine, era più pratico del rotolo?
 - Che cos'è un'epigrafe?
@@ -1083,7 +1083,7 @@ concetti: Un'azienda in campagna; Chi ci lavorava; Che cosa si produceva; Libri 
 ## Una passeggiata nel Foro [lib-5-elementare-storia-foro-romano] · CURIA
 concetti: Il cuore di Roma; Politica e giustizia; Templi e Via Sacra; Archi di trionfo
 - Che cos'era il Foro per i Romani?
-- La valle del Foro in origine era una zona paludosa.
+- Il Foro sorgeva nella valle tra il Palatino e il Campidoglio.
 - Il Senato si riuniva nella ___, un edificio del Foro.
 - A che cosa servivano le basiliche romane del Foro?
 - Che cosa erano i Rostri?

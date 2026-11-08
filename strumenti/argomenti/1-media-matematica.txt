@@ -1,5 +1,5 @@
 # 1ª media · Matematica: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Acuti, retti e ottusi [lib-1-media-matematica-angoli-classificazione] · RETTO
@@ -185,9 +185,9 @@ concetti: Assi e origine; Coordinate di un punto; Punti sugli assi; L'ordine con
 - I punti A(2; 5) e B(5; 2) sono lo stesso punto.
 - Per raggiungere il punto Q(3; 6) partendo dall'origine, ti muovi di...
 - Quale punto si trova sull'asse delle ordinate (asse y)?
-- Quali sono le coordinate dell'origine?
+- Il punto R ha ordinata 0. Dove si trova?
 - Come si chiama l'asse orizzontale del piano cartesiano?
-- Nel gioco della battaglia navale si dice prima la colonna e poi la riga. Perché è importante rispettare l'ord…
+- Al cinema il tuo biglietto dice «fila 3, posto 7». Se scambi i due numeri ti siedi nello stesso posto? Colleg…
 
 ## Dalla parte al tutto [lib-1-media-matematica-problemi-inversi-frazioni] · TUTTO
 concetti: Problema inverso; Passare dall'unità frazionaria; Diretto o inverso?; Verifica
@@ -249,7 +249,7 @@ concetti: Parte intera e parte decimale; Decimi, centesimi, millesimi; Confronta
 - Nel numero 7,384 qual è la cifra dei centesimi?
 - 4,7 e 4,70 rappresentano lo stesso numero.
 - Un decimo è uguale a dieci ___.
-- Quale numero è il più grande?
+- Quale di questi numeri decimali è il più grande?
 - Ordina dal più piccolo al più grande.
 - Come si legge 12,06?
 - Paolo dice che 2,15 è maggiore di 2,9 perché 15 è maggiore di 9. Che errore fa?
@@ -305,7 +305,7 @@ concetti: Del totale o del resto?; Passo dopo passo; La frazione che rimane
 - Hai 120 €. Spendi 1/3 della somma per un gioco. Quanto ti resta?
 - Ti restano 80 € e spendi 1/4 di questa somma per un libro. Quanto costa il libro?
 - Nella frase 'regala 1/2 del resto', la frazione si calcola sulla parte che è ___, non sul totale.
-- Un libro ha 240 pagine. Il primo giorno ne leggi 1/4, il secondo 1/3 delle pagine rimaste. Quante pagine ti r…
+- Un libro ha 360 pagine. Il primo giorno ne leggi 1/4, il secondo 1/3 delle pagine rimaste. Quante pagine ti r…
 - Mangi metà di una torta e poi metà di quello che è rimasto. Che frazione della torta resta?
 - Spendi 2/5 dei tuoi soldi e poi 1/3 del resto. Che frazione del totale ti rimane?
 - Spiega perché, se spendi 1/2 dei tuoi soldi e poi 1/2 del resto, non hai speso tutto.
@@ -324,7 +324,7 @@ concetti: Frazioni equivalenti; Proprietà invariantiva; Prodotti in croce
 ## Gli angoli dell'orologio [lib-1-media-matematica-orologio-angoli] · ORARIO
 concetti: Il quadrante; La lancetta dei minuti; Angoli alle ore piene; Anche le ore si muovono
 - Di quanti gradi si sposta la lancetta delle ore in un'ora?
-- Che angolo formano le lancette alle 3:00?
+- Che angolo formano le lancette alle 2:00?
 - In un minuto la lancetta dei minuti ruota di ___ gradi.
 - Alle 6:00 le lancette formano un angolo piatto.
 - Che angolo, il minore dei due, formano le lancette alle 4:00?
@@ -345,11 +345,11 @@ concetti: Il grado; Primi e secondi; Operazioni con le misure; Goniometro
 
 ## Gran ripasso di fine anno [lib-1-media-matematica-ripasso-generale-fine-anno] · FINALE
 concetti: Numeri e potenze; Divisibilità; Frazioni; Geometria
-- Quanto vale 2³ + 3²?
+- Quanto vale 3³ − 2⁴?
 - Il numero 2 340 è divisibile sia per 3 sia per 5.
 - Qual è il mcm tra 6 e 15?
 - Due frazioni che rappresentano la stessa quantità si dicono ___.
-- Quanto sono i 3/8 di 64?
+- Quanto fanno i 3/8 di 64?
 - Quanto misura ogni angolo interno di un triangolo equilatero?
 - Quale espressione vale 20?
 - Una bottiglia da 1 litro e mezzo è piena per 2/3. Spiega quanta acqua contiene.
@@ -446,7 +446,7 @@ concetti: Multipli comuni; mcm con la scomposizione; Casi particolari; Problemi 
 concetti: Lati e base; Angoli alla base; L'altezza sulla base; Calcoli con gli angoli
 - In un triangolo isoscele gli angoli alla ___ sono congruenti.
 - Un triangolo equilatero è anche isoscele.
-- In un triangolo isoscele l'angolo al vertice misura 40°. Quanto misura ciascun angolo alla base?
+- In un triangolo isoscele rettangolo, quanto misura ciascun angolo alla base?
 - Un angolo alla base di un triangolo isoscele misura 35°. Quanto misura l'angolo al vertice?
 - In un triangolo isoscele, l'altezza relativa alla base...
 - Può esistere un triangolo isoscele con gli angoli alla base di 95°?
@@ -458,7 +458,7 @@ concetti: Divisioni successive; L'ultimo resto non nullo; Quando conviene
 - Nell'algoritmo di Euclide la prima divisione si fa tra il numero maggiore e il minore.
 - Nell'algoritmo di Euclide il MCD è l'ultimo ___ diverso da zero.
 - Per MCD(84, 36): 84 : 36 = 2 con resto 12. Qual è la divisione successiva?
-- Con l'algoritmo di Euclide: 84 : 36 = 2 resto 12, poi 36 : 12 = 3 resto 0. Qual è MCD(84, 36)?
+- Con l'algoritmo di Euclide: 120 : 45 = 2 resto 30, poi 45 : 30 = 1 resto 15, poi 30 : 15 = 2 resto 0. Qual è …
 - Calcola MCD(91, 65) con l'algoritmo di Euclide.
 - Ordina i passaggi per trovare MCD(150, 54) con l'algoritmo di Euclide.
 - Se la prima divisione dà subito resto 0, come in 60 : 15, qual è il MCD?
@@ -544,7 +544,7 @@ concetti: Numero misto; Da frazione impropria a misto; Da misto a frazione impro
 ## La famiglia dei quadrilateri [lib-1-media-matematica-quadrilateri-classificazione] · ROMBO
 concetti: Proprietà dei quadrilateri; Trapezi; Parallelogrammi; Rettangolo, rombo, quadrato
 - Quanto misura la somma degli angoli interni di un quadrilatero?
-- Un quadrilatero con due lati paralleli, detti basi, si chiama ___.
+- Un quadrilatero con due soli lati paralleli, detti basi, si chiama ___.
 - Ogni quadrato è anche un rombo.
 - Tre angoli di un quadrilatero misurano 80°, 100° e 95°. Quanto misura il quarto?
 - Quale proprietà hanno tutti i parallelogrammi?
@@ -569,8 +569,8 @@ concetti: Raddoppi successivi; Crescita veloce; La leggenda degli scacchi
 - 2¹⁰ è uguale a 1 024.
 - Sulla scacchiera della leggenda, sulla prima casella c'è 1 chicco e su ogni casella successiva ce n'è il ___ …
 - Quanti chicchi ci sono sulla 5ª casella della scacchiera?
-- Ordina dalla più piccola alla più grande.
-- Un batterio si divide in due ogni ora. Partendo da 1 batterio, quanti ce ne sono dopo 8 ore?
+- Ordina queste potenze dalla più piccola alla più grande.
+- Un foglio piegato a metà ha 2 strati; piegato ancora a metà ne ha 4. Quanti strati ha dopo 7 piegature?
 - Partendo da 1, cosa fa arrivare più in alto dopo 10 passi: aggiungere 100 a ogni passo o raddoppiare a ogni p…
 - Perché la leggenda racconta che il re non riuscì a dare all'inventore tutti i chicchi richiesti per le 64 cas…
 
@@ -656,11 +656,11 @@ concetti: MCD di tre numeri; mcm di tre numeri; Problemi con tre dati
 - Il MCD di tre numeri deve dividere tutti e tre i numeri.
 - Qual è MCD(12, 18, 30)?
 - Qual è mcm(4, 6, 10)?
-- Nel mcm si prendono tutti i fattori primi, comuni e non comuni, con l'esponente ___.
+- Il mcm di 4, 6 e 10 è 60: infatti 60 è un ___ di ciascuno dei tre numeri.
 - A = 2³ × 3 × 5, B = 2² × 3², C = 2 × 3 × 7. Qual è il MCD?
-- Tre fari si accendono ogni 8, 12 e 20 secondi. Se si accendono insieme adesso, dopo quanti secondi lo rifaran…
-- Hai nastri lunghi 24, 36 e 60 cm e vuoi tagliarli in pezzi uguali, più lunghi possibile, senza avanzi. Quanto…
-- Nel problema dei nastri da 24, 36 e 60 cm tagliati in pezzi da 12 cm, quanti pezzi ottieni in tutto? Perché s…
+- Tre autobus partono dal capolinea ogni 8, 12 e 20 minuti. Se partono insieme adesso, dopo quanti minuti ripar…
+- Hai 24 matite, 36 gomme e 60 quaderni e vuoi preparare il maggior numero possibile di pacchi uguali, senza av…
+- Con 24 matite, 36 gomme e 60 quaderni hai preparato 12 pacchi uguali. Che cosa contiene ogni pacco? Perché si…
 
 ## MCD o mcm? Scegli bene [lib-1-media-matematica-problemi-mcd-mcm] · CICLO
 concetti: Quando usare il MCD; Quando usare il mcm; Controllare la risposta
@@ -672,6 +672,17 @@ concetti: Quando usare il MCD; Quando usare il mcm; Controllare la risposta
 - Calcolando quando due semafori tornano verdi insieme, puoi ottenere un tempo più breve del ciclo di ciascuno …
 - Vuoi coprire un pavimento rettangolare di 360 cm per 480 cm con piastrelle quadrate tutte uguali, le più gran…
 - Leggi i due problemi. A: hai 30 biglie rosse e 42 blu e vuoi preparare il maggior numero possibile di sacchet…
+
+## Metri quadrati e quadretti [lib-1-media-matematica-misure-superficie] · QUADRO
+concetti: Il metro quadrato; Unità che valgono 100; Equivalenze di superficie; Superfici nella realtà
+- Che cosa misura 1 m²?
+- 1 m² è uguale a 10 dm².
+- Ogni unità di superficie è ___ volte più grande di quella immediatamente più piccola.
+- Quanti cm² sono 3 dm²?
+- Quale unità è più adatta per misurare la superficie del pavimento di un'aula?
+- Quanti m² sono 25 000 cm²?
+- Ordina queste superfici dalla più piccola alla più grande.
+- Perché 1 m = 100 cm, ma 1 m² = 10 000 cm²? Spiega pensando a un quadrato di 1 m di lato.
 
 ## Metri, centimetri e chilometri [lib-1-media-matematica-misure-lunghezza] · METRO
 concetti: Il metro e le sue unità; Equivalenze; Scegliere l'unità adatta; Un sistema decimale
@@ -698,7 +709,7 @@ concetti: Classi di cifre; Leggere e scrivere; Confrontare numeri grandi; Ordini
 ## Misteri dei numeri primi [lib-1-media-matematica-primi-gemelli-goldbach] · MISTERO
 concetti: Primi gemelli; Congettura di Goldbach; Il 2 e gli altri primi; Congettura e teorema
 - Quale coppia è formata da primi gemelli?
-- Tutti i numeri primi sono dispari.
+- Il 2 e il 3 sono gli unici due numeri primi consecutivi.
 - Un'affermazione che sembra vera ma non è ancora stata dimostrata si chiama ___.
 - Come puoi scrivere 20 come somma di due numeri primi?
 - In quanti modi puoi scrivere 16 come somma di due primi, senza contare l'ordine?
@@ -763,13 +774,13 @@ concetti: Primi tra loro; mcm di numeri primi tra loro; MCD × mcm; Numeri conse
 
 ## Ore, minuti e secondi [lib-1-media-matematica-misure-tempo-calcoli] · MINUTO
 concetti: Il tempo non è decimale; Trasformare le unità; Calcolare una durata; Somme con il riporto
-- Quanti secondi ci sono in un'ora?
+- Quanti secondi ci sono in un quarto d'ora?
 - Il tempo si misura in un sistema decimale, come le lunghezze.
 - Quanti minuti sono 2 h 15 min?
 - In 1 ora ci sono ___ minuti.
 - Come scrivi 200 minuti in ore e minuti?
 - Un treno parte alle 8:45 e arriva alle 11:20. Quanto dura il viaggio?
-- Quanto fa 1 h 50 min + 45 min?
+- Quanto fa 1 h 50 min + 55 min?
 - Spiega perché per calcolare 10:15 − 7:40 non puoi fare il calcolo come con i numeri decimali.
 
 ## Pari o dispari? Le regole [lib-1-media-matematica-numeri-pari-dispari] · DISPARI
@@ -816,17 +827,6 @@ concetti: Potenza di una frazione; Casi particolari; Espressioni con le frazioni
 - Quanto vale (1 − 1/4) : (1/2)²?
 - Spiega perché (3/2)² è maggiore di 3/2, mentre (2/3)² è minore di 2/3.
 
-## Problemi con i segmenti [lib-1-media-matematica-problemi-segmenti] · LUNGO
-concetti: Somma e differenza di segmenti; Multipli e sottomultipli; Somma e differenza note; Somma o differenza e multiplo
-- AB = 12 cm e BC = 7 cm sono consecutivi e allineati. Quanto misura AC?
-- Se AB è il triplo di CD, allora CD è la ___ parte di AB.
-- Se AB = 15 cm e AB è il triplo di CD, allora CD = 45 cm.
-- La somma di due segmenti è 40 cm e la differenza è 8 cm. Quanto misura il maggiore?
-- La somma di due segmenti è 35 cm e uno è il quadruplo dell'altro. Quanto misura il minore?
-- AC = 30 cm e B è un punto di AC con AB = 18 cm. Quanto misura BC?
-- Due segmenti differiscono di 18 cm e uno è il triplo dell'altro. Quanto misurano?
-- Spiega come risolvi: 'Il perimetro di un rettangolo è 50 cm e la base supera l'altezza di 5 cm. Quanto misura…
-
 ## Proprie, improprie o apparenti? [lib-1-media-matematica-frazioni-proprie-improprie-apparenti] · INTERO
 concetti: Frazioni proprie; Frazioni improprie; Frazioni apparenti; Interi e parti
 - Quale di queste frazioni è propria?
@@ -862,18 +862,18 @@ concetti: Stesso denominatore; Stesso numeratore; Minimo comune denominatore; Fr
 
 ## Quando il resto conta [lib-1-media-matematica-divisione-resto-problemi] · AVANZO
 concetti: Quoziente e resto; Arrotondare per eccesso; Il resto come risposta; Verifica
-- In 47 : 6, quanto valgono quoziente e resto?
+- In 53 : 6, quanto valgono quoziente e resto?
 - In una divisione il resto può essere maggiore del divisore.
 - Per verificare una divisione con resto si calcola: divisore × quoziente + ___ = dividendo.
-- A una gita partecipano 130 persone e ogni pullman porta 50 passeggeri. Quanti pullman servono?
+- Per una festa servono 75 coni gelato, venduti in confezioni da 12. Quante confezioni devi comprare?
 - Hai 100 figurine da sistemare in bustine da 8. Quante figurine restano fuori dalle bustine piene?
 - Un libro ha 230 pagine e ne leggi 30 al giorno. In quanti giorni lo finisci?
-- In una divisione il divisore è 9, il quoziente 14 e il resto 5. Qual è il dividendo?
-- Perché nel problema dei pullman la risposta non è il quoziente della divisione, ma il quoziente più 1?
+- In una divisione il divisore è 7 e il resto è 4. Quale di questi numeri può essere il dividendo?
+- Perché nel problema dei coni gelato la risposta non è il quoziente della divisione, ma il quoziente più 1?
 
 ## Quanti divisori ha un numero? [lib-1-media-matematica-contare-divisori] · CONTA
 concetti: Elenco dei divisori; Contare con gli esponenti; Quadrati perfetti; Numeri primi
-- Quanti divisori ha 12?
+- Quanti divisori ha 18?
 - Un numero primo ha esattamente due divisori.
 - I divisori si trovano a coppie: se 4 divide 36, anche ___ divide 36.
 - 72 = 2³ × 3². Quanti divisori ha 72?
@@ -885,13 +885,13 @@ concetti: Elenco dei divisori; Contare con gli esponenti; Quadrati perfetti; Num
 ## Radici con i fattori primi [lib-1-media-matematica-radice-quadrata-scomposizione] · DIMEZZA
 concetti: Quadrati perfetti scomposti; Dimezzare gli esponenti; Radice di un prodotto
 - Un numero è un quadrato perfetto se nella sua scomposizione tutti gli esponenti sono pari.
-- Quale di questi numeri è un quadrato perfetto?
+- Per quale numero devi moltiplicare 2² × 5³ per ottenere un quadrato perfetto, usando il numero più piccolo po…
 - Per calcolare la radice quadrata di un quadrato perfetto scomposto, si ___ ogni esponente.
 - 324 = 2² × 3⁴. Quanto vale √324?
 - Quanto vale √(16 × 25)?
 - 1 764 = 2² × 3² × 7². Quanto vale √1 764?
 - 72 = 2³ × 3². Perché 72 non è un quadrato perfetto?
-- Un giardino quadrato ha area 900 m². Spiega come trovi la lunghezza del lato usando la scomposizione.
+- Un foglio quadrato ha un'area di 1 296 cm². Spiega come trovi la lunghezza del lato usando la scomposizione i…
 
 ## Rette parallele e perpendicolari [lib-1-media-matematica-rette-nel-piano] · BINARI
 concetti: Rette incidenti; Rette parallele; Rette perpendicolari; Distanza punto-retta
@@ -951,24 +951,24 @@ concetti: Espressioni con le potenze; Proprietà delle operazioni; Valore posizi
 ## Ripasso: sfida delle frazioni [lib-1-media-matematica-ripasso-frazioni] · PEZZI
 concetti: Equivalenza e semplificazione; Operazioni con le frazioni; Confronto; Problemi con le frazioni
 - A quale frazione ridotta ai minimi termini è uguale 18/24?
-- 5/8 è maggiore di 3/5.
-- Quanto fa 2/3 + 1/6?
+- 7/9 è maggiore di 4/5.
+- Quanto fa 3/4 + 1/8?
 - Quanto fa 3/4 × 8/9?
 - Per dividere due frazioni, moltiplichi la prima per l'___ della seconda.
 - Quanto fa 5/6 : 5/12?
-- In una classe di 25 alunni i 3/5 sono femmine. Quanti sono i maschi?
-- Spiega come confronteresti 5/8 e 3/5 senza calcolatrice.
+- Una torta pesa 900 g e ne mangi i 2/9. Quanti grammi di torta restano?
+- Spiega come confronteresti 5/6 e 7/9 senza calcolatrice.
 
 ## Ripasso: sfida di geometria [lib-1-media-matematica-ripasso-geometria] · FIGURA
 concetti: Angoli; Triangoli; Poligoni; Rette nel piano
-- Due rette del piano che hanno un solo punto in comune si dicono...
-- Quanto misura il complementare di un angolo di 28°?
-- Un triangolo può avere due angoli ottusi.
-- La somma degli angoli interni di un pentagono è ___ gradi.
-- Un triangolo ha due angoli di 48° e 67°. Quanto misura il terzo?
+- Due rette distinte del piano che non hanno nessun punto in comune si dicono...
+- Un angolo è congruente al suo complementare. Quanto misura?
+- Un triangolo rettangolo può avere anche un angolo ottuso.
+- La somma degli angoli interni di un ettagono (7 lati) è ___ gradi.
+- In un triangolo rettangolo un angolo acuto misura 37°. Quanto misura l'altro angolo acuto?
 - Quale terna di misure può essere quella dei lati di un triangolo?
-- Quante diagonali ha un esagono?
-- Due rette incidenti formano un angolo di 40°. Spiega quanto misurano gli altri tre angoli e perché.
+- Quante diagonali ha un ottagono?
+- Un angolo misura 50°. Spiega quanto misurano il suo complementare e il suo supplementare, e perché il supplem…
 
 ## Scopri la regola nascosta [lib-1-media-matematica-successioni-numeriche] · SERIE
 concetti: Successioni e termini; Regola additiva; Regola moltiplicativa; Successioni speciali
@@ -1056,7 +1056,7 @@ concetti: Figure congruenti; Primo criterio; Secondo criterio; Terzo criterio
 - Due triangoli hanno lati di 5, 6 e 7 cm e di 7, 5 e 6 cm. Per quale criterio sono congruenti?
 - Che cosa significa che due figure sono congruenti?
 - Due triangoli hanno AB = DE = 4 cm, AC = DF = 6 cm e angolo A = angolo D = 50°. Sono congruenti?
-- Perché un triangolo fatto con tre aste non si deforma, e come si collega questo al terzo criterio di congruen…
+- Luca dice: «Due triangoli hanno entrambi due lati di 5 cm e 7 cm e un angolo di 40°, quindi sono congruenti p…
 
 ## Un quarto d'ora, tre quarti [lib-1-media-matematica-frazioni-ora-tempo] · QUARTO
 concetti: Frazioni dell'ora; Frazioni del giorno; Problemi di tempo

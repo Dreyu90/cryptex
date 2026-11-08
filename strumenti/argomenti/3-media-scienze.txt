@@ -1,6 +1,28 @@
-# 3ª media · Scienze: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 3ª media · Scienze: 90 missioni valide
+# ultima bozza numerata: 10 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A, B, AB o zero? [lib-3-media-scienze-gruppi-sanguigni-codominanza] · SANGUE
+concetti: Il sistema AB0; Tre alleli; La codominanza; Le trasfusioni
+- Quanti sono i gruppi del sistema AB0?
+- L'allele del gruppo 0 è recessivo rispetto agli alleli A e B.
+- Nel gruppo AB entrambi gli alleli A e B si esprimono: questo fenomeno si chiama ___.
+- Una persona ha un allele A e un allele 0. Qual è il suo gruppo sanguigno?
+- Due genitori di gruppo 0 possono avere un figlio di gruppo A?
+- Una madre di gruppo AB e un padre di gruppo 0 hanno dei figli. Quali gruppi possono avere?
+- Perché prima di una trasfusione si controlla il gruppo sanguigno?
+- Spiega la differenza tra dominanza completa e codominanza usando i gruppi sanguigni.
+
+## Acqua e vento, scultori lenti [lib-3-media-scienze-agenti-esogeni-erosione] · VENTO
+concetti: Gli agenti esogeni; Disgregazione e alterazione; Il lavoro dei fiumi; Il lavoro del vento; Il lavoro del mare
+- Quale tra questi è un agente esogeno?
+- Quando l'acqua nelle fessure di una roccia gela, aumenta di volume e può spaccare la roccia.
+- Un fiume di montagna scava una valle a forma di ___.
+- Dove un fiume rallenta, vicino alla foce, che cosa succede?
+- Le dune del deserto si formano perché il vento…
+- Ordina le azioni che prevalgono lungo un fiume, dalla sorgente alla foce.
+- Le falesie sono pareti di roccia a picco sul mare. Che cosa le forma?
+- Spiega la differenza tra forze endogene ed esogene e perché insieme determinano la forma del paesaggio.
 
 ## Anatomia di un vulcano [lib-3-media-scienze-struttura-vulcano] · CRATERE
 concetti: Magma e camera magmatica; Le parti del vulcano; I prodotti dell'eruzione; Attivi, quiescenti, spenti
@@ -12,6 +34,28 @@ concetti: Magma e camera magmatica; Le parti del vulcano; I prodotti dell'eruzio
 - Come si dice un vulcano che non erutta da molto tempo ma potrebbe risvegliarsi?
 - Perché i gas disciolti nel magma sono importanti durante un'eruzione?
 - Le ceneri di un'eruzione possono creare problemi anche a centinaia di chilometri dal vulcano. Spiega perché.
+
+## Astronauti che galleggiano [lib-3-media-scienze-astronauti-microgravita] · GRAVITA
+concetti: La Stazione Spaziale; Perché si galleggia; Effetti sul corpo; La vita a bordo
+- A che altezza circa orbita la Stazione Spaziale Internazionale?
+- Sulla Stazione Spaziale la gravità terrestre è del tutto assente.
+- Perché gli astronauti galleggiano nella Stazione Spaziale?
+- Senza il carico del peso, nello spazio le ossa degli astronauti perdono ___ e diventano più fragili.
+- Per limitare la perdita di muscoli e ossa, che cosa fanno ogni giorno gli astronauti?
+- La Stazione compie un giro attorno alla Terra in circa 90 minuti. Quante volte, circa, gira attorno alla Terr…
+- Perché sulla Stazione Spaziale l'acqua, compresa quella del sudore e dell'urina, viene riciclata?
+- Spiega perché un astronauta che torna dopo sei mesi sulla Stazione Spaziale può avere difficoltà a camminare.
+
+## Batteri che resistono [lib-3-media-scienze-resistenza-antibiotici] · BATTERI
+concetti: Gli antibiotici; I batteri resistenti; Un'evoluzione rapida; L'uso responsabile
+- Contro che cosa agiscono gli antibiotici?
+- Gli antibiotici sono utili per guarire dal raffreddore, che è causato da virus.
+- Il primo antibiotico, la penicillina, fu scoperto nel 1928 da Alexander ___.
+- Che cos'è un batterio resistente?
+- Ordina come si diffonde la resistenza in una colonia di batteri.
+- Un batterio si divide in due ogni 20 minuti. Partendo da un solo batterio, quanti ce ne sono dopo 2 ore, se n…
+- Il medico ti prescrive un antibiotico per 6 giorni. Dopo 3 giorni stai meglio. Che cosa è giusto fare?
+- Perché la resistenza agli antibiotici è un esempio di evoluzione che possiamo osservare in pochi anni?
 
 ## Biotecnologie: la genetica al lavoro [lib-3-media-scienze-biotecnologie-ogm] · CLONE
 concetti: Le biotecnologie tradizionali; L'ingegneria genetica; Gli OGM; La clonazione
@@ -46,6 +90,39 @@ concetti: Le cariche elettriche; L'elettrizzazione per strofinio; Conduttori e i
 - A che cosa serve un parafulmine sul tetto di un edificio?
 - D'inverno, dopo aver camminato su un tappeto, a volte prendi la scossa toccando una maniglia di metallo. Spie…
 
+## Cervelli nel regno animale [lib-3-media-scienze-sistema-nervoso-animali] · MEDUSA
+concetti: La rete nervosa; Gangli e cordoni; I vertebrati; Cervelli diversi
+- Come è organizzato il sistema nervoso di una medusa?
+- Nei vertebrati l'encefalo è protetto dal cranio e il midollo spinale dalla colonna vertebrale.
+- Negli insetti i neuroni sono raggruppati in piccoli centri nervosi chiamati ___.
+- Perché negli animali che si muovono in avanti i centri nervosi si concentrano nella testa?
+- Ordina questi sistemi nervosi dal più semplice al più complesso.
+- Il polpo è un invertebrato, ma è considerato molto intelligente. Che cosa lo rende possibile?
+- Che cosa hanno in comune la rete nervosa di una medusa e il cervello umano?
+- Confronta il sistema nervoso di una medusa con quello di un essere umano: che cosa hanno in comune e che cosa…
+
+## Che cosa fa il cervello di notte [lib-3-media-scienze-sonno-cervello] · SONNO
+concetti: Perché dormiamo; Le fasi del sonno; Quanto dormire; Luce e orologio biologico
+- Quante ore di sonno a notte sono consigliate in media a un ragazzo di 13-14 anni?
+- Mentre dormi il cervello si spegne completamente e non lavora.
+- La fase del sonno in cui gli occhi si muovono rapidamente e si fanno i sogni più vividi si chiama sonno ___.
+- Perché usare il telefono a letto può rendere più difficile addormentarsi?
+- Durante il sonno profondo viene liberato molto ormone della crescita. Che cosa ne deduci?
+- Ordina le fasi di un ciclo di sonno, a partire dall'addormentamento.
+- Il giorno prima di una verifica è meglio studiare fino a tardi o dormire bene?
+- Spiega perché in estate, con giornate lunghe e tanta luce la sera, molti ragazzi faticano ad addormentarsi pr…
+
+## Che ore sono dall'altra parte? [lib-3-media-scienze-fusi-orari] · FUSO
+concetti: Rotazione e ore; I fusi orari; Est e ovest; La linea del cambiamento di data
+- Di quanti gradi ruota la Terra in un'ora?
+- Il meridiano di riferimento, da cui si contano i fusi orari, passa per l'osservatorio di ___, vicino a Londra.
+- Quando in Italia è mezzogiorno, a New York è già sera.
+- In Italia sono le 10:00. Tokyo è avanti di 8 ore rispetto all'Italia. Che ore sono a Tokyo?
+- Perché esistono proprio 24 fusi orari?
+- Un aereo attraversa la linea del cambiamento di data volando dall'America verso l'Asia, cioè verso ovest. Che…
+- Ordina queste città da quella con l'ora più avanti a quella con l'ora più indietro, in uno stesso momento.
+- Perché è necessario avere fusi orari diversi invece di usare la stessa ora in tutto il mondo?
+
 ## Chi graffia chi? La durezza [lib-3-media-scienze-scala-di-mohs] · TALCO
 concetti: La durezza; La scala di Mohs; Le prove pratiche; Una scala relativa
 - Qual è il minerale più duro della scala di Mohs?
@@ -56,6 +133,17 @@ concetti: La durezza; La scala di Mohs; Le prove pratiche; Una scala relativa
 - Un minerale riga il vetro (circa 5,5) ma viene rigato dal quarzo (7). Quale potrebbe essere?
 - Perché la scala di Mohs si dice «relativa»?
 - Per incidere il vetro si usano punte di diamante. Spiega perché funziona, usando la scala di Mohs.
+
+## Come funziona la memoria [lib-3-media-scienze-memoria-apprendimento] · MEMORIA
+concetti: Che cos'è la memoria; Breve e lungo termine; L'ippocampo; Imparare meglio
+- Ti dettano un numero di telefono: lo ripeti finché non lo scrivi, poi lo dimentichi. Quale memoria hai usato?
+- Quando impari qualcosa di nuovo, i collegamenti tra i tuoi neuroni cambiano.
+- Una piccola struttura del cervello fondamentale per formare nuovi ricordi si chiama ___.
+- Quanti elementi può contenere, più o meno, la memoria a breve termine?
+- Ordina le tre fasi della memoria.
+- Qual è il metodo più efficace per ricordare a lungo i vocaboli di inglese?
+- Perché collegare un'informazione nuova a qualcosa che sai già aiuta a ricordarla?
+- Una persona con un danno all'ippocampo ricorda bene la sua infanzia, ma non che cosa ha mangiato a pranzo. Co…
 
 ## Come funziona la vista [lib-3-media-scienze-occhio-e-vista] · RETINA
 concetti: La struttura dell'occhio; Iride e pupilla; La retina; I difetti della vista
@@ -68,6 +156,50 @@ concetti: La struttura dell'occhio; Iride e pupilla; La retina; I difetti della 
 - Sulla retina l'immagine si forma capovolta. Perché allora vediamo il mondo diritto?
 - Il cristallino cambia forma quando guardi un oggetto vicino o uno lontano. A che cosa serve?
 
+## Come nasce una nuova specie [lib-3-media-scienze-speciazione-isolamento] · ISOLA
+concetti: La speciazione; L'isolamento geografico; Popolazioni che divergono; I fringuelli delle Galápagos
+- Che cosa si intende per speciazione?
+- Una catena montuosa o un braccio di mare possono dividere una popolazione in due gruppi che non si incrociano…
+- I fringuelli delle Galápagos hanno becchi diversi. A che cosa sono legate queste differenze?
+- Due popolazioni diventano specie diverse quando non possono più incrociarsi: si parla di isolamento ___.
+- Ordina le tappe della speciazione per isolamento geografico.
+- Perché due popolazioni separate diventano sempre più diverse?
+- Da una sola specie di fringuello arrivata dal continente se ne sono originate molte. Come si chiama questo fe…
+- Perché sulle isole lontane dai continenti si trovano spesso specie che non esistono da nessun'altra parte?
+
+## Come nascono le montagne [lib-3-media-scienze-orogenesi-catene-montuose] · CATENA
+concetti: L'orogenesi; Scontro tra continenti; Pieghe e faglie; Montagne che invecchiano
+- In quale tipo di margine tra placche nascono le grandi catene montuose?
+- L'Himalaya è nato dallo scontro tra la placca indiana e quella euroasiatica.
+- Strati di roccia compressi lentamente da due lati, senza rompersi, formano…
+- Quando la compressione supera la resistenza della roccia, questa si spacca e si forma una ___.
+- Sulle Alpi e sull'Himalaya si trovano fossili marini ad alta quota. Perché?
+- Gli Appalachi hanno cime basse e arrotondate, l'Himalaya cime altissime e aguzze. Che cosa ne deduci?
+- Ordina le fasi della formazione di una catena montuosa tra due continenti.
+- L'Himalaya cresce ancora di qualche millimetro all'anno, ma l'erosione lo consuma. Spiega da che cosa dipende…
+
+## Comete, asteroidi e stelle cadenti [lib-3-media-scienze-comete-asteroidi-meteore] · COMETA
+concetti: Gli asteroidi; Le comete; Meteore e meteoriti; Gli sciami meteorici; Sorvegliare il cielo
+- Dove si trova la fascia principale degli asteroidi?
+- Una 'stella cadente' è in realtà una stella che precipita verso la Terra.
+- Un frammento di roccia spaziale che attraversa l'atmosfera e raggiunge il suolo si chiama ___.
+- Di che cosa è fatta principalmente una cometa?
+- La coda di una cometa è rivolta sempre…
+- Perché intorno al 10 agosto si vedono tante stelle cadenti?
+- Ordina il viaggio di un frammento di roccia spaziale che arriva fino a terra.
+- Molti scienziati pensano che i dinosauri si siano estinti dopo l'impatto di un grande asteroide. Spiega perch…
+
+## Contare i cromosomi [lib-3-media-scienze-cariotipo-anomalie-cromosomiche] · CORREDO
+concetti: Il corredo cromosomico; Il cariotipo; La non disgiunzione; La trisomia 21
+- Quanti cromosomi ci sono in una cellula del corpo umano?
+- I gameti umani, cioè ovuli e spermatozoi, hanno 23 cromosomi.
+- L'immagine dei cromosomi di una cellula ordinati a coppie per forma e dimensioni si chiama ___.
+- Delle 23 coppie di cromosomi umani, quante sono coppie di autosomi?
+- Che cos'è la non disgiunzione?
+- Nella sindrome di Down, quanti cromosomi ha di solito ogni cellula?
+- Ordina le tappe con cui può originarsi una trisomia.
+- Perché per la sindrome di Down si parla di 'trisomia 21'? Spiega che cosa significa questo nome.
+
 ## Corrente, circuiti e legge di Ohm [lib-3-media-scienze-corrente-circuiti-ohm] · VOLT
 concetti: La corrente elettrica; Generatore e tensione; Il circuito elettrico; Serie e parallelo; La legge di Ohm
 - Che cos'è la corrente elettrica?
@@ -78,6 +210,17 @@ concetti: La corrente elettrica; Generatore e tensione; Il circuito elettrico; S
 - Nelle luci dell'albero di Natale collegate in serie, se una lampadina si brucia...
 - Perché gli impianti elettrici delle case sono collegati in parallelo?
 - Un apparecchio collegato alla presa di casa (230 V) è attraversato da una corrente di 0,5 A. Calcola la sua r…
+
+## Crescere in salute [lib-3-media-scienze-salute-riproduttiva-prevenzione] · VACCINO
+concetti: Prendersi cura del corpo; Le infezioni sessualmente trasmissibili; Il vaccino HPV; Fonti affidabili
+- Durante la pubertà le ghiandole del sudore diventano più attive. Che cosa è utile fare?
+- In Italia il vaccino contro il papillomavirus (HPV) è offerto sia alle ragazze sia ai ragazzi, intorno agli 1…
+- Le infezioni che si trasmettono attraverso i rapporti sessuali si chiamano infezioni sessualmente ___.
+- Come funziona un vaccino?
+- Quale virus indebolisce il sistema immunitario e può trasmettersi per via sessuale o con il sangue?
+- Quale metodo protegge dalle infezioni sessualmente trasmissibili durante un rapporto?
+- Hai un dubbio sul tuo corpo che cambia. Qual è la fonte più affidabile a cui chiedere?
+- Perché il vaccino contro l'HPV viene consigliato a 11-12 anni, cioè molto prima di poter venire a contatto co…
 
 ## Crescere: pubertà e riproduzione [lib-3-media-scienze-apparato-riproduttore-puberta] · GAMETE
 concetti: La riproduzione sessuata; L'apparato maschile; L'apparato femminile; Il ciclo mestruale; La pubertà
@@ -123,6 +266,17 @@ concetti: Un antenato comune; Il bipedismo; Il genere Homo; Homo sapiens
 - Che cosa sappiamo dell'uomo di Neanderthal?
 - Perché camminare su due gambe è stato un vantaggio per i nostri antenati?
 
+## Dal gene alla proteina [lib-3-media-scienze-sintesi-proteica-rna] · CODONE
+concetti: L'RNA; La trascrizione; La traduzione; Il codice genetico
+- Quale base azotata si trova nell'RNA al posto della timina?
+- L'RNA è di solito formato da un solo filamento, mentre il DNA da due.
+- Una sequenza di tre basi che corrisponde a un amminoacido si chiama ___.
+- Dove avviene la trascrizione, cioè la copia del gene in RNA messaggero?
+- Ordina le tappe che portano da un gene a una proteina.
+- Un tratto di RNA messaggero contiene 30 basi che codificano amminoacidi. Quanti amminoacidi codifica?
+- Il codice genetico è quasi uguale in batteri, piante e animali. Che cosa suggerisce?
+- Perché una mutazione che cambia una sola base del DNA può modificare una proteina?
+
 ## Dalla cellula al neonato [lib-3-media-scienze-fecondazione-sviluppo] · ZIGOTE
 concetti: La fecondazione; Embrione e feto; Placenta e cordone; Gravidanza e parto
 - Come si chiama la cellula che si forma dall'unione di spermatozoo e cellula uovo?
@@ -133,6 +287,17 @@ concetti: La fecondazione; Embrione e feto; Placenta e cordone; Gravidanza e par
 - Con quale tipo di divisione cellulare lo zigote si moltiplica e forma l'embrione?
 - Perché in gravidanza è importante non bere alcol e non fumare?
 - Perché le prime otto settimane di gravidanza sono un periodo particolarmente delicato per lo sviluppo?
+
+## Dare un nome a ogni vivente [lib-3-media-scienze-classificazione-linneo] · LINNEO
+concetti: Perché classificare; La nomenclatura binomiale; Le categorie; La specie; Classificazione ed evoluzione
+- Chi inventò il sistema dei nomi scientifici formati da due parole?
+- Nel nome scientifico del lupo, Canis lupus, la parola Canis indica il ___.
+- Il mulo, nato da un asino e una cavalla, di solito è sterile.
+- Ordina queste categorie dalla più ampia alla più ristretta.
+- Due animali appartengono alla stessa specie se…
+- Perché gli scienziati usano i nomi latini invece dei nomi comuni?
+- Oggi, per classificare i viventi, oltre all'aspetto si confronta anche…
+- Il delfino somiglia a un pesce, ma è classificato tra i mammiferi. Spiega perché.
 
 ## Darwin e la selezione naturale [lib-3-media-scienze-darwin-selezione-naturale] · DARWIN
 concetti: Il viaggio del Beagle; Variabilità e lotta per la vita; La selezione naturale; L'origine delle specie; Lamarck e Darwin
@@ -156,6 +321,17 @@ concetti: L'eclissi di Sole; L'eclissi di Luna; Perché sono rare; Le maree
 - Quante alte maree ci sono, di solito, nell'arco di un giorno?
 - Spiega perché le eclissi di Sole avvengono con la luna nuova e quelle di Luna con la luna piena.
 
+## Energia da antiche foreste [lib-3-media-scienze-combustibili-fossili-origine] · CARBONE
+concetti: Energia di antichi viventi; Il carbone; Petrolio e gas naturale; I problemi
+- Da che cosa derivano i combustibili fossili?
+- Il carbone si è formato soprattutto da resti di piante di antiche foreste paludose.
+- Ordina i tipi di carbone dal meno ricco al più ricco di carbonio.
+- Da che cosa deriva soprattutto il petrolio?
+- Il petrolio risale nelle rocce porose finché non incontra uno strato ___ che lo blocca, formando un giaciment…
+- Bruciando carbone, petrolio e metano si libera soprattutto…
+- Perché si dice che i combustibili fossili sono 'energia solare in scatola'?
+- Spiega perché i combustibili fossili non sono rinnovabili e quale problema per il clima comporta il loro uso.
+
 ## Eruzioni tranquille o esplosive? [lib-3-media-scienze-tipi-di-eruzione] · LAVA
 concetti: La viscosità del magma; Le eruzioni effusive; Le eruzioni esplosive; La forma del vulcano
 - Le eruzioni delle isole Hawaii sono famose per i lunghi fiumi di lava. Che tipo di eruzioni sono?
@@ -166,6 +342,28 @@ concetti: La viscosità del magma; Le eruzioni effusive; Le eruzioni esplosive; 
 - Il Vesuvio è un vulcano a strato. Che forma ha?
 - Con un'analogia: un magma fluido sta a un magma viscoso come...
 - Nel 79 d.C. un'eruzione del Vesuvio seppellì Pompei. Spiega perché un'eruzione esplosiva come quella è più pe…
+
+## Fiori rosa e altezze diverse [lib-3-media-scienze-dominanza-incompleta-poligenici] · ALTEZZA
+concetti: La dominanza incompleta; Incrociare gli intermedi; I caratteri poligenici; Geni e ambiente
+- Incrociando bocche di leone rosse con bocche di leone bianche, tutte le piante figlie sono rosa. Che tipo di …
+- Nella dominanza incompleta l'eterozigote ha un aspetto intermedio tra i due omozigoti.
+- Incroci tra loro due bocche di leone rosa. Quali proporzioni ti aspetti nei figli?
+- I caratteri controllati da molti geni insieme, come l'altezza, si chiamano ___.
+- Perché le altezze degli alunni di una classe non si dividono in 'alti' e 'bassi', ma variano gradualmente?
+- Due gemelli identici crescono con alimentazioni molto diverse e da adulti uno è più basso dell'altro. Che cos…
+- Ortensie con lo stesso DNA possono fare fiori blu o rosa a seconda del terreno. Perché?
+- Spiega la differenza tra ciò che Mendel osservò incrociando piselli a fiore viola e bianco e ciò che succede …
+
+## Fiumi di ghiaccio in montagna [lib-3-media-scienze-ghiacciai-modellamento] · MORENA
+concetti: Come nasce un ghiacciaio; Ghiacciai che scorrono; Valli a U e morene; Ghiacciai in ritirata
+- Un ghiacciaio si forma dove la neve invernale non fonde del tutto, cioè sopra il limite delle nevi ___.
+- Ordina la trasformazione della neve in ghiaccio di ghiacciaio.
+- Un ghiacciaio è immobile: il ghiaccio resta sempre nello stesso punto.
+- Che forma ha una valle scavata da un ghiacciaio?
+- Come si chiamano i cumuli di massi e detriti abbandonati da un ghiacciaio?
+- Perché in un ghiacciaio si aprono i crepacci?
+- Molti laghi del Nord Italia, come il Garda, sono legati ai ghiacciai. In che modo?
+- I ghiacciai alpini si stanno ritirando. Quali conseguenze può avere per le persone che vivono a valle?
 
 ## Fossili, messaggi dal passato [lib-3-media-scienze-fossili] · FOSSILE
 concetti: Cos'è un fossile; La fossilizzazione; I fossili guida; Datare le rocce
@@ -178,6 +376,28 @@ concetti: Cos'è un fossile; La fossilizzazione; I fossili guida; Datare le rocc
 - Che cosa permette la datazione «assoluta» di una roccia?
 - Insetti vissuti milioni di anni fa si sono conservati perfettamente nell'ambra. Spiega come è potuto succeder…
 
+## Galileo punta il cannocchiale [lib-3-media-scienze-galileo-cannocchiale] · GALILEO
+concetti: Il cannocchiale verso il cielo; Le scoperte; Prove per Copernico; Il metodo sperimentale
+- Che cosa fece Galileo di nuovo a partire dal 1609?
+- Galileo osservò che la Luna ha montagne e crateri, e non è una sfera perfettamente liscia.
+- Galileo scoprì quattro satelliti che girano attorno a ___.
+- Perché i satelliti di Giove misero in crisi il modello geocentrico?
+- Galileo vide che Venere mostra un ciclo completo di fasi, come la Luna. Che cosa indicava?
+- Ordina le fasi del metodo sperimentale.
+- Guardando la Via Lattea con il cannocchiale, che cosa capì Galileo?
+- Perché il modo di lavorare di Galileo è considerato l'inizio della scienza moderna?
+
+## Gemelli identici o fraterni? [lib-3-media-scienze-gemelli-monozigoti-dizigoti] · GEMELLI
+concetti: I gemelli monozigoti; I gemelli dizigoti; Gemelli e ricerca; Le impronte digitali
+- I gemelli monozigoti nascono da…
+- Due gemelli dizigoti possono essere un maschio e una femmina.
+- I gemelli dizigoti si assomigliano quanto due normali ___.
+- Perché due gemelli monozigoti sono sempre dello stesso sesso?
+- Ordina come si formano due gemelli monozigoti.
+- Due gemelli monozigoti hanno le stesse impronte digitali?
+- Perché gli scienziati studiano gemelli monozigoti cresciuti in famiglie diverse?
+- Due gemelli monozigoti hanno lo stesso DNA, ma uno suona il pianoforte e l'altro gioca a calcio, e hanno cara…
+
 ## Geyser, fumarole e soffioni [lib-3-media-scienze-vulcanismo-secondario] · GEYSER
 concetti: Fumarole e solfatare; I geyser; Sorgenti termali e soffioni; Il bradisismo
 - Che cos'è un geyser?
@@ -189,6 +409,17 @@ concetti: Fumarole e solfatare; I geyser; Sorgenti termali e soffioni; Il bradis
 - Perché l'energia geotermica è considerata rinnovabile?
 - Le colonne di un antico edificio romano a Pozzuoli hanno fori di molluschi marini fino a diversi metri d'alte…
 
+## Giorni, mesi e anni bisestili [lib-3-media-scienze-calendario-misura-tempo] · ANNO
+concetti: Il giorno; Anno e anni bisestili; Il mese e la Luna; Il calendario gregoriano
+- Perché l'anno dura circa 365 giorni?
+- Ogni quattro anni, di regola, febbraio ha 29 giorni.
+- Il ciclo completo delle fasi lunari dura circa ___ giorni, e da esso deriva l'idea di mese.
+- Perché si aggiunge un giorno ogni quattro anni?
+- Il 2100 sarà un anno bisestile.
+- Il calendario che usiamo oggi si chiama gregoriano perché…
+- Ordina queste durate dalla più breve alla più lunga.
+- Se non si aggiungessero mai gli anni bisestili, che cosa succederebbe alle stagioni nel calendario dopo molti…
+
 ## Gira la Terra, cambiano le stagioni [lib-3-media-scienze-moti-terra-stagioni] · ORBITA
 concetti: La rotazione; La rivoluzione; L'asse inclinato; Solstizi ed equinozi
 - Che cosa provoca l'alternarsi del dì e della notte?
@@ -199,6 +430,28 @@ concetti: La rotazione; La rivoluzione; L'asse inclinato; Solstizi ed equinozi
 - Perché quando in Italia è estate, in Australia è inverno?
 - Che cosa succede nei giorni di equinozio?
 - Spiega perché in estate le giornate sono più calde, usando l'inclinazione dei raggi solari e la durata del dì.
+
+## Gli ormoni, messaggeri chimici [lib-3-media-scienze-sistema-endocrino-ormoni] · ORMONE
+concetti: Ghiandole e ormoni; Ipofisi e ipotalamo; Pancreas e insulina; Tiroide e surreni; Gli ormoni sessuali
+- Come raggiungono gli organi bersaglio gli ormoni?
+- L'ormone prodotto dal pancreas che fa diminuire lo zucchero nel sangue è l'___.
+- L'ipofisi è una piccola ghiandola alla base del cervello che controlla molte altre ghiandole.
+- Stai per tuffarti da uno scoglio alto e il cuore ti batte forte. Quale ormone è entrato in azione?
+- Perché nel sale da cucina si aggiunge spesso iodio?
+- Quali ormoni guidano i cambiamenti del corpo durante la pubertà?
+- Che differenza c'è tra il sistema nervoso e il sistema endocrino?
+- Spiega che cosa succede nel corpo di una persona con diabete di tipo 1 e perché deve controllare spesso lo zu…
+
+## Grotte, doline e stalattiti [lib-3-media-scienze-carsismo-grotte] · GROTTA
+concetti: Rocce solubili; Forme in superficie; Forme sotterranee; Il Carso e le grotte italiane
+- Il carsismo riguarda soprattutto rocce come…
+- L'acqua piovana scioglie il calcare perché contiene anidride ___ disciolta, che la rende leggermente acida.
+- Le stalattiti crescono dal pavimento della grotta verso l'alto.
+- Quando una stalattite e una stalagmite si uniscono formano…
+- Una conca chiusa a forma di imbuto sulla superficie di un altopiano calcareo è…
+- Ordina le tappe della formazione di una stalattite.
+- Da dove deriva il nome 'carsismo'?
+- In una zona carsica i fiumi spesso spariscono nel terreno. Spiega perché e dove finisce l'acqua.
 
 ## Il calendario della Terra [lib-3-media-scienze-ere-geologiche] · EPOCA
 concetti: L'età della Terra; Le grandi suddivisioni; La vita nel tempo; Le estinzioni di massa
@@ -255,6 +508,17 @@ concetti: Tre famiglie collegate; I processi in superficie; I processi in profon
 - Perché non vediamo il ciclo delle rocce svolgersi sotto i nostri occhi?
 - Spiega come una roccia sedimentaria può diventare, dopo moltissimo tempo, una roccia magmatica.
 
+## Il mistero dei buchi neri [lib-3-media-scienze-buchi-neri] · NERO
+concetti: Che cos'è un buco nero; Come nasce; L'orizzonte degli eventi; Come si osservano
+- Perché un buco nero si chiama così?
+- Una stella come il Sole diventerà un buco nero alla fine della sua vita.
+- Da che cosa può nascere un buco nero?
+- Il confine di un buco nero oltre il quale nulla può tornare indietro si chiama orizzonte degli ___.
+- Se un buco nero non emette luce, come fanno gli astronomi a trovarlo?
+- Che cosa si trova, secondo gli astronomi, al centro della nostra galassia?
+- Ordina le fasi che portano alla nascita di un buco nero.
+- Se il Sole fosse sostituito da un buco nero con la stessa massa, la Terra verrebbe 'risucchiata'? Spiega.
+
 ## Il motore sotto i continenti [lib-3-media-scienze-dorsali-e-moti-convettivi] · DORSALE
 concetti: Le dorsali oceaniche; L'espansione dei fondali; Le prove magnetiche; I moti convettivi
 - Che cosa sono le dorsali oceaniche?
@@ -299,6 +563,28 @@ concetti: Una stella media; La struttura; L'attività solare; Il Sole e la vita
 - Perché senza il Sole quasi tutta la vita sulla Terra scomparirebbe?
 - Il Sole ci appare molto più grande e luminoso delle altre stelle. È davvero una stella speciale? Spiega.
 
+## Il suolo, pelle viva della Terra [lib-3-media-scienze-suolo-formazione-profilo] · SUOLO
+concetti: Che cos'è il suolo; Come si forma; Gli orizzonti; Proteggere il suolo
+- Quali componenti formano un suolo fertile?
+- La parte del suolo formata da resti decomposti di piante e animali si chiama ___.
+- Bastano pochi anni perché da una roccia nuda si formi un suolo profondo e fertile.
+- Le radici degli alberi si infilano nelle crepe delle rocce e le spaccano. Che tipo di degradazione è?
+- Ordina gli strati di un profilo di suolo dalla superficie verso il basso.
+- Perché su un pendio disboscato il suolo si perde più facilmente?
+- Coprire un campo con asfalto e cemento…
+- Il suolo è considerato una risorsa non rinnovabile sulla scala della vita umana. Spiega perché.
+
+## Isole nate da un punto caldo [lib-3-media-scienze-punti-caldi-hawaii] · HAWAII
+concetti: Cos'è un punto caldo; Isole in fila; Vulcani a scudo; L'Islanda, caso speciale
+- Dove si trova di solito un punto caldo rispetto ai margini delle placche?
+- Secondo il modello dei punti caldi, il magma sale da un pennacchio caldo che arriva dalle profondità del mant…
+- Nella catena delle Hawaii le isole a nord-ovest sono le più vecchie. Perché?
+- Il magma dei punti caldi oceanici è basaltico e fluido, perciò forma vulcani a ___, larghi e poco ripidi.
+- Le eruzioni delle Hawaii sono di solito effusive. Che cosa ti aspetti di vedere?
+- Ordina le tappe della vita di un'isola vulcanica nata sopra un punto caldo.
+- Perché l'Islanda ha un'attività vulcanica così intensa?
+- Se conosci l'età delle isole lungo la catena delle Hawaii, come puoi capire in che direzione e a che velocità…
+
 ## Keplero, Newton e le orbite [lib-3-media-scienze-keplero-e-gravita] · ELLISSE
 concetti: La prima legge di Keplero; La seconda legge di Keplero; La terza legge di Keplero; La gravitazione universale; Massa e peso
 - Che forma hanno le orbite dei pianeti secondo Keplero?
@@ -320,6 +606,28 @@ concetti: L'Etna; Il Vesuvio; Stromboli e le Eolie; Campi Flegrei e sorveglianza
 - Come sono, di solito, le eruzioni dell'Etna?
 - Perché le zone vulcaniche italiane sono sorvegliate di continuo e hanno piani di evacuazione?
 - Il Vesuvio oggi è quiescente, ma intorno vivono centinaia di migliaia di persone. Perché è considerato uno de…
+
+## L'uomo che sceglie i caratteri [lib-3-media-scienze-selezione-artificiale] · RAZZA
+concetti: Che cos'è; Le razze di cani; Le piante coltivate; Darwin e gli allevatori; I limiti
+- Nella selezione artificiale, chi sceglie quali individui si riproducono?
+- Un chihuahua e un alano appartengono alla stessa specie.
+- Tutte le razze di cani discendono dal ___.
+- Cavolfiore, broccolo e cavolo di Bruxelles…
+- Perché Darwin studiò gli allevatori di piccioni?
+- Ordina le tappe con cui un agricoltore ottiene pomodori sempre più grandi.
+- Perché alcune razze molto selezionate hanno più spesso malattie ereditarie?
+- Spiega che cosa hanno in comune e in che cosa sono diverse la selezione artificiale e la selezione naturale.
+
+## La falena e la fuliggine [lib-3-media-scienze-falena-melanismo-industriale] · FALENA
+concetti: Due forme di falena; La rivoluzione industriale; Il ritorno delle chiare; Mimetismo e adattamento
+- La falena delle betulle esiste in due forme. Quali?
+- Il colore chiaro o scuro della falena è un carattere ereditario.
+- Durante la rivoluzione industriale in Inghilterra, perché le falene scure diventarono più numerose?
+- Un colore che rende un animale difficile da vedere nel suo ambiente si chiama colorazione ___.
+- Che cosa successe quando le leggi contro l'inquinamento resero l'aria più pulita?
+- Ordina gli eventi della storia della falena delle betulle.
+- La forma scura esisteva già prima dell'inquinamento, ma era rara. Che cosa ci insegna?
+- Spiega perché la storia della falena delle betulle è considerata un esempio di selezione naturale osservata d…
 
 ## La Luna e le sue fasi [lib-3-media-scienze-fasi-lunari] · LUNA
 concetti: La Luna; I moti della Luna; Le fasi lunari; L'uomo sulla Luna
@@ -365,6 +673,28 @@ concetti: I fossili; Gli organi omologhi; Gli organi analoghi; Gli organi vestig
 - Negli strati rocciosi più antichi si trovano organismi semplici, in quelli più recenti anche organismi più co…
 - Le balene vivono in mare ma respirano aria con i polmoni e hanno resti di ossa delle zampe posteriori. Che co…
 
+## Leggere un albero genealogico [lib-3-media-scienze-alberi-genealogici] · ALBERO
+concetti: I simboli; Il carattere recessivo; Il carattere dominante; Il carattere legato all'X
+- In un albero genealogico, che cosa indica di solito un quadrato?
+- In un albero genealogico, le persone che manifestano il carattere studiato hanno il simbolo ___.
+- Due genitori sani possono avere un figlio con una malattia genetica recessiva.
+- Due genitori sani hanno un figlio con un carattere recessivo. Qual è il genotipo dei genitori?
+- Due genitori portatori (Aa) di una malattia recessiva hanno un figlio. Qual è la probabilità che sia malato?
+- In un albero genealogico ogni persona che manifesta il carattere ha almeno un genitore che lo manifesta, e il…
+- In una famiglia il daltonismo compare quasi solo nei maschi. Perché?
+- In un albero genealogico vedi un carattere che 'salta' i genitori e ricompare nei figli di due persone sane. …
+
+## Mappa del cervello [lib-3-media-scienze-emisferi-lobi-corteccia] · LOBO
+concetti: Due emisferi; La corteccia cerebrale; I lobi; Aree che collaborano
+- Che cosa collega i due emisferi cerebrali?
+- L'emisfero sinistro controlla i movimenti della parte destra del corpo.
+- Le informazioni che arrivano dagli occhi vengono elaborate soprattutto nel lobo ___, nella parte posteriore d…
+- Quale lobo è più coinvolto nel prendere decisioni e pianificare le azioni?
+- Il lobo temporale, vicino alle orecchie, elabora soprattutto…
+- Perché la corteccia cerebrale umana è piena di pieghe?
+- Si dice spesso che usiamo solo il 10% del cervello. È vero?
+- Una persona colpita da un ictus nell'emisfero sinistro fatica a muovere il braccio destro e a parlare. Come l…
+
 ## Mendel e i piselli [lib-3-media-scienze-leggi-di-mendel] · PISELLO
 concetti: Gli esperimenti di Mendel; Dominante e recessivo; La prima legge; La seconda legge; La terza legge
 - Quale organismo usò Mendel per i suoi esperimenti sull'ereditarietà?
@@ -397,6 +727,17 @@ concetti: La magnitudo; L'intensità; Due misure diverse; Il sismogramma
 - Due paesi sono colpiti dallo stesso terremoto: in uno i danni sono gravi, nell'altro lievi. Quale può essere …
 - Che cosa mostra un sismogramma?
 - Perché, per descrivere un terremoto, servono sia la magnitudo sia l'intensità?
+
+## Mondi attorno ad altre stelle [lib-3-media-scienze-esopianeti-zona-abitabile] · VITA
+concetti: Gli esopianeti; Come si scoprono; La zona abitabile; Che cosa serve alla vita
+- Che cos'è un esopianeta?
+- Finora gli astronomi hanno confermato l'esistenza di migliaia di esopianeti.
+- La fascia attorno a una stella in cui un pianeta può avere acqua liquida in superficie si chiama zona ___.
+- Con il metodo dei transiti, come si accorgono gli astronomi della presenza di un pianeta?
+- Un pianeta orbita molto più vicino a una stella simile al Sole di quanto la Terra sia vicina al Sole. Che cos…
+- Perché gli scienziati sono interessati a Europa, una luna di Giove?
+- Quale ingrediente è considerato indispensabile per la vita come la conosciamo?
+- Perché trovare un pianeta nella zona abitabile non basta per dire che ospita la vita?
 
 ## Mutazioni: errori nel codice [lib-3-media-scienze-mutazioni] · MUTANTE
 concetti: Cos'è una mutazione; Le cause; Gli effetti; Mutazioni ed eredità
@@ -431,6 +772,17 @@ concetti: L'orecchio; L'equilibrio; Gusto e olfatto; Il tatto; Proteggere l'udit
 - Perché ascoltare spesso musica ad alto volume con le cuffie è rischioso?
 - Spiega perché, tappandoti il naso, è difficile distinguere il sapore di una mela da quello di una patata crud…
 
+## Orientarsi con le stelle [lib-3-media-scienze-costellazioni-stella-polare] · POLARE
+concetti: Le costellazioni; La Stella Polare; Trovare la Polare; Il cielo che cambia
+- Che cos'è una costellazione?
+- Le stelle di una stessa costellazione si trovano tutte alla stessa distanza dalla Terra.
+- Perché la Stella Polare è utile per orientarsi di notte?
+- La Stella Polare è l'ultima stella della coda dell'Orsa ___.
+- Ordina i passi per trovare la Stella Polare.
+- Fotografando il cielo del nord con una lunga esposizione, le stelle disegnano cerchi attorno alla Polare. Per…
+- Perché in inverno e in estate vediamo costellazioni diverse di notte?
+- Una ragazza in Australia non riesce a vedere la Stella Polare. Spiega perché.
+
 ## Otto pianeti in famiglia [lib-3-media-scienze-pianeti-sistema-solare] · PIANETA
 concetti: Il Sistema solare; I pianeti rocciosi; I giganti gassosi; I corpi minori
 - Qual è il pianeta più grande del Sistema solare?
@@ -453,6 +805,17 @@ concetti: Le placche; Margini divergenti; Margini convergenti; Margini trasformi
 - L'Islanda è attraversata dalla dorsale medio-atlantica. Perché lì ci sono tanti vulcani?
 - Perché vulcani e terremoti sono concentrati soprattutto lungo i margini delle placche?
 
+## Proteggi il tuo cervello [lib-3-media-scienze-protezione-sistema-nervoso] · CASCO
+concetti: Le difese naturali; I traumi alla testa; Il casco; Il midollo spinale
+- Quali membrane avvolgono e proteggono encefalo e midollo spinale?
+- Tra le meningi scorre un liquido che fa da cuscinetto contro i colpi: il liquido ___.
+- Un casco ben allacciato riduce molto il rischio di gravi lesioni alla testa in caso di caduta.
+- Perché un casco va sostituito dopo un forte urto, anche se sembra intatto?
+- Dopo una botta in testa durante una partita, un compagno è confuso e ha nausea. Che cosa è giusto fare?
+- Che cosa può succedere se il midollo spinale viene lesionato?
+- Una persona caduta da un'altezza si lamenta di un forte dolore alla schiena. Qual è il comportamento corretto?
+- Spiega come cranio, meningi e liquido cerebrospinale proteggono il cervello e perché, nonostante questo, serv…
+
 ## Quando la terra trema [lib-3-media-scienze-terremoti-ipocentro-epicentro] · FAGLIA
 concetti: L'origine dei terremoti; Ipocentro ed epicentro; Le faglie; Gli tsunami
 - Come si chiama il punto in profondità in cui si origina un terremoto?
@@ -463,6 +826,28 @@ concetti: L'origine dei terremoti; Ipocentro ed epicentro; Le faglie; Gli tsunam
 - Perché un forte terremoto sotto il mare può generare uno tsunami?
 - Sei in spiaggia, senti una forte scossa e vedi il mare ritirarsi all'improvviso. Che cosa conviene fare?
 - Spiega con un esempio della vita quotidiana come si accumula e si libera l'energia di un terremoto.
+
+## Quanti anni ha questa roccia? [lib-3-media-scienze-datazione-relativa-assoluta] · ISOTOPO
+concetti: La datazione relativa; Tagli e intrusioni; La datazione assoluta; Il carbonio-14
+- In una serie di strati mai disturbati, quale strato è il più antico?
+- La datazione relativa dice quale roccia è più vecchia, ma non quanti anni ha.
+- Un filone di roccia magmatica attraversa tre strati sedimentari. Che cosa puoi concludere?
+- Il tempo necessario perché metà degli atomi radioattivi di un campione decada si chiama tempo di ___.
+- Quale di questi oggetti potresti datare con il carbonio-14?
+- Il carbonio-14 ha un tempo di dimezzamento di circa 5730 anni. Un legno antico contiene un quarto del carboni…
+- Ordina quanti atomi radioattivi restano di un campione di 800, dopo ogni tempo di dimezzamento.
+- Perché per datare una roccia vulcanica di milioni di anni non si usa il carbonio-14 ma altri isotopi?
+
+## Razzi e satelliti in orbita [lib-3-media-scienze-razzi-satelliti-artificiali] · RAZZO
+concetti: Azione e reazione; Mettersi in orbita; I satelliti artificiali; L'orbita geostazionaria; I detriti spaziali
+- Come si chiamava il primo satellite artificiale, lanciato nel 1957?
+- Un razzo può funzionare anche nel vuoto dello spazio, dove non c'è aria su cui spingere.
+- Un razzo sale perché…
+- Un satellite che compie un giro in 24 ore sopra l'equatore e sembra fermo nel cielo si trova in orbita ___.
+- Quale servizio della tua vita quotidiana funziona grazie ai satelliti?
+- Se un satellite in orbita bassa rallentasse molto, che cosa succederebbe?
+- Perché i detriti spaziali sono un problema?
+- Perché le antenne paraboliche della TV satellitare restano sempre puntate nello stesso punto del cielo, senza…
 
 ## Riflessi e pilota automatico [lib-3-media-scienze-riflessi-sistema-autonomo] · NERVO
 concetti: Il sistema nervoso periferico; L'arco riflesso; Volontario e autonomo; Simpatico e parasimpatico
@@ -497,6 +882,17 @@ concetti: L'origine dal magma; Le rocce intrusive; Le rocce effusive; Gli usi
 - Perché la pomice si usa per levigare la pelle dei piedi?
 - Dallo stesso magma si formano due rocce: una in profondità e una da una colata di lava. In che cosa saranno d…
 
+## Sostanze che ingannano il cervello [lib-3-media-scienze-sostanze-dipendenza] · FUMO
+concetti: Le sostanze psicoattive; La dipendenza; Il fumo; L'alcol; Scegliere la salute
+- Quale sostanza contenuta nel tabacco crea dipendenza?
+- L'alcol rende i riflessi più pronti e la guida più sicura.
+- Quando il corpo si abitua a una sostanza e ne serve sempre di più per avere lo stesso effetto si parla di ___.
+- Dove agiscono le sostanze psicoattive come nicotina e alcol?
+- Il monossido di carbonio del fumo di sigaretta è dannoso perché…
+- Perché per gli adolescenti l'alcol è particolarmente dannoso?
+- Un amico ti offre una sigaretta 'solo per provare'. Quale risposta protegge di più la tua salute?
+- Spiega perché molte persone che fumano vorrebbero smettere ma trovano molto difficile farlo.
+
 ## Strato dopo strato [lib-3-media-scienze-rocce-sedimentarie] · STRATO
 concetti: Come si formano; Le rocce clastiche; Le rocce organogene; Le rocce chimiche; Strati e fossili
 - Da cosa è formata l'arenaria?
@@ -507,6 +903,17 @@ concetti: Come si formano; Le rocce clastiche; Le rocce organogene; Le rocce chi
 - Metti in ordine le fasi che portano alla formazione di una roccia sedimentaria.
 - Il conglomerato contiene ciottoli arrotondati. Che cosa li ha arrotondati?
 - Perché le rocce sedimentarie sono preziose per chi studia la storia della vita sulla Terra?
+
+## Terra al centro o Sole? [lib-3-media-scienze-geocentrismo-eliocentrismo] · TOLOMEO
+concetti: Il modello geocentrico; Il modello eliocentrico; Il moto retrogrado; Il moto apparente
+- Nel modello geocentrico, che cosa si trova al centro dell'universo?
+- Nel 1543 Niccolò ___ propose che fosse il Sole, e non la Terra, a stare al centro.
+- Il Sole sembra muoversi nel cielo da est a ovest perché la Terra ruota su se stessa.
+- Perché per secoli quasi tutti accettarono il modello geocentrico?
+- A volte Marte sembra tornare indietro nel cielo per alcune settimane. Come lo spiega il modello eliocentrico?
+- Ordina in ordine cronologico questi scienziati.
+- Oltre alla posizione del Sole, che cosa cambia nel modello di Copernico rispetto a quello di Tolomeo?
+- Spiega perché il modello eliocentrico è considerato migliore di quello geocentrico, anche se entrambi cercano…
 
 ## Terremoto: che cosa fare? [lib-3-media-scienze-prevenzione-sismica] · SCOSSA
 concetti: Il rischio sismico; Prevedere e prevenire; Durante la scossa; Dopo la scossa
@@ -519,6 +926,28 @@ concetti: Il rischio sismico; Prevedere e prevenire; Durante la scossa; Dopo la 
 - Il rischio sismico di una zona non dipende solo da quanto sono frequenti i terremoti. Da che cos'altro dipend…
 - Se non si possono prevedere i terremoti, come si possono ridurre i danni? Fai almeno due esempi.
 
+## Tesori nascosti nel sottosuolo [lib-3-media-scienze-risorse-minerarie-giacimenti] · MINIERA
+concetti: I giacimenti; I minerali metallici; Cave e miniere; Risorse non rinnovabili; L'impatto ambientale
+- Che cos'è un giacimento?
+- Dalla bauxite si ricava soprattutto l'___.
+- Da quale minerale si ricava il ferro?
+- Il marmo di Carrara si estrae da cave a cielo aperto.
+- Perché i minerali metallici sono considerati risorse non rinnovabili?
+- Quale problema ambientale può causare una miniera?
+- Riciclare una lattina di alluminio invece di produrne una nuova dalla bauxite…
+- Il tuo vecchio smartphone contiene metalli preziosi. Perché è importante portarlo in un centro di raccolta in…
+
+## Uno o due genitori? [lib-3-media-scienze-riproduzione-asessuata-sessuata] · TALEA
+concetti: La riproduzione asessuata; Esempi di asessuata; La riproduzione sessuata; Vantaggi e svantaggi
+- Nella riproduzione asessuata quanti genitori servono?
+- Un rametto di geranio messo nella terra che mette radici e diventa una nuova pianta si chiama ___.
+- I figli nati per riproduzione asessuata sono geneticamente identici al genitore.
+- Come si riproducono di solito i batteri?
+- Le fragole producono lunghi fusti striscianti che mettono radici e formano nuove piantine. Come si chiamano?
+- Perché due fratelli nati dagli stessi genitori, ma non gemelli, sono diversi?
+- Se l'ambiente cambia all'improvviso, per esempio arriva una nuova malattia, quale riproduzione dà più possibi…
+- Un agricoltore ha un melo con frutti buonissimi. Perché preferisce moltiplicarlo per talea o innesto invece d…
+
 ## Viaggio al centro della Terra [lib-3-media-scienze-struttura-interna-terra] · NUCLEO
 concetti: La crosta; Il mantello; Il nucleo; Litosfera e astenosfera
 - Di che cosa è fatto principalmente il nucleo terrestre?
@@ -529,6 +958,17 @@ concetti: La crosta; Il mantello; Il nucleo; Litosfera e astenosfera
 - Perché si dice che l'astenosfera è «plastica»?
 - Nessuno ha mai scavato fino al mantello. Perché?
 - Il nucleo interno è più caldo di quello esterno, eppure è solido. Prova a spiegare perché.
+
+## Vivere accanto a un vulcano [lib-3-media-scienze-rischio-vulcanico-prevenzione] · ALLERTA
+concetti: Che cos'è il rischio; Sorvegliare i vulcani; Zona rossa e allerta; Comportamenti corretti
+- Perché il Vesuvio è considerato uno dei vulcani più a rischio al mondo?
+- Oggi i vulcanologi possono prevedere il giorno e l'ora esatti di un'eruzione.
+- Quale di questi segnali può indicare che il magma sta risalendo?
+- Nel piano di emergenza del Vesuvio, l'area da evacuare prima di un'eruzione si chiama zona ___.
+- Ordina i livelli di allerta dei vulcani italiani dal più basso al più alto.
+- Due vulcani sono ugualmente pericolosi, ma uno è in un deserto e l'altro accanto a una città. Quale presenta …
+- Durante una caduta di cenere vulcanica, che cosa è giusto fare?
+- Spiega perché evacuare la zona rossa prima dell'eruzione è più sicuro che aspettare di vederla iniziare.
 
 ## Wegener e la Pangea [lib-3-media-scienze-deriva-dei-continenti] · PANGEA
 concetti: La teoria di Wegener; Le prove geografiche; Le prove fossili e geologiche; Le prove climatiche; Una teoria contestata

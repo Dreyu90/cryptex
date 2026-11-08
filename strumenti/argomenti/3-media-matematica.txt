@@ -1,6 +1,17 @@
-# 3ª media · Matematica: 51 missioni valide
-# ultima bozza numerata: 05 · aggiornato 2026-11-08 18:57
+# 3ª media · Matematica: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## A metà strada nel piano [lib-3-media-matematica-punto-medio-segmento] · MEZZO
+concetti: Formula del punto medio; Coordinate negative; Trovare un estremo; Punto medio e figure
+- Qual è il punto medio del segmento con estremi A(1; 3) e B(9; 7)?
+- L'ascissa del punto medio di un segmento è la media delle ascisse dei suoi estremi.
+- Qual è il punto medio del segmento con estremi A(-3; 5) e B(7; -1)?
+- Il punto medio del segmento con estremi A(-6; 0) e B(6; 0) è ___.
+- M(4; 1) è il punto medio di AB e A ha coordinate (1; -2). Quali sono le coordinate di B?
+- Il parallelogramma ABCD ha vertici A(0; 0), B(6; 0), C(8; 4) e D(2; 4). In quale punto si incontrano le diago…
+- Il centro di una circonferenza è C(2; 3) e un estremo di un diametro è P(5; 7). Dove si trova l'altro estremo…
+- Spiega perché, per trovare il punto medio, si fa la media delle coordinate e non la loro differenza.
 
 ## Alla radice del problema [lib-3-media-matematica-radici-quadrate] · RADICE
 concetti: Radice quadrata; Quadrati perfetti; Stime e approssimazioni; Proprietà delle radici; Radice cubica
@@ -35,6 +46,61 @@ concetti: Angolo al centro; Angolo alla circonferenza; Il doppio e la metà; Tri
 - In una circonferenza il diametro AB misura 10 cm e il punto C della circonferenza dista 6 cm da A. Quanto mis…
 - In una circonferenza di centro O l'angolo alla circonferenza ACB misura 50°. Quanto misura l'angolo al centro…
 
+## Aree con le coordinate [lib-3-media-matematica-aree-piano-cartesiano] · AREA
+concetti: Lati paralleli agli assi; Area del rettangolo; Area del triangolo; Scomporre le figure
+- Quanto è lungo il segmento con estremi A(2; 3) e B(9; 3)?
+- Il segmento con estremi (-4; 1) e (3; 1) è lungo 1.
+- Qual è l'area del rettangolo con vertici (-2; -1), (4; -1), (4; 3) e (-2; 3)?
+- Qual è l'area del triangolo con vertici A(0; 0), B(8; 0) e C(3; 5)?
+- Nel triangolo con vertici (-2; 0), (4; 0) e (1; 6), l'altezza relativa alla base sull'asse x è lunga ___.
+- Qual è l'area del triangolo con vertici (-2; 0), (4; 0) e (1; 6)?
+- Il triangolo con vertici (0; 0), (4; 1) e (1; 3) sta dentro un rettangolo 4 × 3 con lati paralleli agli assi.…
+- Come calcoli l'area del quadrilatero con vertici (0; 0), (6; 0), (4; 3) e (0; 3)? Quanto vale?
+
+## Arrotondare senza sbagliare [lib-3-media-matematica-approssimazioni-arrotondamenti] · STIMA
+concetti: Arrotondamento; Troncamento; Per eccesso o per difetto; Stime veloci
+- Arrotonda 3,476 ai centesimi.
+- Troncando 7,89 ai decimi si ottiene 7,8.
+- Arrotondando 12,5 all'unità si ottiene ___.
+- Devi trasportare 130 persone con pullman da 50 posti. Quanti pullman servono?
+- Con 20 € vuoi comprare quaderni da 3 € l'uno. Quanti ne puoi comprare al massimo?
+- Stima veloce: 49 · 21 è circa...
+- √2 = 1,41421... Quanto vale arrotondato ai millesimi?
+- Perché nei problemi reali a volte si approssima per eccesso e altre volte per difetto? Fai un esempio per cia…
+
+## Bersagli e ruote della fortuna [lib-3-media-matematica-probabilita-geometrica] · FRECCIA
+concetti: Probabilità e aree; La ruota a settori; Bersagli circolari; Giochi equi
+- Una ruota è divisa in 4 settori uguali e uno solo è rosso: la probabilità che si fermi sul rosso è 1/4.
+- Una ruota ha un settore blu di 90° e il resto è giallo. Qual è la probabilità che si fermi sul giallo?
+- Lanciando a caso una freccetta su un quadrato, la probabilità di colpire una zona è il rapporto tra l'area de…
+- Un quadrato di lato 10 cm contiene un quadrato colorato di lato 5 cm. Se la freccetta cade a caso nel quadrat…
+- Un bersaglio è un cerchio di raggio 10 cm con un centro rosso di raggio 2 cm. Se la freccia colpisce a caso i…
+- Una ruota ha un settore rosso di 180°, uno verde di 120° e uno blu di 60°. Qual è la probabilità di fermarsi …
+- Un bersaglio circolare di raggio 6 cm ha un anello esterno compreso tra il raggio 3 cm e il raggio 6 cm. Qual…
+- Anna vince se la ruota si ferma su un settore rosso di 120°, Bruno se si ferma sul resto. Il gioco è equo? Co…
+
+## Che tipo di dato è? [lib-3-media-matematica-caratteri-statistici] · DATO
+concetti: Popolazione e unità; Qualitativi e quantitativi; Discreti e continui; Modalità e valori medi
+- In un'indagine sugli studenti di una scuola, ogni singolo studente intervistato è un'___ statistica.
+- Quale di questi caratteri è qualitativo?
+- Il numero di fratelli è un carattere quantitativo discreto.
+- Quale di questi caratteri è quantitativo continuo?
+- Come si chiamano i diversi valori che un carattere può assumere, per esempio «calcio», «nuoto», «basket»?
+- Per il carattere «sport preferito», quale valore medio puoi calcolare?
+- Per conoscere le abitudini di tutti gli abitanti di una città si intervistano solo 500 persone. Quelle 500 pe…
+- Perché per il carattere «colore degli occhi» non ha senso calcolare la media aritmetica?
+
+## Che voto mi serve? [lib-3-media-matematica-media-valore-mancante] · PAGELLA
+concetti: Media e somma totale; Il valore mancante; Un valore in più; Valori anomali
+- Se la media di 4 voti è 7, la somma dei 4 voti è 28.
+- Hai preso 6, 7 e 8. Che voto ti serve nella quarta verifica per avere la media 7,5?
+- La media di 5 numeri è 12: la loro somma è ___.
+- La media di 4 numeri è 10. Se aggiungi il numero 20, la nuova media è...
+- Una squadra ha segnato in media 18 punti in 5 partite. Nelle prime 4 ha fatto 15, 20, 17 e 22 punti. Quanti p…
+- I dati 3, 4, 4, 5, 6 hanno media 4,4 e mediana 4. Se il 6 viene sostituito da 60, che cosa succede?
+- In una classe di 20 alunni l'altezza media è 160 cm. Arriva un nuovo alunno alto 160 cm. Cosa succede alla me…
+- Perché un solo valore molto grande o molto piccolo può cambiare tanto la media, ma poco la mediana?
+
 ## Cilindri, coni e sfere [lib-3-media-matematica-solidi-rotazione] · CONO
 concetti: Solidi di rotazione; Il cilindro; Il cono; La sfera
 - Quale solido ottieni facendo ruotare un rettangolo attorno a uno dei suoi lati?
@@ -68,6 +134,39 @@ concetti: Assi e coordinate; I quattro quadranti; Distanza tra punti allineati; 
 - Un punto ha l'ascissa positiva e l'ordinata negativa. Se cambi il segno a entrambe le coordinate, in quale qu…
 - I punti A(0; 0), B(6; 0) e C(0; 4) sono i vertici di un triangolo. Calcola la sua area e spiega perché qui è …
 
+## Corde e distanza dal centro [lib-3-media-matematica-corde-circonferenza] · CORDA
+concetti: Corda e diametro; La perpendicolare dal centro; Pitagora nella circonferenza; Corde e distanze
+- Il segmento che unisce due punti qualsiasi di una circonferenza si chiama ___.
+- La perpendicolare condotta dal centro a una corda la divide in due parti uguali.
+- In una circonferenza di raggio 10 cm una corda è lunga 16 cm. A che distanza si trova dal centro?
+- In una circonferenza di raggio 13 cm una corda dista 5 cm dal centro. Quanto è lunga la corda?
+- In una circonferenza due corde sono lunghe entrambe 10 cm. Che cosa puoi dire delle loro distanze dal centro?
+- In una stessa circonferenza, più una corda è vicina al centro...
+- In un cerchio di raggio 50 cm una corda dista 30 cm dal centro. Quanto è lunga la corda?
+- Come puoi trovare il centro di un piatto rotondo disegnando due corde?
+
+## Cubi, spigoli e radici cubiche [lib-3-media-matematica-cubo-spigolo-volume] · CUBETTO
+concetti: Volume del cubo; Dal volume allo spigolo; Superficie del cubo; Spigolo che cresce
+- Un cubo di Rubik ha lo spigolo di circa 6 cm. Qual è il suo volume?
+- La superficie totale di un cubo è formata da 6 quadrati uguali.
+- Un cubo ha volume 125 cm³. Quanto misura lo spigolo?
+- Un cubo con lo spigolo di 3 cm ha superficie totale ___.
+- Quanti cubetti con lo spigolo di 2 cm servono per costruire un cubo pieno con lo spigolo di 6 cm?
+- Un cubo ha superficie totale di 150 cm². Qual è il suo volume?
+- Se lo spigolo di un cubo triplica, la sua superficie totale diventa...
+- Perché un cubo di ghiaccio grande si scioglie più lentamente di tanti cubetti piccoli con lo stesso volume to…
+
+## Da km/h a m/s [lib-3-media-matematica-velocita-conversioni] · VELOCE
+concetti: Velocità media; Da km/h a m/s; Da m/s a km/h; Confrontare velocità
+- Una runner percorre 21 km in 1 ora e 45 minuti. Qual è la sua velocità media?
+- Per passare da km/h a m/s si divide per ___.
+- A quanti m/s corrispondono 72 km/h?
+- 1 m/s è uguale a 3,6 km/h.
+- Un velocista corre a 10 m/s. A quanti km/h corrisponde?
+- Chi è più veloce: un ghepardo a 30 m/s o un'auto a 100 km/h?
+- Una persona cammina 1,2 km in 15 minuti. Qual è la sua velocità media in km/h?
+- Spiega da dove viene il numero 3,6 nella conversione tra km/h e m/s.
+
 ## Dai naturali ai reali [lib-3-media-matematica-insiemi-numerici] · REALE
 concetti: N, Z e Q; Decimali e frazioni; Numeri irrazionali; L'insieme R
 - Qual è il più piccolo insieme numerico che contiene il numero −7?
@@ -79,6 +178,28 @@ concetti: N, Z e Q; Decimali e frazioni; Numeri irrazionali; L'insieme R
 - Il lato di un quadrato misura 1 m. Che tipo di numero è la misura della sua diagonale in metri?
 - Spiega perché l'insieme R dei numeri reali è più ampio di Q: fai un esempio di numero che sta in R ma non in …
 
+## Dalle parole alle formule [lib-3-media-matematica-linguaggio-algebrico] · FORMULA
+concetti: Tradurre le operazioni; Doppio, triplo e metà; Pari, dispari e multipli; L'ordine delle parole
+- Come si scrive «il doppio della somma di un numero e 3»?
+- Come si scrive «la metà di un numero aumentata di 7»?
+- «Il quadrato della somma di a e b» si scrive a² + b².
+- Se n è un numero naturale, quale espressione dà sempre un numero dispari?
+- «La somma dei quadrati di a e b» si scrive ___.
+- Come si scrive «il prodotto di un numero per il suo successivo»?
+- Se n è naturale, qual è il numero pari che viene subito dopo 2n?
+- Traduci in parole 2(a - b) e spiega perché è diverso da 2a - b.
+
+## Decimali che si ripetono [lib-3-media-matematica-numeri-decimali-periodici] · PERIODO
+concetti: Decimali limitati e periodici; Periodo e antiperiodo; Generatrice del periodico semplice; Generatrice del periodico misto
+- Quale di queste frazioni dà un numero decimale limitato?
+- Nel numero 2,3777... l'antiperiodo è 3.
+- Nel numero 0,4545... il gruppo di cifre 45, che si ripete all'infinito, si chiama ___.
+- Qual è la frazione generatrice di 0,666...?
+- Qual è la frazione generatrice di 1,2727...?
+- Qual è la frazione generatrice di 0,1666...?
+- Metti in ordine i passi per trovare la frazione generatrice di 2,3555...
+- Usando la frazione generatrice, spiega perché 0,999... è uguale a 1.
+
 ## Distanze in diagonale [lib-3-media-matematica-distanza-due-punti] · VOLO
 concetti: Differenze di coordinate; Formula della distanza; Perimetri nel piano; Distanza dall'origine
 - Dati A(1; 2) e B(4; 6), quanto misurano i cateti del triangolo rettangolo che ha AB come ipotenusa?
@@ -89,6 +210,17 @@ concetti: Differenze di coordinate; Formula della distanza; Perimetri nel piano;
 - Qual è il perimetro del triangolo con vertici A(0; 0), B(8; 0) e C(8; 6)?
 - Quale di questi punti si trova alla stessa distanza dall'origine del punto P(3; 4)?
 - Il quadrilatero ABCD ha i vertici A(0; 0), B(4; 3), C(4; 8) e D(0; 5). Calcola il suo perimetro e spiega che …
+
+## Dividere in parti giuste [lib-3-media-matematica-ripartizione-proporzionale] · QUOTA
+concetti: Ripartizione diretta; Ripartizione inversa; Parti in un rapporto; Applicazioni pratiche
+- Dividi 50 caramelle tra Anna e Bruno in rapporto 2 : 3. Quante ne riceve Bruno?
+- In una ripartizione direttamente proporzionale, a chi corrisponde il numero più grande spetta la parte più gr…
+- Tre amici versano 10 €, 20 € e 30 € per un biglietto della lotteria che vince 240 €. Quanto spetta a chi ha v…
+- In una ripartizione inversamente proporzionale, a un numero più grande corrisponde una parte più ___.
+- Dividi 90 in parti inversamente proporzionali a 2 e a 4. Quanto vale la parte che corrisponde a 2?
+- Due fratelli di 12 e 8 anni ricevono 100 € da dividere in proporzione all'età. Quanto riceve il più piccolo?
+- Metti in ordine i passi per dividere 120 in parti direttamente proporzionali a 1, 2 e 3.
+- Fai un esempio di situazione in cui ha senso dividere un premio in modo inversamente proporzionale e spiega p…
 
 ## Dove si incontrano le rette [lib-3-media-matematica-intersezione-rette] · PUNTO
 concetti: Punto su una retta; Intersezioni con gli assi; Intersezione di due rette; Rette incidenti
@@ -134,6 +266,17 @@ concetti: Il denominatore comune; Eliminare i denominatori; Attenzione ai segni;
 - Un terzo dei ragazzi di una classe va a scuola in bici, un quarto in autobus e gli altri 10 a piedi. Quanti s…
 - Sara ha risolto l'equazione x/5 + 2 = x/3 e ha trovato x = 15. Verifica se la soluzione è corretta e spiega c…
 
+## Equazioni con le parentesi [lib-3-media-matematica-equazioni-parentesi] · PASSO
+concetti: Eliminare le parentesi; Il meno davanti alla parentesi; Prodotti notevoli nelle equazioni; Verifica della soluzione
+- Risolvi 3(x - 2) = 12.
+- Togliendo le parentesi, -(2x - 5) diventa -2x + 5.
+- Risolvi 10 - (x + 4) = 2.
+- Risolvi 2(x + 1) = 3(x - 2).
+- Nell'equazione (x + 3)² = x² + 15, dopo aver sviluppato il quadrato i termini in ___ si cancellano.
+- Risolvi (x + 3)² = x² + 15.
+- Metti in ordine i passi per risolvere 4(x - 1) = 2x + 6.
+- Come puoi verificare che x = 5 è davvero la soluzione di 4(x - 1) = 2x + 6?
+
 ## Formule al contrario [lib-3-media-matematica-formule-inverse] · INVERSA
 concetti: Che cos'è una formula; Ricavare una lettera; Formule della geometria; Formule della realtà
 - Un'auto percorre 180 km in 2 ore. Con la formula v = s/t, quanto vale la sua velocità media?
@@ -144,6 +287,28 @@ concetti: Che cos'è una formula; Ricavare una lettera; Formule della geometria;
 - Le mele costano 2,40 € al kg. Quanti kg puoi comprare con 6 €?
 - Un treno viaggia alla velocità media di 120 km/h. Quanto tempo impiega a percorrere 300 km?
 - Il volume di un parallelepipedo è V = a · b · c. Una scatola ha il volume di 1200 cm³ e la base di 15 cm per …
+
+## Frazioni con il segno [lib-3-media-matematica-frazioni-relative] · OPPOSTO
+concetti: Il segno di una frazione; Opposto e reciproco; Somme di frazioni relative; Prodotti e quozienti
+- La frazione -2/5 è uguale a 2/(-5).
+- Qual è il reciproco di -3/7?
+- Qual è l'opposto di -3/7?
+- Quanto fa -1/2 + 1/3?
+- Quanto fa (-2/3) · (9/4)?
+- (-4/5) : (-2/5) = ___
+- Quanto fa 3/4 - (-1/2)?
+- Che differenza c'è tra l'opposto e il reciproco di un numero? Fai un esempio con 2/3.
+
+## Funzioni: entra x, esce y [lib-3-media-matematica-funzioni-variabili] · LEGGE
+concetti: Variabile indipendente e dipendente; Un solo valore per ogni x; Calcolare f(x); Funzione da una tabella
+- Nella funzione y = 3x + 1, la lettera x è la variabile ___.
+- Se f(x) = 2x - 5, quanto vale f(4)?
+- La tabella con x = 1, 2, 2, 3 e y = 5, 6, 7, 8 rappresenta una funzione.
+- Se f(x) = x² + 1, quanto vale f(-3)?
+- Quale di queste corrispondenze è una funzione?
+- In una tabella, per x = 0, 1, 2, 3 si ha y = 1, 3, 5, 7. Qual è la legge della funzione?
+- Per quale valore di x la funzione f(x) = 4x - 2 vale 10?
+- Un ristorante calcola il conto con C = 15n, dove n è il numero di persone. Qual è la variabile indipendente e…
 
 ## Geometria con l'incognita [lib-3-media-matematica-problemi-geometrici-equazioni] · LATO
 concetti: Perimetri e incognita; Angoli dei triangoli; Angoli complementari e supplementari; Aree e incognita
@@ -156,6 +321,28 @@ concetti: Perimetri e incognita; Angoli dei triangoli; Angoli complementari e su
 - Un rettangolo ha l'altezza di 8 cm. Se la base aumenta di 3 cm, l'area diventa 96 cm². Quanto misura la base …
 - Un quadrato e un rettangolo hanno lo stesso perimetro. Il rettangolo ha i lati di 10 cm e 6 cm. Trova il lato…
 
+## Gli angoli delle squadrette [lib-3-media-matematica-triangoli-speciali] · ANGOLO
+concetti: Diagonale del quadrato; Triangolo rettangolo isoscele; Altezza del triangolo equilatero; Triangolo con angoli di 30° e 60°
+- Quanto misura la diagonale di un quadrato con il lato di 7 cm?
+- In un triangolo rettangolo con angoli di 30° e 60°, il cateto opposto all'angolo di 30° è metà dell'ipotenusa.
+- In un triangolo rettangolo isoscele gli angoli acuti misurano ___ ciascuno.
+- Quanto misura l'altezza di un triangolo equilatero con il lato di 10 cm?
+- L'ipotenusa di un triangolo rettangolo isoscele misura 8√2 cm. Quanto misura ciascun cateto?
+- In un triangolo con angoli di 30°, 60° e 90° l'ipotenusa misura 12 cm. Quanto misura il cateto opposto all'an…
+- La diagonale di un quadrato misura 12 cm. Quanto misura il lato?
+- Perché tracciando l'altezza di un triangolo equilatero si ottengono due triangoli con angoli di 30°, 60° e 90…
+
+## Grafici a linee e andamenti [lib-3-media-matematica-diagrammi-cartesiani-andamento] · LINEA
+concetti: Il diagramma cartesiano; Crescita, calo e stabilità; Variazioni ed escursione; Scegliere il grafico giusto
+- Un grafico che unisce con segmenti i punti dei dati raccolti nel tempo si chiama diagramma cartesiano o grafi…
+- Temperature di un giorno: ore 6: 8 °C; ore 9: 12 °C; ore 12: 18 °C; ore 15: 20 °C; ore 18: 15 °C; ore 21: 10 …
+- Con gli stessi dati (ore 9: 12 °C, ore 12: 18 °C), tra le 9 e le 12 la temperatura aumenta di 6 °C.
+- Con le temperature 8, 12, 18, 20, 15 e 10 °C alle ore 6, 9, 12, 15, 18 e 21, in quale intervallo la temperatu…
+- Con le stesse temperature (8, 12, 18, 20, 15, 10 °C alle ore 6, 9, 12, 15, 18, 21), qual è la temperatura mas…
+- Con le stesse temperature, qual è l'escursione termica della giornata?
+- Quale grafico è più adatto per mostrare come cambia il peso di un neonato mese dopo mese?
+- Perché per mostrare l'andamento della temperatura in una giornata si usa un grafico a linee e non un aerogram…
+
 ## Grafici che raccontano storie [lib-3-media-matematica-leggere-grafici-funzioni] · GRAFICO
 concetti: Che cos'è una funzione; Funzioni empiriche e matematiche; Leggere un grafico; Grafico spazio-tempo
 - Quale di questi è un esempio di funzione empirica?
@@ -167,6 +354,28 @@ concetti: Che cos'è una funzione; Funzioni empiriche e matematiche; Leggere un 
 - Luca va a scuola: prima cammina, poi si ferma all'edicola, infine corre perché è in ritardo. Metti in ordine …
 - Il grafico dell'altezza di una pianta nel tempo sale velocemente nelle prime settimane e poi diventa quasi or…
 
+## I cinque solidi di Platone [lib-3-media-matematica-poliedri-platone] · PLATONE
+concetti: Poliedri regolari; I cinque solidi; Relazione di Eulero; Perché solo cinque
+- Il poliedro regolare con 6 facce quadrate è il ___.
+- Esistono esattamente cinque poliedri regolari.
+- Quante facce ha un ottaedro?
+- Un dodecaedro ha 12 facce e 20 vertici. Quanti spigoli ha?
+- Quale di questi solidi NON è un poliedro regolare?
+- Perché non esiste un poliedro regolare con facce esagonali?
+- Per un tetraedro (4 facce, 4 vertici, 6 spigoli), quanto vale F + V - S?
+- Perché con i triangoli equilateri si possono costruire tre poliedri regolari diversi, mentre con i quadrati u…
+
+## I teoremi di Euclide [lib-3-media-matematica-teoremi-euclide] · EUCLIDE
+concetti: Le proiezioni dei cateti; Primo teorema di Euclide; Secondo teorema di Euclide; Usare i teoremi
+- In un triangolo rettangolo, l'altezza relativa all'ipotenusa la divide in due segmenti chiamati ___ dei catet…
+- Per il primo teorema di Euclide, il quadrato costruito su un cateto è equivalente al rettangolo che ha per la…
+- Le proiezioni dei cateti sull'ipotenusa misurano 4 cm e 9 cm. Quanto misura l'altezza relativa all'ipotenusa?
+- L'ipotenusa misura 25 cm e la proiezione di un cateto 9 cm. Quanto misura quel cateto?
+- Un cateto misura 12 cm e l'ipotenusa 16 cm. Quanto misura la proiezione di quel cateto sull'ipotenusa?
+- L'altezza relativa all'ipotenusa misura 12 cm e una proiezione 9 cm. Quanto misura l'ipotenusa?
+- L'ipotenusa misura 10 cm e la proiezione di un cateto 3,6 cm. Quanto misura quel cateto?
+- Un cateto misura 6 cm e l'ipotenusa 10 cm. Spiega come trovi l'altezza relativa all'ipotenusa.
+
 ## Identità o equazione? [lib-3-media-matematica-identita-equazioni] · SEMPRE
 concetti: Identità; Equazione determinata; Equazione impossibile; Equazione indeterminata
 - Quale di queste uguaglianze è un'identità?
@@ -177,6 +386,28 @@ concetti: Identità; Equazione determinata; Equazione impossibile; Equazione ind
 - Come è l'equazione 3(x − 1) + x = 4x − 3?
 - Per quale valore di x è vera l'uguaglianza 4(x − 2) = 2(x + 3)?
 - Marta dice che x + x + x = 3x e x + 2 = x + 5 sono due equazioni come tutte le altre. Spiega che tipo di ugua…
+
+## Il cono vale un terzo [lib-3-media-matematica-volume-cono] · IMBUTO
+concetti: Volume del cono; Cono e cilindro; Altezza e apotema; Coni nella realtà
+- Un cono ha un volume pari a un terzo di quello del cilindro con la stessa base e la stessa altezza.
+- Un cono ha raggio 3 cm e altezza 4 cm. Qual è il suo volume?
+- Per riempire un cilindro usando un cono con la stessa base e la stessa altezza servono ___ coni pieni d'acqua.
+- Un cono ha raggio 6 cm e apotema 10 cm. Quanto misura l'altezza?
+- Qual è il volume del cono con raggio 6 cm e apotema 10 cm (altezza 8 cm)?
+- Un cono gelato ha raggio 3 cm e altezza 10 cm. Quanto gelato contiene al massimo, senza la pallina sopra (π ≈…
+- Un cono e un cilindro hanno la stessa base. Il cono è alto 12 cm. Quanto deve essere alto il cilindro per ave…
+- Se raddoppi l'altezza di un cono lasciando uguale la base, cosa succede al volume? E se invece raddoppi il ra…
+
+## Il gioco delle proporzioni [lib-3-media-matematica-proporzioni] · MEDIO
+concetti: Termini di una proporzione; Proprietà fondamentale; Termine incognito; Medio proporzionale
+- Nella proporzione 3 : 6 = 5 : 10, i numeri 6 e 5 si chiamano ___.
+- 4 : 10 = 6 : 15 è una proporzione.
+- Trova x nella proporzione x : 12 = 5 : 4.
+- Quale di queste uguaglianze è una proporzione?
+- Trova il medio proporzionale x in 4 : x = x : 9.
+- Per 3 torte servono 450 g di farina. Quanta farina serve per 5 torte uguali?
+- In una proporzione il prodotto dei medi è 84. Quanto vale il prodotto degli estremi?
+- Come puoi controllare se 7 : 21 = 3 : 9 è una proporzione? Spiega il procedimento.
 
 ## Il mistero del pi greco [lib-3-media-matematica-circonferenza-cerchio] · RAGGIO
 concetti: Elementi della circonferenza; Lunghezza della circonferenza; Area del cerchio; Archi e settori circolari
@@ -200,6 +431,17 @@ concetti: Potenza e suoi elementi; Prodotto e quoziente; Potenza di potenza; Esp
 - Calcola 4³ · 25³ nel modo più furbo.
 - Giulia dice: '2⁻³ è un numero negativo, perché c'è il segno meno'. Ha ragione? Spiega che cosa significa l'es…
 
+## Il principio di Cavalieri [lib-3-media-matematica-principio-cavalieri] · SEZIONE
+concetti: Solidi equivalenti; Il principio di Cavalieri; Prisma retto e obliquo; La pila di monete
+- Due solidi che hanno lo stesso volume si dicono ___.
+- Due solidi equivalenti devono avere per forza la stessa forma.
+- Per il principio di Cavalieri, due solidi con la stessa altezza hanno lo stesso volume se, tagliati alla stes…
+- Una pila di 20 monete uguali, prima dritta e poi inclinata, ha...
+- Un prisma obliquo ha base di 12 cm² e altezza (distanza tra le basi) di 5 cm. Qual è il suo volume?
+- Un prisma retto e uno obliquo hanno la stessa base di 20 cm² e la stessa altezza di 9 cm. Il prisma retto ha …
+- Quale solido è equivalente a un cubo con lo spigolo di 4 cm?
+- Spiega con il principio di Cavalieri perché un mazzo di carte spinto di lato, in modo che diventi «storto», h…
+
 ## Il segreto di Pitagora [lib-3-media-pitagora] · CATETO
 concetti: Il triangolo rettangolo; L'enunciato del teorema; Calcolare l'ipotenusa; Calcolare un cateto; Terne pitagoriche e applicazioni
 - Un triangolo rettangolo ha i lati lunghi 7 cm, 24 cm e 25 cm. Quale lato è l'ipotenusa?
@@ -210,6 +452,28 @@ concetti: Il triangolo rettangolo; L'enunciato del teorema; Calcolare l'ipotenus
 - Una scala lunga 5 m è appoggiata a un muro e il suo piede è a 3 m dalla base del muro. A che altezza arriva l…
 - Quale di questi gruppi di misure può essere quello dei lati di un triangolo rettangolo?
 - Un muratore vuole controllare che l'angolo tra due muri sia proprio retto. Segna un punto a 3 m dall'angolo s…
+
+## Il volume delle piramidi [lib-3-media-matematica-volume-piramide] · FARAONE
+concetti: Volume della piramide; Piramide e prisma; Piramide a base quadrata; Formula inversa
+- Il volume di una piramide è uguale all'area di base per l'altezza diviso ___.
+- Se una piramide e un prisma hanno la stessa base e lo stesso volume, la piramide è alta il triplo del prisma.
+- Una piramide a base quadrata ha il lato di base di 5 cm e l'altezza di 12 cm. Qual è il suo volume?
+- Una piramide ha base triangolare di area 15 cm² e altezza 8 cm. Qual è il suo volume?
+- Una piramide ha volume 200 cm³ e area di base 50 cm². Quanto è alta?
+- Da un cubo di legno con lo spigolo di 6 cm si ricava una piramide con la stessa base e la stessa altezza del …
+- Una piramide a base quadrata ha il lato di base di 9 cm e l'apotema di 7,5 cm. Qual è il suo volume?
+- Due piramidi hanno la stessa base, ma la prima è alta il doppio della seconda. Come sono i loro volumi? Spieg…
+
+## Ingrandire con l'omotetia [lib-3-media-matematica-omotetia] · ZOOM
+concetti: Centro e rapporto; Ingrandimento e riduzione; Figure simili; Perimetri e aree
+- In un'omotetia, il numero che indica di quanto si moltiplicano le distanze dal centro si chiama ___ di omotet…
+- Un'omotetia con rapporto 3 ingrandisce la figura.
+- In un'omotetia di rapporto 1/2, un segmento lungo 10 cm diventa lungo...
+- Un triangolo e la sua immagine in un'omotetia di rapporto 2 hanno...
+- Un quadrato con il perimetro di 12 cm subisce un'omotetia di rapporto 2. Qual è il nuovo perimetro?
+- Un rettangolo con l'area di 6 cm² subisce un'omotetia di rapporto 3. Qual è la nuova area?
+- Nel piano cartesiano un'omotetia ha centro nell'origine e rapporto 2. Dove va il punto P(3; -1)?
+- Un proiettore ingrandisce una foto con rapporto 4. Perché l'area dell'immagine non diventa 4 volte più grande…
 
 ## La bilancia delle equazioni [lib-3-media-matematica-equazioni] · UGUALE
 concetti: Equazione e soluzione; Principi di equivalenza; Risolvere passo per passo; Problemi con equazioni
@@ -233,6 +497,17 @@ concetti: Proporzionalità quadratica; Il grafico: la parabola; Il ruolo di a; E
 - Un sasso lasciato cadere percorre circa s = 5t² metri dopo t secondi. Quanti metri percorre circa in 3 second…
 - Calcola i valori di y = x² per x = −2, −1, 0, 1, 2 e spiega perché il grafico è simmetrico rispetto all'asse …
 
+## La curva della proporzionalità inversa [lib-3-media-matematica-iperbole-proporzionalita-inversa] · TEMPO
+concetti: Prodotto costante; L'iperbole equilatera; Tabelle di valori; Esempi nella realtà
+- Se due grandezze sono inversamente proporzionali, il loro prodotto è costante.
+- x e y sono inversamente proporzionali e x · y = 24. Quanto vale y quando x = 6?
+- Se x e y sono inversamente proporzionali e x raddoppia, y diventa ___.
+- Per dipingere una recinzione 3 operai impiegano 8 giorni. Quanti giorni servono a 6 operai che lavorano allo …
+- In una tabella di proporzionalità inversa, per x = 1, 2, 4, 8 i valori di y sono 16, 8, 4 e ... Quale numero …
+- Per x positivo, cosa fa il grafico di y = 12/x quando x diventa molto grande?
+- Un viaggio dura 3 ore a 80 km/h. Quanto dura alla velocità di 120 km/h?
+- Perché il grafico di y = 12/x non passa mai per l'origine e non tocca gli assi?
+
 ## La diagonale nascosta [lib-3-media-matematica-diagonale-parallelepipedo] · SCATOLA
 concetti: Diagonale di una faccia; Diagonale del parallelepipedo; Diagonale del cubo; Problemi pratici
 - Una faccia di una scatola è un rettangolo di 6 cm per 8 cm. Quanto misura la sua diagonale?
@@ -255,6 +530,61 @@ concetti: Coefficiente angolare; Il segno di m; Pendenza tra due punti; Rette pa
 - Una strada sale di 12 m mentre avanza di 100 m in orizzontale. Qual è la sua pendenza?
 - Le rette y = 3x + 2 e y = 3x − 4 si incontrano? Spiega usando il coefficiente angolare e controlla la tua ris…
 
+## La retta per due punti [lib-3-media-matematica-retta-due-punti] · COPPIA
+concetti: Una sola retta; Coefficiente angolare da due punti; L'ordinata all'origine; Verificare l'equazione
+- Per due punti distinti passa una e una sola retta.
+- In quale punto la retta y = 2x + 5 taglia l'asse y?
+- Qual è il coefficiente angolare della retta che passa per A(1; 3) e B(3; 7)?
+- Qual è l'equazione della retta che passa per A(1; 3) e B(3; 7)?
+- La retta che passa per A(0; 6) e B(3; 0) ha coefficiente angolare ___.
+- Qual è l'equazione della retta che passa per A(0; 6) e B(3; 0)?
+- Metti in ordine i passi per scrivere l'equazione della retta che passa per P(2; 1) e Q(4; 5).
+- Come puoi controllare che la retta y = 2x - 3 passa davvero per Q(4; 5)?
+
+## La sfera di Archimede [lib-3-media-matematica-sfera-volume-superficie] · PALLA
+concetti: Superficie della sfera; Volume della sfera; Sfera e cilindro; Raggio e diametro
+- Qual è la superficie di una sfera con raggio 4 cm?
+- La superficie di una sfera è uguale a quattro volte l'area del suo cerchio massimo.
+- Qual è il volume di una sfera con raggio 3 cm?
+- Archimede scoprì che il volume di una sfera è i ___ del volume del cilindro che la contiene esattamente.
+- Un pallone da basket ha un diametro di circa 24 cm. Quanto misura la sua superficie, lasciando π nel risultat…
+- Se il raggio di una sfera si dimezza, la sua superficie diventa...
+- Un cilindro contiene esattamente una sfera e ha volume 54π cm³. Qual è il volume della sfera?
+- Un pallone ha diametro 20 cm. Spiega come calcoli quanto materiale serve per rivestirlo e quanta aria contien…
+
+## La somma di due dadi [lib-3-media-matematica-probabilita-somma-dadi] · SETTE
+concetti: I 36 casi possibili; Somme più probabili; Contare i casi favorevoli; Eventi particolari
+- Lanciando due dadi, quante coppie di risultati sono possibili?
+- Lanciando due dadi, la somma 7 è la più probabile.
+- Qual è la probabilità di ottenere somma 8 con due dadi?
+- Qual è la probabilità di ottenere somma 2 con due dadi?
+- Lanciando due dadi, la somma 10 si può ottenere in ___ modi.
+- Qual è la probabilità di fare un doppio, cioè due numeri uguali?
+- Qual è la probabilità che esca almeno un 6 lanciando due dadi?
+- Perché con due dadi la somma 7 è più probabile della somma 12?
+
+## Lattine e volume del cilindro [lib-3-media-matematica-volume-cilindro] · LATTINA
+concetti: Volume del cilindro; Volume e capacità; Cambiare raggio o altezza; Formule inverse
+- Il volume di un cilindro si calcola moltiplicando l'area di base per ___.
+- Un cilindro ha raggio 4 cm e altezza 5 cm. Qual è il suo volume?
+- Se raddoppi il raggio di un cilindro lasciando uguale l'altezza, il volume raddoppia.
+- Una pentola cilindrica ha raggio 10 cm e altezza 20 cm. Quanti litri contiene, circa (π ≈ 3,14)?
+- Se triplichi l'altezza di un cilindro lasciando uguale il raggio, il volume...
+- Un cilindro ha volume 100π cm³ e raggio 5 cm. Quanto è alto?
+- Un serbatoio cilindrico ha raggio 1 m e altezza 2 m. Quanti litri contiene (π ≈ 3,14)?
+- Due lattine hanno lo stesso volume: una è alta e stretta, l'altra bassa e larga. Com'è possibile? Spiega con …
+
+## Le funzioni nella scienza [lib-3-media-matematica-funzioni-scienze] · MOLLA
+concetti: La legge della molla; Celsius e Fahrenheit; Proporzionale o solo lineare; La pendenza come rapidità
+- Una molla si allunga di 2 cm per ogni 100 g appesi. Di quanto si allunga con 350 g?
+- Per questa molla, raddoppiando il peso appeso raddoppia anche l'allungamento.
+- Con la formula F = 1,8 · C + 32, a quanti gradi Fahrenheit corrispondono 20 °C?
+- La funzione F = 1,8 · C + 32 è lineare ma non di proporzionalità diretta, perché il suo grafico non passa per…
+- A quanti gradi Celsius corrispondono 212 °F?
+- Quale di queste situazioni è una proporzionalità diretta?
+- La molla A segue la legge y = 3x e la molla B la legge y = 5x (y allungamento in cm, x peso in kg). Quale si …
+- Nel grafico peso-allungamento di due molle, una retta è più ripida dell'altra. Che cosa significa per la moll…
+
 ## Lettere al posto dei numeri [lib-3-media-matematica-calcolo-letterale] · MONOMIO
 concetti: Espressioni letterali; Monomi simili; Prodotto di monomi; Polinomi e riduzione
 - Qual è il valore di 3x + 2 quando x = 4?
@@ -266,6 +596,28 @@ concetti: Espressioni letterali; Monomi simili; Prodotto di monomi; Polinomi e r
 - Quanto fa il polinomio 3x² + 2x − x² + 5x, una volta ridotto?
 - Un rettangolo ha i lati che misurano 2x + 1 e x + 4. Scrivi il suo perimetro come polinomio ridotto e spiega …
 
+## Litri, metri cubi e millilitri [lib-3-media-matematica-unita-volume-capacita] · LITRO
+concetti: Unità di volume; Volume e capacità; Conversioni nella realtà; Errori da evitare
+- Un decimetro cubo corrisponde a 1 ___.
+- Quanti cm³ ci sono in 1 dm³?
+- 1 cm³ di acqua corrisponde a 1 mL.
+- Una piscina contiene 50 m³ d'acqua. Quanti litri sono?
+- Un acquario misura 60 cm × 30 cm × 35 cm. Quanti litri contiene?
+- Luca dice: «2,5 m³ sono 25 dm³». Dove sbaglia?
+- A quanti m³ corrispondono 3 500 dm³?
+- Perché nelle unità di volume si moltiplica per 1 000 passando all'unità più piccola, e non per 10 come nelle …
+
+## Mappe e scale di riduzione [lib-3-media-matematica-scale-cartine] · MAPPA
+concetti: Che cosa dice la scala; Dalla carta alla realtà; Dalla realtà alla carta; Scale grandi e piccole
+- Su una carta in scala 1 : 100 000, 1 cm sulla carta corrisponde a ___ nella realtà.
+- Su una carta in scala 1 : 200 000 due paesi distano 3,5 cm. Qual è la loro distanza reale?
+- La scala 1 : 200 significa che le lunghezze reali sono 200 volte quelle del disegno.
+- Un sentiero lungo 4 km quanto misura su una carta in scala 1 : 25 000?
+- Nella piantina di una casa in scala 1 : 50 una parete è lunga 8 cm. Quanto è lunga davvero?
+- Quale scala mostra più dettagli delle strade di una città?
+- Vuoi disegnare un campo da calcio lungo 100 m in modo che sul foglio sia lungo 20 cm. Che scala devi usare?
+- Disegni lo stesso lago su una carta in scala 1 : 10 000 e su una in scala 1 : 100 000. Su quale appare più gr…
+
 ## Media, moda e mediana [lib-3-media-matematica-statistica] · MEDIA
 concetti: Indagine statistica e campione; Media aritmetica; Moda e mediana; Grafici statistici
 - I voti di Sara in matematica sono 6, 7, 8 e 7. Qual è la sua media?
@@ -276,6 +628,17 @@ concetti: Indagine statistica e campione; Media aritmetica; Moda e mediana; Graf
 - Vuoi mostrare in che percentuale i compagni di classe usano i diversi mezzi per venire a scuola, cioè come il…
 - Cinque amici ricevono queste paghette settimanali: 4 €, 5 €, 6 €, 7 € e 38 €. Perché qui la mediana descrive …
 - Giulia ha la media del 6 in 4 verifiche. Che voto deve prendere nella quinta verifica per arrivare alla media…
+
+## Misurare il volume con l'acqua [lib-3-media-matematica-volume-immersione] · ACQUA
+concetti: Volume per immersione; Il livello che sale; Oggetti irregolari; Millilitri e cm³
+- Immergendo completamente un sasso in un cilindro graduato, l'aumento del livello dell'acqua indica il volume …
+- In un cilindro graduato l'acqua passa da 200 mL a 245 mL quando immergi un sasso. Qual è il volume del sasso?
+- Il metodo dell'immersione è utile soprattutto per misurare il volume di oggetti dalla forma ___.
+- Un acquario ha base rettangolare di 40 cm × 25 cm. Mettendo dentro un sasso, l'acqua sale di 2 cm. Qual è il …
+- In un recipiente cilindrico di raggio 5 cm immergi una pallina e l'acqua sale di 1 cm. Qual è il volume della…
+- Un oggetto di 300 cm³ viene immerso completamente in un recipiente pieno fino all'orlo. Quanta acqua trabocca?
+- Immergi 10 biglie uguali in un cilindro graduato e il livello sale di 50 mL. Qual è il volume di una biglia?
+- Perché, per misurare con l'acqua il volume di un tappo di sughero che galleggia, bisogna spingerlo completame…
 
 ## Modellini in scala [lib-3-media-matematica-similitudine-scale-solidi] · SCALA
 concetti: Scala di riduzione; Rapporto di similitudine; Rapporto tra le aree; Rapporto tra i volumi
@@ -321,6 +684,17 @@ concetti: Eventi incompatibili; Somma di probabilità; Eventi compatibili; Somma
 - Una ruota della fortuna ha settori rossi, blu e verdi. La probabilità di rosso è 1/4 e quella di blu è 1/3. Q…
 - Peschi una carta da un mazzo di 40 carte napoletane. Marta dice che la probabilità di pescare una carta di co…
 
+## Orizzontali, verticali e bisettrici [lib-3-media-matematica-rette-particolari] · ASSE
+concetti: Parallele all'asse x; Parallele all'asse y; Le bisettrici; Equazioni degli assi
+- Quale retta è parallela all'asse x e passa per il punto (3; -2)?
+- L'equazione dell'asse delle ascisse è ___.
+- Tutti i punti della retta x = 5 hanno ascissa 5.
+- Quale punto appartiene alla bisettrice del primo e del terzo quadrante?
+- In quali quadranti passa la retta y = -x?
+- In quale punto si incontrano le rette x = 2 e y = -1?
+- Le rette y = 3 e y = -2 sono parallele. Quanto distano l'una dall'altra?
+- Perché la retta x = 4 non si può scrivere nella forma y = mx + q?
+
 ## Parentesi e segni in gioco [lib-3-media-matematica-espressioni-relativi] · ORDINE
 concetti: Togliere le parentesi; Regola dei segni; Ordine delle operazioni; Somma algebrica
 - Quanto fa (−24) : (+6)?
@@ -331,6 +705,17 @@ concetti: Togliere le parentesi; Regola dei segni; Ordine delle operazioni; Somm
 - Metti in ordine i passaggi per calcolare 18 : (−3) − (−2)² · 4.
 - Quanto vale 10 − [3 − (5 − 9)]?
 - Anna deve 15 € a suo fratello, quindi il suo 'saldo' è −15 €. Poi riceve 4 paghette da 12 € e spende 20 € per…
+
+## Pavimenti senza buchi [lib-3-media-matematica-tassellazioni-angoli-poligoni] · MOSAICO
+concetti: Somma degli angoli interni; Angolo di un poligono regolare; Tassellare il piano; Angoli esterni
+- Quanto vale la somma degli angoli interni di un esagono?
+- La somma degli angoli esterni di qualsiasi poligono convesso è 360°.
+- Quanto misura ciascun angolo interno di un pentagono regolare?
+- Per pavimentare senza lasciare buchi, gli angoli dei poligoni che si incontrano in un vertice devono sommare …
+- Quale di questi poligoni regolari NON può pavimentare da solo il piano?
+- In una pavimentazione di esagoni regolari, quanti esagoni si incontrano in ogni vertice?
+- Ogni angolo interno di un poligono regolare misura 140°. Quanti lati ha?
+- Perché gli esagoni regolari riempiono il piano senza buchi, mentre i pentagoni regolari no?
 
 ## Pesi e dispersione dei dati [lib-3-media-matematica-media-ponderata-variazione] · SCARTO
 concetti: Campo di variazione; Scarto dalla media; Media ponderata; Stessa media, dati diversi
@@ -343,6 +728,17 @@ concetti: Campo di variazione; Scarto dalla media; Media ponderata; Stessa media
 - Nella valutazione finale lo scritto conta il doppio dell'orale. Luisa prende 6 allo scritto e 9 all'orale. Qu…
 - Due città hanno la stessa temperatura media annuale di 15 °C. Nella prima le temperature medie mensili vanno …
 
+## Pi greco, un numero infinito [lib-3-media-matematica-pi-greco-numero] · PIGRECO
+concetti: Rapporto tra circonferenza e diametro; Un numero irrazionale; Le approssimazioni; Usare π nei calcoli
+- Se il diametro di una circonferenza raddoppia, anche la sua lunghezza raddoppia.
+- Pi greco è un numero ___: ha infinite cifre decimali che non si ripetono mai in un periodo.
+- Archimede dimostrò che π è minore di 3 + 1/7. A quale frazione, usata ancora oggi come approssimazione, corri…
+- La circonferenza di una lattina misura circa 25,12 cm. Usando π ≈ 3,14, quanto misura il suo diametro?
+- Quale affermazione su π è corretta?
+- Misuri un piatto: la circonferenza è 78,5 cm e il diametro 25 cm. Quanto vale il rapporto C : d?
+- Un'aiuola circolare ha raggio 3 m. Quanto misura la sua area, lasciando π nel risultato?
+- Perché nei calcoli usiamo 3,14 anche se π non è esattamente 3,14?
+
 ## Piramidi e apotema [lib-3-media-matematica-piramide-apotema] · CHEOPE
 concetti: Piramide retta e regolare; Apotema della piramide; Superficie laterale; Superficie totale
 - Quante facce laterali ha una piramide a base pentagonale?
@@ -353,6 +749,17 @@ concetti: Piramide retta e regolare; Apotema della piramide; Superficie laterale
 - Quanto misura la superficie totale della stessa piramide (spigolo di base 12 cm, superficie laterale 240 cm²)?
 - Una piramide regolare a base quadrata ha l'apotema di 13 cm e lo spigolo di base di 10 cm. Quanto è alta?
 - Una tenda ha la forma di una piramide regolare a base quadrata con lo spigolo di base di 2 m e l'apotema di 2…
+
+## Pitagora in rombi e trapezi [lib-3-media-matematica-pitagora-quadrilateri] · ROMBO
+concetti: Rombo e diagonali; Trapezio isoscele; Trapezio rettangolo; Diagonale del rettangolo
+- Le diagonali di un rombo sono perpendicolari e si tagliano a metà.
+- Le diagonali di un rombo misurano 16 cm e 12 cm. Quanto misura il lato?
+- Un rettangolo misura 8 cm per 15 cm. Quanto è lunga la diagonale?
+- In un trapezio isoscele con basi di 20 cm e 8 cm, ciascuna proiezione del lato obliquo sulla base maggiore mi…
+- Un trapezio isoscele ha basi di 20 cm e 8 cm e altezza di 8 cm. Quanto misura il lato obliquo?
+- Un trapezio rettangolo ha basi di 15 cm e 10 cm e altezza di 12 cm. Quanto misura il lato obliquo?
+- Un rombo ha il lato di 13 cm e una diagonale di 10 cm. Qual è la sua area?
+- Spiega perché in un trapezio isoscele le due proiezioni dei lati obliqui sulla base maggiore sono uguali e co…
 
 ## Poligoni dentro e fuori [lib-3-media-matematica-poligoni-inscritti-circoscritti] · ESAGONO
 concetti: Poligono inscritto; Poligono circoscritto; Quadrilateri inscrivibili; Poligoni regolari e apotema
@@ -376,6 +783,17 @@ concetti: Polinomi e grado; Somma e differenza; Monomio per polinomio; Polinomio
 - Un'aiuola rettangolare ha i lati lunghi (x + 3) m e (2x + 1) m. Quale polinomio esprime la sua area?
 - Luca scrive: 2(x + 5) − x(3 − x) = 2x + 10 − 3x − x². Trova il suo errore, scrivi il risultato corretto e con…
 
+## Potenze con il segno meno [lib-3-media-matematica-potenze-base-negativa] · PARI
+concetti: Base negativa, esponente pari; Base negativa, esponente dispari; Le parentesi contano; Esponente zero e uno
+- Quanto vale (-3)⁴?
+- Quanto vale (-3)³?
+- (-7)⁰ è uguale a 1.
+- Quanto vale -5², scritto senza parentesi?
+- Una potenza con base negativa ed esponente pari dà sempre un risultato ___.
+- Quale di queste potenze ha un risultato negativo?
+- Calcola (-2)³ + (-2)².
+- Perché (-1)¹⁰⁰ vale 1 mentre (-1)¹⁰¹ vale -1?
+
 ## Prismi retti da rivestire [lib-3-media-matematica-prisma-retto-superficie] · PRISMA
 concetti: Prisma retto; Superficie laterale; Superficie totale; Volume del prisma
 - Quante facce ha un prisma retto a base esagonale?
@@ -398,6 +816,17 @@ concetti: Facce, spigoli e vertici; Superficie del parallelepipedo; Volume e cap
 - Un poliedro convesso ha 6 vertici e 12 spigoli. Quante facce ha, secondo la relazione di Eulero?
 - Una piramide a base quadrata ha lo spigolo di base di 6 cm e l'altezza di 10 cm. Calcola il suo volume e spie…
 
+## Probabilità con le carte napoletane [lib-3-media-matematica-probabilita-carte-napoletane] · MAZZO
+concetti: Il mazzo napoletano; Probabilità di un seme o di un valore; Evento contrario; Estrazioni senza reinserimento
+- Un mazzo di carte napoletane è formato da ___ carte.
+- Qual è la probabilità di estrarre una carta di spade oppure di bastoni?
+- Qual è la probabilità di estrarre un re?
+- La probabilità di NON estrarre un asso è 9/10.
+- Qual è la probabilità di estrarre una figura (fante, cavallo o re)?
+- Estrai un asso e non lo rimetti nel mazzo. Qual è la probabilità che anche la seconda carta sia un asso?
+- Qual è la probabilità di estrarre una carta che non sia di coppe e non sia un re?
+- Perché la probabilità di estrarre un asso alla seconda carta cambia se la prima carta, un asso, non viene rim…
+
 ## Prodotti davvero notevoli [lib-3-media-matematica-prodotti-notevoli] · CUBO
 concetti: Quadrato di un binomio; Somma per differenza; Cubo di un binomio; Calcoli veloci
 - (a + b)² è uguale a a² + b².
@@ -408,6 +837,17 @@ concetti: Quadrato di un binomio; Somma per differenza; Cubo di un binomio; Calc
 - Calcola a mente 51² usando il quadrato di un binomio.
 - Quanto vale (x + 2)³?
 - Immagina un quadrato di lato (a + b) diviso in quattro parti con due tagli. Usa le aree di queste parti per s…
+
+## Quanti giri fa la ruota? [lib-3-media-matematica-ruote-giri] · RUOTA
+concetti: Un giro, una circonferenza; Contare i giri; Ruote di misure diverse; Attenzione alle unità
+- Quando una ruota fa un giro completo senza slittare, avanza di una distanza uguale alla sua ___.
+- La ruota di un monopattino ha diametro 20 cm. Di quanto avanza in 10 giri (π ≈ 3,14)?
+- Se il diametro di una ruota raddoppia, per percorrere la stessa distanza fa la metà dei giri.
+- Una ruota ha la circonferenza di 2 m. Quanti giri fa per percorrere 1 km?
+- Una ruota con circonferenza 157 cm fa 1 000 giri. Quanti km percorre?
+- Una ruota dentata grande con 48 denti è collegata con una catena a una piccola con 16 denti. Quando la grande…
+- La ruota anteriore di un triciclo ha raggio 30 cm, quelle posteriori 15 cm. Quando l'anteriore fa 10 giri, qu…
+- Il contachilometri di una bici conta i giri della ruota. Se monti ruote più piccole senza cambiare l'impostaz…
 
 ## Quanto pesa un solido? [lib-3-media-matematica-peso-specifico] · PESO
 concetti: Peso specifico; Peso, volume e materiale; Formule inverse; Galleggiare o affondare
@@ -431,6 +871,17 @@ concetti: Eventi certi e impossibili; Probabilità classica; Evento contrario; F
 - Lanci una moneta 50 volte ed esce 'testa' 28 volte. Qual è la frequenza relativa di 'testa'?
 - Marco lancia un dado 6 volte e il 3 non esce mai. Allora esclama: 'Questo dado è truccato!'. Ha ragione? Spie…
 
+## Rette ad angolo retto [lib-3-media-matematica-rette-perpendicolari] · SQUADRA
+concetti: Rette perpendicolari; Coefficienti antireciproci; Casi particolari; Riconoscere dalle equazioni
+- Due rette che si incontrano formando quattro angoli retti si dicono ___.
+- Qual è il coefficiente angolare di una retta perpendicolare a y = 3x + 1?
+- Le rette y = 2x e y = -2x sono perpendicolari.
+- Quale retta è perpendicolare a y = (1/2)x - 4?
+- Quale retta è perpendicolare alla retta y = 5?
+- La retta r ha coefficiente angolare -4/3. Qual è il coefficiente angolare di una perpendicolare a r?
+- Come sono tra loro le bisettrici y = x e y = -x?
+- Spiega come trovi l'equazione della retta perpendicolare a y = 2x + 1 che passa per l'origine.
+
 ## Rette che toccano cerchi [lib-3-media-matematica-rette-tangenti-circonferenza] · SFIORA
 concetti: Posizioni di una retta; Distanza dal centro; Tangente e raggio; Due circonferenze
 - Quanti punti in comune ha una retta secante con una circonferenza?
@@ -453,6 +904,17 @@ concetti: Funzione matematica; Proporzionalità diretta; Proporzionalità invers
 - Quale di questi punti appartiene alla retta y = −x + 4?
 - Le rette y = 2x + 1 e y = −2x + 1 hanno qualcosa in comune e qualcosa di diverso. Spiega che cosa.
 
+## Ripasso: matematica allo stadio [lib-3-media-matematica-ripasso-matematica-sport] · STADIO
+concetti: Statistica dei risultati; Probabilità nello sport; Geometria del campo; Percentuali
+- Una squadra segna 2, 0, 3, 1 e 4 gol in 5 partite. Quanti gol segna in media a partita?
+- In 7 partite una squadra segna 1, 3, 0, 1, 2, 1 e 5 gol. Qual è la moda?
+- Un portiere para in media 1 rigore su 5: la probabilità che un rigore contro di lui venga segnato è circa 4/5.
+- In una stagione un attaccante ha tirato 40 volte in porta e ha segnato 10 gol. Qual è la sua percentuale di r…
+- Un campo da calcio misura 105 m per 68 m. Qual è la sua area?
+- Il cerchio di centrocampo ha raggio 9,15 m. La sua circonferenza è circa ___ (π ≈ 3,14).
+- Quanto misura, arrotondata al metro, la diagonale del campo di 105 m per 68 m?
+- Lo stadio ha 40 000 posti e per una partita sono stati venduti 30 000 biglietti. Qual è la percentuale di rie…
+
 ## Ripasso: matematica in viaggio [lib-3-media-matematica-ripasso-matematica-viaggio] · VIAGGIO
 concetti: Velocità e tempi; Percentuali e spese; Volumi e capacità; Medie e probabilità
 - Un'auto viaggia a 90 km/h per 2 ore e 20 minuti. Quanti km percorre?
@@ -463,6 +925,39 @@ concetti: Velocità e tempi; Percentuali e spese; Volumi e capacità; Medie e pr
 - Il bagagliaio di un'auto ha la capacità di 420 litri. Quante scatole cubiche con lo spigolo di 30 cm ci stann…
 - In un sacchetto di caramelle per il viaggio ce ne sono 5 alla fragola, 3 al limone e 12 alla menta. Ne prendi…
 - Per un viaggio di 450 km un'auto consuma in media 1 litro di benzina ogni 15 km e la benzina costa 1,80 € al …
+
+## Ripasso: progettare un giardino [lib-3-media-matematica-ripasso-geometria-giardino] · AIUOLA
+concetti: Aree e perimetri; Teorema di Pitagora; Cerchio e circonferenza; Scale e arrotondamenti
+- Un giardino rettangolare misura 20 m per 15 m. Quanti metri di recinzione servono per circondarlo?
+- Vuoi un vialetto lungo la diagonale del giardino di 20 m per 15 m. Quanto è lungo?
+- Un'aiuola circolare con raggio di 2 m ha un'area minore di 13 m².
+- Attorno a un'aiuola circolare di diametro 4 m vuoi mettere un bordo di mattoncini. Quanto è lungo il bordo (π…
+- Nel giardino di 20 m per 15 m c'è un'aiuola circolare di raggio 2 m. L'area rimasta da seminare a prato è cir…
+- Un sacco di semi copre 25 m². Quanti sacchi interi devi comprare per seminare 287,44 m²?
+- Sul progetto in scala 1 : 200, quanto è lungo il lato di 20 m del giardino?
+- Il giardiniere vuole controllare se un angolo di un'aiuola rettangolare è davvero retto, usando solo un metro…
+
+## Ripasso: rette in città [lib-3-media-matematica-ripasso-funzioni-rette] · STRADA
+concetti: Coordinate e distanze; Rette e pendenza; Funzioni lineari e costi; Confrontare due offerte
+- Su una mappa a quadretti la scuola è in S(2; 1) e la casa di Sara in C(2; 7). Quanti quadretti le separano?
+- La casa di Leo è in L(5; 5) e il parco in P(1; 2). Qual è la loro distanza in linea d'aria, in quadretti?
+- Una strada rappresentata da y = -x + 8 scende man mano che x aumenta.
+- Due strade hanno equazioni y = 3x + 1 e y = 3x - 4. Come sono tra loro?
+- Un monopattino in sharing costa 1 € di sblocco più 0,20 € al minuto. Il costo C dopo m minuti è C = ___.
+- Con il monopattino a 1 € di sblocco più 0,20 € al minuto, quanto costa una corsa di 15 minuti?
+- Un secondo servizio costa 0,30 € al minuto senza sblocco. Dopo quanti minuti i due servizi costano uguale?
+- Per una corsa di 25 minuti conviene il primo servizio (1 € + 0,20 €/min) o il secondo (0,30 €/min)? Spiega co…
+
+## Ripasso: scatole e imballaggi [lib-3-media-matematica-ripasso-solidi-imballaggi] · PACCO
+concetti: Superficie e materiale; Volume e capacità; Riempire uno scatolone; Confrontare le forme
+- Una scatola misura 20 cm × 10 cm × 5 cm. Qual è il suo volume?
+- Quanto cartone serve per costruire la scatola chiusa di 20 cm × 10 cm × 5 cm, senza contare le linguette?
+- La scatola di 20 cm × 10 cm × 5 cm può contenere esattamente 1 litro di succo.
+- Quante scatole da 20 cm × 10 cm × 5 cm entrano in uno scatolone di 40 cm × 30 cm × 20 cm, tutte orientate all…
+- Una scatola cubica e una cilindrica con lo stesso volume richiedono quantità diverse di materiale perché hann…
+- Un cubo con lo spigolo di 10 cm e un parallelepipedo di 20 cm × 10 cm × 5 cm hanno lo stesso volume. Quale ri…
+- Una lattina cilindrica ha raggio 3 cm e altezza 11 cm. Contiene più o meno di 330 mL (π ≈ 3,14)?
+- Perché molte confezioni di latte sono parallelepipedi e non cilindri, anche se un cilindro può usare meno mat…
 
 ## Sconti, aumenti e percentuali [lib-3-media-matematica-percentuali-sconti] · SCONTO
 concetti: Calcolare una percentuale; Sconti; Aumenti; Percentuali successive
@@ -486,6 +981,17 @@ concetti: Che cosa vuol dire scomporre; Raccoglimento a fattor comune; Differenz
 - Calcola nel modo più furbo 47² − 43².
 - Un orto rettangolare ha l'area di (x² + 5x) m² e un lato lungo x m. Trova l'altro lato scomponendo il polinom…
 
+## Soldi che crescono in banca [lib-3-media-matematica-interesse-semplice] · TASSO
+concetti: Capitale, interesse e tasso; Interesse annuo; Più anni o pochi mesi; Il montante
+- La percentuale che la banca paga ogni anno sul capitale depositato si chiama ___ di interesse.
+- Depositi 800 € al tasso annuo del 2%. Quanto interesse ricevi in un anno?
+- Il montante è la somma del capitale e dell'interesse.
+- Depositi 1 500 € al 3% annuo per 4 anni, con interesse semplice. Quanto interesse ricevi in tutto?
+- Qual è il montante di 2 000 € al 2,5% annuo dopo 2 anni, con interesse semplice?
+- Depositi 1 200 € al 4% annuo per 6 mesi. Quanto interesse ricevi?
+- Un capitale ha prodotto in un anno 30 € di interesse al tasso del 2%. Qual era il capitale?
+- Se il tasso di interesse raddoppia e il capitale resta lo stesso, cosa succede all'interesse annuo? Spiega pe…
+
 ## Solidi uno sull'altro [lib-3-media-matematica-solidi-composti] · TORRE
 concetti: Solidi composti; Solidi con cavità; Superficie dei composti; Capacità e misure
 - Il volume di un solido formato da un cilindro con sopra un cono è la somma dei volumi del cilindro e del cono.
@@ -508,6 +1014,17 @@ concetti: Numeri relativi e valore assoluto; Confronto sulla retta; Addizione e 
 - Quanto vale (−2)⁴, e perché?
 - Un sub si trova a 12 m sotto il livello del mare (−12 m). Risale di 5 m e poi scende di 8 m. A che quota si t…
 
+## Sostituisci e calcola [lib-3-media-matematica-valore-espressioni-letterali] · VALORE
+concetti: Sostituire i valori; Numeri negativi tra parentesi; Formule della realtà; Quando perde significato
+- Quanto vale 3a + 2 se a = 4?
+- Quanto vale x² - 2x se x = -3?
+- Se a = -2, allora -a² vale 4.
+- Quanto vale 2ab - b se a = 1/2 e b = 6?
+- L'area di un trapezio è (B + b) · h : 2. Con B = 10 cm, b = 6 cm e h = 5 cm l'area è ___.
+- Un idraulico chiede C = 25 + 18h euro, dove h sono le ore di lavoro. Quanto paghi per 3 ore?
+- Per quale valore di x l'espressione 5/(x - 4) perde significato?
+- Perché quando sostituisci un numero negativo in un'espressione conviene scriverlo tra parentesi? Fai un esemp…
+
 ## Specchi nel piano cartesiano [lib-3-media-matematica-simmetrie-piano-cartesiano] · GEMELLO
 concetti: Simmetria rispetto all'asse x; Simmetria rispetto all'asse y; Simmetria centrale nell'origine; Traslazioni
 - Qual è il simmetrico di P(3; 5) rispetto all'asse x?
@@ -519,6 +1036,17 @@ concetti: Simmetria rispetto all'asse x; Simmetria rispetto all'asse y; Simmetri
 - Il triangolo con vertici A(0; 0), B(3; 0) e C(0; 2) viene traslato con il vettore (−2; 4). Quali sono i nuovi…
 - Il segmento AB ha estremi A(1; 1) e B(4; 3). Trova il suo simmetrico A'B' rispetto all'asse y e spiega perché…
 
+## Strette di mano e podi [lib-3-media-matematica-combinazioni-strette-mano] · GRUPPO
+concetti: Quando l'ordine conta; Quando l'ordine non conta; Anagrammi; Riconoscere il caso
+- In un gruppo di 4 amici ognuno stringe la mano a tutti gli altri una sola volta. Quante strette di mano ci so…
+- Scegliere chi arriva primo, secondo e terzo in una gara è un problema in cui l'ordine conta.
+- In una finale ci sono 8 atleti. In quanti modi diversi può essere composto il podio (oro, argento, bronzo)?
+- Quanti anagrammi, anche senza senso, ha la parola LIBRO?
+- Tra 5 amici devi sceglierne 2 che vadano a comprare le pizze. Quante coppie diverse puoi formare?
+- In un torneo con 6 squadre ognuna gioca una volta contro ciascuna delle altre. In tutto si giocano ___ partit…
+- In quale di questi problemi l'ordine NON conta?
+- Perché le strette di mano tra 4 persone sono 6 e non 12, anche se ognuno stringe 3 mani?
+
 ## Tabelle di frequenza [lib-3-media-matematica-tabelle-frequenze] · TABELLA
 concetti: Frequenza assoluta; Frequenza relativa; Frequenza percentuale; Dati in classi
 - In un sondaggio su 20 ragazzi, 7 preferiscono il basket. Qual è la frequenza assoluta del basket?
@@ -529,6 +1057,17 @@ concetti: Frequenza assoluta; Frequenza relativa; Frequenza percentuale; Dati in
 - Con la stessa tabella dei voti (25 alunni), quale percentuale di alunni ha preso almeno 7?
 - Le altezze di 30 ragazzi sono raggruppate in classi: 140-149 cm → 4 ragazzi, 150-159 cm → 11, 160-169 cm → 12…
 - In due classi si chiede chi va a scuola a piedi. Nella 3ª A rispondono sì 12 ragazzi su 24, nella 3ª B 13 su …
+
+## Talete e le rette parallele [lib-3-media-matematica-teorema-talete] · OMBRA
+concetti: Fascio di rette parallele; Teorema di Talete; Misurare con le ombre; Dividere un segmento
+- Le rette di un fascio di rette parallele non si incontrano mai.
+- Per il teorema di Talete, un fascio di rette parallele tagliato da due trasversali determina su di esse segme…
+- Su una trasversale due segmenti misurano 3 cm e 6 cm; sull'altra il segmento corrispondente al primo misura 4…
+- Un palo alto 2 m fa un'ombra di 3 m. Nello stesso momento un albero fa un'ombra di 12 m. Quanto è alto l'albe…
+- Tre rette parallele tagliano due trasversali. Sulla prima i segmenti misurano 5 cm e 15 cm; sulla seconda il …
+- Nel momento in cui un bastone fa un'ombra lunga quanto il bastone stesso, l'ombra di una torre misura 25 m. Q…
+- Metti in ordine i passi per dividere un segmento AB in 3 parti uguali con il teorema di Talete.
+- Perché il metodo delle ombre funziona per misurare le altezze? Collega la risposta al teorema di Talete.
 
 ## Tariffe, taxi e funzioni lineari [lib-3-media-matematica-funzioni-lineari-tariffe] · TARIFFA
 concetti: Quota fissa e quota variabile; Tabella e grafico; Confrontare due tariffe; Proporzionale o no
@@ -551,6 +1090,17 @@ concetti: Angoli dell'aerogramma; Istogramma; Barre e ideogrammi; Grafici corret
 - Quale grafico è più adatto per rappresentare le altezze di 100 ragazzi raggruppate in classi di 10 cm?
 - Un aerogramma ha un settore di 72°. Se i dati sono in tutto 250, quanti dati rappresenta quel settore?
 - Un volantino mostra un grafico a barre in cui le vendite di un negozio passano da 980 a 1000 pezzi, ma la sec…
+
+## Treni, bici e incognite [lib-3-media-matematica-problemi-moto-equazioni] · TRENO
+concetti: Spazio, velocità e tempo; Moto uno verso l'altro; L'inseguimento; Impostare l'equazione
+- Un pullman viaggia a 80 km/h per 1 ora e 45 minuti. Quanti km percorre?
+- Se raddoppi la velocità, a parità di distanza il tempo di viaggio si dimezza.
+- Due ciclisti partono insieme da due paesi distanti 60 km e si vengono incontro, uno a 18 km/h e l'altro a 12 …
+- Quando due veicoli si muovono uno verso l'altro, ogni ora la distanza tra loro diminuisce della ___ delle lor…
+- Luca parte in bici a 15 km/h. Un'ora dopo sua sorella parte dallo stesso punto in motorino a 25 km/h. Quanto …
+- Due treni partono da città distanti 420 km e si vengono incontro, uno a 80 km/h e l'altro a 60 km/h. Con t in…
+- Nel problema dei due treni (420 km, 80 km/h e 60 km/h), a che distanza dalla città del treno più veloce si in…
+- Perché nei problemi di inseguimento si usa la differenza delle velocità e non la somma?
 
 ## Vestire cilindri e coni [lib-3-media-matematica-superficie-cilindro-cono] · GELATO
 concetti: Superficie del cilindro; Apotema del cono; Superficie del cono; Sviluppi

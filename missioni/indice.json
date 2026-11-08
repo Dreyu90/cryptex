@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-08T17:57:47Z",
+  "aggiornato": "2026-11-08T18:48:58Z",
   "classi": {
     "1-elementare": {
       "classe": "1ª elementare",
@@ -17,12 +17,12 @@
         {
           "slug": "italiano",
           "nome": "Italiano",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 51
+          "n": 101
         },
         {
           "slug": "scienze",
@@ -42,32 +42,32 @@
         {
           "slug": "geografia",
           "nome": "Geografia",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "inglese",
           "nome": "Inglese",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "italiano",
           "nome": "Italiano",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "scienze",
           "nome": "Scienze",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "storia",
           "nome": "Storia",
-          "n": 50
+          "n": 100
         }
       ]
     },
@@ -77,32 +77,32 @@
         {
           "slug": "geografia",
           "nome": "Geografia",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "inglese",
           "nome": "Inglese",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "italiano",
           "nome": "Italiano",
-          "n": 51
+          "n": 101
         },
         {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "scienze",
           "nome": "Scienze",
-          "n": 51
+          "n": 101
         },
         {
           "slug": "storia",
           "nome": "Storia",
-          "n": 51
+          "n": 101
         }
       ]
     },
@@ -117,22 +117,22 @@
         {
           "slug": "inglese",
           "nome": "Inglese",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "italiano",
           "nome": "Italiano",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 51
+          "n": 101
         },
         {
           "slug": "scienze",
           "nome": "Scienze",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "storia",
@@ -147,7 +147,7 @@
         {
           "slug": "geografia",
           "nome": "Geografia",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "inglese",
@@ -162,17 +162,17 @@
         {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "scienze",
           "nome": "Scienze",
-          "n": 51
+          "n": 101
         },
         {
           "slug": "storia",
           "nome": "Storia",
-          "n": 51
+          "n": 101
         }
       ]
     },
@@ -182,32 +182,32 @@
         {
           "slug": "geografia",
           "nome": "Geografia",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "inglese",
           "nome": "Inglese",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "italiano",
           "nome": "Italiano",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "scienze",
           "nome": "Scienze",
-          "n": 51
+          "n": 101
         },
         {
           "slug": "storia",
           "nome": "Storia",
-          "n": 51
+          "n": 101
         }
       ]
     },
@@ -217,32 +217,32 @@
         {
           "slug": "geografia",
           "nome": "Geografia",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "inglese",
           "nome": "Inglese",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "italiano",
           "nome": "Italiano",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 51
+          "n": 101
         },
         {
           "slug": "scienze",
           "nome": "Scienze",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "storia",
           "nome": "Storia",
-          "n": 51
+          "n": 101
         }
       ]
     },
@@ -252,7 +252,7 @@
         {
           "slug": "geografia",
           "nome": "Geografia",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "inglese",
@@ -262,12 +262,12 @@
         {
           "slug": "italiano",
           "nome": "Italiano",
-          "n": 50
+          "n": 100
         },
         {
           "slug": "matematica",
           "nome": "Matematica",
-          "n": 51
+          "n": 101
         },
         {
           "slug": "scienze",

@@ -1,5 +1,5 @@
-# 4ª elementare · Matematica: 51 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 4ª elementare · Matematica: 101 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Angoli acuti, retti e ottusi [lib-4-elementare-matematica-angoli-tipi-gradi] · GRADI
@@ -12,6 +12,61 @@ concetti: Che cos'è un angolo; Retto, piatto e giro; Acuti e ottusi; Misurare c
 - Quanti angoli retti formano un angolo giro?
 - Metti in ordine i passaggi per misurare un angolo con il goniometro.
 - Un ventaglio si apre piano piano fino a formare mezzo cerchio. Spiega come cambia il tipo di angolo mentre si…
+
+## Angoli sull'orologio [lib-4-elementare-matematica-angoli-orologio] · ANGOLO
+concetti: Un giro di 360°; 30° tra due numeri; Riconoscere il tipo di angolo
+- Alle 3:00 in punto le lancette formano un angolo…
+- Alle 9:00 in punto le lancette formano un angolo retto.
+- Di quanti gradi gira la lancetta dei minuti in un'ora?
+- Tra due numeri vicini dell'orologio, per esempio tra il 12 e l'1, c'è un angolo di ___.
+- Quanti gradi misura l'angolo tra le lancette alle 2:00 in punto?
+- A quale ora in punto le lancette formano un angolo ottuso?
+- In un quarto d'ora, di quanti gradi gira la lancetta dei minuti?
+- Alle 4:00 in punto quanto misura l'angolo tra le lancette? Spiega come lo calcoli.
+
+## Anni, secoli e millenni [lib-4-elementare-matematica-anni-secoli-millenni] · SECOLO
+concetti: Le misure lunghe del tempo; Equivalenze del tempo; In che secolo siamo?; L'anno bisestile
+- Quanti anni dura un secolo?
+- Come si chiama un periodo di 10 anni?
+- Un anno bisestile ha 366 giorni.
+- Quanti anni sono tre secoli e mezzo?
+- L'anno 1492 appartiene al ___ secolo.
+- In quale secolo si trova l'anno 1861?
+- Metti in ordine queste durate dalla più breve alla più lunga.
+- Perché l'anno 2026 appartiene al XXI secolo e non al XX?
+
+## Aprire una scatola [lib-4-elementare-matematica-sviluppo-solidi] · SCATOLA
+concetti: Che cos'è lo sviluppo; Lo sviluppo del cubo; Lo sviluppo del parallelepipedo; Piramide e cilindro
+- Se apri una scatola di cartone e la stendi sul tavolo, ottieni…
+- Da quali figure è formato lo sviluppo di un cubo?
+- Sei quadrati messi tutti in fila formano lo sviluppo di un cubo.
+- Nello sviluppo di un parallelepipedo, le facce opposte sono ___.
+- Quali figure formano lo sviluppo di una piramide a base quadrata?
+- Lo sviluppo di un cilindro è formato da…
+- Una scatola ha due facce da 10 cm × 5 cm, due da 10 cm × 3 cm e due da 5 cm × 3 cm. Quanti cm² di cartone ser…
+- Come puoi controllare se un disegno di 6 quadrati è davvero lo sviluppo di un cubo?
+
+## Arrotondare i numeri decimali [lib-4-elementare-matematica-arrotondare-decimali] · TONDO
+concetti: Arrotondare all'unità; Arrotondare al decimo; Arrotondare i prezzi; Quando arrotondare
+- Arrotonda 7,6 all'unità.
+- Arrotonda 12,49 all'unità.
+- Con la regola del 5, 4,5 arrotondato all'unità diventa 5.
+- Per arrotondare un numero al decimo guardi la cifra dei ___.
+- Arrotonda 3,46 al decimo.
+- Un quaderno costa 2,95 €. Arrotondato all'euro, quanto costa circa?
+- Per stimare la spesa 4,90 € + 3,10 € + 1,95 €, quale calcolo arrotondato è più comodo?
+- Una corsa di atletica dura 9,8 secondi. Perché in gara non si arrotonda a 10 secondi?
+
+## Caccia al tesoro con coordinate [lib-4-elementare-matematica-piano-cartesiano] · TESORO
+concetti: Gli assi; Coppie ordinate; Trovare e segnare i punti; Spostamenti sul piano
+- Nella coppia (4; 2), quale numero indica lo spostamento sull'asse orizzontale?
+- I punti (3; 5) e (5; 3) sono lo stesso punto.
+- Come si chiama il punto (0; 0), dove si incontrano gli assi?
+- Il primo numero di una coppia si legge sull'asse ___.
+- Il tesoro è 6 quadretti a destra dell'origine e 1 quadretto in alto. Quali sono le sue coordinate?
+- Parti da (2; 3) e ti sposti di 4 quadretti a destra. Dove arrivi?
+- Parti da (5; 4), scendi di 2 quadretti e vai a sinistra di 3. Dove arrivi?
+- Segni i punti A (1; 1), B (5; 1), C (5; 4), D (1; 4) e li unisci in ordine. Che figura ottieni? Come lo capis…
 
 ## Cambi e prestiti in colonna [lib-4-elementare-matematica-colonna-cambi-prestiti] · CAMBIO
 concetti: Incolonnare bene; Il riporto nell'addizione; Il prestito nella sottrazione; Prestiti con lo zero
@@ -35,6 +90,17 @@ concetti: Scomporre i numeri; Arrotondare e compensare; Doppi e metà; Amici del
 - Quanto manca da 460 a 1 000?
 - Spiega come puoi calcolare 25 × 16 a mente usando doppi e metà.
 
+## Cerchio, raggio e diametro [lib-4-elementare-matematica-cerchio-raggio-diametro] · RAGGIO
+concetti: Circonferenza e cerchio; Centro e raggio; Il diametro; Il compasso
+- Come si chiama la linea curva chiusa che fa da bordo al cerchio?
+- Tutti i punti della circonferenza sono alla stessa distanza dal centro.
+- Un cerchio ha il raggio di 6 cm. Quanto misura il diametro?
+- Per disegnare una circonferenza di raggio 4 cm apri il compasso di ___.
+- Il diametro di una ruota è 50 cm. Quanto misura il raggio?
+- Appoggi una moneta sul foglio e ripassi con la matita il suo bordo. Che cosa hai disegnato?
+- Qual è il segmento più lungo che puoi tracciare tra due punti di una circonferenza?
+- Perché le ruote delle biciclette sono rotonde e non quadrate? Usa la parola «raggio» o «centro».
+
 ## Certo, possibile o impossibile? [lib-4-elementare-matematica-probabilita-eventi] · DADO
 concetti: Certo, possibile, impossibile; Più o meno probabile; La probabilità come frazione
 - Lanci un normale dado a 6 facce. Quale evento è impossibile?
@@ -45,6 +111,17 @@ concetti: Certo, possibile, impossibile; Più o meno probabile; La probabilità 
 - Qual è la probabilità di ottenere un numero pari lanciando un dado a 6 facce?
 - Una ruota della fortuna ha 8 spicchi uguali: 4 rossi, 3 gialli e 1 verde. Quale affermazione è vera?
 - Nel sacchetto A ci sono 2 palline vincenti su 10; nel sacchetto B ci sono 2 palline vincenti su 5. Da quale s…
+
+## Chi è arrivato primo? [lib-4-elementare-matematica-problemi-di-logica] · PODIO
+concetti: Ordinare con gli indizi; Confronti a catena; Escludere le possibilità; Controllare la soluzione
+- Anna è più alta di Bea e Bea è più alta di Carlo. Chi è il più basso?
+- Se Leo è più veloce di Ugo e Ugo è più veloce di Ivo, allora Leo è più veloce di Ivo.
+- In una gara Rita arriva prima di Sara, e Tommaso arriva dopo Sara. Chi vince?
+- Tre amici hanno un cane, un gatto e un pesce, un animale a testa. Mia non ha il cane né il gatto. Che animale…
+- In un problema di logica, se una possibilità non può essere vera la ___ e guardi quelle rimaste.
+- La torre rossa è più alta della blu, la verde è più bassa della blu e la gialla è la più alta di tutte. Quale…
+- Dario ha 2 anni più di Elsa, Elsa ha 1 anno più di Fabio, Gino è più vecchio di Dario. Ordina i bambini dal p…
+- In una corsa Bruno è arrivato dopo Alice e Carla prima di Alice. Laura dice che l'ordine d'arrivo è Carla, Al…
 
 ## Chi è il più grande? [lib-4-elementare-matematica-confronto-numeri-grandi] · ORDINE
 concetti: Contare le cifre; Confronto cifra per cifra; I simboli maggiore e minore; Ordine crescente e decrescente
@@ -67,6 +144,17 @@ concetti: Virgola sotto virgola; Aggiungere gli zeri; Riporti e prestiti; Decima
 - Compri un succo da 1,35 € e un panino da 2,80 €. Quanto spendi?
 - Paghi 4,15 € con una banconota da 10 €. Quanto ricevi di resto?
 - Un'amica scrive 2,5 + 1,25 = 3,30, perché ha sommato 5 + 25 = 30. Spiega l'errore e trova il risultato giusto.
+
+## Cubi, piramidi e cilindri [lib-4-elementare-matematica-solidi-geometrici] · CUBO
+concetti: Solidi e figure piane; Facce, spigoli e vertici; Poliedri e solidi rotondi; Solidi intorno a noi
+- Quale di questi è un solido e non una figura piana?
+- Quante facce ha un cubo?
+- Un cubo ha 12 spigoli.
+- Quanti vertici ha una piramide a base quadrata?
+- Il cilindro, il cono e la sfera sono solidi ___ perché hanno superfici curve.
+- Quale solido può rotolare in tutte le direzioni?
+- Una lattina di bibita ha la forma di…
+- Che differenza c'è tra un cubo e una sfera? Pensa alle facce e alla capacità di rotolare.
 
 ## Dal millimetro al chilometro [lib-4-elementare-matematica-misure-lunghezza] · METRO
 concetti: Il metro e i multipli; I sottomultipli del metro; Ogni unità vale 10 volte; Le equivalenze
@@ -100,6 +188,17 @@ concetti: Dati utili e inutili; Dati mancanti; Dati nascosti nelle parole; La ri
 - «In una scuola ci sono 6 classi da 22 alunni. Quanti alunni ci sono in tutto?» Qual è la risposta completa e …
 - «Un fioraio ha 120 rose rosse e 45 gialle. Vende 30 rose rosse. Quante rose rosse gli restano?» Quali dati ti…
 - Scrivi una domanda per questo testo, in modo che si risolva con una moltiplicazione, e rispondi: «Una scatola…
+
+## Dividere con la virgola [lib-4-elementare-matematica-divisione-decimali] · QUOTA
+concetti: Dividendo decimale; Lo zero prima della virgola; Continuare con i decimali; Dividere nella vita quotidiana
+- Calcola 8,4 : 2.
+- Quando nella divisione abbassi la prima cifra decimale del dividendo, devi scrivere la ___ nel quoziente.
+- Calcola 3,6 : 4.
+- La divisione 7 : 2 si può continuare con la virgola e dà 3,5.
+- Quanto fa 9 : 4 continuando con i decimali?
+- Tre amici pagano insieme una pizza da 13,50 €, in parti uguali. Quanto paga ciascuno?
+- Un nastro di 6,4 m viene tagliato in 8 pezzi uguali. Quanto è lungo ogni pezzo?
+- Perché 2,8 : 7 dà un risultato con lo zero prima della virgola?
 
 ## Dividere con una cifra [lib-4-elementare-matematica-divisione-una-cifra] · RESTO
 concetti: I termini della divisione; La divisione in colonna; Il resto; Lo zero nel quoziente
@@ -145,6 +244,17 @@ concetti: Doppio, triplo, quadruplo; Metà, terzo e quarto; Operazioni che si an
 - Un nastro di 180 cm viene tagliato a metà; poi uno dei due pezzi viene tagliato ancora a metà. Quanto è lungo…
 - Penso un numero, lo moltiplico per 3 e ottengo 57. Spiega come scopri il numero che ho pensato.
 
+## Enunciati veri o falsi [lib-4-elementare-matematica-enunciati-logici] · LOGICA
+concetti: Che cos'è un enunciato; Vero o falso; La negazione; I connettivi «e» e «o»
+- Quale di queste frasi è un enunciato logico?
+- L'enunciato «Un triangolo ha quattro lati» è vero.
+- Perché «Il calcio è lo sport più bello» non è un enunciato logico?
+- La negazione di «12 è un numero pari» è «12 ___ è un numero pari».
+- L'enunciato «5 è maggiore di 8» è falso. Qual è la sua negazione?
+- L'enunciato «10 è pari e 10 è maggiore di 20» è…
+- L'enunciato «3 è pari o 3 è dispari» è…
+- Inventa un enunciato vero e uno falso sui numeri, poi spiega perché «Quanti anni hai?» non è un enunciato.
+
 ## Fai la prova! [lib-4-elementare-matematica-operazioni-inverse-prova] · PROVA
 concetti: Addizione e sottrazione inverse; Moltiplicazione e divisione inverse; La prova della sottrazione; La prova della divisione
 - L'operazione inversa dell'addizione è la ___.
@@ -178,6 +288,17 @@ concetti: Stessa parte, numeri diversi; Moltiplicare sopra e sotto; Semplificare
 - Un'aiuola è divisa in 12 parti uguali e Anna ne pianta 9 a tulipani. Quale frazione semplificata indica la pa…
 - Spiega con l'esempio di una barretta di cioccolato perché 1/2 e 4/8 indicano la stessa quantità.
 
+## Frazioni sulla linea dei numeri [lib-4-elementare-matematica-frazioni-sulla-linea] · TACCA
+concetti: Dividere l'unità; Contare le parti; Frazioni oltre l'1; Confrontare sulla linea
+- Per segnare i quarti sulla linea, in quante parti uguali dividi il tratto da 0 a 1?
+- Il tratto da 0 a 1 è diviso in 5 parti uguali. Un punto è sulla 3ª tacca dopo lo 0. Quale frazione indica?
+- Sulla linea, la frazione 8/4 si trova nello stesso punto del numero 2.
+- Sulla linea, la frazione 5/4 si trova a ___ del numero 1.
+- Quale frazione si trova più vicina allo 0?
+- Su una linea divisa in decimi, un punto è esattamente a metà tra 0 e 1. Quale frazione indica?
+- Metti in ordine le frazioni come si trovano sulla linea, da sinistra a destra.
+- Come trovi il posto di 9/4 sulla linea dei numeri?
+
 ## Gara di numeri con la virgola [lib-4-elementare-matematica-confronto-decimali] · GARA
 concetti: Prima la parte intera; Poi decimi, centesimi, millesimi; Non conta il numero di cifre; Ordinare i decimali
 - Quale numero è il più grande?
@@ -210,6 +331,39 @@ concetti: Proprietà invariantiva; Proprietà distributiva; L'ordine conta; Divi
 - La nonna divide 96 € in parti uguali tra 3 nipoti, pensando a 90 € + 6 €. Quanto riceve ciascuno?
 - Per calcolare 75 : 25 moltiplichi entrambi i numeri per 4. Quale divisione ottieni?
 - Perché non si può dividere un numero per zero? Prova a spiegarlo con la prova della divisione o con un esempi…
+
+## I segreti della tavola pitagorica [lib-4-elementare-matematica-tavola-pitagorica] · TAVOLA
+concetti: Righe, colonne e incroci; La simmetria della tabella; I numeri quadrati; Regolarità nascoste
+- Che numero trovi all'incrocio tra la riga del 7 e la colonna dell'8?
+- Il numero all'incrocio riga 4, colonna 9 è uguale a quello all'incrocio riga 9, colonna 4.
+- Quali numeri trovi sulla diagonale che va da 1 × 1 a 10 × 10?
+- Il numero 49 si trova sulla diagonale perché è uguale a 7 × ___.
+- Nella colonna del 9 (9, 18, 27, 36… fino a 90), se sommi le cifre di ogni risultato, che cosa ottieni sempre?
+- Nella riga del 5 alcuni risultati finiscono con la cifra 3.
+- Quante volte compare il numero 24 nella tavola pitagorica da 1 a 10?
+- Perché basta imparare metà della tavola pitagorica per conoscerla tutta?
+
+## Ideogrammi, istogrammi e aerogrammi [lib-4-elementare-matematica-ideogrammi-istogrammi] · BARRA
+concetti: L'ideogramma; L'istogramma; L'aerogramma; Leggere e confrontare
+- In un ideogramma ogni pallone disegnato vale 5 bambini. Accanto a «calcio» ci sono 4 palloni. Quanti bambini …
+- In un ideogramma serve la legenda per sapere quanto vale ogni simbolo.
+- In un istogramma, che cosa indica l'altezza di ogni barra?
+- In un istogramma ogni dato è rappresentato da una ___.
+- Istogramma dei libri letti: Ada 7, Bruno 4, Carla 9, Dario 5. Quanti libri ha letto Carla più di Bruno?
+- In un aerogramma la metà del cerchio è colorata di blu per «mare». Che parte dei bambini preferisce il mare?
+- Quale grafico mostra meglio che parte del totale rappresenta ogni risposta, come una torta divisa in fette?
+- In un ideogramma ogni simbolo vale 4 bambini. Come rappresenti 10 bambini?
+
+## Il gioco delle equivalenze [lib-4-elementare-matematica-gioco-equivalenze] · SCALINO
+concetti: La stessa quantità; Verso unità più piccole; Verso unità più grandi; Stessi prefissi per tutte
+- Quando fai un'equivalenza, la lunghezza del banco che hai misurato cambia.
+- Quanti litri sono 4 hl?
+- Quanti chilogrammi sono 6 000 g?
+- Il prefisso «centi» indica sempre la ___ parte dell'unità: centimetro, centilitro, centigrammo.
+- Quanti decagrammi sono 3 hg?
+- Quanti decametri sono 470 m?
+- Metti in ordine queste unità di capacità dalla più grande alla più piccola.
+- Giulia scrive: 5 km = 50 m. Spiega l'errore e correggilo.
 
 ## Il giro della figura [lib-4-elementare-matematica-perimetro-poligoni] · CORNICE
 concetti: Che cos'è il perimetro; Perimetro del quadrato; Perimetro del rettangolo; Dal perimetro ai lati
@@ -255,6 +409,17 @@ concetti: Le classi dei numeri; Il valore posizionale; Scomporre e comporre; Leg
 - Aggiungi 1 000 al numero 499 500. Che numero ottieni?
 - Nel numero 333 333 le cifre sono tutte uguali. Perché allora non valgono tutte lo stesso?
 
+## Il resto conta! [lib-4-elementare-matematica-resto-nei-problemi] · AVANZO
+concetti: Che cosa indica il resto; Serve uno in più; Il resto si lascia; Il resto è la risposta
+- In 47 : 5 = 9 con resto 2, che cosa rappresenta il 2?
+- Se metti 40 matite in scatole da 6, il resto della divisione è 4.
+- 58 bambini vanno in gita su pulmini da 9 posti. Quanti pulmini servono?
+- Con 75 cm di nastro, quanti fiocchi da 20 cm puoi fare?
+- La maestra divide 75 figurine fra 9 bambini, in parti uguali e il più possibile. Quante figurine restano a le…
+- 100 uova vanno in contenitori da 12: ne riempi 8 e le 4 uova che avanzano richiedono un contenitore ___.
+- Una confezione di colori costa 4 €. Con 23 € quante confezioni puoi comprare?
+- Spiega perché, dividendo un numero per 4, il resto può essere solo 0, 1, 2 o 3.
+
 ## Il trucco degli zeri [lib-4-elementare-matematica-per-10-100-1000] · ZERI
 concetti: Moltiplicare per 10, 100, 1000; Dividere per 10, 100, 1000; Il valore delle cifre cambia; Calcoli veloci con gli zeri
 - Quanto fa 47 × 100?
@@ -288,6 +453,39 @@ concetti: L'indagine statistica; I grafici; La moda; La media aritmetica
 - Le temperature di 5 giorni sono state 12°, 15°, 14°, 13° e 16°. Qual è la temperatura media?
 - Tre amici hanno 4, 7 e 10 caramelle. Spiega che cosa significa dire che in media hanno 7 caramelle a testa.
 
+## Indovina la regola [lib-4-elementare-matematica-successioni-numeriche] · SERIE
+concetti: Successioni con addizione; Successioni con sottrazione; Successioni con moltiplicazione; Regole miste e controllo
+- Qual è il numero che segue? 15, 30, 45, 60, …
+- Quale regola segue la successione 500, 450, 400, 350?
+- Nella successione 3, 6, 12, 24, 48 la regola è «moltiplica per 2».
+- Continua la successione: 1, 3, 9, 27, … Qual è il numero successivo?
+- In 7, 11, 15, 19 ogni numero si ottiene aggiungendo ___ al precedente.
+- Quale numero manca? 2, 5, 4, 7, 6, 9, ___
+- Metti in ordine i numeri per formare la successione che parte da 1 000 e toglie 125 ogni volta.
+- Marta vede l'inizio di una successione, 4, 8, … e dice che il numero dopo è 12. Paolo dice 16. Chi ha ragione?
+
+## Ingrandire e rimpicciolire [lib-4-elementare-matematica-ingrandimenti-riduzioni] · LENTE
+concetti: Ingrandire in scala; Ridurre in scala; La forma resta uguale; Il perimetro cambia
+- Per ingrandire una figura del doppio sul quaderno a quadretti, che cosa fai?
+- Un rettangolo di 3 × 2 quadretti viene ingrandito 3 volte. Quali sono le nuove misure?
+- Ingrandendo correttamente un triangolo, i suoi angoli diventano più grandi.
+- Per ridurre una figura alla metà, ___ per 2 tutte le misure.
+- Un quadrato di lato 8 cm viene ridotto a 1/4. Quanto misura il nuovo lato?
+- Un quadrato ha il perimetro di 12 cm. Se lo ingrandisci del doppio, quanto misura il nuovo perimetro?
+- Marco allunga solo la base di un rettangolo e lascia uguale l'altezza. Che cosa succede?
+- Quando ingrandisci una foto sul telefono con due dita, perché la persona nella foto non sembra deformata?
+
+## L'area di rettangoli e quadrati [lib-4-elementare-matematica-area-rettangolo-quadrato] · BASE
+concetti: Area del rettangolo; Area del quadrato; Le unità di misura dell'area; Problemi di area
+- Come si calcola l'area di un rettangolo?
+- Un rettangolo ha base 9 cm e altezza 4 cm. Qual è la sua area?
+- Un quadrato di lato 5 cm ha l'area di 20 cm².
+- L'area del pavimento di una stanza si misura in metri ___.
+- Qual è l'area di una piastrella quadrata di lato 30 cm?
+- Un tappeto rettangolare ha l'area di 6 m² e la base di 3 m. Quanto misura l'altezza?
+- Un rettangolo ha base 2 m e altezza 50 cm. Qual è la sua area?
+- Vuoi coprire un pavimento di 4 m × 3 m con piastrelle quadrate di 1 m di lato. Quante piastrelle servono? Spi…
+
 ## La famiglia dei quadrilateri [lib-4-elementare-matematica-quadrilateri-famiglia] · ROMBO
 concetti: Il trapezio; I parallelogrammi; Rettangolo, rombo e quadrato; La somma degli angoli
 - Quale quadrilatero ha 4 lati uguali e 4 angoli retti?
@@ -320,6 +518,17 @@ concetti: Moltiplicare per 10, 100, 1000; Dividere per 10, 100, 1000; Quando man
 - Quanto fa 0,4 × 100?
 - Una matita costa 0,35 €. Quanto costano 100 matite?
 - Un sacco di 10 kg di farina costa 12,50 €. Spiega come calcoli il prezzo di 1 kg.
+
+## Lati uguali, angoli uguali [lib-4-elementare-matematica-poligoni-regolari] · ESAGONO
+concetti: Che cos'è un poligono regolare; Esempi e non esempi; Perimetro dei poligoni regolari; Poligoni regolari nella realtà
+- Un poligono è regolare quando…
+- Un rombo che non è un quadrato è un poligono regolare.
+- Quale di questi è un poligono regolare?
+- Il perimetro di un poligono regolare si trova moltiplicando il lato per il ___ dei lati.
+- Un esagono regolare ha il lato di 7 cm. Quanto misura il perimetro?
+- Un pentagono regolare ha il perimetro di 60 cm. Quanto misura il lato?
+- Le celle degli alveari hanno la forma di quale poligono regolare?
+- Il rettangolo ha tutti gli angoli uguali. Perché allora non è un poligono regolare?
 
 ## Le proprietà della moltiplicazione [lib-4-elementare-matematica-proprieta-moltiplicazione] · FATTORE
 concetti: Proprietà commutativa; Proprietà associativa; Proprietà distributiva; L'uno e lo zero
@@ -365,6 +574,39 @@ concetti: Peso netto; Tara; Peso lordo; Trovare il dato mancante
 - Un fruttivendolo riceve 6 casse di arance: ogni cassa pesa 15 kg lordi e la tara è 2 kg. Quanti kg di arance …
 - Perché il salumiere, prima di pesare il prosciutto, mette la carta sulla bilancia e la azzera?
 
+## Mappe in scala [lib-4-elementare-matematica-scala-mappe] · MAPPA
+concetti: Che cos'è la scala; Dal disegno alla realtà; Dalla realtà al disegno; Scegliere la scala
+- In una pianta in scala 1:100, 1 cm sul disegno corrisponde a…
+- In scala 1:100, 1 cm sul disegno corrisponde a 1 m nella realtà.
+- Sulla pianta in scala 1:100 la cucina è lunga 4 cm. Quanto è lunga davvero?
+- Per passare dalla misura sul disegno a quella reale si ___ per il numero della scala.
+- Un'aula è lunga 8 m. Quanto la disegni in scala 1:200?
+- Su una carta in scala 1:100 000 due paesi distano 3 cm. Quanto distano davvero?
+- Quale scala useresti per disegnare la tua cameretta con tanti particolari?
+- Perché sulle carte geografiche bisogna sempre indicare la scala?
+
+## Matematica in cucina [lib-4-elementare-matematica-matematica-in-cucina] · TORTA
+concetti: Dosi e persone; Pesare gli ingredienti; Misurare i liquidi; I tempi di cottura
+- Una ricetta per 4 persone usa 3 uova. Quante uova servono per 8 persone?
+- Una torta per 6 persone richiede 300 g di farina. Quanta farina serve per 3 persone?
+- 500 g di zucchero sono mezzo chilogrammo.
+- Un quarto di litro di latte corrisponde a ___ ml.
+- Per una torta servono 200 g di farina. Quante torte puoi fare con un pacco da 1 kg?
+- Per un frullato servono 2 dl di latte a persona. Quanti litri servono per 5 persone?
+- Metti la torta in forno alle 16:45 e deve cuocere 40 minuti. A che ora la togli?
+- Una ricetta per 4 persone usa 120 g di burro. Come calcoli il burro per 6 persone?
+
+## Matematica nell'orto [lib-4-elementare-matematica-matematica-nell-orto] · ORTO
+concetti: File e piante; Recinti e perimetro; Area delle aiuole; Il raccolto
+- Nell'orto ci sono 7 file con 9 piantine di lattuga ciascuna. Quante piantine ci sono in tutto?
+- Un'aiuola rettangolare misura 6 m × 4 m. Quanti metri di rete servono per recintarla?
+- Un'aiuola quadrata di lato 3 m ha l'area di 9 m².
+- Un'aiuola di 5 m × 2 m ha un'area di ___.
+- Raccogli 84 pomodori e li metti in cassette da 12. Quante cassette riempi?
+- Vuoi piantare 48 piantine di fragole in file da 8. Quante file fai?
+- Lungo un lato dell'orto lungo 10 m pianti un paletto ogni 2 m, con un paletto all'inizio e uno alla fine. Qua…
+- La mamma vuole dividere 3 kg di zucchine in sacchetti da 250 g da regalare. Quanti sacchetti prepara? Spiega.
+
 ## Meno, più o proprio interi [lib-4-elementare-matematica-frazioni-proprie-improprie-apparenti] · APPARE
 concetti: Frazioni proprie; Frazioni improprie; Frazioni apparenti; Dagli interi alle frazioni
 - Quale di queste frazioni è propria?
@@ -376,6 +618,17 @@ concetti: Frazioni proprie; Frazioni improprie; Frazioni apparenti; Dagli interi
 - Metti queste frazioni in ordine dalla più piccola alla più grande.
 - Perché la frazione 10/5 si chiama «apparente»? Spiega che cosa indica.
 
+## Misure con la virgola [lib-4-elementare-matematica-misure-con-la-virgola] · SARTA
+concetti: Leggere una misura decimale; Verso l'unità più piccola; Verso l'unità più grande; Misure miste nei problemi
+- Che cosa significa 2,5 m?
+- Quanti centimetri sono 1,35 m?
+- 750 g sono uguali a 0,750 kg.
+- Per trasformare 3,2 l in centilitri moltiplichi per ___.
+- Quanti metri sono 3 700 mm?
+- Un pacco pesa 1 kg e 250 g. Come lo scrivi in chilogrammi?
+- Una corda è lunga 3,6 m. Ne tagli 80 cm. Quanto resta?
+- Perché 1,5 kg non è uguale a 1 kg e 5 g?
+
 ## Moltiplicare con la virgola [lib-4-elementare-matematica-moltiplicazione-decimali] · VOLTE
 concetti: Si moltiplica senza virgola; Rimettere la virgola; Stimare per controllare; Decimali nella vita quotidiana
 - Quanto fa 1,2 × 3?
@@ -386,6 +639,17 @@ concetti: Si moltiplica senza virgola; Rimettere la virgola; Stimare per control
 - Il risultato 4,9 per la moltiplicazione 9,8 × 5 è sicuramente sbagliato, perché la stima è circa 50.
 - Una tavoletta di legno è lunga 0,35 m. Ne metti 6 in fila, una dopo l'altra. Quanto è lunga la fila?
 - Giulia calcola 3,4 × 5 e scrive 170. Spiega dove ha sbagliato e qual è il risultato giusto.
+
+## Moltiplicare per tre cifre [lib-4-elementare-matematica-moltiplicazione-tre-cifre] · CIFRA
+concetti: Tre prodotti parziali; Gli spostamenti a sinistra; Lo zero nel moltiplicatore; Stimare il risultato
+- In 324 × 213, quanti prodotti parziali scrivi in colonna?
+- Quando moltiplichi per la cifra delle centinaia, il prodotto parziale si sposta di ___ posti a sinistra.
+- Calcola 213 × 123.
+- In 452 × 301, il prodotto parziale per le decine è tutto di zeri.
+- Calcola 452 × 301.
+- Quale stima è più vicina a 498 × 205?
+- Metti in ordine i passaggi per calcolare 345 × 126 in colonna.
+- Sofia calcola 312 × 204 e ottiene 7 488. Senza rifare il conto, come capisci che ha sbagliato?
 
 ## Moltiplicazioni a due cifre [lib-4-elementare-matematica-moltiplicazione-colonna] · COLONNA
 concetti: I termini della moltiplicazione; Moltiplicare per le unità; Moltiplicare per le decine; Sommare i prodotti parziali
@@ -420,6 +684,28 @@ concetti: I multipli di un numero; I divisori di un numero; Due facce dello stes
 - Il numero 1 è divisore soltanto dei numeri dispari.
 - Giulia dice: «Dire che 12 è multiplo di 3 e dire che 3 è divisore di 12 è la stessa cosa». Ha ragione? Spiega.
 
+## Numeri allo stadio [lib-4-elementare-matematica-numeri-nello-sport] · PUNTI
+concetti: Classifiche e punti; Tempi e decimi; Le misure dello sport; Distacchi e differenze
+- Nel calcio una vittoria vale 3 punti, un pareggio 1 e una sconfitta 0. Una squadra ha 4 vittorie e 2 pareggi.…
+- In una gara di corsa vince chi ha il tempo più alto.
+- Tre ciclisti fanno un giro di pista: Elia 58,4 s, Franco 58,09 s, Gino 59 s. Chi è il più veloce?
+- Una piscina olimpica è lunga 50 m: per nuotare 400 m servono ___ vasche.
+- Nel salto in lungo Marco salta 3,45 m e Luca 3,8 m. Di quanto Luca supera Marco?
+- Una squadra ha 20 punti con 5 vittorie; gli altri punti vengono dai pareggi. Quanti pareggi ha fatto?
+- Una partita di basket finisce 87 a 69. Di quanti punti ha vinto la squadra vincitrice?
+- Due nuotatori arrivano con i tempi 52,3 s e 52,30 s. Chi ha vinto? Spiega.
+
+## Numeri primi, numeri speciali [lib-4-elementare-matematica-numeri-primi] · PRIMO
+concetti: Che cos'è un numero primo; Numeri composti; I casi speciali 1 e 2; Scoprire se è primo
+- Quale di questi numeri è primo?
+- Il numero 1 è un numero primo.
+- Quali sono tutti i divisori di 20?
+- Il numero 2 è l'unico numero primo ___.
+- Quale di questi numeri è composto?
+- Il numero 51 è primo, perché non è pari e non finisce con 5.
+- Nel crivello di Eratostene, dopo aver cerchiato il 2, che cosa cancelli?
+- Luca dice: «29 è un numero primo». Come puoi controllare se ha ragione?
+
 ## Ordinare con i diagrammi [lib-4-elementare-matematica-classificazioni-diagrammi] · INSIEME
 concetti: Classificare con un criterio; Il diagramma di Venn; Il diagramma di Carroll; Il diagramma ad albero
 - Quale criterio divide questi numeri in due gruppi: 4, 10, 22 da una parte e 3, 9, 17 dall'altra?
@@ -442,6 +728,28 @@ concetti: Ore, minuti e secondi; Non è un sistema decimale; Calcolare una durat
 - Luca si allena 45 minuti al giorno, dal lunedì al venerdì. Quanto tempo si allena in una settimana?
 - Perché 100 minuti non sono 1 ora, ma 1 ora e 40 minuti? Spiega.
 
+## Organizziamo la gita! [lib-4-elementare-matematica-gita-scolastica] · GITA
+concetti: Quanto costa a testa; Quanti mezzi servono; Gli orari della giornata; La spesa totale
+- Il biglietto del museo costa 6 € a bambino. Quanto spendono 25 bambini?
+- Il pullman costa 480 € e la spesa si divide fra 40 bambini. Quanto paga ciascuno?
+- Per 45 bambini, con pulmini da 9 posti, servono esattamente 5 pulmini.
+- Partite alle 8:15 e il viaggio dura 1 h 30 min: arrivate alle ___.
+- Quanti pullman da 22 posti servono per 50 persone?
+- La visita al museo va dalle 10:20 alle 12:05. Quanto dura?
+- Il pullman costa 420 € in tutto e il biglietto del parco 8 € a testa. Siete 35 bambini. Quanto paga in tutto …
+- Se alla gita si iscrivono più bambini, il costo del pullman a testa aumenta o diminuisce? Perché?
+
+## Parti uguali o gruppi? [lib-4-elementare-matematica-ripartizione-contenenza] · GRUPPO
+concetti: Divisione di ripartizione; Divisione di contenenza; Stessa operazione, domande diverse; Che cosa indica il risultato
+- «24 caramelle divise fra 4 bambini: quante a testa?» Che tipo di divisione è?
+- Hai 36 uova e le metti in scatole da 6. Quante scatole riempi?
+- «Quanti sacchetti da 5 kg riempio con 40 kg di patate?» è una divisione di contenenza.
+- Quale problema si risolve con 48 : 8 come divisione di ripartizione?
+- In «60 € divisi fra 3 amici», il risultato 20 indica 20 ___ per ogni amico.
+- Un nastro di 90 cm va tagliato in pezzi da 15 cm. Il risultato 6 indica…
+- Prima formi file da 7 con 56 sedie; poi sistemi 56 sedie in 7 file uguali. Che cosa indica il risultato 8 nei…
+- Inventa due problemi con la divisione 30 : 5, uno di ripartizione e uno di contenenza.
+
 ## Più o meno quanto fa? [lib-4-elementare-matematica-arrotondamento-stima] · CIRCA
 concetti: La regola del cinque; Per difetto e per eccesso; Stimare un risultato; Quando basta circa
 - Arrotonda 4 682 alle centinaia.
@@ -452,6 +760,17 @@ concetti: La regola del cinque; Per difetto e per eccesso; Stimare un risultato;
 - Un libro costa 19 € e ne compri 6. Senza fare il calcolo esatto, circa quanto spendi?
 - Metti in ordine i passaggi per arrotondare 58 470 alle migliaia.
 - Il giornale scrive: «Alla partita c'erano circa 40 000 spettatori», anche se erano 39 812. Perché si usa un n…
+
+## Prima del metro [lib-4-elementare-matematica-misure-antiche] · PALMO
+concetti: Misurare con il corpo; Misure diverse per tutti; Il metro, misura per tutti; Scegliere l'unità adatta
+- Quale di queste è una misura antica basata sul corpo?
+- Se Marco e il suo papà misurano la stessa stanza a passi, trovano per forza lo stesso numero di passi.
+- Anna misura il banco: 6 spanne. La maestra lo misura: 4 spanne. Perché?
+- Il metro è un'unità di misura ___: vale uguale per tutti.
+- Perché si usa il metro in tanti Paesi del mondo?
+- Quale unità è più adatta per misurare la lunghezza di una formica?
+- Quale unità useresti per la distanza tra Roma e Milano?
+- Un falegname costruisce un tavolo misurando «a palmi» con la sua mano, ma il cliente l'aveva ordinato misuran…
 
 ## Prima le parentesi! [lib-4-elementare-matematica-espressioni-parentesi] · TONDE
 concetti: Che cos'è un'espressione; Prima moltiplicazioni e divisioni; Le parentesi tonde; Dal problema all'espressione
@@ -464,6 +783,28 @@ concetti: Che cos'è un'espressione; Prima moltiplicazioni e divisioni; Le paren
 - Metti in ordine i passaggi per calcolare (20 − 4 × 3) × 2 + 1.
 - Perché 2 × (3 + 4) e 2 × 3 + 4 danno risultati diversi? Spiega con i calcoli.
 
+## Problemi con le frazioni [lib-4-elementare-matematica-problemi-con-frazioni] · FETTA
+concetti: La frazione di un numero; Quanto resta; Dalla parte all'intero; Problemi in due passaggi
+- In una classe di 24 alunni, 1/3 va a scuola in bici. Quanti alunni vanno in bici?
+- Un rotolo di stoffa è lungo 80 m. Il sarto ne usa i 3/8. Quanti metri usa?
+- In un sacchetto di 20 caramelle i 2/5 sono alla fragola: le caramelle che non sono alla fragola sono 12.
+- Se 1/6 dei posti di un pullman sono 9 posti, il pullman ha in tutto ___ posti.
+- In un acquario i 3/5 dei pesci sono rossi: sono 12 pesci. Quanti pesci ci sono nell'acquario?
+- Una torta pesa 900 g. Ne mangiate i 2/9 e poi regalate 1/3 della torta intera. Quanti grammi restano?
+- In un parcheggio ci sono 60 auto: 1/4 sono rosse e 1/5 sono bianche. Quante auto non sono né rosse né bianche?
+- Giulia ha 30 figurine e ne regala i 3/5. Luca dice che le restano 18 figurine. Ha ragione? Spiega.
+
+## Problemi con le misure [lib-4-elementare-matematica-problemi-con-misure] · NASTRO
+concetti: Stessa unità prima di calcolare; Capacità nei problemi; Peso nei problemi; Lunghezza nei problemi
+- Per sommare 2 m e 35 cm conviene prima trasformare tutto nella stessa unità di misura.
+- Una brocca contiene 2 l di limonata. Quanti bicchieri da 25 cl puoi riempire?
+- Un'aiuola ha il perimetro di 12 m. Vuoi piantare un fiore ogni 50 cm lungo il bordo, che è chiuso. Quanti fio…
+- Una cassa contiene 8 sacchetti da 750 g. Quanto pesano in tutto i sacchetti?
+- 2 kg di farina meno 300 g di farina fanno ___.
+- Una vasca da 240 l si riempie con 12 l d'acqua al minuto. In quanti minuti è piena?
+- Una staffetta di 2 km è divisa tra 4 atleti in parti uguali. Quanti metri corre ciascuno?
+- Un nastro è lungo 3 m. Tagli 4 pezzi da 45 cm. Quanto nastro resta? Spiega i passaggi.
+
 ## Problemi passo dopo passo [lib-4-elementare-matematica-problemi-piu-passaggi] · PASSI
 concetti: Le domande nascoste; Scegliere le operazioni; Lo schema dei passaggi; Controllare la risposta
 - «Il papà ha 50 € e compra 3 libri da 12 € l'uno. Quanto gli resta?» Quale domanda nascosta risolvi per prima?
@@ -474,6 +815,17 @@ concetti: Le domande nascoste; Scegliere le operazioni; Lo schema dei passaggi; 
 - «Un panettiere sforna 8 teglie da 15 biscotti, ne regala 20 e mette gli altri in sacchetti da 10.» Metti in o…
 - Leo risolve «Ho 3 confezioni da 12 pennarelli e ne perdo 5: quanti ne ho?» scrivendo 3 × 12 − 5 = 41. Che cos…
 - Qual è la domanda nascosta di questo problema? Scrivila e risolvi: «Una libreria riceve 5 pacchi da 24 libri …
+
+## Quanti abbinamenti possibili? [lib-4-elementare-matematica-combinazioni] · COPPIA
+concetti: Che cos'è un abbinamento; Contare con la moltiplicazione; Tabelle e alberi; Con tre gruppi
+- Hai 3 magliette e 2 pantaloncini. Quanti abbinamenti diversi puoi fare?
+- Con 4 gusti di gelato e 2 tipi di cono si possono fare 8 gelati diversi (un gusto e un cono).
+- Per elencare tutti gli abbinamenti senza dimenticarne nessuno, quale strumento è utile?
+- Per contare gli abbinamenti tra due gruppi si usa la ___.
+- Al bar scegli un panino (prosciutto o formaggio) e una bibita (acqua o succo). Quale di questi NON è un abbin…
+- Un menù ha 2 primi, 3 secondi e 2 dolci. Quanti menù diversi (un primo, un secondo e un dolce) puoi comporre?
+- In un diagramma ad albero partono 4 rami e da ognuno partono altri 3 rami. Quanti percorsi completi ci sono?
+- Hai 5 magliette e vuoi poter fare almeno 20 abbinamenti diversi con i pantaloni. Quanti pantaloni ti servono?…
 
 ## Quanto costa uno solo? [lib-4-elementare-matematica-costo-unitario-totale] · PREZZO
 concetti: Costo unitario; Costo totale; Dal totale all'unitario; Confrontare le offerte
@@ -486,6 +838,17 @@ concetti: Costo unitario; Costo totale; Dal totale all'unitario; Confrontare le 
 - Hai pagato 18 € per 6 m di stoffa. Quanto pagherai per 10 m della stessa stoffa?
 - Una bottiglia d'olio da 1 l costa 9 € e una da mezzo litro costa 5 €. Ti serve 1 litro: spiega quale scelta c…
 
+## Quanto dura il viaggio? [lib-4-elementare-matematica-orari-e-durate] · TRENO
+concetti: L'orario sulle 24 ore; Calcolare una durata; Trovare l'orario di arrivo; Trovare l'orario di partenza
+- Le 18:00 corrispondono…
+- Le 21:30 sono le nove e mezza di sera.
+- Un treno parte alle 9:15 e arriva alle 11:45. Quanto dura il viaggio?
+- La lezione di nuoto va dalle 15:35 alle 16:20. Quanto dura?
+- Se parti alle 14:50 e viaggi per 20 minuti, arrivi alle ___.
+- Un pullman parte alle 7:35 e il viaggio dura 1 h 40 min. A che ora arriva?
+- Un film finisce alle 22:10 e dura 1 h 50 min. A che ora è iniziato?
+- Un treno parte alle 23:30 e arriva all'1:15 della notte. Quanto dura il viaggio? Spiega come conti.
+
 ## Quanto spazio occupa? [lib-4-elementare-matematica-superficie-area] · TAPPETO
 concetti: Superficie e area; Misurare con i quadretti; Il centimetro quadrato; Perimetro e area sono diversi
 - La misura della superficie di una figura si chiama ___.
@@ -496,6 +859,17 @@ concetti: Superficie e area; Misurare con i quadretti; Il centimetro quadrato; P
 - Come si chiamano due figure che hanno la stessa area ma forma diversa?
 - Un rettangolo di 6 × 2 quadretti e un quadrato di 4 × 4 quadretti hanno lo stesso perimetro. Quale ha l'area …
 - Spiega la differenza tra perimetro e area con l'esempio di un campo da calcio.
+
+## Relazioni con le frecce [lib-4-elementare-matematica-relazioni-frecce] · LEGAME
+concetti: Che cos'è una relazione; Il diagramma a frecce; La relazione inversa; Relazioni tra numeri
+- Nella frase «Luca è il fratello di Anna», qual è la relazione?
+- Nel diagramma della relazione «è il doppio di», da 8 parte una freccia verso…
+- Se invertiamo le frecce della relazione «è il doppio di», otteniamo la relazione «è la metà di».
+- La relazione inversa di «è maggiore di» è «è ___ di».
+- Nell'insieme {2, 3, 6, 9}, con la relazione «è un divisore di», quale freccia è giusta?
+- Con la relazione «è maggiore di» tra i numeri 5, 7 e 12, quante frecce disegni?
+- Relazione «abita nella stessa via di»: se c'è una freccia da Marco a Giulia, c'è anche la freccia da Giulia a…
+- Nella relazione «è figlio di» c'è una freccia da Paolo a Mario. Che cosa significa? Qual è la relazione inver…
 
 ## Rette, semirette e segmenti [lib-4-elementare-matematica-rette-semirette-segmenti] · RETTA
 concetti: Retta, semiretta, segmento; Rette incidenti e perpendicolari; Rette parallele; Linee nella realtà
@@ -508,6 +882,72 @@ concetti: Retta, semiretta, segmento; Rette incidenti e perpendicolari; Rette pa
 - Quanti segmenti diversi puoi disegnare unendo a due a due tre punti A, B, C non allineati?
 - Spiega la differenza tra due rette parallele e due rette perpendicolari, con un esempio che trovi in classe.
 
+## Ripasso delle quattro operazioni [lib-4-elementare-matematica-ripasso-quattro-operazioni] · CALCOLO
+concetti: Scegliere l'operazione; I termini delle operazioni; L'ordine delle operazioni; Controllare con la prova
+- Come si chiama il risultato della sottrazione?
+- «Ci sono 6 scaffali con 35 libri ciascuno. Quanti libri ci sono in tutto?» Quale operazione serve?
+- In 30 − 6 × 4 si calcola prima 6 × 4, quindi il risultato è 6.
+- Nella sottrazione 95 − 38 = 57, il numero 95 si chiama ___.
+- Per controllare che 23 × 14 = 322 sia giusto, quale calcolo puoi fare?
+- Quanto fa 36 : 4 + 5 × 2?
+- Maria ha 125 €, ne spende 48 e poi riceve 30 € dalla nonna. Quanti euro ha ora?
+- Sami calcola 156 : 12 = 13. Come può controllare il risultato senza rifare la divisione?
+
+## Ripasso: il mondo delle frazioni [lib-4-elementare-matematica-ripasso-frazioni] · PARTE
+concetti: Leggere una frazione; Proprie, improprie, apparenti; Frazioni equivalenti; Frazioni e numeri decimali
+- Nella frazione 5/8, che cosa indica l'8?
+- La frazione 11/6 è impropria perché il numeratore è maggiore del denominatore.
+- Quale di queste frazioni è apparente?
+- La frazione 2/3 è equivalente a ___.
+- Semplifica 18/24 ai minimi termini.
+- Come si scrive 7/1 000 con un numero decimale?
+- Quale frazione decimale corrisponde al numero 2,3?
+- Luca dice che per trovare una frazione equivalente a 3/5 basta aggiungere 1 sopra e sotto, così ottiene 4/6. …
+
+## Ripasso: misurare il mondo [lib-4-elementare-matematica-ripasso-misure] · MISURA
+concetti: Lunghezza, capacità e peso; Equivalenze veloci; Misurare il tempo; Stimare e scegliere l'unità
+- Con quale unità misuri l'acqua contenuta in una pentola?
+- Quanto pesa più o meno una mela?
+- 1 kg di piume pesa meno di 1 kg di ferro.
+- 5 kg e 40 g sono uguali a ___ g.
+- Quanti centilitri sono 3 dl?
+- Quanti minuti sono 3 ore e un quarto?
+- Quale misura è più adatta per l'altezza di una porta?
+- Come puoi stimare l'altezza della tua aula senza usare il metro? Spiega.
+
+## Ripasso: numeri con la virgola [lib-4-elementare-matematica-ripasso-decimali] · DECIMO
+concetti: Il valore delle cifre decimali; Confrontare i decimali; Calcolare con i decimali; Decimali e denaro
+- Nel numero 8,306 la cifra 6 indica…
+- Tra questi numeri con la virgola, qual è il maggiore?
+- 5,1 è maggiore di 5,09.
+- 6,25 + 1,8 = ___
+- Calcola 10 − 3,45.
+- Calcola 2,5 × 4.
+- Compri un quaderno da 1,85 € e una penna da 0,90 €. Paghi con 5 €. Quanto ricevi di resto?
+- Che differenza c'è tra 0,3 € e 0,03 €? Spiega usando i centesimi.
+
+## Ripasso: numeri grandi da campioni [lib-4-elementare-matematica-ripasso-numeri-grandi] · CIFRE
+concetti: Valore posizionale; Confronto e ordine; Arrotondare i numeri grandi; Numeri grandi nella realtà
+- Nel numero 507 312, che valore ha la cifra 5?
+- Il numero 40 060 si legge «quarantamilasessanta».
+- Quale di questi numeri è il maggiore?
+- Il numero formato da 6 dak, 4 h e 9 u è ___.
+- Arrotonda 46 780 alle migliaia.
+- Uno stadio ha 52 300 posti. Una sera ci sono 48 950 spettatori. Quanti posti restano vuoti?
+- Ordina i numeri dal minore al maggiore.
+- Perché 1 000 000 e 100 000 sembrano simili ma sono molto diversi?
+
+## Risparmiare la paghetta [lib-4-elementare-matematica-risparmio-paghetta] · SOLDI
+concetti: Il risparmio settimanale; Quanto tempo serve; Entrate e uscite; Pianificare un acquisto
+- Ogni settimana metti da parte 3 €. Quanto hai dopo 8 settimane?
+- Ricevi 10 € di paghetta e ne spendi 6,50 €. Quanto risparmi?
+- Se risparmi 4 € a settimana, per mettere da parte 36 € ti servono 9 settimane.
+- Il risparmio è la differenza tra i soldi che ricevi e quelli che ___.
+- Vuoi un libro da 15 € e risparmi 2,50 € a settimana. Quante settimane ti servono?
+- Hai 12 € nel salvadanaio e un gioco costa 33 €. Risparmi 3 € a settimana. Quante settimane ti servono?
+- Metti in ordine i passaggi per capire in quante settimane potrai comprare una bici.
+- Luca riceve 5 € a settimana e spende sempre 5 €. Riuscirà a comprare un pallone da 20 €? Che cosa gli consigl…
+
 ## Ritrovare l'intero [lib-4-elementare-matematica-dalla-frazione-all-intero] · RITORNO
 concetti: Dall'unità frazionaria all'intero; Da una frazione all'intero; Il ragionamento inverso; Controllare il risultato
 - 1/3 di un numero è 7. Qual è il numero?
@@ -518,6 +958,61 @@ concetti: Dall'unità frazionaria all'intero; Da una frazione all'intero; Il rag
 - Metti in ordine i passaggi per trovare il numero di cui i 5/6 sono 30.
 - Sai che i 3/8 di un numero sono 18 e trovi che il numero è 48. Quale calcolo usi per controllare?
 - In gita 1/4 dei bambini, cioè 9 bambini, porta il panino al prosciutto. Spiega come trovi quanti bambini ci s…
+
+## Saldi e sconti [lib-4-elementare-matematica-saldi-sconti] · SALDI
+concetti: Prezzo, sconto e prezzo scontato; Lo sconto in frazione; Trovare il dato mancante; Confrontare le offerte
+- Una felpa costa 30 € e ha 8 € di sconto. Quanto la paghi?
+- Prezzo scontato = prezzo iniziale ___ sconto.
+- Se un gioco costava 45 € e ora costa 36 €, lo sconto è di 9 €.
+- Uno zaino da 40 € è scontato di 1/4. Di quanti euro è lo sconto?
+- Uno zaino da 40 € è scontato di 1/4. Quanto lo paghi?
+- Un pallone costa 24 €. Quale sconto ti fa risparmiare di più?
+- Dopo uno sconto di 12 € un paio di scarpe costa 48 €. Quanto costava prima?
+- Un negozio fa lo sconto di 1/2 su una giacca da 80 €, un altro vende la stessa giacca a 45 €. Dove conviene c…
+
+## Salti sulla linea dei numeri [lib-4-elementare-matematica-linea-dei-numeri] · SALTO
+concetti: Ordine sulla linea; Il passo della linea; Salti avanti e indietro; Trovare il numero nascosto
+- Sulla linea dei numeri, dove si trova 4 500 rispetto a 4 050?
+- Su una linea dei numeri le tacche sono 0, 250, 500, 750…: il passo è 250.
+- Una linea va da 3 000 a 4 000 ed è divisa in 10 parti uguali. Quanto vale ogni passo?
+- Parti da 2 700 e fai 3 salti in avanti da 200. Dove arrivi?
+- Un salto all'indietro sulla linea dei numeri corrisponde a una ___.
+- Una linea parte da 0 e ha il passo di 50. Una freccia indica la 7ª tacca dopo lo zero. Quale numero indica?
+- Metti in ordine i numeri come compaiono sulla linea, da sinistra a destra.
+- Su una linea vedi le tacche 1 200 e 1 600 e, in mezzo, altre 3 tacche alla stessa distanza. Come scopri quant…
+
+## Seguire un diagramma di flusso [lib-4-elementare-matematica-diagrammi-di-flusso] · FRECCIA
+concetti: Inizio, fine e frecce; Le istruzioni; Domande e scelte; Ripetere
+- In un diagramma di flusso, le frecce indicano…
+- Quale forma si usa per una domanda con risposta sì o no?
+- Nel rettangolo di un diagramma di flusso si scrive un'istruzione da eseguire, per esempio «Lava i denti».
+- Ogni diagramma di flusso comincia con «inizio» e termina con «___».
+- Un diagramma dice: «Il numero è pari? Se sì, dividilo per 2; se no, aggiungi 1». Parti da 7. Che numero ottie…
+- «Parti da 1. Aggiungi 3. Il numero è maggiore di 10? Se no, torna ad aggiungere 3; se sì, scrivi il numero e …
+- Metti in ordine le parti del diagramma di flusso «Preparare una spremuta».
+- Perché in un diagramma di flusso servono i rombi con le domande, invece di sole istruzioni una dopo l'altra?
+
+## Sommare frazioni sorelle [lib-4-elementare-matematica-frazioni-stesso-denominatore] · SOMMA
+concetti: Pezzi della stessa grandezza; Addizione di frazioni; Sottrazione di frazioni; Arrivare all'intero
+- Quanto fa 2/7 + 3/7?
+- Per sommare 1/5 + 2/5 si sommano anche i denominatori e si ottiene 3/10.
+- Quanto fa 7/9 − 4/9?
+- Per sommare frazioni contando i pezzi, i pezzi devono avere la stessa ___, cioè lo stesso denominatore.
+- Quanto manca a 4/9 per fare un intero?
+- Una pizza è tagliata in 6 fette. Luca ne mangia 2/6 e Anna 3/6. Quanta pizza resta?
+- In una bottiglia ci sono 9/10 di litro di succo. Ne bevi 4/10. Quanto succo resta?
+- Perché 1/2 + 1/4 non fa 2/6?
+
+## Sotto lo zero [lib-4-elementare-matematica-numeri-sotto-zero] · GELO
+concetti: Numeri sotto lo zero; Confrontare sotto lo zero; Salire e scendere; Dove li incontriamo
+- In ascensore il tasto −1 ti porta…
+- Una temperatura di −3 °C è più fredda di 0 °C.
+- Quale temperatura è la più fredda?
+- Tra −1 e −6, il numero maggiore è ___.
+- Al mattino ci sono −2 °C; a mezzogiorno la temperatura sale di 7 gradi. Quanti gradi ci sono?
+- La sera ci sono 3 °C; di notte la temperatura scende di 5 gradi. Quanti gradi ci sono di notte?
+- Metti in ordine le temperature dalla più fredda alla più calda.
+- Da −4 °C la temperatura arriva a 3 °C. Di quanti gradi è salita? Spiega come conti.
 
 ## Specchi, scivolate e giri [lib-4-elementare-matematica-simmetria-traslazione-rotazione] · ASSE
 concetti: La simmetria assiale; La traslazione; La rotazione; Forma e misure non cambiano
@@ -541,6 +1036,28 @@ concetti: Spesa; Ricavo; Guadagno; Perdita
 - Una cartoleria compra 40 zaini a 15 € l'uno e li vende tutti a 22 € l'uno. Quanto guadagna in tutto?
 - Un venditore compra 10 magliette a 6 € l'una e ne vende 8 a 9 € l'una. Spiega se guadagna o perde, e di quant…
 
+## Stesso giro, area diversa [lib-4-elementare-matematica-isoperimetria-equiestensione] · RECINTO
+concetti: Figure isoperimetriche; Figure equiestese; Stesso perimetro, area diversa; Scomporre e ricomporre
+- Due figure con lo stesso perimetro si dicono…
+- Un rettangolo di 2 cm × 8 cm e un quadrato di lato 4 cm hanno lo stesso…
+- Due rettangoli con lo stesso perimetro hanno sempre la stessa area.
+- Con 20 m di rete vuoi recintare l'orto rettangolare più grande possibile. Quale scegli?
+- Se tagli un quadrato in pezzi e li ricomponi in un'altra figura, l'area resta ___.
+- Quale rettangolo ha lo stesso perimetro di un quadrato di lato 7 cm?
+- Con i 7 pezzi del tangram costruisci prima un quadrato, poi la sagoma di un gatto. Le due figure sono…
+- Con 16 quadretti puoi formare un rettangolo 1 × 16 oppure un quadrato 4 × 4. Hanno la stessa area? E lo stess…
+
+## Tabelle a doppia entrata [lib-4-elementare-matematica-tabelle-doppia-entrata] · RIGA
+concetti: Righe e colonne; Leggere un dato; Totali di riga e di colonna; Costruire una tabella
+- In una tabella a doppia entrata, ogni casella si trova…
+- Le righe di una tabella sono orizzontali e le colonne sono verticali.
+- Tabella delle merende. 4A: frutta 8, yogurt 5, panino 12, cracker 3. 4B: frutta 10, yogurt 7, panino 9, crack…
+- Tabella delle merende. 4A: frutta 8, yogurt 5, panino 12, cracker 3. 4B: frutta 10, yogurt 7, panino 9, crack…
+- Per sapere quanti bambini in tutto hanno portato la frutta, sommi i numeri della ___ «frutta».
+- Tabella delle merende. 4A: frutta 8, yogurt 5, panino 12, cracker 3. 4B: frutta 10, yogurt 7, panino 9, crack…
+- Vuoi registrare quanti maschi e quante femmine preferiscono calcio, nuoto o danza. Come organizzi la tabella?
+- Che vantaggio ha una tabella a doppia entrata rispetto a un elenco di frasi come «8 bambini della 4A hanno po…
+
 ## Triangoli di tutti i tipi [lib-4-elementare-matematica-triangoli-classificazione] · SQUADRA
 concetti: Triangoli secondo i lati; Triangoli secondo gli angoli; La somma degli angoli; Il triangolo è rigido
 - Un triangolo ha i lati di 5 cm, 5 cm e 5 cm. Come si chiama?
@@ -552,6 +1069,17 @@ concetti: Triangoli secondo i lati; Triangoli secondo gli angoli; La somma degli
 - Può esistere un triangolo con due angoli retti?
 - Perché nei ponti e nei tralicci della luce si vedono tantissimi triangoli?
 
+## Trova l'altezza giusta [lib-4-elementare-matematica-altezze-poligoni] · ALTEZZA
+concetti: Che cos'è l'altezza; Tre altezze per triangolo; Altezze dei quadrilateri; Tracciare con la squadra
+- L'altezza di un triangolo forma con la base un angolo…
+- Ogni triangolo ha tre altezze.
+- Da quale punto parte l'altezza relativa alla base AB del triangolo ABC?
+- In un rettangolo con la base di 8 cm e il lato verticale di 5 cm, l'altezza misura ___.
+- In un triangolo rettangolo, quali lati sono anche altezze?
+- In un trapezio, che cosa misura l'altezza?
+- Metti in ordine i passaggi per tracciare con la squadra l'altezza di un triangolo sulla base AB.
+- Un parallelogramma ha la base di 9 cm, i lati obliqui di 5 cm e l'altezza di 4 cm. Perché l'altezza è più cor…
+
 ## Trucchi per somme e differenze [lib-4-elementare-matematica-proprieta-addizione-sottrazione] · TRUCCO
 concetti: Proprietà commutativa; Proprietà associativa; Proprietà invariantiva; Nella sottrazione l'ordine conta
 - Quale uguaglianza mostra la proprietà commutativa dell'addizione?
@@ -562,3 +1090,25 @@ concetti: Proprietà commutativa; Proprietà associativa; Proprietà invariantiv
 - Metti in ordine i passaggi per calcolare a mente 27 + 45 + 73.
 - Sara ha calcolato 128 + 67 = 195. Come può controllare il risultato usando la proprietà commutativa?
 - Perché 400 − 165 è più facile da calcolare come 399 − 164? Spiega usando la proprietà invariantiva.
+
+## Tutti, alcuni, nessuno [lib-4-elementare-matematica-quantificatori] · TUTTI
+concetti: «Tutti» e «ogni»; «Alcuni»; «Nessuno»; Il controesempio
+- Nell'insieme {3, 5, 7, 9}, quale enunciato è vero?
+- Nell'insieme {10, 20, 30} nessun numero è dispari.
+- Nell'insieme {2, 4, 6, 9, 12}, quale enunciato è vero?
+- «Alcuni» vuol dire che la proprietà vale per ___ un elemento.
+- Per dimostrare che «tutti i numeri di {4, 8, 11, 16} sono pari» è falso, basta indicare…
+- Nell'insieme {quadrato, rettangolo, rombo}, quale enunciato è vero?
+- Qual è il contrario di «Tutti i bambini della classe hanno il cane»?
+- Sara dice: «Tutti i numeri che finiscono con 5 sono divisibili per 5». Paolo dice: «Tutti i numeri dispari so…
+
+## Un quarto d'ora [lib-4-elementare-matematica-frazioni-del-tempo] · QUARTO
+concetti: L'ora divisa in parti; Frazioni del minuto e del giorno; Leggere l'orologio; Durate con le frazioni
+- Quanti minuti sono un quarto d'ora?
+- Quanti minuti sono tre quarti d'ora?
+- Le «10 meno un quarto» corrispondono alle 9:45.
+- Quando la lancetta lunga è sul 6, diciamo che sono le ore «e ___».
+- Quante ore sono un quarto di giorno?
+- Quanti secondi sono mezzo minuto?
+- Un film dura 1 ora e 3/4. Quanti minuti dura in tutto?
+- Un allenamento inizia alle 16:30 e dura tre quarti d'ora. A che ora finisce? Spiega.

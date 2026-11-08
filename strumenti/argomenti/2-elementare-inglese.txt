@@ -1,6 +1,17 @@
-# 2ª elementare · Inglese: 50 missioni valide
-# ultima bozza numerata: 06 · aggiornato 2026-11-08 18:57
+# 2ª elementare · Inglese: 100 missioni valide
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
+
+## Alberi, fiori e sole [lib-2-elementare-inglese-natura-tree-flower] · FLOWER
+concetti: Tree e leaves; Flower e grass; Sun, moon e stars; River e mountain
+- Come si dice 'fiore'?
+- Di notte in cielo vedi la moon.
+- Come si dice 'albero'?
+- Dove scorre l'acqua dalla montagna al mare?
+- D'estate l'albero è pieno di ___ verdi.
+- Che cosa splende di giorno in cielo?
+- Leaf al plurale fa leafs.
+- Descrivi in inglese un paesaggio che ti piace con tre parole della natura.
 
 ## Allo zoo: lion e tiger [lib-2-elementare-inglese-animali-zoo-wild] · TIGER
 concetti: Lion e tiger; Elephant e giraffe; Monkey e zebra; Crocodile e snake
@@ -24,6 +35,28 @@ concetti: Apple e pear; Banana e orange; Strawberry, cherry e lemon
 - Quale frutto è piccolo, rosso, tondo e ha il nocciolo?
 - Qual è il tuo frutto preferito? Scrivi il nome in inglese e di che colore è.
 
+## Big o small? Long o short? [lib-2-elementare-inglese-aggettivi-big-small-long] · SMALL
+concetti: Big e small; Long e short; Tall; Aggettivo prima del nome
+- Come si dice 'piccolo'?
+- An elephant is big.
+- Il serpente è...
+- La giraffa ha il collo lungo ed è molto...
+- Ho un cane grande: I have got a ___ dog.
+- Come si dice 'un gatto piccolo'?
+- Short è il contrario di long.
+- Descrivi in inglese un animale con due aggettivi tra big, small, long, short, tall.
+
+## Bingo! I numeri nel gioco [lib-2-elementare-inglese-numeri-tombola-bingo] · BINGO
+concetti: Il gioco del bingo; Numeri simili; Lettere e cifre; Il dado
+- Che cosa gridi quando hai coperto tutta la cartella?
+- Su un dado normale il numero più alto è six.
+- Sulla tua cartella c'è il 14. Quale numero devi sentire per coprirlo?
+- Come si scrive in lettere 17?
+- Il numero 6 si dice six, il numero 16 si dice ___.
+- Tiri due dadi: esce 5 e 6. Quanto fa in tutto?
+- Thirteen e three sono lo stesso numero.
+- Perché nel bingo bisogna ascoltare bene la fine della parola, per esempio in nine e nineteen?
+
 ## Black, white e brown [lib-2-elementare-inglese-colori-black-white-brown] · WHITE
 concetti: Black e white; Il colore brown; Il colore prima della cosa
 - Di che colore è la neve?
@@ -34,6 +67,17 @@ concetti: Black e white; Il colore brown; Il colore prima della cosa
 - Come si dice 'un gatto nero' in inglese?
 - Che cosa vuol dire a white dog?
 - Perché in inglese si dice a black cat e non a cat black? Scrivi un altro esempio con un colore.
+
+## Capelli lunghi, occhi blu [lib-2-elementare-inglese-descrivere-persone] · BLONDE
+concetti: Hair: long e short; Colori dei capelli; Eyes; Tall e short
+- Che cosa vuol dire long hair?
+- Blonde hair vuol dire 'capelli biondi'.
+- Come si dice 'occhi azzurri'?
+- Il papà è molto alto. Come si dice?
+- Ha i capelli corti: she has got ___ hair.
+- Capelli rossi in inglese si dicono...
+- Per una persona bassa si dice He is long.
+- Descrivi te stesso in inglese: capelli e occhi.
 
 ## Carrot, potato e tomato [lib-2-elementare-inglese-verdura-vegetables] · CARROT
 concetti: Carrot e potato; Tomato, il pomodoro; Peas e onion; Plurali con -es
@@ -79,6 +123,17 @@ concetti: Breakfast, la colazione; Milk, tea e juice; Bread, butter e jam; Cerea
 - Che cosa sono gli eggs?
 - Scrivi in inglese che cosa mangi e che cosa bevi a breakfast.
 
+## Circle, match e tick! [lib-2-elementare-inglese-istruzioni-esercizi-circle-match] · MATCH
+concetti: Circle; Match; Tick e cross; Cut e stick
+- La scheda dice Circle the cat. Che cosa fai?
+- Match vuol dire collegare con una linea.
+- Che cosa vuol dire Cut?
+- Che segno fai se la scheda dice Tick?
+- La risposta è giusta: ___ the box!
+- Metti in ordine le istruzioni per attaccare una figura sul quaderno.
+- Match the word dog with the picture. Quale disegno scegli?
+- Che differenza c'è tra tick e cross?
+
 ## Circle, square e triangle [lib-2-elementare-inglese-forme-shapes] · SHAPE
 concetti: Circle, il cerchio; Square e rectangle; Triangle, il triangolo; Star e heart
 - Una ruota ha la forma di un...
@@ -89,6 +144,17 @@ concetti: Circle, il cerchio; Square e rectangle; Triangle, il triangolo; Star e
 - Una fetta di pizza ha più o meno la forma di un...
 - Square e rectangle sono la stessa forma.
 - Guardati intorno: trova due oggetti e scrivi la loro forma in inglese.
+
+## Clap your hands, touch your nose [lib-2-elementare-inglese-corpo-azioni-touch-clap] · CLAP
+concetti: Touch; Clap; Stamp e shake; Your
+- Che cosa fai se senti Clap your hands?
+- Touch your nose vuol dire 'tocca il naso'.
+- Che cosa fai se senti Stamp your feet?
+- Touch your ears: che cosa tocchi?
+- Muovi la testa per dire no: ___ your head.
+- Che cosa vuol dire your in Touch your toes?
+- Clap your hands vuol dire «alza le mani».
+- Inventa tre comandi in inglese per un gioco di movimento con il corpo.
 
 ## Conto da one a ten [lib-2-elementare-inglese-numeri-da-1-a-10] · NUMBER
 concetti: Da one a five; Da six a ten; I numeri in fila
@@ -101,6 +167,17 @@ concetti: Da one a five; Da six a ten; I numeri in fila
 - Dopo six viene eight.
 - Conta in inglese gli oggetti nel tuo astuccio o i giochi sulla tua mensola e scrivi il numero in lettere.
 
+## Corri, salta, nuota! [lib-2-elementare-inglese-azioni-run-jump-swim] · JUMP
+concetti: Run e walk; Jump e climb; Swim e fly; I can...
+- Che cosa vuol dire run?
+- Swim vuol dire 'nuotare'.
+- Il delfino vive nel mare. Che cosa sa fare benissimo?
+- La scimmia sale sull'albero. Che cosa fa?
+- I can ___ in the pool.
+- Che differenza c'è tra walk e run?
+- I can walk vuol dire «so correre».
+- Scrivi in inglese due cose che sai fare con I can.
+
 ## Cosa mi metto con questo tempo? [lib-2-elementare-inglese-vestiti-e-tempo] · COAT
 concetti: Vestiti per il freddo; Vestiti per la pioggia; Vestiti per il caldo
 - Che cosa vuol dire raincoat?
@@ -111,6 +188,17 @@ concetti: Vestiti per il freddo; Vestiti per la pioggia; Vestiti per il caldo
 - Nevica! Quale gruppo di vestiti è giusto?
 - Quando è hot è una buona idea mettere i gloves.
 - Oggi piove e domani farà molto caldo. Scrivi in inglese che cosa ti metti nei due giorni e perché.
+
+## Cuccioli: lamb, chick e calf [lib-2-elementare-inglese-cuccioli-baby-animals] · LAMB
+concetti: Puppy e kitten; Lamb e calf; Chick e duckling; Mum and baby
+- Come si chiama il cucciolo del cane?
+- Chick è il pulcino.
+- Lamb è il cucciolo di...
+- Calf è il cucciolo di...
+- Il piccolo dell'anatra è il ___.
+- Come si dice «tre cagnolini»?
+- Mum and baby vuol dire 'papà e cucciolo'.
+- Scegli due animali della fattoria e scrivi in inglese il nome del loro cucciolo.
 
 ## Da eleven a twenty [lib-2-elementare-inglese-numeri-da-11-a-20] · TWELVE
 concetti: Eleven e twelve; I numeri in -teen; Il numero twenty; Lo spelling dei -teen
@@ -123,6 +211,28 @@ concetti: Eleven e twelve; I numeri in -teen; Il numero twenty; Lo spelling dei 
 - Quale numero viene subito dopo eleven?
 - Perché 15 si scrive fifteen e non fiveteen? Spiega che cosa cambia.
 
+## Da grande farò il doctor! [lib-2-elementare-inglese-mestieri-jobs] · DOCTOR
+concetti: Teacher e doctor; Cook e farmer; Firefighter e police officer; I want to be...
+- Chi ti cura quando hai la febbre?
+- Farmer è il contadino.
+- Chi spegne gli incendi?
+- Chi prepara i piatti al ristorante?
+- A scuola insegna la ___.
+- Ami gli animali e vuoi curarli. Che cosa dici?
+- Il police officer lavora in cucina.
+- Che lavoro vuoi fare da grande? Scrivilo in inglese e spiega perché.
+
+## Da January a December [lib-2-elementare-inglese-mesi-months] · MONTHS
+concetti: Twelve months; La maiuscola; Mesi e stagioni; In + mese
+- Qual è il primo mese dell'anno?
+- In un anno ci sono twelve months.
+- Quale mese è in estate in Italia?
+- Quale mese è scritto in modo corretto?
+- My birthday is ___ March.
+- Metti in ordine i primi mesi dell'anno.
+- Natale è il 25 di quale mese?
+- In che mese è il tuo compleanno? Scrivilo in inglese.
+
 ## Da Monday a Sunday [lib-2-elementare-inglese-giorni-della-settimana] · MONDAY
 concetti: Da Monday a Friday; Il weekend; La lettera maiuscola; L'ordine dei giorni
 - Come si dice 'lunedì'?
@@ -133,6 +243,17 @@ concetti: Da Monday a Friday; Il weekend; La lettera maiuscola; L'ordine dei gio
 - Metti in ordine i giorni, da mercoledì a domenica.
 - Quanti giorni ha una settimana? Rispondi in inglese.
 - Qual è il tuo giorno preferito della settimana? Scrivilo in inglese e spiega perché.
+
+## Dolce, salato o aspro? [lib-2-elementare-inglese-sapori-sweet-salty-sour] · SWEET
+concetti: Sweet; Salty; Sour; It tastes...
+- Il miele è...
+- Il limone è sour.
+- Le patatine fritte sono...
+- Quale cibo è sweet?
+- This chocolate tastes ___.
+- Salty viene da salt. Che cosa vuol dire salt?
+- Lo zucchero è sour.
+- Scrivi in inglese un cibo sweet e un cibo salty che ti piacciono.
 
 ## Fa caldo o fa freddo? [lib-2-elementare-inglese-tempo-caldo-freddo] · WEATHER
 concetti: What's the weather like?; Hot e cold; Warm e cool; It's per il tempo
@@ -145,6 +266,39 @@ concetti: What's the weather like?; Hot e cold; Warm e cool; It's per il tempo
 - Un amico al telefono ti chiede What's the weather like? Fuori piove. Che cosa rispondi?
 - Scrivi un piccolo dialogo: chiedi a un amico che tempo fa e scrivi la sua risposta in inglese.
 
+## First, second, third: chi vince? [lib-2-elementare-inglese-numeri-primo-secondo-terzo] · FIRST
+concetti: First; Second e third; Ordinali scritti; Last
+- Chi arriva first in una gara è...
+- Third vuol dire 'terzo'.
+- Come si dice 'secondo' (in una gara)?
+- Qual è il contrario di first?
+- Il primo posto si scrive anche 1___.
+- Metti in ordine i posti del podio, dal primo al terzo.
+- Come si scrive in breve 'terzo'?
+- Tre bambini fanno una corsa: Anna arriva prima, Luca secondo e Sara terza. Scrivi in inglese il posto di ognu…
+
+## Forme intorno a te [lib-2-elementare-inglese-forme-negli-oggetti] · OVAL
+concetti: Circle negli oggetti; Rectangle e square; Triangle; Oval
+- Che forma ha l'orologio rotondo appeso in classe?
+- Un uovo ha la forma di un oval.
+- Che forma ha di solito lo schermo della TV?
+- Nel disegno di una casetta, che forma ha il tetto a punta?
+- Quanti lati ha un rectangle? A rectangle has got ___ sides.
+- Qual è la differenza tra circle e oval?
+- Il cartello stradale di pericolo ha la forma di un circle.
+- Cerca in casa o in classe due oggetti e scrivi in inglese la loro forma.
+
+## Giochiamo a football! [lib-2-elementare-inglese-sport-football-tennis] · TENNIS
+concetti: Football; Tennis e basketball; Swimming; I play / I go
+- Come si dice 'calcio' (lo sport)?
+- Swimming è il nuoto.
+- In quale sport si usa la racchetta?
+- Basketball è...
+- I ___ football with my friends.
+- Quale frase è giusta?
+- A football si gioca soprattutto con le mani.
+- Quale sport fai o ti piacerebbe fare? Scrivilo in inglese.
+
 ## Good morning o good night? [lib-2-elementare-inglese-saluti-parti-del-giorno] · MORNING
 concetti: Good morning; Good afternoon e evening; Good night; Le parti del giorno
 - Sono le otto e arrivi a scuola. Quale saluto usi?
@@ -156,6 +310,17 @@ concetti: Good morning; Good afternoon e evening; Good night; Le parti del giorn
 - Alle otto di sera arrivi a una festa. Come dici 'buonasera'?
 - Perché non è giusto dire Good night quando arrivi a scuola la mattina?
 
+## Halloween: zucche e fantasmi [lib-2-elementare-inglese-halloween-pumpkin-ghost] · GHOST
+concetti: Pumpkin; Ghost e witch; Bat e spider; Trick or treat
+- Come si dice 'zucca'?
+- Witch vuol dire 'strega'.
+- Un lenzuolo bianco che dice Boo! è un...
+- Quale animale di Halloween vola di notte?
+- Trick or ___!
+- Come si dice «tre ragni»?
+- La pumpkin di Halloween di solito è blue.
+- Che cosa dicono i bambini a Halloween quando bussano? E che cosa vogliono?
+
 ## Happy birthday to you! [lib-2-elementare-inglese-compleanno-happy-birthday] · PARTY
 concetti: Happy birthday; Le cose della festa; Dare e ricevere regali; Candeline ed età
 - Che cosa dici a un amico il giorno del suo compleanno?
@@ -166,6 +331,17 @@ concetti: Happy birthday; Le cose della festa; Dare e ricevere regali; Candeline
 - Tom compie otto anni. Quante candles ci sono sulla sua torta? Rispondi in inglese.
 - Ricevi un regalo bellissimo. Che cosa rispondi?
 - Scrivi un biglietto di auguri in inglese per un amico, con almeno due frasi.
+
+## Happy Easter: uova e coniglietti [lib-2-elementare-inglese-pasqua-easter] · BUNNY
+concetti: Happy Easter; Easter eggs; Easter Bunny; Egg hunt
+- Come si dice 'Buona Pasqua'?
+- Bunny vuol dire 'coniglietto'.
+- Di che cosa sono fatte spesso le Easter eggs?
+- Che cos'è un egg hunt?
+- Nella caccia alle uova trovo un Easter ___.
+- In quale stagione è Pasqua?
+- L'Easter Bunny secondo la tradizione porta l'albero di Natale.
+- Spiega in italiano come funziona un egg hunt e scrivi in inglese che cosa si cerca.
 
 ## Happy, sad o angry? [lib-2-elementare-inglese-emozioni-feelings] · HAPPY
 concetti: Happy e sad; Angry e scared; Tired e hungry; I'm... e Are you...?
@@ -200,6 +376,17 @@ concetti: Salutare quando arrivi; Salutare quando vai via; Rispondere a un salut
 - Il tuo amico sale sull'autobus e ti dice Bye! Che cosa rispondi?
 - Immagina di incontrare un bambino inglese al parco. Come lo saluti quando arrivi e quando vai via? Perché usi…
 
+## Ho sete! Water o juice? [lib-2-elementare-inglese-bevande-drinks] · WATER
+concetti: Drinks; I'm thirsty; Hot chocolate e tea; A glass of / a cup of
+- Come si dice 'acqua'?
+- I'm thirsty vuol dire 'ho sete'.
+- Quale bevanda si fa con limoni, acqua e zucchero?
+- In Inghilterra è famosissima una bevanda calda, spesso con un po' di latte. Quale?
+- Ho sete: can I have a ___ of water, please?
+- In che cosa si beve di solito il tè caldo?
+- Hot chocolate è una bevanda fredda.
+- Dopo la lezione di PE hai sete. Che cosa dici in inglese e che cosa chiedi?
+
 ## How are you? Sto benissimo! [lib-2-elementare-inglese-come-stai-how-are-you] · FINE
 concetti: Chiedere come stai; Rispondere che stai bene; Rispondere che non stai bene; Ringraziare e ricambiare
 - Come chiedi 'Come stai?' in inglese?
@@ -221,6 +408,17 @@ concetti: La domanda How many?; Il plurale con la S; Rispondere a How many?
 - Quale domanda usi per sapere quante matite ha un'amica?
 - Quando hai un solo gatto dici one cats.
 - Conta le tue mani e le dita di una mano. Rispondi in inglese: How many hands? How many fingers on one hand?
+
+## How much is it? Fare spese [lib-2-elementare-inglese-negozio-how-much-money] · MONEY
+concetti: How much is it?; Euros e pounds; It's ... euros; Shop
+- Che cosa vuol dire How much is it?
+- Shop vuol dire 'negozio'.
+- Il cappello costa 8 euro. Che cosa dice il negoziante?
+- Con che soldi si paga nel Regno Unito?
+- Il libro costa dieci euro: It's ___ euros.
+- Compri una penna da 3 euro e un quaderno da 4 euro. Quanto spendi in tutto?
+- It's twenty euros vuol dire 'costa dodici euro'.
+- Sei in un negozio e vuoi sapere il prezzo di una palla. Che cosa chiedi in inglese? E come risponde il negozi…
 
 ## How old are you? [lib-2-elementare-inglese-eta-how-old-are-you] · SEVEN
 concetti: Chiedere l'età; Dire la propria età; Numeri per l'età
@@ -255,6 +453,39 @@ concetti: Che cos'è un pet; Dog, cat e cuccioli; Rabbit, hamster e fish; Bird e
 - Fish al plurale resta fish: one fish, two fish.
 - Hai un pet o ne vorresti uno? Scrivi in inglese che animale è e di che colore.
 
+## I'm wearing a red hat [lib-2-elementare-inglese-i-am-wearing-vestiti-colori] · JEANS
+concetti: I'm wearing; Colore + vestito; Jeans e trousers; She's / He's wearing
+- Che cosa vuol dire I'm wearing a hat?
+- Per dire 'una maglietta verde' si dice a green T-shirt.
+- Come si dice 'scarpe nere'?
+- Guarda la tua amica: indossa un vestito rosa. Come lo dici?
+- My jeans ___ blue.
+- Quale di questi vestiti in inglese si usa sempre al plurale?
+- He's wearing vuol dire 'lei indossa'.
+- Che cosa indossi oggi? Scrivi in inglese due vestiti con il loro colore.
+
+## I've got a dog! Cosa hai? [lib-2-elementare-inglese-have-got-cosa-hai] · HAVE
+concetti: I have got; Have you got...?; Risposte brevi; He / She has got
+- Che cosa vuol dire I've got a bike?
+- Have you got a sister? vuol dire 'Hai una sorella?'.
+- Have you got a dog? Tu ce l'hai. Che cosa rispondi?
+- Non hai un gatto. Come rispondi a Have you got a cat?
+- Mia sorella ha un criceto: She ___ got a hamster.
+- Come si dice 'Lui ha due fratelli'?
+- I've got è la forma breve di I have got.
+- Fai una domanda in inglese a un amico per sapere se ha un animale, e scrivi una sua possibile risposta.
+
+## Il mio colore preferito [lib-2-elementare-inglese-colore-preferito-favourite] · FAVOUR
+concetti: Favourite; What's your favourite colour?; My favourite colour is...; Me too
+- Che cosa vuol dire favourite?
+- What's your favourite colour? vuol dire 'Qual è il tuo colore preferito?'.
+- Ti chiedono il colore preferito. Qual è la risposta giusta?
+- La tua amica dice My favourite colour is pink. Anche tu ami il rosa. Che cosa dici?
+- My favourite ___ is green.
+- Come si scrive 'preferito' in inglese britannico?
+- Per chiedere il colore preferito si dice How old are you?
+- Scrivi in inglese il tuo colore preferito e una cosa di quel colore.
+
 ## Il mio viso: eyes e nose [lib-2-elementare-inglese-viso-face] · FACE
 concetti: Eyes e ears; Nose e mouth; Hair e teeth; Il viso e i sensi
 - Come si dice 'occhi'?
@@ -266,6 +497,61 @@ concetti: Eyes e ears; Nose e mouth; Hair e teeth; Il viso e i sensi
 - Un dente si dice tooth. Come si dice 'due denti'?
 - Scegli due parti del viso: scrivi il nome in inglese e spiega a che cosa servono.
 
+## In bagno: soap e towel [lib-2-elementare-inglese-bagno-bathroom-oggetti] · TOWEL
+concetti: Bath e shower; Sink e toilet; Soap e towel; Wash your hands
+- Come si dice 'sapone'?
+- Shower vuol dire 'doccia'.
+- Con che cosa ti asciughi?
+- Dove ti lavi le mani?
+- Prima di mangiare: wash your ___!
+- Metti in ordine come ci si lava le mani.
+- Che differenza c'è tra bath e shower?
+- Perché è importante lavarsi le mani con il soap?
+
+## In classe: board e desk [lib-2-elementare-inglese-aula-board-desk] · BOARD
+concetti: Board, la lavagna; Desk, il banco; Door, window e bin; Classroom, l'aula
+- Come si dice 'lavagna' in inglese?
+- Desk vuol dire 'banco'.
+- Dove butti la carta usata?
+- Classroom è formata da due parole. Che cosa vuol dire room?
+- La maestra scrive la data sulla ___.
+- Che cos'è il teacher's desk?
+- Per far entrare aria fresca nell'aula si apre il bin.
+- Descrivi la tua classroom: scrivi in inglese tre cose che ci sono.
+
+## In cortile: slide e swing [lib-2-elementare-inglese-ricreazione-playground] · SWING
+concetti: Playground; Slide e swing; Let's play!; Catch e throw
+- Come si dice 'altalena'?
+- Playground vuol dire 'cortile per giocare'.
+- Sali la scaletta e scendi giù veloce. Su che cosa sei?
+- Che cosa vuol dire Let's play!?
+- Uno conta e gli altri si nascondono: giochiamo a hide and ___.
+- Il tuo amico ti lancia la palla. Che cosa ti dice?
+- Throw vuol dire 'prendere al volo'.
+- Che cosa ti piace fare a ricreazione? Scrivilo con Let's play... o I like...
+
+## In cucina: fridge e oven [lib-2-elementare-inglese-cucina-fridge-oven] · FRIDGE
+concetti: Fridge; Oven e cooker; Plate, bowl e glass; Cook
+- Dove metti lo yogurt per tenerlo freddo?
+- Oven vuol dire 'forno'.
+- In che cosa mangi i cereali con il latte?
+- Dove si cuoce la pizza?
+- Papà sa cucinare: he can ___.
+- Che cos'è un plate?
+- Nel fridge il cibo diventa caldo.
+- Scrivi in inglese due cibi che si mettono nel fridge e spiega perché.
+
+## In gelateria: vanilla o chocolate? [lib-2-elementare-inglese-gelateria-ice-cream] · VANILLA
+concetti: I gusti; Cone o cup; Ordinare; Here you are
+- Il gelato alla fragola è...
+- Cone vuol dire 'cono'.
+- Qual è il modo gentile per chiedere un gelato?
+- Il gelataio ti dà il cono e dice Here you are. Che cosa rispondi?
+- Il gusto giallo chiaro alla vaniglia si chiama ___.
+- Metti in ordine il dialogo in gelateria.
+- Vuoi il gelato nella coppetta. Che cosa dici?
+- Chiedi in inglese il tuo gelato preferito al gelataio.
+
 ## In, on, under: dov'è? [lib-2-elementare-inglese-preposizioni-in-on-under] · UNDER
 concetti: In per dentro; On per sopra; Under per sotto; Where is...?
 - Che cosa vuol dire in?
@@ -276,6 +562,28 @@ concetti: In per dentro; On per sopra; Under per sotto; Where is...?
 - Le matite sono dentro l'astuccio. Quale frase è giusta?
 - Where's the teddy bear? L'orsetto è appoggiato sopra il letto. Che cosa rispondi?
 - Scegli un oggetto della tua stanza e scrivi in inglese dov'è, usando in, on o under.
+
+## La mia mattina: wake up! [lib-2-elementare-inglese-routine-mattina] · BRUSH
+concetti: Wake up e get up; Wash e brush; Get dressed; Go to school
+- Che cosa vuol dire wake up?
+- Brush my teeth vuol dire lavarmi i denti.
+- Che cosa vuol dire get dressed?
+- Con che cosa ti lavi la faccia?
+- Alle otto I go to ___.
+- Metti in ordine la tua mattina.
+- Qual è la differenza tra wake up e get up?
+- Racconta la tua mattina in inglese con tre azioni in ordine.
+
+## La mia pizza in inglese [lib-2-elementare-inglese-pizza-ingredienti] · CHEESE
+concetti: Pizza toppings; Cheese e tomato; Ham e mushrooms; A slice of pizza
+- Come si dice 'formaggio'?
+- Mushrooms vuol dire 'funghi'.
+- Che cos'è ham?
+- Quali ingredienti ha la pizza margherita?
+- Posso avere una fetta? Can I have a ___ of pizza, please?
+- Come si chiamano in inglese gli ingredienti messi sopra la pizza?
+- Ham and mushrooms vuol dire 'pomodoro e mozzarella'.
+- Inventa la tua pizza: scrivi in inglese due o tre toppings.
 
 ## Le quattro stagioni in inglese [lib-2-elementare-inglese-stagioni-seasons] · SUMMER
 concetti: Spring e summer; Autumn e winter; L'ordine delle stagioni; Il tempo nelle stagioni
@@ -321,6 +629,28 @@ concetti: Lunch e dinner; Pasta, rice e soup; Chicken, fish e chips; Fork, knife
 - Che cos'è la soup?
 - Che cosa ti piacerebbe mangiare a dinner stasera? Scrivi due cibi in inglese e le posate che ti servono.
 
+## Maths, Art e Music [lib-2-elementare-inglese-materie-school-subjects] · MUSIC
+concetti: School subjects; Maths e Science; Art, Music e PE; English e Italian
+- Come si dice 'matematica'?
+- In Music si canta e si suona.
+- In quale materia usi pennelli e colori?
+- In quale materia corri e giochi a palla in palestra?
+- Adesso studio una lingua straniera: è la lezione di ___.
+- In quale materia studi le piante e gli animali?
+- In inglese i nomi delle lingue, come English e Italian, si scrivono sempre con la lettera maiuscola.
+- Qual è la tua materia preferita? Scrivilo in inglese e spiega perché ti piace.
+
+## Merry Christmas: il Natale inglese [lib-2-elementare-inglese-natale-christmas] · SANTA
+concetti: Merry Christmas; Santa Claus; Christmas tree; Presents
+- Come si dice 'Buon Natale'?
+- Santa Claus è Babbo Natale.
+- Che cosa metti in cima al Christmas tree?
+- Dove si mettono di solito i presents?
+- Decoriamo il Christmas ___ con le palline.
+- Come si chiama Babbo Natale nel Regno Unito, oltre a Santa?
+- Un regalo si dice a present; tanti regali si dicono presents.
+- Scrivi in inglese un augurio di Natale per un amico.
+
 ## Mescola i colori in inglese [lib-2-elementare-inglese-colori-mescolati] · PURPLE
 concetti: Il colore orange; Green da yellow e blue; Il colore purple; Pink e grey
 - Che colore è orange?
@@ -342,6 +672,39 @@ concetti: Cow e horse; Pig e sheep; Hen e duck; Farm e farmer
 - Quale animale nuota nello stagno e fa quack?
 - Per dire 'due pecore' si dice two sheeps.
 - Immagina di essere un farmer. Scrivi in inglese tre animali della tua farm e che cosa ti danno o che cosa fan…
+
+## Next to, behind, in front of [lib-2-elementare-inglese-preposizioni-next-to-behind] · BEHIND
+concetti: Next to; Behind; In front of; Between
+- Che cosa vuol dire behind?
+- Next to vuol dire 'accanto a'.
+- La maestra è davanti alla lavagna. Come si dice?
+- La palla è in mezzo a due sedie. Dov'è?
+- Il gatto è nascosto ___ the sofa: non lo vedi!
+- Ti siedi accanto al tuo amico. Che cosa dici?
+- In front of è il contrario di behind.
+- Descrivi in inglese dove sei seduto in classe usando next to o between.
+
+## Non ho capito, help! [lib-2-elementare-inglese-aiuto-non-capisco] · HELP
+concetti: I don't understand; Can you help me?; How do you say...?; I know / I don't know
+- Che cosa vuol dire I don't understand?
+- Help me vuol dire 'aiutami'.
+- Non sai come si dice 'mela'. Che cosa chiedi?
+- La maestra chiede: What colour is it? Tu non lo sai. Che cosa rispondi?
+- Can you ___ me, please?
+- Che differenza c'è tra I know e I don't know?
+- How do you say 'cane' in English? La risposta giusta è: You say dog.
+- Perché è utile saper dire I don't understand in classe?
+
+## Piccoli animali: bee e spider [lib-2-elementare-inglese-insetti-minibeasts] · SPIDER
+concetti: Bee; Butterfly e ladybird; Ant e snail; Spider
+- Quale animale fa il miele?
+- Ladybird è la coccinella.
+- Come si dice 'farfalla'?
+- Quale animale si porta la casa sulla schiena?
+- The ___ makes a web: la ragnatela.
+- Le formiche lavorano insieme. Come si dicono al plurale?
+- Lo spider è un insetto, come l'ant.
+- Perché le bees sono importanti per i fiori?
 
 ## Please e thank you: parole magiche [lib-2-elementare-inglese-parole-gentili-please-thank-you] · PLEASE
 concetti: Please per chiedere; Thank you e prego; Sorry per scusarsi
@@ -376,6 +739,39 @@ concetti: Door e window; Roof e wall; Stairs e floor; House e flat
 - Floor vuol dire 'tetto'.
 - Tu vivi in una house o in un flat? Scrivi in inglese almeno tre parti della tua casa che vedi da fuori.
 
+## Posso? Chiedere il permesso [lib-2-elementare-inglese-permessi-may-i] · TOILET
+concetti: May I...?; Go to the toilet; Come in e go out; Yes, you can / Not now
+- Che cosa vuol dire May I...?
+- Toilet vuol dire 'bagno'.
+- Arrivi in ritardo e bussi alla porta. Che cosa dici?
+- La maestra ti dà il permesso. Che cosa dice?
+- ___ I go to the toilet, please?
+- Che cosa vuol dire go out?
+- Se la maestra risponde Not now, puoi uscire subito.
+- Vuoi bere un po' d'acqua durante la lezione. Come chiedi il permesso in inglese?
+
+## Prato green, cielo blue [lib-2-elementare-inglese-colori-nella-natura] · GRASS
+concetti: Colori del cielo; Colori delle piante; Colori della frutta; It is...
+- Di che colore è l'erba?
+- Quando sta per piovere il cielo diventa spesso grey.
+- Di che colore è una banana matura?
+- In autunno le foglie diventano spesso...
+- The sky ___ blue.
+- Una mela può essere red, ma anche...
+- Di notte, quando non c'è la luna, il cielo è...
+- Guarda fuori dalla finestra: scrivi in inglese due frasi su colori che vedi.
+
+## Pyjamas e pantofole: buonanotte! [lib-2-elementare-inglese-pigiama-pantofole-sera] · SLIPPER
+concetti: Pyjamas; Slippers; Toothbrush; Bedtime
+- Come si dice 'pigiama'?
+- Slippers sono le pantofole.
+- Con che cosa ti lavi i denti?
+- Che cosa vuol dire bedtime?
+- Metto il dentifricio sullo spazzolino: toothpaste on my ___.
+- Metti in ordine la routine della sera.
+- A bedtime, che cosa dici alla mamma?
+- Perché in casa si mettono le slippers?
+
 ## Red, yellow e blue [lib-2-elementare-inglese-colori-red-yellow-blue] · COLOUR
 concetti: I colori primari; Red e yellow; Blue e green; What colour is it?
 - Come si dice 'rosso' in inglese?
@@ -398,6 +794,28 @@ concetti: Big e small; Colori degli animali; Can: cosa sa fare; Parti degli anim
 - Quale animale è small?
 - Descrivi in inglese il tuo animale preferito: se è big o small, di che colore è e che cosa can fare.
 
+## Ripasso: disegna un mostro! [lib-2-elementare-inglese-ripasso-disegna-un-mostro] · MONSTER
+concetti: Numeri e parti del corpo; Colori delle parti; Il plurale; It has got
+- Il mostro ha 3 occhi. Come si dice?
+- A red nose vuol dire 'un naso rosso'.
+- Il mostro ha due teste. Come si dice?
+- Che cosa vuol dire It has got four legs?
+- Il mostro ha le braccia verdi: it has got ___ arms.
+- Come si dice 'occhi gialli'?
+- Per dire 'cinque braccia' si dice five arm.
+- Inventa il tuo mostro: scrivi in inglese tre caratteristiche con numeri e colori.
+
+## Ripasso: il menù della settimana [lib-2-elementare-inglese-ripasso-menu-settimana] · MENU
+concetti: Giorni con on; Piatti della mensa; I eat / I have; Frutta e dessert
+- Come si dice 'il lunedì mangio la pasta'?
+- Fish vuol dire 'pesce'.
+- Quale piatto è fatto di verdure crude, come lattuga e pomodoro?
+- Che cosa vuol dire I have chicken?
+- On ___ I eat pizza: è il giorno dopo giovedì.
+- Metti in ordine il pranzo alla mensa.
+- Dopo il pranzo che cosa può essere il dessert?
+- Scrivi in inglese il menù di due giorni della tua settimana.
+
 ## Ripasso: la lista della spesa [lib-2-elementare-inglese-ripasso-lista-della-spesa] · BASKET
 concetti: Numeri e cibi al plurale; Can I have...?; Fruit, vegetables e drinks
 - Nella lista c'è scritto three bananas. Quante banane compri?
@@ -419,6 +837,28 @@ concetti: Numero, colore e cosa; I colori dell'arcobaleno; How many o what colou
 - Vuoi sapere quante matite rosse ha un amico. Che cosa chiedi?
 - Ci sono three black cats e four white cats. Quanti gatti in tutto? Rispondi in inglese.
 - Descrivi in inglese un disegno colorato: scrivi almeno due cose con numero, colore e cosa, come three red app…
+
+## Ripasso: una giornata a scuola [lib-2-elementare-inglese-ripasso-giornata-a-scuola] · SCHOOL
+concetti: Arrivare a scuola; Durante la lezione; La pausa; Uscire da scuola
+- Che cosa vuol dire Good morning, teacher!?
+- All'appello puoi rispondere Here!
+- Come si chiama la ricreazione in inglese?
+- La maestra dice Write the date. Che cosa fai?
+- Goodbye, see you ___!
+- Metti in ordine i momenti della giornata a scuola.
+- Durante il break, che cosa fai di solito?
+- Racconta la tua giornata a scuola con tre frasi o parole inglesi in ordine.
+
+## Ripasso: una settimana di tempo [lib-2-elementare-inglese-ripasso-settimana-meteo] · WEEK
+concetti: I giorni; Il tempo; On + giorno; Che cosa facciamo
+- Che cosa vuol dire week?
+- It's rainy vuol dire che piove.
+- Lunedì cadono fiocchi bianchi e freddi. It's...
+- Sabato piove forte tutto il giorno. Che cosa è meglio fare?
+- On Tuesday it's ___: il vento mi porta via il cappello!
+- Metti in ordine i giorni del weekend e i primi della settimana.
+- It's sunny and warm. Che cosa potete fare?
+- Scrivi in inglese il tempo di due giorni della settimana.
 
 ## Sedie, tavoli e divani [lib-2-elementare-inglese-casa-mobili-furniture] · CHAIR
 concetti: Table, chair e armchair; Bed e wardrobe; Sofa e lamp; Ogni mobile al suo posto
@@ -508,6 +948,17 @@ concetti: Sunny e cloudy; Rainy e snowy; Windy e foggy; Parole del tempo con Y
 - Da sun si forma sunny, con due N.
 - Guarda fuori dalla finestra: che tempo fa oggi? Scrivi la risposta in inglese e la parola da cui nasce.
 
+## Temporale! Storm e thunder [lib-2-elementare-inglese-temporale-storm-thunder] · STORM
+concetti: Storm; Thunder; Lightning; Rainbow
+- Come si dice 'temporale'?
+- Thunder è il tuono.
+- Che cos'è lightning?
+- Quando può comparire il rainbow?
+- Boom! Hai sentito il ___?
+- Durante uno storm, che cosa cade dal cielo insieme a tuoni e lampi?
+- Stormy weather vuol dire 'tempo bello e sereno'.
+- Perché durante un temporale vedi il lampo prima di sentire il tuono?
+
 ## This is my family! [lib-2-elementare-inglese-famiglia-family] · FAMILY
 concetti: Mum e dad; Brother e sister; Grandma e grandpa; This is my...
 - Come si dice 'papà'?
@@ -518,6 +969,28 @@ concetti: Mum e dad; Brother e sister; Grandma e grandpa; This is my...
 - La mamma della tua mamma è tua...
 - Mother e mum indicano la stessa persona.
 - Presenta in inglese due persone della tua famiglia, usando This is my...
+
+## Tira fuori, metti via! [lib-2-elementare-inglese-comandi-take-out-put-away] · TIDY
+concetti: Take out; Put away; Pick up e give me; Tidy up
+- La maestra dice Take out your book. Che cosa fai?
+- Put away vuol dire 'metti via'.
+- Ti cade la gomma. La maestra dice:
+- Che cosa vuol dire Give me your notebook?
+- La lezione è finita: ___ up the classroom!
+- Metti in ordine i comandi di un lavoro in classe.
+- Hai finito di colorare. Che cosa ti dice la maestra?
+- Spiega perché è importante il tidy up alla fine della giornata.
+
+## Tocca a me, tocca a te! [lib-2-elementare-inglese-lavoro-in-coppia-my-turn] · TURN
+concetti: My turn, your turn; Well done!; Try again; Work in pairs
+- Che cosa vuol dire Your turn?
+- Well done! vuol dire 'Ben fatto!'.
+- Il tuo compagno sbaglia. Che cosa gli dici per incoraggiarlo?
+- La maestra dice Work in pairs. Come lavorate?
+- Hai tirato il dado, ora lo passi al compagno: «It's ___ turn!»
+- Quale frase vuol dire la stessa cosa di Well done?
+- Work in groups vuol dire 'lavorate da soli'.
+- State giocando a un gioco da tavolo. Scrivi in inglese due frasi che puoi usare.
 
 ## Toys: giochiamo in inglese [lib-2-elementare-inglese-giocattoli-toys] · KITE
 concetti: Toy e toys; Ball, doll e teddy bear; Bike, car e train; Kite, puzzle e robot
@@ -530,6 +1003,39 @@ concetti: Toy e toys; Ball, doll e teddy bear; Bike, car e train; Kite, puzzle e
 - Car vuol dire 'trenino'.
 - Qual è il tuo giocattolo preferito? Scrivi il nome in inglese e di che colore è.
 
+## Two, four, six: conta a due [lib-2-elementare-inglese-contare-a-due-even-numbers] · EIGHT
+concetti: Contare a due; Twelve, fourteen, sixteen; Pari e dispari; Lo spelling
+- Conta a due: two, four, six, ... Quale numero viene dopo?
+- Four è un numero pari.
+- Quale numero manca? ten, twelve, ___, sixteen
+- Qual è lo spelling giusto di 8?
+- sixteen, ___, twenty
+- Metti in ordine i numeri contando a due.
+- Quale di questi numeri NON trovi contando a due da two a twenty?
+- Hai 5 paia di calzini. Quanti calzini sono? Conta a due in inglese fino al risultato.
+
+## Un picnic nel parco [lib-2-elementare-inglese-picnic-nel-parco] · PICNIC
+concetti: Picnic basket; Blanket; Plate, cup e bottle; Park
+- Come si dice 'parco'?
+- Blanket vuol dire 'coperta'.
+- In che cosa porti l'acqua al picnic?
+- Dove metti tutto il cibo per il picnic?
+- Metto il panino sul ___.
+- Metti in ordine le cose da fare per il picnic.
+- Perché si porta una blanket al picnic?
+- Scrivi in inglese tre cose che metteresti nel tuo picnic basket.
+
+## Veloce o lento? I contrari [lib-2-elementare-inglese-aggettivi-opposti-fast-slow] · FAST
+concetti: Fast e slow; Old e new; Clean e dirty; Open e closed
+- Una lumaca è...
+- Fast vuol dire veloce.
+- Hai appena comprato uno zaino. È...
+- Dopo aver giocato nel fango le scarpe sono...
+- Il negozio è chiuso: the shop is ___.
+- Qual è il contrario di old (per una cosa)?
+- Dopo la doccia sei dirty.
+- Scegli una coppia di contrari e scrivi due frasi in inglese per spiegarla.
+
 ## What day is it today? [lib-2-elementare-inglese-what-day-is-it-today] · TODAY
 concetti: What day is it today?; Today e tomorrow; Yesterday, cioè ieri; On con i giorni
 - Che cosa vuol dire today?
@@ -541,6 +1047,17 @@ concetti: What day is it today?; Today e tomorrow; Yesterday, cioè ieri; On con
 - Se oggi è Monday, allora yesterday era Sunday.
 - Scrivi in inglese che giorno è today e che giorno sarà tomorrow.
 
+## What time is it? Le ore [lib-2-elementare-inglese-orologio-what-time-oclock] · CLOCK
+concetti: What time is it?; O'clock; Clock e watch; Ore della giornata
+- Che cosa vuol dire What time is it?
+- Watch è l'orologio da polso.
+- Sono le 4 precise. Come si dice?
+- It's nine o'clock. Che ore sono?
+- It's seven ___.
+- Metti in ordine le ore della mattina, dalla prima all'ultima.
+- Che orologio c'è appeso in classe sopra la lavagna?
+- A che ora vai a scuola? Scrivilo in inglese con o'clock.
+
 ## What's your name? Mi presento [lib-2-elementare-inglese-presentarsi-whats-your-name] · NAME
 concetti: Chiedere il nome; Dire il proprio nome; Nice to meet you
 - Come chiedi 'Come ti chiami?' in inglese?
@@ -551,3 +1068,36 @@ concetti: Chiedere il nome; Dire il proprio nome; Nice to meet you
 - Metti in ordine le parole per chiedere 'Come ti chiami?'.
 - Un bambino ti chiede What's your name? Qual è la risposta giusta?
 - Incontri un nuovo amico inglese. Scrivi un piccolo dialogo: chiedi il suo nome, di' il tuo e chiudi con una f…
+
+## Woof, moo, meow: i versi [lib-2-elementare-inglese-versi-animali-sounds] · WOOF
+concetti: Il cane; Il gatto e la mucca; Altri versi; What does it say?
+- Che verso fa un dog in inglese?
+- La cow fa moo.
+- Chi fa oink oink?
+- Chi fa baa?
+- The cat says ___.
+- Che cosa vuol dire What does the duck say?
+- Il gallo inglese fa chicchirichì.
+- Perché il cane fa bau in italiano e woof in inglese?
+
+## Yummy o yucky? Ti piace? [lib-2-elementare-inglese-yummy-yucky-opinioni] · YUMMY
+concetti: Yummy; Yucky; I love / I hate; Delicious
+- Assaggi una torta buonissima. Che cosa dici?
+- Yucky vuol dire 'che buono'.
+- Che cosa vuol dire I love pizza?
+- Quale parola vuol dire 'delizioso'?
+- Non mi piacciono per niente i broccoli: I ___ broccoli!
+- Qual è il contrario di I love?
+- Delicious e yummy hanno un significato simile.
+- Scrivi in inglese un cibo che adori e uno che non ti piace.
+
+## Zii e cugini: uncle e cousin [lib-2-elementare-inglese-famiglia-zii-cugini] · COUSIN
+concetti: Uncle; Aunt; Cousin; Baby
+- Come si dice 'zio'?
+- Aunt vuol dire 'zia'.
+- Il figlio di tua zia è tuo...
+- Tua zia ha appena avuto un bimbo piccolissimo. È un...
+- La sorella di mia mamma è mia ___.
+- Come si dice 'cugina' in inglese?
+- Il fratello di tuo papà è tuo uncle.
+- Scrivi in inglese i nomi di due tuoi parenti usando uncle, aunt o cousin.

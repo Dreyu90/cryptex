@@ -1,5 +1,5 @@
 # 2ª elementare · Italiano: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Acqua, acquario e CQU [lib-2-elementare-italiano-cqu] · ACQUA
@@ -17,7 +17,7 @@ concetti: La famiglia di acqua; CQU nei verbi; Soqquadro, la parola strana
 concetti: Che cos'è un acrostico; Versi sul tema; Come si costruisce
 - In un acrostico, che cosa formano le prime lettere dei versi lette dall'alto in basso?
 - Nell'acrostico della parola MARE i versi iniziano con M, A, R, E.
-- Scrivi l'acrostico di SOLE. Con quale lettera inizia il secondo verso?
+- Scrivi l'acrostico di FIORE. Con quale lettera inizia il terzo verso?
 - Acrostico di GATTO, primo verso: '___ioca con il gomitolo'.
 - Di che cosa parlano di solito i versi di un acrostico?
 - Quanti versi servono per l'acrostico della parola LUNA?
@@ -45,17 +45,6 @@ concetti: Le onomatopee; I versi degli animali; Onomatopee nei fumetti
 - Che cosa imita l'onomatopea ETCIÙ?
 - Quale coppia animale-verso è sbagliata?
 - Immagina un temporale: scrivi almeno due onomatopee per i rumori che senti e spiega che cosa imitano.
-
-## Bottone non è un grande botto [lib-2-elementare-italiano-falsi-alterati] · BOTTONE
-concetti: Gli alterati veri; I falsi alterati; Come riconoscerli
-- Che cosa vuol dire GATTINO?
-- BOTTONE vuol dire 'un grosso botto'.
-- Quale di queste parole è un falso alterato?
-- Un libro molto grande è un ___.
-- Come capisci che MATTONE non è un 'matto grande'?
-- La FOCACCIA è...
-- Quale parola è un vero alterato di CASA?
-- Perché LAMPONE non è un 'lampo grande'?
 
 ## C'è, ci sono, c'era, c'erano [lib-2-elementare-italiano-c-e-ci-sono] · ESSERCI
 concetti: C'è e ci sono; C'era e c'erano; Come si scrive c'è
@@ -143,7 +132,7 @@ concetti: L'elenco delle preposizioni; Collegano le parole; Ognuna ha un signifi
 - A che cosa servono le preposizioni?
 - 'La penna ___ Sara.' Quale preposizione dice di chi è la penna?
 - Metti in ordine le prime sei preposizioni come si ripetono a scuola.
-- Che differenza c'è tra 'Esco con Marta' ed 'Esco per Marta'?
+- Che differenza c'è tra 'Il regalo è di Marta' e 'Il regalo è per Marta'?
 
 ## Dove? Quando? La frase cresce [lib-2-elementare-italiano-espansioni] · QUANDO
 concetti: Che cos'è un'espansione; Espansione di luogo; Espansione di tempo; Con chi? Come?
@@ -183,7 +172,7 @@ concetti: E diventa ED; A diventa AD; Quando non serve la D
 - Completa: 'Marco ___ Elisa giocano insieme.'
 - Si scrive 'Vado ad Ancona'.
 - In quale frase la E resta senza D perché dopo c'è una consonante?
-- Ho voglia ___ andare al parco.
+- Oggi vado ___ aiutare la nonna nell'orto.
 - Perché si scrive 'ed ecco'?
 - Quale frase è scritta bene?
 - Completa: 'Domani vado ___ Milano.'
@@ -202,7 +191,7 @@ concetti: Le formule della fiaba; Eroe, antagonista, aiutante; La magia
 
 ## Fornaio, barista e giardiniere [lib-2-elementare-italiano-nomi-di-mestiere] · FORNAIO
 concetti: Mestieri in -AIO; Mestieri in -ISTA; Mestieri in -IERE e -TORE
-- Chi vende i giornali?
+- Chi ripara gli orologi?
 - Il FIORISTA vende i fiori.
 - Chi prepara il caffè al bar?
 - Il ___ cura le piante e i fiori del giardino.
@@ -236,24 +225,13 @@ concetti: Nomi piccoli; Nomi grandi; Nomi brutti o cattivi; Falsi alterati
 ## Giorni e mesi senza errori [lib-2-elementare-italiano-giorni-e-mesi] · LUNEDI
 concetti: I giorni della settimana; I mesi; Le stagioni
 - Quale scritta è giusta? 'Ci vediamo ___.'
-- Dentro una frase i mesi si scrivono con la lettera minuscola: 'Sono nato a marzo.'
+- Febbraio è il mese più corto dell'anno.
 - Quale giorno della settimana NON ha l'accento?
-- Dopo l'estate arriva l'___.
+- Il primo mese dell'anno è ___.
 - Quale frase è scritta correttamente?
-- Metti in ordine i giorni della settimana.
+- Metti in ordine le stagioni, cominciando dalla primavera.
 - Quanti mesi ha un anno?
 - Perché VENERDÌ si scrive con l'accento e SABATO no?
-
-## GLI o LI? Olio e foglio [lib-2-elementare-italiano-gli-o-li] · AGLIO
-concetti: Il suono GLI; Parole con LI; GLI e le vocali
-- Come si scrive correttamente?
-- OLIO si scrive con LI e non con GLI.
-- Quale parola si scrive con LI?
-- Al mare raccolgo una bella ___.
-- Qual è il plurale di FIGLIO?
-- Quale parola è scritta in modo sbagliato?
-- Metti in ordine le sillabe per formare CONIGLIO.
-- Leggi ad alta voce OLIO e FOGLIO. Che differenza senti nel suono?
 
 ## GLI: foglie, conigli e tovaglie [lib-2-elementare-italiano-gli] · FOGLIA
 concetti: Il suono GLI; GLI con le vocali; LI o GLI?
@@ -268,14 +246,14 @@ concetti: Il suono GLI; GLI con le vocali; LI o GLI?
 
 ## GN o NI? Ascolta bene [lib-2-elementare-italiano-gn-o-ni] · CIGNO
 concetti: Il suono GN; Parole con NI; GN non si divide
-- Come si scrive correttamente?
+- Come si scrive il bambino che siede vicino a te in classe?
 - La parola GERANIO si scrive con NI.
 - Quale parola si scrive con NI e non con GN?
 - Il ___ tesse la sua tela nell'angolo.
 - Quale parola è scritta in modo sbagliato?
 - Dalla parola SOGNO nasce il verbo...
 - Metti in ordine le sillabe per formare CASTAGNA.
-- Spiega perché nella parola GNOMO non puoi separare la G dalla N quando vai a capo.
+- Leggi ad alta voce GERANIO e RAGNO. Che differenza senti tra NI e GN?
 
 ## GN: il suono del ragno [lib-2-elementare-italiano-gn] · RAGNO
 concetti: Due lettere, un suono; GN con le vocali; Di solito niente I
@@ -334,7 +312,7 @@ concetti: Il verbo è un'azione; Le tre famiglie; Il verbo cambia
 
 ## I, GLI, LE: articoli plurali [lib-2-elementare-italiano-articoli-plurali] · ALBERI
 concetti: I davanti a consonante; GLI per lo, l' maschile; LE per i femminili
-- Il gatto, due ___ gatti. Quale articolo manca?
+- Il gatto, ___ gatti. Quale articolo manca?
 - Il plurale di 'la rosa' è 'le rose'.
 - Quale articolo va davanti a ZAINI?
 - Nel bosco ci sono tanti ___ alberi.
@@ -401,8 +379,8 @@ concetti: Che cos'è un modo di dire; Modi di dire con animali; Altri modi di di
 ## In-, s-, ri-: parole nuove [lib-2-elementare-italiano-prefissi-in-s-ri] · RIFARE
 concetti: IN- e IM- per il contrario; S- e DIS- per il contrario; RI- per 'di nuovo'
 - RILEGGERE vuol dire...
-- Il contrario di FELICE è INFELICE.
-- Il contrario di ORDINE è...
+- Il contrario di CAPACE è INCAPACE.
+- Il contrario di ONESTO è...
 - Volare come un uccello per me è ___!
 - Che cosa aggiunge RI- alla parola RIFARE?
 - Il contrario di CARICARE la lavatrice è...
@@ -463,6 +441,17 @@ concetti: A che cosa servono; Che cosa serve; I passaggi in ordine
 - Quale frase è scritta come un'istruzione?
 - Perché nei giochi da tavolo c'è un foglio di regole?
 - Scrivi le istruzioni per lavarti le mani, in almeno tre passaggi.
+
+## J, K, W, X, Y: lettere viaggiatrici [lib-2-elementare-italiano-lettere-straniere] · KIWI
+concetti: Cinque lettere straniere; Parole arrivate da lontano; Nell'alfabeto completo
+- Quale di queste è una lettera straniera?
+- La lettera W si chiama 'doppia vu'.
+- Quale animale ha nel nome una lettera straniera?
+- Il ___ è un dolcetto croccante fatto di cialde sottili e crema.
+- Nell'alfabeto completo, quale lettera viene subito dopo la I?
+- Quale lettera si chiama 'ics'?
+- Metti le cinque lettere straniere nell'ordine dell'alfabeto.
+- Perché nella parola KARATE c'è la K, che non fa parte dell'alfabeto italiano?
 
 ## L'accento in fondo: città, perché [lib-2-elementare-italiano-accento] · ACCENTO
 concetti: Accento sull'ultima vocale; L'accento cambia parola; Parole brevi con accento
@@ -559,17 +548,17 @@ concetti: A che cosa servono; Frasi che danno ordini; Ordine e divieti
 - Quale frase è scritta come una regola?
 - Nelle regole si usa spesso NON per i ___: 'Non spingere i compagni'.
 - Perché le regole sono spesso numerate (1, 2, 3...)?
-- Nel gioco del nascondino, che cosa fa chi 'sta sotto'?
+- Nel gioco del nascondino, che cosa fa chi deve cercare?
 - Metti in ordine le fasi del nascondino.
 - Perché un gioco senza regole chiare può finire in un litigio?
 
 ## Leggere tra le righe [lib-2-elementare-italiano-leggere-tra-le-righe] · INDIZIO
 concetti: Gli indizi del testo; Le emozioni dai gesti; Luogo e tempo nascosti
-- 'Marco si mise il costume, prese l'asciugamano e corse verso le onde.' Dove si trova Marco?
+- 'Il signor Bruno sfornò il pane caldo e lo mise sugli scaffali.' Dove si trova?
 - 'Anna sorrise e abbracciò forte la nonna.' Anna è contenta.
 - 'Luca abbassò la testa e due lacrime gli scesero sulle guance.' Come si sente Luca?
 - Per capire quello che il testo non dice, cerco gli ___.
-- 'Fuori nevicava e i bambini costruivano un pupazzo.' In che stagione siamo probabilmente?
+- 'Gli alberi erano pieni di fiori e le rondini tornavano.' In che stagione siamo probabilmente?
 - 'La mamma aprì l'ombrello prima di uscire.' Che tempo fa probabilmente?
 - 'Sara sbatté la porta e incrociò le braccia.' Come si sente Sara?
 - 'Pietro guardò il piatto vuoto, poi il cane che si leccava i baffi.' Che cosa è successo? Quali indizi hai us…
@@ -640,27 +629,16 @@ concetti: Dicono di chi è; Una forma per ogni persona; Si accordano con il nome
 - Quale frase contiene un aggettivo possessivo?
 - Perché si dice 'i miei amici' ma 'le mie amiche'?
 
-## N davanti alle consonanti [lib-2-elementare-italiano-n-davanti-consonanti] · PONTE
-concetti: M solo prima di B e P; N davanti a V e F; N davanti a T, D, C, G
-- Come si scrive la stagione più fredda?
-- Davanti alla lettera T si scrive la N, come in PONTE.
-- In quale parola c'è un errore?
-- ___ di giocare, oggi leggo un libro.
-- Quale lettera manca in PA_CA, la panchina lunga?
-- Quale di queste parole si scrive con la M?
-- Perché la parola CANTO si scrive con la N?
-- Scrivi una parola con M e una con N davanti a una consonante e spiega la regola.
-
 ## Nome e aggettivo d'accordo [lib-2-elementare-italiano-accordo-nome-aggettivo] · ACCORDO
 concetti: Accordo nel genere; Accordo nel numero; Aggettivi in -E
 - Completa: 'la casa ___'
-- Si dice 'i fiori profumati'.
+- Si dice 'i quaderni colorati'.
 - Quale scritta è giusta?
 - Il prato è verde e anche la foglia è ___.
 - Quale aggettivo resta uguale al maschile e al femminile singolare?
 - In quale frase c'è un errore di accordo?
 - Il plurale di 'il bambino allegro' è...
-- Perché si dice 'le scarpe nuove' e non 'le scarpe nuovi'?
+- Perché si dice 'le giacche calde' e non 'le giacche caldi'?
 
 ## Nomi comuni e nomi propri [lib-2-elementare-italiano-nomi-comuni-propri] · FIDO
 concetti: Il nome comune; Il nome proprio; Coppie comune e proprio
@@ -705,6 +683,17 @@ concetti: Sentire la doppia; Doppie che cambiano parola; Doppie e sillabe
 - Metti in ordine le sillabe per formare la parola BICICLETTA.
 - Come si divide in sillabe la parola MAMMA?
 - Inventa una frase con NONO e una con NONNO. Perché è importante scrivere bene la doppia?
+
+## Palla o balla? Suoni simili [lib-2-elementare-italiano-suoni-simili-p-b-t-d-f-v] · PALLA
+concetti: P e B; T e D; F e V
+- Come si scrive l'animale del pollaio che fa coccodè?
+- Se in FOTO cambi la F con la V ottieni VOTO, una parola diversa.
+- Il nonno sale sul ___ per aggiustare l'antenna. Quale parola manca?
+- Ho tanta sete: vorrei ___ un bicchiere d'acqua.
+- In quale frase c'è un errore?
+- Che cosa si lancia nel gioco dell'oca?
+- Perché P e B si confondono facilmente?
+- Leggi FINO e VINO a voce alta, con una mano sulla gola. Che differenza senti?
 
 ## Parliamo a turno [lib-2-elementare-italiano-regole-della-conversazione] · ASCOLTO
 concetti: Il turno di parola; Ascoltare davvero; Parlare in modo chiaro
@@ -761,14 +750,14 @@ concetti: Nomi di persona; Nomi di animale; Nomi di cosa
 - 'Il pastore porta le capre al pascolo con il bastone.' Quale nome indica una persona?
 - Scrivi un nome di persona, uno di animale e uno di cosa che potresti trovare in una fattoria.
 
-## Prima, poi, infine [lib-2-elementare-italiano-prima-poi-infine] · PRIMA
+## Poi, mentre, all'improvviso [lib-2-elementare-italiano-prima-poi-infine] · PRIMA
 concetti: Mettere in ordine; Nello stesso momento; Un fatto inatteso
-- Quale parola usi per raccontare la prima cosa successa?
+- Leggi: 'Infine Sara spense le candeline.' Quando è successo questo fatto?
 - MENTRE indica due azioni che succedono nello stesso momento.
-- Metti in ordine le parole del tempo per raccontare una storia.
+- Metti in ordine i fatti del racconto.
 - ___ la mamma cucinava, io apparecchiavo la tavola.
 - Quale espressione annuncia un fatto inatteso?
-- 'Ho fatto i compiti, ___ sono andato a giocare.'
+- 'Prima ho messo il pigiama, poi mi sono lavato i denti.' Che cosa ho fatto per primo?
 - Perché le parole del tempo sono utili nei racconti?
 - Racconta la tua mattina in tre frasi usando PRIMA, POI e INFINE.
 
@@ -803,17 +792,17 @@ concetti: Che cos'è il riassunto; Tenere l'essenziale; L'ordine dei fatti
 - Quale frase è il miglior riassunto della storia di Fido?
 - Per fare un riassunto, che cosa ti chiedi?
 - Metti in ordine i fatti di Cappuccetto Rosso per il riassunto.
-- Riassumi in una o due frasi la favola della lepre e della tartaruga.
+- Riassumi in una o due frasi la fiaba dei tre porcellini.
 
 ## Re e regina: femminili speciali [lib-2-elementare-italiano-maschile-femminile-speciali] · REGINA
 concetti: Una parola diversa; Finali speciali; Nomi uguali
-- Qual è il femminile di PADRE?
-- Il femminile di LEONE è LEONESSA.
-- Qual è il femminile di RE?
+- Qual è il femminile di MARITO?
+- Il femminile di PRINCIPE è PRINCIPESSA.
+- Qual è il femminile di DOTTORE?
 - Mio zio è un cantante e mia zia è ___ cantante.
-- Qual è il femminile di FRATELLO?
-- Qual è il femminile di ATTORE?
-- Il femminile di GALLO è...
+- Qual è il femminile di TORO?
+- SCRITTORE e PITTORE al femminile finiscono nello stesso modo. Come?
+- Quale di questi nomi resta uguale al maschile e al femminile?
 - Come fai a capire se nella frase si parla di un nipote maschio o femmina?
 
 ## Realtà o fantasia? [lib-2-elementare-italiano-realistico-o-fantastico] · DRAGO
@@ -821,7 +810,7 @@ concetti: Il racconto realistico; Il racconto fantastico; Riconoscere gli elemen
 - Quale personaggio può comparire solo in un racconto fantastico?
 - Un racconto realistico narra fatti che potrebbero succedere davvero.
 - Quale inizio è di un racconto realistico?
-- Nei racconti fantastici gli animali possono ___ come le persone.
+- Un cane che ___ con il suo padrone è un elemento fantastico.
 - 'Luca va a scuola e conosce un compagno nuovo.' Che racconto è?
 - Quale elemento rende fantastico un racconto?
 - Un racconto in cui un gatto apre una porta magica verso un altro mondo è realistico.
@@ -862,14 +851,14 @@ concetti: Digrammi e suoni; H, accento e apostrofo; Doppie e lettera M
 
 ## Ripasso: costruiamo la frase [lib-2-elementare-italiano-ripasso-la-frase] · MATTONE
 concetti: Il soggetto; Il predicato; Le espansioni
-- 'Il gatto beve il latte.' Chi compie l'azione?
-- Nella frase 'La maestra legge una fiaba' il predicato è LEGGE.
+- 'Dopo la pioggia l'arcobaleno colora il cielo.' Qual è il soggetto?
+- Nella frase 'Il vento soffia forte' il predicato è FORTE.
 - 'Domani andrò al parco con Giulia.' Quale parte dice QUANDO?
-- Il cane ___ in giardino.
-- 'Al mare nuotano i bambini.' Qual è il soggetto?
+- I bambini ___ in cortile.
+- In quale frase il soggetto è LA MAESTRA?
 - 'Il nonno legge il giornale in cucina.' Quale parte dice DOVE?
-- Quale gruppo di parole è una frase con senso compiuto?
-- Espandi la frase minima 'Sara canta' aggiungendo dove e quando.
+- Che cosa manca a 'Sul ramo, di mattina presto' per diventare una frase?
+- Nella frase 'Sabato Paolo gioca in giardino con il fratello' trova il soggetto, il predicato e le espansioni.
 
 ## Ripasso: nomi, articoli e verbi [lib-2-elementare-italiano-ripasso-grammatica] · RIPASSO
 concetti: Nomi e articoli; Gli aggettivi; I verbi; La frase
@@ -884,13 +873,13 @@ concetti: Nomi e articoli; Gli aggettivi; I verbi; La frase
 
 ## Ripasso: sinonimi, contrari, famiglie [lib-2-elementare-italiano-ripasso-lessico] · LESSICO
 concetti: I sinonimi; I contrari; Le famiglie di parole
-- Qual è un sinonimo di CONTENTO?
-- Il contrario di APERTO è CHIUSO.
-- Qual è il contrario di VELOCE?
-- Fiore, fioraio, fiorire e ___ sono parole della stessa famiglia.
+- Qual è un sinonimo di GETTARE?
+- Il contrario di VICINO è LONTANO.
+- Qual è il contrario di RICORDARE?
+- Pesce, pescatore, pescheria e ___ sono parole della stessa famiglia.
 - In quale coppia le parole sono sinonimi?
-- Quale parola NON appartiene alla famiglia di MARE?
-- 'Il bicchiere è pieno.' Con quale parola la frase dice il contrario?
+- Quale parola NON appartiene alla famiglia di SOLE?
+- 'La stanza è buia.' Con quale parola la frase dice il contrario?
 - Scrivi un sinonimo e un contrario di GRANDE e usali in due frasi.
 
 ## Ripasso: suoni difficili [lib-2-elementare-italiano-ripasso-digrammi] · SCHERZO
@@ -908,7 +897,7 @@ concetti: Suoni dolci e duri; GN, GLI e SC; QU, CU e CQU
 concetti: L'aspetto fisico; Il carattere; L'ordine della descrizione
 - Quale frase descrive l'aspetto fisico?
 - 'Mio fratello è timido' descrive il carattere.
-- Quale parola descrive il carattere?
+- Quale coppia di parole descrive solo il carattere?
 - Il papà ha gli occhi ___ come il cielo.
 - Da che cosa conviene iniziare la descrizione di una persona?
 - Quale frase mostra con un esempio che Sara è generosa?
@@ -981,6 +970,17 @@ concetti: La frase affermativa; La frase negativa; Dove va NON
 - La frase 'Non ho mai visto il mare' è negativa.
 - Scrivi una frase affermativa sulla tua giornata e trasformala in negativa.
 
+## Tacchino non è un piccolo tacco [lib-2-elementare-italiano-falsi-alterati] · LAMPONE
+concetti: Gli alterati veri; I falsi alterati; Come riconoscerli
+- Che cosa vuol dire CAGNOLINO?
+- TACCHINO vuol dire 'un piccolo tacco'.
+- Quale di queste parole è un falso alterato?
+- Un ragazzo grande e grosso è un ___.
+- Come capisci che POSTINO non è un 'piccolo posto'?
+- La FOCACCIA è...
+- Quale parola è un vero alterato di FIORE?
+- Perché COLLINA non è un 'piccolo collo'?
+
 ## Ti racconto una cosa vera [lib-2-elementare-italiano-racconto-esperienza-personale] · RICORDO
 concetti: Un fatto vissuto; Quando, dove, con chi; Emozioni e conclusione
 - Quale frase può iniziare un racconto di esperienza personale?
@@ -1001,7 +1001,7 @@ concetti: UN senza apostrofo; UN' con l'apostrofo; UNA davanti a consonante
 - Quale articolo usi davanti a FARFALLA?
 - In quale coppia gli articoli sono tutti e due giusti?
 - Come capisci se dopo UN ci vuole l'apostrofo?
-- Perché si scrive UN'OCA ma UN OROLOGIO?
+- Perché si scrive UN'ARANCIA ma UN ANANAS?
 
 ## UN, UNO, UNA: articoli indeterminativi [lib-2-elementare-italiano-articoli-indeterminativi] · UOVO
 concetti: Una cosa qualsiasi; UN e UNO; UNA e UN'
@@ -1072,7 +1072,7 @@ concetti: Il paragone con COME; Paragoni famosi; Descrizioni più vive
 ## Verbi in -ARE, -ERE, -IRE [lib-2-elementare-italiano-coniugazioni-are-ere-ire] · CANTARE
 concetti: L'infinito; Tre coniugazioni; Trovare la coniugazione
 - A quale coniugazione appartiene CANTARE?
-- DORMIRE è un verbo della terza coniugazione.
+- SENTIRE è un verbo della terza coniugazione.
 - Qual è l'infinito di 'io leggo'?
 - CORRERE finisce in ___, quindi è della seconda coniugazione.
 - 'Il bambino salta la corda.' Qual è l'infinito del verbo?
@@ -1085,7 +1085,7 @@ concetti: Le cinque vocali; Le consonanti; Sillabe e vocali
 - Quante sono le vocali?
 - La lettera R è una consonante.
 - Quale parola inizia con una vocale?
-- Ogni sillaba contiene almeno una ___.
+- Nella parola O-CA la prima sillaba è fatta da una sola ___.
 - Quante consonanti ci sono nella parola GATTO?
 - Metti le vocali in ordine alfabetico.
 - Quale di questi gruppi NON può essere una sillaba?

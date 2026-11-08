@@ -1,5 +1,5 @@
 # 2ª elementare · Geografia: 100 missioni valide
-# ultima bozza numerata: 11 · aggiornato 2026-11-08 18:57
+# ultima bozza numerata: 11 · aggiornato 2026-11-08 19:49
 # Per ogni missione: titolo [id], parola segreta, concetti, poi le domande (testo accorciato).
 
 ## Acque dolci e acque salate [lib-2-elementare-geografia-acque-dolci-e-salate] · SALE
@@ -72,7 +72,7 @@ concetti: Lo smog; Che danni fa; Gli alberi aiutano; Che cosa possiamo fare
 concetti: Il trasporto pubblico; Linee e fermate; La metropolitana; Meno auto, aria migliore
 - Che cosa serve di solito per salire sull'autobus?
 - Le persone salgono e scendono dall'autobus solo alla ___.
-- Dove corre la metropolitana nelle grandi città?
+- Dove trovi di solito la metropolitana?
 - La metropolitana non resta bloccata nel traffico delle auto.
 - Come riconosci quale autobus ti porta a scuola?
 - Perché il tram si chiama trasporto "pubblico"?
@@ -96,10 +96,21 @@ concetti: Il condominio; La villetta; Case tradizionali; Case e clima
 - Una villetta è una casa per una o poche famiglie, spesso con giardino.
 - Dove si trovano di solito le baite di legno e pietra?
 - In Puglia ci sono case antiche di pietra con il tetto a cono chiamate ___.
-- Perché le case di montagna hanno spesso i tetti molto inclinati?
-- Perché in città si costruiscono tanti condomini?
+- Un tempo, in riva ai laghi, si costruivano le palafitte, case sopra lunghi pali. Perché?
+- In un condominio, quali spazi usano insieme tutte le famiglie?
 - Perché in molti paesi caldi del Sud le case antiche hanno muri spessi e sono dipinte di bianco?
 - Perché le case non sono tutte uguali nei diversi luoghi?
+
+## Centro storico e periferia [lib-2-elementare-geografia-centro-e-periferia] · CENTRO
+concetti: Il centro storico; La periferia; Una città che cresce; Zone con funzioni diverse
+- Com'è di solito il centro storico di una città?
+- La periferia è la parte più esterna della città.
+- Quando gli abitanti aumentano, la città si ___ e nascono nuovi quartieri.
+- Perché nel centro storico molte vie sono strette?
+- In quale zona della città trovi di solito fabbriche e grandi magazzini?
+- Dove nascono di solito i quartieri nuovi di una città che cresce?
+- Perché i grandi centri commerciali si trovano spesso in periferia?
+- Racconta due differenze tra il centro storico e la periferia di una città.
 
 ## Città o paese? [lib-2-elementare-geografia-citta-o-paese] · BORGO
 concetti: Il paese; La città; Servizi diversi; Vantaggi e svantaggi
@@ -151,7 +162,7 @@ concetti: Che cos'è un plastico; Anche l'altezza; Rimpicciolire allo stesso mod
 - Nel plastico di una montagna si può vedere quanto è alta, a differenza della pianta.
 - Se guardi il plastico della classe dall'alto, puoi disegnarne la ___.
 - Nel plastico del quartiere la scuola è più grande della casa di Leo. Nella realtà com'è?
-- Nel plastico della classe hai fatto la cattedra più piccola di un banco. Che errore hai fatto?
+- Quale di questi è un plastico?
 - Metti in ordine come si costruisce il plastico della classe.
 - Che cosa mostra il plastico che la pianta non può mostrare?
 - Perché, per spiegare a un compagno com'è fatta una montagna, può essere più utile un plastico che una pianta?
@@ -211,21 +222,10 @@ concetti: I due lati del corpo; Oggetti a destra e sinistra; Chi ci sta di front
 - Sei seduto al banco: la finestra è alla tua sinistra e la porta alla tua destra. Allora finestra e porta sono…
 - Un turista ti sta di fronte e ti chiede dov'è la stazione. Tu sai che, da come sei girato tu, la stazione è a…
 
-## Di fronte: destra o sinistra? [lib-2-elementare-geografia-destra-sinistra-di-fronte] · FRONTE
-concetti: Dipende da chi guarda; Chi ti sta di fronte; Chi guarda come te; Girarsi cambia tutto
-- Se Marta guarda nella tua stessa direzione, la sua destra è dalla stessa parte della tua.
-- Per capire qual è la destra di un compagno, immagina di metterti al suo ___.
-- Tu e Paolo guardate la lavagna, uno accanto all'altro. La porta è alla tua sinistra. Dove si trova per Paolo?
-- Giulia ti sta di fronte e alza la mano destra. Da che parte la vedi?
-- Un amico ti sta di fronte. Il suo zaino è appoggiato alla sua sinistra. Da che parte lo vedi tu?
-- Hai la finestra alla tua destra. Ti giri per guardare il muro dietro di te. Dove si trova ora la finestra?
-- Vai a scuola e il parco è alla tua destra. Al ritorno, facendo la stessa strada al contrario, dove sarà il pa…
-- Un amico ti sta di fronte e ti chiede di prendere la penna "alla sua destra". Come fai a non sbagliare?
-
 ## Dighe e canali [lib-2-elementare-geografia-dighe-e-canali] · DIGA
 concetti: La diga; Il lago artificiale; I canali; Opere dell'uomo sull'acqua
 - Che cos'è una diga?
-- Dietro la diga si forma un lago ___, creato dall'uomo.
+- A Venezia e in altre città ci sono canali su cui si viaggia in ___.
 - Un canale è sempre un corso d'acqua nato da solo, senza l'aiuto dell'uomo.
 - A che cosa servono molti canali in pianura?
 - L'acqua che scende con forza da una diga fa girare grandi macchine. Che cosa si produce così?
@@ -299,17 +299,6 @@ concetti: Spazi e funzioni a scuola; Spazi interni ed esterni; Spazi di passaggi
 - All'ingresso della scuola i collaboratori scolastici accolgono gli alunni e controllano chi entra.
 - Se la tua scuola potesse avere un nuovo spazio, quale sceglieresti, per esempio un orto, un laboratorio o una…
 
-## Golfi, baie e promontori [lib-2-elementare-geografia-golfi-e-promontori] · GOLFO
-concetti: Il golfo; La baia; Il promontorio; Coste e porti
-- Come si chiama un ampio tratto di mare che entra dentro la terra?
-- Un piccolo golfo, spesso tranquillo e riparato, si chiama ___.
-- Il Golfo di Napoli è un tratto di mare che entra nella terra.
-- Che cos'è un promontorio?
-- Perché si dice che golfo e promontorio sono uno il contrario dell'altro?
-- Perché molti porti si trovano dentro golfi e baie?
-- Sulla punta di un promontorio si costruisce spesso un faro. Perché?
-- In una giornata di tempesta, dove porteresti la tua barca: in una baia o in mare aperto? Perché?
-
 ## I colori delle carte geografiche [lib-2-elementare-geografia-colori-delle-carte] · VERDE
 concetti: Il verde della pianura; Giallo, marrone e bianco; L'azzurro dell'acqua; Leggere i colori
 - Di che colore sono i fiumi e i laghi sulle carte geografiche?
@@ -323,8 +312,8 @@ concetti: Il verde della pianura; Giallo, marrone e bianco; L'azzurro dell'acqua
 
 ## I mari intorno all'Italia [lib-2-elementare-geografia-mari-d-italia] · TIRRENO
 concetti: Un Paese tra i mari; Il Mar Mediterraneo; I nomi dei mari; Coste e città di mare
-- Da quanti lati l'Italia è bagnata dal mare?
-- A nord l'Italia è chiusa dalle Alpi e non dal mare.
+- Quali montagne chiudono l'Italia a nord, dove non c'è il mare?
+- Il Mar Tirreno bagna la costa ovest dell'Italia.
 - Tutti i mari che bagnano l'Italia fanno parte del Mar ___.
 - Quale mare bagna l'Italia a est, dalla parte di Venezia?
 - Quale mare bagna la città di Genova?
@@ -335,7 +324,7 @@ concetti: Un Paese tra i mari; Il Mar Mediterraneo; I nomi dei mari; Coste e cit
 ## I negozi del quartiere [lib-2-elementare-geografia-botteghe-e-negozi] · BOTTEGA
 concetti: Negozi e prodotti; Negozi vicino a casa; L'insegna; Un lavoro per il quartiere
 - Dove compri il pane fresco?
-- In quale negozio compri le medicine?
+- Dove compri frutta e verdura fresche?
 - Il cartello sopra la porta del negozio, con il nome o un simbolo, si chiama ___.
 - Una croce verde luminosa indica di solito una farmacia.
 - Dove trovi giornali, riviste e figurine?
@@ -376,12 +365,23 @@ concetti: Il deserto; Sabbia e rocce; Caldo di giorno, freddo di notte; La vita 
 - In quale continente si trova il Sahara, il grande deserto caldo?
 - Perché chi attraversa il deserto indossa vestiti lunghi e larghi e si copre la testa?
 
+## Il ghiacciaio, fiume di ghiaccio [lib-2-elementare-geografia-ghiacciai] · NEVE
+concetti: Che cos'è un ghiacciaio; Dalla neve al ghiaccio; Un ghiaccio che si muove; Ghiacciai che si ritirano
+- Dove si trovano i ghiacciai in Italia?
+- Il ghiaccio di un ghiacciaio si forma dalla neve caduta in tanti inverni.
+- Il ghiacciaio si muove verso valle molto ___, così piano che a occhio non te ne accorgi.
+- Che cosa nasce dall'acqua che si scioglie in fondo al ghiacciaio?
+- Confronti due foto dello stesso ghiacciaio: una di tanti anni fa e una di oggi. Che cosa noti di solito?
+- Metti in ordine come nasce e vive un ghiacciaio.
+- Perché sul ghiacciaio si cammina solo insieme a una guida alpina esperta?
+- Se i ghiacciai delle Alpi si sciogliessero del tutto, che cosa succederebbe d'estate ai torrenti e ai fiumi c…
+
 ## Il mondo in una palla [lib-2-elementare-geografia-mappamondo] · GLOBO
 concetti: La Terra è rotonda; Il mappamondo; Terre e acque; Il planisfero
 - Che forma ha la Terra?
 - Che cos'è il mappamondo?
 - Sulla Terra c'è più acqua che terra.
-- Sul mappamondo i mari e gli oceani sono colorati di ___.
+- Il mappamondo è un modello della Terra ___, cioè fatto molto più piccolo.
 - Come si chiama la carta piatta che mostra tutta la Terra in una sola volta?
 - Perché il mappamondo può girare?
 - Che vantaggio ha il planisfero rispetto al mappamondo?
@@ -391,7 +391,7 @@ concetti: La Terra è rotonda; Il mappamondo; Terre e acque; Il planisfero
 concetti: Che cos'è il navigatore; I satelliti; Partenza e arrivo; Usarlo con attenzione
 - A che cosa serve il navigatore in automobile?
 - Grazie a che cosa il navigatore sa dove si trova l'automobile?
-- I satelliti del GPS girano intorno alla Terra, nello spazio.
+- Il navigatore conosce sempre tutte le strade chiuse e i lavori in corso.
 - Per usare il navigatore devi prima scrivere il luogo di ___, cioè dove vuoi andare.
 - Metti in ordine come si usa il navigatore.
 - La voce del navigatore dice: "Tra 100 metri girare a sinistra". Che cosa significa?
@@ -412,10 +412,10 @@ concetti: Il paesaggio cambia; Alberi e campi; Neve, ghiaccio e acqua; Attività
 ## Il Po, il fiume più lungo [lib-2-elementare-geografia-il-po] · DELTA
 concetti: Il fiume più lungo d'Italia; Dalla sorgente al mare; La Pianura Padana; Il delta
 - Qual è il fiume più lungo d'Italia?
-- Il Po nasce dal monte ___, in Piemonte.
+- Il Po nasce dal ___, una montagna delle Alpi in Piemonte.
 - In quale mare sfocia il Po?
 - La grande pianura attraversata dal Po si chiama Pianura Padana.
-- Metti in ordine il viaggio del Po.
+- Il Po scorre da ovest verso est. Da che parte si trova il mare in cui sfocia?
 - Che cos'è il delta di un fiume?
 - Perché la Pianura Padana è ottima per coltivare?
 - Che cosa può succedere quando il Po si riempie troppo d'acqua dopo giorni di pioggia? A che cosa servono gli …
@@ -455,7 +455,7 @@ concetti: L'acquedotto; L'acqua potabile; Il viaggio dell'acqua; Non sprecare
 
 ## In biblioteca [lib-2-elementare-geografia-la-biblioteca] · LIBRO
 concetti: Uno spazio pubblico per leggere; Gli spazi della biblioteca; Il prestito; Le regole
-- La biblioteca comunale che tipo di spazio è?
+- Che cosa puoi fare nella biblioteca comunale?
 - I libri della biblioteca sono sistemati in ordine sugli ___.
 - Un libro preso in prestito si può tenere per sempre.
 - Che cosa ti serve di solito per prendere in prestito un libro?
@@ -526,7 +526,7 @@ concetti: Gli Stati confinanti; Le Alpi come confine; Stati dentro l'Italia; Sta
 - Il confine tra l'Italia e gli Stati vicini passa soprattutto sulle Alpi.
 - La Città del ___ è uno Stato piccolissimo che si trova dentro Roma.
 - Quale piccolo Stato si trova tra l'Emilia-Romagna e le Marche?
-- Quale Stato si trova a ovest dell'Italia, oltre le Alpi?
+- Quale Stato confina con l'Italia a est, vicino a Trieste?
 - In vacanza in Austria, un bambino ti saluta. Quale lingua si parla in Austria?
 - Perché le montagne alte, come le Alpi, sono diventate spesso un confine tra Stati?
 
@@ -544,7 +544,7 @@ concetti: Che cos'è la bussola; L'ago indica il nord; Quando serve; Trovare gli
 ## La mappa dello zoo [lib-2-elementare-geografia-mappa-dello-zoo] · LEONE
 concetti: Simboli e legenda; Scegliere il percorso; Più vicino o più lontano; Mappa e realtà
 - Sulla mappa dello zoo vedi il simbolo di forchetta e coltello. Che cosa indica?
-- Dove trovi il significato di tutti i simboli della mappa?
+- Perché sulla mappa dello zoo si usano i simboli invece di scrivere tutto a parole?
 - Sulla mappa dello zoo i recinti sono più piccoli che nella realtà, ma sono messi nella posizione giusta.
 - Una lettera i dentro un cerchio indica di solito il punto ___.
 - Vuoi vedere le scimmie e poi le zebre. Sulla mappa le scimmie sono vicino all'ingresso, le zebre in fondo. Da…
@@ -576,7 +576,7 @@ concetti: Che cos'è la pianura; Come nasce una pianura; Pianura e agricoltura; 
 
 ## La stella della rosa dei venti [lib-2-elementare-geografia-rosa-dei-venti] · VENTI
 concetti: I quattro punti cardinali; La rosa dei venti; Il nord in alto; Altri nomi dei punti
-- Quanti sono i punti cardinali principali?
+- Che cosa indicano le lettere N, E, S, O sulla rosa dei venti?
 - Su una carta geografica, di solito, il nord si trova in alto.
 - Che cos'è la rosa dei venti?
 - Su una carta con il nord in alto, l'est si trova a ___.
@@ -615,14 +615,14 @@ concetti: Il lavoro dipende dal luogo; Lavori della campagna; Lavori della citt�
 - L'autista dell'autobus è un lavoro tipico della città.
 - Lavora in una fabbrica e costruisce oggetti con le macchine. Chi è?
 - Perché in un paese di mare ci sono tanti pescatori e in campagna tanti contadini?
-- Che cosa dà la campagna alla città?
+- Il trattore del contadino è stato costruito in una fabbrica di città. Che cosa ci mostra?
 - Perché si dice che la città e la campagna hanno bisogno una dell'altra?
 
 ## Le ombre cambiano col sole [lib-2-elementare-geografia-ombre-durante-il-giorno] · OMBRA
 concetti: Come nasce l'ombra; Ombra opposta al sole; Lunga o corta; Il sole e i punti cardinali
 - Quando si forma la tua ombra su un prato?
 - La tua ombra si trova sempre dalla stessa parte del sole.
-- Da quale parte sorge il sole?
+- Durante il giorno il sole sembra muoversi nel cielo. Da dove a dove?
 - Al mattino presto il sole è basso e le ombre sono ___.
 - In quale momento della giornata le ombre sono più corte?
 - Al mattino il sole è a est. Verso quale direzione cade la tua ombra?
@@ -675,23 +675,34 @@ concetti: Elementi naturali; Elementi antropici; Insieme nel paesaggio; Paesaggi
 
 ## Nei parchi naturali [lib-2-elementare-geografia-parchi-naturali] · PARCO
 concetti: Che cos'è un parco naturale; Le regole del parco; Animali protetti; Il guardiaparco
-- Perché si creano i parchi naturali?
+- In un parco naturale, che cosa proteggono le leggi?
 - In un parco naturale si possono raccogliere tutti i fiori che vuoi.
 - Durante una gita nel parco, che cosa fai con la carta della merenda?
-- Il simbolo del Parco del Gran Paradiso è lo ___, un animale con grandi corna.
+- Gli animali rari, che nei parchi vengono difesi perché non spariscano, si dicono animali ___.
 - Quale animale è protetto nel Parco Nazionale d'Abruzzo?
 - Chi controlla il parco e aiuta i visitatori?
 - Perché nel parco è importante camminare solo sui sentieri?
 - Che cosa succederebbe agli animali di un bosco se nessuno lo proteggesse e venisse tagliato?
 
+## Nel buio della grotta [lib-2-elementare-geografia-grotte] · GROTTA
+concetti: Che cos'è una grotta; L'acqua scava la roccia; Stalattiti e stalagmiti; Grotte famose e animali
+- Com'è di solito l'aria dentro una grotta?
+- Dentro una grotta profonda, senza luci, è quasi tutto buio.
+- Le punte di roccia che pendono dal soffitto della grotta si chiamano ___.
+- Chi ha scavato molte grotte dentro le montagne?
+- Come si forma una stalagmite?
+- Quale animale dorme appeso a testa in giù nelle grotte?
+- In quale regione si trovano le famose Grotte di Frasassi?
+- Perché nelle grotte bisogna stare attenti a non rompere stalattiti e stalagmiti?
+
 ## Nella foresta pluviale [lib-2-elementare-geografia-foresta-pluviale] · LIANA
 concetti: Caldo e pioggia; Alberi altissimi e fitti; Tantissimi animali; Proteggere la foresta
 - Com'è il clima della foresta pluviale?
 - Le piante lunghe che pendono dagli alberi, a cui si appendono le scimmie, si chiamano ___.
-- Nella foresta pluviale arriva poca luce al suolo, perché le chiome degli alberi sono fitte.
+- Nella foresta pluviale vivono pochissimi tipi di animali.
 - Quale di questi animali vive nella foresta pluviale?
 - Come si chiama la grande foresta pluviale dell'America del Sud?
-- Perché la foresta pluviale si chiama così?
+- In quale zona della Terra si trovano le foreste pluviali?
 - Che cosa succede agli animali quando si taglia una parte della foresta?
 - Perché nella parte più bassa della foresta pluviale crescono poche piantine e c'è sempre penombra?
 
@@ -703,7 +714,7 @@ concetti: Di notte senza sole; La Stella Polare; Il Grande Carro; Viaggiare con 
 - La Stella Polare, nel nostro cielo, sembra restare quasi ferma mentre le altre stelle girano.
 - La Stella Polare si trova più facilmente cercando il gruppo di stelle chiamato Grande ___.
 - Quante stelle brillanti formano il Grande Carro?
-- Di notte guardi verso la Stella Polare. Dove si trova il sud?
+- In quale di queste notti NON riesci a usare le stelle per orientarti?
 - Perché per i marinai di un tempo era importante saper riconoscere le stelle?
 
 ## Panchine, lampioni e cestini [lib-2-elementare-geografia-arredo-urbano] · CESTINO
@@ -714,7 +725,7 @@ concetti: Che cos'è l'arredo urbano; A che cosa servono; Beni di tutti; Punti d
 - Le panchine dei giardini pubblici appartengono solo a chi abita lì vicino.
 - L'arredo urbano è pagato con i soldi di tutti i ___.
 - Un ragazzo scrive con il pennarello su una panchina. Perché è un comportamento sbagliato?
-- Dai appuntamento a un amico in un parco. Quale punto di riferimento è il migliore?
+- Un amico ti dice: "Ci vediamo vicino al lampione rosso accanto alla panchina". Perché è una buona indicazione?
 - Perché in un parco è utile mettere tanti cestini?
 
 ## Passeggiata nel bosco [lib-2-elementare-geografia-il-bosco] · BOSCO
@@ -735,7 +746,7 @@ concetti: Mezzi di terra; Mezzi d'acqua; Mezzi d'aria; Scegliere il mezzo giusto
 - L'elicottero è un mezzo di trasporto d'aria.
 - Con quale mezzo si attraversa il mare per portare persone e auto su un'isola?
 - Per andare da casa tua al parco vicino, quale mezzo è più adatto?
-- Per raggiungere la Sardegna dalla penisola, quali mezzi si possono usare?
+- Bisogna portare tantissime merci pesanti da un continente all'altro, attraverso l'oceano. Quale mezzo è più a…
 - Perché l'elicottero si usa per soccorrere le persone in montagna?
 - Devi andare da Milano a una piccola isola del Sud. Quali mezzi potresti usare, uno dopo l'altro? Spiega perch…
 
@@ -820,8 +831,8 @@ concetti: Montagna e collina; La pianura; Fiumi, laghi e mare; Naturale e antrop
 concetti: Acque dolci; Acque salate; Acque ferme e in movimento; Opere dell'uomo sull'acqua
 - Quale di queste acque è dolce?
 - Il mare e l'oceano sono acque salate.
-- Perché non si può bere l'acqua del mare?
-- Quale di queste è un'acqua ferma?
+- Che differenza c'è tra l'acqua di un lago e quella del mare?
+- Una foglia cade in un lago calmo e un'altra in un fiume. Quale viene portata lontano dall'acqua?
 - Il fiume e il torrente sono acque in ___, perché scorrono.
 - Su un lago calmo si può fare il bagno con attenzione, in un torrente impetuoso no. Perché?
 - Quale di queste è un'opera costruita dall'uomo sull'acqua?
@@ -844,7 +855,7 @@ concetti: Spazi e funzioni; Pubblico e privato; Elementi fissi e mobili; Le rego
 - Un ospedale serve a curare i malati: questa è la sua ___.
 - Quale di questi spazi è privato?
 - Il lavandino della cucina è un elemento mobile, che si sposta facilmente.
-- Quale di questi elementi della palestra è mobile?
+- Quale di questi elementi della palestra è fisso?
 - La scuola è uno spazio pubblico. Che cosa significa?
 - Perché in ospedale si parla piano e non si corre nei corridoi?
 - Il pomeriggio la palestra della scuola ospita una squadra di pallavolo del paese. Perché uno stesso spazio pu…
@@ -873,13 +884,13 @@ concetti: I cartelli indicano la strada; I colori dei cartelli; Disegni che tutt
 
 ## Si parte dall'aeroporto [lib-2-elementare-geografia-aeroporto] · PISTA
 concetti: L'aeroporto; La pista; Prima di partire; La torre di controllo
-- Che cosa succede in un aeroporto?
+- Come si chiama chi guida l'aereo?
 - Gli aerei decollano e atterrano su una lunga strada chiamata ___.
 - Nella torre di controllo lavorano persone che dicono ai piloti quando possono decollare.
 - Metti in ordine che cosa fai in aeroporto prima di volare.
 - Perché in aeroporto si controllano i bagagli a mano?
 - Perché gli aeroporti si costruiscono spesso fuori città, in zone pianeggianti?
-- Che cosa controlla dalla sua torre il controllore di volo?
+- Perché la torre di controllo è molto alta?
 - Perché per un viaggio molto lungo, per esempio in un altro continente, si sceglie spesso l'aereo?
 
 ## Sopra, sotto e in mezzo [lib-2-elementare-geografia-sopra-sotto-in-mezzo] · SCALA
@@ -975,7 +986,7 @@ concetti: Parole per dare indicazioni; Usare i punti di riferimento; L'ordine de
 - Quale di queste frasi è un'indicazione stradale?
 - L'indicazione "Vai di là, è lì vicino" è molto precisa.
 - Per spiegare bene la strada è utile nominare i punti di ___, come una chiesa o un negozio.
-- Quale indicazione aiuta di più un amico a trovare casa tua?
+- Un amico ti dice: "Dopo la chiesa gira a destra, poi al semaforo gira a sinistra". Che cosa incontri per prim…
 - Luca deve andare dalla parte opposta rispetto a dove sta guardando. Quale indicazione gli dai?
 - Metti in ordine le indicazioni per andare dalla scuola alla biblioteca.
 - Quale di queste indicazioni è la più precisa?
@@ -984,10 +995,10 @@ concetti: Parole per dare indicazioni; Usare i punti di riferimento; L'ordine de
 ## Torrenti e cascate [lib-2-elementare-geografia-torrente-e-cascata] · CASCATA
 concetti: Il torrente; Fiume e torrente; La cascata; L'acqua scava
 - Dove scorre di solito un torrente?
-- D'estate alcuni torrenti possono restare quasi senz'acqua.
+- Il torrente fa spesso rumore perché l'acqua corre veloce tra i sassi.
 - Quando l'acqua di un fiume fa un salto da una roccia alta si forma una ___.
 - Che differenza c'è tra fiume e torrente?
-- Perché in primavera i torrenti di montagna sono pieni d'acqua?
+- Perché l'acqua del torrente scorre così veloce?
 - Perché i sassi nel letto di un torrente sono spesso lisci e rotondi?
 - In quale regione si trova la famosa Cascata delle Marmore?
 - Lungo il torrente vedi una roccia con un solco profondo scavato dall'acqua. Come si è formato?
@@ -1050,7 +1061,7 @@ concetti: Orientarsi con la mappa; Il pallino «Voi siete qui»; Scegliere il pe
 ## Venezia, città sull'acqua [lib-2-elementare-geografia-venezia-citta-sull-acqua] · GONDOLA
 concetti: Una città sulle isole; I canali; Barche e ponti; La laguna
 - Come si spostano le persone nel centro di Venezia?
-- Nel centro storico di Venezia circolano molte automobili.
+- A Venezia tanti ponti collegano tra loro le piccole isole.
 - Su che cosa è costruita Venezia?
 - Il canale più grande di Venezia si chiama Canal ___.
 - A Venezia, che cosa prende il posto delle strade?
@@ -1090,14 +1101,3 @@ concetti: Boschi e pascoli; Animali della montagna; Il lavoro in montagna; Costr
 - D'inverno molti turisti vanno in montagna. Quale lavoro aumenta in quella stagione?
 - Perché le strade di montagna fanno tante curve strette, a zig-zag?
 - Lo stambecco ha zoccoli adatti ad arrampicarsi sulle rocce. Perché è importante per un animale che vive in al…
-
-## Voi siete qui [lib-2-elementare-geografia-voi-siete-qui] · PUNTO
-concetti: Il pallino "Voi siete qui"; Confrontare mappa e realtà; Trovare la strada; Se ti perdi
-- Che cosa indica il pallino con la scritta "Voi siete qui" su una mappa appesa?
-- Per usare la mappa "Voi siete qui" devi prima trovare il pallino che indica dove sei.
-- Per arrivare al negozio di scarpe, segui sulla mappa i ___ partendo dal pallino.
-- Sulla mappa, a destra del pallino c'è una fontana. Ti guardi intorno e la vedi davvero alla tua destra. Che c…
-- Sulla mappa il bar è accanto alla scala mobile. Che cosa ti conviene cercare intorno a te?
-- Perché le mappe "Voi siete qui" sono vicino agli ingressi e agli incroci dei corridoi?
-- Ti accorgi di esserti perso in un grande centro commerciale. Che cosa è meglio fare?
-- Spiega a un compagno come si usa la mappa "Voi siete qui" per trovare i bagni.
